@@ -317,18 +317,20 @@ def send_telegram_notification(bot_token, chat_id, item, event_type, qty, old_st
     url = item['url']
     image_url = item.get('image_url')
     
-    # We only notify for Sold Out (meaning stock drops to 0) or sales
-    # But user requested: "send me the items that got sold out with its pictures and rate"
-    # So we trigger specifically for event_type == 'Sold Out' or if new_stock == 0
-    if new_stock != 0:
-        return
+    if event_type == 'Sold Out':
+        emoji = "🚨"
+        header = "SOLD OUT!"
+    else:
+        emoji = "🛍️"
+        header = "NEW SALE!"
         
-    caption = f"🚨 <b>SOLD OUT!</b> 🚨\n\n" \
+    caption = f"{emoji} <b>{header}</b> {emoji}\n\n" \
               f"<b>Product:</b> {product_title}\n" \
               f"<b>Variant:</b> {variant_title}\n" \
               f"<b>SKU:</b> {sku}\n" \
               f"<b>Price:</b> ₹{price:,.2f}\n" \
-              f"<b>Previous Stock:</b> {old_stock}\n\n" \
+              f"<b>Quantity Sold:</b> {qty}\n" \
+              f"<b>Stock Update:</b> {old_stock} ➡️ {new_stock}\n\n" \
               f"🔗 <a href='{url}'>View on Store</a>"
               
     if image_url:
@@ -342,7 +344,7 @@ def send_telegram_notification(bot_token, chat_id, item, event_type, qty, old_st
         try:
             r = requests.post(photo_url, json=payload, timeout=12)
             if r.status_code == 200:
-                print(f"Telegram photo notification sent for sold out: {product_title}")
+                print(f"Telegram photo notification sent for {event_type.lower()}: {product_title}")
                 return
             else:
                 print(f"Failed to send Telegram photo: HTTP {r.status_code} {r.text}")
@@ -360,7 +362,7 @@ def send_telegram_notification(bot_token, chat_id, item, event_type, qty, old_st
     try:
         r = requests.post(text_url, json=payload, timeout=12)
         if r.status_code == 200:
-            print(f"Telegram text notification sent for sold out: {product_title}")
+            print(f"Telegram text notification sent for {event_type.lower()}: {product_title}")
         else:
             print(f"Failed to send Telegram text: HTTP {r.status_code} {r.text}")
     except Exception as e:
@@ -483,8 +485,8 @@ def main():
                     evt, qty, old, new, it['url']
                 ])
                 
-                # Send telegram notification if it is a Sold Out event and tokens exist
-                if evt == 'Sold Out' and bot_token and chat_id:
+                # Send telegram notification if it is a Sale or Sold Out event and tokens exist
+                if evt in ['Sale', 'Sold Out'] and bot_token and chat_id:
                     send_telegram_notification(bot_token, chat_id, it, evt, qty, old, new)
     else:
         print("No changes detected.")
