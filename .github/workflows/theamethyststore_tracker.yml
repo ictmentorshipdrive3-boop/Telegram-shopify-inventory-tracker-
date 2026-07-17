@@ -1,9 +1,9 @@
-name: Shopify Inventory Tracker
+name: The Amethyst Store Tracker
 
 on:
   schedule:
-    - cron: '*/15 * * * *'  # Run every 15 minutes
-  workflow_dispatch:      # Allow manual trigger
+    - cron: '*/15 * * * *'  # Run every 15 minutes (fallback scheduler)
+  workflow_dispatch:      # Allow manual trigger via API / cron-job.org
 
 permissions:
   contents: write         # Allows the GITHUB_TOKEN to commit files back
@@ -41,7 +41,7 @@ jobs:
           git add -A
           # Only commit if there are differences to avoid committing empty runs
           if ! git diff-index --quiet HEAD; then
-            git commit -m "Auto-update inventory cache and sales log [skip ci]"
+            git commit -m "Auto-update Amethyst inventory cache [skip ci]"
             git push
           else
             echo "No inventory changes to commit."
