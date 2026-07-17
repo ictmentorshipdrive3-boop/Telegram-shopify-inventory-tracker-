@@ -304,6 +304,26 @@ def send_telegram_notification(bot_token, chat_id, item, event_type, qty, old_st
     except Exception as e:
         print(f"Telegram text exception: {e}")
 
+def send_telegram_status_ok(bot_token, chat_id):
+    timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    caption = f"ℹ️ <b>Shopify Tracker Status</b>\n\n" \
+              f"<b>Status:</b> Active (No stock changes detected)\n" \
+              f"<b>Timestamp:</b> {timestamp}"
+    url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+    payload = {
+        'chat_id': chat_id,
+        'text': caption,
+        'parse_mode': 'HTML',
+        'disable_notification': True,
+        'disable_web_page_preview': True
+    }
+    try:
+        r = requests.post(url, json=payload, timeout=12)
+        if r.status_code == 200:
+            print("Telegram status update sent (no changes).")
+    except Exception as e:
+        print(f"Telegram status exception: {e}")
+
 def main():
     parser = argparse.ArgumentParser(description="Shopify Actions Tracking Engine")
     parser.add_argument("--url", required=True, help="Base Shopify URL")
@@ -404,6 +424,8 @@ def main():
                     send_telegram_notification(bot_token, chat_id, it, evt, qty, old, new)
     else:
         print("No changes detected.")
+        if bot_token and chat_id:
+            send_telegram_status_ok(bot_token, chat_id)
         
     # Save cache
     with open(cache_path, 'w', encoding='utf-8') as f:
