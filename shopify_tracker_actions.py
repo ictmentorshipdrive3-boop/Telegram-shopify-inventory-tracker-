@@ -44,7 +44,9 @@ def harvest_storefront_token(domain):
         'theamethyststore.com': 'eab767e550e9011899a582d53084a6c2',
         'kanshijewels.com': '9a3eed2b46c608cf9357de80d28fac47',
         'kushals.com': '4642b1e870d93fd7e6588208b13000bc',
-        'dulhanjewels.com': '2a836df2b82846963a38b5ef407d6018'
+        'dulhanjewels.com': '2a836df2b82846963a38b5ef407d6018',
+        'rasasilver.com': 'fdd5c64e457d4d94593093bb17734bfe',
+        'muskanjewel.com': 'ece39a0ad683230d3ffd3737c38c3145'
     }
     clean_domain = domain.lower()
     if clean_domain.startswith('www.'):
