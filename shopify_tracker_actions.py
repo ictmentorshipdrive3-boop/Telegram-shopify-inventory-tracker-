@@ -80,49 +80,89 @@ def post_graphql_query(url, headers, payload, max_retries=5):
             time.sleep(3)
     return None
 
-def fetch_current_inventory(domain, token):
-    url = f"https://www.{domain}/api/2023-07/graphql.json"
+def fetch_current_inventory(domain, token, collection_handle=None):
+    url = f"https://{domain}/api/2023-07/graphql.json"
     headers = {
         'X-Shopify-Storefront-Access-Token': token,
         'Content-Type': 'application/json'
     }
     
-    query = """
-    query getAllProducts($cursor: String) {
-      products(first: 250, after: $cursor) {
-        pageInfo {
-          hasNextPage
-          endCursor
-        }
-        edges {
-          node {
-            title
-            handle
-            images(first: 1) {
-              edges {
-                node {
-                  url
-                }
+    if collection_handle:
+        query = """
+        query getCollectionProducts($cursor: String, $handle: String!) {
+          collection(handle: $handle) {
+            products(first: 250, after: $cursor) {
+              pageInfo {
+                hasNextPage
+                endCursor
               }
-            }
-            variants(first: 100) {
               edges {
                 node {
-                  id
                   title
-                  sku
-                  price {
-                    amount
+                  handle
+                  images(first: 1) {
+                    edges {
+                      node {
+                        url
+                      }
+                    }
                   }
-                  availableForSale
+                  variants(first: 100) {
+                    edges {
+                      node {
+                        id
+                        title
+                        sku
+                        price {
+                          amount
+                        }
+                        availableForSale
+                      }
+                    }
+                  }
                 }
               }
             }
           }
         }
-      }
-    }
-    """
+        """
+    else:
+        query = """
+        query getAllProducts($cursor: String) {
+          products(first: 250, after: $cursor) {
+            pageInfo {
+              hasNextPage
+              endCursor
+            }
+            edges {
+              node {
+                title
+                handle
+                images(first: 1) {
+                  edges {
+                    node {
+                      url
+                    }
+                  }
+                }
+                variants(first: 100) {
+                  edges {
+                    node {
+                      id
+                      title
+                      sku
+                      price {
+                        amount
+                      }
+                      availableForSale
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+        """
     
     active_variants = []
     out_of_stock_variants = []
@@ -131,12 +171,19 @@ def fetch_current_inventory(domain, token):
     
     while has_next:
         variables = {"cursor": cursor}
+        if collection_handle:
+            variables["handle"] = collection_handle
+            
         payload = {'query': query, 'variables': variables}
         data = post_graphql_query(url, headers, payload)
         if not data:
             break
             
-        products_conn = data.get('data', {}).get('products', {})
+        if collection_handle:
+            products_conn = data.get('data', {}).get('collection', {}).get('products', {})
+        else:
+            products_conn = data.get('data', {}).get('products', {})
+            
         if not products_conn:
             break
             
@@ -342,12 +389,14 @@ def send_telegram_status_ok(bot_token, chat_id):
 def main():
     parser = argparse.ArgumentParser(description="Shopify Actions Tracking Engine")
     parser.add_argument("--url", required=True, help="Base Shopify URL")
+    parser.add_argument("--collection", help="Optional collection handle filter")
     parser.add_argument("--output-dir", default=".", help="Directory for cache & log")
     args = parser.parse_args()
     
     domain = get_store_domain(args.url)
-    cache_path = os.path.join(args.output_dir, f"{domain.replace('.', '_')}_live_cache.json")
-    log_path = os.path.join(args.output_dir, f"{domain.replace('.', '_')}_live_sales_log.csv")
+    suffix = f"_{args.collection}" if args.collection else ""
+    cache_path = os.path.join(args.output_dir, f"{domain.replace('.', '_')}{suffix}_live_cache.json")
+    log_path = os.path.join(args.output_dir, f"{domain.replace('.', '_')}{suffix}_live_sales_log.csv")
     
     # Read Secrets from environment
     bot_token = os.environ.get("TELEGRAM_BOT_TOKEN")
@@ -377,7 +426,7 @@ def main():
         print("Error: Could not harvest storefront access token.")
         return
         
-    current = fetch_current_inventory(domain, token)
+    current = fetch_current_inventory(domain, token, args.collection)
     if not current:
         print("Error: Failed to fetch current inventory.")
         return
