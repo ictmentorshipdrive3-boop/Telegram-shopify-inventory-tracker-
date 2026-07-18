@@ -6092,15 +6092,6 @@
     "url": "https://www.kanshijewels.com/products/jadau-kundan-chokar-46?variant=gid://shopify/ProductVariant/50047844516140",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaukundanchokar2800.jpg?v=1729764554"
   },
-  "gid://shopify/ProductVariant/50047854018860": {
-    "product_title": "Hasli necklace",
-    "variant_title": "Default Title",
-    "sku": "NK377",
-    "price": 2835.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/hasli-necklace?variant=gid://shopify/ProductVariant/50047854018860",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Haslinecklace2800.jpg?v=1729764679"
-  },
   "gid://shopify/ProductVariant/50047858671916": {
     "product_title": "Hasli necklace",
     "variant_title": "Default Title",
@@ -10219,7 +10210,7 @@
     "variant_title": "Default Title",
     "sku": "AC06",
     "price": 2360.0,
-    "stock": 4,
+    "stock": 2,
     "url": "https://www.kanshijewels.com/products/jadau-maatil?variant=gid://shopify/ProductVariant/52737325662508",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/JADAUMAATIL2360.jpg?v=1773124887"
   },
@@ -12913,6 +12904,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-pearl-necklace-earring-set-2?variant=gid://shopify/ProductVariant/50047801819436",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaukundanpearlnecklaceearringset4900_-_2.jpg?v=1729764045"
+  },
+  "gid://shopify/ProductVariant/50047854018860": {
+    "product_title": "Hasli necklace",
+    "variant_title": "Default Title",
+    "sku": "NK377",
+    "price": 2835.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/hasli-necklace?variant=gid://shopify/ProductVariant/50047854018860",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Haslinecklace2800.jpg?v=1729764679"
   },
   "gid://shopify/ProductVariant/50048015139116": {
     "product_title": "Jadau Kundan Jhumkas",
