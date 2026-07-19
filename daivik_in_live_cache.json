@@ -20344,7 +20344,7 @@
     "variant_title": "Default Title",
     "sku": "1388",
     "price": 1399.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.daivik.in/products/a-31?variant=gid://shopify/ProductVariant/48267346772190",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CF4CC19F-42B5-4786-BFF0-3476E06D63F1.jpg?v=1779290628"
   },
@@ -21319,6 +21319,15 @@
     "stock": 2,
     "url": "https://www.daivik.in/products/antique-gold-lakshmi-temple-necklace-with-earrings?variant=gid://shopify/ProductVariant/48422274859230",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0548.jpg?v=1783693151"
+  },
+  "gid://shopify/ProductVariant/48423947796702": {
+    "product_title": "Victorian Flower Pendant Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "283",
+    "price": 3499.0,
+    "stock": 5,
+    "url": "https://www.daivik.in/products/victorian-flower-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48423947796702",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9002.jpg?v=1783748787"
   },
   "gid://shopify/ProductVariant/48424071037150": {
     "product_title": "Victorian Bridal Short and Long Combo Necklace with Earrings",
@@ -30697,14 +30706,5 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/elakkathali-ruby-choker-with-earrings?variant=gid://shopify/ProductVariant/48403799408862",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6A18C555-AF72-4C73-B410-F4E8C48D53A0.jpg?v=1782993326"
-  },
-  "gid://shopify/ProductVariant/48423947796702": {
-    "product_title": "Victorian Flower Pendant Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "283",
-    "price": 3499.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/victorian-flower-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48423947796702",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9002.jpg?v=1783748787"
   }
 }
