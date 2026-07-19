@@ -47,7 +47,8 @@ def harvest_storefront_token(domain):
         'dulhanjewels.com': '2a836df2b82846963a38b5ef407d6018',
         'rasasilver.com': 'fdd5c64e457d4d94593093bb17734bfe',
         'muskanjewel.com': 'ece39a0ad683230d3ffd3737c38c3145',
-        'tarinika.in': '709a4ea5ead45a5446361e2af1daa0dc'
+        'tarinika.in': '709a4ea5ead45a5446361e2af1daa0dc',
+        'daivik.in': '2d20ed5b79d467bbbc827f43162d6f26'
     }
     clean_domain = domain.lower()
     if clean_domain.startswith('www.'):
