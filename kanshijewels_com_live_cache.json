@@ -4508,15 +4508,6 @@
     "url": "https://www.kanshijewels.com/products/jadau-kundan-earrings-127?variant=gid://shopify/ProductVariant/48242838110508",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2500_48cb4243-88b3-4b8c-9a81-fc7223f7b5e1.jpg?v=1710925339"
   },
-  "gid://shopify/ProductVariant/48242842632492": {
-    "product_title": "Jadau Kundan Choker",
-    "variant_title": "Default Title",
-    "sku": "NK491",
-    "price": 2310.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-kundan-chokar-26?variant=gid://shopify/ProductVariant/48242842632492",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2200_1_eb971a6d-3041-4e84-bb23-a233dbec2650.jpg?v=1710925465"
-  },
   "gid://shopify/ProductVariant/48242852659500": {
     "product_title": "Jadau Kundan Earrings",
     "variant_title": "Default Title",
@@ -7465,7 +7456,7 @@
     "variant_title": "Default Title",
     "sku": "NK197",
     "price": 546.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.kanshijewels.com/products/multipurpose-chain?variant=gid://shopify/ProductVariant/50702819459372",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Multipurposechain490.heic?v=1741258068"
   },
@@ -12625,6 +12616,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-earrings-128?variant=gid://shopify/ProductVariant/48242838438188",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2900_f7329514-0711-4180-8ce9-17df5946163e.jpg?v=1710925348"
+  },
+  "gid://shopify/ProductVariant/48242842632492": {
+    "product_title": "Jadau Kundan Choker",
+    "variant_title": "Default Title",
+    "sku": "NK491",
+    "price": 2310.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-kundan-chokar-26?variant=gid://shopify/ProductVariant/48242842632492",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2200_1_eb971a6d-3041-4e84-bb23-a233dbec2650.jpg?v=1710925465"
   },
   "gid://shopify/ProductVariant/48242929008940": {
     "product_title": "Jadau Kundan Necklace Set",
