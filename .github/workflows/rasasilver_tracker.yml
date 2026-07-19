@@ -32,7 +32,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          python shopify_tracker_actions.py --url "https://rasasilver.com" --collection "victorian-collection" --output-dir "."
+          python shopify_tracker_actions.py --url "https://rasasilver.com" --output-dir "."
 
       - name: Commit and Push Changes
         run: |
