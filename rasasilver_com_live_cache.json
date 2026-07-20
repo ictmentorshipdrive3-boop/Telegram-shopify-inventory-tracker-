@@ -1147,7 +1147,7 @@
     "variant_title": "Default Title",
     "sku": "R2176",
     "price": 5900.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/ancient-shine-studs?variant=gid://shopify/ProductVariant/50159118516521",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Screenshot2025-04-20213951.png?v=1745165466"
   },
@@ -5107,7 +5107,7 @@
     "variant_title": "Default Title",
     "sku": "R11732",
     "price": 3900.0,
-    "stock": 5,
+    "stock": 6,
     "url": "https://www.rasasilver.com/products/emerael-halo-studs?variant=gid://shopify/ProductVariant/50809355796777",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2435.jpg?v=1756538233"
   },
@@ -6808,7 +6808,7 @@
     "variant_title": "Default Title",
     "sku": "R14315",
     "price": 4000.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/shreebindu-studs?variant=gid://shopify/ProductVariant/51300590092585",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_1_Oct1090_resized.jpg?v=1759755176"
   },
@@ -8887,7 +8887,7 @@
     "variant_title": "Default Title",
     "sku": "R17484",
     "price": 3600.0,
-    "stock": 4,
+    "stock": 5,
     "url": "https://www.rasasilver.com/products/divine-bells-studs?variant=gid://shopify/ProductVariant/51488529056041",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0081copy_resized_1.jpg?v=1762931541"
   },
@@ -8896,7 +8896,7 @@
     "variant_title": "Default Title",
     "sku": "R17344",
     "price": 5600.0,
-    "stock": 6,
+    "stock": 7,
     "url": "https://www.rasasilver.com/products/chola-charm-studs?variant=gid://shopify/ProductVariant/51488623395113",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0049_copy_resized.jpg?v=1769671016"
   },
@@ -21059,6 +21059,15 @@
     "url": "https://www.rasasilver.com/products/leaflina-hoops?variant=gid://shopify/ProductVariant/53129741402409",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0278_resized.jpg?v=1781007051"
   },
+  "gid://shopify/ProductVariant/53129747595561": {
+    "product_title": "Kamakshi Temple Ring",
+    "variant_title": "Default Title",
+    "sku": "R28216",
+    "price": 3200.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/kamakshi-temple-ring?variant=gid://shopify/ProductVariant/53129747595561",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11837_resized.jpg?v=1781176872"
+  },
   "gid://shopify/ProductVariant/53129995026729": {
     "product_title": "Prism Dual Necklace",
     "variant_title": "Default Title",
@@ -25234,6 +25243,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/mangala-kundan-jhumki?variant=gid://shopify/ProductVariant/53329696915753",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42388_resized.jpg?v=1784181140"
+  },
+  "gid://shopify/ProductVariant/53329722966313": {
+    "product_title": "Sitare Kundan Jhumki",
+    "variant_title": "Default Title",
+    "sku": "R32146",
+    "price": 16600.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/sitare-kundan-jhumki?variant=gid://shopify/ProductVariant/53329722966313",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42397_resized.jpg?v=1784181503"
   },
   "gid://shopify/ProductVariant/53333233434921": {
     "product_title": "Queen\u2019s Moissanite Tikka",
@@ -46907,15 +46925,6 @@
     "url": "https://www.rasasilver.com/products/vainika-stone-ring?variant=gid://shopify/ProductVariant/53129729802537",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11840_resized.jpg?v=1781176678"
   },
-  "gid://shopify/ProductVariant/53129747595561": {
-    "product_title": "Kamakshi Temple Ring",
-    "variant_title": "Default Title",
-    "sku": "R28216",
-    "price": 3200.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/kamakshi-temple-ring?variant=gid://shopify/ProductVariant/53129747595561",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11837_resized.jpg?v=1781176872"
-  },
   "gid://shopify/ProductVariant/53129834823977": {
     "product_title": "Dual Aura Necklace",
     "variant_title": "Default Title",
@@ -48922,15 +48931,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/shobha-blossom-kundan-jhumki?variant=gid://shopify/ProductVariant/53329702158633",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42371_resized.jpg?v=1784181386"
-  },
-  "gid://shopify/ProductVariant/53329722966313": {
-    "product_title": "Sitare Kundan Jhumki",
-    "variant_title": "Default Title",
-    "sku": "R32146",
-    "price": 16600.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/sitare-kundan-jhumki?variant=gid://shopify/ProductVariant/53329722966313",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42397_resized.jpg?v=1784181503"
   },
   "gid://shopify/ProductVariant/53329738891561": {
     "product_title": "Temple Rasleela Jhumki",
