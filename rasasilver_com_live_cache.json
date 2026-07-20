@@ -4999,7 +4999,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R11816",
     "price": 2790.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.rasasilver.com/products/kesarvi-studs?variant=gid://shopify/ProductVariant/50809295503657",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2579.jpg?v=1756538067"
   },
@@ -16847,15 +16847,6 @@
     "url": "https://www.rasasilver.com/products/mayil-nakshi-necklace?variant=gid://shopify/ProductVariant/52728860868905",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5013Fa_resized.jpg?v=1772104412"
   },
-  "gid://shopify/ProductVariant/52728865751337": {
-    "product_title": "Mor Kireetam Nakshi Necklace",
-    "variant_title": "Default Title",
-    "sku": "R25976",
-    "price": 64800.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/nakshi-necklace-1?variant=gid://shopify/ProductVariant/52728865751337",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5000Fa_resized.jpg?v=1772104554"
-  },
   "gid://shopify/ProductVariant/52728916443433": {
     "product_title": "Adi-Lakshmi Temple Necklace",
     "variant_title": "Default Title",
@@ -20722,7 +20713,7 @@
     "variant_title": "Default Title",
     "sku": "R18912",
     "price": 7000.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/lakshika-temple-studs-copy?variant=gid://shopify/ProductVariant/53108417724713",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May1046_resized.jpg?v=1781873478"
   },
@@ -42352,6 +42343,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/mor-madhavi-nath-1?variant=gid://shopify/ProductVariant/52724317716777",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0134copy_resized_4a4dccc5-7ca1-4bf2-984f-feede096ca19.jpg?v=1763632603"
+  },
+  "gid://shopify/ProductVariant/52728865751337": {
+    "product_title": "Mor Kireetam Nakshi Necklace",
+    "variant_title": "Default Title",
+    "sku": "R25976",
+    "price": 64800.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/nakshi-necklace-1?variant=gid://shopify/ProductVariant/52728865751337",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5000Fa_resized.jpg?v=1772104554"
   },
   "gid://shopify/ProductVariant/52728877351209": {
     "product_title": "Mayulika Nakshi Necklace Set",
