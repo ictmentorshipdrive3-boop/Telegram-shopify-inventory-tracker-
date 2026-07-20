@@ -4783,7 +4783,7 @@
     "variant_title": "Default Title",
     "sku": "R11575",
     "price": 22000.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/pearcella-aurora-necklace-set?variant=gid://shopify/ProductVariant/50774156181801",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_07Aug0668.jpg?v=1756191805"
   },
@@ -4810,7 +4810,7 @@
     "variant_title": "Default Title",
     "sku": "R4448",
     "price": 17900.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/oceanis-bloom-danglers?variant=gid://shopify/ProductVariant/50788923113769",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP632.jpg?v=1757405179"
   },
@@ -14012,15 +14012,6 @@
     "url": "https://www.rasasilver.com/products/garden-of-victorian-necklace-set?variant=gid://shopify/ProductVariant/52463957639465",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan0938_resized.jpg?v=1769076878"
   },
-  "gid://shopify/ProductVariant/52463957672233": {
-    "product_title": "Garden Of Victorian Necklace Set",
-    "variant_title": "Mint Green",
-    "sku": "R21460",
-    "price": 30000.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/garden-of-victorian-necklace-set?variant=gid://shopify/ProductVariant/52463957672233",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan0938_resized.jpg?v=1769076878"
-  },
   "gid://shopify/ProductVariant/52463956197673": {
     "product_title": "Suvarya Victorian Necklace Set",
     "variant_title": "Default Title",
@@ -16865,6 +16856,15 @@
     "url": "https://www.rasasilver.com/products/padmaratna-red-stone-necklace?variant=gid://shopify/ProductVariant/52682215424297",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb3990.jpg?v=1771666611"
   },
+  "gid://shopify/ProductVariant/52682258055465": {
+    "product_title": "Hemangi Kasu Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R25097",
+    "price": 23900.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/hemangi-kasu-short-necklace?variant=gid://shopify/ProductVariant/52682258055465",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4009.jpg?v=1771667331"
+  },
   "gid://shopify/ProductVariant/52682275389737": {
     "product_title": "Maniratika Laxmi Temple Necklace",
     "variant_title": "Default Title",
@@ -17221,7 +17221,7 @@
     "variant_title": "Default Title",
     "sku": "R25383",
     "price": 3800.0,
-    "stock": 8,
+    "stock": 9,
     "url": "https://www.rasasilver.com/products/back-chain-copy?variant=gid://shopify/ProductVariant/52737922302249",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Screenshot2026-02-23at5_17_18PMcopy_jpg.jpg?v=1771847962"
   },
@@ -22110,6 +22110,15 @@
     "price": 6300.0,
     "stock": 1,
     "url": "https://www.rasasilver.com/products/vionna-spark-cz-pendant?variant=gid://shopify/ProductVariant/53158352617769",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11439_resized.jpg?v=1780904040"
+  },
+  "gid://shopify/ProductVariant/53158352650537": {
+    "product_title": "Vionna Spark CZ Pendant",
+    "variant_title": "Ruby Pink",
+    "sku": "R25522",
+    "price": 6300.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/vionna-spark-cz-pendant?variant=gid://shopify/ProductVariant/53158352650537",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11439_resized.jpg?v=1780904040"
   },
   "gid://shopify/ProductVariant/53150209540393": {
@@ -41759,6 +41768,15 @@
     "url": "https://www.rasasilver.com/products/nritya-antique-necklace?variant=gid://shopify/ProductVariant/52463833645353",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan0757_resized.jpg?v=1769074860"
   },
+  "gid://shopify/ProductVariant/52463957672233": {
+    "product_title": "Garden Of Victorian Necklace Set",
+    "variant_title": "Mint Green",
+    "sku": "R21460",
+    "price": 30000.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/garden-of-victorian-necklace-set?variant=gid://shopify/ProductVariant/52463957672233",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan0938_resized.jpg?v=1769076878"
+  },
   "gid://shopify/ProductVariant/52463964520745": {
     "product_title": "Amrita Temple Necklace",
     "variant_title": "Default Title",
@@ -44089,15 +44107,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/swarnaprada-pear-stone-necklace?variant=gid://shopify/ProductVariant/52682205331753",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4592_resized.jpg?v=1771662533"
-  },
-  "gid://shopify/ProductVariant/52682258055465": {
-    "product_title": "Hemangi Kasu Temple Necklace",
-    "variant_title": "Default Title",
-    "sku": "R25097",
-    "price": 23900.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/hemangi-kasu-short-necklace?variant=gid://shopify/ProductVariant/52682258055465",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4009.jpg?v=1771667331"
   },
   "gid://shopify/ProductVariant/52682298196265": {
     "product_title": "Hiranyavalli Laxmi Temple Necklace",
@@ -47887,15 +47896,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/gulnaar-oxidised-jhumki-copy?variant=gid://shopify/ProductVariant/53150176084265",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11667_resized.jpg?v=1780726683"
-  },
-  "gid://shopify/ProductVariant/53158352650537": {
-    "product_title": "Vionna Spark CZ Pendant",
-    "variant_title": "Ruby Pink",
-    "sku": "R25522",
-    "price": 6300.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/vionna-spark-cz-pendant?variant=gid://shopify/ProductVariant/53158352650537",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11439_resized.jpg?v=1780904040"
   },
   "gid://shopify/ProductVariant/53150260134185": {
     "product_title": "Temple Kasu Jhumki",
