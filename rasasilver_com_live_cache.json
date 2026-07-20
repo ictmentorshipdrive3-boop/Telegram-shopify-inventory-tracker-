@@ -6947,15 +6947,6 @@
     "url": "https://www.rasasilver.com/products/chain-pendant-10?variant=gid://shopify/ProductVariant/51345625153833",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS488.jpg?v=1760361136"
   },
-  "gid://shopify/ProductVariant/51345679515945": {
-    "product_title": "Liora Loop Chain Pendant",
-    "variant_title": "Default Title",
-    "sku": "R14152",
-    "price": 4400.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/chain-pendant-11?variant=gid://shopify/ProductVariant/51345679515945",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS485.jpg?v=1760361760"
-  },
   "gid://shopify/ProductVariant/51345692328233": {
     "product_title": "Pearlora Bloom Chain Pendant",
     "variant_title": "Default Title",
@@ -16852,7 +16843,7 @@
     "variant_title": "Default Title",
     "sku": "R25494",
     "price": 12780.0,
-    "stock": 4,
+    "stock": 5,
     "url": "https://www.rasasilver.com/products/petalix-cz-necklace?variant=gid://shopify/ProductVariant/52712526741801",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00263copy_resized.jpg?v=1772195732"
   },
@@ -21991,7 +21982,7 @@
     "variant_title": "Default Title",
     "sku": "R28050",
     "price": 32500.0,
-    "stock": 5,
+    "stock": 6,
     "url": "https://www.rasasilver.com/products/vritta-cz-necklace-set-copy?variant=gid://shopify/ProductVariant/53161097494825",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0516_resized.jpg?v=1780901779"
   },
@@ -31840,6 +31831,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/bracelet-8?variant=gid://shopify/ProductVariant/51345620238633",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0356copy.jpg?v=1768642080"
+  },
+  "gid://shopify/ProductVariant/51345679515945": {
+    "product_title": "Liora Loop Chain Pendant",
+    "variant_title": "Default Title",
+    "sku": "R14152",
+    "price": 4400.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/chain-pendant-11?variant=gid://shopify/ProductVariant/51345679515945",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS485.jpg?v=1760361760"
   },
   "gid://shopify/ProductVariant/51345686659369": {
     "product_title": "Lumina Arc Chain Pendant",
