@@ -8158,7 +8158,7 @@
     "variant_title": "2.6",
     "sku": "1503",
     "price": 3299.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/c?variant=gid://shopify/ProductVariant/45908646854878",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_a65ea7d9-3428-4630-ac3c-113d8e2c52c3.jpg?v=1727018763"
   },
@@ -11407,7 +11407,7 @@
     "variant_title": "2.6",
     "sku": "1579",
     "price": 1499.0,
-    "stock": 47,
+    "stock": 46,
     "url": "https://www.daivik.in/products/ad-stone-bangles-price-for-a-pair?variant=gid://shopify/ProductVariant/46401150222558",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3679.heic?v=1742104840"
   },
@@ -13090,7 +13090,7 @@
     "variant_title": "Default Title",
     "sku": "1312",
     "price": 799.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.daivik.in/products/pearl-kemp-pendant-hasli-necklace-with-earrings?variant=gid://shopify/ProductVariant/47082104389854",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5AB6A234-899F-4935-B528-85C63C771392.jpg?v=1752658366"
   },
@@ -16234,15 +16234,6 @@
     "stock": 8,
     "url": "https://www.daivik.in/products/victorian-elephant-simple-choker-in-3-colours?variant=gid://shopify/ProductVariant/47550046240990",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/43138CF5-670A-46CE-9EEB-B8CCDB9AABB2.jpg?v=1758557853"
-  },
-  "gid://shopify/ProductVariant/47551215468766": {
-    "product_title": "Lakshmi Short and Long Combo Set",
-    "variant_title": "Default Title",
-    "sku": "1325",
-    "price": 1999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/lakshmi-short-and-long-combo-set?variant=gid://shopify/ProductVariant/47551215468766",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F0E8273A-450C-4A75-8619-D30AEEF3924D.jpg?v=1758604516"
   },
   "gid://shopify/ProductVariant/47554818179294": {
     "product_title": "Bridal Antique Pearl and Elephant Bangles Combo (Price for Both Hands)",
@@ -20632,7 +20623,7 @@
     "variant_title": "2.6",
     "sku": "1906",
     "price": 3199.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/ad-ruby-pearl-floral-combo?variant=gid://shopify/ProductVariant/48315170914526",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6BB7EEE1-75CA-4229-8BFB-F555807A583C.jpg?v=1780914224"
   },
@@ -20704,7 +20695,7 @@
     "variant_title": "2.6",
     "sku": "1910",
     "price": 3199.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/ad-green-pearl-floral-combo?variant=gid://shopify/ProductVariant/48333256065246",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6850.jpg?v=1781280866"
   },
@@ -29248,6 +29239,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/peacock-jhumkas-with-earcuff?variant=gid://shopify/ProductVariant/47546311049438",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EAA88D3A-35DC-409F-871D-411ABE21D603.jpg?v=1758367888"
+  },
+  "gid://shopify/ProductVariant/47551215468766": {
+    "product_title": "Lakshmi Short and Long Combo Set",
+    "variant_title": "Default Title",
+    "sku": "1325",
+    "price": 1999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/lakshmi-short-and-long-combo-set?variant=gid://shopify/ProductVariant/47551215468766",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F0E8273A-450C-4A75-8619-D30AEEF3924D.jpg?v=1758604516"
   },
   "gid://shopify/ProductVariant/47563610685662": {
     "product_title": "Lakshmi Ruby Green Bangles (Price for both Hands)",
