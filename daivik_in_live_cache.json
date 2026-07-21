@@ -179,15 +179,6 @@
     "url": "https://www.daivik.in/products/178?variant=gid://shopify/ProductVariant/32849805049915",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_0202.jpg?v=1584721355"
   },
-  "gid://shopify/ProductVariant/34430554472601": {
-    "product_title": "Regular Use Stone Set Of Four Bangles",
-    "variant_title": "2.4",
-    "sku": "199",
-    "price": 1499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/199?variant=gid://shopify/ProductVariant/34430554472601",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/regular-use-stone-set-of-four-bangles-879.png?v=1594319536"
-  },
   "gid://shopify/ProductVariant/34430554505369": {
     "product_title": "Regular Use Stone Set Of Four Bangles",
     "variant_title": "2.6",
@@ -220,7 +211,7 @@
     "variant_title": "Default Title",
     "sku": "215",
     "price": 3499.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/215?variant=gid://shopify/ProductVariant/34432330399897",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_3672.jpg?v=1590311277"
   },
@@ -2506,7 +2497,7 @@
     "variant_title": "Default Title",
     "sku": "240",
     "price": 4499.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/g?variant=gid://shopify/ProductVariant/42894130774238",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_cf4314e3-8ac9-493b-8a29-8d96fad1954c.heic?v=1654178595"
   },
@@ -9463,7 +9454,7 @@
     "variant_title": "Default Title",
     "sku": "1504",
     "price": 599.0,
-    "stock": 25,
+    "stock": 24,
     "url": "https://www.daivik.in/products/simple-ruby-green-flower-anklet?variant=gid://shopify/ProductVariant/45977990037726",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E7DC80CC-B691-47DA-BB27-8C71F9BADB1A.jpg?v=1729698852"
   },
@@ -20425,7 +20416,7 @@
     "variant_title": "Default Title",
     "sku": "1894",
     "price": 699.0,
-    "stock": 29,
+    "stock": 28,
     "url": "https://www.daivik.in/products/peacock-pearl-bugadi-top-earrings?variant=gid://shopify/ProductVariant/48282361069790",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1785DCD3-2E05-416B-9668-563AD35144F9.jpg?v=1779727074"
   },
@@ -20524,7 +20515,7 @@
     "variant_title": "1",
     "sku": "3539",
     "price": 199.0,
-    "stock": 6,
+    "stock": 2,
     "url": "https://www.daivik.in/products/handmade-lotus-flower-u-pin?variant=gid://shopify/ProductVariant/48294879232222",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6541_901f273f-d515-4509-8c32-1781f48291b7.jpg?v=1780223307"
   },
@@ -21535,6 +21526,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/18?variant=gid://shopify/ProductVariant/32600557649979",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_5e6e7a93-bcb3-4c15-a2d3-f871fbf7f3fb.jpg?v=1641477506"
+  },
+  "gid://shopify/ProductVariant/34430554472601": {
+    "product_title": "Regular Use Stone Set Of Four Bangles",
+    "variant_title": "2.4",
+    "sku": "199",
+    "price": 1499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/199?variant=gid://shopify/ProductVariant/34430554472601",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/regular-use-stone-set-of-four-bangles-879.png?v=1594319536"
   },
   "gid://shopify/ProductVariant/43956896530654": {
     "product_title": "Regular Use Kemp Stone Bangles",
