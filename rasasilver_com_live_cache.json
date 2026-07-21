@@ -6704,15 +6704,6 @@
     "url": "https://www.rasasilver.com/products/necklace-set-44?variant=gid://shopify/ProductVariant/51274731913513",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_122_Pics_1Oct29859.jpg?v=1759903672"
   },
-  "gid://shopify/ProductVariant/53278042489129": {
-    "product_title": "Moonbliss Antique Studs",
-    "variant_title": "Default Title",
-    "sku": "R23317",
-    "price": 6700.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/studs-7?variant=gid://shopify/ProductVariant/53278042489129",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May1050_resized.jpg?v=1781863506"
-  },
   "gid://shopify/ProductVariant/51274753868073": {
     "product_title": "Orb of Charm Danglers",
     "variant_title": "Swarovski",
@@ -16222,7 +16213,7 @@
     "variant_title": "2.7",
     "sku": "R25310",
     "price": 18550.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/hariyali-stone-bangles?variant=gid://shopify/ProductVariant/52707622289705",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4102.jpg?v=1771394910"
   },
@@ -16231,7 +16222,7 @@
     "variant_title": "2.9",
     "sku": "R25310",
     "price": 18550.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/hariyali-stone-bangles?variant=gid://shopify/ProductVariant/52707622322473",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4102.jpg?v=1771394910"
   },
@@ -29491,6 +29482,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/studs-6?variant=gid://shopify/ProductVariant/51274746069289",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_1_Oct1009.jpg?v=1759737890"
+  },
+  "gid://shopify/ProductVariant/53278042489129": {
+    "product_title": "Moonbliss Antique Studs",
+    "variant_title": "Default Title",
+    "sku": "R23317",
+    "price": 6700.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/studs-7?variant=gid://shopify/ProductVariant/53278042489129",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May1050_resized.jpg?v=1781863506"
   },
   "gid://shopify/ProductVariant/51274749608233": {
     "product_title": "Floraleaf Antique Studs",
