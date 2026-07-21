@@ -6466,7 +6466,7 @@
     "variant_title": "Default Title",
     "sku": "NK361",
     "price": 1470.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-pendant-43?variant=gid://shopify/ProductVariant/50048285835564",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaukundanpendant1400_-_1.jpg?v=1729771035"
   },
@@ -7834,7 +7834,7 @@
     "variant_title": "Default Title",
     "sku": "ER176",
     "price": 661.5,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.kanshijewels.com/products/bugadi-4?variant=gid://shopify/ProductVariant/50724521705772",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Bugadi630_-_1.jpg?v=1741684933"
   },
@@ -8590,7 +8590,7 @@
     "variant_title": "Default Title",
     "sku": "AC38",
     "price": 313.95,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.kanshijewels.com/products/mossanite-92-5-pure-silver-nose-pin-copy?variant=gid://shopify/ProductVariant/52018498044204",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Pearlsbracelets299.jpg?v=1758797695"
   },
@@ -9313,15 +9313,6 @@
     "stock": 1,
     "url": "https://www.kanshijewels.com/products/mossanite-necklace-and-earrings-set?variant=gid://shopify/ProductVariant/52445222502700",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Mossanitenecklaceandearringsset5350_e324f055-e371-4ecd-9928-b6e150f2445c.jpg?v=1766138036"
-  },
-  "gid://shopify/ProductVariant/52445222863148": {
-    "product_title": "Mossanite necklace",
-    "variant_title": "Default Title",
-    "sku": "NK47",
-    "price": 2990.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/mossanite-ruby-chokar-copy?variant=gid://shopify/ProductVariant/52445222863148",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Mossanitenecklace2990.jpg?v=1766138074"
   },
   "gid://shopify/ProductVariant/52445224861996": {
     "product_title": "Mossanite emerald necklace",
@@ -11200,7 +11191,7 @@
     "variant_title": "Default Title",
     "sku": "NK931",
     "price": 1450.0,
-    "stock": 20,
+    "stock": 19,
     "url": "https://www.kanshijewels.com/products/elegant-jadau-bridesmaids-chokar?variant=gid://shopify/ProductVariant/53420202950956",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1450_-elegantjadaubridesmaidschokar.jpg?v=1783572635"
   },
@@ -13588,6 +13579,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/nakashi-hasli-necklace-copy?variant=gid://shopify/ProductVariant/52445222666540",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_3027.jpg?v=1766137962"
+  },
+  "gid://shopify/ProductVariant/52445222863148": {
+    "product_title": "Mossanite necklace",
+    "variant_title": "Default Title",
+    "sku": "NK47",
+    "price": 2990.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/mossanite-ruby-chokar-copy?variant=gid://shopify/ProductVariant/52445222863148",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Mossanitenecklace2990.jpg?v=1766138074"
   },
   "gid://shopify/ProductVariant/52445238198572": {
     "product_title": "Jadau necklace",
