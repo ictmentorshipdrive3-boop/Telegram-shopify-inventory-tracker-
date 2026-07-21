@@ -1489,7 +1489,7 @@
     "variant_title": "Default Title",
     "sku": "907",
     "price": 999.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/simple-and-small-kemp-jhumkas?variant=gid://shopify/ProductVariant/41347627843737",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_5ad74a89-a9d2-448d-9fe9-7b9237f80265.jpg?v=1634139664"
   },
@@ -7123,7 +7123,7 @@
     "variant_title": "Default Title",
     "sku": "414",
     "price": 2299.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/peacock-jhumkas-with-golden-beads-mattal?variant=gid://shopify/ProductVariant/45443238002910",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_c712c9a2-dc3c-496b-ba2b-f7ac46fd5c16.jpg?v=1716906755"
   },
@@ -16042,7 +16042,7 @@
     "variant_title": "8 Inches String - Half Moolam",
     "sku": "3502",
     "price": 1299.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.daivik.in/products/elegant-bloomed-jasmine-flower-artificial-gajra-16-inches?variant=gid://shopify/ProductVariant/47542601154782",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0354.heic?v=1758199815"
   },
@@ -21265,15 +21265,6 @@
     "stock": 2,
     "url": "https://www.daivik.in/products/designer-ballet-butterfly-dancing-girl-necklace-with-earrings?variant=gid://shopify/ProductVariant/48417440071902",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0543.jpg?v=1783595566"
-  },
-  "gid://shopify/ProductVariant/48417802584286": {
-    "product_title": "Trisha Mam Inspired AD Necklace with Earrings in Two Colors (Price for Each)",
-    "variant_title": "Ruby",
-    "sku": "975",
-    "price": 1299.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/trisha-mam-inspired-ad-necklace-with-earrings-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/48417802584286",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E8723323-DACF-49E7-87D5-C54E1E5554DD.jpg?v=1783614027"
   },
   "gid://shopify/ProductVariant/48417802617054": {
     "product_title": "Trisha Mam Inspired AD Necklace with Earrings in Two Colors (Price for Each)",
@@ -30733,5 +30724,14 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/pachi-pearl-jali-necklace?variant=gid://shopify/ProductVariant/48400077258974",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_83502.jpg?v=1782925422"
+  },
+  "gid://shopify/ProductVariant/48417802584286": {
+    "product_title": "Trisha Mam Inspired AD Necklace with Earrings in Two Colors (Price for Each)",
+    "variant_title": "Ruby",
+    "sku": "975",
+    "price": 1299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/trisha-mam-inspired-ad-necklace-with-earrings-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/48417802584286",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E8723323-DACF-49E7-87D5-C54E1E5554DD.jpg?v=1783614027"
   }
 }
