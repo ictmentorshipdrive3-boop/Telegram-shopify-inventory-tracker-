@@ -1759,7 +1759,7 @@
     "variant_title": "Default Title",
     "sku": "460",
     "price": 1499.0,
-    "stock": 40,
+    "stock": 39,
     "url": "https://www.daivik.in/products/ad-choker-with-earrings-1?variant=gid://shopify/ProductVariant/42258990465246",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_d337e27c-b8bb-421f-acd1-18e1430df356.jpg?v=1640349910"
   },
@@ -17936,15 +17936,6 @@
     "url": "https://www.daivik.in/products/layered-green-lakshmi-necklace-with-earrings?variant=gid://shopify/ProductVariant/47805333995742",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D055A3E3-FFFC-423A-A1B4-50F3808EB341.jpg?v=1767802860"
   },
-  "gid://shopify/ProductVariant/47808665977054": {
-    "product_title": "Lakshmi AD Bangle Combo",
-    "variant_title": "2.4",
-    "sku": "1775",
-    "price": 1799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/lakshmi-ad-bangle-combo?variant=gid://shopify/ProductVariant/47808665977054",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AEDAE911-0AE7-439E-B998-EAAC9A771910.jpg?v=1767965467"
-  },
   "gid://shopify/ProductVariant/47821038485726": {
     "product_title": "Kids / Adult Kemp Jhumkas",
     "variant_title": "Default Title",
@@ -29842,6 +29833,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/premium-heart-shaped-earrings?variant=gid://shopify/ProductVariant/47806997070046",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CF67C2A7-181B-4327-A211-25140E593A0E.jpg?v=1767873128"
+  },
+  "gid://shopify/ProductVariant/47808665977054": {
+    "product_title": "Lakshmi AD Bangle Combo",
+    "variant_title": "2.4",
+    "sku": "1775",
+    "price": 1799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/lakshmi-ad-bangle-combo?variant=gid://shopify/ProductVariant/47808665977054",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AEDAE911-0AE7-439E-B998-EAAC9A771910.jpg?v=1767965467"
   },
   "gid://shopify/ProductVariant/47808666009822": {
     "product_title": "Lakshmi AD Bangle Combo",
