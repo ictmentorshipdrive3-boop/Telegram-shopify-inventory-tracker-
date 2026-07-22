@@ -4270,7 +4270,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 2350.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.dulhanjewels.com/products/peacock-design-jadau-kundan-chandbali-earrings-with-studded-floral-top-and-emerald-green-beads?variant=gid://shopify/ProductVariant/50959538979122",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-7548.jpg?v=1780742937"
   },
@@ -4308,15 +4308,6 @@
     "price": 2900.0,
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/elegant-victorian-polki-bangles-with-ruby-and-emerald-leaf-design-in-antique-gold-finish?variant=gid://shopify/ProductVariant/50963415073074",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/C690E5E9-B1D6-4F99-B9CE-CED08B66B3CB.jpg?v=1773066315"
-  },
-  "gid://shopify/ProductVariant/50963420709170": {
-    "product_title": "Elegant Victorian Polki Bangles With Ruby And Emerald Leaf Design in Antique Gold Finish",
-    "variant_title": "Green / 2.8",
-    "sku": null,
-    "price": 2900.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/elegant-victorian-polki-bangles-with-ruby-and-emerald-leaf-design-in-antique-gold-finish?variant=gid://shopify/ProductVariant/50963420709170",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/C690E5E9-B1D6-4F99-B9CE-CED08B66B3CB.jpg?v=1773066315"
   },
   "gid://shopify/ProductVariant/50964883669298": {
@@ -6415,15 +6406,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/bridal-jadau-kundan-necklace-with-emerald-hangings?variant=gid://shopify/ProductVariant/51307393319218",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-7964.jpg?v=1781519929"
-  },
-  "gid://shopify/ProductVariant/51307431723314": {
-    "product_title": "Traditional Jadau Kundan Necklace With Green Bead Hangings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 7100.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/traditional-jadau-kundan-necklace-with-green-bead-hangings?variant=gid://shopify/ProductVariant/51307431723314",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/352C893C-13FE-40BE-B5EF-2B88A24C47F5.jpg?v=1781519817"
   },
   "gid://shopify/ProductVariant/51307433230642": {
     "product_title": "Floral Jadau Kundan Locket With Strawberry Beads",
@@ -8855,6 +8837,15 @@
     "url": "https://www.dulhanjewels.com/products/elegant-victorian-polki-bangles-with-ruby-and-emerald-leaf-design-in-antique-gold-finish?variant=gid://shopify/ProductVariant/50963415499058",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/C690E5E9-B1D6-4F99-B9CE-CED08B66B3CB.jpg?v=1773066315"
   },
+  "gid://shopify/ProductVariant/50963420709170": {
+    "product_title": "Elegant Victorian Polki Bangles With Ruby And Emerald Leaf Design in Antique Gold Finish",
+    "variant_title": "Green / 2.8",
+    "sku": null,
+    "price": 2900.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/elegant-victorian-polki-bangles-with-ruby-and-emerald-leaf-design-in-antique-gold-finish?variant=gid://shopify/ProductVariant/50963420709170",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/C690E5E9-B1D6-4F99-B9CE-CED08B66B3CB.jpg?v=1773066315"
+  },
   "gid://shopify/ProductVariant/50963420741938": {
     "product_title": "Elegant Victorian Polki Bangles With Ruby And Emerald Leaf Design in Antique Gold Finish",
     "variant_title": "Multicolour / 2.8",
@@ -9115,6 +9106,15 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/ethnic-jadau-kundan-beads-choker-floral-pendant?variant=gid://shopify/ProductVariant/51287105405234",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_6f09279b-2f24-420a-a990-1cf67aa6b8a5.jpg?v=1781096889"
+  },
+  "gid://shopify/ProductVariant/51307431723314": {
+    "product_title": "Traditional Jadau Kundan Necklace With Green Bead Hangings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 7100.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/traditional-jadau-kundan-necklace-with-green-bead-hangings?variant=gid://shopify/ProductVariant/51307431723314",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/352C893C-13FE-40BE-B5EF-2B88A24C47F5.jpg?v=1781519817"
   },
   "gid://shopify/ProductVariant/51353870205234": {
     "product_title": "Stylish Jadau Kundan Stud Earrings With Pearl Bordering",
