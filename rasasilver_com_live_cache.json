@@ -1030,7 +1030,7 @@
     "variant_title": "Default Title",
     "sku": "R17286",
     "price": 4400.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.rasasilver.com/products/kiranaratna-studs?variant=gid://shopify/ProductVariant/50152979005737",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06339_copy.jpg?v=1744182993"
   },
@@ -25073,15 +25073,6 @@
     "url": "https://www.rasasilver.com/products/pushparaga-nakshi-studs?variant=gid://shopify/ProductVariant/53292114772265",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2206_resized.jpg?v=1782737385"
   },
-  "gid://shopify/ProductVariant/53292125552937": {
-    "product_title": "Panna Kanti Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "R31433",
-    "price": 4200.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/panna-kanti-stone-studs?variant=gid://shopify/ProductVariant/53292125552937",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2159_resized.jpg?v=1782810514"
-  },
   "gid://shopify/ProductVariant/53292133089577": {
     "product_title": "Stonique Stone Studs",
     "variant_title": "Default Title",
@@ -48868,6 +48859,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/petal-harmony-nakshi-studs?variant=gid://shopify/ProductVariant/53290806477097",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2163_resized.jpg?v=1782737254"
+  },
+  "gid://shopify/ProductVariant/53292125552937": {
+    "product_title": "Panna Kanti Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "R31433",
+    "price": 4200.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/panna-kanti-stone-studs?variant=gid://shopify/ProductVariant/53292125552937",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2159_resized.jpg?v=1782810514"
   },
   "gid://shopify/ProductVariant/53292139053353": {
     "product_title": "Panna Kamal Stone Studs",
