@@ -12343,7 +12343,7 @@
     "variant_title": "Default Title",
     "sku": "R22051",
     "price": 6000.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/celest-pear-victorian-ring?variant=gid://shopify/ProductVariant/52333734199593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0027copy_5c21919d-706b-49db-a307-52ac43ce5edd.jpg?v=1766995152"
   },
@@ -22696,15 +22696,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/mayurvalli-kundan-jhumki?variant=gid://shopify/ProductVariant/53266385010985",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_261541_resized.jpg?v=1781508339"
-  },
-  "gid://shopify/ProductVariant/53266392777001": {
-    "product_title": "Shrinika-Mor Temple Jhumkis",
-    "variant_title": "Default Title",
-    "sku": "R28476",
-    "price": 11300.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/shrinika-mor-temple-jhumkis?variant=gid://shopify/ProductVariant/53266392777001",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_261523_resized.jpg?v=1781508872"
   },
   "gid://shopify/ProductVariant/53266469388585": {
     "product_title": "Kusumanjali Stone Jhumkis",
@@ -48355,6 +48346,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/lotus-grace-kundan-jhumki?variant=gid://shopify/ProductVariant/53266355126569",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_261517_resized.jpg?v=1781506455"
+  },
+  "gid://shopify/ProductVariant/53266392777001": {
+    "product_title": "Shrinika-Mor Temple Jhumkis",
+    "variant_title": "Default Title",
+    "sku": "R28476",
+    "price": 11300.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/shrinika-mor-temple-jhumkis?variant=gid://shopify/ProductVariant/53266392777001",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_261523_resized.jpg?v=1781508872"
   },
   "gid://shopify/ProductVariant/53266393628969": {
     "product_title": "Gulbahar Nakshi Jhumkis",
