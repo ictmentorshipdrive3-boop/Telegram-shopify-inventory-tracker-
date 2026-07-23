@@ -9085,7 +9085,7 @@
     "variant_title": "GREEN",
     "sku": "R16472",
     "price": 19800.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/anzuri-rose-payal?variant=gid://shopify/ProductVariant/51495597441321",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0233_copy_2.jpg?v=1763463227"
   },
@@ -9562,7 +9562,7 @@
     "variant_title": "Default Title",
     "sku": "R17683",
     "price": 12500.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/czpearra-necklace?variant=gid://shopify/ProductVariant/51509447295273",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Box07_10Nov0282.jpg?v=1763446697"
   },
@@ -10912,7 +10912,7 @@
     "variant_title": "Default Title",
     "sku": "R16511",
     "price": 20700.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/rustic-flora-payal?variant=gid://shopify/ProductVariant/51955096092969",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0240copy_1.jpg?v=1763460964"
   },
@@ -22180,7 +22180,7 @@
     "variant_title": "Default Title",
     "sku": "R27981",
     "price": 7800.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/adiva-oxidised-jhumki?variant=gid://shopify/ProductVariant/53150291099945",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May116261_resized.jpg?v=1780831587"
   },
@@ -24061,7 +24061,7 @@
     "variant_title": "Default Title",
     "sku": "R31572",
     "price": 1300.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/beaded-charm-ear-cuff?variant=gid://shopify/ProductVariant/53286096306473",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5629_resized.jpg?v=1782293207"
   },
@@ -26530,15 +26530,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/temple-jhumki?variant=gid://shopify/ProductVariant/53329738891561",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42365_resized.jpg?v=1784181715"
-  },
-  "gid://shopify/ProductVariant/53333175664937": {
-    "product_title": "Balaji-Luxe Temple Jhumki",
-    "variant_title": "Default Title",
-    "sku": "R32105",
-    "price": 19900.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/balaji-luxe-temple-jhumki?variant=gid://shopify/ProductVariant/53333175664937",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42360_resized.jpg?v=1784182291"
   },
   "gid://shopify/ProductVariant/53333186314537": {
     "product_title": "Krupa Kasu Temple Necklace",
@@ -49012,6 +49003,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/meher-kundan-septum-ring-1?variant=gid://shopify/ProductVariant/53329663263017",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0095_copy_1.jpg?v=1771185315"
+  },
+  "gid://shopify/ProductVariant/53333175664937": {
+    "product_title": "Balaji-Luxe Temple Jhumki",
+    "variant_title": "Default Title",
+    "sku": "R32105",
+    "price": 19900.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/balaji-luxe-temple-jhumki?variant=gid://shopify/ProductVariant/53333175664937",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42360_resized.jpg?v=1784182291"
   },
   "gid://shopify/ProductVariant/53334492840233": {
     "product_title": "Queen's Brilliance Moissanite Necklace",
