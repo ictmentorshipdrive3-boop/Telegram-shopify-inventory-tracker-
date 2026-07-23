@@ -202,7 +202,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 900.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-antique-polish-jhumkas-with-pearl-drops-and-natural-strawberry-beads-1?variant=gid://shopify/ProductVariant/52628406829372",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/65eb9d7e-e9da-457b-90f5-697159a45587.webp?v=1768464974"
   },
@@ -286,15 +286,6 @@
     "stock": 13,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-tika-with-pearls-drops-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52628688765244",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/b68b96c4-5c24-4dce-8bbb-4733137eb9ff.webp?v=1768471013"
-  },
-  "gid://shopify/ProductVariant/52628729823548": {
-    "product_title": "Jadau kundan floral tika with pearl drop and natural strawberry beads",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 800.0,
-    "stock": 1,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-tika-with-pearl-drop-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52628729823548",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/d1efe519-d03f-480c-9eee-1188c0baa06a.webp?v=1768474583"
   },
   "gid://shopify/ProductVariant/52628751417660": {
     "product_title": "Jadau kundan lotus tika with pearl drops",
@@ -2212,6 +2203,15 @@
     "stock": 0,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-tika-with-pearl-drops-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52628577681724",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/e4d8f58a-bcca-49bd-9f9b-d21ba4a67e0e_178f16d0-475b-4659-83e8-437aa6c5b7ee.webp?v=1768470242"
+  },
+  "gid://shopify/ProductVariant/52628729823548": {
+    "product_title": "Jadau kundan floral tika with pearl drop and natural strawberry beads",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 800.0,
+    "stock": 0,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-tika-with-pearl-drop-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52628729823548",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/d1efe519-d03f-480c-9eee-1188c0baa06a.webp?v=1768474583"
   },
   "gid://shopify/ProductVariant/52737350336828": {
     "product_title": "Jadau kundan tika with pearl and natural strawberry beads drop",
