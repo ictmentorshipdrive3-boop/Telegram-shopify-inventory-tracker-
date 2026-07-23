@@ -215,15 +215,6 @@
     "url": "https://www.rasasilver.com/products/orange-coral-pendant?variant=gid://shopify/ProductVariant/49867063165225",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP09025copy.jpg?v=1773128226"
   },
-  "gid://shopify/ProductVariant/49879920410921": {
-    "product_title": "Green Loop CZ Pendant",
-    "variant_title": "Default Title",
-    "sku": "R1515",
-    "price": 14000.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/green-loop-pendant?variant=gid://shopify/ProductVariant/49879920410921",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R1515.jpg?v=1751365641"
-  },
   "gid://shopify/ProductVariant/49889170719017": {
     "product_title": "Emerald Victorian Sheeshphool",
     "variant_title": "Default Title",
@@ -1276,15 +1267,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/tejasvi-padma-pendant?variant=gid://shopify/ProductVariant/50225815257385",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R3043.jpg?v=1751363148"
-  },
-  "gid://shopify/ProductVariant/50225953734953": {
-    "product_title": "RupKamala Jadau Pendant",
-    "variant_title": "Default Title",
-    "sku": "R3057",
-    "price": 16000.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/rupkamala-pendant?variant=gid://shopify/ProductVariant/50225953734953",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP01852copy.jpg?v=1746160542"
   },
   "gid://shopify/ProductVariant/50229166473513": {
     "product_title": "Rama Rajya Necklace",
@@ -11191,7 +11173,7 @@
     "variant_title": "Default Title",
     "sku": "R16587",
     "price": 15000.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/empressa-emerluxe-pendant?variant=gid://shopify/ProductVariant/52146394956073",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0150copy_resized_f3e75288-b32a-442b-bbdc-8a09404ccf42.jpg?v=1763984809"
   },
@@ -16357,7 +16339,7 @@
     "variant_title": "Default Title",
     "sku": "R22955",
     "price": 16600.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/visheshika-temple-chudi?variant=gid://shopify/ProductVariant/52668215394601",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP02075copy_1.jpg?v=1746173733"
   },
@@ -26882,6 +26864,15 @@
     "url": "https://www.rasasilver.com/products/maharani-victorian-long-necklace?variant=gid://shopify/ProductVariant/49866582130985",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-96.jpg?v=1740992487"
   },
+  "gid://shopify/ProductVariant/49879920410921": {
+    "product_title": "Green Loop CZ Pendant",
+    "variant_title": "Default Title",
+    "sku": "R1515",
+    "price": 14000.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/green-loop-pendant?variant=gid://shopify/ProductVariant/49879920410921",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R1515.jpg?v=1751365641"
+  },
   "gid://shopify/ProductVariant/50037880946985": {
     "product_title": "Veeralakshmi Short Necklace",
     "variant_title": "Default Title",
@@ -26962,6 +26953,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/nayanika-necklace?variant=gid://shopify/ProductVariant/50278891618601",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP01685copy.jpg?v=1746111960"
+  },
+  "gid://shopify/ProductVariant/50225953734953": {
+    "product_title": "RupKamala Jadau Pendant",
+    "variant_title": "Default Title",
+    "sku": "R3057",
+    "price": 16000.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/rupkamala-pendant?variant=gid://shopify/ProductVariant/50225953734953",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP01852copy.jpg?v=1746160542"
   },
   "gid://shopify/ProductVariant/50226156994857": {
     "product_title": "Divya Grace Short Necklace",
