@@ -6344,15 +6344,6 @@
     "url": "https://www.dulhanjewels.com/products/classic-ruby-green-jadau-kundan-chandbali-earrings-with-rice-pearls?variant=gid://shopify/ProductVariant/51292590997810",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-7854.jpg?v=1781337388"
   },
-  "gid://shopify/ProductVariant/51307393319218": {
-    "product_title": "Bridal Jadau Kundan Necklace With Emerald Hangings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 8000.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/bridal-jadau-kundan-necklace-with-emerald-hangings?variant=gid://shopify/ProductVariant/51307393319218",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-7964.jpg?v=1781519929"
-  },
   "gid://shopify/ProductVariant/51307431723314": {
     "product_title": "Traditional Jadau Kundan Necklace With Green Bead Hangings",
     "variant_title": "Default Title",
@@ -7297,15 +7288,6 @@
     "stock": 2,
     "url": "https://www.dulhanjewels.com/products/classic-pink-kundan-flower-stud-earrings?variant=gid://shopify/ProductVariant/51501269844274",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9194.jpg?v=1784804195"
-  },
-  "gid://shopify/ProductVariant/51501271089458": {
-    "product_title": "Traditional Jhumka Earrings with Green Beads And Pearl Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2650.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/traditional-jhumka-earrings-with-green-beads-and-pearl-drops?variant=gid://shopify/ProductVariant/51501271089458",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9196.jpg?v=1784804152"
   },
   "gid://shopify/ProductVariant/51501271679282": {
     "product_title": "Ethnic Jadau Kundan Chandbali Earrings With Pearl Drops",
@@ -8936,6 +8918,15 @@
     "url": "https://www.dulhanjewels.com/products/traditional-peacock-nakshi-jadau-kundan-necklace-with-emerald-beads?variant=gid://shopify/ProductVariant/51254349136178",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/86B0A652-5111-4087-99D1-80D1026E52C6.jpg?v=1780480855"
   },
+  "gid://shopify/ProductVariant/51307393319218": {
+    "product_title": "Bridal Jadau Kundan Necklace With Emerald Hangings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 8000.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/bridal-jadau-kundan-necklace-with-emerald-hangings?variant=gid://shopify/ProductVariant/51307393319218",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-7964.jpg?v=1781519929"
+  },
   "gid://shopify/ProductVariant/51307505287474": {
     "product_title": "Classic Jadau Kundan Maang Tikka With Green Beads",
     "variant_title": "Default Title",
@@ -8962,5 +8953,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/gold-finish-jadau-kundan-bangles-with-floral-center-motif?variant=gid://shopify/ProductVariant/51473044570418",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/792329B2-6933-46CA-B95A-AE2E679EC7A7.jpg?v=1783418017"
+  },
+  "gid://shopify/ProductVariant/51501271089458": {
+    "product_title": "Traditional Jhumka Earrings with Green Beads And Pearl Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2650.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/traditional-jhumka-earrings-with-green-beads-and-pearl-drops?variant=gid://shopify/ProductVariant/51501271089458",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9196.jpg?v=1784804152"
   }
 }
