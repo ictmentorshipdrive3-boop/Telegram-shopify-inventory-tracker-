@@ -1421,15 +1421,6 @@
     "url": "https://www.rasasilver.com/products/gajamayuri-lakshmi?variant=gid://shopify/ProductVariant/50279537246505",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP01426copy.jpg?v=1746101560"
   },
-  "gid://shopify/ProductVariant/50279537279273": {
-    "product_title": "Gajamayuri Lakshmi Jadau",
-    "variant_title": "Ruby Pink",
-    "sku": "R3026",
-    "price": 90000.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/gajamayuri-lakshmi?variant=gid://shopify/ProductVariant/50279537279273",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP01426copy.jpg?v=1746101560"
-  },
   "gid://shopify/ProductVariant/50869312520489": {
     "product_title": "Kundan Kalakriti Jhumki",
     "variant_title": "GREEN",
@@ -10123,15 +10114,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/lakshmi-mayil-necklace?variant=gid://shopify/ProductVariant/51517251617065",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_297Pics_07Oct34696_resized.jpg?v=1763619639"
-  },
-  "gid://shopify/ProductVariant/51517261480233": {
-    "product_title": "Vaibhav Trinetra Necklace",
-    "variant_title": "Default Title",
-    "sku": "R17839",
-    "price": 119300.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/vaibhav-trinetra-necklace?variant=gid://shopify/ProductVariant/51517261480233",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_5_Nov1649_resized.jpg?v=1763616983"
   },
   "gid://shopify/ProductVariant/51517271671081": {
     "product_title": "Shree Garudika Necklace",
@@ -27125,6 +27107,15 @@
     "url": "https://www.rasasilver.com/products/peethambara-lakshmi?variant=gid://shopify/ProductVariant/50279279493417",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP01698copy.jpg?v=1746099899"
   },
+  "gid://shopify/ProductVariant/50279537279273": {
+    "product_title": "Gajamayuri Lakshmi Jadau",
+    "variant_title": "Ruby Pink",
+    "sku": "R3026",
+    "price": 90000.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/gajamayuri-lakshmi?variant=gid://shopify/ProductVariant/50279537279273",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP01426copy.jpg?v=1746101560"
+  },
   "gid://shopify/ProductVariant/50278504988969": {
     "product_title": "Adi Lakshmi Mala",
     "variant_title": "Default Title",
@@ -38563,6 +38554,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/pancharika-necklace?variant=gid://shopify/ProductVariant/51517242212649",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_297Pics_07Oct34686_resized.jpg?v=1763620964"
+  },
+  "gid://shopify/ProductVariant/51517261480233": {
+    "product_title": "Vaibhav Trinetra Necklace",
+    "variant_title": "Default Title",
+    "sku": "R17839",
+    "price": 119300.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/vaibhav-trinetra-necklace?variant=gid://shopify/ProductVariant/51517261480233",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_5_Nov1649_resized.jpg?v=1763616983"
   },
   "gid://shopify/ProductVariant/51517277667625": {
     "product_title": "Dvishakti Necklace",
