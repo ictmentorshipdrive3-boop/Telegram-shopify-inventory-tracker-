@@ -94,7 +94,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 1500.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-jhumkas-with-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52626181947708",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/2dac1ff3-bb55-4e03-916d-572e9e893858.webp?v=1768387901"
   },
@@ -115,15 +115,6 @@
     "stock": 2,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-jhumkas-with-pearl-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52626224087356",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/bd8a288f-442a-49f7-8e87-3114b451436c.webp?v=1768391247"
-  },
-  "gid://shopify/ProductVariant/52626226905404": {
-    "product_title": "Jadau Kundan Chand bali with pearls and natural strawberry beads",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1100.0,
-    "stock": 1,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-chand-bali-with-pearls-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52626226905404",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/cd3017db-c7ae-44ce-b62a-a1a2dbf2d5ec.webp?v=1768391702"
   },
   "gid://shopify/ProductVariant/52626231230780": {
     "product_title": "Jadau kundan floral jhumkas with pearl and natural strawberry beads",
@@ -2212,6 +2203,24 @@
     "stock": 9,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-jhumkas-with-pearls-and-natural-strawberry-beads-2?variant=gid://shopify/ProductVariant/53824509608252",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/PXL_20260606_123908323.PORTRAIT.jpg?v=1784806174"
+  },
+  "gid://shopify/ProductVariant/53825696563516": {
+    "product_title": "Jadau Kundan Leafs Jhumkas Rice Pearls with Natural Strawberry Beads",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2500.0,
+    "stock": 6,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-leafs-jhumkas-rice-pearls-with-natural-strawberry-beads?variant=gid://shopify/ProductVariant/53825696563516",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/PXL_20260606_131217682.PORTRAIT.jpg?v=1784806876"
+  },
+  "gid://shopify/ProductVariant/52626226905404": {
+    "product_title": "Jadau Kundan Chand bali with pearls and natural strawberry beads",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1100.0,
+    "stock": 0,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-chand-bali-with-pearls-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52626226905404",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/cd3017db-c7ae-44ce-b62a-a1a2dbf2d5ec.webp?v=1768391702"
   },
   "gid://shopify/ProductVariant/52878921367868": {
     "product_title": "Jadau kundan Double layer bangles",
