@@ -985,7 +985,7 @@
     "variant_title": "Default Title",
     "sku": "R20492",
     "price": 4200.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/navarise-studs?variant=gid://shopify/ProductVariant/50153089728809",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R2082.jpg?v=1751363979"
   },
@@ -18124,15 +18124,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/kantharya-jadau-choker?variant=gid://shopify/ProductVariant/52824121704745",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar0193_resized.jpg?v=1774353310"
-  },
-  "gid://shopify/ProductVariant/52824151392553": {
-    "product_title": "Indira Temple Necklace",
-    "variant_title": "Default Title",
-    "sku": "R26131",
-    "price": 35200.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/indira-long-temple-necklace?variant=gid://shopify/ProductVariant/52824151392553",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar01251_resized.jpg?v=1774418954"
   },
   "gid://shopify/ProductVariant/52824157913385": {
     "product_title": "Kanthshaila Stone Chocker",
@@ -45943,6 +45934,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/mint-pearl-victorian-choker-set?variant=gid://shopify/ProductVariant/52819719848233",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_158Pics_12Mar36930_resized.jpg?v=1774271235"
+  },
+  "gid://shopify/ProductVariant/52824151392553": {
+    "product_title": "Indira Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R26131",
+    "price": 35200.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/indira-long-temple-necklace?variant=gid://shopify/ProductVariant/52824151392553",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar01251_resized.jpg?v=1774418954"
   },
   "gid://shopify/ProductVariant/52824177017129": {
     "product_title": "Saurabhi Temple Necklace",
