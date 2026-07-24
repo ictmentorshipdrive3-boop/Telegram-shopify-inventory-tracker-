@@ -6092,15 +6092,6 @@
     "url": "https://www.dulhanjewels.com/products/heritage-jadau-kundan-mango-haram-emerald-beads?variant=gid://shopify/ProductVariant/51237992268082",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-7121.jpg?v=1780316380"
   },
-  "gid://shopify/ProductVariant/51253912338738": {
-    "product_title": "Antique Victorian Necklace Set With Earrings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 3900.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/antique-victorian-pendant-necklace-set-with-earrings?variant=gid://shopify/ProductVariant/51253912338738",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/A350ED9E-EB0A-41DF-BBEA-C40D61CB88FC.jpg?v=1780989312"
-  },
   "gid://shopify/ProductVariant/51254280847666": {
     "product_title": "Designer Eagle Victorian Necklace Set With Earrings",
     "variant_title": "Default Title",
@@ -7324,15 +7315,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/traditional-jhumka-earrings-with-green-beads-and-pearl-drops?variant=gid://shopify/ProductVariant/51501271089458",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9196.jpg?v=1784804152"
-  },
-  "gid://shopify/ProductVariant/51501271679282": {
-    "product_title": "Ethnic Jadau Kundan Chandbali Earrings With Pearl Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1800.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/ethnic-jadau-kundan-chandbali-earrings-with-pearl-drops?variant=gid://shopify/ProductVariant/51501271679282",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/9DCF825E-B767-4D34-A099-E50883261A07.jpg?v=1784804125"
   },
   "gid://shopify/ProductVariant/51501272138034": {
     "product_title": "Unique Pink And Emerald Green Kundan Stud Earrings",
@@ -8954,6 +8936,15 @@
     "url": "https://www.dulhanjewels.com/products/elegant-victorian-earcuff-with-peacock-floral-design?variant=gid://shopify/ProductVariant/51148874514738",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/76F3FB2C-4D6E-4C20-AB24-DDD520FCF937.jpg?v=1778576230"
   },
+  "gid://shopify/ProductVariant/51253912338738": {
+    "product_title": "Antique Victorian Necklace Set With Earrings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 3900.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/antique-victorian-pendant-necklace-set-with-earrings?variant=gid://shopify/ProductVariant/51253912338738",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/A350ED9E-EB0A-41DF-BBEA-C40D61CB88FC.jpg?v=1780989312"
+  },
   "gid://shopify/ProductVariant/51494597067058": {
     "product_title": "Elegant Chand Design Jadau Kundan Maang Tikka With Emerald Beads",
     "variant_title": "Default Title",
@@ -8962,5 +8953,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/elegant-chand-design-jadau-kundan-maang-tikka-with-emerald-beads?variant=gid://shopify/ProductVariant/51494597067058",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9104.jpg?v=1784632692"
+  },
+  "gid://shopify/ProductVariant/51501271679282": {
+    "product_title": "Ethnic Jadau Kundan Chandbali Earrings With Pearl Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1800.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/ethnic-jadau-kundan-chandbali-earrings-with-pearl-drops?variant=gid://shopify/ProductVariant/51501271679282",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/9DCF825E-B767-4D34-A099-E50883261A07.jpg?v=1784804125"
   }
 }
