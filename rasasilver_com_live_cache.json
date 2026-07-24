@@ -1,13 +1,4 @@
 {
-  "gid://shopify/ProductVariant/49789747855657": {
-    "product_title": "Chandelier Gemstone Earrings",
-    "variant_title": "Default Title",
-    "sku": "R1494",
-    "price": 55170.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/chandelier-gemstone-earrings?variant=gid://shopify/ProductVariant/49789747855657",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R1494.jpg?v=1751364070"
-  },
   "gid://shopify/ProductVariant/49802519511337": {
     "product_title": "Gaja Lakshmi Pendant",
     "variant_title": "Default Title",
@@ -3230,15 +3221,6 @@
     "url": "https://www.rasasilver.com/products/sundari-sarasa-necklace-set?variant=gid://shopify/ProductVariant/50559911919913",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_83_6Aug24273_resized.jpg?v=1757934036"
   },
-  "gid://shopify/ProductVariant/50559935414569": {
-    "product_title": "Kamalika Polki Dangle Earrings",
-    "variant_title": "Default Title",
-    "sku": "R8893",
-    "price": 40200.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/kamalika-heera-danglers?variant=gid://shopify/ProductVariant/50559935414569",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2-15_0806191f-023d-4825-a8e2-ca395179f28b.jpg?v=1753957467"
-  },
   "gid://shopify/ProductVariant/50564035313961": {
     "product_title": "Pearlira Ninefold Necklace",
     "variant_title": "Default Title",
@@ -5632,6 +5614,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/garden-of-pears-necklace-set?variant=gid://shopify/ProductVariant/50958827094313",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_83_6Aug24288_resized.jpg?v=1757932521"
+  },
+  "gid://shopify/ProductVariant/50968228888873": {
+    "product_title": "Morni Jhilmil Bells",
+    "variant_title": "Default Title",
+    "sku": "R8241",
+    "price": 12150.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/morni-jhilmil-bells?variant=gid://shopify/ProductVariant/50968228888873",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0157copy_resized_a783cbf6-d059-4451-9554-9cd4d6c0408f.jpg?v=1770890155"
   },
   "gid://shopify/ProductVariant/50969906282793": {
     "product_title": "Maharani Lotus Haaram",
@@ -12652,15 +12643,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/morixa-nakshi-choker-bajuband?variant=gid://shopify/ProductVariant/52393121153321",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0197copy_resized_ebc5c945-4add-4b4a-bbff-198d866ffa1a.jpg?v=1767690917"
-  },
-  "gid://shopify/ProductVariant/52393126592809": {
-    "product_title": "Morni Stone Necklace",
-    "variant_title": "Default Title",
-    "sku": "R22276",
-    "price": 28400.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/morni-stone-necklace?variant=gid://shopify/ProductVariant/52393126592809",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0186_copy_resized_2858b4dc-849a-46c1-9090-02f00daa4113.jpg?v=1767691082"
   },
   "gid://shopify/ProductVariant/52393185542441": {
     "product_title": "Mor Lily Stone Choker",
@@ -21077,6 +21059,15 @@
     "url": "https://www.rasasilver.com/products/vilasita-cz-danglers?variant=gid://shopify/ProductVariant/53126358991145",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0010_resized.jpg?v=1781004662"
   },
+  "gid://shopify/ProductVariant/53129558327593": {
+    "product_title": "Svara Hoops",
+    "variant_title": "Default Title",
+    "sku": "R28366",
+    "price": 2700.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/svara-hoops?variant=gid://shopify/ProductVariant/53129558327593",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0193_resized.jpg?v=1781005995"
+  },
   "gid://shopify/ProductVariant/53129601515817": {
     "product_title": "Elara Square Hoops",
     "variant_title": "Default Title",
@@ -26585,6 +26576,15 @@
     "url": "https://www.rasasilver.com/products/pearl-garden-stone-matil?variant=gid://shopify/ProductVariant/53336939462953",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0828_resized.jpg?v=1784187710"
   },
+  "gid://shopify/ProductVariant/49789747855657": {
+    "product_title": "Chandelier Gemstone Earrings",
+    "variant_title": "Default Title",
+    "sku": "R1494",
+    "price": 55170.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/chandelier-gemstone-earrings?variant=gid://shopify/ProductVariant/49789747855657",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R1494.jpg?v=1751364070"
+  },
   "gid://shopify/ProductVariant/49851582054697": {
     "product_title": "Katela Victorian Necklace",
     "variant_title": "Default Title",
@@ -27484,6 +27484,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/motiyan-tarang-choker-set?variant=gid://shopify/ProductVariant/50559697617193",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_83_6Aug24239_resized.jpg?v=1757933939"
+  },
+  "gid://shopify/ProductVariant/50559935414569": {
+    "product_title": "Kamalika Polki Dangle Earrings",
+    "variant_title": "Default Title",
+    "sku": "R8893",
+    "price": 40200.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/kamalika-heera-danglers?variant=gid://shopify/ProductVariant/50559935414569",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2-15_0806191f-023d-4825-a8e2-ca395179f28b.jpg?v=1753957467"
   },
   "gid://shopify/ProductVariant/50559974146345": {
     "product_title": "Rasika Ghungroo Jhumki",
@@ -30202,15 +30211,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/carvenza-sapphoris-danglers?variant=gid://shopify/ProductVariant/50965453701417",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP977.jpg?v=1758023983"
-  },
-  "gid://shopify/ProductVariant/50968228888873": {
-    "product_title": "Morni Jhilmil Bells",
-    "variant_title": "Default Title",
-    "sku": "R8241",
-    "price": 12150.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/morni-jhilmil-bells?variant=gid://shopify/ProductVariant/50968228888873",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0157copy_resized_a783cbf6-d059-4451-9554-9cd4d6c0408f.jpg?v=1770890155"
   },
   "gid://shopify/ProductVariant/50968816320809": {
     "product_title": "Florissence CZ Bells",
@@ -40976,6 +40976,15 @@
     "url": "https://www.rasasilver.com/products/morvani-nakshi-choker-bajuband?variant=gid://shopify/ProductVariant/52393090613545",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0118_copy_resized.jpg?v=1767690434"
   },
+  "gid://shopify/ProductVariant/52393126592809": {
+    "product_title": "Morni Stone Necklace",
+    "variant_title": "Default Title",
+    "sku": "R22276",
+    "price": 28400.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/morni-stone-necklace?variant=gid://shopify/ProductVariant/52393126592809",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0186_copy_resized_2858b4dc-849a-46c1-9090-02f00daa4113.jpg?v=1767691082"
+  },
   "gid://shopify/ProductVariant/52393141469481": {
     "product_title": "Mayorin Stone Choker",
     "variant_title": "Default Title",
@@ -47941,15 +47950,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/mayukhi-nakshi-danglers?variant=gid://shopify/ProductVariant/53126407356713",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0146_resized.jpg?v=1781005857"
-  },
-  "gid://shopify/ProductVariant/53129558327593": {
-    "product_title": "Svara Hoops",
-    "variant_title": "Default Title",
-    "sku": "R28366",
-    "price": 2700.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/svara-hoops?variant=gid://shopify/ProductVariant/53129558327593",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0193_resized.jpg?v=1781005995"
   },
   "gid://shopify/ProductVariant/53129729802537": {
     "product_title": "Vainika Stone Ring",
