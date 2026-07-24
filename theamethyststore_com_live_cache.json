@@ -899,15 +899,6 @@
     "url": "https://www.theamethyststore.com/products/pahal-choker-set?variant=gid://shopify/ProductVariant/42080433963235",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-2270-_2_272c1e96-0b61-4b7b-8da0-f728e4b575e0.jpg?v=1773051711"
   },
-  "gid://shopify/ProductVariant/42090059464931": {
-    "product_title": "Sanatani Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-2284",
-    "price": 192990.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/sanatani-long-necklace-1?variant=gid://shopify/ProductVariant/42090059464931",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/ams-102-2284.jpg?v=1666015334"
-  },
   "gid://shopify/ProductVariant/42090178347235": {
     "product_title": "Dhriti Antique Necklace",
     "variant_title": "Default Title",
@@ -47938,7 +47929,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-10764",
     "price": 6600.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/twin-heart-studs?variant=gid://shopify/ProductVariant/47451351613667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10764.jpg?v=1762261664"
   },
@@ -95912,6 +95903,15 @@
     "url": "https://www.theamethyststore.com/products/nilaya-necklace-set?variant=gid://shopify/ProductVariant/42079194382563",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-102-2266.jpg?v=1637058564"
   },
+  "gid://shopify/ProductVariant/42090059464931": {
+    "product_title": "Sanatani Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-2284",
+    "price": 192990.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/sanatani-long-necklace-1?variant=gid://shopify/ProductVariant/42090059464931",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/ams-102-2284.jpg?v=1666015334"
+  },
   "gid://shopify/ProductVariant/42203994915043": {
     "product_title": "Drishya Necklace",
     "variant_title": "Default Title",
@@ -110392,6 +110392,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/diamond-design-studs-16?variant=gid://shopify/ProductVariant/49334747988195",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14290.jpg?v=1782824477"
+  },
+  "gid://shopify/ProductVariant/49334778790115": {
+    "product_title": "Charming Avikam Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14314",
+    "price": 5368.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/charming-avikam-earrings?variant=gid://shopify/ProductVariant/49334778790115",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14314.jpg?v=1782825731"
   },
   "gid://shopify/ProductVariant/49339954888931": {
     "product_title": "Ghanapriya 3D Spl Pendant",
