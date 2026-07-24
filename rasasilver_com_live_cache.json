@@ -20087,15 +20087,6 @@
     "url": "https://www.rasasilver.com/products/althira-matil?variant=gid://shopify/ProductVariant/52897925693737",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20511_resized.jpg?v=1775484372"
   },
-  "gid://shopify/ProductVariant/52897910685993": {
-    "product_title": "Maathang Kundan Matil",
-    "variant_title": "Swarovski",
-    "sku": "R23825",
-    "price": 10350.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/maathang-matil?variant=gid://shopify/ProductVariant/52897910685993",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20447_resized_a5e94255-a00d-48c1-b27f-5bb1f197b76a.jpg?v=1775484676"
-  },
   "gid://shopify/ProductVariant/52897915371817": {
     "product_title": "Maathang Kundan Matil",
     "variant_title": "GREEN",
@@ -20572,15 +20563,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/kiara-jadau-oddiyanam?variant=gid://shopify/ProductVariant/53070128447785",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_25April0177_resized.jpg?v=1778153168"
-  },
-  "gid://shopify/ProductVariant/53071057649961": {
-    "product_title": "Suvarna Temple Necklace",
-    "variant_title": "Default Title",
-    "sku": "R28170",
-    "price": 30800.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/ratnika-short-temple-necklace-copy?variant=gid://shopify/ProductVariant/53071057649961",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_25April0029_resized.jpg?v=1778308711"
   },
   "gid://shopify/ProductVariant/53071191965993": {
     "product_title": "Samriddhi Temple Danglers",
@@ -47123,6 +47105,15 @@
     "url": "https://www.rasasilver.com/products/maulika-matil?variant=gid://shopify/ProductVariant/52897894531369",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20398.jpg?v=1775467514"
   },
+  "gid://shopify/ProductVariant/52897910685993": {
+    "product_title": "Maathang Kundan Matil",
+    "variant_title": "Swarovski",
+    "sku": "R23825",
+    "price": 10350.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/maathang-matil?variant=gid://shopify/ProductVariant/52897910685993",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20447_resized_a5e94255-a00d-48c1-b27f-5bb1f197b76a.jpg?v=1775484676"
+  },
   "gid://shopify/ProductVariant/52897910718761": {
     "product_title": "Maathang Kundan Matil",
     "variant_title": "Ruby Pink",
@@ -47725,6 +47716,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/samudra-tanaya-temple-oddiyanam?variant=gid://shopify/ProductVariant/53070753825065",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_25April0160_resized.jpg?v=1778154505"
+  },
+  "gid://shopify/ProductVariant/53071057649961": {
+    "product_title": "Suvarna Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R28170",
+    "price": 30800.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ratnika-short-temple-necklace-copy?variant=gid://shopify/ProductVariant/53071057649961",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_25April0029_resized.jpg?v=1778308711"
   },
   "gid://shopify/ProductVariant/53071082684713": {
     "product_title": "Padmahasta Temple Oddiyanam",
