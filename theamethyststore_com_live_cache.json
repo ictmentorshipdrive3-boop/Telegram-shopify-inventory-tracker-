@@ -778,7 +778,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-2069",
     "price": 10700.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/delightful-kundan-studs?variant=gid://shopify/ProductVariant/40683063181462",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-2069.jpg?v=1630839617"
   },
@@ -1195,15 +1195,6 @@
     "stock": 3,
     "url": "https://www.theamethyststore.com/products/peacock-earrings?variant=gid://shopify/ProductVariant/42404835983587",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-2278.jpg?v=1742478855"
-  },
-  "gid://shopify/ProductVariant/42416930848995": {
-    "product_title": "Nivar Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-2280",
-    "price": 6800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nivar-earrings?variant=gid://shopify/ProductVariant/42416930848995",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-2280.jpg?v=1687241133"
   },
   "gid://shopify/ProductVariant/42417234739427": {
     "product_title": "Bhavika Earrings",
@@ -3901,7 +3892,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-4017",
     "price": 7700.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/sherin-drops?variant=gid://shopify/ProductVariant/43660006654179",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-4017.jpg?v=1673953026"
   },
@@ -95920,6 +95911,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/priyasi-nose-pin-1?variant=gid://shopify/ProductVariant/42390729916643",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-113-0089.jpg?v=1644644684"
+  },
+  "gid://shopify/ProductVariant/42416930848995": {
+    "product_title": "Nivar Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-2280",
+    "price": 6800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nivar-earrings?variant=gid://shopify/ProductVariant/42416930848995",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-2280.jpg?v=1687241133"
   },
   "gid://shopify/ProductVariant/42635912380643": {
     "product_title": "Radhika Necklace",
