@@ -36116,15 +36116,6 @@
     "url": "https://www.theamethyststore.com/products/chic-trendy-long-necklace-set?variant=gid://shopify/ProductVariant/47102670930147",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11211_5.jpg?v=1756985060"
   },
-  "gid://shopify/ProductVariant/47102740005091": {
-    "product_title": "Navya Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-9768",
-    "price": 3696.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/navya-stone-studs-1?variant=gid://shopify/ProductVariant/47102740005091",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9768.jpg?v=1756987584"
-  },
   "gid://shopify/ProductVariant/47102823825635": {
     "product_title": "Pretty Look Avikam Jhumkas",
     "variant_title": "Default Title",
@@ -83609,15 +83600,6 @@
     "url": "https://www.theamethyststore.com/products/stone-pair-bangles-19?variant=gid://shopify/ProductVariant/49301475492067",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3249.jpg?v=1782284484"
   },
-  "gid://shopify/ProductVariant/49301491253475": {
-    "product_title": "Nishanthi Stone Pair Bangles",
-    "variant_title": "2.4\"",
-    "sku": "AMS-107-3254-2.4\"",
-    "price": 30250.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/stone-pair-bangles-21?variant=gid://shopify/ProductVariant/49301491253475",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3254_2.jpg?v=1782284393"
-  },
   "gid://shopify/ProductVariant/49301670953187": {
     "product_title": "Manisha Stone Pair Bangles",
     "variant_title": "2.4\"",
@@ -90868,7 +90850,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-16505",
     "price": 5600.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/hasli-necklace-67?variant=gid://shopify/ProductVariant/49396532216035",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16505.jpg?v=1783832807"
   },
@@ -101771,6 +101753,15 @@
     "url": "https://www.theamethyststore.com/products/mihanikha-avikam-jhumkas?variant=gid://shopify/ProductVariant/47102739808483",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9500.jpg?v=1756987649"
   },
+  "gid://shopify/ProductVariant/47102740005091": {
+    "product_title": "Navya Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-9768",
+    "price": 3696.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/navya-stone-studs-1?variant=gid://shopify/ProductVariant/47102740005091",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9768.jpg?v=1756987584"
+  },
   "gid://shopify/ProductVariant/47128057446627": {
     "product_title": "Sparkle Ring",
     "variant_title": "10",
@@ -110194,6 +110185,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/guttapusalu-necklace-10?variant=gid://shopify/ProductVariant/49300989280483",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16280.jpg?v=1782276684"
+  },
+  "gid://shopify/ProductVariant/49301491253475": {
+    "product_title": "Nishanthi Stone Pair Bangles",
+    "variant_title": "2.4\"",
+    "sku": "AMS-107-3254-2.4\"",
+    "price": 30250.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/stone-pair-bangles-21?variant=gid://shopify/ProductVariant/49301491253475",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3254_2.jpg?v=1782284393"
   },
   "gid://shopify/ProductVariant/49318079627491": {
     "product_title": "Velvisha 3D Spl Pendant",
