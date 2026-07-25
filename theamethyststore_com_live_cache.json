@@ -30775,7 +30775,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-9934",
     "price": 16750.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/fahara-stone-jhumkas?variant=gid://shopify/ProductVariant/47032755716323",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9934_2.jpg?v=1781853075"
   },
@@ -85737,8 +85737,8 @@
     "product_title": "Dazzle Diamond Design Studs",
     "variant_title": "Default Title",
     "sku": "AMS-106-14291",
-    "price": 6424.0,
-    "stock": 1,
+    "price": 6400.0,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/dazzle-diamond-design-studs-1?variant=gid://shopify/ProductVariant/49332528972003",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14291.jpg?v=1782800471"
   },
@@ -86583,8 +86583,8 @@
     "product_title": "Vinitha Diamond Design Studs",
     "variant_title": "Default Title",
     "sku": "AMS-106-14292",
-    "price": 4664.0,
-    "stock": 2,
+    "price": 4700.0,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/diamond-design-studs-17?variant=gid://shopify/ProductVariant/49334749298915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14292.jpg?v=1782824596"
   },
@@ -86601,8 +86601,8 @@
     "product_title": "Little Cute Avikam Earrings",
     "variant_title": "Default Title",
     "sku": "AMS-106-14313",
-    "price": 5632.0,
-    "stock": 1,
+    "price": 5600.0,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/little-cute-avikam-earrings-1?variant=gid://shopify/ProductVariant/49334752936163",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14313.jpg?v=1782824829"
   },
@@ -87952,7 +87952,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-14295",
     "price": 5400.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/erisha-avikam-earrings?variant=gid://shopify/ProductVariant/49363420414179",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14295.jpg?v=1783165032"
   },
@@ -92605,7 +92605,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15023",
     "price": 12100.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/diamond-design-studs-25?variant=gid://shopify/ProductVariant/49420699730147",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15023_6397aaed-5558-4dcb-9d2b-8680b7af891b.jpg?v=1784270326"
   },
@@ -92659,7 +92659,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15020",
     "price": 15600.0,
-    "stock": 1,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/dazzle-diamond-design-studs-2?variant=gid://shopify/ProductVariant/49420706709731",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15020.jpg?v=1784271227"
   },
@@ -95470,6 +95470,15 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/reversible-stone-necklace-1?variant=gid://shopify/ProductVariant/49443186049251",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16798_4.jpg?v=1784900804"
+  },
+  "gid://shopify/ProductVariant/49445332156643": {
+    "product_title": "Glittering Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2160",
+    "price": 8000.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/glittering-ring-2?variant=gid://shopify/ProductVariant/49445332156643",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2160.jpg?v=1784955665"
   },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
@@ -110788,14 +110797,5 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/lumina-moissanite-pendant-set?variant=gid://shopify/ProductVariant/49436846981347",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4725.jpg?v=1784715865"
-  },
-  "gid://shopify/ProductVariant/49445332156643": {
-    "product_title": "Glittering Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-2160",
-    "price": 8000.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/glittering-ring-2?variant=gid://shopify/ProductVariant/49445332156643",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2160.jpg?v=1784955665"
   }
 }
