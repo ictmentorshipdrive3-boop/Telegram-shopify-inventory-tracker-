@@ -1462,7 +1462,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-2644",
     "price": 14350.0,
-    "stock": 2,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/devika-necklace?variant=gid://shopify/ProductVariant/42667647172835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-2644.jpg?v=1778993230"
   },
@@ -11455,6 +11455,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/lithi-nagas-drops?variant=gid://shopify/ProductVariant/45392033120483",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6482.jpg?v=1723202718"
+  },
+  "gid://shopify/ProductVariant/45397342486755": {
+    "product_title": "Saaji Stone Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-6883",
+    "price": 14000.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/saaji-stone-short-necklace?variant=gid://shopify/ProductVariant/45397342486755",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-6883.jpg?v=1723358983"
   },
   "gid://shopify/ProductVariant/45397355954403": {
     "product_title": "Mudhani Nagas Long Necklace",
@@ -84347,6 +84356,15 @@
     "url": "https://www.theamethyststore.com/products/gajakarna-3d-spl-pendant?variant=gid://shopify/ProductVariant/49320137916643",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4375.jpg?v=1782545331"
   },
+  "gid://shopify/ProductVariant/49320149090531": {
+    "product_title": "Mystic Aura Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16338",
+    "price": 32160.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/mystic-aura-nagas-short-necklace?variant=gid://shopify/ProductVariant/49320149090531",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16338.jpg?v=1782545374"
+  },
   "gid://shopify/ProductVariant/49320152695011": {
     "product_title": "Bhavinkha Kundan Pair Bangle",
     "variant_title": "2.6\"",
@@ -97667,15 +97685,6 @@
     "url": "https://www.theamethyststore.com/products/srivin-stone-choker-set?variant=gid://shopify/ProductVariant/45392053502179",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-6671_3.jpg?v=1723203392"
   },
-  "gid://shopify/ProductVariant/45397342486755": {
-    "product_title": "Saaji Stone Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-6883",
-    "price": 15049.16,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/saaji-stone-short-necklace?variant=gid://shopify/ProductVariant/45397342486755",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-6883.jpg?v=1723358983"
-  },
   "gid://shopify/ProductVariant/45397359165667": {
     "product_title": "Prajakta Nagas Necklace",
     "variant_title": "Default Title",
@@ -109969,15 +109978,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/surya-chandra-jada-billa-9?variant=gid://shopify/ProductVariant/49403893743843",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0837_2.jpg?v=1782539522"
-  },
-  "gid://shopify/ProductVariant/49320149090531": {
-    "product_title": "Mystic Aura Nagas Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16338",
-    "price": 32160.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/mystic-aura-nagas-short-necklace?variant=gid://shopify/ProductVariant/49320149090531",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16338.jpg?v=1782545374"
   },
   "gid://shopify/ProductVariant/49320162722019": {
     "product_title": "Manisha Nagas Jhumkas",
