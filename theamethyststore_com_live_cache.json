@@ -35941,7 +35941,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-1594",
     "price": 2600.0,
-    "stock": 2,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/rishikha-stone-ring?variant=gid://shopify/ProductVariant/47089417388259",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1594.jpg?v=1756903175"
   },
@@ -45944,6 +45944,15 @@
     "url": "https://www.theamethyststore.com/products/unisha-mugappu-pendant?variant=gid://shopify/ProductVariant/47386926153955",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3579.jpg?v=1761304401"
   },
+  "gid://shopify/ProductVariant/47386934837475": {
+    "product_title": "Thishika Nagas Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-12599",
+    "price": 104900.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/thishika-nagas-long-necklace-1?variant=gid://shopify/ProductVariant/47386934837475",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12599.jpg?v=1761304661"
+  },
   "gid://shopify/ProductVariant/47386934903011": {
     "product_title": "Yalisha Mugappu Pendant",
     "variant_title": "Default Title",
@@ -46057,7 +46066,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-1627",
     "price": 3000.0,
-    "stock": 18,
+    "stock": 19,
     "url": "https://www.theamethyststore.com/products/nandhitha-stone-ring?variant=gid://shopify/ProductVariant/47392953893091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1627.jpg?v=1761375418"
   },
@@ -88069,7 +88078,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-14305",
     "price": 5500.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/idhika-avikam-earrings?variant=gid://shopify/ProductVariant/49363795378403",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14305.jpg?v=1783166799"
   },
@@ -102698,15 +102707,6 @@
     "url": "https://www.theamethyststore.com/products/charvi-stone-pendant?variant=gid://shopify/ProductVariant/47385917817059",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3515.jpg?v=1761291159"
   },
-  "gid://shopify/ProductVariant/47386934837475": {
-    "product_title": "Thishika Nagas Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-12599",
-    "price": 104900.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/thishika-nagas-long-necklace-1?variant=gid://shopify/ProductVariant/47386934837475",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12599.jpg?v=1761304661"
-  },
   "gid://shopify/ProductVariant/47393178779875": {
     "product_title": "Parvina Hook Jhumkas",
     "variant_title": "Default Title",
@@ -110824,5 +110824,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/lumina-moissanite-pendant-set?variant=gid://shopify/ProductVariant/49436846981347",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4725.jpg?v=1784715865"
+  },
+  "gid://shopify/ProductVariant/49445739233507": {
+    "product_title": "Manisha Moissanite Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2163",
+    "price": 8000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/manisha-moissanite-ring?variant=gid://shopify/ProductVariant/49445739233507",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2163.jpg?v=1784959126"
   }
 }
