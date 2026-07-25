@@ -7343,15 +7343,6 @@
     "url": "https://www.theamethyststore.com/products/shivakar-nagas-tikka?variant=gid://shopify/ProductVariant/44298436313315",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-0908_9aee7a08-5f79-473f-97a4-0a8f00fde1df.jpg?v=1735457452"
   },
-  "gid://shopify/ProductVariant/44298441687267": {
-    "product_title": "Chara Nagas Nakshi Tikka",
-    "variant_title": "Default Title",
-    "sku": "AMS-109-0911",
-    "price": 12652.2,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/chara-nagas-nakshi-tikka?variant=gid://shopify/ProductVariant/44298441687267",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-0911_3.jpg?v=1735561458"
-  },
   "gid://shopify/ProductVariant/44298444570851": {
     "product_title": "Zarina Nagas Maangtikka",
     "variant_title": "Default Title",
@@ -44459,15 +44450,6 @@
     "url": "https://www.theamethyststore.com/products/charm-glow-stone-pendant-1?variant=gid://shopify/ProductVariant/47328573587683",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3470.jpg?v=1760530718"
   },
-  "gid://shopify/ProductVariant/47328634372323": {
-    "product_title": "Lushikha Nagas Choker",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-11822",
-    "price": 39916.2,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/lushikha-nagas-choker?variant=gid://shopify/ProductVariant/47328634372323",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11822.jpg?v=1760532970"
-  },
   "gid://shopify/ProductVariant/47328636535011": {
     "product_title": "Dazzle Stone Pendant",
     "variant_title": "Default Title",
@@ -55105,15 +55087,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/fabulous-bullakku-nose-pin?variant=gid://shopify/ProductVariant/47807903891683",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0416.jpg?v=1767965816"
-  },
-  "gid://shopify/ProductVariant/47807905136867": {
-    "product_title": "Lakshi Bullakku Nose Pin",
-    "variant_title": "Default Title",
-    "sku": "AMS-113-0421",
-    "price": 1300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/lakshi-bullakku-nose-pin?variant=gid://shopify/ProductVariant/47807905136867",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0421.jpg?v=1767965948"
   },
   "gid://shopify/ProductVariant/47807911493859": {
     "product_title": "Nidhika Stone Studs",
@@ -97019,6 +96992,15 @@
     "url": "https://www.theamethyststore.com/products/kshirsha-stone-maangtikka?variant=gid://shopify/ProductVariant/44297866150115",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-0897.jpg?v=1704949459"
   },
+  "gid://shopify/ProductVariant/44298441687267": {
+    "product_title": "Chara Nagas Nakshi Tikka",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-0911",
+    "price": 12652.2,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/chara-nagas-nakshi-tikka?variant=gid://shopify/ProductVariant/44298441687267",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-0911_3.jpg?v=1735561458"
+  },
   "gid://shopify/ProductVariant/44305664901347": {
     "product_title": "Prakrit Stone Maangtikka",
     "variant_title": "Default Title",
@@ -102499,6 +102481,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/crystal-crown-stone-pendant?variant=gid://shopify/ProductVariant/47328598851811",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3471.jpg?v=1760531307"
+  },
+  "gid://shopify/ProductVariant/47328634372323": {
+    "product_title": "Lushikha Nagas Choker",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-11822",
+    "price": 39916.2,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/lushikha-nagas-choker?variant=gid://shopify/ProductVariant/47328634372323",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11822.jpg?v=1760532970"
   },
   "gid://shopify/ProductVariant/47332682596579": {
     "product_title": "Lavishka Short Necklace",
