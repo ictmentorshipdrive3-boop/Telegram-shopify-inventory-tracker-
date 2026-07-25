@@ -251,15 +251,6 @@
     "url": "https://www.muskanjewel.com/products/jadau-kundan-bangles?variant=gid://shopify/ProductVariant/52878914257212",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/8b25a3f1-a03d-478f-be83-9ce795eddd16.webp?v=1768467672"
   },
-  "gid://shopify/ProductVariant/52628536721724": {
-    "product_title": "Jadau kundan Tika with pearl drop and natural strawberry beads",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 700.0,
-    "stock": 1,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-tika-with-pearl-drop-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52628536721724",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/efc9736e-b3b2-46cd-a8d5-a792ac5824da.webp?v=1768468328"
-  },
   "gid://shopify/ProductVariant/52628585251132": {
     "product_title": "jadau kundan peacock tika with pearl drop and natural strawberry beads",
     "variant_title": "Default Title",
@@ -1381,7 +1372,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 1000.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-chand-tika-with-pearl-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52974942323004",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260407_200850_0a7d2caa-143a-421a-8add-b5422c2ccf69.webp?v=1775913631"
   },
@@ -2374,6 +2365,15 @@
     "stock": 0,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-double-layer-bangles?variant=gid://shopify/ProductVariant/52878921367868",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/2f52a31d-8be4-40d3-bc52-effd6c96046f.webp?v=1768466552"
+  },
+  "gid://shopify/ProductVariant/52628536721724": {
+    "product_title": "Jadau kundan Tika with pearl drop and natural strawberry beads",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 700.0,
+    "stock": 0,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-tika-with-pearl-drop-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52628536721724",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/efc9736e-b3b2-46cd-a8d5-a792ac5824da.webp?v=1768468328"
   },
   "gid://shopify/ProductVariant/52628577681724": {
     "product_title": "Jadau kundan tika with pearl drops and Natural strawberry beads",
