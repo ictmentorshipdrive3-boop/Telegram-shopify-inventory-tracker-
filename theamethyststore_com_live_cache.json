@@ -61712,15 +61712,6 @@
     "url": "https://www.theamethyststore.com/products/attractive-stone-choker?variant=gid://shopify/ProductVariant/48033699791075",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14178.jpg?v=1770534081"
   },
-  "gid://shopify/ProductVariant/48033700479203": {
-    "product_title": "Fabulous Nagas Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-14556",
-    "price": 95220.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nagas-long-necklace-22?variant=gid://shopify/ProductVariant/48033700479203",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14556.jpg?v=1770534638"
-  },
   "gid://shopify/ProductVariant/48033707131107": {
     "product_title": "Sharvikha Nagas Long Necklace",
     "variant_title": "Default Title",
@@ -91012,7 +91003,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-16576",
     "price": 4800.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/amazing-hasli-necklace?variant=gid://shopify/ProductVariant/49396634910947",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16576.jpg?v=1783842563"
   },
@@ -96064,6 +96055,96 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/moissanite-studs-19?variant=gid://shopify/ProductVariant/49447378059491",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15514.jpg?v=1784982114"
+  },
+  "gid://shopify/ProductVariant/49447380812003": {
+    "product_title": "Anisha Moissanite Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15516",
+    "price": 7700.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/moissanite-studs-20?variant=gid://shopify/ProductVariant/49447380812003",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15516.jpg?v=1784982655"
+  },
+  "gid://shopify/ProductVariant/49447380975843": {
+    "product_title": "Srinika Moissanite Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15517",
+    "price": 8700.0,
+    "stock": 4,
+    "url": "https://www.theamethyststore.com/products/moissanite-studs-21?variant=gid://shopify/ProductVariant/49447380975843",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15517.jpg?v=1784982867"
+  },
+  "gid://shopify/ProductVariant/49447381074147": {
+    "product_title": "Mesmerizing Moissanite Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4737",
+    "price": 40100.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/mesmerizing-moissanite-pendant-set-1?variant=gid://shopify/ProductVariant/49447381074147",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4737.jpg?v=1784982917"
+  },
+  "gid://shopify/ProductVariant/49447381696739": {
+    "product_title": "Vishalini Moissanite Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15519",
+    "price": 7400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/moissanite-studs-22?variant=gid://shopify/ProductVariant/49447381696739",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15519.jpg?v=1784983009"
+  },
+  "gid://shopify/ProductVariant/49447381827811": {
+    "product_title": "Shine Charm Moissanite Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4738",
+    "price": 25300.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/shine-charm-moissanite-pendant-set?variant=gid://shopify/ProductVariant/49447381827811",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4738.jpg?v=1784983063"
+  },
+  "gid://shopify/ProductVariant/49447382515939": {
+    "product_title": "Hanitha Moissanite Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15520",
+    "price": 4100.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/moissanite-studs-23?variant=gid://shopify/ProductVariant/49447382515939",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15520.jpg?v=1784983119"
+  },
+  "gid://shopify/ProductVariant/49447382581475": {
+    "product_title": "Catchy Moissanite Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15521",
+    "price": 7100.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/moissanite-studs-24?variant=gid://shopify/ProductVariant/49447382581475",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15521.jpg?v=1784983220"
+  },
+  "gid://shopify/ProductVariant/49447383007459": {
+    "product_title": "Strinking Moissanite Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15500",
+    "price": 7200.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/moissanite-drops?variant=gid://shopify/ProductVariant/49447383007459",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15500.jpg?v=1784984276"
+  },
+  "gid://shopify/ProductVariant/49447384514787": {
+    "product_title": "Sparkling Moissanite Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4739",
+    "price": 43400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/sparkling-moissanite-pendant-set?variant=gid://shopify/ProductVariant/49447384514787",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4739.jpg?v=1784983603"
+  },
+  "gid://shopify/ProductVariant/49447385661667": {
+    "product_title": "Gleaming Moissanite Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4740",
+    "price": 15500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/gleaming-moissanite-pendant-set?variant=gid://shopify/ProductVariant/49447385661667",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4740.jpg?v=1784984319"
   },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
@@ -105803,6 +105884,15 @@
     "url": "https://www.theamethyststore.com/products/majestic-nagas-long-necklace-1?variant=gid://shopify/ProductVariant/48033687437539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14718.jpg?v=1770532840"
   },
+  "gid://shopify/ProductVariant/48033700479203": {
+    "product_title": "Fabulous Nagas Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-14556",
+    "price": 95220.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-long-necklace-22?variant=gid://shopify/ProductVariant/48033700479203",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14556.jpg?v=1770534638"
+  },
   "gid://shopify/ProductVariant/48033712013539": {
     "product_title": "Vidhyasa Kundan Bracelet",
     "variant_title": "Default Title",
@@ -111409,14 +111499,5 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/lumina-moissanite-pendant-set?variant=gid://shopify/ProductVariant/49436846981347",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4725.jpg?v=1784715865"
-  },
-  "gid://shopify/ProductVariant/49447333789923": {
-    "product_title": "Stunning Necklace",
-    "variant_title": "Default Title",
-    "sku": "625-A64966",
-    "price": 46600.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/moissanite-necklace-set-1?variant=gid://shopify/ProductVariant/49447333789923",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/WhatsAppImage2026-07-25at4.16.45PM.jpg?v=1784976434"
   }
 }
