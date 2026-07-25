@@ -78785,15 +78785,6 @@
     "url": "https://www.theamethyststore.com/products/vritika-nagas-jhumkas?variant=gid://shopify/ProductVariant/49158360957155",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14017.jpg?v=1780640812"
   },
-  "gid://shopify/ProductVariant/49158419972323": {
-    "product_title": "Ojasvi Nagas Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14022",
-    "price": 13750.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/ojasvi-nagas-jhumkas?variant=gid://shopify/ProductVariant/49158419972323",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14022.jpg?v=1780643390"
-  },
   "gid://shopify/ProductVariant/49158875054307": {
     "product_title": "Akshata Nagas Drops",
     "variant_title": "Default Title",
@@ -104111,6 +104102,15 @@
     "url": "https://www.theamethyststore.com/products/rasika-bullakku-nose-pin?variant=gid://shopify/ProductVariant/47807883608291",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0393.jpg?v=1767964283"
   },
+  "gid://shopify/ProductVariant/47807905136867": {
+    "product_title": "Lakshi Bullakku Nose Pin",
+    "variant_title": "Default Title",
+    "sku": "AMS-113-0421",
+    "price": 1300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/lakshi-bullakku-nose-pin?variant=gid://shopify/ProductVariant/47807905136867",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0421.jpg?v=1767965948"
+  },
   "gid://shopify/ProductVariant/47807906349283": {
     "product_title": "Natasha Stone Studs",
     "variant_title": "Default Title",
@@ -108917,6 +108917,15 @@
     "url": "https://www.theamethyststore.com/products/nagas-jhumkas-42?variant=gid://shopify/ProductVariant/49150925013219",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14103.jpg?v=1780581273"
   },
+  "gid://shopify/ProductVariant/49158419972323": {
+    "product_title": "Ojasvi Nagas Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14022",
+    "price": 13750.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ojasvi-nagas-jhumkas?variant=gid://shopify/ProductVariant/49158419972323",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14022.jpg?v=1780643390"
+  },
   "gid://shopify/ProductVariant/49158754107619": {
     "product_title": "Aryahi Nagas Jhumkas",
     "variant_title": "Default Title",
@@ -110779,5 +110788,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/lumina-moissanite-pendant-set?variant=gid://shopify/ProductVariant/49436846981347",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4725.jpg?v=1784715865"
+  },
+  "gid://shopify/ProductVariant/49445332156643": {
+    "product_title": "Glittering Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2160",
+    "price": 8000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/glittering-ring-2?variant=gid://shopify/ProductVariant/49445332156643",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2160.jpg?v=1784955665"
   }
 }
