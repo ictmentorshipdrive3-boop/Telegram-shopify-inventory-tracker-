@@ -51290,15 +51290,6 @@
     "url": "https://www.theamethyststore.com/products/glittering-stud?variant=gid://shopify/ProductVariant/47721455157475",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11447.jpg?v=1765345403"
   },
-  "gid://shopify/ProductVariant/47721463021795": {
-    "product_title": "Pranisha Nagas Chain",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-1420",
-    "price": 19525.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/pranisha-nagas-chain?variant=gid://shopify/ProductVariant/47721463021795",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1420.jpg?v=1765345801"
-  },
   "gid://shopify/ProductVariant/47721469870307": {
     "product_title": "Ziyasri Nagas Chain",
     "variant_title": "Default Title",
@@ -84680,15 +84671,6 @@
     "url": "https://www.theamethyststore.com/products/nagas-pair-bangles-46?variant=gid://shopify/ProductVariant/49320502821091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3299.jpg?v=1782566718"
   },
-  "gid://shopify/ProductVariant/49320503541987": {
-    "product_title": "Priyanka Nagas Pair Bangles",
-    "variant_title": "2.6\"",
-    "sku": "AMS-107-3298-2.6\"",
-    "price": 39050.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nagas-pair-bangles-47?variant=gid://shopify/ProductVariant/49320503541987",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3298_2.jpg?v=1782566924"
-  },
   "gid://shopify/ProductVariant/49320504262883": {
     "product_title": "Mathisha Nagas Pair Bangles",
     "variant_title": "2.6\"",
@@ -96056,6 +96038,33 @@
     "url": "https://www.theamethyststore.com/products/moissanite-studs-17?variant=gid://shopify/ProductVariant/49447368753379",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15511.jpg?v=1784981487"
   },
+  "gid://shopify/ProductVariant/49447369244899": {
+    "product_title": "Tarinkaa Moissanite Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15513",
+    "price": 7500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/moissanite-studs-18?variant=gid://shopify/ProductVariant/49447369244899",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15513.jpg?v=1784981821"
+  },
+  "gid://shopify/ProductVariant/49447372456163": {
+    "product_title": "Amazing Moissanite Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4736",
+    "price": 30200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/amazing-moissanite-pendant-set-1?variant=gid://shopify/ProductVariant/49447372456163",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4736.jpg?v=1784981956"
+  },
+  "gid://shopify/ProductVariant/49447378059491": {
+    "product_title": "Nivethika Moissanite Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15514",
+    "price": 14400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/moissanite-studs-19?variant=gid://shopify/ProductVariant/49447378059491",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15514.jpg?v=1784982114"
+  },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
     "variant_title": "Default Title",
@@ -103913,6 +103922,15 @@
     "url": "https://www.theamethyststore.com/products/tiyasri-nagas-chain?variant=gid://shopify/ProductVariant/47718957187299",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1484.jpg?v=1765283129"
   },
+  "gid://shopify/ProductVariant/47721463021795": {
+    "product_title": "Pranisha Nagas Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-1420",
+    "price": 19525.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/pranisha-nagas-chain?variant=gid://shopify/ProductVariant/47721463021795",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1420.jpg?v=1765345801"
+  },
   "gid://shopify/ProductVariant/47721490743523": {
     "product_title": "Dhashvanthi Nagas Chain",
     "variant_title": "Default Title",
@@ -110599,6 +110617,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/short-necklace-55?variant=gid://shopify/ProductVariant/49320502427875",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16256_15aa28dd-7c71-4a3c-bdd5-9f89fd20c708.jpg?v=1782566747"
+  },
+  "gid://shopify/ProductVariant/49320503541987": {
+    "product_title": "Priyanka Nagas Pair Bangles",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-3298-2.6\"",
+    "price": 39050.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-pair-bangles-47?variant=gid://shopify/ProductVariant/49320503541987",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3298_2.jpg?v=1782566924"
   },
   "gid://shopify/ProductVariant/49320505213155": {
     "product_title": "Eternal Elegance Short Necklace",
