@@ -66986,15 +66986,6 @@
     "url": "https://www.theamethyststore.com/products/floral-bugadi-earrings-1?variant=gid://shopify/ProductVariant/48345433178339",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13101.jpg?v=1772452751"
   },
-  "gid://shopify/ProductVariant/48345659834595": {
-    "product_title": "Heritage Bugadi Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-13104",
-    "price": 8520.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/heritage-bugadi-earrings?variant=gid://shopify/ProductVariant/48345659834595",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13104.jpg?v=1772453113"
-  },
   "gid://shopify/ProductVariant/48345958809827": {
     "product_title": "Aura Bugadi Earrings",
     "variant_title": "Default Title",
@@ -79064,15 +79055,6 @@
     "url": "https://www.theamethyststore.com/products/cara-long-necklace?variant=gid://shopify/ProductVariant/49251720462563",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15920.jpg?v=1781241380"
   },
-  "gid://shopify/ProductVariant/49251915792611": {
-    "product_title": "Elena Avikam Pendant Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-4218",
-    "price": 7744.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/elena-avikam-pendant-set?variant=gid://shopify/ProductVariant/49251915792611",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4218.jpg?v=1781245573"
-  },
   "gid://shopify/ProductVariant/49252036116707": {
     "product_title": "Aanya Stone Pendant",
     "variant_title": "Default Title",
@@ -80197,15 +80179,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/nagas-mini-short-necklace?variant=gid://shopify/ProductVariant/49273618956515",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16033.jpg?v=1781693681"
-  },
-  "gid://shopify/ProductVariant/49273619120355": {
-    "product_title": "Traditional Nagas Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16302",
-    "price": 94336.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nagas-short-necklace-40?variant=gid://shopify/ProductVariant/49273619120355",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16302_2.jpg?v=1781693654"
   },
   "gid://shopify/ProductVariant/49273800196323": {
     "product_title": "Laveena Nagas Mini Short Necklace",
@@ -84472,15 +84445,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/kundan-pendant-55?variant=gid://shopify/ProductVariant/49320483979491",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4343.jpg?v=1782564255"
-  },
-  "gid://shopify/ProductVariant/49320489156835": {
-    "product_title": "Eternal Tradition Nagas Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16247",
-    "price": 42870.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/eternal-tradition-nagas-short-necklace?variant=gid://shopify/ProductVariant/49320489156835",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16247_ced4d276-0ec4-484c-b63d-d24ee97679c0.jpg?v=1782564797"
   },
   "gid://shopify/ProductVariant/49320490467555": {
     "product_title": "Madhav 3D Spl Pendant",
@@ -110483,6 +110447,15 @@
     "url": "https://www.theamethyststore.com/products/lucia-short-necklace?variant=gid://shopify/ProductVariant/49251744022755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15922.jpg?v=1781242479"
   },
+  "gid://shopify/ProductVariant/49251915792611": {
+    "product_title": "Elena Avikam Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4218",
+    "price": 7744.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/elena-avikam-pendant-set?variant=gid://shopify/ProductVariant/49251915792611",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4218.jpg?v=1781245573"
+  },
   "gid://shopify/ProductVariant/49252025794787": {
     "product_title": "Siena Stone Pendant",
     "variant_title": "Default Title",
@@ -110752,6 +110725,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/aashikha-nagas-mini-short-necklace?variant=gid://shopify/ProductVariant/49273595363555",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16030.jpg?v=1781692825"
+  },
+  "gid://shopify/ProductVariant/49273619120355": {
+    "product_title": "Traditional Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16302",
+    "price": 94336.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-short-necklace-40?variant=gid://shopify/ProductVariant/49273619120355",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16302_2.jpg?v=1781693654"
   },
   "gid://shopify/ProductVariant/49273630818531": {
     "product_title": "Sithikaa Nagas Short Necklace",
@@ -111490,6 +111472,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/maragathavalli-3d-spl-pendant?variant=gid://shopify/ProductVariant/49320482865379",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4382.jpg?v=1782564223"
+  },
+  "gid://shopify/ProductVariant/49320489156835": {
+    "product_title": "Eternal Tradition Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16247",
+    "price": 42870.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/eternal-tradition-nagas-short-necklace?variant=gid://shopify/ProductVariant/49320489156835",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16247_ced4d276-0ec4-484c-b63d-d24ee97679c0.jpg?v=1782564797"
   },
   "gid://shopify/ProductVariant/49320502427875": {
     "product_title": "Timeless Grace Short Necklace",
