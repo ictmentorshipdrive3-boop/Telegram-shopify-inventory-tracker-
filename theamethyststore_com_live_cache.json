@@ -79613,15 +79613,6 @@
     "url": "https://www.theamethyststore.com/products/short-necklace-set-67?variant=gid://shopify/ProductVariant/49267959398627",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16184.jpg?v=1781606723"
   },
-  "gid://shopify/ProductVariant/49267967688931": {
-    "product_title": "Saanvikha Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16186",
-    "price": 58080.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/short-necklace-set-68?variant=gid://shopify/ProductVariant/49267967688931",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16186.jpg?v=1781607058"
-  },
   "gid://shopify/ProductVariant/49267968147683": {
     "product_title": "Heshvitha Chandubaali Earrings",
     "variant_title": "Default Title",
@@ -110645,6 +110636,15 @@
     "url": "https://www.theamethyststore.com/products/omala-diamond-design-chain-with-earrings?variant=gid://shopify/ProductVariant/49262351876323",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1986.jpg?v=1781442731"
   },
+  "gid://shopify/ProductVariant/49267967688931": {
+    "product_title": "Saanvikha Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16186",
+    "price": 58080.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/short-necklace-set-68?variant=gid://shopify/ProductVariant/49267967688931",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16186.jpg?v=1781607058"
+  },
   "gid://shopify/ProductVariant/49268002128099": {
     "product_title": "Elegant Bracelet",
     "variant_title": "2.10\"",
@@ -112291,5 +112291,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/lumina-moissanite-pendant-set?variant=gid://shopify/ProductVariant/49436846981347",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4725.jpg?v=1784715865"
+  },
+  "gid://shopify/ProductVariant/49448300052707": {
+    "product_title": "Sparkling Moissanite Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1407",
+    "price": 22800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/sparkling-moissanite-bracelet?variant=gid://shopify/ProductVariant/49448300052707",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1407.jpg?v=1785071716"
   }
 }
