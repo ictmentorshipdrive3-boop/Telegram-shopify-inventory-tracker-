@@ -6785,15 +6785,6 @@
     "url": "https://www.rasasilver.com/products/studs-24?variant=gid://shopify/ProductVariant/51350134784297",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS548.jpg?v=1761285388"
   },
-  "gid://shopify/ProductVariant/52291047686441": {
-    "product_title": "Glimvya Stone Ring",
-    "variant_title": "6",
-    "sku": "R17385",
-    "price": 1700.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/ring-20?variant=gid://shopify/ProductVariant/52291047686441",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0065_copy.jpg?v=1761283330"
-  },
   "gid://shopify/ProductVariant/51350170435881": {
     "product_title": "Ruvanya Stone Ring",
     "variant_title": "Green / 14",
@@ -33164,6 +33155,15 @@
     "url": "https://www.rasasilver.com/products/studs-23?variant=gid://shopify/ProductVariant/51350127477033",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS565.jpg?v=1761285277"
   },
+  "gid://shopify/ProductVariant/52291047686441": {
+    "product_title": "Glimvya Stone Ring",
+    "variant_title": "6",
+    "sku": "R17385",
+    "price": 1700.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ring-20?variant=gid://shopify/ProductVariant/52291047686441",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0065_copy.jpg?v=1761283330"
+  },
   "gid://shopify/ProductVariant/52291044311337": {
     "product_title": "Mirvanki Stone Ring",
     "variant_title": "Default Title",
@@ -48859,6 +48859,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/lakshmi-sparkle-temple-studs?variant=gid://shopify/ProductVariant/53296604119337",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2368_resized.jpg?v=1784355103"
+  },
+  "gid://shopify/ProductVariant/53296605593897": {
+    "product_title": "Siri Vaibhava Temple Studs",
+    "variant_title": "Default Title",
+    "sku": "R31962",
+    "price": 2900.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/siri-vaibhava-temple-studs?variant=gid://shopify/ProductVariant/53296605593897",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2331_resized.jpg?v=1784355178"
   },
   "gid://shopify/ProductVariant/53296729227561": {
     "product_title": "Coral-Flora Stone Studs",
