@@ -40112,15 +40112,6 @@
     "url": "https://www.theamethyststore.com/products/saras-glow-toe-ring?variant=gid://shopify/ProductVariant/47208445772003",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0363.jpg?v=1758868057"
   },
-  "gid://shopify/ProductVariant/47208458387683": {
-    "product_title": "Amrit Toe Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-117-0365",
-    "price": 2400.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/amrit-toe-ring?variant=gid://shopify/ProductVariant/47208458387683",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0365.jpg?v=1758868211"
-  },
   "gid://shopify/ProductVariant/47208475459811": {
     "product_title": "Gauri Toe Ring",
     "variant_title": "Default Title",
@@ -40192,15 +40183,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/glitz-toe-ring?variant=gid://shopify/ProductVariant/47208569503971",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0393.jpg?v=1758870119"
-  },
-  "gid://shopify/ProductVariant/47208611119331": {
-    "product_title": "Vogue Charm Toe Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-117-0402",
-    "price": 2300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/vogue-charm-toe-ring?variant=gid://shopify/ProductVariant/47208611119331",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0402.jpg?v=1758871288"
   },
   "gid://shopify/ProductVariant/47208619770083": {
     "product_title": "Galaxy Charm Toe Ring",
@@ -103165,6 +103147,24 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/empress-toe-ring?variant=gid://shopify/ProductVariant/47208444264675",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0361.jpg?v=1758867951"
+  },
+  "gid://shopify/ProductVariant/47208458387683": {
+    "product_title": "Amrit Toe Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-117-0365",
+    "price": 2400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/amrit-toe-ring?variant=gid://shopify/ProductVariant/47208458387683",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0365.jpg?v=1758868211"
+  },
+  "gid://shopify/ProductVariant/47208611119331": {
+    "product_title": "Vogue Charm Toe Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-117-0402",
+    "price": 2300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vogue-charm-toe-ring?variant=gid://shopify/ProductVariant/47208611119331",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0402.jpg?v=1758871288"
   },
   "gid://shopify/ProductVariant/47208671936739": {
     "product_title": "Sparkle Toe Ring",
