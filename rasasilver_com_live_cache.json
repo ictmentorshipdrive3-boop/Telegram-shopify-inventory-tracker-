@@ -3950,15 +3950,6 @@
     "url": "https://www.rasasilver.com/products/triveni-ratna-bangles?variant=gid://shopify/ProductVariant/50711389339945",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2-7_4355566d-0da1-4641-a8a9-66af8f740ab8.jpg?v=1754650572"
   },
-  "gid://shopify/ProductVariant/50711435280681": {
-    "product_title": "Ruby Orbitz Bangles",
-    "variant_title": "2.6",
-    "sku": "R7857",
-    "price": 14800.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/ruby-orbitz-bangles?variant=gid://shopify/ProductVariant/50711435280681",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2-13_895a0b1f-8301-4fb8-a82f-1d4a042434ae.jpg?v=1754905926"
-  },
   "gid://shopify/ProductVariant/50711479189801": {
     "product_title": "Ovalisca Stone Bangles",
     "variant_title": "2.5",
@@ -15020,15 +15011,6 @@
     "url": "https://www.rasasilver.com/products/rose-stone-bangles?variant=gid://shopify/ProductVariant/52553573564713",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_30Jan2550_resized.jpg?v=1770377433"
   },
-  "gid://shopify/ProductVariant/52553582575913": {
-    "product_title": "Scarlet Shine Stone Bangles",
-    "variant_title": "2.5",
-    "sku": "R24391",
-    "price": 40770.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/scarlet-shine-stone-bangles?variant=gid://shopify/ProductVariant/52553582575913",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_30Jan2504_resized.jpg?v=1770379350"
-  },
   "gid://shopify/ProductVariant/52553598763305": {
     "product_title": "Dual Shape Stone Bangles",
     "variant_title": "2.4",
@@ -25870,7 +25852,7 @@
     "variant_title": "Default Title",
     "sku": "R31985",
     "price": 1600.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.rasasilver.com/products/minimal-plain-chain?variant=gid://shopify/ProductVariant/53329485431081",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0841_resized.jpg?v=1784115244"
   },
@@ -28006,6 +27988,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/10?variant=gid://shopify/ProductVariant/50711407231273",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2_3dfae944-226f-4a59-b197-6fc7033d5377.jpg?v=1754039982"
+  },
+  "gid://shopify/ProductVariant/50711435280681": {
+    "product_title": "Ruby Orbitz Bangles",
+    "variant_title": "2.6",
+    "sku": "R7857",
+    "price": 14800.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ruby-orbitz-bangles?variant=gid://shopify/ProductVariant/50711435280681",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2-13_895a0b1f-8301-4fb8-a82f-1d4a042434ae.jpg?v=1754905926"
   },
   "gid://shopify/ProductVariant/50711487709481": {
     "product_title": "Zarina Ruby Studs",
@@ -43162,6 +43153,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/rosy-recta-antique-bangles?variant=gid://shopify/ProductVariant/52553492726057",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_30Jan2882_resized.jpg?v=1770373507"
+  },
+  "gid://shopify/ProductVariant/52553582575913": {
+    "product_title": "Scarlet Shine Stone Bangles",
+    "variant_title": "2.5",
+    "sku": "R24391",
+    "price": 40770.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/scarlet-shine-stone-bangles?variant=gid://shopify/ProductVariant/52553582575913",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_30Jan2504_resized.jpg?v=1770379350"
   },
   "gid://shopify/ProductVariant/52553614754089": {
     "product_title": "Green-Swan Victorian Bangles",
