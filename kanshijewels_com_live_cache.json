@@ -2465,15 +2465,6 @@
     "url": "https://www.kanshijewels.com/products/jadau-kundan-maang-tika-7?variant=gid://shopify/ProductVariant/46476541165868",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1300_4.jpg?v=1692611777"
   },
-  "gid://shopify/ProductVariant/46476569641260": {
-    "product_title": "Jadau Kundan Maang Tikka",
-    "variant_title": "Default Title",
-    "sku": "MT54",
-    "price": 1470.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-kundan-maang-tika-8?variant=gid://shopify/ProductVariant/46476569641260",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1400_1feb5993-3a67-4ded-8db7-fbb8406b17fe.jpg?v=1692611806"
-  },
   "gid://shopify/ProductVariant/46476612010284": {
     "product_title": "Jadau Kundan Maang Tikka",
     "variant_title": "Default Title",
@@ -8032,7 +8023,7 @@
     "variant_title": "Default Title",
     "sku": "NK149",
     "price": 2205.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.kanshijewels.com/products/jadau-chokar-3?variant=gid://shopify/ProductVariant/51119688548652",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0758.jpg?v=1747994802"
   },
@@ -9508,7 +9499,7 @@
     "variant_title": "Default Title",
     "sku": "MT14",
     "price": 850.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.kanshijewels.com/products/mossanite-tika-2?variant=gid://shopify/ProductVariant/52445284696364",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Mossanitetika850.jpg?v=1766140806"
   },
@@ -12085,6 +12076,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-pendant-1?variant=gid://shopify/ProductVariant/46475570479404",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1900_1.jpg?v=1692610809"
+  },
+  "gid://shopify/ProductVariant/46476569641260": {
+    "product_title": "Jadau Kundan Maang Tikka",
+    "variant_title": "Default Title",
+    "sku": "MT54",
+    "price": 1470.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-kundan-maang-tika-8?variant=gid://shopify/ProductVariant/46476569641260",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1400_1feb5993-3a67-4ded-8db7-fbb8406b17fe.jpg?v=1692611806"
   },
   "gid://shopify/ProductVariant/46476841550124": {
     "product_title": "Mangalsutra",
