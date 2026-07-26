@@ -1659,7 +1659,7 @@
     "product_title": "Rudhra Rope Necklace",
     "variant_title": "Black",
     "sku": "AMS-102-2754 (B)",
-    "price": 20400.0,
+    "price": 17000.0,
     "stock": 4,
     "url": "https://www.theamethyststore.com/products/rudhra-rope-necklace?variant=gid://shopify/ProductVariant/42926109982947",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS09736.jpg?v=1695447654"
@@ -1668,7 +1668,7 @@
     "product_title": "Rudhra Rope Necklace",
     "variant_title": "Green",
     "sku": "AMS-102-2754 (G)",
-    "price": 18100.0,
+    "price": 17000.0,
     "stock": 5,
     "url": "https://www.theamethyststore.com/products/rudhra-rope-necklace?variant=gid://shopify/ProductVariant/42926110048483",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS09736.jpg?v=1695447654"
@@ -1677,7 +1677,7 @@
     "product_title": "Rudhra Rope Necklace",
     "variant_title": "Red",
     "sku": "AMS-102-2754 (R)",
-    "price": 19200.0,
+    "price": 17000.0,
     "stock": 4,
     "url": "https://www.theamethyststore.com/products/rudhra-rope-necklace?variant=gid://shopify/ProductVariant/42926110114019",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS09736.jpg?v=1695447654"
@@ -96542,6 +96542,51 @@
     "url": "https://www.theamethyststore.com/products/bracelet-21?variant=gid://shopify/ProductVariant/49448013201635",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1400.jpg?v=1785051755"
   },
+  "gid://shopify/ProductVariant/49448015593699": {
+    "product_title": "Classy Brooch Pin",
+    "variant_title": "Default Title",
+    "sku": "AMS-121-0184",
+    "price": 17600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/brooch-pin-7?variant=gid://shopify/ProductVariant/49448015593699",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-121-0184.jpg?v=1785051931"
+  },
+  "gid://shopify/ProductVariant/49448015626467": {
+    "product_title": "Mesmerizing Moissanite Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1397",
+    "price": 25000.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/mesmerizing-moissanite-bracelet?variant=gid://shopify/ProductVariant/49448015626467",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1397.jpg?v=1785051940"
+  },
+  "gid://shopify/ProductVariant/49448016707811": {
+    "product_title": "Bold Brooch Pin",
+    "variant_title": "Default Title",
+    "sku": "AMS-121-0185",
+    "price": 27000.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/brooch-pin-8?variant=gid://shopify/ProductVariant/49448016707811",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-121-0185.jpg?v=1785052071"
+  },
+  "gid://shopify/ProductVariant/49448019034339": {
+    "product_title": "Gleaming Moissanite Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1398",
+    "price": 25600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/gleaming-moissanite-bracelet?variant=gid://shopify/ProductVariant/49448019034339",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1398.jpg?v=1785052429"
+  },
+  "gid://shopify/ProductVariant/49448019951843": {
+    "product_title": "Shine Charming Moissanite Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1399",
+    "price": 26300.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/shine-charming-moissanite-bracelet?variant=gid://shopify/ProductVariant/49448019951843",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1399.jpg?v=1785052574"
+  },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
     "variant_title": "Default Title",
@@ -111976,14 +112021,5 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/lumina-moissanite-pendant-set?variant=gid://shopify/ProductVariant/49436846981347",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4725.jpg?v=1784715865"
-  },
-  "gid://shopify/ProductVariant/49448015593699": {
-    "product_title": "Classy Brooch Pin",
-    "variant_title": "Default Title",
-    "sku": "AMS-121-0184",
-    "price": 17600.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/brooch-pin-7?variant=gid://shopify/ProductVariant/49448015593699",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-121-0184.jpg?v=1785051931"
   }
 }
