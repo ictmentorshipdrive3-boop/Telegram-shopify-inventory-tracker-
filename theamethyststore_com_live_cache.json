@@ -13558,7 +13558,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-6867",
     "price": 4900.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/yalika-stone-studs?variant=gid://shopify/ProductVariant/45598094622947",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6867.jpg?v=1728385287"
   },
@@ -17134,15 +17134,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/akshaya-short-necklace?variant=gid://shopify/ProductVariant/46006249881827",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8532.jpg?v=1739367103"
-  },
-  "gid://shopify/ProductVariant/46006314795235": {
-    "product_title": "Ananya Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-8519",
-    "price": 24950.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/ananya-short-necklace-1?variant=gid://shopify/ProductVariant/46006314795235",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8519_e5fccdf5-c869-4ab9-bcf6-1f729a9c986c.jpg?v=1764078669"
   },
   "gid://shopify/ProductVariant/46006326296803": {
     "product_title": "Nitra Short Necklace",
@@ -25342,15 +25333,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/chitara-nagas-short-necklace?variant=gid://shopify/ProductVariant/46764619497699",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10196.jpg?v=1751281410"
-  },
-  "gid://shopify/ProductVariant/46764625264867": {
-    "product_title": "Divisha Nagas Choker",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-10197",
-    "price": 87912.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/divisha-nagas-choker?variant=gid://shopify/ProductVariant/46764625264867",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10197.jpg?v=1751281794"
   },
   "gid://shopify/ProductVariant/46764648661219": {
     "product_title": "Bridal Avikam Choker",
@@ -35827,15 +35809,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/nagas-short-necklace-5?variant=gid://shopify/ProductVariant/47089249190115",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11265.jpg?v=1756900286"
-  },
-  "gid://shopify/ProductVariant/47089268883683": {
-    "product_title": "Grand Divine Nagas Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-11269",
-    "price": 101100.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/grand-divine-nagas-short-necklace?variant=gid://shopify/ProductVariant/47089268883683",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11269.jpg?v=1756900729"
   },
   "gid://shopify/ProductVariant/47089298800867": {
     "product_title": "Grandeur Nagas Short Necklace",
@@ -49156,15 +49129,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/rishitha-nagas-jhumkas?variant=gid://shopify/ProductVariant/47551273042147",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11156_bdbf4b19-4d19-43fa-aab3-e0a32abed675.jpg?v=1763359059"
-  },
-  "gid://shopify/ProductVariant/47552678985955": {
-    "product_title": "Tharika Nagas Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-11165",
-    "price": 19123.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/tharika-nagas-jhumkas?variant=gid://shopify/ProductVariant/47552678985955",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11165.jpg?v=1763360739"
   },
   "gid://shopify/ProductVariant/47552799637731": {
     "product_title": "Amerila Nagas Jhumkas",
@@ -99620,6 +99584,15 @@
     "url": "https://www.theamethyststore.com/products/megana-short-necklace?variant=gid://shopify/ProductVariant/46006253945059",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8530.jpg?v=1739367373"
   },
+  "gid://shopify/ProductVariant/46006314795235": {
+    "product_title": "Ananya Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-8519",
+    "price": 24950.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ananya-short-necklace-1?variant=gid://shopify/ProductVariant/46006314795235",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8519_e5fccdf5-c869-4ab9-bcf6-1f729a9c986c.jpg?v=1764078669"
+  },
   "gid://shopify/ProductVariant/46006353854691": {
     "product_title": "Harsha Short Necklace",
     "variant_title": "Default Title",
@@ -100798,6 +100771,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/trendy-beads-long-necklace?variant=gid://shopify/ProductVariant/46764251447523",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10199.jpg?v=1751269882"
+  },
+  "gid://shopify/ProductVariant/46764625264867": {
+    "product_title": "Divisha Nagas Choker",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-10197",
+    "price": 87912.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/divisha-nagas-choker?variant=gid://shopify/ProductVariant/46764625264867",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10197.jpg?v=1751281794"
   },
   "gid://shopify/ProductVariant/46767373844707": {
     "product_title": "Purple Victorian Long Necklace set",
@@ -102626,6 +102608,15 @@
     "url": "https://www.theamethyststore.com/products/rohitha-kundan-choker-set?variant=gid://shopify/ProductVariant/47081649209571",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11304.jpg?v=1756725277"
   },
+  "gid://shopify/ProductVariant/47089268883683": {
+    "product_title": "Grand Divine Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-11269",
+    "price": 101100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/grand-divine-nagas-short-necklace?variant=gid://shopify/ProductVariant/47089268883683",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11269.jpg?v=1756900729"
+  },
   "gid://shopify/ProductVariant/47089314496739": {
     "product_title": "Arsha Nagas Short Necklace",
     "variant_title": "Default Title",
@@ -104137,6 +104128,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/eternal-glow-chain-with-earrings-1?variant=gid://shopify/ProductVariant/47527463649507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1334.jpg?v=1763112587"
+  },
+  "gid://shopify/ProductVariant/47552678985955": {
+    "product_title": "Tharika Nagas Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-11165",
+    "price": 19123.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/tharika-nagas-jhumkas?variant=gid://shopify/ProductVariant/47552678985955",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11165.jpg?v=1763360739"
   },
   "gid://shopify/ProductVariant/47569490280675": {
     "product_title": "Raziya Pair Bangles",
