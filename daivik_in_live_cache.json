@@ -3946,7 +3946,7 @@
     "variant_title": "Default Title",
     "sku": "1005",
     "price": 1799.0,
-    "stock": 37,
+    "stock": 36,
     "url": "https://www.daivik.in/products/a-96?variant=gid://shopify/ProductVariant/44200836563166",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_5ddff812-ad16-4e41-897d-081f5a44094f.heic?v=1684939937"
   },
@@ -6439,7 +6439,7 @@
     "variant_title": "Default Title",
     "sku": "862",
     "price": 1299.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.daivik.in/products/antique-ruby-green-necklace-with-balis?variant=gid://shopify/ProductVariant/44960557859038",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/43A57464-9020-4F51-9514-97EFF7369910.jpg?v=1711038648"
   },
@@ -13135,7 +13135,7 @@
     "variant_title": "Default Title",
     "sku": "1639",
     "price": 2299.0,
-    "stock": 22,
+    "stock": 21,
     "url": "https://www.daivik.in/products/ad-peacock-hipbelt-with-mesh-chain?variant=gid://shopify/ProductVariant/47088023896286",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/94ED0C42-81B1-4914-BEDA-B4E2D0F52C71.jpg?v=1752776835"
   },
@@ -16789,7 +16789,7 @@
     "variant_title": "1 Pc",
     "sku": "3508",
     "price": 249.0,
-    "stock": 46,
+    "stock": 45,
     "url": "https://www.daivik.in/products/a-32?variant=gid://shopify/ProductVariant/48347915288798",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6E16E45C-3BEA-4143-81B8-8D643B95A2BC.jpg?v=1762013592"
   },
@@ -19662,15 +19662,6 @@
     "price": 3499.0,
     "stock": 13,
     "url": "https://www.daivik.in/products/antique-temple-style-short-and-long-lakshmi-haram-with-earringss?variant=gid://shopify/ProductVariant/48079406563550",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9044.jpg?v=1775904077"
-  },
-  "gid://shopify/ProductVariant/48079406596318": {
-    "product_title": "Antique Temple Style Short and Long Lakshmi Haram with Earringss",
-    "variant_title": "Combo",
-    "sku": "446",
-    "price": 5999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/antique-temple-style-short-and-long-lakshmi-haram-with-earringss?variant=gid://shopify/ProductVariant/48079406596318",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9044.jpg?v=1775904077"
   },
   "gid://shopify/ProductVariant/48079407087838": {
@@ -30526,6 +30517,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-designer-watch-bracelet-17?variant=gid://shopify/ProductVariant/48070983483614",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_4577.jpg?v=1775655589"
+  },
+  "gid://shopify/ProductVariant/48079406596318": {
+    "product_title": "Antique Temple Style Short and Long Lakshmi Haram with Earringss",
+    "variant_title": "Combo",
+    "sku": "446",
+    "price": 5999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/antique-temple-style-short-and-long-lakshmi-haram-with-earringss?variant=gid://shopify/ProductVariant/48079406596318",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9044.jpg?v=1775904077"
   },
   "gid://shopify/ProductVariant/48082740019422": {
     "product_title": "Triple Foam Handmade Artificial Lotus Buds Kunjalam/Hair Extension",
