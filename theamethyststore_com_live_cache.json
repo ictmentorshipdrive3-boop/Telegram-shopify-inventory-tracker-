@@ -10336,7 +10336,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-1748",
     "price": 1800.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/amethyst-leafy-pendant?variant=gid://shopify/ProductVariant/45281021427939",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-1748.jpg?v=1721293649"
   },
@@ -49957,15 +49957,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/naziya-nose-pin?variant=gid://shopify/ProductVariant/47626182525155",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0337.jpg?v=1763981207"
-  },
-  "gid://shopify/ProductVariant/47626201006307": {
-    "product_title": "Trishali Hook Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-11290",
-    "price": 7355.6,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/trishali-hook-jhumkas?variant=gid://shopify/ProductVariant/47626201006307",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11290.jpg?v=1763983051"
   },
   "gid://shopify/ProductVariant/47626203463907": {
     "product_title": "Aarani Hook Jhumkas",
@@ -104471,6 +104462,15 @@
     "url": "https://www.theamethyststore.com/products/heritage-nagas-jhumkas-2?variant=gid://shopify/ProductVariant/47625799958755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11254.jpg?v=1763980480"
   },
+  "gid://shopify/ProductVariant/47626201006307": {
+    "product_title": "Trishali Hook Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-11290",
+    "price": 7355.6,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/trishali-hook-jhumkas?variant=gid://shopify/ProductVariant/47626201006307",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11290.jpg?v=1763983051"
+  },
   "gid://shopify/ProductVariant/47626300293347": {
     "product_title": "Gorgeous Short Necklace Set",
     "variant_title": "Default Title",
@@ -107584,6 +107584,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/eternal-glow-kundan-maatal?variant=gid://shopify/ProductVariant/48343661609187",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2248.jpg?v=1772450691"
+  },
+  "gid://shopify/ProductVariant/48345659834595": {
+    "product_title": "Heritage Bugadi Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-13104",
+    "price": 8520.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/heritage-bugadi-earrings?variant=gid://shopify/ProductVariant/48345659834595",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13104.jpg?v=1772453113"
   },
   "gid://shopify/ProductVariant/48350861525219": {
     "product_title": "Dhishya Nagas Short Necklace",
@@ -110726,15 +110735,6 @@
     "url": "https://www.theamethyststore.com/products/aashikha-nagas-mini-short-necklace?variant=gid://shopify/ProductVariant/49273595363555",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16030.jpg?v=1781692825"
   },
-  "gid://shopify/ProductVariant/49273619120355": {
-    "product_title": "Traditional Nagas Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16302",
-    "price": 94336.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/nagas-short-necklace-40?variant=gid://shopify/ProductVariant/49273619120355",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16302_2.jpg?v=1781693654"
-  },
   "gid://shopify/ProductVariant/49273630818531": {
     "product_title": "Sithikaa Nagas Short Necklace",
     "variant_title": "Default Title",
@@ -111472,15 +111472,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/maragathavalli-3d-spl-pendant?variant=gid://shopify/ProductVariant/49320482865379",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4382.jpg?v=1782564223"
-  },
-  "gid://shopify/ProductVariant/49320489156835": {
-    "product_title": "Eternal Tradition Nagas Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16247",
-    "price": 42870.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/eternal-tradition-nagas-short-necklace?variant=gid://shopify/ProductVariant/49320489156835",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16247_ced4d276-0ec4-484c-b63d-d24ee97679c0.jpg?v=1782564797"
   },
   "gid://shopify/ProductVariant/49320502427875": {
     "product_title": "Timeless Grace Short Necklace",
