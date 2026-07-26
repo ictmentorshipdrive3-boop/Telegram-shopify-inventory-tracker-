@@ -8720,15 +8720,6 @@
     "url": "https://www.theamethyststore.com/products/ziyan-kundan-drops?variant=gid://shopify/ProductVariant/44617779937507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5609.jpg?v=1711604091"
   },
-  "gid://shopify/ProductVariant/44617864020195": {
-    "product_title": "Yazas Long Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-5706",
-    "price": 4048.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/yazas-long-earrings?variant=gid://shopify/ProductVariant/44617864020195",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5706.jpg?v=1711606085"
-  },
   "gid://shopify/ProductVariant/44617886138595": {
     "product_title": "Siyani Kundan Studs",
     "variant_title": "Default Title",
@@ -27233,15 +27224,6 @@
     "url": "https://www.theamethyststore.com/products/dune-days-earrings?variant=gid://shopify/ProductVariant/46913113653475",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8908_a5993f54-8581-4ed4-b8ad-fe97eeabff7a.jpg?v=1753248698"
   },
-  "gid://shopify/ProductVariant/46913115783395": {
-    "product_title": "Atlas Earings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-8926",
-    "price": 13203.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/atlas-earings?variant=gid://shopify/ProductVariant/46913115783395",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8926_92cfc664-47dd-4a98-841e-653e979b5d93.jpg?v=1753247900"
-  },
   "gid://shopify/ProductVariant/46913116438755": {
     "product_title": "Driftwood Chic Earrings",
     "variant_title": "Default Title",
@@ -32587,15 +32569,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/amazing-stone-jhumkas-2?variant=gid://shopify/ProductVariant/47048987050211",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9346.jpg?v=1755858653"
-  },
-  "gid://shopify/ProductVariant/47049002156259": {
-    "product_title": "Floral Drop Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-9201",
-    "price": 5952.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/floral-drop-earrings?variant=gid://shopify/ProductVariant/47049002156259",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9201.jpg?v=1755858908"
   },
   "gid://shopify/ProductVariant/47049028796643": {
     "product_title": "Sparkle Charms Drop Earrings",
@@ -40027,7 +40000,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-11356",
     "price": 48995.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/cat-eye-beads-long-necklace?variant=gid://shopify/ProductVariant/47204695245027",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11356.jpg?v=1758782207"
   },
@@ -96623,6 +96596,15 @@
     "url": "https://www.theamethyststore.com/products/victorian-long-necklace-set-13?variant=gid://shopify/ProductVariant/49448205517027",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17113.jpg?v=1785062801"
   },
+  "gid://shopify/ProductVariant/49448208171235": {
+    "product_title": "Dasavatara Victorian Long Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17090",
+    "price": 212400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/victorian-long-necklace-set-14?variant=gid://shopify/ProductVariant/49448208171235",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17090.jpg?v=1785063161"
+  },
   "gid://shopify/ProductVariant/49448208236771": {
     "product_title": "Glittering Moissanite Choker Set",
     "variant_title": "Default Title",
@@ -96631,6 +96613,51 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/glittering-moissanite-choker-set?variant=gid://shopify/ProductVariant/49448208236771",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16395.jpg?v=1785063217"
+  },
+  "gid://shopify/ProductVariant/49448214364387": {
+    "product_title": "Mesmerizing Moissanite Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1401",
+    "price": 23600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/mesmerizing-moissanite-bracelet-1?variant=gid://shopify/ProductVariant/49448214364387",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1401.jpg?v=1785063807"
+  },
+  "gid://shopify/ProductVariant/49448215937251": {
+    "product_title": "Lathisha Moissanite Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1402",
+    "price": 23500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/lathisha-moissanite-bracelet?variant=gid://shopify/ProductVariant/49448215937251",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1402.jpg?v=1785063995"
+  },
+  "gid://shopify/ProductVariant/49448217116899": {
+    "product_title": "Stunning Moissanite Choker Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16399",
+    "price": 84300.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/moissanite-choker-set-1?variant=gid://shopify/ProductVariant/49448217116899",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16399.jpg?v=1785064093"
+  },
+  "gid://shopify/ProductVariant/49448218099939": {
+    "product_title": "White Charming Moissanite Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1403",
+    "price": 27200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/white-charming-moissanite-bracelet?variant=gid://shopify/ProductVariant/49448218099939",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1403.jpg?v=1785064188"
+  },
+  "gid://shopify/ProductVariant/49448220426467": {
+    "product_title": "Dazzle Victorian Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17078",
+    "price": 170100.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/victorian-short-necklace-set-6?variant=gid://shopify/ProductVariant/49448220426467",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17078.jpg?v=1785064370"
   },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
@@ -101959,6 +101986,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/unique-long-earrings-1?variant=gid://shopify/ProductVariant/47048953528547",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9180.jpg?v=1755857459"
+  },
+  "gid://shopify/ProductVariant/47049002156259": {
+    "product_title": "Floral Drop Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-9201",
+    "price": 5952.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/floral-drop-earrings?variant=gid://shopify/ProductVariant/47049002156259",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9201.jpg?v=1755858908"
   },
   "gid://shopify/ProductVariant/47056166453475": {
     "product_title": "Asha Kundan Short Necklace",
@@ -112111,14 +112147,5 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/lumina-moissanite-pendant-set?variant=gid://shopify/ProductVariant/49436846981347",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4725.jpg?v=1784715865"
-  },
-  "gid://shopify/ProductVariant/49448208171235": {
-    "product_title": "Dasavatara Victorian Long Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17090",
-    "price": 212400.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/victorian-long-necklace-set-14?variant=gid://shopify/ProductVariant/49448208171235",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17090.jpg?v=1785063161"
   }
 }
