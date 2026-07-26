@@ -2056,7 +2056,7 @@
     "variant_title": "Default Title",
     "sku": "ER418",
     "price": 2625.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-earrings-31?variant=gid://shopify/ProductVariant/46472095629612",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2500_1.jpg?v=1692604331"
   },
@@ -4279,7 +4279,7 @@
     "variant_title": "Default Title",
     "sku": "AC112",
     "price": 1890.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.kanshijewels.com/products/jadau-accessories-1?variant=gid://shopify/ProductVariant/47854162149676",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1800-min.jpg?v=1706268694"
   },
@@ -7393,7 +7393,7 @@
     "variant_title": "Default Title",
     "sku": "NK205",
     "price": 3990.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-choker-29?variant=gid://shopify/ProductVariant/50702783414572",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/3800_e0c966c6-4811-4eee-9fb5-583811fb6111.jpg?v=1741257658"
   },
@@ -9565,15 +9565,6 @@
     "stock": 2,
     "url": "https://www.kanshijewels.com/products/jadau-tika-2?variant=gid://shopify/ProductVariant/52445298426156",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadautika950_-_1.jpg?v=1766141387"
-  },
-  "gid://shopify/ProductVariant/52445302358316": {
-    "product_title": "Jadau tika",
-    "variant_title": "Default Title",
-    "sku": "MT05",
-    "price": 970.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-tika-3?variant=gid://shopify/ProductVariant/52445302358316",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadautika970.jpg?v=1766141483"
   },
   "gid://shopify/ProductVariant/52445307601196": {
     "product_title": "Jadau tika",
@@ -13624,6 +13615,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/jadau-tika?variant=gid://shopify/ProductVariant/52445293740332",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadautika950.jpg?v=1766141328"
+  },
+  "gid://shopify/ProductVariant/52445302358316": {
+    "product_title": "Jadau tika",
+    "variant_title": "Default Title",
+    "sku": "MT05",
+    "price": 970.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-tika-3?variant=gid://shopify/ProductVariant/52445302358316",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadautika970.jpg?v=1766141483"
   },
   "gid://shopify/ProductVariant/52445303177516": {
     "product_title": "Jadau tika",
