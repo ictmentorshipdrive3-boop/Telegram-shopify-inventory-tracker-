@@ -251,15 +251,6 @@
     "url": "https://www.daivik.in/products/super-lightweight-peacock-kemp-balis?variant=gid://shopify/ProductVariant/34474268721305",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_2207.jpg?v=1590503121"
   },
-  "gid://shopify/ProductVariant/34474361782425": {
-    "product_title": "Peacock Necklace With Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "245",
-    "price": 1499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/peacock-necklace-with-jhumkas?variant=gid://shopify/ProductVariant/34474361782425",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image.jpg?v=1591983690"
-  },
   "gid://shopify/ProductVariant/34489888637081": {
     "product_title": "Regular Use Kemp Stone Bangles",
     "variant_title": "2.4",
@@ -1624,7 +1615,7 @@
     "variant_title": "Ruby Green",
     "sku": "965",
     "price": 1799.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/peacock-pure-kemp-balis?variant=gid://shopify/ProductVariant/42115154084062",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_960c7e1a-3fd3-4a16-a3b2-86f51319c3cd.jpg?v=1637935654"
   },
@@ -13783,7 +13774,7 @@
     "variant_title": "Default Title",
     "sku": "696",
     "price": 2799.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.daivik.in/products/kemp-pearl-ruby-green-necklace?variant=gid://shopify/ProductVariant/47470276247774",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A2B8EDAB-97EA-47E1-8E16-0EF8008A90B3.jpg?v=1756226468"
   },
@@ -20830,7 +20821,7 @@
     "variant_title": "Default Title",
     "sku": "562",
     "price": 799.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/3d-ganesha-invisible-chain-with-earrings?variant=gid://shopify/ProductVariant/48337665851614",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6EB086FC-FC35-4379-B154-E9B54FBC584A.jpg?v=1781544207"
   },
@@ -21598,6 +21589,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/bridal-lakshmi-jhumkas?variant=gid://shopify/ProductVariant/34474325246105",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG-0414.jpg?v=1590503797"
+  },
+  "gid://shopify/ProductVariant/34474361782425": {
+    "product_title": "Peacock Necklace With Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "245",
+    "price": 1499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/peacock-necklace-with-jhumkas?variant=gid://shopify/ProductVariant/34474361782425",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image.jpg?v=1591983690"
   },
   "gid://shopify/ProductVariant/34646672900249": {
     "product_title": "Short Pearl Peacock Necklace with Earrings",
