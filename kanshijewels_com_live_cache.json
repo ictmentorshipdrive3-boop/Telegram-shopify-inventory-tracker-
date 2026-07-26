@@ -5908,7 +5908,7 @@
     "variant_title": "Default Title",
     "sku": "NK394",
     "price": 7140.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-long-harams-28?variant=gid://shopify/ProductVariant/49987393716524",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaumangonecklace6800.jpg?v=1728888134"
   },
@@ -10808,15 +10808,6 @@
     "url": "https://www.kanshijewels.com/products/elegant-multi-fusion-chokar?variant=gid://shopify/ProductVariant/53368919884076",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Elegantmultifusionchokar4000.jpg?v=1782215935"
   },
-  "gid://shopify/ProductVariant/53368925651244": {
-    "product_title": "Elegant Polki fusion set",
-    "variant_title": "Default Title",
-    "sku": "NK912",
-    "price": 1999.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/elegant-polki-fusion-set?variant=gid://shopify/ProductVariant/53368925651244",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/ElegantPolkifusionset1999.jpg?v=1782216193"
-  },
   "gid://shopify/ProductVariant/53368929255724": {
     "product_title": "Elegant sheek jadau necklace and earring set",
     "variant_title": "Default Title",
@@ -13750,5 +13741,14 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/classic-victorian-polki-studs?variant=gid://shopify/ProductVariant/53331903611180",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Screenshot2026-06-16142931.png?v=1781600432"
+  },
+  "gid://shopify/ProductVariant/53368925651244": {
+    "product_title": "Elegant Polki fusion set",
+    "variant_title": "Default Title",
+    "sku": "NK912",
+    "price": 1999.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/elegant-polki-fusion-set?variant=gid://shopify/ProductVariant/53368925651244",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/ElegantPolkifusionset1999.jpg?v=1782216193"
   }
 }
