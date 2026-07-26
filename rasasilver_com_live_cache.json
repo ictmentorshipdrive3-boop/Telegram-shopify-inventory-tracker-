@@ -3568,7 +3568,7 @@
     "variant_title": "Default Title",
     "sku": "R7707",
     "price": 3600.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/shri-kamala-bindu-studs?variant=gid://shopify/ProductVariant/50612635369769",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-4_d7a49fb8-acde-4339-b661-1d9ad037bf17.jpg?v=1753964047"
   },
@@ -3766,7 +3766,7 @@
     "variant_title": "GREEN",
     "sku": "R17375",
     "price": 3000.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.rasasilver.com/products/phool-patra-ring?variant=gid://shopify/ProductVariant/50635383046441",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_b8e63f25-e347-47bc-a5b4-f852ef78fb3c.jpg?v=1754312394"
   },
@@ -16640,15 +16640,6 @@
     "url": "https://www.rasasilver.com/products/hansini-kundan-kanti?variant=gid://shopify/ProductVariant/52723464962345",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00450copy_resized.jpg?v=1772274731"
   },
-  "gid://shopify/ProductVariant/52723527385385": {
-    "product_title": "Shahi-Manik Kundan Necklace",
-    "variant_title": "Default Title",
-    "sku": "R25158",
-    "price": 46000.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/shahi-manik-kundan-necklace?variant=gid://shopify/ProductVariant/52723527385385",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00337_copy_resized.jpg?v=1772275054"
-  },
   "gid://shopify/ProductVariant/52723554615593": {
     "product_title": "Zamoria Moissanite Necklace Set",
     "variant_title": "Default Title",
@@ -20626,15 +20617,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/morvanshi-stone-danglers?variant=gid://shopify/ProductVariant/53102293451049",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May0012_resized.jpg?v=1781692220"
-  },
-  "gid://shopify/ProductVariant/53102240661801": {
-    "product_title": "Moriya Kundan Jhumka",
-    "variant_title": "Default Title",
-    "sku": "R25164",
-    "price": 30600.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/pushpanshi-kundan-jhumka-copy?variant=gid://shopify/ProductVariant/53102240661801",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May0117_resized.jpg?v=1781852263"
   },
   "gid://shopify/ProductVariant/53102289551657": {
     "product_title": "Sumanashri Kundan Jhumka",
@@ -44585,6 +44567,15 @@
     "url": "https://www.rasasilver.com/products/morvya-kundan-kanti?variant=gid://shopify/ProductVariant/52723442155817",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00441copy_resized.jpg?v=1772274609"
   },
+  "gid://shopify/ProductVariant/52723527385385": {
+    "product_title": "Shahi-Manik Kundan Necklace",
+    "variant_title": "Default Title",
+    "sku": "R25158",
+    "price": 46000.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/shahi-manik-kundan-necklace?variant=gid://shopify/ProductVariant/52723527385385",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00337_copy_resized.jpg?v=1772275054"
+  },
   "gid://shopify/ProductVariant/52723597213993": {
     "product_title": "Navaratna-Floraline Stone Necklace",
     "variant_title": "Default Title",
@@ -47797,6 +47788,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/shrinika-kundan-danglers?variant=gid://shopify/ProductVariant/53101297205545",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May0017_resized.jpg?v=1781682638"
+  },
+  "gid://shopify/ProductVariant/53102240661801": {
+    "product_title": "Moriya Kundan Jhumka",
+    "variant_title": "Default Title",
+    "sku": "R25164",
+    "price": 30600.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/pushpanshi-kundan-jhumka-copy?variant=gid://shopify/ProductVariant/53102240661801",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May0117_resized.jpg?v=1781852263"
   },
   "gid://shopify/ProductVariant/53102976794921": {
     "product_title": "Avanthira Stone Danglers",
