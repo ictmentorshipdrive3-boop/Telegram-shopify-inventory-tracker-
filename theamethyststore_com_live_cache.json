@@ -72026,15 +72026,6 @@
     "url": "https://www.theamethyststore.com/products/mugappu-chain-9?variant=gid://shopify/ProductVariant/48886501802211",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1885.jpg?v=1777462860"
   },
-  "gid://shopify/ProductVariant/48886538207459": {
-    "product_title": "Lakshmi Mugappu Chain",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-1889",
-    "price": 15380.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/lakshmi-mugappu-chain-2?variant=gid://shopify/ProductVariant/48886538207459",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1889.jpg?v=1777467473"
-  },
   "gid://shopify/ProductVariant/48889782730979": {
     "product_title": "Traditional Lakshmi Nagas Short Necklace",
     "variant_title": "Default Title",
@@ -96327,13 +96318,22 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15012.jpg?v=1785043210"
   },
   "gid://shopify/ProductVariant/49447972339939": {
-    "product_title": "Venitha Moissanite  aangtikka",
+    "product_title": "Venitha Moissanite  Maangtikka",
     "variant_title": "Default Title",
     "sku": "AMS-109-2409",
     "price": 12200.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-maangtikka-9?variant=gid://shopify/ProductVariant/49447972339939",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2409.jpg?v=1785044155"
+  },
+  "gid://shopify/ProductVariant/49447974043875": {
+    "product_title": "Vinthikaa Moissanite  Maangtikka",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2410",
+    "price": 16200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/moissanite-maangtikka?variant=gid://shopify/ProductVariant/49447974043875",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2410.jpg?v=1785044913"
   },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
