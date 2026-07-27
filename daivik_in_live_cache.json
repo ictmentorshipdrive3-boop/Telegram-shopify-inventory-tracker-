@@ -490,7 +490,7 @@
     "variant_title": "Default Title",
     "sku": "381",
     "price": 1099.0,
-    "stock": 18,
+    "stock": 17,
     "url": "https://www.daivik.in/products/simple-lakshmi-choker-with-pearl-hangings?variant=gid://shopify/ProductVariant/36398494351513",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/simple-lakshmi-choker-with-pearl-hangings-neckwearnecklace-455.jpg?v=1601103548"
   },
@@ -18908,15 +18908,6 @@
     "url": "https://www.daivik.in/products/antique-lakshmi-peacock-choker-with-balis?variant=gid://shopify/ProductVariant/47990312337630",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8322.heic?v=1773678285"
   },
-  "gid://shopify/ProductVariant/47990312534238": {
-    "product_title": "Antique Lakshmi Choker with Earrings",
-    "variant_title": "Default Title",
-    "sku": "1372",
-    "price": 1199.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/antique-lakshmi-choker-with-earrings-1?variant=gid://shopify/ProductVariant/47990312534238",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8327.heic?v=1773678300"
-  },
   "gid://shopify/ProductVariant/47997271212254": {
     "product_title": "AD Emerald Solitaire Drop Necklace with Earrings",
     "variant_title": "Default Title",
@@ -30373,6 +30364,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-lakshmi-elephant-choker-with-earrings?variant=gid://shopify/ProductVariant/47990312468702",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8325.heic?v=1773678291"
+  },
+  "gid://shopify/ProductVariant/47990312534238": {
+    "product_title": "Antique Lakshmi Choker with Earrings",
+    "variant_title": "Default Title",
+    "sku": "1372",
+    "price": 1199.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/antique-lakshmi-choker-with-earrings-1?variant=gid://shopify/ProductVariant/47990312534238",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8327.heic?v=1773678300"
   },
   "gid://shopify/ProductVariant/48017605394654": {
     "product_title": "AD Ruby Green Nose Pin/Nath (Screw Type)",
