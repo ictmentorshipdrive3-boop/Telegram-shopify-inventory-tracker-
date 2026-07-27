@@ -886,7 +886,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 11500.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.dulhanjewels.com/products/traditional-reversible-2-in-1-jadau-kundan-mango-mala?variant=gid://shopify/ProductVariant/49740395970866",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/8CC293B6-0BAB-41EE-B162-DFD53D02F112.jpg?v=1771673433"
   },
@@ -4580,15 +4580,6 @@
     "url": "https://www.dulhanjewels.com/products/jadau-kundan-pendant-with-pearl-hangings-and-emerald-stone?variant=gid://shopify/ProductVariant/51016410726706",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6122876923479265220.jpg?v=1780426578"
   },
-  "gid://shopify/ProductVariant/51024421060914": {
-    "product_title": "Elegant Jadau Kundan Nantad Chain With Chand Design Pendant",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2150.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/elegant-jadau-kundan-nantad-chain-with-chand-design-pendant?variant=gid://shopify/ProductVariant/51024421060914",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/964324E1-308F-49B7-B0E5-E62800012E19.jpg?v=1774867616"
-  },
   "gid://shopify/ProductVariant/51024560718130": {
     "product_title": "Grand Temple Style Jadau Kundan Necklace With Goddess Lakshmi Pendant",
     "variant_title": "Default Title",
@@ -6992,15 +6983,6 @@
     "url": "https://www.dulhanjewels.com/products/classic-pink-kundan-flower-stud-earrings?variant=gid://shopify/ProductVariant/51501269844274",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9194.jpg?v=1784804195"
   },
-  "gid://shopify/ProductVariant/51501271089458": {
-    "product_title": "Traditional Jhumka Earrings with Green Beads And Pearl Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2650.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/traditional-jhumka-earrings-with-green-beads-and-pearl-drops?variant=gid://shopify/ProductVariant/51501271089458",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9196.jpg?v=1784804152"
-  },
   "gid://shopify/ProductVariant/51501271679282": {
     "product_title": "Ethnic Jadau Kundan Chandbali Earrings With Pearl Drops",
     "variant_title": "Default Title",
@@ -8531,6 +8513,15 @@
     "url": "https://www.dulhanjewels.com/products/jadau-kundan-jalebi-necklace-with-pearls-and-green-bead-hangings?variant=gid://shopify/ProductVariant/51016377270578",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/F56B52FD-F9EC-48EA-B54F-75475C01FAC9.jpg?v=1774596896"
   },
+  "gid://shopify/ProductVariant/51024421060914": {
+    "product_title": "Elegant Jadau Kundan Nantad Chain With Chand Design Pendant",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2150.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/elegant-jadau-kundan-nantad-chain-with-chand-design-pendant?variant=gid://shopify/ProductVariant/51024421060914",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/964324E1-308F-49B7-B0E5-E62800012E19.jpg?v=1774867616"
+  },
   "gid://shopify/ProductVariant/51036810838322": {
     "product_title": "Grand Bridal Jadau Kundan Mango Haram With Green Bead Hangings",
     "variant_title": "White",
@@ -8737,6 +8728,15 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/jadau-kundan-lakshmi-temple-necklace-set-with-green-beads?variant=gid://shopify/ProductVariant/51472991650098",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/3586A3D4-111C-49C2-A27C-D58DCD7FF253.jpg?v=1784027134"
+  },
+  "gid://shopify/ProductVariant/51501271089458": {
+    "product_title": "Traditional Jhumka Earrings with Green Beads And Pearl Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2650.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/traditional-jhumka-earrings-with-green-beads-and-pearl-drops?variant=gid://shopify/ProductVariant/51501271089458",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9196.jpg?v=1784804152"
   },
   "gid://shopify/ProductVariant/51501281870130": {
     "product_title": "Temple Style Peacock Vaddanam With Green Beads",
