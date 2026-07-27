@@ -787,7 +787,7 @@
     "variant_title": "Default Title",
     "sku": "R18885",
     "price": 17200.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.rasasilver.com/products/stellar-nine-short-necklace?variant=gid://shopify/ProductVariant/50083435872553",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/22_26864588-0f79-45e3-9e00-abb12fcedf8b.jpg?v=1743842365"
   },
@@ -5044,7 +5044,7 @@
     "variant_title": "Default Title",
     "sku": "R25375",
     "price": 4000.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/back-chain-1?variant=gid://shopify/ProductVariant/50823753695529",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP116.jpg?v=1756539730"
   },
@@ -11384,15 +11384,6 @@
     "url": "https://www.rasasilver.com/products/gleam-nine-bangles?variant=gid://shopify/ProductVariant/52210257166633",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0078copy_resized_d57c1202-5cbc-4368-b342-8ba4ccaa9527.jpg?v=1764668718"
   },
-  "gid://shopify/ProductVariant/52209301684521": {
-    "product_title": "Floral Carmine Bangles",
-    "variant_title": "Navaratna Colour / 2.4",
-    "sku": "R20110",
-    "price": 29600.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/floral-carmine-bangles?variant=gid://shopify/ProductVariant/52209301684521",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0085copy_resized_2159ac6e-4e9b-43f2-a09f-d24aae821cff.jpg?v=1764677752"
-  },
   "gid://shopify/ProductVariant/52210356945193": {
     "product_title": "Gemsphere Bangles",
     "variant_title": "2.5",
@@ -13261,7 +13252,7 @@
     "variant_title": "Default Title",
     "sku": "R22879",
     "price": 26500.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/white-floral-cz-necklace-set?variant=gid://shopify/ProductVariant/52451312894249",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan0889_resized.jpg?v=1768975254"
   },
@@ -16690,7 +16681,7 @@
     "variant_title": "Default Title",
     "sku": "R25383",
     "price": 3800.0,
-    "stock": 8,
+    "stock": 6,
     "url": "https://www.rasasilver.com/products/back-chain-copy?variant=gid://shopify/ProductVariant/52737922302249",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Screenshot2026-02-23at5_17_18PMcopy_jpg.jpg?v=1771847962"
   },
@@ -25054,15 +25045,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/temple-shriprada-necklace?variant=gid://shopify/ProductVariant/53305127043369",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40141_resized.jpg?v=1783665587"
-  },
-  "gid://shopify/ProductVariant/53305182028073": {
-    "product_title": "Padmakshi Temple Necklace",
-    "variant_title": "Default Title",
-    "sku": "R31325",
-    "price": 10600.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/padmakshi-temple-necklace?variant=gid://shopify/ProductVariant/53305182028073",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40137_resized.jpg?v=1783665750"
   },
   "gid://shopify/ProductVariant/53305189826857": {
     "product_title": "Charulata-Mor Temple Necklace",
@@ -40058,6 +40040,15 @@
     "url": "https://www.rasasilver.com/products/vimalalakshmi-bangles?variant=gid://shopify/ProductVariant/52210154832169",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0164copy_resized_4010a4ee-39c8-4911-b412-c1e761dc2789.jpg?v=1764667066"
   },
+  "gid://shopify/ProductVariant/52209301684521": {
+    "product_title": "Floral Carmine Bangles",
+    "variant_title": "Navaratna Colour / 2.4",
+    "sku": "R20110",
+    "price": 29600.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/floral-carmine-bangles?variant=gid://shopify/ProductVariant/52209301684521",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0085copy_resized_2159ac6e-4e9b-43f2-a09f-d24aae821cff.jpg?v=1764677752"
+  },
   "gid://shopify/ProductVariant/52209331044649": {
     "product_title": "Cziramo Stud Earrings",
     "variant_title": "Default Title",
@@ -48868,6 +48859,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/hariyali-stone-hangings?variant=gid://shopify/ProductVariant/53304579293481",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40285_resized.jpg?v=1783661617"
+  },
+  "gid://shopify/ProductVariant/53305182028073": {
+    "product_title": "Padmakshi Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R31325",
+    "price": 10600.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/padmakshi-temple-necklace?variant=gid://shopify/ProductVariant/53305182028073",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40137_resized.jpg?v=1783665750"
   },
   "gid://shopify/ProductVariant/53307532083497": {
     "product_title": "Swarna-Harita Stone Pendant",
