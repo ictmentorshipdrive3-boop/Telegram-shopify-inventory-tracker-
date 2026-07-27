@@ -44932,7 +44932,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-12566",
     "price": 223526.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/stunning-victorian-long-necklace-set-1?variant=gid://shopify/ProductVariant/47379439714531",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12566.jpg?v=1761197971"
   },
@@ -48985,15 +48985,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/trivya-victorian-long-earrings-1?variant=gid://shopify/ProductVariant/47570258690275",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11033.jpg?v=1763455990"
-  },
-  "gid://shopify/ProductVariant/47570456838371": {
-    "product_title": "Dual Birds Long Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-10792",
-    "price": 32893.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/dual-birds-long-earrings?variant=gid://shopify/ProductVariant/47570456838371",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10792.jpg?v=1763456287"
   },
   "gid://shopify/ProductVariant/47570470306019": {
     "product_title": "Golden Aura Long Necklace Set",
@@ -57742,15 +57733,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/mystic-beads-choker?variant=gid://shopify/ProductVariant/47858916589795",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14524-_2_1e189581-c148-412d-ad70-cbb486eccfff.jpg?v=1768997464"
-  },
-  "gid://shopify/ProductVariant/47859014107363": {
-    "product_title": "Tribal Aura Boho Choker",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-14520",
-    "price": 43779.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/tribal-aura-boho-choker?variant=gid://shopify/ProductVariant/47859014107363",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14520-_2_7aabadf7-8d3f-4e62-bb18-978dc601e2c3.jpg?v=1768997315"
   },
   "gid://shopify/ProductVariant/47859031769315": {
     "product_title": "Colourful Charm Boho Choker",
@@ -104156,6 +104138,15 @@
     "url": "https://www.theamethyststore.com/products/flashing-pair-bangles?variant=gid://shopify/ProductVariant/47569566105827",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2824_90b8e4ac-e9ad-47db-bbf2-f944c3e1eb66.jpg?v=1763448617"
   },
+  "gid://shopify/ProductVariant/47570456838371": {
+    "product_title": "Dual Birds Long Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-10792",
+    "price": 32893.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/dual-birds-long-earrings?variant=gid://shopify/ProductVariant/47570456838371",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10792.jpg?v=1763456287"
+  },
   "gid://shopify/ProductVariant/47570644107491": {
     "product_title": "Lithika Long Necklace Set",
     "variant_title": "Default Title",
@@ -105901,6 +105892,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/jeshi-stone-studs?variant=gid://shopify/ProductVariant/47856394535139",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12708.jpg?v=1768916447"
+  },
+  "gid://shopify/ProductVariant/47859014107363": {
+    "product_title": "Tribal Aura Boho Choker",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-14520",
+    "price": 43779.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/tribal-aura-boho-choker?variant=gid://shopify/ProductVariant/47859014107363",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14520-_2_7aabadf7-8d3f-4e62-bb18-978dc601e2c3.jpg?v=1768997315"
   },
   "gid://shopify/ProductVariant/47859041337571": {
     "product_title": "Stunning Look Choker Necklace",
