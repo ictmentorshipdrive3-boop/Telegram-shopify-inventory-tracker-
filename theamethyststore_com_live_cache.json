@@ -3055,7 +3055,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-3658",
     "price": 15294.0,
-    "stock": 3,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/arsha-studs?variant=gid://shopify/ProductVariant/43535023112419",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3658-_1.jpg?v=1668509309"
   },
@@ -12064,7 +12064,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-6513",
     "price": 17688.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/lekha-stone-studs?variant=gid://shopify/ProductVariant/45466035650787",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6513.jpg?v=1725111684"
   },
@@ -32317,15 +32317,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/sheshila-long-earrings?variant=gid://shopify/ProductVariant/47049095577827",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9166.jpg?v=1755860543"
-  },
-  "gid://shopify/ProductVariant/47049098526947": {
-    "product_title": "Lalisha Long Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-8988",
-    "price": 10768.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/lalisha-long-earrings?variant=gid://shopify/ProductVariant/47049098526947",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8988.jpg?v=1755860704"
   },
   "gid://shopify/ProductVariant/47056157671651": {
     "product_title": "Shinning Spark Short Necklace Set",
@@ -100772,6 +100763,15 @@
     "url": "https://www.theamethyststore.com/products/traditional-look-short-necklace-3?variant=gid://shopify/ProductVariant/46827467276515",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10724.jpg?v=1752068261"
   },
+  "gid://shopify/ProductVariant/46836726726883": {
+    "product_title": "Pretiest Victorian Long Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-9361",
+    "price": 17408.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/pretiest-victorian-long-earrings?variant=gid://shopify/ProductVariant/46836726726883",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9361_2.jpg?v=1752151629"
+  },
   "gid://shopify/ProductVariant/46839598940387": {
     "product_title": "Shinning Pretiest Victorian Short Necklace Set",
     "variant_title": "Default Title",
@@ -101752,6 +101752,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/floral-drop-earrings?variant=gid://shopify/ProductVariant/47049002156259",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9201.jpg?v=1755858908"
+  },
+  "gid://shopify/ProductVariant/47049098526947": {
+    "product_title": "Lalisha Long Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-8988",
+    "price": 10768.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/lalisha-long-earrings?variant=gid://shopify/ProductVariant/47049098526947",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8988.jpg?v=1755860704"
   },
   "gid://shopify/ProductVariant/47056166453475": {
     "product_title": "Asha Kundan Short Necklace",
@@ -109096,6 +109105,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/classy-stone-studs-1?variant=gid://shopify/ProductVariant/48916686504163",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5803-_4_35127ebc-b318-47f8-931e-7fb257a9c7ec.jpg?v=1778152497"
+  },
+  "gid://shopify/ProductVariant/48916687421667": {
+    "product_title": "Trendy Victorian Long Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-13523",
+    "price": 20064.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/trendy-victorian-long-earrings-2?variant=gid://shopify/ProductVariant/48916687421667",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5195-_3_46d03e70-2712-45c0-9287-279ab004d3ef.jpg?v=1778152722"
   },
   "gid://shopify/ProductVariant/48921842745571": {
     "product_title": "Catchy Beads Chain",
