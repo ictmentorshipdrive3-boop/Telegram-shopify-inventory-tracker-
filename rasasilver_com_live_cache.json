@@ -22990,7 +22990,7 @@
     "variant_title": "Default Title",
     "sku": "R31561",
     "price": 3200.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/teardrop-elegance-bracelet?variant=gid://shopify/ProductVariant/53284791386409",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13290_resized.jpg?v=1782220680"
   },
@@ -23867,15 +23867,6 @@
     "url": "https://www.rasasilver.com/products/mor-vilasa-pendant-set?variant=gid://shopify/ProductVariant/53290501013801",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0630A1_resized.jpg?v=1783515398"
   },
-  "gid://shopify/ProductVariant/53290677731625": {
-    "product_title": "Navilu Charm Stone Pendant Set",
-    "variant_title": "GREEN",
-    "sku": "R31507",
-    "price": 3600.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/navilu-charm-stone-pendant-set?variant=gid://shopify/ProductVariant/53290677731625",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2433_resized.jpg?v=1783515595"
-  },
   "gid://shopify/ProductVariant/53321405989161": {
     "product_title": "Blossom Stone Pendant Set",
     "variant_title": "Swarovski",
@@ -23920,15 +23911,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/pushkara-stone-pendant-set?variant=gid://shopify/ProductVariant/53290550821161",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0596_resized.jpg?v=1783578253"
-  },
-  "gid://shopify/ProductVariant/53290551574825": {
-    "product_title": "Florisa Stone Pendant Set",
-    "variant_title": "Default Title",
-    "sku": "R31513",
-    "price": 3500.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/florisa-stone-pendant-set?variant=gid://shopify/ProductVariant/53290551574825",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2411_resized.jpg?v=1783580562"
   },
   "gid://shopify/ProductVariant/53290566582569": {
     "product_title": "Rosy Bloom Stone Pendant Set",
@@ -24191,15 +24173,6 @@
     "url": "https://www.rasasilver.com/products/parijata-luxe-stone-studs?variant=gid://shopify/ProductVariant/53296568140073",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2187_resized.jpg?v=1782894113"
   },
-  "gid://shopify/ProductVariant/53296571384105": {
-    "product_title": "Kasu Sundari Temple Studs",
-    "variant_title": "Default Title",
-    "sku": "R31948",
-    "price": 2700.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/kasu-sundari-temple-studs?variant=gid://shopify/ProductVariant/53296571384105",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2240_resized.jpg?v=1782894549"
-  },
   "gid://shopify/ProductVariant/53296571449641": {
     "product_title": "Ganesh-Glow Temple Studs",
     "variant_title": "Default Title",
@@ -24277,7 +24250,7 @@
     "variant_title": "Default Title",
     "sku": "R31489",
     "price": 2700.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/panna-manik-stone-studs?variant=gid://shopify/ProductVariant/53296613753129",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2230_resized.jpg?v=1782826064"
   },
@@ -24379,15 +24352,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/aamra-ratna-stone-studs?variant=gid://shopify/ProductVariant/53297287364905",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2243_resized.jpg?v=1782886849"
-  },
-  "gid://shopify/ProductVariant/53297411391785": {
-    "product_title": "Ratna Dot Nakshi Studs",
-    "variant_title": "Default Title",
-    "sku": "R31887",
-    "price": 2500.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/ratna-dot-nakshi-studs?variant=gid://shopify/ProductVariant/53297411391785",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2213_resized.jpg?v=1782888273"
   },
   "gid://shopify/ProductVariant/53297763549481": {
     "product_title": "Chakri Stone Studs",
@@ -48419,6 +48383,15 @@
     "url": "https://www.rasasilver.com/products/recta-green-pendant-set?variant=gid://shopify/ProductVariant/53290477912361",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2398_resized.jpg?v=1783512090"
   },
+  "gid://shopify/ProductVariant/53290677731625": {
+    "product_title": "Navilu Charm Stone Pendant Set",
+    "variant_title": "GREEN",
+    "sku": "R31507",
+    "price": 3600.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/navilu-charm-stone-pendant-set?variant=gid://shopify/ProductVariant/53290677731625",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2433_resized.jpg?v=1783515595"
+  },
   "gid://shopify/ProductVariant/53290677764393": {
     "product_title": "Navilu Charm Stone Pendant Set",
     "variant_title": "Ruby Pink",
@@ -48427,6 +48400,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/navilu-charm-stone-pendant-set?variant=gid://shopify/ProductVariant/53290677764393",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2433_resized.jpg?v=1783515595"
+  },
+  "gid://shopify/ProductVariant/53290551574825": {
+    "product_title": "Florisa Stone Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "R31513",
+    "price": 3500.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/florisa-stone-pendant-set?variant=gid://shopify/ProductVariant/53290551574825",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2411_resized.jpg?v=1783580562"
   },
   "gid://shopify/ProductVariant/53290727440681": {
     "product_title": "Kusuma Luxe Stone Pendant Set",
@@ -48545,6 +48527,15 @@
     "url": "https://www.rasasilver.com/products/mangora-stone-studs?variant=gid://shopify/ProductVariant/53292357779753",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2124_resized.jpg?v=1782803549"
   },
+  "gid://shopify/ProductVariant/53296571384105": {
+    "product_title": "Kasu Sundari Temple Studs",
+    "variant_title": "Default Title",
+    "sku": "R31948",
+    "price": 2700.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/kasu-sundari-temple-studs?variant=gid://shopify/ProductVariant/53296571384105",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2240_resized.jpg?v=1782894549"
+  },
   "gid://shopify/ProductVariant/53296604119337": {
     "product_title": "Lakshmi-Sparkle Temple Studs",
     "variant_title": "Default Title",
@@ -48562,6 +48553,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/coral-flora-stone-studs?variant=gid://shopify/ProductVariant/53296729227561",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2303_resized.jpg?v=1782885221"
+  },
+  "gid://shopify/ProductVariant/53297411391785": {
+    "product_title": "Ratna Dot Nakshi Studs",
+    "variant_title": "Default Title",
+    "sku": "R31887",
+    "price": 2500.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ratna-dot-nakshi-studs?variant=gid://shopify/ProductVariant/53297411391785",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2213_resized.jpg?v=1782888273"
   },
   "gid://shopify/ProductVariant/53297645224233": {
     "product_title": "Radiating Stone Studs",
