@@ -6533,15 +6533,6 @@
     "url": "https://www.dulhanjewels.com/products/2-in-1-reversible-floral-design-jadau-kundan-necklace?variant=gid://shopify/ProductVariant/51385309790514",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/135AB009-C0E4-430D-B32C-5C603F4D8BBE.jpg?v=1782726206"
   },
-  "gid://shopify/ProductVariant/51411138838834": {
-    "product_title": "Gold Style Jadau Kundan Necklace In Bottumala Style",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 7950.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/gold-style-jadau-kundan-necklace-in-bottumala-style?variant=gid://shopify/ProductVariant/51411138838834",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/0BB34B50-1502-4929-96DD-E3999EC2B3AB.jpg?v=1782980647"
-  },
   "gid://shopify/ProductVariant/51411158860082": {
     "product_title": "Unique Jadau Kundan Peacock Design Guttapusalu Necklace",
     "variant_title": "Default Title",
@@ -7162,15 +7153,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/classic-pink-kundan-flower-stud-earrings?variant=gid://shopify/ProductVariant/51501269844274",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9194.jpg?v=1784804195"
-  },
-  "gid://shopify/ProductVariant/51501271089458": {
-    "product_title": "Traditional Jhumka Earrings with Green Beads And Pearl Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2650.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/traditional-jhumka-earrings-with-green-beads-and-pearl-drops?variant=gid://shopify/ProductVariant/51501271089458",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9196.jpg?v=1784804152"
   },
   "gid://shopify/ProductVariant/51501271679282": {
     "product_title": "Ethnic Jadau Kundan Chandbali Earrings With Pearl Drops",
@@ -8792,6 +8774,15 @@
     "url": "https://www.dulhanjewels.com/products/floral-jadau-kundan-locket-with-emerald-center-stone?variant=gid://shopify/ProductVariant/51219154534706",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/80E0CE6F-7C57-4162-96C0-CD0E69D56BF6.jpg?v=1779887895"
   },
+  "gid://shopify/ProductVariant/51411138838834": {
+    "product_title": "Gold Style Jadau Kundan Necklace In Bottumala Style",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 7950.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/gold-style-jadau-kundan-necklace-in-bottumala-style?variant=gid://shopify/ProductVariant/51411138838834",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/0BB34B50-1502-4929-96DD-E3999EC2B3AB.jpg?v=1782980647"
+  },
   "gid://shopify/ProductVariant/51423501091122": {
     "product_title": "Floral Design Jadau Kundan Stud Earrings",
     "variant_title": "Default Title",
@@ -8854,6 +8845,15 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/designer-moissanite-polki-necklace-set-with-emerald-stone-highlights?variant=gid://shopify/ProductVariant/51486506221874",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/F195CF40-59B2-4508-ADE7-6A87A4B693FF.jpg?v=1784366575"
+  },
+  "gid://shopify/ProductVariant/51501271089458": {
+    "product_title": "Traditional Jhumka Earrings with Green Beads And Pearl Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2650.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/traditional-jhumka-earrings-with-green-beads-and-pearl-drops?variant=gid://shopify/ProductVariant/51501271089458",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9196.jpg?v=1784804152"
   },
   "gid://shopify/ProductVariant/51501281870130": {
     "product_title": "Temple Style Peacock Vaddanam With Green Beads",
