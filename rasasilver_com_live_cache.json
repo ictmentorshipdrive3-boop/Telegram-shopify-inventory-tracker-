@@ -15263,15 +15263,6 @@
     "url": "https://www.rasasilver.com/products/kundan-mrinalika-earrings-copy?variant=gid://shopify/ProductVariant/52603184021801",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0213copy_resized_d3ca9f94-36b7-4562-854c-e4f5217f8446.jpg?v=1770874352"
   },
-  "gid://shopify/ProductVariant/52603209842985": {
-    "product_title": "Padmrekha Temple Danglers",
-    "variant_title": "Default Title",
-    "sku": "R24220",
-    "price": 13000.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/chandrakriti-lakshmi-danglers-copy-1?variant=gid://shopify/ProductVariant/52603209842985",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0222copy_resized_fa34699a-96e2-415a-b4b1-a00bd32333aa.jpg?v=1770875176"
-  },
   "gid://shopify/ProductVariant/52603248836905": {
     "product_title": "Ketaki Bloom Victorian Danglers",
     "variant_title": "GREEN",
@@ -15955,33 +15946,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/kundan-grace-ear-cuff?variant=gid://shopify/ProductVariant/52678251184425",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0202copy_f1c3474d-c0e3-4f58-9b49-46dfb0864dde.jpg?v=1771176978"
-  },
-  "gid://shopify/ProductVariant/52680291320105": {
-    "product_title": "Myrani Stone Navaratna Bangles",
-    "variant_title": "2.6",
-    "sku": "R25321",
-    "price": 12555.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/myrani-stone-navaratna-bangles?variant=gid://shopify/ProductVariant/52680291320105",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4097.jpg?v=1771327688"
-  },
-  "gid://shopify/ProductVariant/52707652829481": {
-    "product_title": "Myrani Stone Navaratna Bangles",
-    "variant_title": "2.7",
-    "sku": "R25321",
-    "price": 12555.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/myrani-stone-navaratna-bangles?variant=gid://shopify/ProductVariant/52707652829481",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4097.jpg?v=1771327688"
-  },
-  "gid://shopify/ProductVariant/52707652862249": {
-    "product_title": "Myrani Stone Navaratna Bangles",
-    "variant_title": "2.8",
-    "sku": "R25321",
-    "price": 12555.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/myrani-stone-navaratna-bangles?variant=gid://shopify/ProductVariant/52707652862249",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4097.jpg?v=1771327688"
   },
   "gid://shopify/ProductVariant/52680516469033": {
     "product_title": "Kiaraani Stone Bangles",
@@ -42020,6 +41984,15 @@
     "url": "https://www.rasasilver.com/products/chandrakriti-lakshmi-danglers-copy?variant=gid://shopify/ProductVariant/52603198832937",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0206copy_resized_78009840-c11c-4240-9a92-59223d0d12d1.jpg?v=1770874872"
   },
+  "gid://shopify/ProductVariant/52603209842985": {
+    "product_title": "Padmrekha Temple Danglers",
+    "variant_title": "Default Title",
+    "sku": "R24220",
+    "price": 13000.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/chandrakriti-lakshmi-danglers-copy-1?variant=gid://shopify/ProductVariant/52603209842985",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0222copy_resized_fa34699a-96e2-415a-b4b1-a00bd32333aa.jpg?v=1770875176"
+  },
   "gid://shopify/ProductVariant/52603215413545": {
     "product_title": "Mogra Valli Victorian Danglers",
     "variant_title": "Default Title",
@@ -42505,6 +42478,33 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/desi-kundan-septum-ring?variant=gid://shopify/ProductVariant/52680263401769",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0036_copy_cf5ddce8-b323-47fb-a1f8-e1e1d058fc2c.jpg?v=1771183827"
+  },
+  "gid://shopify/ProductVariant/52680291320105": {
+    "product_title": "Myrani Stone Navaratna Bangles",
+    "variant_title": "2.6",
+    "sku": "R25321",
+    "price": 12555.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/myrani-stone-navaratna-bangles?variant=gid://shopify/ProductVariant/52680291320105",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4097.jpg?v=1771327688"
+  },
+  "gid://shopify/ProductVariant/52707652829481": {
+    "product_title": "Myrani Stone Navaratna Bangles",
+    "variant_title": "2.7",
+    "sku": "R25321",
+    "price": 12555.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/myrani-stone-navaratna-bangles?variant=gid://shopify/ProductVariant/52707652829481",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4097.jpg?v=1771327688"
+  },
+  "gid://shopify/ProductVariant/52707652862249": {
+    "product_title": "Myrani Stone Navaratna Bangles",
+    "variant_title": "2.8",
+    "sku": "R25321",
+    "price": 12555.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/myrani-stone-navaratna-bangles?variant=gid://shopify/ProductVariant/52707652862249",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4097.jpg?v=1771327688"
   },
   "gid://shopify/ProductVariant/52680819310889": {
     "product_title": "Myra Kundan Septum Ring",
