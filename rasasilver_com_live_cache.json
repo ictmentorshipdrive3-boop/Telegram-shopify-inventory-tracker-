@@ -17194,7 +17194,7 @@
     "variant_title": "Default Title",
     "sku": "R26066",
     "price": 90360.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/plumage-phool-kundan-necklace?variant=gid://shopify/ProductVariant/52780724388137",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00065copy_resized.jpg?v=1772456770"
   },
@@ -23822,15 +23822,6 @@
     "url": "https://www.rasasilver.com/products/padmajyoti-temple-danglers?variant=gid://shopify/ProductVariant/53290448814377",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2264_resized.jpg?v=1782736208"
   },
-  "gid://shopify/ProductVariant/53290470867241": {
-    "product_title": "Pear-Navaratna Pendant Set",
-    "variant_title": "Default Title",
-    "sku": "R31487",
-    "price": 4800.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/pear-navaratna-pendant-set?variant=gid://shopify/ProductVariant/53290470867241",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2406_resized.jpg?v=1783510632"
-  },
   "gid://shopify/ProductVariant/53290476634409": {
     "product_title": "Shri-Vara Drops Temple Danglers",
     "variant_title": "Default Title",
@@ -23930,15 +23921,6 @@
     "url": "https://www.rasasilver.com/products/aadha-flora-stone-pendant-set?variant=gid://shopify/ProductVariant/53290708566313",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0584_resized.jpg?v=1783584272"
   },
-  "gid://shopify/ProductVariant/53290710466857": {
-    "product_title": "Ojas Spark Stone Pendant Set",
-    "variant_title": "Default Title",
-    "sku": "R31938",
-    "price": 2700.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/ojas-spark-stone-pendant-set?variant=gid://shopify/ProductVariant/53290710466857",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2457_resized.jpg?v=1783583118"
-  },
   "gid://shopify/ProductVariant/53290714988841": {
     "product_title": "Panna-Pushp Stone Pendant Set",
     "variant_title": "Default Title",
@@ -23956,15 +23938,6 @@
     "stock": 2,
     "url": "https://www.rasasilver.com/products/starry-shine-stone-pendant-set?variant=gid://shopify/ProductVariant/53290726785321",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2421_resized.jpg?v=1783590147"
-  },
-  "gid://shopify/ProductVariant/53290727440681": {
-    "product_title": "Kusuma Luxe Stone Pendant Set",
-    "variant_title": "Default Title",
-    "sku": "R31945",
-    "price": 3600.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/kusuma-luxe-stone-pendant-set?variant=gid://shopify/ProductVariant/53290727440681",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2428_resized.jpg?v=1783589301"
   },
   "gid://shopify/ProductVariant/53290731012393": {
     "product_title": "Rose Mist Stone Ring",
@@ -48401,6 +48374,15 @@
     "url": "https://www.rasasilver.com/products/florisse-studs?variant=gid://shopify/ProductVariant/53288661156137",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5581_resized.jpg?v=1782374261"
   },
+  "gid://shopify/ProductVariant/53290470867241": {
+    "product_title": "Pear-Navaratna Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "R31487",
+    "price": 4800.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/pear-navaratna-pendant-set?variant=gid://shopify/ProductVariant/53290470867241",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2406_resized.jpg?v=1783510632"
+  },
   "gid://shopify/ProductVariant/53290477912361": {
     "product_title": "Recta-Green Pendant Set",
     "variant_title": "Default Title",
@@ -48436,6 +48418,24 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/florisa-stone-pendant-set?variant=gid://shopify/ProductVariant/53290551574825",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2411_resized.jpg?v=1783580562"
+  },
+  "gid://shopify/ProductVariant/53290710466857": {
+    "product_title": "Ojas Spark Stone Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "R31938",
+    "price": 2700.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ojas-spark-stone-pendant-set?variant=gid://shopify/ProductVariant/53290710466857",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2457_resized.jpg?v=1783583118"
+  },
+  "gid://shopify/ProductVariant/53290727440681": {
+    "product_title": "Kusuma Luxe Stone Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "R31945",
+    "price": 3600.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/kusuma-luxe-stone-pendant-set?variant=gid://shopify/ProductVariant/53290727440681",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2428_resized.jpg?v=1783589301"
   },
   "gid://shopify/ProductVariant/53290729341225": {
     "product_title": "Stone Gleam Ring",
