@@ -24173,15 +24173,6 @@
     "url": "https://www.rasasilver.com/products/siri-vaibhava-temple-studs?variant=gid://shopify/ProductVariant/53296605593897",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2331_resized.jpg?v=1784355178"
   },
-  "gid://shopify/ProductVariant/53296613753129": {
-    "product_title": "Panna-Manik Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "R31489",
-    "price": 2700.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/panna-manik-stone-studs?variant=gid://shopify/ProductVariant/53296613753129",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2230_resized.jpg?v=1782826064"
-  },
   "gid://shopify/ProductVariant/53296644522281": {
     "product_title": "Mallika Glow Stone Studs",
     "variant_title": "Default Title",
@@ -47591,6 +47582,15 @@
     "url": "https://www.rasasilver.com/products/lakshmi-sparkle-temple-studs?variant=gid://shopify/ProductVariant/53296604119337",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2368_resized.jpg?v=1784355103"
   },
+  "gid://shopify/ProductVariant/53296613753129": {
+    "product_title": "Panna-Manik Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "R31489",
+    "price": 2700.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/panna-manik-stone-studs?variant=gid://shopify/ProductVariant/53296613753129",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2230_resized.jpg?v=1782826064"
+  },
   "gid://shopify/ProductVariant/53296729227561": {
     "product_title": "Coral-Flora Stone Studs",
     "variant_title": "Default Title",
@@ -48067,6 +48067,42 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/navaratna-garden-necklace?variant=gid://shopify/ProductVariant/53346722513193",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-07-21at4.49.06PM.jpg?v=1784632883"
+  },
+  "gid://shopify/ProductVariant/53346727133481": {
+    "product_title": "Everlight Moissanite Bracelet",
+    "variant_title": "Default Title",
+    "sku": "R30809",
+    "price": 7200.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/everlight-moissanite-bracelet?variant=gid://shopify/ProductVariant/53346727133481",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2656_resized.jpg?v=1785241681"
+  },
+  "gid://shopify/ProductVariant/53346739126569": {
+    "product_title": "Enchanted Moissanite Bracelet",
+    "variant_title": "Default Title",
+    "sku": "R30881",
+    "price": 42000.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/enchanted-moissanite-bracelet?variant=gid://shopify/ProductVariant/53346739126569",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July26191_resized.jpg?v=1785241245"
+  },
+  "gid://shopify/ProductVariant/53346750398761": {
+    "product_title": "Ivy-Grace Moissanite Bracelet",
+    "variant_title": "Default Title",
+    "sku": "R30884",
+    "price": 44200.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ivy-grace-moissanite-bracelet?variant=gid://shopify/ProductVariant/53346750398761",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2641_resized.jpg?v=1785241528"
+  },
+  "gid://shopify/ProductVariant/53346777465129": {
+    "product_title": "Celestial Petal Moissanite Bracelet",
+    "variant_title": "Default Title",
+    "sku": "R31033",
+    "price": 17800.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/celestial-petal-moissanite-bracelet?variant=gid://shopify/ProductVariant/53346777465129",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2645_resized.jpg?v=1785240768"
   },
   "gid://shopify/ProductVariant/53350479528233": {
     "product_title": "Lumina Drop CZ Necklace",
