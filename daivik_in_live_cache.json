@@ -1048,7 +1048,7 @@
     "variant_title": "1",
     "sku": "756",
     "price": 799.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.daivik.in/products/traditional-teeka-in-2-variants-1?variant=gid://shopify/ProductVariant/40399475277977",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_0066045a-8bf2-4b6c-b69e-6d4d3128735b.jpg?v=1624462201"
   },
@@ -1336,7 +1336,7 @@
     "variant_title": "Default Title",
     "sku": "866",
     "price": 699.0,
-    "stock": 27,
+    "stock": 26,
     "url": "https://www.daivik.in/products/ad-kemp-studs?variant=gid://shopify/ProductVariant/41139977191577",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_3c05de13-4034-4f37-aadf-c735bb209236.jpg?v=1631804839"
   },
@@ -2293,15 +2293,6 @@
     "stock": 56,
     "url": "https://www.daivik.in/products/ad-white-gold-teeka?variant=gid://shopify/ProductVariant/42641179345118",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_cab7af53-ce70-4200-8b35-a70dcb200b07.heic?v=1648999204"
-  },
-  "gid://shopify/ProductVariant/42679268770014": {
-    "product_title": "AD Lakshmi Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "118",
-    "price": 2199.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/1-1?variant=gid://shopify/ProductVariant/42679268770014",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_b2eb70ab-b56b-4c92-8e8d-9507a88785eb.heic?v=1649767832"
   },
   "gid://shopify/ProductVariant/42679325982942": {
     "product_title": "Simple Mangalsutra With stones",
@@ -11254,7 +11245,7 @@
     "variant_title": "Default Title",
     "sku": "1572",
     "price": 799.0,
-    "stock": 27,
+    "stock": 26,
     "url": "https://www.daivik.in/products/ad-peacock-kemp-studs?variant=gid://shopify/ProductVariant/46354286018782",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EF90C32A-7B5E-410A-8F35-E87F232F4F6C.jpg?v=1741676368"
   },
@@ -12154,7 +12145,7 @@
     "variant_title": "1",
     "sku": "1606",
     "price": 1499.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/u-1?variant=gid://shopify/ProductVariant/46686857953502",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C897E96C-C8F4-431B-88C6-6A8CBEB1EFDA.jpg?v=1747063152"
   },
@@ -22669,6 +22660,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/openable-kemp-peacock-bangles?variant=gid://shopify/ProductVariant/43956913864926",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_14b048ec-b2cb-409d-9d80-12093a540322.heic?v=1648305362"
+  },
+  "gid://shopify/ProductVariant/42679268770014": {
+    "product_title": "AD Lakshmi Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "118",
+    "price": 2199.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/1-1?variant=gid://shopify/ProductVariant/42679268770014",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_b2eb70ab-b56b-4c92-8e8d-9507a88785eb.heic?v=1649767832"
   },
   "gid://shopify/ProductVariant/42679454695646": {
     "product_title": "Simple Embossed Choker with pendant",
