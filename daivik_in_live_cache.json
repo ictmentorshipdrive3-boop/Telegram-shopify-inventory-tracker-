@@ -2299,7 +2299,7 @@
     "variant_title": "Default Title",
     "sku": "670",
     "price": 1099.0,
-    "stock": 40,
+    "stock": 39,
     "url": "https://www.daivik.in/products/1-4?variant=gid://shopify/ProductVariant/42679325982942",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_0755.heic?v=1649768309"
   },
@@ -3109,7 +3109,7 @@
     "variant_title": "Default Title",
     "sku": "538",
     "price": 999.0,
-    "stock": 32,
+    "stock": 31,
     "url": "https://www.daivik.in/products/a-327?variant=gid://shopify/ProductVariant/43546226196702",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_53420f7a-2acc-41f8-89b3-e97b3002fb4c.heic?v=1666190684"
   },
@@ -7177,7 +7177,7 @@
     "variant_title": "Default Title",
     "sku": "291",
     "price": 799.0,
-    "stock": 40,
+    "stock": 39,
     "url": "https://www.daivik.in/products/kemp-peacock-ad-flower-pendant-chain-with-jhumkas?variant=gid://shopify/ProductVariant/45488983998686",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CE0ED1E9-7549-41F6-BA6F-AD9721B31DDC.jpg?v=1717512521"
   },
@@ -10363,7 +10363,7 @@
     "variant_title": "Default Title",
     "sku": "1526",
     "price": 699.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.daivik.in/products/simple-ruby-green-anklets?variant=gid://shopify/ProductVariant/46188367904990",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/65EA16C8-E23C-412C-A199-F283DBE40726.jpg?v=1735652379"
   },
@@ -11038,7 +11038,7 @@
     "variant_title": "Dark Green",
     "sku": "523",
     "price": 799.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/two-like-pearl-choker-with-earrings?variant=gid://shopify/ProductVariant/46323231785182",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8516979F-B389-44A8-8A4E-0A80D62D19F2.jpg?v=1740581098"
   },
@@ -21091,7 +21091,7 @@
     "variant_title": "Default Title",
     "sku": "485",
     "price": 899.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/elakkathali-ruby-choker-with-earrings?variant=gid://shopify/ProductVariant/48403799408862",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6A18C555-AF72-4C73-B410-F4E8C48D53A0.jpg?v=1782993326"
   },
@@ -21490,6 +21490,24 @@
     "stock": 19,
     "url": "https://www.daivik.in/products/traditional-peacock-antique-jhumkas?variant=gid://shopify/ProductVariant/48509978149086",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5559C196-584C-4BA4-84E2-C30C4A1D80E2.jpg?v=1785237958"
+  },
+  "gid://shopify/ProductVariant/48513202520286": {
+    "product_title": "Three layered Pearl Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "265",
+    "price": 3499.0,
+    "stock": 3,
+    "url": "https://www.daivik.in/products/three-layered-pearl-necklace-with-earrings?variant=gid://shopify/ProductVariant/48513202520286",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_03492.jpg?v=1785257794"
+  },
+  "gid://shopify/ProductVariant/48513251836126": {
+    "product_title": "Hanging Pendants Flower Pearl Mala with Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "758",
+    "price": 6999.0,
+    "stock": 2,
+    "url": "https://www.daivik.in/products/hanging-pendants-flower-pearl-mala-with-jhumkas?variant=gid://shopify/ProductVariant/48513251836126",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_03602.jpg?v=1785257805"
   },
   "gid://shopify/ProductVariant/44177048076510": {
     "product_title": "Tribal Kemp Dangles",
@@ -30733,14 +30751,5 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/simple-leaf-invisible-chain?variant=gid://shopify/ProductVariant/48434484150494",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6F48194E-21F4-470E-AD03-FE1A254608A7.jpg?v=1784029225"
-  },
-  "gid://shopify/ProductVariant/48513202520286": {
-    "product_title": "Three layered Pearl Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "265",
-    "price": 0.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/three-layered-pearl-necklace-with-earrings?variant=gid://shopify/ProductVariant/48513202520286",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_03492.jpg?v=1785257794"
   }
 }
