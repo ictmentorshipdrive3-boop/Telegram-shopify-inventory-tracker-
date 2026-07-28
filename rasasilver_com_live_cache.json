@@ -20492,15 +20492,6 @@
     "url": "https://www.rasasilver.com/products/avyara-bracelet?variant=gid://shopify/ProductVariant/53125608669481",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11883_resized.jpg?v=1781003499"
   },
-  "gid://shopify/ProductVariant/53126007259433": {
-    "product_title": "Aabira Bracelet",
-    "variant_title": "Default Title",
-    "sku": "R28380",
-    "price": 4200.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/aabira-bracelet?variant=gid://shopify/ProductVariant/53126007259433",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11888_resized.jpg?v=1781003693"
-  },
   "gid://shopify/ProductVariant/53126149439785": {
     "product_title": "Inaya CZ Danglers",
     "variant_title": "Default Title",
@@ -22900,7 +22891,7 @@
     "variant_title": "Silver",
     "sku": "R31544",
     "price": 4500.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/lustre-line-bracelet?variant=gid://shopify/ProductVariant/53284737941801",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun133061_resized.jpg?v=1782219439"
   },
@@ -46394,6 +46385,15 @@
     "url": "https://www.rasasilver.com/products/miraya-bracelet?variant=gid://shopify/ProductVariant/53125182259497",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11879_resized.jpg?v=1781003169"
   },
+  "gid://shopify/ProductVariant/53126007259433": {
+    "product_title": "Aabira Bracelet",
+    "variant_title": "Default Title",
+    "sku": "R28380",
+    "price": 4200.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/aabira-bracelet?variant=gid://shopify/ProductVariant/53126007259433",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11888_resized.jpg?v=1781003693"
+  },
   "gid://shopify/ProductVariant/53126379438377": {
     "product_title": "Asteria Cz Danglers",
     "variant_title": "Default Title",
@@ -48095,6 +48095,15 @@
     "url": "https://www.rasasilver.com/products/ivy-grace-moissanite-bracelet?variant=gid://shopify/ProductVariant/53346750398761",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2641_resized.jpg?v=1785241528"
   },
+  "gid://shopify/ProductVariant/53346766946601": {
+    "product_title": "Moissanite Beaded Bracelet",
+    "variant_title": "Default Title",
+    "sku": "R30983",
+    "price": 19200.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/moissanite-beaded-bracelet?variant=gid://shopify/ProductVariant/53346766946601",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2654_resized.jpg?v=1785241973"
+  },
   "gid://shopify/ProductVariant/53346777465129": {
     "product_title": "Celestial Petal Moissanite Bracelet",
     "variant_title": "Default Title",
@@ -48112,6 +48121,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/pearshine-cz-necklace?variant=gid://shopify/ProductVariant/53350479528233",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-07-23at1.18.45PM.jpg?v=1784794140"
+  },
+  "gid://shopify/ProductVariant/53362218271017": {
+    "product_title": "Rose Radiance CZ Bangles",
+    "variant_title": "2.3",
+    "sku": "R31051",
+    "price": 42500.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/rose-radiance-cz-bangles?variant=gid://shopify/ProductVariant/53362218271017",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2548_resized.jpg?v=1785242268"
   },
   "gid://shopify/ProductVariant/53365618180393": {
     "product_title": "Pearl Elite Moissanite Haath Phool",
