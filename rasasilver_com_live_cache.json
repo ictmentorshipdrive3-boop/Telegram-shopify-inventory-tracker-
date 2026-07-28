@@ -4855,7 +4855,7 @@
     "variant_title": "Default Title",
     "sku": "R11726",
     "price": 2500.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/florivya-studs?variant=gid://shopify/ProductVariant/50809271615785",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2570.jpg?v=1756537645"
   },
@@ -9817,6 +9817,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/suvarnalata-necklace?variant=gid://shopify/ProductVariant/51517435707689",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_5_Nov1634_resized.jpg?v=1763617195"
+  },
+  "gid://shopify/ProductVariant/51517545578793": {
+    "product_title": "Petal of Navaratna Studs",
+    "variant_title": "Default Title",
+    "sku": "R17282",
+    "price": 4200.0,
+    "stock": 2,
+    "url": "https://www.rasasilver.com/products/petal-of-navaratna-studs?variant=gid://shopify/ProductVariant/51517545578793",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0241copy_resized_e6864883-d471-4050-8777-ab0e8d0e7e37.jpg?v=1763632075"
   },
   "gid://shopify/ProductVariant/51526753747241": {
     "product_title": "Emeravia Necklace Set",
@@ -36700,15 +36709,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/pearlesse-cz-studs?variant=gid://shopify/ProductVariant/51517530571049",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0252copy_resized_8e5dbc1d-9b2e-4927-8d83-a0a464a01e50.jpg?v=1763630267"
-  },
-  "gid://shopify/ProductVariant/51517545578793": {
-    "product_title": "Petal of Navaratna Studs",
-    "variant_title": "Default Title",
-    "sku": "R17282",
-    "price": 4200.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/petal-of-navaratna-studs?variant=gid://shopify/ProductVariant/51517545578793",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0241copy_resized_e6864883-d471-4050-8777-ab0e8d0e7e37.jpg?v=1763632075"
   },
   "gid://shopify/ProductVariant/51517951279401": {
     "product_title": "Bloom Of Navaratna Studs",
