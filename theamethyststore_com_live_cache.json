@@ -20029,7 +20029,7 @@
     "variant_title": "2.4\"",
     "sku": "AMS-107-1898-2.4\"",
     "price": 24640.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/glittering-stone-pair-bangle?variant=gid://shopify/ProductVariant/46326937682147",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1898.jpg?v=1746106114"
   },
@@ -20275,15 +20275,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/beautiful-kundan-pair-bangle?variant=gid://shopify/ProductVariant/46347964023011",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1916.jpg?v=1746790675"
-  },
-  "gid://shopify/ProductVariant/46347996725475": {
-    "product_title": "Tanisha Stone Pair Bangle",
-    "variant_title": "2.4\"",
-    "sku": "AMS-107-1953-2.4",
-    "price": 28600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/tanisha-stone-pair-bangle?variant=gid://shopify/ProductVariant/46347996725475",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1953.jpg?v=1747975146"
   },
   "gid://shopify/ProductVariant/46347997216995": {
     "product_title": "Sherina Kundan Pair Bangle",
@@ -85652,15 +85643,6 @@
     "url": "https://www.theamethyststore.com/products/ashikha-mugappu-chain?variant=gid://shopify/ProductVariant/49359521743075",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2141.jpg?v=1783078315"
   },
-  "gid://shopify/ProductVariant/49359529148643": {
-    "product_title": "Glittering Mugappu Chain",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-2140",
-    "price": 15980.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/glittering-mugappu-chain?variant=gid://shopify/ProductVariant/49359529148643",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2140.jpg?v=1783078507"
-  },
   "gid://shopify/ProductVariant/49359544189155": {
     "product_title": "Catchy Avikam Short Necklace Set",
     "variant_title": "Default Title",
@@ -99170,6 +99152,15 @@
     "url": "https://www.theamethyststore.com/products/bhavya-kundan-ring-2?variant=gid://shopify/ProductVariant/46344490877155",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0835.jpg?v=1746706153"
   },
+  "gid://shopify/ProductVariant/46347996725475": {
+    "product_title": "Tanisha Stone Pair Bangle",
+    "variant_title": "2.4\"",
+    "sku": "AMS-107-1953-2.4",
+    "price": 28600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/tanisha-stone-pair-bangle?variant=gid://shopify/ProductVariant/46347996725475",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1953.jpg?v=1747975146"
+  },
   "gid://shopify/ProductVariant/46349383631075": {
     "product_title": "Purnaka Chain",
     "variant_title": "Default Title",
@@ -109546,6 +109537,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/dhanushi-mugappu-chain?variant=gid://shopify/ProductVariant/49359516205283",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2142.jpg?v=1783078144"
+  },
+  "gid://shopify/ProductVariant/49359529148643": {
+    "product_title": "Glittering Mugappu Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2140",
+    "price": 15980.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/glittering-mugappu-chain?variant=gid://shopify/ProductVariant/49359529148643",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2140.jpg?v=1783078507"
   },
   "gid://shopify/ProductVariant/49359536488675": {
     "product_title": "Eloria Avikam Short Necklace Set",
