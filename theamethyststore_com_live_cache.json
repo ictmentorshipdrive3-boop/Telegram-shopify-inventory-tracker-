@@ -17554,7 +17554,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-0719",
     "price": 2500.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.theamethyststore.com/products/mukitha-stone-ring?variant=gid://shopify/ProductVariant/46092913180899",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0719.jpg?v=1741271370"
   },
@@ -21671,15 +21671,6 @@
     "url": "https://www.theamethyststore.com/products/stone-pendant-1?variant=gid://shopify/ProductVariant/46423133880547",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2571.jpg?v=1749022732"
   },
-  "gid://shopify/ProductVariant/46423184539875": {
-    "product_title": "Leaf Design Stone Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-2524",
-    "price": 2875.5,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/leaf-design-stone-pendant?variant=gid://shopify/ProductVariant/46423184539875",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2524.jpg?v=1749024321"
-  },
   "gid://shopify/ProductVariant/46423214194915": {
     "product_title": "Jisha Stone Pendant",
     "variant_title": "Default Title",
@@ -22327,15 +22318,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/vamika-short-necklace-1?variant=gid://shopify/ProductVariant/46474196680931",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9450.jpg?v=1749378915"
-  },
-  "gid://shopify/ProductVariant/46474251829475": {
-    "product_title": "Dharshi Stone Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-0910",
-    "price": 4370.76,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/dharshi-stone-ring?variant=gid://shopify/ProductVariant/46474251829475",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0910.jpg?v=1749378972"
   },
   "gid://shopify/ProductVariant/46474292658403": {
     "product_title": "Samtitha Stone Ring",
@@ -71653,7 +71635,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-13354",
     "price": 6800.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/maala-kundan-studs?variant=gid://shopify/ProductVariant/48903240450275",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13354.jpg?v=1777792332"
   },
@@ -99953,6 +99935,15 @@
     "url": "https://www.theamethyststore.com/products/shri-nagas-jhumkas?variant=gid://shopify/ProductVariant/46420269334755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8423.jpg?v=1748949367"
   },
+  "gid://shopify/ProductVariant/46423184539875": {
+    "product_title": "Leaf Design Stone Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-2524",
+    "price": 2875.5,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/leaf-design-stone-pendant?variant=gid://shopify/ProductVariant/46423184539875",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2524.jpg?v=1749024321"
+  },
   "gid://shopify/ProductVariant/46430991450339": {
     "product_title": "Sagana Double layer Necklace",
     "variant_title": "Default Title",
@@ -99979,6 +99970,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/lavish-stone-short-necklace?variant=gid://shopify/ProductVariant/46457666535651",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9512.jpg?v=1749291827"
+  },
+  "gid://shopify/ProductVariant/46474251829475": {
+    "product_title": "Dharshi Stone Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-0910",
+    "price": 4370.76,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/dharshi-stone-ring?variant=gid://shopify/ProductVariant/46474251829475",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0910.jpg?v=1749378972"
   },
   "gid://shopify/ProductVariant/46474629906659": {
     "product_title": "Dharani Short Necklace",
@@ -105731,6 +105731,15 @@
     "url": "https://www.theamethyststore.com/products/frizza-stone-studs?variant=gid://shopify/ProductVariant/47852048875747",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12552.jpg?v=1768801450"
   },
+  "gid://shopify/ProductVariant/47852063588579": {
+    "product_title": "Hinamika Stone Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-11827",
+    "price": 3200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/hinamika-stone-drops-1?variant=gid://shopify/ProductVariant/47852063588579",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11827_4da33e1a-14a1-4174-8fd0-f8a453876d3e.jpg?v=1782191742"
+  },
   "gid://shopify/ProductVariant/47852131909859": {
     "product_title": "Adhivya Stone Drops",
     "variant_title": "Default Title",
@@ -111194,6 +111203,15 @@
     "url": "https://www.theamethyststore.com/products/nagas-short-necklace-set-37?variant=gid://shopify/ProductVariant/49289741435107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16121.jpg?v=1782103083"
   },
+  "gid://shopify/ProductVariant/49290165453027": {
+    "product_title": "Dheekshika Stone Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14157",
+    "price": 4000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/stone-drops-17?variant=gid://shopify/ProductVariant/49290165453027",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14157.jpg?v=1782109275"
+  },
   "gid://shopify/ProductVariant/49290179084515": {
     "product_title": "Lekisha Stone Earrings",
     "variant_title": "Default Title",
@@ -112282,5 +112300,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/lumina-moissanite-pendant-set?variant=gid://shopify/ProductVariant/49436846981347",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4725.jpg?v=1784715865"
+  },
+  "gid://shopify/ProductVariant/49447281950947": {
+    "product_title": "Heritage Moissanite Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2184",
+    "price": 8400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/heritage-moissanite-ring?variant=gid://shopify/ProductVariant/49447281950947",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2184.jpg?v=1784974324"
   }
 }
