@@ -17734,7 +17734,7 @@
     "variant_title": "Default Title",
     "sku": "R25848",
     "price": 7900.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/shriprada-short-temple-necklace-copy?variant=gid://shopify/ProductVariant/52828252963113",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar01801_resized.jpg?v=1774595479"
   },
@@ -17761,7 +17761,7 @@
     "variant_title": "Default Title",
     "sku": "R25851",
     "price": 8100.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/vrittangi-short-temple-necklace-copy?variant=gid://shopify/ProductVariant/52828296741161",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar01761_resized.jpg?v=1774595248"
   },
@@ -19192,7 +19192,7 @@
     "variant_title": "Default Title",
     "sku": "R26317",
     "price": 8700.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/indira-temple-necklace?variant=gid://shopify/ProductVariant/52889885016361",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0142_resized.jpg?v=1775208186"
   },
@@ -19201,7 +19201,7 @@
     "variant_title": "Default Title",
     "sku": "R26320",
     "price": 9900.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/indira-temple-necklace-copy-1?variant=gid://shopify/ProductVariant/52889966149929",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0133_resized.jpg?v=1775209332"
   },
@@ -21478,7 +21478,7 @@
     "variant_title": "Default Title",
     "sku": "R28590",
     "price": 8000.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/kalasha-lakshmi-temple-necklace?variant=gid://shopify/ProductVariant/53266747162921",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262146_resized.jpg?v=1781526163"
   },
@@ -22201,6 +22201,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/bloom-line-cz-danglers?variant=gid://shopify/ProductVariant/53283009986857",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1836_resized.jpg?v=1782135288"
+  },
+  "gid://shopify/ProductVariant/53283014672681": {
+    "product_title": "Pear-Line CZ Danglers",
+    "variant_title": "Default Title",
+    "sku": "R29569",
+    "price": 3000.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/pear-line-cz-danglers?variant=gid://shopify/ProductVariant/53283014672681",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1798_resized.jpg?v=1782135713"
   },
   "gid://shopify/ProductVariant/53283020046633": {
     "product_title": "Oval-Floral CZ Danglers",
@@ -24520,7 +24529,7 @@
     "variant_title": "Default Title",
     "sku": "R31985",
     "price": 1600.0,
-    "stock": 12,
+    "stock": 13,
     "url": "https://www.rasasilver.com/products/minimal-plain-chain?variant=gid://shopify/ProductVariant/53329485431081",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0841_resized.jpg?v=1784115244"
   },
@@ -47104,15 +47113,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/pear-luxe-cz-danglers?variant=gid://shopify/ProductVariant/53282985115945",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1824_resized.jpg?v=1782134506"
-  },
-  "gid://shopify/ProductVariant/53283014672681": {
-    "product_title": "Pear-Line CZ Danglers",
-    "variant_title": "Default Title",
-    "sku": "R29569",
-    "price": 3000.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/pear-line-cz-danglers?variant=gid://shopify/ProductVariant/53283014672681",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1798_resized.jpg?v=1782135713"
   },
   "gid://shopify/ProductVariant/53283751985449": {
     "product_title": "Pear-Floral CZ Danglers",
