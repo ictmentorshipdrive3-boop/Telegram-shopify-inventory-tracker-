@@ -10039,7 +10039,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-6302",
     "price": 3417.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/alluring-hook-drops?variant=gid://shopify/ProductVariant/45281198932195",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6302.jpg?v=1721297356"
   },
@@ -14965,15 +14965,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/saanvika-short-necklace?variant=gid://shopify/ProductVariant/45781997715683",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7816_2.jpg?v=1733570273"
-  },
-  "gid://shopify/ProductVariant/45782075277539": {
-    "product_title": "Sobha Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-7830",
-    "price": 45662.94,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/sobha-short-necklace?variant=gid://shopify/ProductVariant/45782075277539",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7830_2.jpg?v=1733572259"
   },
   "gid://shopify/ProductVariant/45782207824099": {
     "product_title": "Yasika Long Necklace",
@@ -50614,15 +50605,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/vikasha-pair-bangle?variant=gid://shopify/ProductVariant/47726688076003",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2859.jpg?v=1765457452"
-  },
-  "gid://shopify/ProductVariant/47726691746019": {
-    "product_title": "Glitz Charm Short Necklace Set",
-    "variant_title": "Green",
-    "sku": "AMS-102-13189-Green",
-    "price": 40832.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/short-necklace-set-24?variant=gid://shopify/ProductVariant/47726691746019",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13189.jpg?v=1765457392"
   },
   "gid://shopify/ProductVariant/47726741258467": {
     "product_title": "Sherivini Pair Bangle",
@@ -103408,6 +103390,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nivashilini-pair-bangle?variant=gid://shopify/ProductVariant/47726537900259",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2855_9d126cbb-b326-41a9-b15e-f92db62d3fb9.jpg?v=1765453734"
+  },
+  "gid://shopify/ProductVariant/47726691746019": {
+    "product_title": "Glitz Charm Short Necklace Set",
+    "variant_title": "Green",
+    "sku": "AMS-102-13189-Green",
+    "price": 40832.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/short-necklace-set-24?variant=gid://shopify/ProductVariant/47726691746019",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13189.jpg?v=1765457392"
   },
   "gid://shopify/ProductVariant/47726696628451": {
     "product_title": "Glitz Charm Short Necklace Set",
