@@ -562,7 +562,7 @@
     "variant_title": "Default Title",
     "sku": "400",
     "price": 1749.0,
-    "stock": 48,
+    "stock": 47,
     "url": "https://www.daivik.in/products/pure-uncut-kemp-vintage-necklace-with-earrings?variant=gid://shopify/ProductVariant/44178228478174",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C737AC2D-4625-48B3-A0E8-1A1FD009E918.jpg?v=1737636280"
   },
@@ -4444,15 +4444,6 @@
     "stock": 2,
     "url": "https://www.daivik.in/products/ad-studs-in-2-colours?variant=gid://shopify/ProductVariant/44284796600542",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_6b1a32dc-41e8-41f6-82b4-92ec978885bb.heic?v=1690385790"
-  },
-  "gid://shopify/ProductVariant/44284805513438": {
-    "product_title": "Kemp studs with pearl detailing",
-    "variant_title": "Default Title",
-    "sku": "251",
-    "price": 699.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/kemp-studs-with-pearl-detailing?variant=gid://shopify/ProductVariant/44284805513438",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_e2072abf-548d-4faa-ad3e-9f72614d160c.heic?v=1690386024"
   },
   "gid://shopify/ProductVariant/44284806037726": {
     "product_title": "Kemp studs",
@@ -10831,7 +10822,7 @@
     "variant_title": "Default Title",
     "sku": "1216",
     "price": 699.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/ad-hasli-ruby-green-necklace-with-balis?variant=gid://shopify/ProductVariant/46285166837982",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1BCD5492-A557-4AD2-B765-B7F0B3AF0179.jpg?v=1780728443"
   },
@@ -12109,7 +12100,7 @@
     "variant_title": "Green",
     "sku": "1259",
     "price": 599.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.daivik.in/products/l?variant=gid://shopify/ProductVariant/46679641784542",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/17BC1C58-6F27-4E5E-85E4-C8989909A891.jpg?v=1746685096"
   },
@@ -24739,6 +24730,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/ad-studs-in-2-colours?variant=gid://shopify/ProductVariant/44284791521502",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_6b1a32dc-41e8-41f6-82b4-92ec978885bb.heic?v=1690385790"
+  },
+  "gid://shopify/ProductVariant/44284805513438": {
+    "product_title": "Kemp studs with pearl detailing",
+    "variant_title": "Default Title",
+    "sku": "251",
+    "price": 699.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/kemp-studs-with-pearl-detailing?variant=gid://shopify/ProductVariant/44284805513438",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_e2072abf-548d-4faa-ad3e-9f72614d160c.heic?v=1690386024"
   },
   "gid://shopify/ProductVariant/44286685085918": {
     "product_title": "Victorian mossonite pearl necklace with earrings",
