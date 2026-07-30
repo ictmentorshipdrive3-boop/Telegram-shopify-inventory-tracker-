@@ -66815,15 +66815,6 @@
     "url": "https://www.theamethyststore.com/products/elisha-guttapusalu-necklace?variant=gid://shopify/ProductVariant/48469942010083",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15141-_2.jpg?v=1773742470"
   },
-  "gid://shopify/ProductVariant/48469967601891": {
-    "product_title": "Heritha Nagas Drops Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-13138",
-    "price": 7800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nagas-drops-earrings?variant=gid://shopify/ProductVariant/48469967601891",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13138.jpg?v=1773743611"
-  },
   "gid://shopify/ProductVariant/48470008266979": {
     "product_title": "Disha Nagas Drops Earrings",
     "variant_title": "Default Title",
@@ -96083,6 +96074,15 @@
     "url": "https://www.theamethyststore.com/products/charming-kundan-jhumkas?variant=gid://shopify/ProductVariant/49476501176547",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15017.jpg?v=1785418061"
   },
+  "gid://shopify/ProductVariant/49476530176227": {
+    "product_title": "Shivya Kundan Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4757",
+    "price": 13200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-100?variant=gid://shopify/ProductVariant/49476530176227",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4757.jpg?v=1785418809"
+  },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
     "variant_title": "Default Title",
@@ -106451,6 +106451,15 @@
     "url": "https://www.theamethyststore.com/products/nikitha-guttapusalu-necklace-set?variant=gid://shopify/ProductVariant/48469767127267",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15140.jpg?v=1773733427"
   },
+  "gid://shopify/ProductVariant/48469967601891": {
+    "product_title": "Heritha Nagas Drops Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-13138",
+    "price": 7800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-drops-earrings?variant=gid://shopify/ProductVariant/48469967601891",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13138.jpg?v=1773743611"
+  },
   "gid://shopify/ProductVariant/48469997453539": {
     "product_title": "Pranitha Nagas Drops Earrings",
     "variant_title": "Default Title",
@@ -110527,5 +110536,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/heritage-moissanite-ring?variant=gid://shopify/ProductVariant/49447281950947",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2184.jpg?v=1784974324"
+  },
+  "gid://shopify/ProductVariant/49476536140003": {
+    "product_title": "Yalisha Kundan Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4758",
+    "price": 13610.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-101?variant=gid://shopify/ProductVariant/49476536140003",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4758.jpg?v=1785419154"
   }
 }
