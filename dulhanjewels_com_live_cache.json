@@ -6731,15 +6731,6 @@
     "url": "https://www.dulhanjewels.com/products/traditional-temple-style-peacock-kundan-stud-earrings?variant=gid://shopify/ProductVariant/51443057426738",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-8532.jpg?v=1783580229"
   },
-  "gid://shopify/ProductVariant/51443057459506": {
-    "product_title": "Traditional Temple Style Peacock Kundan Stud Earrings",
-    "variant_title": "Red",
-    "sku": null,
-    "price": 1100.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/traditional-temple-style-peacock-kundan-stud-earrings?variant=gid://shopify/ProductVariant/51443057459506",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-8532.jpg?v=1783580229"
-  },
   "gid://shopify/ProductVariant/51443057492274": {
     "product_title": "Traditional Temple Style Peacock Kundan Stud Earrings",
     "variant_title": "Multi",
@@ -7342,15 +7333,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/royal-jadau-kundan-chandbali-earrings-with-emerald-beads?variant=gid://shopify/ProductVariant/51518149624114",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/01B0C85F-EEA6-4B7C-8673-2213B0241F9E.jpg?v=1785314181"
-  },
-  "gid://shopify/ProductVariant/51518158242098": {
-    "product_title": "Designer Jadau Kundan Peacock Bracelet Watch",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2600.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/designer-jadau-kundan-peacock-bracelet-watch?variant=gid://shopify/ProductVariant/51518158242098",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/8947222D-F37B-4BA7-A07B-FBFBB678FF17.jpg?v=1785314589"
   },
   "gid://shopify/ProductVariant/51518163714354": {
     "product_title": "Classic Polki Locket With Green Beads",
@@ -9152,6 +9134,15 @@
     "url": "https://www.dulhanjewels.com/products/exquisite-jadau-kundan-choker-green-bead-drops?variant=gid://shopify/ProductVariant/51369021276466",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/5D1439BA-C438-4EAA-AEB6-835630FD5A5D.jpg?v=1782390626"
   },
+  "gid://shopify/ProductVariant/51443057459506": {
+    "product_title": "Traditional Temple Style Peacock Kundan Stud Earrings",
+    "variant_title": "Red",
+    "sku": null,
+    "price": 1100.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/traditional-temple-style-peacock-kundan-stud-earrings?variant=gid://shopify/ProductVariant/51443057459506",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-8532.jpg?v=1783580229"
+  },
   "gid://shopify/ProductVariant/51501281870130": {
     "product_title": "Temple Style Peacock Vaddanam With Green Beads",
     "variant_title": "White",
@@ -9169,5 +9160,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/mini-jadau-kundan-jhumki-earrings-with-green-drops?variant=gid://shopify/ProductVariant/51518151196978",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9530.jpg?v=1785412933"
+  },
+  "gid://shopify/ProductVariant/51518158242098": {
+    "product_title": "Designer Jadau Kundan Peacock Bracelet Watch",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2600.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/designer-jadau-kundan-peacock-bracelet-watch?variant=gid://shopify/ProductVariant/51518158242098",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/8947222D-F37B-4BA7-A07B-FBFBB678FF17.jpg?v=1785314589"
   }
 }
