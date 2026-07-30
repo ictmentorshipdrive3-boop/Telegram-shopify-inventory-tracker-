@@ -13022,15 +13022,6 @@
     "url": "https://www.rasasilver.com/products/svarika?variant=gid://shopify/ProductVariant/52463844131113",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan1007_resized.jpg?v=1769075642"
   },
-  "gid://shopify/ProductVariant/52463904817449": {
-    "product_title": "Pear Detachable Victorian Set",
-    "variant_title": "Default Title",
-    "sku": "R18526",
-    "price": 42480.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/pear-detachable-victorian-set?variant=gid://shopify/ProductVariant/52463904817449",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan1027_resized.jpg?v=1769076102"
-  },
   "gid://shopify/ProductVariant/52463930310953": {
     "product_title": "Ovala Victorian Necklace Set",
     "variant_title": "Default Title",
@@ -13207,7 +13198,7 @@
     "variant_title": "Default Title",
     "sku": "R22554",
     "price": 21600.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/narashima-temple-pendant?variant=gid://shopify/ProductVariant/52469599174953",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan0625_resized.jpg?v=1769084015"
   },
@@ -16117,15 +16108,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/kundan-necklace?variant=gid://shopify/ProductVariant/52741751439657",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5353_resized.jpg?v=1772534171"
-  },
-  "gid://shopify/ProductVariant/52741761401129": {
-    "product_title": "Amrakshi Kundan Necklace",
-    "variant_title": "Default Title",
-    "sku": "R25854",
-    "price": 113850.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/kundan-necklace-1?variant=gid://shopify/ProductVariant/52741761401129",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5343.jpg?v=1772535838"
   },
   "gid://shopify/ProductVariant/52741814944041": {
     "product_title": "Pushpavan Kundan Tikka",
@@ -22057,15 +22039,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/srija-cz-bangles?variant=gid://shopify/ProductVariant/53283847274793",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May1727_resized.jpg?v=1782194206"
-  },
-  "gid://shopify/ProductVariant/53283846488361": {
-    "product_title": "Viridia CZ Kada",
-    "variant_title": "Default Title",
-    "sku": "R29498",
-    "price": 3500.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/viridia-cz-kada?variant=gid://shopify/ProductVariant/53283846488361",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May1746_resized.jpg?v=1782196430"
   },
   "gid://shopify/ProductVariant/53283855073577": {
     "product_title": "Infinite Spark Stone Bangles",
@@ -39923,6 +39896,15 @@
     "url": "https://www.rasasilver.com/products/nritya-antique-necklace?variant=gid://shopify/ProductVariant/52463833645353",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan0757_resized.jpg?v=1769074860"
   },
+  "gid://shopify/ProductVariant/52463904817449": {
+    "product_title": "Pear Detachable Victorian Set",
+    "variant_title": "Default Title",
+    "sku": "R18526",
+    "price": 42480.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/pear-detachable-victorian-set?variant=gid://shopify/ProductVariant/52463904817449",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan1027_resized.jpg?v=1769076102"
+  },
   "gid://shopify/ProductVariant/52463944696105": {
     "product_title": "Kanvitha Victorian Necklace Set",
     "variant_title": "Default Title",
@@ -43054,6 +43036,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/kundan-jhumki-1?variant=gid://shopify/ProductVariant/52741278269737",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb0013_resized.jpg?v=1772689299"
+  },
+  "gid://shopify/ProductVariant/52741761401129": {
+    "product_title": "Amrakshi Kundan Necklace",
+    "variant_title": "Default Title",
+    "sku": "R25854",
+    "price": 113850.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/kundan-necklace-1?variant=gid://shopify/ProductVariant/52741761401129",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5343.jpg?v=1772535838"
   },
   "gid://shopify/ProductVariant/52741786370345": {
     "product_title": "Morika Rani Kundan Necklace",
@@ -47149,6 +47140,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/svara-cz-danglers?variant=gid://shopify/ProductVariant/53283808936233",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1763_resized.jpg?v=1782193581"
+  },
+  "gid://shopify/ProductVariant/53283846488361": {
+    "product_title": "Viridia CZ Kada",
+    "variant_title": "Default Title",
+    "sku": "R29498",
+    "price": 3500.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/viridia-cz-kada?variant=gid://shopify/ProductVariant/53283846488361",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May1746_resized.jpg?v=1782196430"
   },
   "gid://shopify/ProductVariant/53283887808809": {
     "product_title": "Wave-Luxe Stone Bangles",
