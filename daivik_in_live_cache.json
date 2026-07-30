@@ -4756,7 +4756,7 @@
     "variant_title": "Default Title",
     "sku": "566",
     "price": 8499.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/pure-jadau-half-moon-necklace-with-earrings?variant=gid://shopify/ProductVariant/44363493933278",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG-9439.heic?v=1695741964"
   },
@@ -18440,15 +18440,6 @@
     "url": "https://www.daivik.in/products/ad-nose-pin-nath?variant=gid://shopify/ProductVariant/47916143509726",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BCB6E973-FFD5-40B9-80C9-AA5124D78060.jpg?v=1771692716"
   },
-  "gid://shopify/ProductVariant/47916989251806": {
-    "product_title": "Antique Ruby Green Hipchain in 3 Styles (Price for Each)",
-    "variant_title": "Golden Beads",
-    "sku": "1822",
-    "price": 6499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/antique-ruby-green-hipchain-in-3-styles?variant=gid://shopify/ProductVariant/47916989251806",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B28A6F8E-E2F3-4CDB-9D2C-1DCF704B0C86.jpg?v=1771742866"
-  },
   "gid://shopify/ProductVariant/47917168230622": {
     "product_title": "Antique Non Idol Purple Long Necklace with Earrings",
     "variant_title": "Default Title",
@@ -21220,15 +21211,6 @@
     "stock": 1,
     "url": "https://www.daivik.in/products/victorian-flower-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48423947796702",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9002.jpg?v=1783748787"
-  },
-  "gid://shopify/ProductVariant/48424071037150": {
-    "product_title": "Victorian Bridal Short and Long Combo Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "197",
-    "price": 11999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/victorian-bridal-short-and-long-combo-necklace-with-earrings?variant=gid://shopify/ProductVariant/48424071037150",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8997.jpg?v=1783750397"
   },
   "gid://shopify/ProductVariant/48427442831582": {
     "product_title": "Isha Ambani Inspired Moissanite Layered Necklace with Earrings",
@@ -30203,6 +30185,15 @@
     "url": "https://www.daivik.in/products/antique-ruby-green-hipchain-in-3-styles?variant=gid://shopify/ProductVariant/47916989219038",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B28A6F8E-E2F3-4CDB-9D2C-1DCF704B0C86.jpg?v=1771742866"
   },
+  "gid://shopify/ProductVariant/47916989251806": {
+    "product_title": "Antique Ruby Green Hipchain in 3 Styles (Price for Each)",
+    "variant_title": "Golden Beads",
+    "sku": "1822",
+    "price": 6499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/antique-ruby-green-hipchain-in-3-styles?variant=gid://shopify/ProductVariant/47916989251806",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B28A6F8E-E2F3-4CDB-9D2C-1DCF704B0C86.jpg?v=1771742866"
+  },
   "gid://shopify/ProductVariant/47916989284574": {
     "product_title": "Antique Ruby Green Hipchain in 3 Styles (Price for Each)",
     "variant_title": "Light Green Beads",
@@ -30706,6 +30697,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/elakkathali-ruby-choker-with-earrings?variant=gid://shopify/ProductVariant/48403799408862",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6A18C555-AF72-4C73-B410-F4E8C48D53A0.jpg?v=1782993326"
+  },
+  "gid://shopify/ProductVariant/48424071037150": {
+    "product_title": "Victorian Bridal Short and Long Combo Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "197",
+    "price": 11999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/victorian-bridal-short-and-long-combo-necklace-with-earrings?variant=gid://shopify/ProductVariant/48424071037150",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8997.jpg?v=1783750397"
   },
   "gid://shopify/ProductVariant/48434484150494": {
     "product_title": "Simple Leaf Invisible Chain",
