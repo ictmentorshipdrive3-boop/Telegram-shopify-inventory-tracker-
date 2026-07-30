@@ -91263,7 +91263,7 @@
     "product_title": "Mesmerizing Avikam Necklace Set",
     "variant_title": "Default Title",
     "sku": "AMS-102-16775",
-    "price": 28600.0,
+    "price": 28800.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/mesmerizing-avikam-necklace-set-1?variant=gid://shopify/ProductVariant/49421181649123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16775.jpg?v=1784283170"
@@ -95768,6 +95768,15 @@
     "url": "https://www.theamethyststore.com/products/chandhubaali-earrings-4?variant=gid://shopify/ProductVariant/49476094623971",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15105.jpg?v=1785407637"
   },
+  "gid://shopify/ProductVariant/49476095770851": {
+    "product_title": "Elegant Amman Face",
+    "variant_title": "Default Title",
+    "sku": "SV-508-0030",
+    "price": 17052.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/amman-face-1?variant=gid://shopify/ProductVariant/49476095770851",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/SV-508-0030.jpg?v=1785408525"
+  },
   "gid://shopify/ProductVariant/49476098851043": {
     "product_title": "Arshiya Chandhubaali Earrings",
     "variant_title": "Default Title",
@@ -95785,6 +95794,42 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/samyra-chandhubaali-earrings?variant=gid://shopify/ProductVariant/49476100620515",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15107.jpg?v=1785407998"
+  },
+  "gid://shopify/ProductVariant/49476102029539": {
+    "product_title": "Viyona Chandhubaali Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15108",
+    "price": 30400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/viyona-chandhubaali-earrings?variant=gid://shopify/ProductVariant/49476102029539",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15108.jpg?v=1785408143"
+  },
+  "gid://shopify/ProductVariant/49476108910819": {
+    "product_title": "Vedhika Amman Face",
+    "variant_title": "Default Title",
+    "sku": "SV-508-0031",
+    "price": 73073.35,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/amman-face-2?variant=gid://shopify/ProductVariant/49476108910819",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/SV-508-0031.jpg?v=1785408851"
+  },
+  "gid://shopify/ProductVariant/49476108943587": {
+    "product_title": "Ahaana Chandhubaali Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15109",
+    "price": 32800.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/ahaana-chandhubaali-earrings?variant=gid://shopify/ProductVariant/49476108943587",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15109.jpg?v=1785408859"
+  },
+  "gid://shopify/ProductVariant/49476110188771": {
+    "product_title": "Miraya Chandhubaali Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15110",
+    "price": 31380.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/miraya-chandhubaali-earrings?variant=gid://shopify/ProductVariant/49476110188771",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15110.jpg?v=1785409086"
   },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
@@ -110203,14 +110248,5 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/varalakshmi-face-3?variant=gid://shopify/ProductVariant/49476057989347",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/SV-508-0023.jpg?v=1785406308"
-  },
-  "gid://shopify/ProductVariant/49476102029539": {
-    "product_title": "Viyona Chandhubaali Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15108",
-    "price": 30400.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/viyona-chandhubaali-earrings?variant=gid://shopify/ProductVariant/49476102029539",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15108.jpg?v=1785408143"
   }
 }
