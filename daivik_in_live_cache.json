@@ -12235,7 +12235,7 @@
     "variant_title": "Default Title",
     "sku": "1265",
     "price": 7999.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/ad-green-peacock-pendant-long-necklace-with-earrings?variant=gid://shopify/ProductVariant/46790818693342",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B5953DA4-D720-4BD0-B440-3CEC400DDE59.jpg?v=1747842465"
   },
@@ -13594,7 +13594,7 @@
     "variant_title": "Default Title",
     "sku": "1319",
     "price": 1299.0,
-    "stock": 13,
+    "stock": 12,
     "url": "https://www.daivik.in/products/lakshmi-antique-choker-with-studs?variant=gid://shopify/ProductVariant/47461641388254",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B43A7E7A-40CB-42C6-8659-D64017434DA7.jpg?v=1755770949"
   },
@@ -16609,7 +16609,7 @@
     "variant_title": "Short and Long",
     "sku": "788",
     "price": 15999.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/pure-kemp-brass-lakshmi-short-and-long-mango-necklace-with-earrings?variant=gid://shopify/ProductVariant/47628177899742",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7253.heic?v=1761312373"
   },
@@ -19948,7 +19948,7 @@
     "variant_title": "Default Title",
     "sku": "1383",
     "price": 2399.0,
-    "stock": 36,
+    "stock": 35,
     "url": "https://www.daivik.in/products/classic-guttapusalu-cluster-pearl-choker-with-balis?variant=gid://shopify/ProductVariant/48161484210398",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5EC564A7-6A67-484A-80CD-1301E50EEF41.jpg?v=1777201549"
   },
@@ -21050,15 +21050,6 @@
     "url": "https://www.daivik.in/products/pachi-pearl-jali-necklace?variant=gid://shopify/ProductVariant/48400077258974",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_83502.jpg?v=1782925422"
   },
-  "gid://shopify/ProductVariant/48403799408862": {
-    "product_title": "Elakkathali Ruby Choker with Earrings",
-    "variant_title": "Default Title",
-    "sku": "485",
-    "price": 899.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/elakkathali-ruby-choker-with-earrings?variant=gid://shopify/ProductVariant/48403799408862",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6A18C555-AF72-4C73-B410-F4E8C48D53A0.jpg?v=1782993326"
-  },
   "gid://shopify/ProductVariant/48404578631902": {
     "product_title": "CZ Kids/Adult Floral Earcuff Earrings",
     "variant_title": "Default Title",
@@ -21406,7 +21397,7 @@
     "variant_title": "2.6",
     "sku": "1931",
     "price": 3299.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/victorian-green-bangle-combo?variant=gid://shopify/ProductVariant/48453374378206",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B12C84A9-CA55-468E-A8C3-2BA16D904B9F.jpg?v=1784567845"
   },
@@ -30706,6 +30697,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/bangles-1?variant=gid://shopify/ProductVariant/48353994080478",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/87222F0C-BE78-40F6-9AD2-408ED91CF6ED.jpg?v=1782062197"
+  },
+  "gid://shopify/ProductVariant/48403799408862": {
+    "product_title": "Elakkathali Ruby Choker with Earrings",
+    "variant_title": "Default Title",
+    "sku": "485",
+    "price": 899.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/elakkathali-ruby-choker-with-earrings?variant=gid://shopify/ProductVariant/48403799408862",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6A18C555-AF72-4C73-B410-F4E8C48D53A0.jpg?v=1782993326"
   },
   "gid://shopify/ProductVariant/48434484150494": {
     "product_title": "Simple Leaf Invisible Chain",
