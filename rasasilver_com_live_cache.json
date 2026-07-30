@@ -4810,7 +4810,7 @@
     "variant_title": "Default Title",
     "sku": "R11731",
     "price": 2500.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/olivora-glow-studs?variant=gid://shopify/ProductVariant/50809320636713",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2512.jpg?v=1756538126"
   },
@@ -12545,6 +12545,15 @@
     "url": "https://www.rasasilver.com/products/ovalia-cz-bangles?variant=gid://shopify/ProductVariant/52519701217577",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_72Pics_10Jan3021_resized.jpg?v=1769596936"
   },
+  "gid://shopify/ProductVariant/52418908389673": {
+    "product_title": "Gulnar Kundan Choker",
+    "variant_title": "Default Title",
+    "sku": "R22553",
+    "price": 36180.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/gulnar-kundan-choker?variant=gid://shopify/ProductVariant/52418908389673",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_silverMood_10Jan0438_resized.jpg?v=1769593986"
+  },
   "gid://shopify/ProductVariant/52519813284137": {
     "product_title": "Ovaria CZ Bangles",
     "variant_title": "2.6",
@@ -15133,7 +15142,7 @@
     "variant_title": "Default Title",
     "sku": "R25042",
     "price": 19200.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/dvi-mukha-pakshi-pendant-copy?variant=gid://shopify/ProductVariant/52565266432297",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/5_2.jpg?v=1743056786"
   },
@@ -16477,6 +16486,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/kundan-necklace?variant=gid://shopify/ProductVariant/52741751439657",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5353_resized.jpg?v=1772534171"
+  },
+  "gid://shopify/ProductVariant/52741761401129": {
+    "product_title": "Amrakshi Kundan Necklace",
+    "variant_title": "Default Title",
+    "sku": "R25854",
+    "price": 113850.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/kundan-necklace-1?variant=gid://shopify/ProductVariant/52741761401129",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5343.jpg?v=1772535838"
   },
   "gid://shopify/ProductVariant/52741814944041": {
     "product_title": "Pushpavan Kundan Tikka",
@@ -39374,15 +39392,6 @@
     "url": "https://www.rasasilver.com/products/pearl-antique-choker?variant=gid://shopify/ProductVariant/52418864775465",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa__silver_Mood__10Jan0330_resized.jpg?v=1769593679"
   },
-  "gid://shopify/ProductVariant/52418908389673": {
-    "product_title": "Gulnar Kundan Choker",
-    "variant_title": "Default Title",
-    "sku": "R22553",
-    "price": 36180.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/gulnar-kundan-choker?variant=gid://shopify/ProductVariant/52418908389673",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_silverMood_10Jan0438_resized.jpg?v=1769593986"
-  },
   "gid://shopify/ProductVariant/52519802962217": {
     "product_title": "Rectara CZ Bangles",
     "variant_title": "2.6",
@@ -43351,15 +43360,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/kundan-jhumki-1?variant=gid://shopify/ProductVariant/52741278269737",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb0013_resized.jpg?v=1772689299"
-  },
-  "gid://shopify/ProductVariant/52741761401129": {
-    "product_title": "Amrakshi Kundan Necklace",
-    "variant_title": "Default Title",
-    "sku": "R25854",
-    "price": 113850.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/kundan-necklace-1?variant=gid://shopify/ProductVariant/52741761401129",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5343.jpg?v=1772535838"
   },
   "gid://shopify/ProductVariant/52741786370345": {
     "product_title": "Morika Rani Kundan Necklace",
