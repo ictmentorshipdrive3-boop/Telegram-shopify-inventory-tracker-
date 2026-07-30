@@ -69754,7 +69754,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-15334",
     "price": 112400.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/kaasu-malai-necklace?variant=gid://shopify/ProductVariant/48842774708451",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15334_2.jpg?v=1776690833"
   },
@@ -89122,7 +89122,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-16526",
     "price": 6800.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/hasli-necklace-42?variant=gid://shopify/ProductVariant/49393850417379",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16526.jpg?v=1783750583"
   },
@@ -95525,6 +95525,15 @@
     "url": "https://www.theamethyststore.com/products/kundan-studs-27?variant=gid://shopify/ProductVariant/49472064028899",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15120.jpg?v=1785306039"
   },
+  "gid://shopify/ProductVariant/49475815637219": {
+    "product_title": "Divine Varalakshmi Face",
+    "variant_title": "Default Title",
+    "sku": "SV-508-0020",
+    "price": 53354.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/varalakshmi-face?variant=gid://shopify/ProductVariant/49475815637219",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/SV-508-0020.jpg?v=1785398916"
+  },
   "gid://shopify/ProductVariant/49475816259811": {
     "product_title": "Cute Floral Kundan Studs",
     "variant_title": "Default Title",
@@ -95623,6 +95632,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/little-cute-kundan-studs-6?variant=gid://shopify/ProductVariant/49475840999651",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15118.jpg?v=1785398770"
+  },
+  "gid://shopify/ProductVariant/49475880059107": {
+    "product_title": "Sherina Kundan Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15116",
+    "price": 9900.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/kundan-studs-29?variant=gid://shopify/ProductVariant/49475880059107",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15116.jpg?v=1785399849"
   },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
@@ -110023,14 +110041,5 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/heritage-moissanite-ring?variant=gid://shopify/ProductVariant/49447281950947",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2184.jpg?v=1784974324"
-  },
-  "gid://shopify/ProductVariant/49475815637219": {
-    "product_title": "Divine Varalakshmi Face",
-    "variant_title": "Default Title",
-    "sku": "SV-508-0020",
-    "price": 53354.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/varalakshmi-face?variant=gid://shopify/ProductVariant/49475815637219",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/SV-508-0020.jpg?v=1785398916"
   }
 }
