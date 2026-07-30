@@ -753,7 +753,7 @@
     "price": 10700.0,
     "stock": 3,
     "url": "https://www.theamethyststore.com/products/delightful-kundan-studs?variant=gid://shopify/ProductVariant/40683063181462",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-2069.jpg?v=1630839617"
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-2069_8c6353bc-dcf4-434f-b5b6-e48b8ffa80c8.jpg?v=1785417187"
   },
   "gid://shopify/ProductVariant/46235826225379": {
     "product_title": "Durjay Pendant",
@@ -25249,7 +25249,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-0382-M",
     "price": 6500.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.theamethyststore.com/products/mangalsutra-chain-double-layer-24?variant=gid://shopify/ProductVariant/46779086012643",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-0382_M.jpg?v=1775371745"
   },
@@ -30685,7 +30685,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-2977",
     "price": 6600.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/charming-stone-pendant?variant=gid://shopify/ProductVariant/47041346535651",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2977.jpg?v=1755696437"
   },
@@ -38158,15 +38158,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/amalia-toe-ring?variant=gid://shopify/ProductVariant/47198249648355",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0430.jpg?v=1758621546"
-  },
-  "gid://shopify/ProductVariant/47198306992355": {
-    "product_title": "Blanca Toe Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-117-0467",
-    "price": 1900.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/blanca-toe-ring?variant=gid://shopify/ProductVariant/47198306992355",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0467.jpg?v=1758621809"
   },
   "gid://shopify/ProductVariant/47198346576099": {
     "product_title": "Drusilla Toe Ring",
@@ -61631,15 +61622,6 @@
     "url": "https://www.theamethyststore.com/products/sruthikha-nagas-short-necklace-set?variant=gid://shopify/ProductVariant/48097884340451",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14673.jpg?v=1770707922"
   },
-  "gid://shopify/ProductVariant/48098599403747": {
-    "product_title": "Lakshmikha Nagas Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-14679",
-    "price": 19750.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/lakshmikha-nagas-short-necklace-set?variant=gid://shopify/ProductVariant/48098599403747",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14679.jpg?v=1770708573"
-  },
   "gid://shopify/ProductVariant/48099457237219": {
     "product_title": "Trishya Nagas Short Necklace Set",
     "variant_title": "Default Title",
@@ -74842,15 +74824,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/glittering-avikam-bracelet?variant=gid://shopify/ProductVariant/48944191602915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1310.jpg?v=1778654281"
-  },
-  "gid://shopify/ProductVariant/48944192094435": {
-    "product_title": "HantriAvikam Pendant Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-4045",
-    "price": 7392.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/avikam-pendant-set-8?variant=gid://shopify/ProductVariant/48944192094435",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4045.jpg?v=1778654241"
   },
   "gid://shopify/ProductVariant/48944194912483": {
     "product_title": "Pakshati Pendant Set",
@@ -96056,6 +96029,24 @@
     "url": "https://www.theamethyststore.com/products/stone-bracelet-24?variant=gid://shopify/ProductVariant/49476233724131",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1379.jpg?v=1785416019"
   },
+  "gid://shopify/ProductVariant/49476465197283": {
+    "product_title": "Vesnitha Kundan Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4752",
+    "price": 17520.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-95?variant=gid://shopify/ProductVariant/49476465197283",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4752.jpg?v=1785416695"
+  },
+  "gid://shopify/ProductVariant/49476466082019": {
+    "product_title": "Vedhikaa Kundan Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4753",
+    "price": 14300.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-96?variant=gid://shopify/ProductVariant/49476466082019",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4753.jpg?v=1785416939"
+  },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
     "variant_title": "Default Title",
@@ -102347,6 +102338,15 @@
     "url": "https://www.theamethyststore.com/products/delia-toe-ring?variant=gid://shopify/ProductVariant/47197895131363",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0350.jpg?v=1758613818"
   },
+  "gid://shopify/ProductVariant/47198306992355": {
+    "product_title": "Blanca Toe Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-117-0467",
+    "price": 1900.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/blanca-toe-ring?variant=gid://shopify/ProductVariant/47198306992355",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0467.jpg?v=1758621809"
+  },
   "gid://shopify/ProductVariant/47198390026467": {
     "product_title": "Liora Toe Ring",
     "variant_title": "Default Title",
@@ -105488,6 +105488,15 @@
     "url": "https://www.theamethyststore.com/products/charming-nagas-short-necklace-set?variant=gid://shopify/ProductVariant/48095311233251",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14649.jpg?v=1770705658"
   },
+  "gid://shopify/ProductVariant/48098599403747": {
+    "product_title": "Lakshmikha Nagas Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-14679",
+    "price": 19750.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/lakshmikha-nagas-short-necklace-set?variant=gid://shopify/ProductVariant/48098599403747",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14679.jpg?v=1770708573"
+  },
   "gid://shopify/ProductVariant/48163024666851": {
     "product_title": "Rashikha Nagas Short Necklace",
     "variant_title": "Default Title",
@@ -107926,6 +107935,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/traditional-nagas-short-necklace-6?variant=gid://shopify/ProductVariant/48944097296611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15592.jpg?v=1778648222"
+  },
+  "gid://shopify/ProductVariant/48944192094435": {
+    "product_title": "HantriAvikam Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4045",
+    "price": 7392.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/avikam-pendant-set-8?variant=gid://shopify/ProductVariant/48944192094435",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4045.jpg?v=1778654241"
   },
   "gid://shopify/ProductVariant/48944195207395": {
     "product_title": "Captivating Avikam Bracelet",
