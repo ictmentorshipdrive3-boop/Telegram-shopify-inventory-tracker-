@@ -6407,15 +6407,6 @@
     "url": "https://www.dulhanjewels.com/products/stylish-moissanite-choker-with-green-emerald-center?variant=gid://shopify/ProductVariant/51368988934450",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/BF219BA0-8110-4800-9628-1A9A954C97C4.jpg?v=1782389331"
   },
-  "gid://shopify/ProductVariant/51369021276466": {
-    "product_title": "Exquisite Jadau Kundan Choker Green Bead Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2100.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/exquisite-jadau-kundan-choker-green-bead-drops?variant=gid://shopify/ProductVariant/51369021276466",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/5D1439BA-C438-4EAA-AEB6-835630FD5A5D.jpg?v=1782390626"
-  },
   "gid://shopify/ProductVariant/51369027961138": {
     "product_title": "Pearl Choker Necklace With Green Drops",
     "variant_title": "Default Title",
@@ -7325,15 +7316,6 @@
     "url": "https://www.dulhanjewels.com/products/designer-ruby-jadau-kundan-jhumki-earrings?variant=gid://shopify/ProductVariant/51517874340146",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9528.jpg?v=1785413261"
   },
-  "gid://shopify/ProductVariant/51517913006386": {
-    "product_title": "Royal Jadau Kundan Chandbali Earrings With Pearl Tassels",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1250.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/royal-jadau-kundan-chandbali-earrings-with-pearl-tassels?variant=gid://shopify/ProductVariant/51517913006386",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9434.jpg?v=1785309123"
-  },
   "gid://shopify/ProductVariant/51518138482994": {
     "product_title": "Elegant Multi Layer Bead Kundan Pearl Necklace",
     "variant_title": "White",
@@ -7369,15 +7351,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/royal-jadau-kundan-chandbali-earrings-with-emerald-beads?variant=gid://shopify/ProductVariant/51518149624114",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/01B0C85F-EEA6-4B7C-8673-2213B0241F9E.jpg?v=1785314181"
-  },
-  "gid://shopify/ProductVariant/51518151196978": {
-    "product_title": "Mini Jadau Kundan Jhumki Earrings With Green Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1400.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/mini-jadau-kundan-jhumki-earrings-with-green-drops?variant=gid://shopify/ProductVariant/51518151196978",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9530.jpg?v=1785412933"
   },
   "gid://shopify/ProductVariant/51518158242098": {
     "product_title": "Designer Jadau Kundan Peacock Bracelet Watch",
@@ -9071,6 +9044,15 @@
     "url": "https://www.dulhanjewels.com/products/elegant-victorian-earcuff-with-peacock-floral-design?variant=gid://shopify/ProductVariant/51148874514738",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/76F3FB2C-4D6E-4C20-AB24-DDD520FCF937.jpg?v=1778576230"
   },
+  "gid://shopify/ProductVariant/51369021276466": {
+    "product_title": "Exquisite Jadau Kundan Choker Green Bead Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2100.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/exquisite-jadau-kundan-choker-green-bead-drops?variant=gid://shopify/ProductVariant/51369021276466",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/5D1439BA-C438-4EAA-AEB6-835630FD5A5D.jpg?v=1782390626"
+  },
   "gid://shopify/ProductVariant/51501281870130": {
     "product_title": "Temple Style Peacock Vaddanam With Green Beads",
     "variant_title": "White",
@@ -9079,5 +9061,23 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/temple-peacock-vaddanam-hip-belt-with-pearls-and-green-beads?variant=gid://shopify/ProductVariant/51501281870130",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/001E00DF-8D7E-4D55-AF26-62DA8CFF4205.jpg?v=1784721198"
+  },
+  "gid://shopify/ProductVariant/51517913006386": {
+    "product_title": "Royal Jadau Kundan Chandbali Earrings With Pearl Tassels",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1250.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/royal-jadau-kundan-chandbali-earrings-with-pearl-tassels?variant=gid://shopify/ProductVariant/51517913006386",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9434.jpg?v=1785309123"
+  },
+  "gid://shopify/ProductVariant/51518151196978": {
+    "product_title": "Mini Jadau Kundan Jhumki Earrings With Green Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1400.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/mini-jadau-kundan-jhumki-earrings-with-green-drops?variant=gid://shopify/ProductVariant/51518151196978",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9530.jpg?v=1785412933"
   }
 }
