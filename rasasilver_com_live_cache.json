@@ -35,15 +35,6 @@
     "url": "https://www.rasasilver.com/products/gajamukha-lakshmi-pendant?variant=gid://shopify/ProductVariant/49809691246889",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-3_9b800783-ae32-4778-8fd7-a4da6383a019.jpg?v=1740807105"
   },
-  "gid://shopify/ProductVariant/49809904075049": {
-    "product_title": "Lakshmi Kasu Pendant",
-    "variant_title": "Default Title",
-    "sku": "R1748",
-    "price": 6400.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/lakshmi-kasu-pendant?variant=gid://shopify/ProductVariant/49809904075049",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-9_c1352de7-3b3d-4be6-8581-3b15af6918f6.jpg?v=1740807958"
-  },
   "gid://shopify/ProductVariant/49836042322217": {
     "product_title": "Emerald Kundan Studs",
     "variant_title": "Default Title",
@@ -3775,7 +3766,7 @@
     "variant_title": "Default Title",
     "sku": "R2821",
     "price": 3450.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/no-image-11?variant=gid://shopify/ProductVariant/50677089304873",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_bb5643c6-3b7f-4b51-a79c-d7b8fc3d15fb.jpg?v=1754038998"
   },
@@ -3910,7 +3901,7 @@
     "variant_title": "GREEN",
     "sku": "R20364",
     "price": 4900.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.rasasilver.com/products/21-1?variant=gid://shopify/ProductVariant/52279182229801",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-6_57c28a5f-b6b0-4127-98ca-bf2c9cc67662.jpg?v=1754913752"
   },
@@ -26278,6 +26269,15 @@
     "stock": 2,
     "url": "https://www.rasasilver.com/products/auravelle-moissanite-haath-phool?variant=gid://shopify/ProductVariant/53370251542825",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2600_resized.jpg?v=1785238170"
+  },
+  "gid://shopify/ProductVariant/49809904075049": {
+    "product_title": "Lakshmi Kasu Pendant",
+    "variant_title": "Default Title",
+    "sku": "R1748",
+    "price": 6400.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/lakshmi-kasu-pendant?variant=gid://shopify/ProductVariant/49809904075049",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-9_c1352de7-3b3d-4be6-8581-3b15af6918f6.jpg?v=1740807958"
   },
   "gid://shopify/ProductVariant/49901845053737": {
     "product_title": "Lokasundari Long Necklace",
