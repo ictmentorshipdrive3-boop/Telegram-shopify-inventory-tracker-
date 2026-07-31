@@ -4081,7 +4081,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-113-0233",
     "price": 1300.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/little-flower-nose-pin?variant=gid://shopify/ProductVariant/43691519082723",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-113-0233.jpg?v=1675163242"
   },
@@ -22792,7 +22792,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-9339",
     "price": 24700.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/varsha-short-necklace?variant=gid://shopify/ProductVariant/46600737882339",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9339.jpg?v=1749795589"
   },
@@ -37069,15 +37069,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/swarini-short-necklace-set?variant=gid://shopify/ProductVariant/47178420355299",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11194_1.jpg?v=1758028935"
-  },
-  "gid://shopify/ProductVariant/47180290916579": {
-    "product_title": "Shalikha Chain With Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-1220",
-    "price": 32932.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/shalikha-chain-with-earrings?variant=gid://shopify/ProductVariant/47180290916579",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1220_1.jpg?v=1758089608"
   },
   "gid://shopify/ProductVariant/47180302647523": {
     "product_title": "Amazing Stone Jhumkas",
@@ -102526,6 +102517,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/glitz-stone-short-necklace?variant=gid://shopify/ProductVariant/47173969051875",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10989_1.jpg?v=1757929886"
+  },
+  "gid://shopify/ProductVariant/47180290916579": {
+    "product_title": "Shalikha Chain With Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-1220",
+    "price": 32932.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/shalikha-chain-with-earrings?variant=gid://shopify/ProductVariant/47180290916579",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1220_1.jpg?v=1758089608"
   },
   "gid://shopify/ProductVariant/47180784959715": {
     "product_title": "Lavanya Diamond Design Pair Bangle",
