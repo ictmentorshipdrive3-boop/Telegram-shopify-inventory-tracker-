@@ -8648,15 +8648,6 @@
     "url": "https://www.rasasilver.com/products/mayura-lekha-pendant?variant=gid://shopify/ProductVariant/51489255686441",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0222copy_resized.jpg?v=1762940518"
   },
-  "gid://shopify/ProductVariant/51494664110377": {
-    "product_title": "Arvaya Kundan Buggadi",
-    "variant_title": "Default Title",
-    "sku": "R15234",
-    "price": 4200.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/arvaya-buggadi?variant=gid://shopify/ProductVariant/51494664110377",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK1326copy_resized.jpg?v=1762936418"
-  },
   "gid://shopify/ProductVariant/51494679675177": {
     "product_title": "Florenza Oval Danglers",
     "variant_title": "Default Title",
@@ -10835,15 +10826,6 @@
     "url": "https://www.rasasilver.com/products/pendant?variant=gid://shopify/ProductVariant/52146351178025",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0188copy_resized_168c9e4f-cce6-4f17-8ecc-0f285f52be3d.jpg?v=1763984637"
   },
-  "gid://shopify/ProductVariant/52146394956073": {
-    "product_title": "Empressa Luxe Pendant",
-    "variant_title": "Default Title",
-    "sku": "R16587",
-    "price": 15000.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/empressa-emerluxe-pendant?variant=gid://shopify/ProductVariant/52146394956073",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0150copy_resized_f3e75288-b32a-442b-bbdc-8a09404ccf42.jpg?v=1763984809"
-  },
   "gid://shopify/ProductVariant/52146873205033": {
     "product_title": "Vic-Emblessa Pendant",
     "variant_title": "Default Title",
@@ -12352,7 +12334,7 @@
     "variant_title": "Default Title",
     "sku": "R20933",
     "price": 104500.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/haloria-cz-hip-belt?variant=gid://shopify/ProductVariant/52383370445097",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0497copy_resized.jpg?v=1767690102"
   },
@@ -20158,15 +20140,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/squarlina-charm-bangles?variant=gid://shopify/ProductVariant/52912083337513",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_21_Mar20262_resized.jpg?v=1775656222"
-  },
-  "gid://shopify/ProductVariant/52912157950249": {
-    "product_title": "Shrinelle Antique Necklace",
-    "variant_title": "Default Title",
-    "sku": "R23924",
-    "price": 106200.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/shrinelle-antique-necklace?variant=gid://shopify/ProductVariant/52912157950249",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar00294.jpg?v=1775731306"
   },
   "gid://shopify/ProductVariant/52912166666537": {
     "product_title": "Shrika Temple Bangles",
@@ -35738,6 +35711,15 @@
     "url": "https://www.rasasilver.com/products/jhalra-pushpa-jhumki?variant=gid://shopify/ProductVariant/51494655033641",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0954_copy_resized.jpg?v=1762933087"
   },
+  "gid://shopify/ProductVariant/51494664110377": {
+    "product_title": "Arvaya Kundan Buggadi",
+    "variant_title": "Default Title",
+    "sku": "R15234",
+    "price": 4200.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/arvaya-buggadi?variant=gid://shopify/ProductVariant/51494664110377",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK1326copy_resized.jpg?v=1762936418"
+  },
   "gid://shopify/ProductVariant/51494688260393": {
     "product_title": "Kundan Garima Pendant",
     "variant_title": "Default Title",
@@ -38509,6 +38491,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/ruby-vittoria-pendant?variant=gid://shopify/ProductVariant/52147269271849",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0143copy_resized_fe03ae74-31d3-451e-b967-45bd146932f7.jpg?v=1763987133"
+  },
+  "gid://shopify/ProductVariant/52146394956073": {
+    "product_title": "Empressa Luxe Pendant",
+    "variant_title": "Default Title",
+    "sku": "R16587",
+    "price": 15000.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/empressa-emerluxe-pendant?variant=gid://shopify/ProductVariant/52146394956073",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0150copy_resized_f3e75288-b32a-442b-bbdc-8a09404ccf42.jpg?v=1763984809"
   },
   "gid://shopify/ProductVariant/52146430148905": {
     "product_title": "Navique Victorian Pendant Set",
@@ -46177,6 +46168,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/srinyra-antique-kada?variant=gid://shopify/ProductVariant/52912092315945",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0386_resized_1.jpg?v=1775649727"
+  },
+  "gid://shopify/ProductVariant/52912157950249": {
+    "product_title": "Shrinelle Antique Necklace",
+    "variant_title": "Default Title",
+    "sku": "R23924",
+    "price": 106200.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/shrinelle-antique-necklace?variant=gid://shopify/ProductVariant/52912157950249",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar00294.jpg?v=1775731306"
   },
   "gid://shopify/ProductVariant/52912208904489": {
     "product_title": "Navatejas Moissanites Necklace",
