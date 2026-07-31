@@ -8104,7 +8104,7 @@
     "variant_title": "2.4",
     "sku": "1503",
     "price": 3299.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/c?variant=gid://shopify/ProductVariant/45908646822110",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_a65ea7d9-3428-4630-ac3c-113d8e2c52c3.jpg?v=1727018763"
   },
@@ -19871,15 +19871,6 @@
     "url": "https://www.daivik.in/products/antique-lakshmi-kukum-box?variant=gid://shopify/ProductVariant/48133143757022",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EA29B6EE-BBBB-405F-B035-627F9B48C739.jpg?v=1776665078"
   },
-  "gid://shopify/ProductVariant/48135850655966": {
-    "product_title": "Manga Kemp Bridal Combo",
-    "variant_title": "2.4",
-    "sku": "1873",
-    "price": 2599.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/manga-kemp-bridal-combo?variant=gid://shopify/ProductVariant/48135850655966",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A4B79477-1E05-489D-BF83-848ADAF50502.jpg?v=1776786791"
-  },
   "gid://shopify/ProductVariant/48143141667038": {
     "product_title": "Kemp Jhumkas with kemp Mattal",
     "variant_title": "Default Title",
@@ -21363,15 +21354,6 @@
     "price": 3299.0,
     "stock": 1,
     "url": "https://www.daivik.in/products/victorian-green-bangle-combo?variant=gid://shopify/ProductVariant/48453374345438",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B12C84A9-CA55-468E-A8C3-2BA16D904B9F.jpg?v=1784567845"
-  },
-  "gid://shopify/ProductVariant/48453374378206": {
-    "product_title": "Victorian Green Bangle Combo (Price for Both Hands)",
-    "variant_title": "2.6",
-    "sku": "1931",
-    "price": 3299.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/victorian-green-bangle-combo?variant=gid://shopify/ProductVariant/48453374378206",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B12C84A9-CA55-468E-A8C3-2BA16D904B9F.jpg?v=1784567845"
   },
   "gid://shopify/ProductVariant/48453374410974": {
@@ -30554,6 +30536,15 @@
     "url": "https://www.daivik.in/products/floral-kemp-jadau-jhumkas-with-mattal?variant=gid://shopify/ProductVariant/48135262634206",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2BA4A078-6EE5-455D-BED9-11EF207D0004.jpg?v=1776771212"
   },
+  "gid://shopify/ProductVariant/48135850655966": {
+    "product_title": "Manga Kemp Bridal Combo",
+    "variant_title": "2.4",
+    "sku": "1873",
+    "price": 2599.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/manga-kemp-bridal-combo?variant=gid://shopify/ProductVariant/48135850655966",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A4B79477-1E05-489D-BF83-848ADAF50502.jpg?v=1776786791"
+  },
   "gid://shopify/ProductVariant/48135850688734": {
     "product_title": "Manga Kemp Bridal Combo",
     "variant_title": "2.6",
@@ -30715,6 +30706,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/simple-leaf-invisible-chain?variant=gid://shopify/ProductVariant/48434484150494",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6F48194E-21F4-470E-AD03-FE1A254608A7.jpg?v=1784029225"
+  },
+  "gid://shopify/ProductVariant/48453374378206": {
+    "product_title": "Victorian Green Bangle Combo (Price for Both Hands)",
+    "variant_title": "2.6",
+    "sku": "1931",
+    "price": 3299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/victorian-green-bangle-combo?variant=gid://shopify/ProductVariant/48453374378206",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B12C84A9-CA55-468E-A8C3-2BA16D904B9F.jpg?v=1784567845"
   },
   "gid://shopify/ProductVariant/48513202520286": {
     "product_title": "Three layered Pearl Necklace with Earrings",
