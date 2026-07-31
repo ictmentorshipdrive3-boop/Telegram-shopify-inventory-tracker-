@@ -5899,7 +5899,7 @@
     "variant_title": "Default Title",
     "sku": "535",
     "price": 1499.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/simple-pastel-green-premium-beads-choker-with-earrings?variant=gid://shopify/ProductVariant/44648110260446",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BFFDAB1C-F725-4707-B32A-B4A504AF4C09.jpg?v=1704467125"
   },
@@ -13120,15 +13120,6 @@
     "stock": 56,
     "url": "https://www.daivik.in/products/green-and-golden-beads-mattals?variant=gid://shopify/ProductVariant/47088039821534",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/644BB439-499B-43DB-9976-98F6FC04EC54.jpg?v=1752775998"
-  },
-  "gid://shopify/ProductVariant/47653875679454": {
-    "product_title": "Invisible Circle AD Chain with Earrings",
-    "variant_title": "Ruby Green",
-    "sku": "1298",
-    "price": 699.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/invisible-circle-ad-chain-with-earrings?variant=gid://shopify/ProductVariant/47653875679454",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG-2706.heic?v=1762238741"
   },
   "gid://shopify/ProductVariant/47088044835038": {
     "product_title": "Simple Anklets Designs in 4 Styles (Price for Each)",
@@ -28231,6 +28222,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-hipchain-in-3-styles-price-for-each?variant=gid://shopify/ProductVariant/47088065708254",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/rn-image_picker_lib_temp_6f1d8ec8-7294-4789-983c-97f243ca7ed8.jpg?v=1752778438"
+  },
+  "gid://shopify/ProductVariant/47653875679454": {
+    "product_title": "Invisible Circle AD Chain with Earrings",
+    "variant_title": "Ruby Green",
+    "sku": "1298",
+    "price": 699.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/invisible-circle-ad-chain-with-earrings?variant=gid://shopify/ProductVariant/47653875679454",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG-2706.heic?v=1762238741"
   },
   "gid://shopify/ProductVariant/47653875712222": {
     "product_title": "Invisible Circle AD Chain with Earrings",
