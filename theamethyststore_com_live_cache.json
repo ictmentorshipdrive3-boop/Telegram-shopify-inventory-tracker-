@@ -22373,15 +22373,6 @@
     "url": "https://www.theamethyststore.com/products/dazzle-short-necklace?variant=gid://shopify/ProductVariant/46487392682211",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9623.jpg?v=1749455378"
   },
-  "gid://shopify/ProductVariant/46487452647651": {
-    "product_title": "Mawrina Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-9620",
-    "price": 23790.68,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/mawrina-short-necklace?variant=gid://shopify/ProductVariant/46487452647651",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9620.jpg?v=1749455511"
-  },
   "gid://shopify/ProductVariant/46488378540259": {
     "product_title": "Fancy Stone Long Necklace",
     "variant_title": "Default Title",
@@ -54976,7 +54967,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-11775",
     "price": 3905.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/srisha-stone-studs-4?variant=gid://shopify/ProductVariant/47831387341027",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11775.jpg?v=1768473429"
   },
@@ -65182,7 +65173,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-14882",
     "price": 31550.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/nithara-stone-short-necklace?variant=gid://shopify/ProductVariant/48321627717859",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14882-_2.jpg?v=1772260239"
   },
@@ -66850,15 +66841,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/jaanvikha-nagas-short-necklace-set?variant=gid://shopify/ProductVariant/48526347010275",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13666.jpg?v=1774073071"
-  },
-  "gid://shopify/ProductVariant/48526354317539": {
-    "product_title": "Aadhira Nagas Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-13674",
-    "price": 45310.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/aadhira-nagas-short-necklace-set-1?variant=gid://shopify/ProductVariant/48526354317539",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13674.jpg?v=1774073378"
   },
   "gid://shopify/ProductVariant/48526364573923": {
     "product_title": "Ruhinka Long Necklace Set",
@@ -77642,15 +77624,6 @@
     "url": "https://www.theamethyststore.com/products/cara-long-necklace?variant=gid://shopify/ProductVariant/49251720462563",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15920.jpg?v=1781241380"
   },
-  "gid://shopify/ProductVariant/49252036116707": {
-    "product_title": "Aanya Stone Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-4182",
-    "price": 14150.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/aanya-stone-pendant?variant=gid://shopify/ProductVariant/49252036116707",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4182.jpg?v=1781246671"
-  },
   "gid://shopify/ProductVariant/49252055744739": {
     "product_title": "Vennela Stone Pendant",
     "variant_title": "Default Title",
@@ -85201,15 +85174,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/avikam-bracelet-4?variant=gid://shopify/ProductVariant/49359452504291",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1340.jpg?v=1783076543"
-  },
-  "gid://shopify/ProductVariant/49359457190115": {
-    "product_title": "Zaara Avikam Bracelet",
-    "variant_title": "Default Title",
-    "sku": "AMS-103-1342",
-    "price": 13800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/avikam-bracelet-5?variant=gid://shopify/ProductVariant/49359457190115",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1342.jpg?v=1783076720"
   },
   "gid://shopify/ProductVariant/49359462039779": {
     "product_title": "Clarin Avikam Bracelet",
@@ -100511,6 +100475,15 @@
     "url": "https://www.theamethyststore.com/products/sreesha-stone-short-necklace?variant=gid://shopify/ProductVariant/46482175951075",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9416.jpg?v=1749393534"
   },
+  "gid://shopify/ProductVariant/46487452647651": {
+    "product_title": "Mawrina Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-9620",
+    "price": 23790.68,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/mawrina-short-necklace?variant=gid://shopify/ProductVariant/46487452647651",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9620.jpg?v=1749455511"
+  },
   "gid://shopify/ProductVariant/46487860478179": {
     "product_title": "Calista Short Necklace",
     "variant_title": "Default Title",
@@ -107369,6 +107342,15 @@
     "url": "https://www.theamethyststore.com/products/saree-pin-1?variant=gid://shopify/ProductVariant/48499749060835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-121-0160.jpg?v=1773921753"
   },
+  "gid://shopify/ProductVariant/48526354317539": {
+    "product_title": "Aadhira Nagas Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-13674",
+    "price": 45310.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/aadhira-nagas-short-necklace-set-1?variant=gid://shopify/ProductVariant/48526354317539",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13674.jpg?v=1774073378"
+  },
   "gid://shopify/ProductVariant/48556256166115": {
     "product_title": "Aravika Boho Short Necklace Set",
     "variant_title": "Default Title",
@@ -109573,6 +109555,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/siena-stone-pendant?variant=gid://shopify/ProductVariant/49252025794787",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4180_21b92ce2-afce-4d79-86e2-72c6b54116c1.jpg?v=1781246262"
+  },
+  "gid://shopify/ProductVariant/49252036116707": {
+    "product_title": "Aanya Stone Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4182",
+    "price": 14150.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/aanya-stone-pendant?variant=gid://shopify/ProductVariant/49252036116707",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4182.jpg?v=1781246671"
   },
   "gid://shopify/ProductVariant/49252043620579": {
     "product_title": "Charvi Stone Pendant",
