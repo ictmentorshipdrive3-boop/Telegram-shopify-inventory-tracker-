@@ -90949,7 +90949,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-16775",
     "price": 28800.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/mesmerizing-avikam-necklace-set-1?variant=gid://shopify/ProductVariant/49421181649123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16775.jpg?v=1784283170"
   },
@@ -93607,15 +93607,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/moissanite-short-necklace-set-3?variant=gid://shopify/ProductVariant/49442628632803",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17119.jpg?v=1784889565"
-  },
-  "gid://shopify/ProductVariant/49442677391587": {
-    "product_title": "Amazing Moissanite Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17072",
-    "price": 73200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/amazing-moissanite-short-necklace-set?variant=gid://shopify/ProductVariant/49442677391587",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17072_2.jpg?v=1784890007"
   },
   "gid://shopify/ProductVariant/49442683715811": {
     "product_title": "Hrithika Moissanite Short Necklace Set",
@@ -110707,6 +110698,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/moissanite-long-necklace-set-2?variant=gid://shopify/ProductVariant/49438828364003",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17065.jpg?v=1784783936"
+  },
+  "gid://shopify/ProductVariant/49442677391587": {
+    "product_title": "Amazing Moissanite Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17072",
+    "price": 73200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/amazing-moissanite-short-necklace-set?variant=gid://shopify/ProductVariant/49442677391587",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17072_2.jpg?v=1784890007"
   },
   "gid://shopify/ProductVariant/49447281950947": {
     "product_title": "Heritage Moissanite Ring",
