@@ -4031,15 +4031,6 @@
     "url": "https://www.rasasilver.com/products/toerika?variant=gid://shopify/ProductVariant/50720707576105",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-6_f505731f-4b73-4f94-96c7-5b55a638712a.jpg?v=1754894735"
   },
-  "gid://shopify/ProductVariant/50720758497577": {
-    "product_title": "Gulavi Toe Ring",
-    "variant_title": "Default Title",
-    "sku": "R6828",
-    "price": 3100.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/gulavi-toe-ring?variant=gid://shopify/ProductVariant/50720758497577",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_965ed571-2f89-4905-bda6-467200089923.jpg?v=1754895114"
-  },
   "gid://shopify/ProductVariant/52273353195817": {
     "product_title": "Rupali CZ Bangle",
     "variant_title": "2.4",
@@ -4756,7 +4747,7 @@
     "variant_title": "Default Title",
     "sku": "R11770",
     "price": 4600.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/rosvara-pendant-set?variant=gid://shopify/ProductVariant/50809158959401",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2601.jpg?v=1756541176"
   },
@@ -27160,6 +27151,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/chandrarekha-necklace?variant=gid://shopify/ProductVariant/50720640991529",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_4b493ce0-467e-4868-a179-81128349af02.jpg?v=1754908157"
+  },
+  "gid://shopify/ProductVariant/50720758497577": {
+    "product_title": "Gulavi Toe Ring",
+    "variant_title": "Default Title",
+    "sku": "R6828",
+    "price": 3100.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/gulavi-toe-ring?variant=gid://shopify/ProductVariant/50720758497577",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_965ed571-2f89-4905-bda6-467200089923.jpg?v=1754895114"
   },
   "gid://shopify/ProductVariant/50720838943017": {
     "product_title": "Toepari Toe Ring",
