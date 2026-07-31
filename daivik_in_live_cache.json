@@ -2362,7 +2362,7 @@
     "variant_title": "Default Title",
     "sku": "77",
     "price": 1099.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/a-63?variant=gid://shopify/ProductVariant/42808843731166",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_4a55ecb9-d068-428d-af6c-4e0b8c5b2bfe.heic?v=1652457323"
   },
@@ -10808,15 +10808,6 @@
     "url": "https://www.daivik.in/products/coral-ad-victorian-peacock-necklace-with-earrings?variant=gid://shopify/ProductVariant/46278293029086",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C954BE85-4E52-422A-9D2C-B7D025AF4983.jpg?v=1739194737"
   },
-  "gid://shopify/ProductVariant/46285166837982": {
-    "product_title": "AD Hasli Ruby Green Necklace with Balis",
-    "variant_title": "Default Title",
-    "sku": "1216",
-    "price": 699.0,
-    "stock": 2,
-    "url": "https://www.daivik.in/products/ad-hasli-ruby-green-necklace-with-balis?variant=gid://shopify/ProductVariant/46285166837982",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1BCD5492-A557-4AD2-B765-B7F0B3AF0179.jpg?v=1780728443"
-  },
   "gid://shopify/ProductVariant/46287341322462": {
     "product_title": "Premium AD Jaipuri Stones Necklace with Earrings",
     "variant_title": "Default Title",
@@ -12784,7 +12775,7 @@
     "variant_title": "Short",
     "sku": "1295",
     "price": 799.0,
-    "stock": 28,
+    "stock": 27,
     "url": "https://www.daivik.in/products/jyothika-mam-inspired-ad-green-pendant-necklace?variant=gid://shopify/ProductVariant/47092708573406",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6D306FEB-C930-4743-A32A-FBEB4ECF8E48.jpg?v=1752941521"
   },
@@ -21001,7 +20992,7 @@
     "variant_title": "Default Title",
     "sku": "485",
     "price": 899.0,
-    "stock": 44,
+    "stock": 43,
     "url": "https://www.daivik.in/products/elakkathali-ruby-choker-with-earrings?variant=gid://shopify/ProductVariant/48403799408862",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6A18C555-AF72-4C73-B410-F4E8C48D53A0.jpg?v=1782993326"
   },
@@ -27313,6 +27304,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/pure-kemp-brass-peacock-ruby-green-choker?variant=gid://shopify/ProductVariant/46276220485854",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FD8ADC1D-8D0D-461D-AF2D-1D5ED8DCC1A8.jpg?v=1739114487"
+  },
+  "gid://shopify/ProductVariant/46285166837982": {
+    "product_title": "AD Hasli Ruby Green Necklace with Balis",
+    "variant_title": "Default Title",
+    "sku": "1216",
+    "price": 699.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-hasli-ruby-green-necklace-with-balis?variant=gid://shopify/ProductVariant/46285166837982",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1BCD5492-A557-4AD2-B765-B7F0B3AF0179.jpg?v=1780728443"
   },
   "gid://shopify/ProductVariant/46289875534046": {
     "product_title": "Lakshmi Ruby Green Short Jada Billa",
