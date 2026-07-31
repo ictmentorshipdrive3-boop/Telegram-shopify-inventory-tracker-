@@ -3257,15 +3257,6 @@
     "url": "https://www.rasasilver.com/products/nefertari-charm-necklace-set?variant=gid://shopify/ProductVariant/50565151752489",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_fc0e8515-3d8d-47b4-99fa-c58676a0e470.jpg?v=1762344678"
   },
-  "gid://shopify/ProductVariant/50565257068841": {
-    "product_title": "Dhwani Kamalini Necklace",
-    "variant_title": "Default Title",
-    "sku": "R9030",
-    "price": 50100.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/6879?variant=gid://shopify/ProductVariant/50565257068841",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-4_f5556ced-e1c6-4f65-a205-8dc1218e9aad.jpg?v=1762344448"
-  },
   "gid://shopify/ProductVariant/50568825405737": {
     "product_title": "Octa Scroll Shine Necklace",
     "variant_title": "Default Title",
@@ -16681,7 +16672,7 @@
     "variant_title": "Default Title",
     "sku": "R25383",
     "price": 3800.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/back-chain-copy?variant=gid://shopify/ProductVariant/52737922302249",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Screenshot2026-02-23at5_17_18PMcopy_jpg.jpg?v=1771847962"
   },
@@ -20400,7 +20391,7 @@
     "price": 11200.0,
     "stock": 1,
     "url": "https://www.rasasilver.com/products/sitar-kundan-chandbali?variant=gid://shopify/ProductVariant/53069942489385",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_25April0142_resized.jpg?v=1778133862"
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_25April0142_resized_e6d5adb1-6311-4f21-b126-e8e0a6a78239.jpg?v=1785488575"
   },
   "gid://shopify/ProductVariant/53070020935977": {
     "product_title": "Naina Kundan Chandbali",
@@ -22606,15 +22597,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/blooma-kundan-maang-tikka?variant=gid://shopify/ProductVariant/53269446885673",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_261918_resized.jpg?v=1781608828"
-  },
-  "gid://shopify/ProductVariant/53269475229993": {
-    "product_title": "Chandra-Padma Kundan Maang Tikka",
-    "variant_title": "Default Title",
-    "sku": "R28534",
-    "price": 10800.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/chandra-padma-kundan-maang-tikka?variant=gid://shopify/ProductVariant/53269475229993",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_261894_resized.jpg?v=1781613852"
   },
   "gid://shopify/ProductVariant/53269763129641": {
     "product_title": "Bloomara Stone Maang Tikka",
@@ -26647,6 +26629,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/20?variant=gid://shopify/ProductVariant/52247507206441",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2we23.jpg?v=1750761848"
+  },
+  "gid://shopify/ProductVariant/50565257068841": {
+    "product_title": "Dhwani Kamalini Necklace",
+    "variant_title": "Default Title",
+    "sku": "R9030",
+    "price": 50100.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/6879?variant=gid://shopify/ProductVariant/50565257068841",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-4_f5556ced-e1c6-4f65-a205-8dc1218e9aad.jpg?v=1762344448"
   },
   "gid://shopify/ProductVariant/52382733861161": {
     "product_title": "Pearleela Victorian Necklace Set",
@@ -47374,6 +47365,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/roshanara-kundan-maang-tikka?variant=gid://shopify/ProductVariant/53269473460521",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_261891_resized.jpg?v=1781613446"
+  },
+  "gid://shopify/ProductVariant/53269475229993": {
+    "product_title": "Chandra-Padma Kundan Maang Tikka",
+    "variant_title": "Default Title",
+    "sku": "R28534",
+    "price": 10800.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/chandra-padma-kundan-maang-tikka?variant=gid://shopify/ProductVariant/53269475229993",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_261894_resized.jpg?v=1781613852"
   },
   "gid://shopify/ProductVariant/53269486403881": {
     "product_title": "Stone Kamalini Maang Tikka",
