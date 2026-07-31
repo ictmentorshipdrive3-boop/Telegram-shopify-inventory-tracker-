@@ -850,7 +850,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-2105-MS",
     "price": 4048.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/pearl-studs?variant=gid://shopify/ProductVariant/42018690695395",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-2105_0ccb3cf2-e789-4672-8cca-0e61161d5054.jpg?v=1703849566"
   },
@@ -45796,7 +45796,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-10718",
     "price": 6072.0,
-    "stock": 5,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/ziva-studs?variant=gid://shopify/ProductVariant/47439903523043",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10718.jpg?v=1762092419"
   },
@@ -68119,15 +68119,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/glory-victorian-earrings-1?variant=gid://shopify/ProductVariant/48731294138595",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13521.png?v=1775456991"
-  },
-  "gid://shopify/ProductVariant/48731339784419": {
-    "product_title": "Glitz Moissanite Long Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-13491",
-    "price": 23144.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/moissanite-long-earrings?variant=gid://shopify/ProductVariant/48731339784419",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8819_3_39bf6f7b-ec74-47a8-94bf-506e59e33ab6.jpg?v=1775459816"
   },
   "gid://shopify/ProductVariant/48731642298595": {
     "product_title": "Aarynika Nagas Chain",
@@ -96641,6 +96632,24 @@
     "url": "https://www.theamethyststore.com/products/sparkling-avikam-jhumkas-2?variant=gid://shopify/ProductVariant/49480760066275",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15068.jpg?v=1785501534"
   },
+  "gid://shopify/ProductVariant/49480769011939": {
+    "product_title": "Sishkaa Avikam Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1434",
+    "price": 14200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/avikam-bracelet-24?variant=gid://shopify/ProductVariant/49480769011939",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1434.jpg?v=1785501945"
+  },
+  "gid://shopify/ProductVariant/49480780218595": {
+    "product_title": "Amara Avikam Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1435",
+    "price": 13200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/avikam-bracelet-25?variant=gid://shopify/ProductVariant/49480780218595",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1435.jpg?v=1785502228"
+  },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
     "variant_title": "Default Title",
@@ -107638,6 +107647,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/tashvya-moissanite-long-earrings?variant=gid://shopify/ProductVariant/48731317371107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-4701_3_13af1ccb-a41c-42a2-b1d3-775f1407ac19.jpg?v=1775458388"
+  },
+  "gid://shopify/ProductVariant/48731339784419": {
+    "product_title": "Glitz Moissanite Long Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-13491",
+    "price": 23144.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/moissanite-long-earrings?variant=gid://shopify/ProductVariant/48731339784419",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8819_3_39bf6f7b-ec74-47a8-94bf-506e59e33ab6.jpg?v=1775459816"
   },
   "gid://shopify/ProductVariant/48731368587491": {
     "product_title": "Elyvra Victorian Studs",
