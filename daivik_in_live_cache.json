@@ -2830,7 +2830,7 @@
     "variant_title": "2.4",
     "sku": "929",
     "price": 1199.0,
-    "stock": 13,
+    "stock": 12,
     "url": "https://www.daivik.in/products/a-302?variant=gid://shopify/ProductVariant/43479574315230",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_6a23397a-390f-4fae-a298-e6f1ac6ba3b9.heic?v=1664687431"
   },
@@ -12766,7 +12766,7 @@
     "variant_title": "Default Title",
     "sku": "1293",
     "price": 599.0,
-    "stock": 45,
+    "stock": 44,
     "url": "https://www.daivik.in/products/diamond-look-alike-floral-necklace-with-earrings?variant=gid://shopify/ProductVariant/47058250170590",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AE8A8B55-BBFF-4A9C-8164-78581ED7BF0D.jpg?v=1751779972"
   },
@@ -13567,7 +13567,7 @@
     "variant_title": "Default Title",
     "sku": "1319",
     "price": 1299.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/lakshmi-antique-choker-with-studs?variant=gid://shopify/ProductVariant/47461641388254",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B43A7E7A-40CB-42C6-8659-D64017434DA7.jpg?v=1755770949"
   },
@@ -18188,15 +18188,6 @@
     "url": "https://www.daivik.in/products/mossanite-jhumkas-with-mattal?variant=gid://shopify/ProductVariant/47878395035870",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/72F6F9FA-81AE-4FFE-B8F5-3BF2ECE65CF8.jpg?v=1770118640"
   },
-  "gid://shopify/ProductVariant/47880825471198": {
-    "product_title": "Kemp Bangle Combo (Price for Both Hands)",
-    "variant_title": "2.4",
-    "sku": "1804",
-    "price": 2999.0,
-    "stock": 2,
-    "url": "https://www.daivik.in/products/b-3?variant=gid://shopify/ProductVariant/47880825471198",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FBA3E8CD-5F27-4E7A-A9A5-3D159E78552F.jpg?v=1770223009"
-  },
   "gid://shopify/ProductVariant/47880825503966": {
     "product_title": "Kemp Bangle Combo (Price for Both Hands)",
     "variant_title": "2.6",
@@ -20992,7 +20983,7 @@
     "variant_title": "Default Title",
     "sku": "485",
     "price": 899.0,
-    "stock": 38,
+    "stock": 37,
     "url": "https://www.daivik.in/products/elakkathali-ruby-choker-with-earrings?variant=gid://shopify/ProductVariant/48403799408862",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6A18C555-AF72-4C73-B410-F4E8C48D53A0.jpg?v=1782993326"
   },
@@ -29896,6 +29887,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/adults-kids-peacock-pendant-choker-with-earrings?variant=gid://shopify/ProductVariant/47864510644446",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/73D648A1-7323-42C8-B987-0483534F1836.jpg?v=1769616072"
+  },
+  "gid://shopify/ProductVariant/47880825471198": {
+    "product_title": "Kemp Bangle Combo (Price for Both Hands)",
+    "variant_title": "2.4",
+    "sku": "1804",
+    "price": 2999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/b-3?variant=gid://shopify/ProductVariant/47880825471198",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FBA3E8CD-5F27-4E7A-A9A5-3D159E78552F.jpg?v=1770223009"
   },
   "gid://shopify/ProductVariant/47883798905054": {
     "product_title": "Real Look Alike Foam Handmade Kemp Pendant Jasmine Mottu Malli U Pin in 2 variants (Price for Each)",
