@@ -88357,7 +88357,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15167",
     "price": 4700.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/glow-charm-moissanite-studs?variant=gid://shopify/ProductVariant/49388901925091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15167.jpg?v=1783667287"
   },
@@ -91987,15 +91987,6 @@
     "stock": 5,
     "url": "https://www.theamethyststore.com/products/victorian-studs-18?variant=gid://shopify/ProductVariant/49429841182947",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14987.jpg?v=1784524022"
-  },
-  "gid://shopify/ProductVariant/49429889450211": {
-    "product_title": "Cute Victorian Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14988",
-    "price": 4200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/victorian-studs-19?variant=gid://shopify/ProductVariant/49429889450211",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14988.jpg?v=1784524317"
   },
   "gid://shopify/ProductVariant/49429892825315": {
     "product_title": "Anathika Victorian Studs",
@@ -111463,6 +111454,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/vikitha-avikam-necklace-set?variant=gid://shopify/ProductVariant/49421201932515",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16780.jpg?v=1784284907"
+  },
+  "gid://shopify/ProductVariant/49429889450211": {
+    "product_title": "Cute Victorian Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14988",
+    "price": 4200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/victorian-studs-19?variant=gid://shopify/ProductVariant/49429889450211",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14988.jpg?v=1784524317"
   },
   "gid://shopify/ProductVariant/49436823879907": {
     "product_title": "Celestial Luxe Diamond Like Oddiyanam",
