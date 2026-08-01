@@ -10759,7 +10759,7 @@
     "variant_title": "Ruby Pink / 15",
     "sku": "R16681",
     "price": 3900.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/rossi-ring?variant=gid://shopify/ProductVariant/52166981583145",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0059copy_resized_ecc8542e-3cfe-487b-903d-58ea3e221ef6.jpg?v=1763970956"
   },
@@ -13273,15 +13273,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/chandira-lakshmi-nakshi-bangles?variant=gid://shopify/ProductVariant/52455955366185",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_14_Jan0944_resized.jpg?v=1768981166"
-  },
-  "gid://shopify/ProductVariant/52456018936105": {
-    "product_title": "Mayuravalli  Nakshi Necklace",
-    "variant_title": "Default Title",
-    "sku": "R23287",
-    "price": 82080.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/mayuravalli-nakshi-necklace?variant=gid://shopify/ProductVariant/52456018936105",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan0740_resized.jpg?v=1769066513"
   },
   "gid://shopify/ProductVariant/52456019099945": {
     "product_title": "Neelira Nakshi Necklace Set",
@@ -40957,6 +40948,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/pushnara-nakshi-kanti-necklace?variant=gid://shopify/ProductVariant/52456017461545",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_14Jan0671_resized.jpg?v=1769059699"
+  },
+  "gid://shopify/ProductVariant/52456018936105": {
+    "product_title": "Mayuravalli  Nakshi Necklace",
+    "variant_title": "Default Title",
+    "sku": "R23287",
+    "price": 82080.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/mayuravalli-nakshi-necklace?variant=gid://shopify/ProductVariant/52456018936105",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan0740_resized.jpg?v=1769066513"
   },
   "gid://shopify/ProductVariant/52456019001641": {
     "product_title": "Kanvya Nakshi Necklace Set",
