@@ -19133,15 +19133,6 @@
     "url": "https://www.rasasilver.com/products/peravia-cz-necklace-set-copy?variant=gid://shopify/ProductVariant/52880284614953",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0043_resized.jpg?v=1775286775"
   },
-  "gid://shopify/ProductVariant/52880314990889": {
-    "product_title": "Florentine CZ Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R26750",
-    "price": 15900.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/vasanthika-cz-necklace-copy?variant=gid://shopify/ProductVariant/52880314990889",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0059_resized.jpg?v=1775286869"
-  },
   "gid://shopify/ProductVariant/52880422928681": {
     "product_title": "Vritta CZ Necklace Set",
     "variant_title": "Default Title",
@@ -23476,7 +23467,7 @@
     "variant_title": "Men",
     "sku": "R31531",
     "price": 1900.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/tiny-shine-ring?variant=gid://shopify/ProductVariant/53286206964009",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5734_resized_74b363fc-bf97-4f90-a6fb-0f7e7c1d2918.jpg?v=1782301238"
   },
@@ -45745,6 +45736,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/dwiraj-nakshi-pendant?variant=gid://shopify/ProductVariant/52880515531049",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_272Pics_19Mar37053_resized.jpg?v=1775121712"
+  },
+  "gid://shopify/ProductVariant/52880314990889": {
+    "product_title": "Florentine CZ Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R26750",
+    "price": 15900.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/vasanthika-cz-necklace-copy?variant=gid://shopify/ProductVariant/52880314990889",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0059_resized.jpg?v=1775286869"
   },
   "gid://shopify/ProductVariant/52880870539561": {
     "product_title": "Maharitna Stone Pendant",
