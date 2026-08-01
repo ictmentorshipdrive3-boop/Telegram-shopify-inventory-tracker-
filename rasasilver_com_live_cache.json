@@ -3221,15 +3221,6 @@
     "url": "https://www.rasasilver.com/products/octa-scroll-shine-necklace-set?variant=gid://shopify/ProductVariant/50568825405737",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R2491.jpg?v=1762342792"
   },
-  "gid://shopify/ProductVariant/50568878326057": {
-    "product_title": "Kumbha Roopini Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "R9059",
-    "price": 49100.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/kumbha-roopini-long-necklace?variant=gid://shopify/ProductVariant/50568878326057",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R9059.jpg?v=1752744139"
-  },
   "gid://shopify/ProductVariant/50568944615721": {
     "product_title": "Alexandria Mor Short Necklace",
     "variant_title": "Default Title",
@@ -3649,7 +3640,7 @@
     "variant_title": "GREEN",
     "sku": "R17369",
     "price": 3200.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.rasasilver.com/products/smaragda-spark-ring?variant=gid://shopify/ProductVariant/51471916794153",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_0484a4ff-0b8b-4858-bb16-14d9605b1153.jpg?v=1754311252"
   },
@@ -26548,6 +26539,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/6879?variant=gid://shopify/ProductVariant/50565257068841",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-4_f5556ced-e1c6-4f65-a205-8dc1218e9aad.jpg?v=1762344448"
+  },
+  "gid://shopify/ProductVariant/50568878326057": {
+    "product_title": "Kumbha Roopini Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "R9059",
+    "price": 49100.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/kumbha-roopini-long-necklace?variant=gid://shopify/ProductVariant/50568878326057",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R9059.jpg?v=1752744139"
   },
   "gid://shopify/ProductVariant/52382733861161": {
     "product_title": "Pearleela Victorian Necklace Set",
