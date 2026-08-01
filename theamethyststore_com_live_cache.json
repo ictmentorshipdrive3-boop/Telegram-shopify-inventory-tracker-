@@ -10084,7 +10084,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-1159",
     "price": 53300.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/dymtrus-avikam-hair-maatal?variant=gid://shopify/ProductVariant/45281421754595",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1159.jpg?v=1721301790"
   },
@@ -19988,6 +19988,15 @@
     "url": "https://www.theamethyststore.com/products/beautiful-nagas-pendant-1?variant=gid://shopify/ProductVariant/46326663577827",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2366.jpg?v=1746100866"
   },
+  "gid://shopify/ProductVariant/46326684877027": {
+    "product_title": "prathishka Nagas Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-8221",
+    "price": 27700.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/prathishka-nagas-earrings?variant=gid://shopify/ProductVariant/46326684877027",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8221.jpg?v=1746101643"
+  },
   "gid://shopify/ProductVariant/46326812344547": {
     "product_title": "Sreethika Nagas Earrings",
     "variant_title": "Default Title",
@@ -25519,7 +25528,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-1632",
     "price": 13300.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/vishaka-maangtikka?variant=gid://shopify/ProductVariant/46836674986211",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1632.jpg?v=1752150291"
   },
@@ -30832,6 +30841,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/akshira-diamond-design-hair-maatal?variant=gid://shopify/ProductVariant/47043202285795",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1643.jpg?v=1755761570"
+  },
+  "gid://shopify/ProductVariant/47043219292387": {
+    "product_title": "Aarithya Diamond Design Hair Maatal",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-1642",
+    "price": 59200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/aarithya-diamond-design-hair-maatal?variant=gid://shopify/ProductVariant/47043219292387",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1642.jpg?v=1755761759"
   },
   "gid://shopify/ProductVariant/47043264905443": {
     "product_title": "Unique Victorian Short Necklace Set",
@@ -55642,7 +55660,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-2064",
     "price": 17900.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/raziya-avikam-maangtikka?variant=gid://shopify/ProductVariant/47850409328867",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2064.jpg?v=1768721121"
   },
@@ -83555,15 +83573,6 @@
     "url": "https://www.theamethyststore.com/products/nagas-drops-10?variant=gid://shopify/ProductVariant/49325975339235",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14471.jpg?v=1782728809"
   },
-  "gid://shopify/ProductVariant/49326006632675": {
-    "product_title": "Shakshika Nagas Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14459",
-    "price": 3300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nagas-studs-1?variant=gid://shopify/ProductVariant/49326006632675",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14459.jpg?v=1782729233"
-  },
   "gid://shopify/ProductVariant/49326040252643": {
     "product_title": "Harikaa Nagas Studs",
     "variant_title": "Default Title",
@@ -89896,7 +89905,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-16626",
     "price": 79200.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/sparkle-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/49409202487523",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16626.jpg?v=1784097738"
   },
@@ -94900,7 +94909,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17080",
     "price": 139300.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/victorian-short-necklace-set-8?variant=gid://shopify/ProductVariant/49448230355171",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17080.jpg?v=1785065191"
   },
@@ -96555,10 +96564,28 @@
     "product_title": "Adriana Diamond Design Pendant",
     "variant_title": "Default Title",
     "sku": "AMS-104-4834",
-    "price": 23500.0,
+    "price": 24100.0,
     "stock": 4,
     "url": "https://www.theamethyststore.com/products/diamond-design-pendant-33?variant=gid://shopify/ProductVariant/49482809966819",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4834.jpg?v=1785566805"
+  },
+  "gid://shopify/ProductVariant/49482848895203": {
+    "product_title": "Catchy Nagas Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4832",
+    "price": 19500.0,
+    "stock": 5,
+    "url": "https://www.theamethyststore.com/products/nagas-pendant-44?variant=gid://shopify/ProductVariant/49482848895203",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4832.jpg?v=1785567077"
+  },
+  "gid://shopify/ProductVariant/49483001790691": {
+    "product_title": "Dazzling Victorian Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4851",
+    "price": 30900.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/victorian-pendant-1?variant=gid://shopify/ProductVariant/49483001790691",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4851.jpg?v=1785567348"
   },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
@@ -100087,15 +100114,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/gorgeous-lakshmi-nagas-pendant-1?variant=gid://shopify/ProductVariant/46326670033123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2367.jpg?v=1746101003"
-  },
-  "gid://shopify/ProductVariant/46326684877027": {
-    "product_title": "prathishka Nagas Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-8221",
-    "price": 27668.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/prathishka-nagas-earrings?variant=gid://shopify/ProductVariant/46326684877027",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8221.jpg?v=1746101643"
   },
   "gid://shopify/ProductVariant/46329780011235": {
     "product_title": "Prinisha Long Necklace",
@@ -110716,6 +110734,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nagas-jhumkas-72?variant=gid://shopify/ProductVariant/49325917896931",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14454.jpg?v=1782727545"
+  },
+  "gid://shopify/ProductVariant/49326006632675": {
+    "product_title": "Shakshika Nagas Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14459",
+    "price": 3300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-studs-1?variant=gid://shopify/ProductVariant/49326006632675",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14459.jpg?v=1782729233"
   },
   "gid://shopify/ProductVariant/49326166966499": {
     "product_title": "Janvikha Nagas Studs",
