@@ -868,7 +868,7 @@
     "variant_title": "Default Title",
     "sku": "R15799",
     "price": 3250.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/rasi-kala-studs-1?variant=gid://shopify/ProductVariant/50140400288041",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/26_8f0a19db-0ca2-43dc-a019-d6e169d00fbf.jpg?v=1743766326"
   },
@@ -4837,7 +4837,7 @@
     "variant_title": "Default Title",
     "sku": "R20381",
     "price": 2100.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.rasasilver.com/products/rubora-oval-studs?variant=gid://shopify/ProductVariant/50809700581673",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2508.jpg?v=1756544597"
   },
@@ -22081,7 +22081,7 @@
     "variant_title": "Default Title",
     "sku": "R28590",
     "price": 8000.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/kalasha-lakshmi-temple-necklace?variant=gid://shopify/ProductVariant/53266747162921",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262146_resized.jpg?v=1781526163"
   },
@@ -22498,15 +22498,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/green-pear-cz-studs?variant=gid://shopify/ProductVariant/53282491793705",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262387_resized.jpg?v=1782107766"
-  },
-  "gid://shopify/ProductVariant/53282509226281": {
-    "product_title": "Fiora Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "R29495",
-    "price": 2300.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/fiora-stone-studs?variant=gid://shopify/ProductVariant/53282509226281",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262378_resized.jpg?v=1782109475"
   },
   "gid://shopify/ProductVariant/53282509619497": {
     "product_title": "Bloom Spark Stone Studs",
@@ -23776,15 +23767,6 @@
     "stock": 2,
     "url": "https://www.rasasilver.com/products/pear-blossom-studs?variant=gid://shopify/ProductVariant/53289042739497",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5589_resized.jpg?v=1782385168"
-  },
-  "gid://shopify/ProductVariant/53289090285865": {
-    "product_title": "Half-Twist Toe Ring",
-    "variant_title": "Default Title",
-    "sku": "R31622",
-    "price": 2600.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/half-twist-toe-ring?variant=gid://shopify/ProductVariant/53289090285865",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5804_resized.jpg?v=1782385714"
   },
   "gid://shopify/ProductVariant/53289094775081": {
     "product_title": "Pear-Pinkish Toe Ring",
@@ -47501,6 +47483,15 @@
     "url": "https://www.rasasilver.com/products/blossomia-stone-studs?variant=gid://shopify/ProductVariant/53282505687337",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262382_resized.jpg?v=1782108507"
   },
+  "gid://shopify/ProductVariant/53282509226281": {
+    "product_title": "Fiora Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "R29495",
+    "price": 2300.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/fiora-stone-studs?variant=gid://shopify/ProductVariant/53282509226281",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262378_resized.jpg?v=1782109475"
+  },
   "gid://shopify/ProductVariant/53282512765225": {
     "product_title": "Crystal Flower Stone Studs",
     "variant_title": "Default Title",
@@ -47842,6 +47833,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/butterfly-glow-studs?variant=gid://shopify/ProductVariant/53288962851113",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5537_resized.jpg?v=1782382051"
+  },
+  "gid://shopify/ProductVariant/53289090285865": {
+    "product_title": "Half-Twist Toe Ring",
+    "variant_title": "Default Title",
+    "sku": "R31622",
+    "price": 2600.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/half-twist-toe-ring?variant=gid://shopify/ProductVariant/53289090285865",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5804_resized.jpg?v=1782385714"
   },
   "gid://shopify/ProductVariant/53290470867241": {
     "product_title": "Pear-Navaratna Pendant Set",
