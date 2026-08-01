@@ -1228,7 +1228,7 @@
     "variant_title": "Default Title",
     "sku": "838",
     "price": 999.0,
-    "stock": 50,
+    "stock": 49,
     "url": "https://www.daivik.in/products/mini-version-of-the-big-size-jhumkas?variant=gid://shopify/ProductVariant/44757040464094",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_759a774f-96d7-41af-a149-dc4f82e5ba7c.jpg?v=1630159442"
   },
@@ -13526,15 +13526,6 @@
     "url": "https://www.daivik.in/products/antique-ruby-green-jada-billa-hair-accessory?variant=gid://shopify/ProductVariant/47455882871006",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4385477E-CE53-46D7-852F-3089B9133194.jpg?v=1755512569"
   },
-  "gid://shopify/ProductVariant/47455889326302": {
-    "product_title": "Kemp Ruby Green White Pearl Choker",
-    "variant_title": "Default Title",
-    "sku": "388",
-    "price": 2799.0,
-    "stock": 41,
-    "url": "https://www.daivik.in/products/kemp-ruby-green-white-pearl-choker?variant=gid://shopify/ProductVariant/47455889326302",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9B85EB93-CFE6-4087-B95C-6C3D62448398.jpg?v=1755512842"
-  },
   "gid://shopify/ProductVariant/47459274588382": {
     "product_title": "Flexible Kerala Leaf Kada (Price for 2 pcs)",
     "variant_title": "Default Title",
@@ -20983,7 +20974,7 @@
     "variant_title": "Default Title",
     "sku": "485",
     "price": 899.0,
-    "stock": 37,
+    "stock": 36,
     "url": "https://www.daivik.in/products/elakkathali-ruby-choker-with-earrings?variant=gid://shopify/ProductVariant/48403799408862",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6A18C555-AF72-4C73-B410-F4E8C48D53A0.jpg?v=1782993326"
   },
@@ -28429,6 +28420,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/designer-ad-hairpin?variant=gid://shopify/ProductVariant/47451036811486",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/rn-image_picker_lib_temp_a8c48825-b0b1-4f94-9968-81cb4ce52c69.jpg?v=1755326733"
+  },
+  "gid://shopify/ProductVariant/47455889326302": {
+    "product_title": "Kemp Ruby Green White Pearl Choker",
+    "variant_title": "Default Title",
+    "sku": "388",
+    "price": 2799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/kemp-ruby-green-white-pearl-choker?variant=gid://shopify/ProductVariant/47455889326302",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9B85EB93-CFE6-4087-B95C-6C3D62448398.jpg?v=1755512842"
   },
   "gid://shopify/ProductVariant/47463005847774": {
     "product_title": "Antique 3D Hair Clip in 3 Styles",
