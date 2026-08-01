@@ -54188,15 +54188,6 @@
     "url": "https://www.theamethyststore.com/products/kanya-toe-ring-1?variant=gid://shopify/ProductVariant/47813747376355",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0667.jpg?v=1768212837"
   },
-  "gid://shopify/ProductVariant/47813860425955": {
-    "product_title": "Srisha Stone Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-11785",
-    "price": 3200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/srisha-stone-drops-1?variant=gid://shopify/ProductVariant/47813860425955",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11785_55ecf093-09aa-4c43-b356-1cb5bf1157a5.jpg?v=1782105788"
-  },
   "gid://shopify/ProductVariant/47813861900515": {
     "product_title": "Yashini Stone Drops",
     "variant_title": "Default Title",
@@ -73862,15 +73853,6 @@
     "url": "https://www.theamethyststore.com/products/vedanshi-avikam-long-earrings?variant=gid://shopify/ProductVariant/48927448072419",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13618.png?v=1778320815"
   },
-  "gid://shopify/ProductVariant/48927448727779": {
-    "product_title": "Punyamurti Victorian Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-13796",
-    "price": 4500.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/victorian-studs-8?variant=gid://shopify/ProductVariant/48927448727779",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13796.jpg?v=1778320920"
-  },
   "gid://shopify/ProductVariant/48927463637219": {
     "product_title": "Citharine Avikam Long Earrings",
     "variant_title": "Default Title",
@@ -78307,15 +78289,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/3d-spl-short-necklace-22?variant=gid://shopify/ProductVariant/49268058947811",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15999.jpg?v=1781611165"
-  },
-  "gid://shopify/ProductVariant/49268064059619": {
-    "product_title": "Yalisha Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14184",
-    "price": 3800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/yalisha-stone-studs-1?variant=gid://shopify/ProductVariant/49268064059619",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14184.jpg?v=1781611184"
   },
   "gid://shopify/ProductVariant/49268066615523": {
     "product_title": "Little Cute Stone Studs",
@@ -105281,6 +105254,15 @@
     "url": "https://www.theamethyststore.com/products/rope-necklace-2?variant=gid://shopify/ProductVariant/47813576229091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13321.jpg?v=1768204127"
   },
+  "gid://shopify/ProductVariant/47813860425955": {
+    "product_title": "Srisha Stone Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-11785",
+    "price": 3200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/srisha-stone-drops-1?variant=gid://shopify/ProductVariant/47813860425955",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11785_55ecf093-09aa-4c43-b356-1cb5bf1157a5.jpg?v=1782105788"
+  },
   "gid://shopify/ProductVariant/47823372058851": {
     "product_title": "Janvikha Stone Studs",
     "variant_title": "Default Title",
@@ -108755,6 +108737,15 @@
     "url": "https://www.theamethyststore.com/products/victorian-studs-6?variant=gid://shopify/ProductVariant/48927434080483",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13794.jpg?v=1778320045"
   },
+  "gid://shopify/ProductVariant/48927448727779": {
+    "product_title": "Punyamurti Victorian Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-13796",
+    "price": 4500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/victorian-studs-8?variant=gid://shopify/ProductVariant/48927448727779",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13796.jpg?v=1778320920"
+  },
   "gid://shopify/ProductVariant/48927622299875": {
     "product_title": "Amisha Avikam Long Earrings",
     "variant_title": "Default Title",
@@ -109735,6 +109726,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/bracelet-19?variant=gid://shopify/ProductVariant/49268002128099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1323-2.6.jpg?v=1781608725"
+  },
+  "gid://shopify/ProductVariant/49268064059619": {
+    "product_title": "Yalisha Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14184",
+    "price": 3800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/yalisha-stone-studs-1?variant=gid://shopify/ProductVariant/49268064059619",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14184.jpg?v=1781611184"
   },
   "gid://shopify/ProductVariant/49268070580451": {
     "product_title": "Lithisha Stone Studs",
