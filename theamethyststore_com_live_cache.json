@@ -46277,15 +46277,6 @@
     "url": "https://www.theamethyststore.com/products/jerika-ring?variant=gid://shopify/ProductVariant/47442171625699",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1737.jpg?v=1762162776"
   },
-  "gid://shopify/ProductVariant/47442171658467": {
-    "product_title": "Jerika Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1737-14''",
-    "price": 6072.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/jerika-ring?variant=gid://shopify/ProductVariant/47442171658467",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1737.jpg?v=1762162776"
-  },
   "gid://shopify/ProductVariant/47442171691235": {
     "product_title": "Bugadi Bliss Earrings",
     "variant_title": "Default Title",
@@ -53945,15 +53936,6 @@
     "url": "https://www.theamethyststore.com/products/prithika-stone-studs-1?variant=gid://shopify/ProductVariant/47807937216739",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12378.jpg?v=1767967802"
   },
-  "gid://shopify/ProductVariant/47807940657379": {
-    "product_title": "Greenish Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-12460",
-    "price": 4473.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/stone-studs-20?variant=gid://shopify/ProductVariant/47807940657379",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12460.jpg?v=1767968134"
-  },
   "gid://shopify/ProductVariant/47809353941219": {
     "product_title": "Glow Charm Kundan Studs",
     "variant_title": "Default Title",
@@ -56545,15 +56527,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/vidhya-hook-jhumkas?variant=gid://shopify/ProductVariant/47852462866659",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12157.jpg?v=1768828052"
-  },
-  "gid://shopify/ProductVariant/47852472467683": {
-    "product_title": "Swetha Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-11867",
-    "price": 3124.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/swetha-stone-studs-1?variant=gid://shopify/ProductVariant/47852472467683",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11867.jpg?v=1768829092"
   },
   "gid://shopify/ProductVariant/47852475777251": {
     "product_title": "Traditional Kum Kum Box",
@@ -70432,15 +70405,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/majestic-short-necklace-set?variant=gid://shopify/ProductVariant/48883099893987",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15499.jpg?v=1777380346"
-  },
-  "gid://shopify/ProductVariant/48883153436899": {
-    "product_title": "Mesmerize Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15501",
-    "price": 24816.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/mesmerize-short-necklace-set?variant=gid://shopify/ProductVariant/48883153436899",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15501.jpg?v=1777380879"
   },
   "gid://shopify/ProductVariant/48883276611811": {
     "product_title": "Stylish Men's Chain",
@@ -89108,15 +89072,6 @@
     "url": "https://www.theamethyststore.com/products/hasli-necklace-78?variant=gid://shopify/ProductVariant/49396616036579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16525.jpg?v=1783839644"
   },
-  "gid://shopify/ProductVariant/49396619313379": {
-    "product_title": "Prathikaa Hasli Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16527",
-    "price": 5500.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/hasli-necklace-79?variant=gid://shopify/ProductVariant/49396619313379",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16527.jpg?v=1783840392"
-  },
   "gid://shopify/ProductVariant/49396622131427": {
     "product_title": "Virshalini Hasli Necklace",
     "variant_title": "Default Title",
@@ -104030,6 +103985,15 @@
     "url": "https://www.theamethyststore.com/products/nerissa-drops-earrings?variant=gid://shopify/ProductVariant/47441450729699",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10713.jpg?v=1762150766"
   },
+  "gid://shopify/ProductVariant/47442171658467": {
+    "product_title": "Jerika Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1737-14''",
+    "price": 6072.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/jerika-ring?variant=gid://shopify/ProductVariant/47442171658467",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1737.jpg?v=1762162776"
+  },
   "gid://shopify/ProductVariant/47442315870435": {
     "product_title": "Eternal Beauty Long Necklace Set",
     "variant_title": "Default Title",
@@ -105218,6 +105182,15 @@
     "url": "https://www.theamethyststore.com/products/natasha-stone-studs?variant=gid://shopify/ProductVariant/47807906349283",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12364.jpg?v=1767966073"
   },
+  "gid://shopify/ProductVariant/47807940657379": {
+    "product_title": "Greenish Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-12460",
+    "price": 4473.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/stone-studs-20?variant=gid://shopify/ProductVariant/47807940657379",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12460.jpg?v=1767968134"
+  },
   "gid://shopify/ProductVariant/47813402263779": {
     "product_title": "Samitha Rope Necklace",
     "variant_title": "Default Title",
@@ -105559,6 +105532,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/beautiful-nagas-short-necklace?variant=gid://shopify/ProductVariant/47852460572899",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13867.jpg?v=1768827719"
+  },
+  "gid://shopify/ProductVariant/47852472467683": {
+    "product_title": "Swetha Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-11867",
+    "price": 3124.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/swetha-stone-studs-1?variant=gid://shopify/ProductVariant/47852472467683",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11867.jpg?v=1768829092"
   },
   "gid://shopify/ProductVariant/47854736539875": {
     "product_title": "Sumanthra Nagas Short Necklace",
@@ -108115,6 +108097,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/alluring-short-necklace-set?variant=gid://shopify/ProductVariant/48883115458787",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15500.jpg?v=1777380547"
+  },
+  "gid://shopify/ProductVariant/48883153436899": {
+    "product_title": "Mesmerize Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15501",
+    "price": 24816.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/mesmerize-short-necklace-set?variant=gid://shopify/ProductVariant/48883153436899",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15501.jpg?v=1777380879"
   },
   "gid://shopify/ProductVariant/48886471065827": {
     "product_title": "Majestic Chandubaali Earrings",
@@ -111418,6 +111409,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/hasli-necklace-77?variant=gid://shopify/ProductVariant/49396614463715",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16523.jpg?v=1783839215"
+  },
+  "gid://shopify/ProductVariant/49396619313379": {
+    "product_title": "Prathikaa Hasli Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16527",
+    "price": 5500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/hasli-necklace-79?variant=gid://shopify/ProductVariant/49396619313379",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16527.jpg?v=1783840392"
   },
   "gid://shopify/ProductVariant/49396620230883": {
     "product_title": "Finthikaa Hasli Necklace",
