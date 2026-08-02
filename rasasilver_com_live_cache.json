@@ -1012,7 +1012,7 @@
     "variant_title": "Default Title",
     "sku": "R16225",
     "price": 10100.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/dvi-vikranta-pendant?variant=gid://shopify/ProductVariant/50159118811433",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Screenshot2025-04-20222044.png?v=1749622752"
   },
@@ -13076,6 +13076,15 @@
     "url": "https://www.rasasilver.com/products/kanchan-temple-necklace?variant=gid://shopify/ProductVariant/52451418276137",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_159Pics_14Jan3288_resized.jpg?v=1768976106"
   },
+  "gid://shopify/ProductVariant/52451454288169": {
+    "product_title": "Deivara Antique Choker",
+    "variant_title": "Default Title",
+    "sku": "R23247",
+    "price": 32670.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/deivara-antique-jadau-choker?variant=gid://shopify/ProductVariant/52451454288169",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_14Jan0715_resized.jpg?v=1768978595"
+  },
   "gid://shopify/ProductVariant/52451491447081": {
     "product_title": "Veera Lakshmi Temple Necklace",
     "variant_title": "Default Title",
@@ -16279,6 +16288,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/hansini-kundan-kanti?variant=gid://shopify/ProductVariant/52723464962345",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00450copy_resized.jpg?v=1772274731"
+  },
+  "gid://shopify/ProductVariant/52723554615593": {
+    "product_title": "Zamoria Moissanite Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R23800",
+    "price": 117000.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/zamoria-moissanite-necklace-set?variant=gid://shopify/ProductVariant/52723554615593",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00191copy_resized.jpg?v=1772275392"
   },
   "gid://shopify/ProductVariant/52723585745193": {
     "product_title": "Pigeon Victorian Kanti Set",
@@ -40634,15 +40652,6 @@
     "url": "https://www.rasasilver.com/products/ivory-drop-stone-necklace?variant=gid://shopify/ProductVariant/52451399663913",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_159Pics_14Jan3217_resized.jpg?v=1768975969"
   },
-  "gid://shopify/ProductVariant/52451454288169": {
-    "product_title": "Deivara Antique Choker",
-    "variant_title": "Default Title",
-    "sku": "R23247",
-    "price": 32670.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/deivara-antique-jadau-choker?variant=gid://shopify/ProductVariant/52451454288169",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_14Jan0715_resized.jpg?v=1768978595"
-  },
   "gid://shopify/ProductVariant/52451455566121": {
     "product_title": "9 Gem Necklace",
     "variant_title": "Default Title",
@@ -43495,15 +43504,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/shahi-manik-kundan-necklace?variant=gid://shopify/ProductVariant/52723527385385",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00337_copy_resized.jpg?v=1772275054"
-  },
-  "gid://shopify/ProductVariant/52723554615593": {
-    "product_title": "Zamoria Moissanite Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R23800",
-    "price": 117000.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/zamoria-moissanite-necklace-set?variant=gid://shopify/ProductVariant/52723554615593",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00191copy_resized.jpg?v=1772275392"
   },
   "gid://shopify/ProductVariant/52723597213993": {
     "product_title": "Navaratna-Floraline Stone Necklace",
