@@ -10088,15 +10088,6 @@
     "url": "https://www.kanshijewels.com/products/jadau-jhumkas-22?variant=gid://shopify/ProductVariant/52737323237676",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_3424.jpg?v=1773124712"
   },
-  "gid://shopify/ProductVariant/52737325662508": {
-    "product_title": "Jadau Maatil",
-    "variant_title": "Default Title",
-    "sku": "AC06",
-    "price": 2360.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-maatil?variant=gid://shopify/ProductVariant/52737325662508",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/JADAUMAATIL2360.jpg?v=1773124887"
-  },
   "gid://shopify/ProductVariant/52737331888428": {
     "product_title": "Jadau Necklace",
     "variant_title": "Default Title",
@@ -11326,7 +11317,7 @@
     "variant_title": "Default Title",
     "sku": "ER535",
     "price": 1450.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.kanshijewels.com/products/elegant-jadau-emerald-white-jhumkis?variant=gid://shopify/ProductVariant/53420409356588",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/kj8.2_800507eb-948d-465d-8822-4671d5308e8d.jpg?v=1783581574"
   },
@@ -13723,6 +13714,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/jadau-jhumkas-16?variant=gid://shopify/ProductVariant/52737312457004",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/JADAUJHUMKAS3650_a74fdff9-2784-4557-b73f-3d655eee4666.jpg?v=1773123553"
+  },
+  "gid://shopify/ProductVariant/52737325662508": {
+    "product_title": "Jadau Maatil",
+    "variant_title": "Default Title",
+    "sku": "AC06",
+    "price": 2360.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-maatil?variant=gid://shopify/ProductVariant/52737325662508",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/JADAUMAATIL2360.jpg?v=1773124887"
   },
   "gid://shopify/ProductVariant/52737328447788": {
     "product_title": "Jadau Mossanite Fusion Watch",
