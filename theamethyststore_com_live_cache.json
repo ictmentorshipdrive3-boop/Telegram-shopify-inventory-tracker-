@@ -25069,7 +25069,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-10280",
     "price": 60200.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/classic-charm-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/46824214069475",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10280.jpg?v=1752038143"
   },
@@ -65815,15 +65815,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/lithra-reversible-stone-necklace?variant=gid://shopify/ProductVariant/48411976794339",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14849.jpg?v=1772697019"
-  },
-  "gid://shopify/ProductVariant/48412249260259": {
-    "product_title": "Shiviya Reversible Stone Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-14850",
-    "price": 44400.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/reversible-stone-necklace?variant=gid://shopify/ProductVariant/48412249260259",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14850.jpg?v=1772705139"
   },
   "gid://shopify/ProductVariant/48412291825891": {
     "product_title": "Alisha Reversible Stone Necklace",
@@ -107854,6 +107845,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/inaya-nagas-short-necklace?variant=gid://shopify/ProductVariant/48408085889251",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15066.jpg?v=1772633810"
+  },
+  "gid://shopify/ProductVariant/48412249260259": {
+    "product_title": "Shiviya Reversible Stone Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-14850",
+    "price": 44400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/reversible-stone-necklace?variant=gid://shopify/ProductVariant/48412249260259",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14850.jpg?v=1772705139"
   },
   "gid://shopify/ProductVariant/48412386820323": {
     "product_title": "Hirantha Stone Necklace",
