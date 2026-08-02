@@ -3478,7 +3478,7 @@
     "variant_title": "Default Title",
     "sku": "R7707",
     "price": 3600.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/shri-kamala-bindu-studs?variant=gid://shopify/ProductVariant/50612635369769",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-4_d7a49fb8-acde-4339-b661-1d9ad037bf17.jpg?v=1753964047"
   },
@@ -16622,15 +16622,6 @@
     "url": "https://www.rasasilver.com/products/pakshini-kundan-pendant?variant=gid://shopify/ProductVariant/52748056625449",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5559_resized.jpg?v=1772537801"
   },
-  "gid://shopify/ProductVariant/52748086739241": {
-    "product_title": "Chakra-Padma Kundan Pendant",
-    "variant_title": "Default Title",
-    "sku": "R21962",
-    "price": 25300.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/chakra-kundan-pendant?variant=gid://shopify/ProductVariant/52748086739241",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5370_resized.jpg?v=1772537863"
-  },
   "gid://shopify/ProductVariant/52748104597801": {
     "product_title": "Rectara-Padma Kundan Pendant",
     "variant_title": "Default Title",
@@ -19453,7 +19444,7 @@
     "variant_title": "Default Title",
     "sku": "R26707",
     "price": 36500.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/ratna-cz-necklace?variant=gid://shopify/ProductVariant/52885692776745",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0067_resized.jpg?v=1775137148"
   },
@@ -20896,24 +20887,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/veda-spark-stone-ring?variant=gid://shopify/ProductVariant/53138265112873",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11830_resized.jpg?v=1781175043"
-  },
-  "gid://shopify/ProductVariant/53247473844521": {
-    "product_title": "Ziva Spark Ring",
-    "variant_title": "6",
-    "sku": "R28359",
-    "price": 1800.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/glowra-cz-ring-copy?variant=gid://shopify/ProductVariant/53247473844521",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_11May0308_resized.jpg?v=1781162135"
-  },
-  "gid://shopify/ProductVariant/53247473877289": {
-    "product_title": "Ziva Spark Ring",
-    "variant_title": "7",
-    "sku": "R28359",
-    "price": 1800.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/glowra-cz-ring-copy?variant=gid://shopify/ProductVariant/53247473877289",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_11May0308_resized.jpg?v=1781162135"
   },
   "gid://shopify/ProductVariant/53138402246953": {
     "product_title": "Pear-Haara Toe Ring",
@@ -24835,7 +24808,7 @@
     "variant_title": "Default Title",
     "sku": "R30351",
     "price": 14500.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/divine-temple-pendant?variant=gid://shopify/ProductVariant/53308704063785",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40238_resized.jpg?v=1783689668"
   },
@@ -24907,7 +24880,7 @@
     "variant_title": "Default Title",
     "sku": "R29944",
     "price": 15300.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/queens-lakshmi-temple-necklace-set?variant=gid://shopify/ProductVariant/53310655463721",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40164_resized.jpg?v=1783673230"
   },
@@ -24970,7 +24943,7 @@
     "variant_title": "Orange",
     "sku": "R29994",
     "price": 13400.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/dewdrop-stone-necklace-set?variant=gid://shopify/ProductVariant/53312650805545",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40174_resized.jpg?v=1783666728"
   },
@@ -43973,6 +43946,15 @@
     "url": "https://www.rasasilver.com/products/pushpitha-kundan-bangles?variant=gid://shopify/ProductVariant/52789990392105",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5470_resized.jpg?v=1772537655"
   },
+  "gid://shopify/ProductVariant/52748086739241": {
+    "product_title": "Chakra-Padma Kundan Pendant",
+    "variant_title": "Default Title",
+    "sku": "R21962",
+    "price": 25300.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/chakra-kundan-pendant?variant=gid://shopify/ProductVariant/52748086739241",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5370_resized.jpg?v=1772537863"
+  },
   "gid://shopify/ProductVariant/52748740460841": {
     "product_title": "Vajrabirund Kundan Pendant",
     "variant_title": "Default Title",
@@ -46969,6 +46951,24 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/nova-strip-toe-ring?variant=gid://shopify/ProductVariant/53138232312105",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11730_resized.jpg?v=1781331311"
+  },
+  "gid://shopify/ProductVariant/53247473844521": {
+    "product_title": "Ziva Spark Ring",
+    "variant_title": "6",
+    "sku": "R28359",
+    "price": 1800.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/glowra-cz-ring-copy?variant=gid://shopify/ProductVariant/53247473844521",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_11May0308_resized.jpg?v=1781162135"
+  },
+  "gid://shopify/ProductVariant/53247473877289": {
+    "product_title": "Ziva Spark Ring",
+    "variant_title": "7",
+    "sku": "R28359",
+    "price": 1800.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/glowra-cz-ring-copy?variant=gid://shopify/ProductVariant/53247473877289",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_11May0308_resized.jpg?v=1781162135"
   },
   "gid://shopify/ProductVariant/53138855395625": {
     "product_title": "Floral Strip Toe Ring",
