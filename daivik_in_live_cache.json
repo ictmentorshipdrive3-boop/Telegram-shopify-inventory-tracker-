@@ -1439,15 +1439,6 @@
     "url": "https://www.daivik.in/products/golden-ad-bangles?variant=gid://shopify/ProductVariant/41342831755417",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_1404ba82-8c37-4de4-ac23-b574322c9d3b.jpg?v=1634054777"
   },
-  "gid://shopify/ProductVariant/41347627843737": {
-    "product_title": "Simple and small kemp Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "907",
-    "price": 999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/simple-and-small-kemp-jhumkas?variant=gid://shopify/ProductVariant/41347627843737",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_5ad74a89-a9d2-448d-9fe9-7b9237f80265.jpg?v=1634139664"
-  },
   "gid://shopify/ProductVariant/41359794864281": {
     "product_title": "Simple kemp studs",
     "variant_title": "Default Title",
@@ -2227,7 +2218,7 @@
     "variant_title": "Default Title",
     "sku": "435",
     "price": 899.0,
-    "stock": 38,
+    "stock": 37,
     "url": "https://www.daivik.in/products/small-ad-floral-jhumkas?variant=gid://shopify/ProductVariant/42603310121182",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_401d661f-56c0-4450-8fa7-2cf352ac2809.heic?v=1648124347"
   },
@@ -9391,7 +9382,7 @@
     "variant_title": "Default Title",
     "sku": "1504",
     "price": 599.0,
-    "stock": 20,
+    "stock": 19,
     "url": "https://www.daivik.in/products/simple-ruby-green-flower-anklet?variant=gid://shopify/ProductVariant/45977990037726",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E7DC80CC-B691-47DA-BB27-8C71F9BADB1A.jpg?v=1729698852"
   },
@@ -10309,7 +10300,7 @@
     "variant_title": "Default Title",
     "sku": "1525",
     "price": 1299.0,
-    "stock": 29,
+    "stock": 28,
     "url": "https://www.daivik.in/products/peacock-white-pearl-jhumkas?variant=gid://shopify/ProductVariant/46171746336990",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0596.heic?v=1734962421"
   },
@@ -17752,7 +17743,7 @@
     "variant_title": "Default Title",
     "sku": "1777",
     "price": 799.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/kids-adult-kemp-jhumkas?variant=gid://shopify/ProductVariant/47821038485726",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4F2694EF-73AE-44F3-8030-0E1268B2B9C6.jpg?v=1771241123"
   },
@@ -21922,6 +21913,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/elephant-guttaspusalu-necklace-in-5-variants?variant=gid://shopify/ProductVariant/42130617172190",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/350ED432-0324-4B14-9EC1-55B6C45A6010.jpg?v=1731240555"
+  },
+  "gid://shopify/ProductVariant/41347627843737": {
+    "product_title": "Simple and small kemp Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "907",
+    "price": 999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/simple-and-small-kemp-jhumkas?variant=gid://shopify/ProductVariant/41347627843737",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_5ad74a89-a9d2-448d-9fe9-7b9237f80265.jpg?v=1634139664"
   },
   "gid://shopify/ProductVariant/45866073391326": {
     "product_title": "Simple Kemp Choker Necklace in 5 variants",
