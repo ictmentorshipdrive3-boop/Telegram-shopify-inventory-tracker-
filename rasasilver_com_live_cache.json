@@ -6497,15 +6497,6 @@
     "url": "https://www.rasasilver.com/products/error-1?variant=gid://shopify/ProductVariant/51317532852521",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS419.jpg?v=1760351502"
   },
-  "gid://shopify/ProductVariant/51317603828009": {
-    "product_title": "Rajmayuri Kundan Pendant",
-    "variant_title": "Default Title",
-    "sku": "R14632",
-    "price": 36500.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/pendant-9?variant=gid://shopify/ProductVariant/51317603828009",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS363.jpg?v=1760169390"
-  },
   "gid://shopify/ProductVariant/51317619261737": {
     "product_title": "Prakriti Garuda Pendant",
     "variant_title": "Default Title",
@@ -14998,7 +14989,7 @@
     "variant_title": "Default Title",
     "sku": "R23484",
     "price": 9810.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/swan-kundan-hair-brooch?variant=gid://shopify/ProductVariant/52559924625705",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0068copy_resized_7aa8a942-fe38-4001-9158-d5007c200399.jpg?v=1770198616"
   },
@@ -31148,6 +31139,15 @@
     "url": "https://www.rasasilver.com/products/pendant-7?variant=gid://shopify/ProductVariant/51317563556137",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_8_Oct1537.jpg?v=1760160775"
   },
+  "gid://shopify/ProductVariant/51317603828009": {
+    "product_title": "Rajmayuri Kundan Pendant",
+    "variant_title": "Default Title",
+    "sku": "R14632",
+    "price": 36500.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/pendant-9?variant=gid://shopify/ProductVariant/51317603828009",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS363.jpg?v=1760169390"
+  },
   "gid://shopify/ProductVariant/51317613068585": {
     "product_title": "Swarna Shakti Pendant",
     "variant_title": "Default Title",
@@ -43495,6 +43495,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/shahi-manik-kundan-necklace?variant=gid://shopify/ProductVariant/52723527385385",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00337_copy_resized.jpg?v=1772275054"
+  },
+  "gid://shopify/ProductVariant/52723554615593": {
+    "product_title": "Zamoria Moissanite Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R23800",
+    "price": 117000.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/zamoria-moissanite-necklace-set?variant=gid://shopify/ProductVariant/52723554615593",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00191copy_resized.jpg?v=1772275392"
   },
   "gid://shopify/ProductVariant/52723597213993": {
     "product_title": "Navaratna-Floraline Stone Necklace",
