@@ -9364,7 +9364,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-6031",
     "price": 5559.3,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/lydia-stone-studs-1?variant=gid://shopify/ProductVariant/45197915095267",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6031.jpg?v=1719496111"
   },
@@ -67607,15 +67607,6 @@
     "url": "https://www.theamethyststore.com/products/eshika-nagas-long-necklace?variant=gid://shopify/ProductVariant/48682318004451",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15330.jpg?v=1775394833"
   },
-  "gid://shopify/ProductVariant/48682417979619": {
-    "product_title": "Tashvya Nagas Chain",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-1840",
-    "price": 41230.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/tashvya-nagas-chain?variant=gid://shopify/ProductVariant/48682417979619",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1840.jpg?v=1775394987"
-  },
   "gid://shopify/ProductVariant/48682522378467": {
     "product_title": "Arvya Nagas Chain",
     "variant_title": "Default Title",
@@ -108259,6 +108250,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nyvra-pakshi-drops-earrings?variant=gid://shopify/ProductVariant/48678625181923",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13507.png?v=1775390771"
+  },
+  "gid://shopify/ProductVariant/48682417979619": {
+    "product_title": "Tashvya Nagas Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-1840",
+    "price": 41230.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/tashvya-nagas-chain?variant=gid://shopify/ProductVariant/48682417979619",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1840.jpg?v=1775394987"
   },
   "gid://shopify/ProductVariant/48682729079011": {
     "product_title": "Ishara Nagas Chain",
