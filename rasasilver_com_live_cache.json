@@ -593,15 +593,6 @@
     "url": "https://www.rasasilver.com/products/floral-jelly-studs?variant=gid://shopify/ProductVariant/50058095624489",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-13_3d0d4a1c-97c9-49ed-ad05-96028b1b85d8.jpg?v=1742376929"
   },
-  "gid://shopify/ProductVariant/51407841886505": {
-    "product_title": "Sarini Lakshmi Short Necklace",
-    "variant_title": "Green",
-    "sku": "R15665",
-    "price": 32000.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/kashi-padmini-short-necklace?variant=gid://shopify/ProductVariant/51407841886505",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0296_resized.jpg?v=1762255331"
-  },
   "gid://shopify/ProductVariant/51407841919273": {
     "product_title": "Sarini Lakshmi Short Necklace",
     "variant_title": "Ruby Pink",
@@ -25954,6 +25945,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/sri-hari-priya-daab?variant=gid://shopify/ProductVariant/49901861110057",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R1458.jpg?v=1751361001"
+  },
+  "gid://shopify/ProductVariant/51407841886505": {
+    "product_title": "Sarini Lakshmi Short Necklace",
+    "variant_title": "Green",
+    "sku": "R15665",
+    "price": 32000.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/kashi-padmini-short-necklace?variant=gid://shopify/ProductVariant/51407841886505",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0296_resized.jpg?v=1762255331"
   },
   "gid://shopify/ProductVariant/50869189083433": {
     "product_title": "Raghukul Ratnaraj Studs",
