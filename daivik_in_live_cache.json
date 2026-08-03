@@ -3577,7 +3577,7 @@
     "variant_title": "2.6",
     "sku": "384",
     "price": 999.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/ad-regular-wear-floral-bangles?variant=gid://shopify/ProductVariant/44051453411550",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_4fbbabed-95b5-4787-b8cb-55bd7e5ae9e6.heic?v=1678262190"
   },
@@ -4111,15 +4111,6 @@
     "stock": 50,
     "url": "https://www.daivik.in/products/simple-gold-finish-pearl-ad-necklace-with-earrings?variant=gid://shopify/ProductVariant/44240299622622",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_ffcd30e2-831d-4ca2-951d-c82219b43141.heic?v=1687353556"
-  },
-  "gid://shopify/ProductVariant/44243143786718": {
-    "product_title": "Simple lotus kemp anklets",
-    "variant_title": "Default Title",
-    "sku": "622",
-    "price": 899.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/a-120?variant=gid://shopify/ProductVariant/44243143786718",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_7892307f-fe93-4db6-9fb1-8d4e414ddd6a.heic?v=1687604759"
   },
   "gid://shopify/ProductVariant/44243266994398": {
     "product_title": "Antique Nagasi Pearl necklace with earrings",
@@ -5521,7 +5512,7 @@
     "variant_title": "Default Title",
     "sku": "778",
     "price": 1099.0,
-    "stock": 27,
+    "stock": 26,
     "url": "https://www.daivik.in/products/ad-changeable-simple-gold-finish-necklace-with-changeable-earrings?variant=gid://shopify/ProductVariant/44544110330078",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E41EFCFA-ECDF-419B-AFB2-2CDD4A5CD4C8.jpg?v=1700667803"
   },
@@ -12145,7 +12136,7 @@
     "variant_title": "Default Title",
     "sku": "1268",
     "price": 999.0,
-    "stock": 30,
+    "stock": 29,
     "url": "https://www.daivik.in/products/ruby-green-pendant-mesh-necklace-with-earrings?variant=gid://shopify/ProductVariant/46814149083358",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2A4A53B2-26B7-4F04-B7FD-48840E897910.jpg?v=1747925195"
   },
@@ -20200,7 +20191,7 @@
     "variant_title": "Default Title",
     "sku": "1899",
     "price": 599.0,
-    "stock": 41,
+    "stock": 40,
     "url": "https://www.daivik.in/products/ad-temple-style-lakshmi-earrings?variant=gid://shopify/ProductVariant/48292121084126",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG-0962.jpg?v=1780140382"
   },
@@ -20542,7 +20533,7 @@
     "variant_title": "Ruby",
     "sku": "1913",
     "price": 299.0,
-    "stock": 41,
+    "stock": 40,
     "url": "https://www.daivik.in/products/ad-non-piercing-nosepin-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/48341912387806",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5358.jpg?v=1781711079"
   },
@@ -24316,6 +24307,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/ad-lakshmi-vaadanam?variant=gid://shopify/ProductVariant/44242545737950",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_19eff5c4-0784-493b-860b-a92138d55f48.heic?v=1687537797"
+  },
+  "gid://shopify/ProductVariant/44243143786718": {
+    "product_title": "Simple lotus kemp anklets",
+    "variant_title": "Default Title",
+    "sku": "622",
+    "price": 899.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/a-120?variant=gid://shopify/ProductVariant/44243143786718",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_7892307f-fe93-4db6-9fb1-8d4e414ddd6a.heic?v=1687604759"
   },
   "gid://shopify/ProductVariant/44244034912478": {
     "product_title": "AD Simple gold finish necklace in 2 colours ( price for each )",
