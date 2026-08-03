@@ -84298,7 +84298,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-1345",
     "price": 9900.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/avikam-bracelet-7?variant=gid://shopify/ProductVariant/49359481635043",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1345.jpg?v=1783077057"
   },
@@ -96613,6 +96613,33 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/avikam-chain-1?variant=gid://shopify/ProductVariant/49495257940195",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2163_2.jpg?v=1785762791"
+  },
+  "gid://shopify/ProductVariant/49495266787555": {
+    "product_title": "Adriana Avikam Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2164",
+    "price": 9500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/avikam-chain-2?variant=gid://shopify/ProductVariant/49495266787555",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2164_2.jpg?v=1785763087"
+  },
+  "gid://shopify/ProductVariant/49495293526243": {
+    "product_title": "Vikshitha Avikam Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15486",
+    "price": 17400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/avikam-jhumkas-7?variant=gid://shopify/ProductVariant/49495293526243",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15486.jpg?v=1785763637"
+  },
+  "gid://shopify/ProductVariant/49495300243683": {
+    "product_title": "Raveena Avikam Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15487",
+    "price": 17600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/avikam-jhumkas-8?variant=gid://shopify/ProductVariant/49495300243683",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15487.jpg?v=1785763770"
   },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
@@ -112561,5 +112588,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/diamond-design-studs-32?variant=gid://shopify/ProductVariant/49483391533283",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15076.jpg?v=1785579280"
+  },
+  "gid://shopify/ProductVariant/49495305519331": {
+    "product_title": "Vishaka Avikam Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15488",
+    "price": 37400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/avikam-jhumkas-9?variant=gid://shopify/ProductVariant/49495305519331",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15488.jpg?v=1785763876"
   }
 }
