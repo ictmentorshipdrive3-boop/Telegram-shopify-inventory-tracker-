@@ -157,7 +157,7 @@
     "variant_title": "Default Title",
     "sku": "165",
     "price": 3999.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/165?variant=gid://shopify/ProductVariant/32849570136123",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_0044.jpg?v=1584720148"
   },
@@ -5539,7 +5539,7 @@
     "variant_title": "Default Title",
     "sku": "490",
     "price": 2499.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/changeable?variant=gid://shopify/ProductVariant/44551102529758",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1DF004A1-DB1E-4F72-97E6-50D308963DF0.heic?v=1700842120"
   },
@@ -18494,15 +18494,6 @@
     "url": "https://www.daivik.in/products/ad-flower-nosepin-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/47942757548254",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E847D47E-8B9B-40B8-8357-7DF0DAF59373.jpg?v=1772464194"
   },
-  "gid://shopify/ProductVariant/47950387085534": {
-    "product_title": "Lakshmi Pendant Beads Choker with Earrings",
-    "variant_title": "Default Title",
-    "sku": "571",
-    "price": 1299.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/lakshmi-pendant-beads-choker-with-earrings?variant=gid://shopify/ProductVariant/47950387085534",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/714FE7F9-2484-4B71-87EE-D2E7981905EC.jpg?v=1772728689"
-  },
   "gid://shopify/ProductVariant/47960555389150": {
     "product_title": "AD Pendant Droplet Necklace with Earrings in 2 Colors (Price for Each)",
     "variant_title": "Dark Green",
@@ -20596,7 +20587,7 @@
     "variant_title": "White",
     "sku": "1913",
     "price": 299.0,
-    "stock": 52,
+    "stock": 51,
     "url": "https://www.daivik.in/products/ad-non-piercing-nosepin-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/48341912453342",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5358.jpg?v=1781711079"
   },
@@ -30283,6 +30274,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/pure-kemp-manga-adigai-in-2-colours?variant=gid://shopify/ProductVariant/47948798492894",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG-3748.heic?v=1772710185"
+  },
+  "gid://shopify/ProductVariant/47950387085534": {
+    "product_title": "Lakshmi Pendant Beads Choker with Earrings",
+    "variant_title": "Default Title",
+    "sku": "571",
+    "price": 1299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/lakshmi-pendant-beads-choker-with-earrings?variant=gid://shopify/ProductVariant/47950387085534",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/714FE7F9-2484-4B71-87EE-D2E7981905EC.jpg?v=1772728689"
   },
   "gid://shopify/ProductVariant/47960555421918": {
     "product_title": "AD Pendant Droplet Necklace with Earrings in 2 Colors (Price for Each)",
