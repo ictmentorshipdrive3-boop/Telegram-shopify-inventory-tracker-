@@ -4936,7 +4936,7 @@
     "variant_title": "Default Title",
     "sku": "MT33",
     "price": 1260.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-maang-tika-26?variant=gid://shopify/ProductVariant/48249343672620",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1200_9_1.jpg?v=1711011592"
   },
@@ -9467,15 +9467,6 @@
     "url": "https://www.kanshijewels.com/products/mossanite-tika-4?variant=gid://shopify/ProductVariant/52445287153964",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadautika1700.jpg?v=1766140980"
   },
-  "gid://shopify/ProductVariant/52445287973164": {
-    "product_title": "Jadau tika",
-    "variant_title": "Default Title",
-    "sku": "MT11",
-    "price": 810.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/emerald-sleek-necklace-earring-set-copy?variant=gid://shopify/ProductVariant/52445287973164",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadautika810.jpg?v=1766141052"
-  },
   "gid://shopify/ProductVariant/52445288104236": {
     "product_title": "Kundan tika",
     "variant_title": "Default Title",
@@ -9499,7 +9490,7 @@
     "variant_title": "Default Title",
     "sku": "MT07",
     "price": 1300.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.kanshijewels.com/products/jadau-tika-1?variant=gid://shopify/ProductVariant/52445296492844",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadautika1300.jpg?v=1766141367"
   },
@@ -13624,6 +13615,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/mossanite-tika-3?variant=gid://shopify/ProductVariant/52445285777708",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_3125.jpg?v=1766140914"
+  },
+  "gid://shopify/ProductVariant/52445287973164": {
+    "product_title": "Jadau tika",
+    "variant_title": "Default Title",
+    "sku": "MT11",
+    "price": 810.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/emerald-sleek-necklace-earring-set-copy?variant=gid://shopify/ProductVariant/52445287973164",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadautika810.jpg?v=1766141052"
   },
   "gid://shopify/ProductVariant/52445293740332": {
     "product_title": "Jadau tika",
