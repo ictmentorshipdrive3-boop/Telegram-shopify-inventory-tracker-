@@ -7051,7 +7051,7 @@
     "variant_title": "2.7",
     "sku": "R15001",
     "price": 32100.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/shree-trayi-bangles?variant=gid://shopify/ProductVariant/52263601865001",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_79_Pics_15Oct2234_resized.jpg?v=1761553591"
   },
@@ -7060,7 +7060,7 @@
     "variant_title": "2.6",
     "sku": "R15001",
     "price": 32100.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/shree-trayi-bangles?variant=gid://shopify/ProductVariant/52263736410409",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_79_Pics_15Oct2234_resized.jpg?v=1761553591"
   },
@@ -20436,7 +20436,7 @@
     "price": 6300.0,
     "stock": 1,
     "url": "https://www.rasasilver.com/products/zariya-bracelet?variant=gid://shopify/ProductVariant/53125066981673",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11892_resized.jpg?v=1780990780"
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11892_resized_7f412b8e-dc44-4789-920c-cf65d2aebeab.jpg?v=1785757738"
   },
   "gid://shopify/ProductVariant/53125154210089": {
     "product_title": "Rectra Luxe Bracelet",
@@ -48274,5 +48274,23 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/charita-temple-necklace-set?variant=gid://shopify/ProductVariant/53399092494633",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-08-03at4.44.05PM.jpg?v=1785756430"
+  },
+  "gid://shopify/ProductVariant/53399096951081": {
+    "product_title": "Venkatesa Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R31221",
+    "price": 23400.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/sharvika-temple-necklace?variant=gid://shopify/ProductVariant/53399096951081",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-08-03at5.01.09PM.jpg?v=1785757273"
+  },
+  "gid://shopify/ProductVariant/53399103734057": {
+    "product_title": "Aaradhya Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R31228",
+    "price": 34300.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/aaradhya-temple-necklace?variant=gid://shopify/ProductVariant/53399103734057",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-08-03at5.01.09PM_1.jpg?v=1785757932"
   }
 }
