@@ -5795,15 +5795,6 @@
     "url": "https://www.dulhanjewels.com/products/radiant-jadau-kundan-floral-necklace-with-green-hangings?variant=gid://shopify/ProductVariant/51272104575282",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/1CEA1EDA-0EC0-47EF-BAE6-2B3FF02CAB8A.jpg?v=1780916079"
   },
-  "gid://shopify/ProductVariant/51272106279218": {
-    "product_title": "Designer Jadau Kundan Choker With Pearl Hangings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 3150.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/designer-jadau-kundan-choker-with-pearl-hangings?variant=gid://shopify/ProductVariant/51272106279218",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6187952571436175643.jpg?v=1782299020"
-  },
   "gid://shopify/ProductVariant/51272106672434": {
     "product_title": "Temple Style Jadau Kundan Choker With Lakshmi Devi Motif And Green Beads",
     "variant_title": "Default Title",
@@ -7009,15 +7000,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/regal-jadau-kundan-jhumki-with-ricepearl-hangings?variant=gid://shopify/ProductVariant/51522371911986",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9606.jpg?v=1785495660"
-  },
-  "gid://shopify/ProductVariant/51522376237362": {
-    "product_title": "Chand Studded Jadau Kundan Chandbali Earrings With Emerald Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1600.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/chand-studded-jadau-kundan-chandbali-earrings-with-emerald-drops?variant=gid://shopify/ProductVariant/51522376237362",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9609.jpg?v=1785496945"
   },
   "gid://shopify/ProductVariant/51522377482546": {
     "product_title": "Jadau Kundan Stud Earrings With Pearl Bordering",
@@ -8729,6 +8711,15 @@
     "url": "https://www.dulhanjewels.com/products/floral-design-jadau-kundan-stud-earrings-with-pearl-bordering-1?variant=gid://shopify/ProductVariant/51269608669490",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FC00D4EF-F059-4408-A6F0-1F5D0590751B.jpg?v=1781080866"
   },
+  "gid://shopify/ProductVariant/51272106279218": {
+    "product_title": "Designer Jadau Kundan Choker With Pearl Hangings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 3150.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/designer-jadau-kundan-choker-with-pearl-hangings?variant=gid://shopify/ProductVariant/51272106279218",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6187952571436175643.jpg?v=1782299020"
+  },
   "gid://shopify/ProductVariant/51272108245298": {
     "product_title": "Designer Peacock Pendant With Green Stone Drops",
     "variant_title": "Default Title",
@@ -8953,5 +8944,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/ethnic-jadau-kundan-jhumki-earrings-with-green-hangings?variant=gid://shopify/ProductVariant/51522359329074",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9604.jpg?v=1785495660"
+  },
+  "gid://shopify/ProductVariant/51522376237362": {
+    "product_title": "Chand Studded Jadau Kundan Chandbali Earrings With Emerald Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1600.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/chand-studded-jadau-kundan-chandbali-earrings-with-emerald-drops?variant=gid://shopify/ProductVariant/51522376237362",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9609.jpg?v=1785496945"
   }
 }
