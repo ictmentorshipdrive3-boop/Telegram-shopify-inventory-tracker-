@@ -6529,7 +6529,7 @@
     "variant_title": "Default Title",
     "sku": "R12905",
     "price": 1800.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/eterni-link-bracelet?variant=gid://shopify/ProductVariant/51345272832297",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS465.jpg?v=1760419064"
   },
@@ -11371,7 +11371,7 @@
     "variant_title": "Default Title",
     "sku": "R20945",
     "price": 111000.0,
-    "stock": 7,
+    "stock": 8,
     "url": "https://www.rasasilver.com/products/gajessa-pallais-necklace-set?variant=gid://shopify/ProductVariant/52279411081513",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_16Dec36210.jpg?v=1766137579"
   },
@@ -12181,7 +12181,7 @@
     "variant_title": "Default Title",
     "sku": "R22250",
     "price": 59900.0,
-    "stock": 4,
+    "stock": 5,
     "url": "https://www.rasasilver.com/products/cz-necklace-set-3?variant=gid://shopify/ProductVariant/52390351110441",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0200_copy_resized.jpg?v=1767685445"
   },
@@ -16468,6 +16468,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/kundan-necklace?variant=gid://shopify/ProductVariant/52741751439657",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5353_resized.jpg?v=1772534171"
+  },
+  "gid://shopify/ProductVariant/52741786370345": {
+    "product_title": "Morika Rani Kundan Necklace",
+    "variant_title": "Default Title",
+    "sku": "R25856",
+    "price": 97750.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/kundan-necklace-2?variant=gid://shopify/ProductVariant/52741786370345",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5346_resized.jpg?v=1772535914"
   },
   "gid://shopify/ProductVariant/52741814944041": {
     "product_title": "Pushpavan Kundan Tikka",
@@ -43864,15 +43873,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/kundan-necklace-1?variant=gid://shopify/ProductVariant/52741761401129",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5343.jpg?v=1772535838"
-  },
-  "gid://shopify/ProductVariant/52741786370345": {
-    "product_title": "Morika Rani Kundan Necklace",
-    "variant_title": "Default Title",
-    "sku": "R25856",
-    "price": 97750.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/kundan-necklace-2?variant=gid://shopify/ProductVariant/52741786370345",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5346_resized.jpg?v=1772535914"
   },
   "gid://shopify/ProductVariant/52741891621161": {
     "product_title": "Pushpalika Kundan Tikka",
