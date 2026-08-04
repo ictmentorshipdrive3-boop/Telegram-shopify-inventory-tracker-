@@ -29020,7 +29020,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-1413",
     "price": 3600.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/manusha-stone-ring?variant=gid://shopify/ProductVariant/47008980009187",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1413_f5559414-0b23-4154-9078-f008e008ab7d.jpg?v=1765882245"
   },
@@ -75338,15 +75338,6 @@
     "url": "https://www.theamethyststore.com/products/kiara-surya-chandra-jada-billa?variant=gid://shopify/ProductVariant/49404083011811",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0806_5.jpg?v=1779281698"
   },
-  "gid://shopify/ProductVariant/48993981530339": {
-    "product_title": "Dhanvanthi Kundan Pendant",
-    "variant_title": "Only Pendant",
-    "sku": "AMS-104-4131",
-    "price": 9400.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kundan-pendant-27?variant=gid://shopify/ProductVariant/48993981530339",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4131.jpg?v=1779281953"
-  },
   "gid://shopify/ProductVariant/48993983561955": {
     "product_title": "Niharikha Kundan Pendant",
     "variant_title": "Only Pendant",
@@ -109970,6 +109961,15 @@
     "url": "https://www.theamethyststore.com/products/beads-chain-4?variant=gid://shopify/ProductVariant/48921947570403",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1944.jpg?v=1778229674"
   },
+  "gid://shopify/ProductVariant/48922680361187": {
+    "product_title": "Classy Nagas Choker",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15595",
+    "price": 56200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/classy-nagas-choker?variant=gid://shopify/ProductVariant/48922680361187",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15595_d32a717f-851b-43b5-bf5f-9fb99af91a82.jpg?v=1778911220"
+  },
   "gid://shopify/ProductVariant/48922869399779": {
     "product_title": "Priyanka Nagas Short Necklace",
     "variant_title": "Default Title",
@@ -110779,6 +110779,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/aaru-nagas-long-necklace?variant=gid://shopify/ProductVariant/48993849311459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15706.jpg?v=1779278588"
+  },
+  "gid://shopify/ProductVariant/48993981530339": {
+    "product_title": "Dhanvanthi Kundan Pendant",
+    "variant_title": "Only Pendant",
+    "sku": "AMS-104-4131",
+    "price": 9400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-27?variant=gid://shopify/ProductVariant/48993981530339",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4131.jpg?v=1779281953"
   },
   "gid://shopify/ProductVariant/48994027241699": {
     "product_title": "Green Unique Kundan Studs",
@@ -113254,6 +113263,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/glitz-hasli-with-pendant-set?variant=gid://shopify/ProductVariant/49396637728995",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16601.jpg?v=1783842843"
+  },
+  "gid://shopify/ProductVariant/49396912783587": {
+    "product_title": "Catherine Hasli Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16565",
+    "price": 5400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/hasli-necklace-100?variant=gid://shopify/ProductVariant/49396912783587",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16565.jpg?v=1783853267"
   },
   "gid://shopify/ProductVariant/49396916224227": {
     "product_title": "Flawless Layered Hasli Necklace",
