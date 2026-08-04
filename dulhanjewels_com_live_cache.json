@@ -5197,7 +5197,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 1350.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.dulhanjewels.com/products/classic-kundan-pearl-stud-earrings-with-floral-design?variant=gid://shopify/ProductVariant/51132043821362",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/8C815D58-6459-4C5A-89C6-C61519A3E6BD.jpg?v=1780664715"
   },
@@ -7109,15 +7109,6 @@
     "url": "https://www.dulhanjewels.com/products/fresh-water-pearls-mala-with-matching-earrings?variant=gid://shopify/ProductVariant/51521743388978",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/1A0836C8-E537-4D60-8266-D2F465579666.jpg?v=1785579693"
   },
-  "gid://shopify/ProductVariant/51521743356210": {
-    "product_title": "Fresh Water Pearls Mala With Matching Earrings",
-    "variant_title": "Red",
-    "sku": null,
-    "price": 3150.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/fresh-water-pearls-mala-with-matching-earrings?variant=gid://shopify/ProductVariant/51521743356210",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/1A0836C8-E537-4D60-8266-D2F465579666.jpg?v=1785579693"
-  },
   "gid://shopify/ProductVariant/51521772945714": {
     "product_title": "Unique Jadau Kundan Kanti Necklace With Green Drops",
     "variant_title": "Default Title",
@@ -7293,7 +7284,7 @@
     "product_title": "Stylish Victorian Choker With Matching Earrings",
     "variant_title": "Default Title",
     "sku": null,
-    "price": 4500.0,
+    "price": 2850.0,
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/stylish-victorian-choker-with-matching-earrings?variant=gid://shopify/ProductVariant/51539495977266",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/D304EB96-7568-489B-A26A-CC653E87EF46.jpg?v=1785841750"
@@ -7369,6 +7360,24 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/floral-design-jadau-kundan-locket-with-emerald-green-beads?variant=gid://shopify/ProductVariant/51539625804082",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9775.jpg?v=1785843827"
+  },
+  "gid://shopify/ProductVariant/51539697566002": {
+    "product_title": "Minimal Design Jadau Kundan Necklace With Pendant",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 4400.0,
+    "stock": 1,
+    "url": "https://www.dulhanjewels.com/products/minimal-design-jadau-kundan-necklace-with-pendant?variant=gid://shopify/ProductVariant/51539697566002",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/2E524BDE-475E-496E-958D-09A87324683B.jpg?v=1785844028"
+  },
+  "gid://shopify/ProductVariant/51539845906738": {
+    "product_title": "Regal Jadau Kundan Beads Choker With Green Hangings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2300.0,
+    "stock": 1,
+    "url": "https://www.dulhanjewels.com/products/regal-jadau-kundan-beads-choker-with-green-hangings?variant=gid://shopify/ProductVariant/51539845906738",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9781.jpg?v=1785843747"
   },
   "gid://shopify/ProductVariant/46748694446386": {
     "product_title": "Elegant Jadau Long Pearl Mala",
@@ -8872,5 +8881,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/grand-jadau-kundan-long-necklace-set-with-pendant?variant=gid://shopify/ProductVariant/51538774294834",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/593E2A95-F0D1-49A4-83ED-3E3393F89B05.jpg?v=1785319369"
+  },
+  "gid://shopify/ProductVariant/51521743356210": {
+    "product_title": "Fresh Water Pearls Mala With Matching Earrings",
+    "variant_title": "Red",
+    "sku": null,
+    "price": 3150.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/fresh-water-pearls-mala-with-matching-earrings?variant=gid://shopify/ProductVariant/51521743356210",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/1A0836C8-E537-4D60-8266-D2F465579666.jpg?v=1785579693"
   }
 }
