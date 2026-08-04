@@ -13540,7 +13540,7 @@
     "variant_title": "Default Title",
     "sku": "696",
     "price": 2799.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/kemp-pearl-ruby-green-necklace?variant=gid://shopify/ProductVariant/47470276247774",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A2B8EDAB-97EA-47E1-8E16-0EF8008A90B3.jpg?v=1756226468"
   },
@@ -18490,7 +18490,7 @@
     "variant_title": "Default Title",
     "sku": "1363",
     "price": 799.0,
-    "stock": 21,
+    "stock": 20,
     "url": "https://www.daivik.in/products/affordable-meenakari-lotus-lakshmi-long-beaded-chain-with-earrings?variant=gid://shopify/ProductVariant/47961521783006",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8348.heic?v=1772955930"
   },
@@ -18877,7 +18877,7 @@
     "variant_title": "Default Title",
     "sku": "1847",
     "price": 799.0,
-    "stock": 32,
+    "stock": 31,
     "url": "https://www.daivik.in/products/heritage-gopuram-lakshmi-temple-jhumkas?variant=gid://shopify/ProductVariant/48051286900958",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/98CE102F-8E2B-4E36-8E9B-1390AD196432.jpg?v=1775021643"
   },
@@ -19573,15 +19573,6 @@
     "stock": 17,
     "url": "https://www.daivik.in/products/diamond-look-alike-premium-bangles?variant=gid://shopify/ProductVariant/48133236162782",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C195944A-41A3-469F-BB82-1E08A4EE8168.jpg?v=1776493902"
-  },
-  "gid://shopify/ProductVariant/48128940441822": {
-    "product_title": "Heritage Watch Bracelet",
-    "variant_title": "Default Title",
-    "sku": "4020",
-    "price": 3999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/heritage-watch-bracelet-1?variant=gid://shopify/ProductVariant/48128940441822",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5105.jpg?v=1776594364"
   },
   "gid://shopify/ProductVariant/48128940474590": {
     "product_title": "Heritage Watch Bracelet",
@@ -30544,6 +30535,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/heritage-watch-bracelet?variant=gid://shopify/ProductVariant/48128940409054",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5103.jpg?v=1776594364"
+  },
+  "gid://shopify/ProductVariant/48128940441822": {
+    "product_title": "Heritage Watch Bracelet",
+    "variant_title": "Default Title",
+    "sku": "4020",
+    "price": 3999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/heritage-watch-bracelet-1?variant=gid://shopify/ProductVariant/48128940441822",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5105.jpg?v=1776594364"
   },
   "gid://shopify/ProductVariant/48128940605662": {
     "product_title": "Heritage Pearl Watch Bracelet",
