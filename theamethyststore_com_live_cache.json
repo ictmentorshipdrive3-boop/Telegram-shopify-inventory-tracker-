@@ -40796,15 +40796,6 @@
     "url": "https://www.theamethyststore.com/products/facinate-cufflinks?variant=gid://shopify/ProductVariant/47238621495523",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-120-0064.jpg?v=1759645172"
   },
-  "gid://shopify/ProductVariant/47238642893027": {
-    "product_title": "Dazzle Cufflinks",
-    "variant_title": "Default Title",
-    "sku": "AMS-120-0068",
-    "price": 9152.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/dazzle-cufflinks-1?variant=gid://shopify/ProductVariant/47238642893027",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-120-0068.jpg?v=1759645404"
-  },
   "gid://shopify/ProductVariant/47238648824035": {
     "product_title": "Shine Cufflinks",
     "variant_title": "Default Title",
@@ -42268,7 +42259,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-120-0144",
     "price": 8624.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/trendy-cufflinks-2?variant=gid://shopify/ProductVariant/47262547509475",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-120-0144.jpg?v=1759932377"
   },
@@ -72521,15 +72512,6 @@
     "url": "https://www.theamethyststore.com/products/sheshikha-kundan-short-necklace?variant=gid://shopify/ProductVariant/48923595210979",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15686.jpg?v=1778246343"
   },
-  "gid://shopify/ProductVariant/48923652751587": {
-    "product_title": "Divine Look Nagas Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15702",
-    "price": 122620.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/divine-look-nagas-long-necklace?variant=gid://shopify/ProductVariant/48923652751587",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15702.jpg?v=1778250638"
-  },
   "gid://shopify/ProductVariant/48923658223843": {
     "product_title": "Gorgeous Kundan Bracelet",
     "variant_title": "Default Title",
@@ -74815,15 +74797,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/enhanced-3d-spl-short-necklace?variant=gid://shopify/ProductVariant/48974655619299",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15821.jpg?v=1779023537"
-  },
-  "gid://shopify/ProductVariant/48974759035107": {
-    "product_title": "Lakshmi 3D Spl Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15809",
-    "price": 13024.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/3d-spl-short-necklace-18?variant=gid://shopify/ProductVariant/48974759035107",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15809.jpg?v=1779023892"
   },
   "gid://shopify/ProductVariant/48974801535203": {
     "product_title": "Varshikaa 3D Spl Short Necklace",
@@ -90274,7 +90247,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17045",
     "price": 42700.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/luxurious-avikam-necklace-set?variant=gid://shopify/ProductVariant/49421418823907",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17045.jpg?v=1784295458"
   },
@@ -96982,6 +96955,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/avikam-pendant-set-27?variant=gid://shopify/ProductVariant/49497314787555",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4794.jpg?v=1785830792"
+  },
+  "gid://shopify/ProductVariant/49497698828515": {
+    "product_title": "Alluring Diamond Design Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4821",
+    "price": 5200.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/alluring-diamond-design-pendant?variant=gid://shopify/ProductVariant/49497698828515",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4821.jpg?v=1785837515"
   },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
@@ -104255,6 +104237,15 @@
     "url": "https://www.theamethyststore.com/products/royal-edge-cufflinks?variant=gid://shopify/ProductVariant/47238536298723",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-120-0054.jpg?v=1759643552"
   },
+  "gid://shopify/ProductVariant/47238642893027": {
+    "product_title": "Dazzle Cufflinks",
+    "variant_title": "Default Title",
+    "sku": "AMS-120-0068",
+    "price": 9152.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/dazzle-cufflinks-1?variant=gid://shopify/ProductVariant/47238642893027",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-120-0068.jpg?v=1759645404"
+  },
   "gid://shopify/ProductVariant/47238670811363": {
     "product_title": "Sharika Nagas Long Necklace Set",
     "variant_title": "Default Title",
@@ -109826,6 +109817,15 @@
     "url": "https://www.theamethyststore.com/products/luxurious-nagas-long-necklace-5?variant=gid://shopify/ProductVariant/48923648688355",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15715.jpg?v=1778250368"
   },
+  "gid://shopify/ProductVariant/48923652751587": {
+    "product_title": "Divine Look Nagas Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15702",
+    "price": 122620.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/divine-look-nagas-long-necklace?variant=gid://shopify/ProductVariant/48923652751587",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15702.jpg?v=1778250638"
+  },
   "gid://shopify/ProductVariant/48926917230819": {
     "product_title": "Dazzlina Nagas Long Necklace",
     "variant_title": "Default Title",
@@ -110365,6 +110365,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/elegant-nagas-short-necklace-5?variant=gid://shopify/ProductVariant/48971134107875",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15586.jpg?v=1778999484"
+  },
+  "gid://shopify/ProductVariant/48974759035107": {
+    "product_title": "Lakshmi 3D Spl Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15809",
+    "price": 13024.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/3d-spl-short-necklace-18?variant=gid://shopify/ProductVariant/48974759035107",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15809.jpg?v=1779023892"
   },
   "gid://shopify/ProductVariant/48975045755107": {
     "product_title": "Divine Look 3D Spl Short Necklace",
