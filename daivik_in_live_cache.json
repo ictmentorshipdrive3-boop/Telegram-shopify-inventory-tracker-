@@ -2218,7 +2218,7 @@
     "variant_title": "2.4",
     "sku": "261",
     "price": 1299.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.daivik.in/products/floral-white-bangles-pair?variant=gid://shopify/ProductVariant/42610431656158",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_ae4c3727-113e-49d7-8aa5-109ff6383b4d.heic?v=1648305961"
   },
@@ -13184,15 +13184,6 @@
     "url": "https://www.daivik.in/products/anti-tarnish-3?variant=gid://shopify/ProductVariant/47184515268830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E3B7A466-39CD-4AF4-BB7A-B6A6488D4758.jpg?v=1754046539"
   },
-  "gid://shopify/ProductVariant/47250092556510": {
-    "product_title": "GJ Polish Designer Bracelets in 4 Styles (Price for Each)",
-    "variant_title": "2",
-    "sku": "1640",
-    "price": 1299.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/gj-polish-designer-bracelets-in-4-styles-price-for-each?variant=gid://shopify/ProductVariant/47250092556510",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/rn-image_picker_lib_temp_6e33c8fe-225e-4977-b36d-fc216681cc3f.jpg?v=1754199535"
-  },
   "gid://shopify/ProductVariant/47250092589278": {
     "product_title": "GJ Polish Designer Bracelets in 4 Styles (Price for Each)",
     "variant_title": "3",
@@ -19790,15 +19781,6 @@
     "url": "https://www.daivik.in/products/classic-guttapusalu-cluster-pearl-choker-with-balis?variant=gid://shopify/ProductVariant/48161484210398",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5EC564A7-6A67-484A-80CD-1301E50EEF41.jpg?v=1777201549"
   },
-  "gid://shopify/ProductVariant/48161484308702": {
-    "product_title": "Antique kemp Flower Mesh Bracelet/Kada",
-    "variant_title": "2.4",
-    "sku": "1875",
-    "price": 999.0,
-    "stock": 2,
-    "url": "https://www.daivik.in/products/flexible-kemp-bracelet-kada?variant=gid://shopify/ProductVariant/48161484308702",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AEC07799-A217-4FFB-B965-15CD646D771B.jpg?v=1777201610"
-  },
   "gid://shopify/ProductVariant/48161484341470": {
     "product_title": "Antique kemp Flower Mesh Bracelet/Kada",
     "variant_title": "2.6",
@@ -20731,7 +20713,7 @@
     "variant_title": "Default Title",
     "sku": "1397",
     "price": 1499.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/e-2?variant=gid://shopify/ProductVariant/48353947943134",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9224D361-32D9-413E-9459-3CDD5BCDCFE9.jpg?v=1782062295"
   },
@@ -28331,6 +28313,15 @@
     "url": "https://www.daivik.in/products/gj-polish-designer-bracelets-in-4-styles-price-for-each?variant=gid://shopify/ProductVariant/47250092523742",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/rn-image_picker_lib_temp_6e33c8fe-225e-4977-b36d-fc216681cc3f.jpg?v=1754199535"
   },
+  "gid://shopify/ProductVariant/47250092556510": {
+    "product_title": "GJ Polish Designer Bracelets in 4 Styles (Price for Each)",
+    "variant_title": "2",
+    "sku": "1640",
+    "price": 1299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/gj-polish-designer-bracelets-in-4-styles-price-for-each?variant=gid://shopify/ProductVariant/47250092556510",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/rn-image_picker_lib_temp_6e33c8fe-225e-4977-b36d-fc216681cc3f.jpg?v=1754199535"
+  },
   "gid://shopify/ProductVariant/47392254066910": {
     "product_title": "Kids Antique Jhumkas",
     "variant_title": "Default Title",
@@ -30661,6 +30652,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/manga-kemp-bridal-combo?variant=gid://shopify/ProductVariant/48135850721502",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A4B79477-1E05-489D-BF83-848ADAF50502.jpg?v=1776786791"
+  },
+  "gid://shopify/ProductVariant/48161484308702": {
+    "product_title": "Antique kemp Flower Mesh Bracelet/Kada",
+    "variant_title": "2.4",
+    "sku": "1875",
+    "price": 999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/flexible-kemp-bracelet-kada?variant=gid://shopify/ProductVariant/48161484308702",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AEC07799-A217-4FFB-B965-15CD646D771B.jpg?v=1777201610"
   },
   "gid://shopify/ProductVariant/48226422161630": {
     "product_title": "Antique Flower Petals Kumkum Box",
