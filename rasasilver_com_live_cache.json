@@ -827,15 +827,6 @@
     "url": "https://www.rasasilver.com/products/saubhagya-lakshmi-pendant?variant=gid://shopify/ProductVariant/50108983607593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP08110_copy.jpg?v=1744463196"
   },
-  "gid://shopify/ProductVariant/50133672263977": {
-    "product_title": "Vishwa Ratna Earrings",
-    "variant_title": "Default Title",
-    "sku": "R22412",
-    "price": 7200.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/vishwa-ratna-earrings?variant=gid://shopify/ProductVariant/50133672263977",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1_2_4022f6bd-85c0-4d26-a575-de9bab2ba3ee.jpg?v=1743665704"
-  },
   "gid://shopify/ProductVariant/50134047654185": {
     "product_title": "Krishna\u2019s Leaf Earrings",
     "variant_title": "Default Title",
@@ -22630,7 +22621,7 @@
     "variant_title": "Default Title",
     "sku": "R31537",
     "price": 2200.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/twin-radiance-studs?variant=gid://shopify/ProductVariant/53288426537257",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5574_resized.jpg?v=1782373482"
   },
@@ -24730,6 +24721,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/raghukul-ratnaraj-studs?variant=gid://shopify/ProductVariant/50869189083433",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R2230.jpg?v=1751348656"
+  },
+  "gid://shopify/ProductVariant/50133672263977": {
+    "product_title": "Vishwa Ratna Earrings",
+    "variant_title": "Default Title",
+    "sku": "R22412",
+    "price": 7200.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/vishwa-ratna-earrings?variant=gid://shopify/ProductVariant/50133672263977",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1_2_4022f6bd-85c0-4d26-a575-de9bab2ba3ee.jpg?v=1743665704"
   },
   "gid://shopify/ProductVariant/50152357069097": {
     "product_title": "Saanjh Shringaar Necklace",
