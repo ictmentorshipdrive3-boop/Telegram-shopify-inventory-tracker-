@@ -5881,7 +5881,7 @@
     "variant_title": "Green",
     "sku": "327",
     "price": 649.0,
-    "stock": 26,
+    "stock": 25,
     "url": "https://www.daivik.in/products/simple-pearl-kemp-choker-with-earrings-in-2-variants?variant=gid://shopify/ProductVariant/44661107065054",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8967991B-4D20-4170-AFF8-73015A1DAB87.jpg?v=1704974070"
   },
@@ -30789,12 +30789,57 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_03492.jpg?v=1785257794"
   },
   "gid://shopify/ProductVariant/48547692445918": {
-    "product_title": "Heritage Watch Bracelet",
+    "product_title": "Heritage Ruby Green Watch Bracelet",
     "variant_title": "Default Title",
-    "sku": "4036",
-    "price": 1699.0,
+    "sku": "4038",
+    "price": 4499.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/heritage-watch-bracelet-11?variant=gid://shopify/ProductVariant/48547692445918",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5636.jpg?v=1785852956"
+  },
+  "gid://shopify/ProductVariant/48547695657182": {
+    "product_title": "Heritage Elephant Style Watch Bracelet",
+    "variant_title": "Default Title",
+    "sku": "4039",
+    "price": 1799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/heritage-watch-bracelet-12?variant=gid://shopify/ProductVariant/48547695657182",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5640.jpg?v=1785853177"
+  },
+  "gid://shopify/ProductVariant/48547771056350": {
+    "product_title": "Heritage Flower Style Watch Bracelet",
+    "variant_title": "Default Title",
+    "sku": "4040",
+    "price": 2199.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/heritage-elephant-style-watch-bracelet?variant=gid://shopify/ProductVariant/48547771056350",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5642.jpg?v=1785853317"
+  },
+  "gid://shopify/ProductVariant/48547817455838": {
+    "product_title": "Heritage Ruby Flower Watch Bracelet",
+    "variant_title": "Default Title",
+    "sku": "4041",
+    "price": 2399.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/heritage-flower-style-watch-bracelet?variant=gid://shopify/ProductVariant/48547817455838",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5644.jpg?v=1785853415"
+  },
+  "gid://shopify/ProductVariant/48547818143966": {
+    "product_title": "Heritage Watch Bracelet",
+    "variant_title": "Default Title",
+    "sku": "4042",
+    "price": 1599.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/heritage-ruby-flower-watch-bracelet?variant=gid://shopify/ProductVariant/48547818143966",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5646.jpg?v=1785853512"
+  },
+  "gid://shopify/ProductVariant/48547818537182": {
+    "product_title": "Heritage Watch Bracelet",
+    "variant_title": "Default Title",
+    "sku": "4042",
+    "price": 1599.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/heritage-watch-bracelet-13?variant=gid://shopify/ProductVariant/48547818537182",
     "image_url": null
   }
 }
