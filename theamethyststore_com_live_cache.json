@@ -18130,7 +18130,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-112-0432",
     "price": 7550.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/sithika-jada-billa?variant=gid://shopify/ProductVariant/46181226807523",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0432.jpg?v=1743071648"
   },
@@ -20767,7 +20767,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-9294",
     "price": 74600.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/amazing-avikam-necklace?variant=gid://shopify/ProductVariant/46413740015843",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9294_0758b4e8-fad5-4871-b95d-7e6232658fbf.jpg?v=1784282233"
   },
@@ -31765,7 +31765,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-1842",
     "price": 17199.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/divyara-nagas-tikka?variant=gid://shopify/ProductVariant/47059080118499",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1842.jpg?v=1756018270"
   },
@@ -59066,15 +59066,6 @@
     "url": "https://www.theamethyststore.com/products/navisha-bugadi-earrings?variant=gid://shopify/ProductVariant/48003883073763",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12897.jpg?v=1770377841"
   },
-  "gid://shopify/ProductVariant/48005541495011": {
-    "product_title": "Facinate Bugadi Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-12903",
-    "price": 4790.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/facinate-bugadi-earrings?variant=gid://shopify/ProductVariant/48005541495011",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12903.jpg?v=1770379499"
-  },
   "gid://shopify/ProductVariant/48005612929251": {
     "product_title": "Akshara Kundan Long Necklace",
     "variant_title": "Default Title",
@@ -66851,15 +66842,6 @@
     "url": "https://www.theamethyststore.com/products/aarvika-avikam-long-necklace-set?variant=gid://shopify/ProductVariant/48634995376355",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15279.jpg?v=1775196766"
   },
-  "gid://shopify/ProductVariant/48634999734499": {
-    "product_title": "Nivya Avikam Long Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15281",
-    "price": 69300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nivya-avikam-long-necklace-set?variant=gid://shopify/ProductVariant/48634999734499",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15281.jpg?v=1775197063"
-  },
   "gid://shopify/ProductVariant/48635032371427": {
     "product_title": "Little Cute Studs",
     "variant_title": "Default Title",
@@ -71197,15 +71179,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/riyanaa-needle-ear-cuffs?variant=gid://shopify/ProductVariant/48909049299171",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13640.jpg?v=1777902863"
-  },
-  "gid://shopify/ProductVariant/48909068927203": {
-    "product_title": "Yaanvika Needle Ear cuffs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-13639",
-    "price": 6000.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/yaanvika-needle-ear-cuffs?variant=gid://shopify/ProductVariant/48909068927203",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13639.jpg?v=1777903082"
   },
   "gid://shopify/ProductVariant/48909108084963": {
     "product_title": "Mishka Needle Ear cuffs",
@@ -97208,6 +97181,24 @@
     "url": "https://www.theamethyststore.com/products/jada-billa-9?variant=gid://shopify/ProductVariant/49498524319971",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0887_2.jpg?v=1785847202"
   },
+  "gid://shopify/ProductVariant/49498581434595": {
+    "product_title": "Pretty Look Jada Billa",
+    "variant_title": "Suryan",
+    "sku": "AMS-112-0888-SURAJ",
+    "price": 8800.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/jada-billa-10?variant=gid://shopify/ProductVariant/49498581434595",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0888_2.jpg?v=1785847960"
+  },
+  "gid://shopify/ProductVariant/49498581467363": {
+    "product_title": "Pretty Look Jada Billa",
+    "variant_title": "Chandran",
+    "sku": "AMS-112-0888-CHAAND",
+    "price": 7950.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/jada-billa-10?variant=gid://shopify/ProductVariant/49498581467363",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0888_2.jpg?v=1785847960"
+  },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
     "variant_title": "Default Title",
@@ -108800,6 +108791,15 @@
     "url": "https://www.theamethyststore.com/products/hook-earrings-5?variant=gid://shopify/ProductVariant/48632462704867",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13252.png?v=1775136974"
   },
+  "gid://shopify/ProductVariant/48634999734499": {
+    "product_title": "Nivya Avikam Long Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15281",
+    "price": 69300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nivya-avikam-long-necklace-set?variant=gid://shopify/ProductVariant/48634999734499",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15281.jpg?v=1775197063"
+  },
   "gid://shopify/ProductVariant/48635034534115": {
     "product_title": "Mysha Studs",
     "variant_title": "Default Title",
@@ -109798,6 +109798,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/riyanaa-stone-short-necklace-1?variant=gid://shopify/ProductVariant/48909012041955",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15657.jpg?v=1777899960"
+  },
+  "gid://shopify/ProductVariant/48909068927203": {
+    "product_title": "Yaanvika Needle Ear cuffs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-13639",
+    "price": 6000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/yaanvika-needle-ear-cuffs?variant=gid://shopify/ProductVariant/48909068927203",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13639.jpg?v=1777903082"
   },
   "gid://shopify/ProductVariant/48909199507683": {
     "product_title": "Trinaya Stone Pair Bangle",
