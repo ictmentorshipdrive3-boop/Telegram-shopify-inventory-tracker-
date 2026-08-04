@@ -3662,15 +3662,6 @@
     "url": "https://www.theamethyststore.com/products/coral-stone-studs?variant=gid://shopify/ProductVariant/43640170119395",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3843-_1.jpg?v=1687274540"
   },
-  "gid://shopify/ProductVariant/43640170512611": {
-    "product_title": "Faiza Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-3848",
-    "price": 4984.2,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/faiza-stone-studs?variant=gid://shopify/ProductVariant/43640170512611",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3848-_1.jpg?v=1673094157"
-  },
   "gid://shopify/ProductVariant/43640178901219": {
     "product_title": "Suhani Stone Choker",
     "variant_title": "Default Title",
@@ -73637,15 +73628,6 @@
     "url": "https://www.theamethyststore.com/products/hook-earrings-9?variant=gid://shopify/ProductVariant/48936557412579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13987.jpg?v=1778567701"
   },
-  "gid://shopify/ProductVariant/48936846852323": {
-    "product_title": "Arivana Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15717",
-    "price": 22264.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/arivana-short-necklace-set?variant=gid://shopify/ProductVariant/48936846852323",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15717_daed5243-1cd1-445a-a9a7-60c5bd38069c.jpg?v=1779083743"
-  },
   "gid://shopify/ProductVariant/48936880832739": {
     "product_title": "Fancy Look Avikam Long Necklace Set",
     "variant_title": "Default Title",
@@ -93910,7 +93892,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-1396",
     "price": 23400.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/glitz-victorian-bracelet?variant=gid://shopify/ProductVariant/49448249491683",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1396.jpg?v=1785066173"
   },
@@ -98179,6 +98161,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/llisha-studs?variant=gid://shopify/ProductVariant/43631201812707",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3917.jpg?v=1672644795"
+  },
+  "gid://shopify/ProductVariant/43640170512611": {
+    "product_title": "Faiza Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-3848",
+    "price": 4984.2,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/faiza-stone-studs?variant=gid://shopify/ProductVariant/43640170512611",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3848-_1.jpg?v=1673094157"
   },
   "gid://shopify/ProductVariant/47492058874083": {
     "product_title": "Venkateshwara 3D Solid Idol",
@@ -110194,6 +110185,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/avikam-bracelet-1?variant=gid://shopify/ProductVariant/48931645391075",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1311.jpg?v=1778500511"
+  },
+  "gid://shopify/ProductVariant/48936846852323": {
+    "product_title": "Arivana Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15717",
+    "price": 22264.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/arivana-short-necklace-set?variant=gid://shopify/ProductVariant/48936846852323",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15717_daed5243-1cd1-445a-a9a7-60c5bd38069c.jpg?v=1779083743"
   },
   "gid://shopify/ProductVariant/48936862056675": {
     "product_title": "Facinate Diamond Design Ring",
