@@ -3829,7 +3829,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-4026",
     "price": 4900.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/anita-stone-drops?variant=gid://shopify/ProductVariant/43660155158755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-4026.jpg?v=1673962181"
   },
@@ -13756,7 +13756,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-2022",
     "price": 6262.2,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/lochitha-kundan-pendant?variant=gid://shopify/ProductVariant/45671815905507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2022.jpg?v=1730634915"
   },
@@ -53747,15 +53747,6 @@
     "url": "https://www.theamethyststore.com/products/yashini-stone-drops?variant=gid://shopify/ProductVariant/47813861900515",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11957.jpg?v=1768216771"
   },
-  "gid://shopify/ProductVariant/47813873795299": {
-    "product_title": "Cutest Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-11755",
-    "price": 3592.6,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/cutest-stone-studs-4?variant=gid://shopify/ProductVariant/47813873795299",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11755.jpg?v=1768217579"
-  },
   "gid://shopify/ProductVariant/47813876515043": {
     "product_title": "Sparkling Stone Studs",
     "variant_title": "Default Title",
@@ -54466,15 +54457,6 @@
     "stock": 3,
     "url": "https://www.theamethyststore.com/products/glitz-charm-stone-studs?variant=gid://shopify/ProductVariant/47831374790883",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11757.jpg?v=1768472530"
-  },
-  "gid://shopify/ProductVariant/47831387341027": {
-    "product_title": "Srisha Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-11775",
-    "price": 3905.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/srisha-stone-studs-4?variant=gid://shopify/ProductVariant/47831387341027",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11775.jpg?v=1768473429"
   },
   "gid://shopify/ProductVariant/47831398088931": {
     "product_title": "Girisha Stone Studs",
@@ -57046,7 +57028,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-12840",
     "price": 5120.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/little-cute-kundan-studs-3?variant=gid://shopify/ProductVariant/47916140069091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12840.jpg?v=1770121454"
   },
@@ -57064,7 +57046,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-12842",
     "price": 4300.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/dazzle-kundan-studs?variant=gid://shopify/ProductVariant/47916148588771",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12842.jpg?v=1770121748"
   },
@@ -106558,6 +106540,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/srisha-stone-drops-1?variant=gid://shopify/ProductVariant/47813860425955",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11785_55ecf093-09aa-4c43-b356-1cb5bf1157a5.jpg?v=1782105788"
+  },
+  "gid://shopify/ProductVariant/47813873795299": {
+    "product_title": "Cutest Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-11755",
+    "price": 3592.6,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/cutest-stone-studs-4?variant=gid://shopify/ProductVariant/47813873795299",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11755.jpg?v=1768217579"
   },
   "gid://shopify/ProductVariant/47815951057123": {
     "product_title": "Liyashikha Kundan Short Necklace",
