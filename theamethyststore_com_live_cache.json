@@ -850,7 +850,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-2105-MS",
     "price": 4048.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/pearl-studs?variant=gid://shopify/ProductVariant/42018690695395",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-2105_0ccb3cf2-e789-4672-8cca-0e61161d5054.jpg?v=1703849566"
   },
@@ -31036,7 +31036,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-9048",
     "price": 5104.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/fabulous-studs?variant=gid://shopify/ProductVariant/47044726980835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9048.jpg?v=1755780987"
   },
@@ -83366,15 +83366,6 @@
     "url": "https://www.theamethyststore.com/products/amazing-nagas-jhumkas?variant=gid://shopify/ProductVariant/49334315811043",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14551.jpg?v=1782812991"
   },
-  "gid://shopify/ProductVariant/49334318072035": {
-    "product_title": "Nithisha Nagas Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14548",
-    "price": 13900.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nithisha-nagas-jhumkas?variant=gid://shopify/ProductVariant/49334318072035",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14548.jpg?v=1782813158"
-  },
   "gid://shopify/ProductVariant/49334319841507": {
     "product_title": "Mythili Nagas Long Necklace",
     "variant_title": "Default Title",
@@ -84985,15 +84976,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/aarika-stone-chain?variant=gid://shopify/ProductVariant/49363229049059",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2085.jpg?v=1783162286"
-  },
-  "gid://shopify/ProductVariant/49363267322083": {
-    "product_title": "Nithishaa Kundan Pendant",
-    "variant_title": "Only Pendant",
-    "sku": "AMS-104-4601",
-    "price": 5800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kundan-pendant-76?variant=gid://shopify/ProductVariant/49363267322083",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4601.jpg?v=1783162506"
   },
   "gid://shopify/ProductVariant/49363285410019": {
     "product_title": "Aurika Stone Chain",
@@ -106613,6 +106595,15 @@
     "url": "https://www.theamethyststore.com/products/mahitha-mugappu-chain?variant=gid://shopify/ProductVariant/47831195484387",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1584.jpg?v=1768462758"
   },
+  "gid://shopify/ProductVariant/47831387341027": {
+    "product_title": "Srisha Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-11775",
+    "price": 3905.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/srisha-stone-studs-4?variant=gid://shopify/ProductVariant/47831387341027",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11775.jpg?v=1768473429"
+  },
   "gid://shopify/ProductVariant/47831620223203": {
     "product_title": "Sasha Stone Studs",
     "variant_title": "Default Title",
@@ -112714,6 +112705,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/stone-short-necklace-set-2?variant=gid://shopify/ProductVariant/49333550186723",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16148.jpg?v=1782806738"
+  },
+  "gid://shopify/ProductVariant/49334318072035": {
+    "product_title": "Nithisha Nagas Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14548",
+    "price": 13900.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nithisha-nagas-jhumkas?variant=gid://shopify/ProductVariant/49334318072035",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14548.jpg?v=1782813158"
   },
   "gid://shopify/ProductVariant/49334352412899": {
     "product_title": "Kartikeya 3D Spl Pendant",
