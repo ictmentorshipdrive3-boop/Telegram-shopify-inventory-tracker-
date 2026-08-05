@@ -2132,15 +2132,6 @@
     "url": "https://www.theamethyststore.com/products/shivan-pendant?variant=gid://shopify/ProductVariant/43226477461731",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-0860.jpg?v=1738924457"
   },
-  "gid://shopify/ProductVariant/43246827241699": {
-    "product_title": "Floryn Oxidised Payal",
-    "variant_title": "Default Title",
-    "sku": "AMS-114-0177",
-    "price": 17253.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/floryn-oxidised-payal?variant=gid://shopify/ProductVariant/43246827241699",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/ams-114-0177.jpg?v=1660826196"
-  },
   "gid://shopify/ProductVariant/43247061467363": {
     "product_title": "Yashvi Oxidised Anklets",
     "variant_title": "Default Title",
@@ -2149,15 +2140,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/yashvi-oxidised-anklets?variant=gid://shopify/ProductVariant/43247061467363",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/ams-114-0206.jpg?v=1660830453"
-  },
-  "gid://shopify/ProductVariant/43249673404643": {
-    "product_title": "Lisha Oxidised Anklets",
-    "variant_title": "Default Title",
-    "sku": "AMS-114-0181",
-    "price": 22908.86,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/lisha-oxidised-anklets?variant=gid://shopify/ProductVariant/43249673404643",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/ams-114-0181.jpg?v=1660901074"
   },
   "gid://shopify/ProductVariant/46368239026403": {
     "product_title": "lakshan Stone Pendant",
@@ -98503,6 +98485,24 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/snowy-pair-bangles?variant=gid://shopify/ProductVariant/46777664438499",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-0608.jpg?v=1708857286"
+  },
+  "gid://shopify/ProductVariant/43246827241699": {
+    "product_title": "Floryn Oxidised Payal",
+    "variant_title": "Default Title",
+    "sku": "AMS-114-0177",
+    "price": 17253.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/floryn-oxidised-payal?variant=gid://shopify/ProductVariant/43246827241699",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/ams-114-0177.jpg?v=1660826196"
+  },
+  "gid://shopify/ProductVariant/43249673404643": {
+    "product_title": "Lisha Oxidised Anklets",
+    "variant_title": "Default Title",
+    "sku": "AMS-114-0181",
+    "price": 22908.86,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/lisha-oxidised-anklets?variant=gid://shopify/ProductVariant/43249673404643",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/ams-114-0181.jpg?v=1660901074"
   },
   "gid://shopify/ProductVariant/43278731772131": {
     "product_title": "Fiyama Stone Studs",
