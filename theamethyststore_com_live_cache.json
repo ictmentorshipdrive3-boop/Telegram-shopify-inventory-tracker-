@@ -32152,7 +32152,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-1810",
     "price": 11076.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/kiavisha-stone-maangtikka?variant=gid://shopify/ProductVariant/47061524906211",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1810.jpg?v=1756114901"
   },
@@ -88145,15 +88145,6 @@
     "url": "https://www.theamethyststore.com/products/hasli-necklace-95?variant=gid://shopify/ProductVariant/49396881260771",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16556.jpg?v=1783852212"
   },
-  "gid://shopify/ProductVariant/49396889944291": {
-    "product_title": "Tanivikaa Hasli Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16559",
-    "price": 5600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/hasli-necklace-96?variant=gid://shopify/ProductVariant/49396889944291",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16559.jpg?v=1783852363"
-  },
   "gid://shopify/ProductVariant/49396892172515": {
     "product_title": "Shri Hasli Necklace",
     "variant_title": "Default Title",
@@ -113263,6 +113254,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/glitz-hasli-with-pendant-set?variant=gid://shopify/ProductVariant/49396637728995",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16601.jpg?v=1783842843"
+  },
+  "gid://shopify/ProductVariant/49396889944291": {
+    "product_title": "Tanivikaa Hasli Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16559",
+    "price": 5600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/hasli-necklace-96?variant=gid://shopify/ProductVariant/49396889944291",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16559.jpg?v=1783852363"
   },
   "gid://shopify/ProductVariant/49396912783587": {
     "product_title": "Catherine Hasli Necklace",
