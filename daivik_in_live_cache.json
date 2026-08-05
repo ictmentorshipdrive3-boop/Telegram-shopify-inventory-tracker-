@@ -2263,7 +2263,7 @@
     "variant_title": "Default Title",
     "sku": "670",
     "price": 1099.0,
-    "stock": 33,
+    "stock": 32,
     "url": "https://www.daivik.in/products/1-4?variant=gid://shopify/ProductVariant/42679325982942",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_0755.heic?v=1649768309"
   },
@@ -16465,7 +16465,7 @@
     "variant_title": "Default Title",
     "sku": "1715",
     "price": 3199.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/lakshmi-antique-jhumkas-with-mattal?variant=gid://shopify/ProductVariant/47623747829982",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/04B996F6-6776-463D-97D6-63204CE55961.jpg?v=1761131738"
   },
@@ -21130,15 +21130,6 @@
     "stock": 10,
     "url": "https://www.daivik.in/products/palakka-lakshmi-coin-necklace?variant=gid://shopify/ProductVariant/48448997294302",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0736.jpg?v=1784467190"
-  },
-  "gid://shopify/ProductVariant/48453374345438": {
-    "product_title": "Victorian Green Bangle Combo (Price for Both Hands)",
-    "variant_title": "2.4",
-    "sku": "1931",
-    "price": 3299.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/victorian-green-bangle-combo?variant=gid://shopify/ProductVariant/48453374345438",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B12C84A9-CA55-468E-A8C3-2BA16D904B9F.jpg?v=1784567845"
   },
   "gid://shopify/ProductVariant/48453374410974": {
     "product_title": "Victorian Green Bangle Combo (Price for Both Hands)",
@@ -30841,6 +30832,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/ruby-lakshmi-bangle-combo?variant=gid://shopify/ProductVariant/48446047060190",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2A304FC0-6319-4A9F-BEA0-8CDEE8B6F6AE.jpg?v=1784308377"
+  },
+  "gid://shopify/ProductVariant/48453374345438": {
+    "product_title": "Victorian Green Bangle Combo (Price for Both Hands)",
+    "variant_title": "2.4",
+    "sku": "1931",
+    "price": 3299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/victorian-green-bangle-combo?variant=gid://shopify/ProductVariant/48453374345438",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B12C84A9-CA55-468E-A8C3-2BA16D904B9F.jpg?v=1784567845"
   },
   "gid://shopify/ProductVariant/48453374378206": {
     "product_title": "Victorian Green Bangle Combo (Price for Both Hands)",
