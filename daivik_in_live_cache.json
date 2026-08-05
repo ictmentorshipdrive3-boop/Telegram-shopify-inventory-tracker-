@@ -5881,7 +5881,7 @@
     "variant_title": "Green",
     "sku": "327",
     "price": 649.0,
-    "stock": 25,
+    "stock": 24,
     "url": "https://www.daivik.in/products/simple-pearl-kemp-choker-with-earrings-in-2-variants?variant=gid://shopify/ProductVariant/44661107065054",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8967991B-4D20-4170-AFF8-73015A1DAB87.jpg?v=1704974070"
   },
@@ -6907,7 +6907,7 @@
     "variant_title": "2.6",
     "sku": "908",
     "price": 1299.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/lakshmi-rubygreen-bangles-set-of-4?variant=gid://shopify/ProductVariant/45355639931102",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3DF6E6AF-2D3C-44C8-8AC2-FD37770A7F84.jpg?v=1715354017"
   },
@@ -12415,7 +12415,7 @@
     "variant_title": "Ruby",
     "sku": "1615",
     "price": 3499.0,
-    "stock": 18,
+    "stock": 17,
     "url": "https://www.daivik.in/products/three-sided-teeka?variant=gid://shopify/ProductVariant/47010401878238",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0C38C597-5514-4F28-981D-6A60CB951C14.jpg?v=1749741421"
   },
@@ -13387,7 +13387,7 @@
     "variant_title": "Ruby",
     "sku": "1652",
     "price": 999.0,
-    "stock": 15,
+    "stock": 14,
     "url": "https://www.daivik.in/products/3d-lakshmi-hanging-golden-pearl-balis-in-two-colors?variant=gid://shopify/ProductVariant/47445676622046",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1D410DEB-D6DA-40CB-B06A-EB974D542FFF.jpg?v=1755152775"
   },
@@ -16402,7 +16402,7 @@
     "variant_title": "Default Title",
     "sku": "1712",
     "price": 2999.0,
-    "stock": 28,
+    "stock": 27,
     "url": "https://www.daivik.in/products/kemp-jadau-ruby-green-jada-billa-hair-accessory?variant=gid://shopify/ProductVariant/47612956147934",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7239.heic?v=1760627944"
   },
@@ -19529,15 +19529,6 @@
     "url": "https://www.daivik.in/products/manga-pure-kemp-bangles?variant=gid://shopify/ProductVariant/48086454501598",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/91A12708-AC32-473E-B57E-E240D95BA0BD.jpg?v=1776078743"
   },
-  "gid://shopify/ProductVariant/48087932436702": {
-    "product_title": "Pure Kemp Brass Peacock Pearl Choker with Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "1376",
-    "price": 7999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/pure-kemp-brass-peacock-pearl-choker-with-jhumkas?variant=gid://shopify/ProductVariant/48087932436702",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/53D9B3B9-DDE0-4E3B-8401-23C867A55D7B.jpg?v=1776093199"
-  },
   "gid://shopify/ProductVariant/48087940202718": {
     "product_title": "Pure Kemp Brass Flower Choker with Earrings",
     "variant_title": "Default Title",
@@ -20335,7 +20326,7 @@
     "variant_title": "2.6",
     "sku": "1903",
     "price": 1799.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/ad-pearl-flower-bangle?variant=gid://shopify/ProductVariant/48306973343966",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D0B49F8C-2E93-472D-BEBC-A910B088AC6B.jpg?v=1780570794"
   },
@@ -21316,7 +21307,7 @@
     "variant_title": "Default Title",
     "sku": "4039",
     "price": 1799.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.daivik.in/products/heritage-watch-bracelet-12?variant=gid://shopify/ProductVariant/48547695657182",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5640.jpg?v=1785853177"
   },
@@ -30571,6 +30562,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/real-look-alike-foam-handmade-lotus-buds-kunjalam-and-malli-lotus-center-hair-clip-combo?variant=gid://shopify/ProductVariant/48082748997854",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4AB4FD34-4C97-4D6F-84F5-4A15BD085EEB_45c26c6d-4ccb-4341-b603-92d4866c2813.jpg?v=1776010560"
+  },
+  "gid://shopify/ProductVariant/48087932436702": {
+    "product_title": "Pure Kemp Brass Peacock Pearl Choker with Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "1376",
+    "price": 7999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/pure-kemp-brass-peacock-pearl-choker-with-jhumkas?variant=gid://shopify/ProductVariant/48087932436702",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/53D9B3B9-DDE0-4E3B-8401-23C867A55D7B.jpg?v=1776093199"
   },
   "gid://shopify/ProductVariant/48092369027294": {
     "product_title": "Jada BiIla with Mattals (Hair Accessory)",
