@@ -13,7 +13,7 @@
     "variant_title": "Default Title",
     "sku": "29",
     "price": 1999.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.daivik.in/products/29?variant=gid://shopify/ProductVariant/32600664506427",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG-6786.jpg?v=1583735555"
   },
@@ -1456,15 +1456,6 @@
     "stock": 18,
     "url": "https://www.daivik.in/products/simple-kemp-studs-in-2-variants?variant=gid://shopify/ProductVariant/41359794864281",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_858e6c74-1aac-4152-b929-262cb3e584d2.jpg?v=1634309760"
-  },
-  "gid://shopify/ProductVariant/41372165898393": {
-    "product_title": "Simple Kemp Choker Necklace in 5 variants",
-    "variant_title": "Ruby green",
-    "sku": "911",
-    "price": 1299.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/simple-kemp-choker-necklace-in-5-variants?variant=gid://shopify/ProductVariant/41372165898393",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0F93A882-6590-4814-97B5-C0DD9A6C802B.jpg?v=1725623142"
   },
   "gid://shopify/ProductVariant/41410536079513": {
     "product_title": "AD Star Balis",
@@ -14350,7 +14341,7 @@
     "variant_title": "Green",
     "sku": "254",
     "price": 499.0,
-    "stock": 56,
+    "stock": 55,
     "url": "https://www.daivik.in/products/simple-circle-lotus-necklace-with-earrings-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/47534371930334",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/626B5E25-5129-42B3-867A-BC5443AFEDCB.jpg?v=1757846727"
   },
@@ -20578,7 +20569,7 @@
     "variant_title": "White",
     "sku": "1913",
     "price": 299.0,
-    "stock": 45,
+    "stock": 44,
     "url": "https://www.daivik.in/products/ad-non-piercing-nosepin-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/48341912453342",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5358.jpg?v=1781711079"
   },
@@ -21957,6 +21948,15 @@
     "price": 1299.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/simple-kemp-choker-necklace-in-5-variants?variant=gid://shopify/ProductVariant/45866073391326",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0F93A882-6590-4814-97B5-C0DD9A6C802B.jpg?v=1725623142"
+  },
+  "gid://shopify/ProductVariant/41372165898393": {
+    "product_title": "Simple Kemp Choker Necklace in 5 variants",
+    "variant_title": "Ruby green",
+    "sku": "911",
+    "price": 1299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/simple-kemp-choker-necklace-in-5-variants?variant=gid://shopify/ProductVariant/41372165898393",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0F93A882-6590-4814-97B5-C0DD9A6C802B.jpg?v=1725623142"
   },
   "gid://shopify/ProductVariant/41372165865625": {
