@@ -2452,7 +2452,7 @@
     "variant_title": "Default Title",
     "sku": "4",
     "price": 4999.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/a-131?variant=gid://shopify/ProductVariant/42917493244126",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_05bf778e-6336-4306-9368-d1a560eca725.heic?v=1654612524"
   },
@@ -17999,15 +17999,6 @@
     "url": "https://www.daivik.in/products/pure-kemp-brass-jadau-kundan-stones-ruby-green-kasumala-with-jhumkas?variant=gid://shopify/ProductVariant/47872485327070",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6D5D3B65-C4AC-467C-8BB0-57C1E09C65E3.jpg?v=1769788603"
   },
-  "gid://shopify/ProductVariant/47872487489758": {
-    "product_title": "Pure Kemp Brass Jadau Kundan Stones Lakshmi Pendant Kasumala with Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "1359",
-    "price": 7499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/pure-kemp-brass-jadau-kundan-stones-lakshmi-pendant-kasumala-with-jhumkas?variant=gid://shopify/ProductVariant/47872487489758",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9091F136-5930-4C5C-A41F-00A39E1B0DD3.jpg?v=1769788515"
-  },
   "gid://shopify/ProductVariant/47872487981278": {
     "product_title": "Pure Kemp Brass Jadau Kundan Stones Circle Pendant Kasumala with Jhumkas",
     "variant_title": "Default Title",
@@ -29995,6 +29986,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/simple-pearl-ad-pendant-set-with-chain?variant=gid://shopify/ProductVariant/47859906314462",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/33A61E78-B86B-4063-B4DF-D946786955BD.jpg?v=1769531869"
+  },
+  "gid://shopify/ProductVariant/47872487489758": {
+    "product_title": "Pure Kemp Brass Jadau Kundan Stones Lakshmi Pendant Kasumala with Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "1359",
+    "price": 7499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/pure-kemp-brass-jadau-kundan-stones-lakshmi-pendant-kasumala-with-jhumkas?variant=gid://shopify/ProductVariant/47872487489758",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9091F136-5930-4C5C-A41F-00A39E1B0DD3.jpg?v=1769788515"
   },
   "gid://shopify/ProductVariant/47880825471198": {
     "product_title": "Kemp Bangle Combo (Price for Both Hands)",
