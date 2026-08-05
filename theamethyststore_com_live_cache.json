@@ -29083,7 +29083,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-1418",
     "price": 3600.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/amilthini-stone-ring?variant=gid://shopify/ProductVariant/47009028669667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1418.jpg?v=1754992797"
   },
@@ -51199,15 +51199,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/grand-luxe-stone-long-necklace?variant=gid://shopify/ProductVariant/47754225254627",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13535.jpg?v=1766412375"
-  },
-  "gid://shopify/ProductVariant/47756716736739": {
-    "product_title": "Layer Spark Stone Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-13532",
-    "price": 105648.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/layer-spark-stone-long-necklace?variant=gid://shopify/ProductVariant/47756716736739",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13532.jpg?v=1766464004"
   },
   "gid://shopify/ProductVariant/47756728533219": {
     "product_title": "Berlinka Stone Long Necklace",
@@ -97739,6 +97730,51 @@
     "url": "https://www.theamethyststore.com/products/jada-billa-14?variant=gid://shopify/ProductVariant/49502253351139",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0872_4_53b06c3c-fdc2-4f49-8ff5-c7b0515993c2.jpg?v=1785931833"
   },
+  "gid://shopify/ProductVariant/49502308663523": {
+    "product_title": "Harisha Jada Billa",
+    "variant_title": "Suryan",
+    "sku": "AMS-112-0876-SURAJ",
+    "price": 9470.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/jada-billa-15?variant=gid://shopify/ProductVariant/49502308663523",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0876_2.jpg?v=1785933014"
+  },
+  "gid://shopify/ProductVariant/49502308696291": {
+    "product_title": "Harisha Jada Billa",
+    "variant_title": "Chandran",
+    "sku": "AMS-112-0876-CHAAND",
+    "price": 6100.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/jada-billa-15?variant=gid://shopify/ProductVariant/49502308696291",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0876_2.jpg?v=1785933014"
+  },
+  "gid://shopify/ProductVariant/49502318887139": {
+    "product_title": "Amazing Pakshi Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16991",
+    "price": 32400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/amazing-pakshi-short-necklace-set-4?variant=gid://shopify/ProductVariant/49502318887139",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16991.jpg?v=1785933354"
+  },
+  "gid://shopify/ProductVariant/49502325407971": {
+    "product_title": "Aadhira Jada Billa",
+    "variant_title": "Suryan",
+    "sku": "AMS-112-0877-SURAJ",
+    "price": 8300.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/jada-billa-16?variant=gid://shopify/ProductVariant/49502325407971",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0877_4.jpg?v=1785933596"
+  },
+  "gid://shopify/ProductVariant/49502325440739": {
+    "product_title": "Aadhira Jada Billa",
+    "variant_title": "Chandran",
+    "sku": "AMS-112-0877-CHAAND",
+    "price": 5500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/jada-billa-16?variant=gid://shopify/ProductVariant/49502325440739",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0877_4.jpg?v=1785933596"
+  },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
     "variant_title": "Default Title",
@@ -106567,6 +106603,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/grandeur-stone-long-necklace?variant=gid://shopify/ProductVariant/47754205200611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13533.jpg?v=1766411503"
+  },
+  "gid://shopify/ProductVariant/47756716736739": {
+    "product_title": "Layer Spark Stone Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-13532",
+    "price": 105648.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/layer-spark-stone-long-necklace?variant=gid://shopify/ProductVariant/47756716736739",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13532.jpg?v=1766464004"
   },
   "gid://shopify/ProductVariant/47757272350947": {
     "product_title": "Baiza Stone Short Necklace",
