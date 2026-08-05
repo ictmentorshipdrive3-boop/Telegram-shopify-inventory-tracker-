@@ -4090,7 +4090,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-113-0237",
     "price": 1300.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/kiyara-nose-pin-2?variant=gid://shopify/ProductVariant/43691523211491",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-113-0237.jpg?v=1675163771"
   },
@@ -32506,15 +32506,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/nainikha-stone-pair-bangles-1?variant=gid://shopify/ProductVariant/47065578045667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2494.jpg?v=1756133005"
-  },
-  "gid://shopify/ProductVariant/47065671762147": {
-    "product_title": "Nithyalekha Stone Pair Bangles",
-    "variant_title": "2.4\"",
-    "sku": "AMS-107-2499-2.4\"",
-    "price": 16774.46,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nithyalekha-stone-pair-bangles?variant=gid://shopify/ProductVariant/47065671762147",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2499.jpg?v=1756134059"
   },
   "gid://shopify/ProductVariant/47065671794915": {
     "product_title": "Nithyalekha Stone Pair Bangles",
@@ -103454,6 +103445,15 @@
     "url": "https://www.theamethyststore.com/products/nakshitha-stone-pair-bangles?variant=gid://shopify/ProductVariant/47065659441379",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2498.jpg?v=1756133785"
   },
+  "gid://shopify/ProductVariant/47065671762147": {
+    "product_title": "Nithyalekha Stone Pair Bangles",
+    "variant_title": "2.4\"",
+    "sku": "AMS-107-2499-2.4\"",
+    "price": 16774.46,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nithyalekha-stone-pair-bangles?variant=gid://shopify/ProductVariant/47065671762147",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2499.jpg?v=1756134059"
+  },
   "gid://shopify/ProductVariant/47067272904931": {
     "product_title": "Thishikha Stone Pair Bangles",
     "variant_title": "2.8\"",
@@ -113632,6 +113632,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/royal-harmony-short-necklace-set?variant=gid://shopify/ProductVariant/49439327355107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17060.jpg?v=1784801263"
+  },
+  "gid://shopify/ProductVariant/49442594259171": {
+    "product_title": "Divyora Moissanite Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17128",
+    "price": 51300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/divyora-moissanite-short-necklace-set?variant=gid://shopify/ProductVariant/49442594259171",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17128.jpg?v=1784887337"
   },
   "gid://shopify/ProductVariant/49442677391587": {
     "product_title": "Amazing Moissanite Short Necklace",
