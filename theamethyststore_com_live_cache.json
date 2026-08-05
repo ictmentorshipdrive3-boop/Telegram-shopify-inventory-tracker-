@@ -2060,6 +2060,15 @@
     "url": "https://www.theamethyststore.com/products/fancy-silver-rakhi?variant=gid://shopify/ProductVariant/43147218583779",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-116-0005.jpg?v=1658322016"
   },
+  "gid://shopify/ProductVariant/43147231199459": {
+    "product_title": "Bryant Silver Rakhi",
+    "variant_title": "Default Title",
+    "sku": "AMS-116-0008",
+    "price": 1800.0,
+    "stock": 6,
+    "url": "https://www.theamethyststore.com/products/bryant-silver-rakhi?variant=gid://shopify/ProductVariant/43147231199459",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-116-0008.jpg?v=1658322302"
+  },
   "gid://shopify/ProductVariant/43164554756323": {
     "product_title": "Lalit Kundan Necklace",
     "variant_title": "Default Title",
@@ -9940,7 +9949,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-1748",
     "price": 1800.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/amethyst-leafy-pendant?variant=gid://shopify/ProductVariant/45281021427939",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-1748.jpg?v=1721293649"
   },
@@ -9958,7 +9967,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-6302",
     "price": 3417.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/alluring-hook-drops?variant=gid://shopify/ProductVariant/45281198932195",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6302.jpg?v=1721297356"
   },
@@ -83672,15 +83681,6 @@
     "url": "https://www.theamethyststore.com/products/3d-spl-short-necklace-set-5?variant=gid://shopify/ProductVariant/49334671245539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16375.jpg?v=1782822439"
   },
-  "gid://shopify/ProductVariant/49334672654563": {
-    "product_title": "Glowing Avikam Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16207",
-    "price": 20328.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/glowing-avikam-short-necklace-set-3?variant=gid://shopify/ProductVariant/49334672654563",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16207.jpg?v=1782822621"
-  },
   "gid://shopify/ProductVariant/49334675177699": {
     "product_title": "Facinate Avikam Short Necklace Set",
     "variant_title": "Default Title",
@@ -97207,6 +97207,33 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/pranitha-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49501001154787",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16869.jpg?v=1785909777"
+  },
+  "gid://shopify/ProductVariant/49501022028003": {
+    "product_title": "Heritha Pakshi Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16870",
+    "price": 21700.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/heritha-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49501022028003",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16870.jpg?v=1785909917"
+  },
+  "gid://shopify/ProductVariant/49501026058467": {
+    "product_title": "Shinning Pakshi Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16872",
+    "price": 26300.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/shinning-pakshi-short-necklace-set-2?variant=gid://shopify/ProductVariant/49501026058467",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16872.jpg?v=1785910198"
+  },
+  "gid://shopify/ProductVariant/49501026648291": {
+    "product_title": "Ishikha Pakshi Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16873",
+    "price": 16000.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/ishikha-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49501026648291",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16873.jpg?v=1785910325"
   },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
