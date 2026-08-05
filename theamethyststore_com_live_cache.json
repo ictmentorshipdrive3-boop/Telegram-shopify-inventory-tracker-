@@ -40238,15 +40238,6 @@
     "url": "https://www.theamethyststore.com/products/vithula-short-necklace-set?variant=gid://shopify/ProductVariant/47215156297955",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11600.jpg?v=1759060454"
   },
-  "gid://shopify/ProductVariant/47215168946403": {
-    "product_title": "Dhruvi Nagas Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-11609",
-    "price": 96872.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/dhruvi-nagas-short-necklace?variant=gid://shopify/ProductVariant/47215168946403",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11609.jpg?v=1759060739"
-  },
   "gid://shopify/ProductVariant/47215171600611": {
     "product_title": "Tanusha Nagas Short Necklace",
     "variant_title": "Default Title",
@@ -44626,7 +44617,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-1627",
     "price": 3000.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.theamethyststore.com/products/nandhitha-stone-ring?variant=gid://shopify/ProductVariant/47392953893091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1627.jpg?v=1761375418"
   },
@@ -97667,6 +97658,15 @@
     "url": "https://www.theamethyststore.com/products/amazing-pakshi-short-necklace-set-3?variant=gid://shopify/ProductVariant/49502179688675",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16964.jpg?v=1785929224"
   },
+  "gid://shopify/ProductVariant/49502182932707": {
+    "product_title": "Tahnrikiya Stone Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2258",
+    "price": 1900.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/stone-ring-43?variant=gid://shopify/ProductVariant/49502182932707",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2258.jpg?v=1785930815"
+  },
   "gid://shopify/ProductVariant/49502184210659": {
     "product_title": "Shithikha Pakshi Short Necklace Set",
     "variant_title": "Default Title",
@@ -97684,6 +97684,33 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/gorgeous-pakshi-short-necklace-set-1?variant=gid://shopify/ProductVariant/49502195515619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16975.jpg?v=1785929884"
+  },
+  "gid://shopify/ProductVariant/49502239555811": {
+    "product_title": "Vernika Stone Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2259",
+    "price": 2200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/stone-ring-44?variant=gid://shopify/ProductVariant/49502239555811",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2259.jpg?v=1785930942"
+  },
+  "gid://shopify/ProductVariant/49502242504931": {
+    "product_title": "Stunning Pakshi Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16981",
+    "price": 19500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/stunning-pakshi-short-necklace-set-4?variant=gid://shopify/ProductVariant/49502242504931",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16981.jpg?v=1785931041"
+  },
+  "gid://shopify/ProductVariant/49502243193059": {
+    "product_title": "Sherinkaa Stone Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2260",
+    "price": 2900.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/stone-ring-45?variant=gid://shopify/ProductVariant/49502243193059",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2260.jpg?v=1785931148"
   },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
@@ -113965,5 +113992,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/diamond-design-studs-32?variant=gid://shopify/ProductVariant/49483391533283",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15076.jpg?v=1785579280"
+  },
+  "gid://shopify/ProductVariant/49502246273251": {
+    "product_title": "MAhita Pakshi Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16985",
+    "price": 30900.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/mahita-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49502246273251",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16985.jpg?v=1785931275"
   }
 }
