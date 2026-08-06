@@ -13729,7 +13729,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-2022",
     "price": 6262.2,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/lochitha-kundan-pendant?variant=gid://shopify/ProductVariant/45671815905507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2022.jpg?v=1730634915"
   },
@@ -65078,15 +65078,6 @@
     "url": "https://www.theamethyststore.com/products/nipuna-kundan-maatal?variant=gid://shopify/ProductVariant/48343402217699",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2246.jpg?v=1772450305"
   },
-  "gid://shopify/ProductVariant/48343511924963": {
-    "product_title": "Jeshnitha Reversible Stone Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-14814",
-    "price": 44300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/jeshnitha-reversible-stone-necklace?variant=gid://shopify/ProductVariant/48343511924963",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14814.jpg?v=1772450443"
-  },
   "gid://shopify/ProductVariant/48343517659363": {
     "product_title": "Shree Pranavi Avikam Bracelet",
     "variant_title": "Default Title",
@@ -69766,15 +69757,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/elegant-needle-ear-cuffs?variant=gid://shopify/ProductVariant/48883440681187",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13652.jpg?v=1777384128"
-  },
-  "gid://shopify/ProductVariant/48883476758755": {
-    "product_title": "Allure Needle Ear cuffs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-13653",
-    "price": 6200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/allure-needle-ear-cuffs?variant=gid://shopify/ProductVariant/48883476758755",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13653.jpg?v=1777384412"
   },
   "gid://shopify/ProductVariant/48883592691939": {
     "product_title": "Elegant Needle Ear cuffs",
@@ -109286,6 +109268,15 @@
     "url": "https://www.theamethyststore.com/products/malavika-diamond-design-ring?variant=gid://shopify/ProductVariant/48342056206563",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2005.jpg?v=1772448816"
   },
+  "gid://shopify/ProductVariant/48343511924963": {
+    "product_title": "Jeshnitha Reversible Stone Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-14814",
+    "price": 44300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/jeshnitha-reversible-stone-necklace?variant=gid://shopify/ProductVariant/48343511924963",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14814.jpg?v=1772450443"
+  },
   "gid://shopify/ProductVariant/48343661609187": {
     "product_title": "Eternal Glow Kundan Maatal",
     "variant_title": "Default Title",
@@ -110446,6 +110437,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/mesmerize-short-necklace-set?variant=gid://shopify/ProductVariant/48883153436899",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15501.jpg?v=1777380879"
+  },
+  "gid://shopify/ProductVariant/48883476758755": {
+    "product_title": "Allure Needle Ear cuffs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-13653",
+    "price": 6200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/allure-needle-ear-cuffs?variant=gid://shopify/ProductVariant/48883476758755",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13653.jpg?v=1777384412"
   },
   "gid://shopify/ProductVariant/48886471065827": {
     "product_title": "Majestic Chandubaali Earrings",
