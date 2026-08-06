@@ -845,15 +845,6 @@
     "url": "https://www.theamethyststore.com/products/mithra-swarovski-earrings?variant=gid://shopify/ProductVariant/42016675037411",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-2095_c58ef35a-8fa4-44cd-a757-164f54eace6d.jpg?v=1652949336"
   },
-  "gid://shopify/ProductVariant/42018690695395": {
-    "product_title": "Pearl Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-2105-MS",
-    "price": 4048.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/pearl-studs?variant=gid://shopify/ProductVariant/42018690695395",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-2105_0ccb3cf2-e789-4672-8cca-0e61161d5054.jpg?v=1703849566"
-  },
   "gid://shopify/ProductVariant/42073113264355": {
     "product_title": "Grandeur Choker Set",
     "variant_title": "Default Title",
@@ -98224,6 +98215,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/misha-swarovski-ring?variant=gid://shopify/ProductVariant/43562181886179",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0115_c8cb1c9e-4e09-4509-9125-7a61e9b50b6a.jpg?v=1754112812"
+  },
+  "gid://shopify/ProductVariant/42018690695395": {
+    "product_title": "Pearl Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-2105-MS",
+    "price": 4048.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/pearl-studs?variant=gid://shopify/ProductVariant/42018690695395",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-2105_0ccb3cf2-e789-4672-8cca-0e61161d5054.jpg?v=1703849566"
   },
   "gid://shopify/ProductVariant/42073675104483": {
     "product_title": "Bruno Choker Set",
