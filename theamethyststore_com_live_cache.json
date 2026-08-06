@@ -4976,15 +4976,6 @@
     "url": "https://www.theamethyststore.com/products/pohunn-nagas-oddiyanam?variant=gid://shopify/ProductVariant/43866421330147",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0310.jpg?v=1685276552"
   },
-  "gid://shopify/ProductVariant/43867717009635": {
-    "product_title": "Lakshmika Nagas Oddiyanam",
-    "variant_title": "Default Title",
-    "sku": "AMS-110-0314",
-    "price": 64100.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/lakshmika-nagas-oddiyanam?variant=gid://shopify/ProductVariant/43867717009635",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0314.jpg?v=1685427598"
-  },
   "gid://shopify/ProductVariant/43874553757923": {
     "product_title": "Varshini Deep Nagas Necklace",
     "variant_title": "Default Title",
@@ -13018,7 +13009,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-6763",
     "price": 27408.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/philominal-victorian-jhumkas?variant=gid://shopify/ProductVariant/45598118609123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6763.jpg?v=1728386238"
   },
@@ -14794,15 +14785,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/yasika-long-necklace?variant=gid://shopify/ProductVariant/45782207824099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7807_3.jpg?v=1733577431"
-  },
-  "gid://shopify/ProductVariant/45797586239715": {
-    "product_title": "Riyaana Victorian Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-7915",
-    "price": 132616.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/riyaana-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/45797586239715",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7915.jpg?v=1733919926"
   },
   "gid://shopify/ProductVariant/45797605277923": {
     "product_title": "Naleena Victorian Short Necklace Set",
@@ -77224,7 +77206,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-1902",
     "price": 14600.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/plain-chain-2?variant=gid://shopify/ProductVariant/49268010123491",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1902.jpg?v=1781609150"
   },
@@ -92402,15 +92384,6 @@
     "url": "https://www.theamethyststore.com/products/sparkling-moissanite-ring?variant=gid://shopify/ProductVariant/49446041780451",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2168.jpg?v=1784960908"
   },
-  "gid://shopify/ProductVariant/49446055248099": {
-    "product_title": "Mesmerizing Moissanite Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-2170",
-    "price": 11800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/mesmerizing-moissanite-ring?variant=gid://shopify/ProductVariant/49446055248099",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2170.jpg?v=1784961017"
-  },
   "gid://shopify/ProductVariant/49446097912035": {
     "product_title": "White Gleaming Moissanite Ring",
     "variant_title": "Default Title",
@@ -98351,6 +98324,15 @@
     "url": "https://www.theamethyststore.com/products/avikam-jhumkas-14?variant=gid://shopify/ProductVariant/49505048232163",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15576.jpg?v=1786021138"
   },
+  "gid://shopify/ProductVariant/49505050001635": {
+    "product_title": "Vidhya Avikam Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15580",
+    "price": 8800.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/avikam-jhumkas-15?variant=gid://shopify/ProductVariant/49505050001635",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15580.jpg?v=1786021291"
+  },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
     "variant_title": "Default Title",
@@ -99646,6 +99628,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/vividha-short-necklace?variant=gid://shopify/ProductVariant/43857276829923",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-2476.jpg?v=1684730545"
+  },
+  "gid://shopify/ProductVariant/43867717009635": {
+    "product_title": "Lakshmika Nagas Oddiyanam",
+    "variant_title": "Default Title",
+    "sku": "AMS-110-0314",
+    "price": 64100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/lakshmika-nagas-oddiyanam?variant=gid://shopify/ProductVariant/43867717009635",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0314.jpg?v=1685427598"
   },
   "gid://shopify/ProductVariant/43884458475747": {
     "product_title": "Jaanvhi Deep Nagas Necklace",
@@ -101329,6 +101320,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/sobha-short-necklace?variant=gid://shopify/ProductVariant/45782075277539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7830_2.jpg?v=1733572259"
+  },
+  "gid://shopify/ProductVariant/45797586239715": {
+    "product_title": "Riyaana Victorian Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-7915",
+    "price": 132616.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/riyaana-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/45797586239715",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7915.jpg?v=1733919926"
   },
   "gid://shopify/ProductVariant/45800720007395": {
     "product_title": "Shaysha Nagas Short Necklace",
@@ -114694,6 +114694,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/amazing-moissanite-short-necklace-set?variant=gid://shopify/ProductVariant/49442677391587",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17072_2.jpg?v=1784890007"
+  },
+  "gid://shopify/ProductVariant/49446055248099": {
+    "product_title": "Mesmerizing Moissanite Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2170",
+    "price": 11800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/mesmerizing-moissanite-ring?variant=gid://shopify/ProductVariant/49446055248099",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2170.jpg?v=1784961017"
   },
   "gid://shopify/ProductVariant/49447281950947": {
     "product_title": "Heritage Moissanite Ring",
