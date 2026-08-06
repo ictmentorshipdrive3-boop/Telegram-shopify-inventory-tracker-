@@ -14152,7 +14152,7 @@
     "variant_title": "Default Title",
     "sku": "R24515",
     "price": 27180.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/peacock-dream-victorian-pendant-set?variant=gid://shopify/ProductVariant/52535593599273",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_113_Pics_29Jan4066.jpg?v=1770291787"
   },
@@ -22291,15 +22291,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/matsyika-stone-ring?variant=gid://shopify/ProductVariant/53282906341673",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1874_resized.jpg?v=1782128447"
-  },
-  "gid://shopify/ProductVariant/53282910044457": {
-    "product_title": "Dazzle Stone Ring",
-    "variant_title": "Default Title",
-    "sku": "R29516",
-    "price": 2700.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/dazzle-stone-ring?variant=gid://shopify/ProductVariant/53282910044457",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1886_resized.jpg?v=1782128178"
   },
   "gid://shopify/ProductVariant/53282916565289": {
     "product_title": "Stone Lumina Ring",
@@ -47707,6 +47698,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/stone-halo-ring?variant=gid://shopify/ProductVariant/53282909421865",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1895_resized.jpg?v=1782129101"
+  },
+  "gid://shopify/ProductVariant/53282910044457": {
+    "product_title": "Dazzle Stone Ring",
+    "variant_title": "Default Title",
+    "sku": "R29516",
+    "price": 2700.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/dazzle-stone-ring?variant=gid://shopify/ProductVariant/53282910044457",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1886_resized.jpg?v=1782128178"
   },
   "gid://shopify/ProductVariant/53282952675625": {
     "product_title": "CZ Rosetta Danglers",
