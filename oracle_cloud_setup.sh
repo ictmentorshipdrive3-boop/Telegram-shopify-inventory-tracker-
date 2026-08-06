@@ -49,6 +49,9 @@ STORES = [
 INTERVAL_SECONDS = 300  # Run every 5 minutes (Change to 120 for 2-minute checks)
 
 def run_tracker_cycle():
+    env_vars = os.environ.copy()
+    env_vars["TELEGRAM_BOT_TOKEN"] = "8711658844:AAEtDHYsx8Mpb5v3LA8vB-v9piJzHGIkHKg"
+    env_vars["TELEGRAM_CHAT_ID"] = "-5393248315"
     now_str = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     print(f"\n[{now_str}] --- STARTING TRACKER CYCLE FOR ALL STORES ---")
     
@@ -59,7 +62,7 @@ def run_tracker_cycle():
                 "python3", "shopify_tracker_actions.py",
                 "--url", store['url'],
                 "--output-dir", "."
-            ], check=False)
+            ], env=env_vars, check=False)
         except Exception as e:
             print(f"  [-] Error checking {store['name']}: {e}")
             
@@ -99,6 +102,8 @@ After=network.target
 Type=simple
 User=$USER
 WorkingDirectory=$REPO_DIR
+Environment=\"TELEGRAM_BOT_TOKEN=8711658844:AAEtDHYsx8Mpb5v3LA8vB-v9piJzHGIkHKg\"
+Environment=\"TELEGRAM_CHAT_ID=-5393248315\"
 ExecStart=/usr/bin/python3 $REPO_DIR/run_continuous_loop.py
 Restart=always
 RestartSec=10
