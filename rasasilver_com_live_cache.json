@@ -16159,7 +16159,7 @@
     "variant_title": "Default Title",
     "sku": "R25383",
     "price": 3800.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/back-chain-copy?variant=gid://shopify/ProductVariant/52737922302249",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Screenshot2026-02-23at5_17_18PMcopy_jpg.jpg?v=1771847962"
   },
@@ -19493,15 +19493,6 @@
     "url": "https://www.rasasilver.com/products/xavira-moissanite-choker?variant=gid://shopify/ProductVariant/52911178744105",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar00562_resized.jpg?v=1775644805"
   },
-  "gid://shopify/ProductVariant/52911255716137": {
-    "product_title": "Floranya Victorian Kada",
-    "variant_title": "Default Title",
-    "sku": "R23300",
-    "price": 28700.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/ovalora-victorian-kada-copy?variant=gid://shopify/ProductVariant/52911255716137",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_21_Mar20278_resized.jpg?v=1775650462"
-  },
   "gid://shopify/ProductVariant/52911257092393": {
     "product_title": "Shrinyra Kundan Daab",
     "variant_title": "Default Title",
@@ -20389,7 +20380,7 @@
     "variant_title": "Default Title",
     "sku": "R28109",
     "price": 17800.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/emerald-moissanite-jhumki-copy?variant=gid://shopify/ProductVariant/53131256299817",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0097_resized.jpg?v=1781007525"
   },
@@ -46123,6 +46114,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/ovalora-victorian-kada?variant=gid://shopify/ProductVariant/52911255093545",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_21_Mar20273_resized.jpg?v=1775547755"
+  },
+  "gid://shopify/ProductVariant/52911255716137": {
+    "product_title": "Floranya Victorian Kada",
+    "variant_title": "Default Title",
+    "sku": "R23300",
+    "price": 28700.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ovalora-victorian-kada-copy?variant=gid://shopify/ProductVariant/52911255716137",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_21_Mar20278_resized.jpg?v=1775650462"
   },
   "gid://shopify/ProductVariant/52911539749161": {
     "product_title": "Blossira Moissanite Tikka",
