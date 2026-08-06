@@ -6340,7 +6340,7 @@
     "variant_title": "Ruby",
     "sku": "995",
     "price": 3499.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.daivik.in/products/gold-polish-guttapusalu-kemp-choker-with-earrings?variant=gid://shopify/ProductVariant/44932014866654",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B9B4C316-67E2-47FF-8777-63C149FD9469.jpg?v=1710773526"
   },
@@ -11695,7 +11695,7 @@
     "variant_title": "Ruby Green",
     "sku": "982",
     "price": 699.0,
-    "stock": 23,
+    "stock": 24,
     "url": "https://www.daivik.in/products/invisible-ad-leaf-necklace-with-earrings-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/46601934045406",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1BC5AE9E-3283-41C7-AE2B-A526038DB48D.jpg?v=1744559542"
   },
@@ -19178,15 +19178,6 @@
     "url": "https://www.daivik.in/products/antique-designer-watch-bracelet-6?variant=gid://shopify/ProductVariant/48070962839774",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_4564.jpg?v=1775655549"
   },
-  "gid://shopify/ProductVariant/48070963101918": {
-    "product_title": "Antique Designer Watch Bracelet",
-    "variant_title": "Default Title",
-    "sku": "4008",
-    "price": 4999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/antique-designer-watch-bracelet-7?variant=gid://shopify/ProductVariant/48070963101918",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_4570.jpg?v=1775655565"
-  },
   "gid://shopify/ProductVariant/48070964576478": {
     "product_title": "Designer Watch Bracelet",
     "variant_title": "Default Title",
@@ -20353,7 +20344,7 @@
     "variant_title": "Default Title",
     "sku": "877",
     "price": 2199.0,
-    "stock": 13,
+    "stock": 12,
     "url": "https://www.daivik.in/products/ad-multi-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48312504844510",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7C3E679D-9CDF-4C8E-8C0C-6A70DEB76DD5.jpg?v=1780826841"
   },
@@ -20542,7 +20533,7 @@
     "variant_title": "White",
     "sku": "1913",
     "price": 299.0,
-    "stock": 42,
+    "stock": 41,
     "url": "https://www.daivik.in/products/ad-non-piercing-nosepin-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/48341912453342",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5358.jpg?v=1781711079"
   },
@@ -21082,7 +21073,7 @@
     "variant_title": "Default Title",
     "sku": "1929",
     "price": 2199.0,
-    "stock": 22,
+    "stock": 21,
     "url": "https://www.daivik.in/products/pure-kemp-pearl-jadabillai-chotti-hair-accessories-copy?variant=gid://shopify/ProductVariant/48442470236382",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D26A5422-CF81-4E9A-BE49-D67375096243.jpg?v=1784200735"
   },
@@ -30508,6 +30499,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/classic-antique-peacock-necklace-with-earrings?variant=gid://shopify/ProductVariant/48061365485790",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9816EC3D-BDF9-439A-A559-770E9D03A522.jpg?v=1775321478"
+  },
+  "gid://shopify/ProductVariant/48070963101918": {
+    "product_title": "Antique Designer Watch Bracelet",
+    "variant_title": "Default Title",
+    "sku": "4008",
+    "price": 4999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/antique-designer-watch-bracelet-7?variant=gid://shopify/ProductVariant/48070963101918",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_4570.jpg?v=1775655565"
   },
   "gid://shopify/ProductVariant/48070964216030": {
     "product_title": "Antique Designer Watch Bracelet",
