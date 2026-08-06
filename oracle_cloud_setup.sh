@@ -26,12 +26,9 @@ else
     cd "$REPO_DIR"
 fi
 
-# 3. Create virtual environment & install Python dependencies
+# 3. Install Python dependencies
 echo "[3/5] Installing Python dependencies..."
-python3 -m venv venv
-source venv/bin/activate
-pip install --upgrade pip
-pip install requests pandas openpyxl urllib3
+sudo apt-get install -y python3-pip python3-pandas python3-requests python3-openpyxl
 
 # 4. Create 24/7 Continuous Loop Script
 cat << 'EOF' > run_continuous_loop.py
@@ -59,7 +56,7 @@ def run_tracker_cycle():
         try:
             print(f"  [+] Checking {store['name']} ({store['url']})...")
             subprocess.run([
-                "venv/bin/python", "shopify_tracker_actions.py",
+                "python3", "shopify_tracker_actions.py",
                 "--url", store['url'],
                 "--output-dir", "."
             ], check=False)
@@ -102,7 +99,7 @@ After=network.target
 Type=simple
 User=$USER
 WorkingDirectory=$REPO_DIR
-ExecStart=$REPO_DIR/venv/bin/python $REPO_DIR/run_continuous_loop.py
+ExecStart=/usr/bin/python3 $REPO_DIR/run_continuous_loop.py
 Restart=always
 RestartSec=10
 
