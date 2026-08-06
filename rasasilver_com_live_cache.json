@@ -931,7 +931,7 @@
     "variant_title": "Default Title",
     "sku": "R17304",
     "price": 2200.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/nava-kari-studs?variant=gid://shopify/ProductVariant/50157703921961",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06556_copy.jpg?v=1744189202"
   },
@@ -967,7 +967,7 @@
     "variant_title": "Default Title",
     "sku": "R15982",
     "price": 2300.0,
-    "stock": 5,
+    "stock": 6,
     "url": "https://www.rasasilver.com/products/botanique-studs?variant=gid://shopify/ProductVariant/50158205501737",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06453_copy.jpg?v=1744184601"
   },
@@ -997,15 +997,6 @@
     "stock": 3,
     "url": "https://www.rasasilver.com/products/dvi-vikranta-pendant?variant=gid://shopify/ProductVariant/50159118811433",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Screenshot2025-04-20222044.png?v=1749622752"
-  },
-  "gid://shopify/ProductVariant/50165132951849": {
-    "product_title": "Leherika Stone Pendant Set",
-    "variant_title": "Default Title",
-    "sku": "R11757",
-    "price": 5300.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/leherika-pendant-set?variant=gid://shopify/ProductVariant/50165132951849",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Screenshot2025-04-20222604.png?v=1745168219"
   },
   "gid://shopify/ProductVariant/50173607444777": {
     "product_title": "Edwardian Fleur Studs",
@@ -5830,6 +5821,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/studs-3?variant=gid://shopify/ProductVariant/51222115418409",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17_Sept0190.jpg?v=1759211499"
+  },
+  "gid://shopify/ProductVariant/51226516029737": {
+    "product_title": "Radiant Iris Chain Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "R13860",
+    "price": 13500.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/2-1?variant=gid://shopify/ProductVariant/51226516029737",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_58_Pics_22Sep28167.jpg?v=1758959246"
   },
   "gid://shopify/ProductVariant/51226521862441": {
     "product_title": "Regalia Dusk Chain Pendant Set",
@@ -14795,15 +14795,6 @@
     "url": "https://www.rasasilver.com/products/victorian-feather-pendant?variant=gid://shopify/ProductVariant/52560382984489",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0038copy_resized_1.jpg?v=1770275070"
   },
-  "gid://shopify/ProductVariant/52560526606633": {
-    "product_title": "Rosy Plume Victorian Pendant Set",
-    "variant_title": "Ruby Pink",
-    "sku": "R24064",
-    "price": 11970.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/rosy-plume-victorian-pendant-set?variant=gid://shopify/ProductVariant/52560526606633",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0235_copy_resized_82d42108-6ad7-4ec3-bf61-50a3322eda76.jpg?v=1770275605"
-  },
   "gid://shopify/ProductVariant/52560526639401": {
     "product_title": "Rosy Plume Victorian Pendant Set",
     "variant_title": "GREEN",
@@ -17797,7 +17788,7 @@
     "variant_title": "Default Title",
     "sku": "R25848",
     "price": 7900.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/shriprada-short-temple-necklace-copy?variant=gid://shopify/ProductVariant/52828252963113",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar01801_resized.jpg?v=1774595479"
   },
@@ -19282,7 +19273,7 @@
     "variant_title": "Default Title",
     "sku": "R26320",
     "price": 9900.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/indira-temple-necklace-copy-1?variant=gid://shopify/ProductVariant/52889966149929",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0133_resized.jpg?v=1775209332"
   },
@@ -23098,7 +23089,7 @@
     "variant_title": "Default Title",
     "sku": "R31529",
     "price": 1800.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/classic-cube-studs?variant=gid://shopify/ProductVariant/53288358445353",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5552_resized.jpg?v=1782372408"
   },
@@ -24700,7 +24691,7 @@
     "variant_title": "Default Title",
     "sku": "R31985",
     "price": 1600.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.rasasilver.com/products/minimal-plain-chain?variant=gid://shopify/ProductVariant/53329485431081",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0841_resized.jpg?v=1784115244"
   },
@@ -29527,15 +29518,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/1-2?variant=gid://shopify/ProductVariant/51226507542825",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_58_Pics_22Sep28162.jpg?v=1758959138"
-  },
-  "gid://shopify/ProductVariant/51226516029737": {
-    "product_title": "Radiant Iris Chain Pendant Set",
-    "variant_title": "Default Title",
-    "sku": "R13860",
-    "price": 13500.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/2-1?variant=gid://shopify/ProductVariant/51226516029737",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_58_Pics_22Sep28167.jpg?v=1758959246"
   },
   "gid://shopify/ProductVariant/51227053687081": {
     "product_title": "Lush Oasis Chain Pendant Set",
@@ -42379,6 +42361,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/oval-gardenia-victorian-pendant-set?variant=gid://shopify/ProductVariant/52560497017129",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0188copy_resized_91e0f773-1d80-4810-9aba-8114c762587e.jpg?v=1770275513"
+  },
+  "gid://shopify/ProductVariant/52560526606633": {
+    "product_title": "Rosy Plume Victorian Pendant Set",
+    "variant_title": "Ruby Pink",
+    "sku": "R24064",
+    "price": 11970.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/rosy-plume-victorian-pendant-set?variant=gid://shopify/ProductVariant/52560526606633",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0235_copy_resized_82d42108-6ad7-4ec3-bf61-50a3322eda76.jpg?v=1770275605"
   },
   "gid://shopify/ProductVariant/52560554393897": {
     "product_title": "Garden of Victorian Pendant",
