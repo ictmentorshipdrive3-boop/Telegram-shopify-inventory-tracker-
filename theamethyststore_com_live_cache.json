@@ -25154,15 +25154,6 @@
     "url": "https://www.theamethyststore.com/products/avikam-bangles-2?variant=gid://shopify/ProductVariant/46825922822371",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2221-_2.jpg?v=1752062471"
   },
-  "gid://shopify/ProductVariant/46826024206563": {
-    "product_title": "Shimmering Avikam Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-8820",
-    "price": 17787.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/shimmering-avikam-earrings?variant=gid://shopify/ProductVariant/46826024206563",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8820.jpg?v=1752062749"
-  },
   "gid://shopify/ProductVariant/46826057236707": {
     "product_title": "Jashvi Avikam Bangles",
     "variant_title": "2.4\"",
@@ -103049,6 +103040,15 @@
     "url": "https://www.theamethyststore.com/products/bindhu-kundan-jada?variant=gid://shopify/ProductVariant/46799599042787",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0530.jpg?v=1751977889"
   },
+  "gid://shopify/ProductVariant/46826024206563": {
+    "product_title": "Shimmering Avikam Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-8820",
+    "price": 17787.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/shimmering-avikam-earrings?variant=gid://shopify/ProductVariant/46826024206563",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8820.jpg?v=1752062749"
+  },
   "gid://shopify/ProductVariant/46827467276515": {
     "product_title": "Traditional Look Short Necklace",
     "variant_title": "Default Title",
@@ -109745,6 +109745,15 @@
     "url": "https://www.theamethyststore.com/products/aadhira-nagas-short-necklace-set-1?variant=gid://shopify/ProductVariant/48526354317539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13674.jpg?v=1774073378"
   },
+  "gid://shopify/ProductVariant/48532983513315": {
+    "product_title": "Grandeur Avikam Long Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15224",
+    "price": 139920.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/grandeur-avikam-long-necklace-set?variant=gid://shopify/ProductVariant/48532983513315",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15224.jpg?v=1774273038"
+  },
   "gid://shopify/ProductVariant/48556256166115": {
     "product_title": "Aravika Boho Short Necklace Set",
     "variant_title": "Default Title",
@@ -111742,6 +111751,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/divine-look-3d-spl-short-necklace-2?variant=gid://shopify/ProductVariant/48975045755107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15812_9f5b07bf-de9e-451a-9cd7-487a9a612613.jpg?v=1782802730"
+  },
+  "gid://shopify/ProductVariant/48987205992675": {
+    "product_title": "Vihaana Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15738",
+    "price": 54736.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vihaana-short-necklace-set?variant=gid://shopify/ProductVariant/48987205992675",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15738.jpg?v=1779086752"
   },
   "gid://shopify/ProductVariant/48987355119843": {
     "product_title": "Vishweshwari Nagas Jhumkas",
@@ -114541,5 +114559,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/diamond-design-studs-32?variant=gid://shopify/ProductVariant/49483391533283",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15076.jpg?v=1785579280"
+  },
+  "gid://shopify/ProductVariant/49497752436963": {
+    "product_title": "Sparkle Diamond Design Pair Bangle",
+    "variant_title": "2.4\"",
+    "sku": "AMS-107-3080-2.4\"",
+    "price": 69800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/diamond-design-pair-bangle?variant=gid://shopify/ProductVariant/49497752436963",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/WhatsAppImage2026-08-04at3.39.45PM.jpg?v=1785838556"
   }
 }
