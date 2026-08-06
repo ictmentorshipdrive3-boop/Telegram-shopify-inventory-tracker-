@@ -12154,7 +12154,7 @@
     "variant_title": "Default Title",
     "sku": "R22672",
     "price": 101200.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/morvya-kasu-necklace?variant=gid://shopify/ProductVariant/52393214705961",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0154copy_resized_ca181686-531e-469d-a50a-39ac7a4f50c7.jpg?v=1767692729"
   },
@@ -16460,15 +16460,6 @@
     "url": "https://www.rasasilver.com/products/hamsa-phool-kundan-necklace?variant=gid://shopify/ProductVariant/52750182351145",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5339_resized.jpg?v=1772540284"
   },
-  "gid://shopify/ProductVariant/52750464254249": {
-    "product_title": "Mor-Floralika Kundan Necklace",
-    "variant_title": "Default Title",
-    "sku": "R25009",
-    "price": 95850.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/swan-floralika-kundan-necklace?variant=gid://shopify/ProductVariant/52750464254249",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5264_1.jpg?v=1772540686"
-  },
   "gid://shopify/ProductVariant/52750851801385": {
     "product_title": "Rajmor Kundan Necklace",
     "variant_title": "Default Title",
@@ -19465,6 +19456,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/vanaja-drop-matil?variant=gid://shopify/ProductVariant/52898579120425",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20376_resized.jpg?v=1775544823"
+  },
+  "gid://shopify/ProductVariant/52898722349353": {
+    "product_title": "Mayurika Temple Matil",
+    "variant_title": "Default Title",
+    "sku": "R24360",
+    "price": 15200.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/mahika-temple-matil-copy?variant=gid://shopify/ProductVariant/52898722349353",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20464_resized.jpg?v=1775472868"
   },
   "gid://shopify/ProductVariant/52898816655657": {
     "product_title": "Bloom Haven Victorian Matil",
@@ -43892,6 +43892,15 @@
     "url": "https://www.rasasilver.com/products/berushaani-kundan-pendant?variant=gid://shopify/ProductVariant/52749960479017",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5392_resized.jpg?v=1772539669"
   },
+  "gid://shopify/ProductVariant/52750464254249": {
+    "product_title": "Mor-Floralika Kundan Necklace",
+    "variant_title": "Default Title",
+    "sku": "R25009",
+    "price": 95850.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/swan-floralika-kundan-necklace?variant=gid://shopify/ProductVariant/52750464254249",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5264_1.jpg?v=1772540686"
+  },
   "gid://shopify/ProductVariant/52750983921961": {
     "product_title": "Florusha Kundan Necklace",
     "variant_title": "Default Title",
@@ -46069,15 +46078,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/mahika-temple-matil?variant=gid://shopify/ProductVariant/52898719793449",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20418_resized.jpg?v=1775545194"
-  },
-  "gid://shopify/ProductVariant/52898722349353": {
-    "product_title": "Mayurika Temple Matil",
-    "variant_title": "Default Title",
-    "sku": "R24360",
-    "price": 15200.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/mahika-temple-matil-copy?variant=gid://shopify/ProductVariant/52898722349353",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20464_resized.jpg?v=1775472868"
   },
   "gid://shopify/ProductVariant/52898757574953": {
     "product_title": "Mallora Matil",
