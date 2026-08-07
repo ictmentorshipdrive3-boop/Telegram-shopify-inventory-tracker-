@@ -9332,15 +9332,6 @@
     "url": "https://www.daivik.in/products/premium-ad-necklace-with-earrings?variant=gid://shopify/ProductVariant/45974971187422",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BD0B0AD0-6DF6-4B35-857E-4112217D9FF6.jpg?v=1729613080"
   },
-  "gid://shopify/ProductVariant/45974972793054": {
-    "product_title": "Premium AD mattal",
-    "variant_title": "Default Title",
-    "sku": "1508",
-    "price": 1299.0,
-    "stock": 7,
-    "url": "https://www.daivik.in/products/premium-ad-mattal?variant=gid://shopify/ProductVariant/45974972793054",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7184C6A1-C3DA-44CC-A1C8-A4F0542CB634.jpg?v=1729613139"
-  },
   "gid://shopify/ProductVariant/45977953566942": {
     "product_title": "Ghungroo Ball Anklets in 2 Variants",
     "variant_title": "Green",
@@ -11920,7 +11911,7 @@
     "variant_title": "White",
     "sku": "1600",
     "price": 1299.0,
-    "stock": 47,
+    "stock": 46,
     "url": "https://www.daivik.in/products/moon-chandiran-kemp-jadau-bugadi?variant=gid://shopify/ProductVariant/47941914231006",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/625EEF49-0960-49F1-BEF1-983F2DD26E61.jpg?v=1745678929"
   },
@@ -17828,15 +17819,6 @@
     "url": "https://www.daivik.in/products/symmetric-lakshmi-coin-necklace-with-earrings?variant=gid://shopify/ProductVariant/47856146415838",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A4C1A805-9F89-4C6A-9237-2131C84DC8B3.jpg?v=1769262767"
   },
-  "gid://shopify/ProductVariant/47856914628830": {
-    "product_title": "Pure Kemp Brass Ruby Green Jhumka with Mattals",
-    "variant_title": "Default Title",
-    "sku": "1798",
-    "price": 7499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/pure-kemp-brass-ruby-green-jhumka-with-mattals?variant=gid://shopify/ProductVariant/47856914628830",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/18DFD212-9E7A-466A-8912-107E4BC889D0.jpg?v=1769340031"
-  },
   "gid://shopify/ProductVariant/47858169479390": {
     "product_title": "Simple Floral Antique Bugadi in 2 Colours",
     "variant_title": "Ruby",
@@ -20317,7 +20299,7 @@
     "variant_title": "Default Title",
     "sku": "1391",
     "price": 1999.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/lotus-ruby-green-invisible-chain-with-earrings?variant=gid://shopify/ProductVariant/48308560658654",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3AF4828D-ADA0-4FE0-B1FA-C6BC7EE0AD33.jpg?v=1780659624"
   },
@@ -26594,6 +26576,15 @@
     "url": "https://www.daivik.in/products/bridal-lakshmi-and-peacock-green-and-golden-beads-long-haram-with-jhumkas?variant=gid://shopify/ProductVariant/45972910702814",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FD7C5660-B3DE-4D18-BD1B-88DC6B7F5989.jpg?v=1729520599"
   },
+  "gid://shopify/ProductVariant/45974972793054": {
+    "product_title": "Premium AD mattal",
+    "variant_title": "Default Title",
+    "sku": "1508",
+    "price": 1299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/premium-ad-mattal?variant=gid://shopify/ProductVariant/45974972793054",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7184C6A1-C3DA-44CC-A1C8-A4F0542CB634.jpg?v=1729613139"
+  },
   "gid://shopify/ProductVariant/45977953599710": {
     "product_title": "Ghungroo Ball Anklets in 2 Variants",
     "variant_title": "Ruby",
@@ -29968,6 +29959,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/premium-antique-nagasi-short-jada-billai?variant=gid://shopify/ProductVariant/47854606090462",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2CAA43E4-0187-4EA1-98A7-529EE88A34DE.jpg?v=1769187302"
+  },
+  "gid://shopify/ProductVariant/47856914628830": {
+    "product_title": "Pure Kemp Brass Ruby Green Jhumka with Mattals",
+    "variant_title": "Default Title",
+    "sku": "1798",
+    "price": 7499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/pure-kemp-brass-ruby-green-jhumka-with-mattals?variant=gid://shopify/ProductVariant/47856914628830",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/18DFD212-9E7A-466A-8912-107E4BC889D0.jpg?v=1769340031"
   },
   "gid://shopify/ProductVariant/47859898450142": {
     "product_title": "Simple Floral Pendant Set with Chain",
