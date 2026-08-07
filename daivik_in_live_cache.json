@@ -9337,7 +9337,7 @@
     "variant_title": "Default Title",
     "sku": "1504",
     "price": 599.0,
-    "stock": 18,
+    "stock": 17,
     "url": "https://www.daivik.in/products/simple-ruby-green-flower-anklet?variant=gid://shopify/ProductVariant/45977990037726",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E7DC80CC-B691-47DA-BB27-8C71F9BADB1A.jpg?v=1729698852"
   },
@@ -17152,24 +17152,6 @@
     "stock": 2,
     "url": "https://www.daivik.in/products/moissanite-stone-choti-hair-accessory-comes-in-variants-1-pc-3-pc-5-pc?variant=gid://shopify/ProductVariant/47731040420062",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1894.heic?v=1764951516"
-  },
-  "gid://shopify/ProductVariant/47731041665246": {
-    "product_title": "Moissanite Stone Choti/Hair Accessory (Comes in variants: 1 pc / 3 pc / 5 pc)",
-    "variant_title": "1 pc",
-    "sku": "1752",
-    "price": 599.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/moissanite-stone-choti-hair-accessory-comes-in-variants-1-pc-3-pc-5-pc-copy?variant=gid://shopify/ProductVariant/47731041665246",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1881_0a494435-997d-41d4-b15a-503c961227dd.heic?v=1764951918"
-  },
-  "gid://shopify/ProductVariant/47731041698014": {
-    "product_title": "Moissanite Stone Choti/Hair Accessory (Comes in variants: 1 pc / 3 pc / 5 pc)",
-    "variant_title": "3 pc",
-    "sku": "1752",
-    "price": 1699.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/moissanite-stone-choti-hair-accessory-comes-in-variants-1-pc-3-pc-5-pc-copy?variant=gid://shopify/ProductVariant/47731041698014",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1881_0a494435-997d-41d4-b15a-503c961227dd.heic?v=1764951918"
   },
   "gid://shopify/ProductVariant/47736504844510": {
     "product_title": "Anti Tarnish Diamond Look Alike Adjustable Finger Ring",
@@ -29608,6 +29590,24 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/anti-tarnish-pearl-earrings?variant=gid://shopify/ProductVariant/47724049694942",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7803.heic?v=1764692017"
+  },
+  "gid://shopify/ProductVariant/47731041665246": {
+    "product_title": "Moissanite Stone Choti/Hair Accessory (Comes in variants: 1 pc / 3 pc / 5 pc)",
+    "variant_title": "1 pc",
+    "sku": "1752",
+    "price": 599.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/moissanite-stone-choti-hair-accessory-comes-in-variants-1-pc-3-pc-5-pc-copy?variant=gid://shopify/ProductVariant/47731041665246",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1881_0a494435-997d-41d4-b15a-503c961227dd.heic?v=1764951918"
+  },
+  "gid://shopify/ProductVariant/47731041698014": {
+    "product_title": "Moissanite Stone Choti/Hair Accessory (Comes in variants: 1 pc / 3 pc / 5 pc)",
+    "variant_title": "3 pc",
+    "sku": "1752",
+    "price": 1699.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/moissanite-stone-choti-hair-accessory-comes-in-variants-1-pc-3-pc-5-pc-copy?variant=gid://shopify/ProductVariant/47731041698014",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1881_0a494435-997d-41d4-b15a-503c961227dd.heic?v=1764951918"
   },
   "gid://shopify/ProductVariant/47731041730782": {
     "product_title": "Moissanite Stone Choti/Hair Accessory (Comes in variants: 1 pc / 3 pc / 5 pc)",
