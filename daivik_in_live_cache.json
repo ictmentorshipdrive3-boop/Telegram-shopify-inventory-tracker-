@@ -211,7 +211,7 @@
     "variant_title": "Default Title",
     "sku": "211",
     "price": 1999.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/211?variant=gid://shopify/ProductVariant/34430324605081",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_3126.jpg?v=1590237634"
   },
@@ -4603,7 +4603,7 @@
     "variant_title": "Default Title",
     "sku": "938",
     "price": 1999.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/mossanite-double-line-chain-with-studs?variant=gid://shopify/ProductVariant/44346079740126",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7930.heic?v=1694614804"
   },
@@ -4756,7 +4756,7 @@
     "variant_title": "2.10",
     "sku": "73",
     "price": 799.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/antique-lakshmi-white-stone-bangles?variant=gid://shopify/ProductVariant/46111852888286",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/77947BBF-DB6F-4632-B632-B2DBC4C85B6D.jpg?v=1696002712"
   },
@@ -5890,7 +5890,7 @@
     "variant_title": "Default Title",
     "sku": "271",
     "price": 4999.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/long-pearl-antique-brass-lakshmi-haram?variant=gid://shopify/ProductVariant/44667373748446",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2DAF5C60-094E-4E5D-A42F-976B6D330133.jpg?v=1705155636"
   },
@@ -9346,7 +9346,7 @@
     "variant_title": "Default Title",
     "sku": "1504",
     "price": 599.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/simple-ruby-green-flower-anklet?variant=gid://shopify/ProductVariant/45977990037726",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E7DC80CC-B691-47DA-BB27-8C71F9BADB1A.jpg?v=1729698852"
   },
@@ -16150,7 +16150,7 @@
     "variant_title": "Green",
     "sku": "711",
     "price": 3199.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/ad-pearl-mala-set-with-earrings?variant=gid://shopify/ProductVariant/47564628525278",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B39AF4BE-97D6-41F8-BEF0-DC096CF7AB91.jpg?v=1758992132"
   },
@@ -16818,15 +16818,6 @@
     "price": 1399.0,
     "stock": 41,
     "url": "https://www.daivik.in/products/ad-bangles-combo-price-for-both-hands?variant=gid://shopify/ProductVariant/47675040628958",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4FB4E00D-2FC2-4AB3-8CEF-D92B558E0C49.jpg?v=1763049497"
-  },
-  "gid://shopify/ProductVariant/47788653445342": {
-    "product_title": "AD Bangles Combo (Price for Both Hands)",
-    "variant_title": "2.10",
-    "sku": "1733",
-    "price": 1399.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-bangles-combo-price-for-both-hands?variant=gid://shopify/ProductVariant/47788653445342",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4FB4E00D-2FC2-4AB3-8CEF-D92B558E0C49.jpg?v=1763049497"
   },
   "gid://shopify/ProductVariant/47680524517598": {
@@ -20119,7 +20110,7 @@
     "variant_title": "Default Title",
     "sku": "841",
     "price": 799.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/sri-balaji-heritage-choker-with-studs?variant=gid://shopify/ProductVariant/48289643102430",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/84DF6BB0-9447-44E6-8BBB-5D467BC5ACC4.jpg?v=1780066755"
   },
@@ -29419,6 +29410,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/ad-mesh-necklace-with-studs-in-5-colours-price-for-each?variant=gid://shopify/ProductVariant/47669942190302",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D2F649D9-0CC0-47ED-8F54-DCF4D0222297.jpg?v=1762878208"
+  },
+  "gid://shopify/ProductVariant/47788653445342": {
+    "product_title": "AD Bangles Combo (Price for Both Hands)",
+    "variant_title": "2.10",
+    "sku": "1733",
+    "price": 1399.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-bangles-combo-price-for-both-hands?variant=gid://shopify/ProductVariant/47788653445342",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4FB4E00D-2FC2-4AB3-8CEF-D92B558E0C49.jpg?v=1763049497"
   },
   "gid://shopify/ProductVariant/47678095163614": {
     "product_title": "Lakshmi AD Kada (Price for a Pair)",
