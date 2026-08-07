@@ -16348,7 +16348,7 @@
     "variant_title": "Default Title",
     "sku": "R25383",
     "price": 3800.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/back-chain-copy?variant=gid://shopify/ProductVariant/52737922302249",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Screenshot2026-02-23at5_17_18PMcopy_jpg.jpg?v=1771847962"
   },
@@ -26081,6 +26081,15 @@
     "url": "https://www.rasasilver.com/products/panna-noor-victorian-kada?variant=gid://shopify/ProductVariant/53365606482217",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2566_resized.jpg?v=1785245332"
   },
+  "gid://shopify/ProductVariant/53365606711593": {
+    "product_title": "Petal Crown Victorian Kada",
+    "variant_title": "Default Title",
+    "sku": "R30993",
+    "price": 9100.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/ruby-crown-victorian-kada?variant=gid://shopify/ProductVariant/53365606711593",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July1005_01ad5bd9-9974-4752-b8e9-c4bd50e17bf5.jpg?v=1786106102"
+  },
   "gid://shopify/ProductVariant/53365608481065": {
     "product_title": "Imperial Rose Moissanite Kada",
     "variant_title": "2.3",
@@ -26089,6 +26098,24 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/imperial-rose-moissanite-kada?variant=gid://shopify/ProductVariant/53365608481065",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2531_resized.jpg?v=1785244941"
+  },
+  "gid://shopify/ProductVariant/53365611004201": {
+    "product_title": "Rose Crown Moissanite Kada",
+    "variant_title": "Pink",
+    "sku": "R30996",
+    "price": 13700.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/rose-crown-moissanite-kada?variant=gid://shopify/ProductVariant/53365611004201",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0995.jpg?v=1786106287"
+  },
+  "gid://shopify/ProductVariant/53365611036969": {
+    "product_title": "Rose Crown Moissanite Kada",
+    "variant_title": "GREEN",
+    "sku": "R30997",
+    "price": 12800.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/rose-crown-moissanite-kada?variant=gid://shopify/ProductVariant/53365611036969",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0995.jpg?v=1786106287"
   },
   "gid://shopify/ProductVariant/53365610152233": {
     "product_title": "Floral Veil Moissanite Kada",
