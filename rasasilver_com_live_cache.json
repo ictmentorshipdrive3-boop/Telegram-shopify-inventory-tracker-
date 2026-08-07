@@ -13067,15 +13067,6 @@
     "url": "https://www.rasasilver.com/products/veera-lakshmi-temple-necklace?variant=gid://shopify/ProductVariant/52451491447081",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_159Pics_14Jan3225_resized.jpg?v=1768976466"
   },
-  "gid://shopify/ProductVariant/52451505209641": {
-    "product_title": "Chitradevi Temple Necklace",
-    "variant_title": "Default Title",
-    "sku": "R23343",
-    "price": 18000.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/chitradevi-temple-necklace?variant=gid://shopify/ProductVariant/52451505209641",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_159Pics_14Jan3238_resized.jpg?v=1768976700"
-  },
   "gid://shopify/ProductVariant/52451517169961": {
     "product_title": "Kanchara Gajalakshmi Daab",
     "variant_title": "Default Title",
@@ -40823,6 +40814,15 @@
     "url": "https://www.rasasilver.com/products/jyoti-temple-necklace?variant=gid://shopify/ProductVariant/52451502457129",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_159Pics_14Jan3231_resized.jpg?v=1768976531"
   },
+  "gid://shopify/ProductVariant/52451505209641": {
+    "product_title": "Chitradevi Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R23343",
+    "price": 18000.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/chitradevi-temple-necklace?variant=gid://shopify/ProductVariant/52451505209641",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_159Pics_14Jan3238_resized.jpg?v=1768976700"
+  },
   "gid://shopify/ProductVariant/52451515924777": {
     "product_title": "Ruby-Lakshmi Temple Necklace",
     "variant_title": "Default Title",
@@ -49048,5 +49048,14 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/devi-madhulika-temple-necklace?variant=gid://shopify/ProductVariant/53411273081129",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageAug7_2026_01_57_56PM.png?v=1786091296"
+  },
+  "gid://shopify/ProductVariant/53411275800873": {
+    "product_title": "Dhanmaya Kaasu Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R25329",
+    "price": 12700.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/dhanmaya-kaasu-temple-necklace-1?variant=gid://shopify/ProductVariant/53411275800873",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageAug7_2026_02_01_39PM.png?v=1786091533"
   }
 }
