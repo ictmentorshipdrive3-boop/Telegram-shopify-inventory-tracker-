@@ -3586,7 +3586,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-1093",
     "price": 3930.56,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/ziya-pendant?variant=gid://shopify/ProductVariant/43631222128867",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-1093_9276c0e4-6dd4-4706-8644-99b0e165bf57.jpg?v=1709290174"
   },
@@ -48550,7 +48550,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-12718",
     "price": 40200.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.theamethyststore.com/products/dhivana-short-necklace?variant=gid://shopify/ProductVariant/47629990822115",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12718_5f7b1f1a-4bd1-4222-8abf-14cc19bd90a3.jpg?v=1781763306"
   },
@@ -57032,15 +57032,6 @@
     "url": "https://www.theamethyststore.com/products/avnita-hook-earrings?variant=gid://shopify/ProductVariant/47916209570019",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12987.jpg?v=1770122035"
   },
-  "gid://shopify/ProductVariant/47916235161827": {
-    "product_title": "Yavisha Kundan Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-12845",
-    "price": 4650.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/yavisha-kundan-studs?variant=gid://shopify/ProductVariant/47916235161827",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12845.jpg?v=1770122296"
-  },
   "gid://shopify/ProductVariant/47916235653347": {
     "product_title": "Ellen Diamond Design Short Necklace",
     "variant_title": "Default Title",
@@ -61018,15 +61009,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/anushi-pair-bangle?variant=gid://shopify/ProductVariant/48120376295651",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3058.jpg?v=1770729566"
-  },
-  "gid://shopify/ProductVariant/48123103674595": {
-    "product_title": "Yashini Attigai Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-14264",
-    "price": 20519.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/attigai-necklace-8?variant=gid://shopify/ProductVariant/48123103674595",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14264.jpg?v=1770731969"
   },
   "gid://shopify/ProductVariant/48124173844707": {
     "product_title": "Jashvitha Bullakku Nose Pin",
@@ -98801,6 +98783,15 @@
     "url": "https://www.theamethyststore.com/products/elegance-diamond-design-studs?variant=gid://shopify/ProductVariant/49508135403747",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15560.jpg?v=1786090687"
   },
+  "gid://shopify/ProductVariant/49508136321251": {
+    "product_title": "Shivikha Diamond Design Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15564",
+    "price": 4600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/diamond-design-studs-40?variant=gid://shopify/ProductVariant/49508136321251",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15564.jpg?v=1786090833"
+  },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
     "variant_title": "Default Title",
@@ -108719,6 +108710,15 @@
     "url": "https://www.theamethyststore.com/products/glara-kundan-studs-1?variant=gid://shopify/ProductVariant/47916178931939",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12844.jpg?v=1770121905"
   },
+  "gid://shopify/ProductVariant/47916235161827": {
+    "product_title": "Yavisha Kundan Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-12845",
+    "price": 4650.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/yavisha-kundan-studs?variant=gid://shopify/ProductVariant/47916235161827",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12845.jpg?v=1770122296"
+  },
   "gid://shopify/ProductVariant/47916279431395": {
     "product_title": "Barsha  Hook Earrings",
     "variant_title": "Default Title",
@@ -109285,6 +109285,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/astraea-short-necklace-set?variant=gid://shopify/ProductVariant/48106903994595",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11410_3.jpg?v=1774588395"
+  },
+  "gid://shopify/ProductVariant/48123103674595": {
+    "product_title": "Yashini Attigai Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-14264",
+    "price": 20519.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/attigai-necklace-8?variant=gid://shopify/ProductVariant/48123103674595",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14264.jpg?v=1770731969"
   },
   "gid://shopify/ProductVariant/48163024666851": {
     "product_title": "Rashikha Nagas Short Necklace",
