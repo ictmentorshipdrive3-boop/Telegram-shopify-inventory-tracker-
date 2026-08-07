@@ -81539,15 +81539,6 @@
     "url": "https://www.theamethyststore.com/products/kundan-jada-billa-7?variant=gid://shopify/ProductVariant/49320137031907",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0824.jpg?v=1782545207"
   },
-  "gid://shopify/ProductVariant/49320137916643": {
-    "product_title": "Gajakarna 3D Spl Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-4375",
-    "price": 2464.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/gajakarna-3d-spl-pendant?variant=gid://shopify/ProductVariant/49320137916643",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4375.jpg?v=1782545331"
-  },
   "gid://shopify/ProductVariant/49320149090531": {
     "product_title": "Mystic Aura Nagas Short Necklace",
     "variant_title": "Default Title",
@@ -81580,7 +81571,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4376",
     "price": 2700.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.theamethyststore.com/products/meenakshi-sundareswaran-3d-spl-pendant?variant=gid://shopify/ProductVariant/49320158953699",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4376.jpg?v=1782547015"
   },
@@ -114226,6 +114217,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/kundan-short-necklace-33?variant=gid://shopify/ProductVariant/49319995146467",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16479_2.jpg?v=1782536876"
+  },
+  "gid://shopify/ProductVariant/49320137916643": {
+    "product_title": "Gajakarna 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4375",
+    "price": 2464.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/gajakarna-3d-spl-pendant?variant=gid://shopify/ProductVariant/49320137916643",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4375.jpg?v=1782545331"
   },
   "gid://shopify/ProductVariant/49320162722019": {
     "product_title": "Manisha Nagas Jhumkas",
