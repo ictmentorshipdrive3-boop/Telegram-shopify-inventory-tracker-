@@ -6893,15 +6893,6 @@
     "url": "https://www.dulhanjewels.com/products/elegant-jadau-kundan-chandbali-earrings-with-emerald-drops?variant=gid://shopify/ProductVariant/51519049662770",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/C4EEA1F5-9D58-4308-BEE8-105DF390F64B.jpg?v=1785329209"
   },
-  "gid://shopify/ProductVariant/51519051170098": {
-    "product_title": "Chand Studded Jadau Kundan Jhumki Earrings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1500.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/chand-studded-jadau-kundan-jhumki-earrings-2?variant=gid://shopify/ProductVariant/51519051170098",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/86968E61-2BDA-4049-9B7C-843D03BF8054.jpg?v=1785413015"
-  },
   "gid://shopify/ProductVariant/51519057887538": {
     "product_title": "Regal Jadau Kundan Jhumki Earrings With Green Danglings",
     "variant_title": "Default Title",
@@ -7207,15 +7198,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/moissanite-jhumki-earrings-with-emerald-hangings?variant=gid://shopify/ProductVariant/51548551971122",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/5CA1CC98-4FB9-4186-B64B-209E0B1D75BC.jpg?v=1786018781"
-  },
-  "gid://shopify/ProductVariant/51548557607218": {
-    "product_title": "Elegant Jadau Kundan Choker With Green Drops",
-    "variant_title": "Red",
-    "sku": null,
-    "price": 2450.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/untitled-aug6_17-57-08?variant=gid://shopify/ProductVariant/51548557607218",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/A70525A8-1EE5-46A6-BF14-6C09E695E9D1.jpg?v=1786018905"
   },
   "gid://shopify/ProductVariant/51548557639986": {
     "product_title": "Elegant Jadau Kundan Choker With Green Drops",
@@ -8783,6 +8765,15 @@
     "url": "https://www.dulhanjewels.com/products/grand-jadau-kundan-long-necklace-set-with-pendant?variant=gid://shopify/ProductVariant/51548558917938",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/BCAA91ED-91A8-4CBF-A0AF-C6E8D82AC7B6.jpg?v=1785826424"
   },
+  "gid://shopify/ProductVariant/51519051170098": {
+    "product_title": "Chand Studded Jadau Kundan Jhumki Earrings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1500.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/chand-studded-jadau-kundan-jhumki-earrings-2?variant=gid://shopify/ProductVariant/51519051170098",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/86968E61-2BDA-4049-9B7C-843D03BF8054.jpg?v=1785413015"
+  },
   "gid://shopify/ProductVariant/51521743356210": {
     "product_title": "Fresh Water Pearls Mala With Matching Earrings",
     "variant_title": "Red",
@@ -8791,5 +8782,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/fresh-water-pearls-mala-with-matching-earrings?variant=gid://shopify/ProductVariant/51521743356210",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/1A0836C8-E537-4D60-8266-D2F465579666.jpg?v=1785579693"
+  },
+  "gid://shopify/ProductVariant/51548557607218": {
+    "product_title": "Elegant Jadau Kundan Choker With Green Drops",
+    "variant_title": "Red",
+    "sku": null,
+    "price": 2450.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/untitled-aug6_17-57-08?variant=gid://shopify/ProductVariant/51548557607218",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/A70525A8-1EE5-46A6-BF14-6C09E695E9D1.jpg?v=1786018905"
   }
 }
