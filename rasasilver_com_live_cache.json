@@ -16348,7 +16348,7 @@
     "variant_title": "Default Title",
     "sku": "R25383",
     "price": 3800.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/back-chain-copy?variant=gid://shopify/ProductVariant/52737922302249",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Screenshot2026-02-23at5_17_18PMcopy_jpg.jpg?v=1771847962"
   },
@@ -26045,6 +26045,15 @@
     "url": "https://www.rasasilver.com/products/aviary-heirloom-victorian-pendant-set?variant=gid://shopify/ProductVariant/53351033667881",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2690_resized.jpg?v=1785927066"
   },
+  "gid://shopify/ProductVariant/53351109787945": {
+    "product_title": "Pear Moissanite Payal",
+    "variant_title": "Default Title",
+    "sku": "R30859",
+    "price": 35200.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/pear-moissanite-payal?variant=gid://shopify/ProductVariant/53351109787945",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0285.jpg?v=1786106764"
+  },
   "gid://shopify/ProductVariant/53351133937961": {
     "product_title": "Royal Manor Victorian Bangles",
     "variant_title": "Default Title",
@@ -26071,6 +26080,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/rose-radiance-cz-bangles?variant=gid://shopify/ProductVariant/53362218271017",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2548_resized.jpg?v=1785242268"
+  },
+  "gid://shopify/ProductVariant/53362431721769": {
+    "product_title": "Pushp-Moti Moissanite Matil",
+    "variant_title": "Default Title",
+    "sku": "R30801",
+    "price": 42200.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/pushp-moti-moissanite-matil?variant=gid://shopify/ProductVariant/53362431721769",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0298.jpg?v=1786106911"
   },
   "gid://shopify/ProductVariant/53365606482217": {
     "product_title": "Panna Noor Moissanite Kada",
@@ -26188,6 +26206,24 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/fleurance-moissanite-haath-phool?variant=gid://shopify/ProductVariant/53365659795753",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2592_resized.jpg?v=1785238650"
+  },
+  "gid://shopify/ProductVariant/53370174964009": {
+    "product_title": "Harita Halo Kundan Ear Cuff",
+    "variant_title": "Default Title",
+    "sku": "R32164",
+    "price": 4500.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/harita-halo-kundan-ear-cuff?variant=gid://shopify/ProductVariant/53370174964009",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0272.jpg?v=1786107332"
+  },
+  "gid://shopify/ProductVariant/53370250690857": {
+    "product_title": "Parrot-Flora Kundan Ear Cuff",
+    "variant_title": "Default Title",
+    "sku": "R32714",
+    "price": 9000.0,
+    "stock": 2,
+    "url": "https://www.rasasilver.com/products/parrot-flora-kundan-ear-cuff?variant=gid://shopify/ProductVariant/53370250690857",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0277.jpg?v=1786107163"
   },
   "gid://shopify/ProductVariant/53370251542825": {
     "product_title": "Auravelle Moissanite Haath Phool",
