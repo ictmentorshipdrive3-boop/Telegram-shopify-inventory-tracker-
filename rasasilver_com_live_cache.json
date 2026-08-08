@@ -2123,15 +2123,6 @@
     "url": "https://www.rasasilver.com/products/glow-pixel-pendant-set?variant=gid://shopify/ProductVariant/50337171407145",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP09050copy.jpg?v=1747906968"
   },
-  "gid://shopify/ProductVariant/50337237401897": {
-    "product_title": "Camellia Luxe Pendant Set",
-    "variant_title": "Default Title",
-    "sku": "R5503",
-    "price": 5900.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/camellia-luxe-pendant-set?variant=gid://shopify/ProductVariant/50337237401897",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP09030copy.jpg?v=1747907298"
-  },
   "gid://shopify/ProductVariant/50337262436649": {
     "product_title": "Glitz of Love Fine Pendant",
     "variant_title": "Default Title",
@@ -3874,7 +3865,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R20436",
     "price": 4900.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.rasasilver.com/products/21-1?variant=gid://shopify/ProductVariant/52279182262569",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-6_57c28a5f-b6b0-4127-98ca-bf2c9cc67662.jpg?v=1754913752"
   },
@@ -26567,6 +26558,15 @@
     "url": "https://www.rasasilver.com/products/ovalelle-duo-bangles?variant=gid://shopify/ProductVariant/50325765685545",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP07176_copy.jpg?v=1747211002"
   },
+  "gid://shopify/ProductVariant/50337237401897": {
+    "product_title": "Camellia Luxe Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "R5503",
+    "price": 5900.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/camellia-luxe-pendant-set?variant=gid://shopify/ProductVariant/50337237401897",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP09030copy.jpg?v=1747907298"
+  },
   "gid://shopify/ProductVariant/50337324663081": {
     "product_title": "Lilium D\u2019or Pendant Set",
     "variant_title": "Default Title",
@@ -28483,6 +28483,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/meenakari-rani-oddiyanam?variant=gid://shopify/ProductVariant/50825126215977",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS_P989.jpg?v=1758189121"
+  },
+  "gid://shopify/ProductVariant/52279154082089": {
+    "product_title": "Pushpmani Dangle Earrings",
+    "variant_title": "Ruby Pink",
+    "sku": "R20476",
+    "price": 6200.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/pushpmani-danglers?variant=gid://shopify/ProductVariant/52279154082089",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP213.jpg?v=1756542102"
   },
   "gid://shopify/ProductVariant/50829126730025": {
     "product_title": "Champa Tarang Danglers",
