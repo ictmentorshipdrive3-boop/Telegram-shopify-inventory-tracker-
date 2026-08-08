@@ -4562,15 +4562,6 @@
     "url": "https://www.rasasilver.com/products/victalora-necklace?variant=gid://shopify/ProductVariant/50797964525865",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMRESSP614.jpg?v=1757405408"
   },
-  "gid://shopify/ProductVariant/50798274314537": {
-    "product_title": "Tilottama Kundan Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "R9944",
-    "price": 76800.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/tilottama-kundan-short-necklace?variant=gid://shopify/ProductVariant/50798274314537",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2366.jpg?v=1756447864"
-  },
   "gid://shopify/ProductVariant/50799146926377": {
     "product_title": "Mor Vilasa Kundan Necklace",
     "variant_title": "Default Title",
@@ -11281,7 +11272,7 @@
     "variant_title": "Default Title",
     "sku": "R21408",
     "price": 45000.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/victorian-gajwyn-necklace-set?variant=gid://shopify/ProductVariant/52267333910825",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_16Dec36161_1_1.jpg?v=1766221076"
   },
@@ -28132,6 +28123,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/rasvalli-necklace?variant=gid://shopify/ProductVariant/50798237843753",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP22.jpg?v=1756384435"
+  },
+  "gid://shopify/ProductVariant/50798274314537": {
+    "product_title": "Tilottama Kundan Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "R9944",
+    "price": 76800.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/tilottama-kundan-short-necklace?variant=gid://shopify/ProductVariant/50798274314537",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2366.jpg?v=1756447864"
   },
   "gid://shopify/ProductVariant/50799315190057": {
     "product_title": "Kundan Parijata Stud Earrings",
@@ -48436,6 +48436,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/kasu-sundari-temple-studs?variant=gid://shopify/ProductVariant/53296571384105",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2240_resized.jpg?v=1782894549"
+  },
+  "gid://shopify/ProductVariant/53296590061865": {
+    "product_title": "Shree Siri Temple Studs",
+    "variant_title": "GREEN",
+    "sku": "R31956",
+    "price": 5600.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/shree-siri-temple-studs?variant=gid://shopify/ProductVariant/53296590061865",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2342_resized.jpg?v=1784370593"
   },
   "gid://shopify/ProductVariant/53296590094633": {
     "product_title": "Shree Siri Temple Studs",
