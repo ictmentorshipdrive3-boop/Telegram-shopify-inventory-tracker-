@@ -44761,7 +44761,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-3523",
     "price": 18204.4,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/ashvika-nagas-pendant-set?variant=gid://shopify/ProductVariant/47395046457571",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3523.jpg?v=1761472863"
   },
@@ -61357,7 +61357,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-14640",
     "price": 19300.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/ashikha-nagas-short-necklace-set?variant=gid://shopify/ProductVariant/48172691751139",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14640.jpg?v=1770813547"
   },
@@ -63790,15 +63790,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/yalini-nagas-chain-set-1?variant=gid://shopify/ProductVariant/48298604822755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1799.jpg?v=1771750783"
-  },
-  "gid://shopify/ProductVariant/48298626089187": {
-    "product_title": "Shivani Nagas Chain Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-1797",
-    "price": 40526.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/shivani-nagas-chain-set?variant=gid://shopify/ProductVariant/48298626089187",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1797.jpg?v=1771750967"
   },
   "gid://shopify/ProductVariant/48298627236067": {
     "product_title": "Tharshikha Nagas Chain Set",
@@ -68026,7 +68017,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-13330",
     "price": 10560.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/classic-drops-earrings-1?variant=gid://shopify/ProductVariant/48796686811363",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13330.jpg?v=1776155079"
   },
@@ -109960,6 +109951,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/ganisha-nagas-chain-set?variant=gid://shopify/ProductVariant/48298586505443",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1784.jpg?v=1771744574"
+  },
+  "gid://shopify/ProductVariant/48298626089187": {
+    "product_title": "Shivani Nagas Chain Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-1797",
+    "price": 40526.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/shivani-nagas-chain-set?variant=gid://shopify/ProductVariant/48298626089187",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1797.jpg?v=1771750967"
   },
   "gid://shopify/ProductVariant/48299022024931": {
     "product_title": "Unique Designed Pendant",
