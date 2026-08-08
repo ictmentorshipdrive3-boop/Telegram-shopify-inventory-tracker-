@@ -21374,15 +21374,6 @@
     "url": "https://www.theamethyststore.com/products/mohana-stone-layer-necklace?variant=gid://shopify/ProductVariant/46457265422563",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9482.jpg?v=1749275245"
   },
-  "gid://shopify/ProductVariant/46457291735267": {
-    "product_title": "Nivar Stone Layer Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-9485",
-    "price": 42749.1,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nivar-stone-layer-necklace?variant=gid://shopify/ProductVariant/46457291735267",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9485.jpg?v=1749275785"
-  },
   "gid://shopify/ProductVariant/46457300910307": {
     "product_title": "Vedhika Short Necklace",
     "variant_title": "Default Title",
@@ -87412,7 +87403,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-16541",
     "price": 5800.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/srivikaa-hasli-necklace?variant=gid://shopify/ProductVariant/49393916707043",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16541.jpg?v=1783753220"
   },
@@ -89113,7 +89104,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4660",
     "price": 6315.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/nagas-pendant-39?variant=gid://shopify/ProductVariant/49415068811491",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4660.jpg?v=1784204469"
   },
@@ -103040,6 +103031,15 @@
     "url": "https://www.theamethyststore.com/products/sagana-double-layer-necklace?variant=gid://shopify/ProductVariant/46430991450339",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9466.jpg?v=1749188338"
   },
+  "gid://shopify/ProductVariant/46457291735267": {
+    "product_title": "Nivar Stone Layer Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-9485",
+    "price": 42749.1,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nivar-stone-layer-necklace?variant=gid://shopify/ProductVariant/46457291735267",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9485.jpg?v=1749275785"
+  },
   "gid://shopify/ProductVariant/46457663226083": {
     "product_title": "Laysa Stone Necklace",
     "variant_title": "Default Title",
@@ -115531,6 +115531,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/moissanite-drops-2?variant=gid://shopify/ProductVariant/49447422001379",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15515.jpg?v=1784984666"
+  },
+  "gid://shopify/ProductVariant/49447422034147": {
+    "product_title": "Stunning Moissanite Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4742",
+    "price": 38700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/stunning-moissanite-pendant-set?variant=gid://shopify/ProductVariant/49447422034147",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4742.jpg?v=1784984676"
   },
   "gid://shopify/ProductVariant/49483075322083": {
     "product_title": "Stunning Pakshi Short Necklace Set",
