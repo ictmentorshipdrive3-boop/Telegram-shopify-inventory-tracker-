@@ -4585,7 +4585,7 @@
     "variant_title": "Default Title",
     "sku": "910",
     "price": 1099.0,
-    "stock": 22,
+    "stock": 21,
     "url": "https://www.daivik.in/products/untitled-sep7_21-09?variant=gid://shopify/ProductVariant/44338668208350",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D54EFA73-AB4B-4A50-8663-86F80E2924BA.jpg?v=1694101215"
   },
@@ -7330,7 +7330,7 @@
     "variant_title": "Default Title",
     "sku": "348",
     "price": 999.0,
-    "stock": 37,
+    "stock": 36,
     "url": "https://www.daivik.in/products/lakshmi-jadau-kemp-teeka?variant=gid://shopify/ProductVariant/45649855742174",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/ADD1E3D3-F863-4BE2-811A-3D17E11DA95D.jpg?v=1719417897"
   },
@@ -9238,7 +9238,7 @@
     "variant_title": "Default Title",
     "sku": "657",
     "price": 999.0,
-    "stock": 18,
+    "stock": 17,
     "url": "https://www.daivik.in/products/antique-elegant-pearl-ruby-green-lakshmi-necklace-with-earrings?variant=gid://shopify/ProductVariant/45969739677918",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/74F50EE2-BF4D-4B9A-B867-E18F7AA79AF1.jpg?v=1773812312"
   },
@@ -9931,7 +9931,7 @@
     "variant_title": "2.4",
     "sku": "1514",
     "price": 1299.0,
-    "stock": 46,
+    "stock": 45,
     "url": "https://www.daivik.in/products/ad-green-bangles?variant=gid://shopify/ProductVariant/46122759979230",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BD79C196-27CD-4AE0-9735-781FAFF33BEB.jpg?v=1733241544"
   },
@@ -11299,7 +11299,7 @@
     "variant_title": "2.4",
     "sku": "1579",
     "price": 1499.0,
-    "stock": 51,
+    "stock": 50,
     "url": "https://www.daivik.in/products/ad-stone-bangles-price-for-a-pair?variant=gid://shopify/ProductVariant/46401150189790",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3679.heic?v=1742104840"
   },
@@ -12820,7 +12820,7 @@
     "variant_title": "Default Title",
     "sku": "1626",
     "price": 1499.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/kemp-chand-balis?variant=gid://shopify/ProductVariant/47076626759902",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/267FC0D6-5C2C-4FAB-B8ED-D220544563F7.jpg?v=1752468061"
   },
@@ -19591,15 +19591,6 @@
     "stock": 10,
     "url": "https://www.daivik.in/products/antique-lakshmi-kukum-box?variant=gid://shopify/ProductVariant/48133143757022",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EA29B6EE-BBBB-405F-B035-627F9B48C739.jpg?v=1776665078"
-  },
-  "gid://shopify/ProductVariant/48135850655966": {
-    "product_title": "Manga Kemp Bridal Combo",
-    "variant_title": "2.4",
-    "sku": "1873",
-    "price": 2599.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/manga-kemp-bridal-combo?variant=gid://shopify/ProductVariant/48135850655966",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A4B79477-1E05-489D-BF83-848ADAF50502.jpg?v=1776786791"
   },
   "gid://shopify/ProductVariant/48143141667038": {
     "product_title": "Kemp Jhumkas with kemp Mattal",
@@ -30697,6 +30688,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/floral-kemp-jadau-jhumkas-with-mattal?variant=gid://shopify/ProductVariant/48135262634206",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2BA4A078-6EE5-455D-BED9-11EF207D0004.jpg?v=1776771212"
+  },
+  "gid://shopify/ProductVariant/48135850655966": {
+    "product_title": "Manga Kemp Bridal Combo",
+    "variant_title": "2.4",
+    "sku": "1873",
+    "price": 2599.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/manga-kemp-bridal-combo?variant=gid://shopify/ProductVariant/48135850655966",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A4B79477-1E05-489D-BF83-848ADAF50502.jpg?v=1776786791"
   },
   "gid://shopify/ProductVariant/48135850688734": {
     "product_title": "Manga Kemp Bridal Combo",
