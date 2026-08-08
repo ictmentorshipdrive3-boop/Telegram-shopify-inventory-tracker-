@@ -3874,7 +3874,7 @@
     "variant_title": "Swarovski",
     "sku": "R20395",
     "price": 2600.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.rasasilver.com/products/18-1?variant=gid://shopify/ProductVariant/50712467964201",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-5_12687dec-4ab7-4203-946e-32ad4882a522.jpg?v=1754917046"
   },
@@ -22660,15 +22660,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/oval-floral-cz-danglers?variant=gid://shopify/ProductVariant/53283020046633",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1794_resized.jpg?v=1782136088"
-  },
-  "gid://shopify/ProductVariant/53283752411433": {
-    "product_title": "Starfall CZ Danglers",
-    "variant_title": "Default Title",
-    "sku": "R29582",
-    "price": 3600.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/starfall-cz-danglers?variant=gid://shopify/ProductVariant/53283752411433",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1831_resized.jpg?v=1782192957"
   },
   "gid://shopify/ProductVariant/53283847274793": {
     "product_title": "Srija CZ Bangles",
@@ -48112,6 +48103,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/pear-floral-cz-danglers?variant=gid://shopify/ProductVariant/53283751985449",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsApp_Image_2026-07-30_at_1.35.54_PM.jpg?v=1785398789"
+  },
+  "gid://shopify/ProductVariant/53283752411433": {
+    "product_title": "Starfall CZ Danglers",
+    "variant_title": "Default Title",
+    "sku": "R29582",
+    "price": 3600.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/starfall-cz-danglers?variant=gid://shopify/ProductVariant/53283752411433",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1831_resized.jpg?v=1782192957"
   },
   "gid://shopify/ProductVariant/53283808837929": {
     "product_title": "Crystal Oval CZ Danglers",
