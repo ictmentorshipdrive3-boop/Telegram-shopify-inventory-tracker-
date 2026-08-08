@@ -287,17 +287,19 @@ def fetch_current_inventory(domain, token, collection_handle=None):
     
     # Process active
     for v in active_variants:
-        stock = stock_results.get(v['variant_id'], 0)
-        if stock > 0:
-            current_inventory[v['variant_id']] = {
-                'product_title': clean_string(v['product_title']),
-                'variant_title': clean_string(v['variant_title']),
-                'sku': clean_string(v['sku']),
-                'price': v['price'],
-                'stock': stock,
-                'url': v['url'],
-                'image_url': v['image_url']
-            }
+        # If cartCreate probed finite stock > 0, use it. Otherwise fallback to stock 1 (since availableForSale=True)
+        probed_stock = stock_results.get(v['variant_id'], -1)
+        stock = probed_stock if probed_stock > 0 else 1
+        
+        current_inventory[v['variant_id']] = {
+            'product_title': clean_string(v['product_title']),
+            'variant_title': clean_string(v['variant_title']),
+            'sku': clean_string(v['sku']),
+            'price': v['price'],
+            'stock': stock,
+            'url': v['url'],
+            'image_url': v['image_url']
+        }
             
     # Process out of stock
     for v in out_of_stock_variants:
