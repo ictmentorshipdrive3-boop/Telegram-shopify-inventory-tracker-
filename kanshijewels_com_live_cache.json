@@ -5300,15 +5300,6 @@
     "url": "https://www.kanshijewels.com/products/jadau-kundan-earrings-155?variant=gid://shopify/ProductVariant/48667765965100",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2100_04c3242d-658c-40e1-aaba-d21fb5f84ca3.jpg?v=1713790375"
   },
-  "gid://shopify/ProductVariant/48667766554924": {
-    "product_title": "Jadau Kundan Earrings",
-    "variant_title": "Default Title",
-    "sku": "ER286",
-    "price": 1312.5,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-kundan-earrings-156?variant=gid://shopify/ProductVariant/48667766554924",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0414.jpg?v=1713790396"
-  },
   "gid://shopify/ProductVariant/48974823063852": {
     "product_title": "Jadau Kundan Choker",
     "variant_title": "Default Title",
@@ -8086,7 +8077,7 @@
     "variant_title": "Default Title",
     "sku": "NK146",
     "price": 2100.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.kanshijewels.com/products/jadau-necklace-5?variant=gid://shopify/ProductVariant/51119705325868",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaunecklace2900.jpg?v=1747995028"
   },
@@ -12760,6 +12751,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-earrings-150?variant=gid://shopify/ProductVariant/48667762131244",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0419_2.jpg?v=1713790251"
+  },
+  "gid://shopify/ProductVariant/48667766554924": {
+    "product_title": "Jadau Kundan Earrings",
+    "variant_title": "Default Title",
+    "sku": "ER286",
+    "price": 1312.5,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-kundan-earrings-156?variant=gid://shopify/ProductVariant/48667766554924",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0414.jpg?v=1713790396"
   },
   "gid://shopify/ProductVariant/48974859043116": {
     "product_title": "Jadau Kundan Jhumka",
