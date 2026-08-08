@@ -23962,7 +23962,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-2637",
     "price": 9700.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/lishma-stone-pendant?variant=gid://shopify/ProductVariant/46759814004963",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2637.jpg?v=1751093341"
   },
@@ -67859,15 +67859,6 @@
     "url": "https://www.theamethyststore.com/products/luxury-hook-drops-earrings?variant=gid://shopify/ProductVariant/48774661701859",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13336.jpg?v=1775992482"
   },
-  "gid://shopify/ProductVariant/48774664159459": {
-    "product_title": "Timeless beauty Hook Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-13337",
-    "price": 4576.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/hook-drops-earrings-3?variant=gid://shopify/ProductVariant/48774664159459",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13337.jpg?v=1775992636"
-  },
   "gid://shopify/ProductVariant/48774665666787": {
     "product_title": "Classic glow Hook Earrings",
     "variant_title": "Default Title",
@@ -83923,15 +83914,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/avikam-short-necklace-set-15?variant=gid://shopify/ProductVariant/49359544189155",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10881.jpg?v=1783079018"
-  },
-  "gid://shopify/ProductVariant/49359575908579": {
-    "product_title": "Avana Avikam Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16190",
-    "price": 38600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/avikam-short-necklace-set-17?variant=gid://shopify/ProductVariant/49359575908579",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16190.jpg?v=1783079531"
   },
   "gid://shopify/ProductVariant/49359576563939": {
     "product_title": "Celina Mugappu Chain",
@@ -111041,6 +111023,15 @@
     "url": "https://www.theamethyststore.com/products/tanirika-hook-jhumkas?variant=gid://shopify/ProductVariant/48774378782947",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13212.jpg?v=1775971189"
   },
+  "gid://shopify/ProductVariant/48774664159459": {
+    "product_title": "Timeless beauty Hook Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-13337",
+    "price": 4576.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/hook-drops-earrings-3?variant=gid://shopify/ProductVariant/48774664159459",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13337.jpg?v=1775992636"
+  },
   "gid://shopify/ProductVariant/48776937603299": {
     "product_title": "Traditional Deep Nagas Short Necklace",
     "variant_title": "Default Title",
@@ -114919,6 +114910,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/avikam-short-necklace-set-16?variant=gid://shopify/ProductVariant/49359569977571",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11110_2104b052-f1d5-477c-8c97-81aa5e8154a9.jpg?v=1783079224"
+  },
+  "gid://shopify/ProductVariant/49359575908579": {
+    "product_title": "Avana Avikam Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16190",
+    "price": 38600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/avikam-short-necklace-set-17?variant=gid://shopify/ProductVariant/49359575908579",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16190.jpg?v=1783079531"
   },
   "gid://shopify/ProductVariant/49359616540899": {
     "product_title": "Mahita Mugappu Chain",
