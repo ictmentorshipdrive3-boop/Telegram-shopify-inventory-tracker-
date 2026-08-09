@@ -3874,7 +3874,7 @@
     "variant_title": "GREEN",
     "sku": "R20364",
     "price": 4900.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/21-1?variant=gid://shopify/ProductVariant/52279182229801",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-6_57c28a5f-b6b0-4127-98ca-bf2c9cc67662.jpg?v=1754913752"
   },
@@ -19520,15 +19520,6 @@
     "url": "https://www.rasasilver.com/products/elvaris-matil?variant=gid://shopify/ProductVariant/52897848164649",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20602_resized_0a41f1fb-4b68-4dd8-8903-bf5c800f5c67.jpg?v=1775483180"
   },
-  "gid://shopify/ProductVariant/52897925660969": {
-    "product_title": "Althira Kundan Matil",
-    "variant_title": "GREEN",
-    "sku": "R25275",
-    "price": 18850.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/althira-matil?variant=gid://shopify/ProductVariant/52897925660969",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20511_resized.jpg?v=1775484372"
-  },
   "gid://shopify/ProductVariant/52897925693737": {
     "product_title": "Althira Kundan Matil",
     "variant_title": "Swarovski",
@@ -22261,7 +22252,7 @@
     "variant_title": "GREEN",
     "sku": "R29480",
     "price": 10300.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/blue-floriya-cz-necklace?variant=gid://shopify/ProductVariant/53282524692777",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May14581_resized.jpg?v=1782111166"
   },
@@ -22873,7 +22864,7 @@
     "variant_title": "Default Title",
     "sku": "R31554",
     "price": 2000.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/pearl-glow-chain-pendant?variant=gid://shopify/ProductVariant/53285986992425",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13380_resized.jpg?v=1782282565"
   },
@@ -24199,15 +24190,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/ruby-laksh-temple-kada?variant=gid://shopify/ProductVariant/53299616579881",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41448_resized.jpg?v=1783748450"
-  },
-  "gid://shopify/ProductVariant/53302493905193": {
-    "product_title": "Temple Mop Chain",
-    "variant_title": "Default Title",
-    "sku": "R29917",
-    "price": 15500.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/temple-mop-chain?variant=gid://shopify/ProductVariant/53302493905193",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41324_resized.jpg?v=1783603213"
   },
   "gid://shopify/ProductVariant/53302498230569": {
     "product_title": "Shri Temple Mop Chain",
@@ -46376,6 +46358,15 @@
     "url": "https://www.rasasilver.com/products/maulika-matil?variant=gid://shopify/ProductVariant/52897894531369",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20398.jpg?v=1775467514"
   },
+  "gid://shopify/ProductVariant/52897925660969": {
+    "product_title": "Althira Kundan Matil",
+    "variant_title": "GREEN",
+    "sku": "R25275",
+    "price": 18850.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/althira-matil?variant=gid://shopify/ProductVariant/52897925660969",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20511_resized.jpg?v=1775484372"
+  },
   "gid://shopify/ProductVariant/52897910718761": {
     "product_title": "Maathang Kundan Matil",
     "variant_title": "Ruby Pink",
@@ -48535,6 +48526,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/multi-radiance-necklace?variant=gid://shopify/ProductVariant/53302489383209",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41360_resized.jpg?v=1783601538"
+  },
+  "gid://shopify/ProductVariant/53302493905193": {
+    "product_title": "Temple Mop Chain",
+    "variant_title": "Default Title",
+    "sku": "R29917",
+    "price": 15500.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/temple-mop-chain?variant=gid://shopify/ProductVariant/53302493905193",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41324_resized.jpg?v=1783603213"
   },
   "gid://shopify/ProductVariant/53304579293481": {
     "product_title": "Hariyali Stone Hangings",
