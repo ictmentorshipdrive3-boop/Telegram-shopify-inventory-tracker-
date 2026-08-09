@@ -4702,7 +4702,7 @@
     "variant_title": "Default Title",
     "sku": "R11605",
     "price": 44400.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.rasasilver.com/products/back-belt?variant=gid://shopify/ProductVariant/50808980635945",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_24Pics_20Aug21644.jpg?v=1756537405"
   },
@@ -19726,15 +19726,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/dhanvisha-temple-necklace-set?variant=gid://shopify/ProductVariant/52911495479593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0328_resized.jpg?v=1775652856"
-  },
-  "gid://shopify/ProductVariant/52911502950697": {
-    "product_title": "Seshadri Temple Oddiyanam",
-    "variant_title": "Default Title",
-    "sku": "R26672",
-    "price": 99750.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/seshadri-temple-daab?variant=gid://shopify/ProductVariant/52911502950697",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_26_Mar20655_resized.jpg?v=1775648266"
   },
   "gid://shopify/ProductVariant/52911542501673": {
     "product_title": "Shiva Parivara Temple Oddiyanam",
@@ -46537,6 +46528,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/ovalora-victorian-kada-copy?variant=gid://shopify/ProductVariant/52911255716137",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_21_Mar20278_resized.jpg?v=1775650462"
+  },
+  "gid://shopify/ProductVariant/52911502950697": {
+    "product_title": "Seshadri Temple Oddiyanam",
+    "variant_title": "Default Title",
+    "sku": "R26672",
+    "price": 99750.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/seshadri-temple-daab?variant=gid://shopify/ProductVariant/52911502950697",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_26_Mar20655_resized.jpg?v=1775648266"
   },
   "gid://shopify/ProductVariant/52911539749161": {
     "product_title": "Blossira Moissanite Tikka",
