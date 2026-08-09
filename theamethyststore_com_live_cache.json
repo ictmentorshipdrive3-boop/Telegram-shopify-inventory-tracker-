@@ -45436,7 +45436,7 @@
     "variant_title": "8",
     "sku": "AMS-101-1703-08\"",
     "price": 2500.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/ring-28?variant=gid://shopify/ProductVariant/47441482809571",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1703_686da0ad-bf7e-469e-a099-99e3d70efa56.jpg?v=1762151287"
   },
@@ -48293,15 +48293,6 @@
     "url": "https://www.theamethyststore.com/products/kesvini-short-necklace-set?variant=gid://shopify/ProductVariant/47624227684579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12962.jpg?v=1763971633"
   },
-  "gid://shopify/ProductVariant/47624229388515": {
-    "product_title": "Majestic Long Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-12836",
-    "price": 73679.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/majestic-long-necklace-set?variant=gid://shopify/ProductVariant/47624229388515",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12836.jpg?v=1763971911"
-  },
   "gid://shopify/ProductVariant/47624903229667": {
     "product_title": "Charming Glow Short Necklace",
     "variant_title": "Default Title",
@@ -50632,15 +50623,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/yarani-short-necklace-1?variant=gid://shopify/ProductVariant/47739706736867",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13489.jpg?v=1765886188"
-  },
-  "gid://shopify/ProductVariant/47739734425827": {
-    "product_title": "Yamitha Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-11595",
-    "price": 11778.9,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/yamitha-jhumkas?variant=gid://shopify/ProductVariant/47739734425827",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11595_a155e9ad-4617-4837-92a8-49da5a5b42ad.jpg?v=1765887848"
   },
   "gid://shopify/ProductVariant/47739763032291": {
     "product_title": "Nethra Jhumkas",
@@ -98684,6 +98666,15 @@
     "url": "https://www.theamethyststore.com/products/nagas-jada-billa-1?variant=gid://shopify/ProductVariant/49509091442915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0959.jpg?v=1786112317"
   },
+  "gid://shopify/ProductVariant/49513996157155": {
+    "product_title": "Gorgeous Kundan Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17314",
+    "price": 93450.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/gorgeous-kundan-long-necklace?variant=gid://shopify/ProductVariant/49513996157155",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17314.jpg?v=1786250676"
+  },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
     "variant_title": "Default Title",
@@ -106982,6 +106973,15 @@
     "url": "https://www.theamethyststore.com/products/tharika-nagas-jhumkas-1?variant=gid://shopify/ProductVariant/47581351706851",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11207.jpg?v=1763538899"
   },
+  "gid://shopify/ProductVariant/47624229388515": {
+    "product_title": "Majestic Long Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-12836",
+    "price": 73679.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/majestic-long-necklace-set?variant=gid://shopify/ProductVariant/47624229388515",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12836.jpg?v=1763971911"
+  },
   "gid://shopify/ProductVariant/47624593015011": {
     "product_title": "Fabulous Long Necklace",
     "variant_title": "Default Title",
@@ -107593,6 +107593,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/monisha-jhumkas?variant=gid://shopify/ProductVariant/47739715518691",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11592.jpg?v=1765886791"
+  },
+  "gid://shopify/ProductVariant/47739734425827": {
+    "product_title": "Yamitha Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-11595",
+    "price": 11778.9,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/yamitha-jhumkas?variant=gid://shopify/ProductVariant/47739734425827",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11595_a155e9ad-4617-4837-92a8-49da5a5b42ad.jpg?v=1765887848"
   },
   "gid://shopify/ProductVariant/47739782332643": {
     "product_title": "Lahitha Jhumkas",
