@@ -67396,7 +67396,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-15190",
     "price": 8100.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.theamethyststore.com/products/elegant-hasli-necklace?variant=gid://shopify/ProductVariant/48763379548387",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15190.jpg?v=1775825902"
   },
@@ -87034,7 +87034,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-16496",
     "price": 5500.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/hasli-necklace-38?variant=gid://shopify/ProductVariant/49393830330595",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16496.jpg?v=1783749343"
   },
@@ -98737,6 +98737,78 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/diamond-design-pendant-42?variant=gid://shopify/ProductVariant/49514178838755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4568.jpg?v=1786253705"
+  },
+  "gid://shopify/ProductVariant/49514179952867": {
+    "product_title": "Catchy Kundan Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17400",
+    "price": 163160.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/catchy-kundan-long-necklace?variant=gid://shopify/ProductVariant/49514179952867",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17400.jpg?v=1786254294"
+  },
+  "gid://shopify/ProductVariant/49514185294051": {
+    "product_title": "Rashika Diamond Design Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4569",
+    "price": 4800.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/diamond-design-pendant-43?variant=gid://shopify/ProductVariant/49514185294051",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4569.jpg?v=1786254415"
+  },
+  "gid://shopify/ProductVariant/49514187292899": {
+    "product_title": "Vikash Diamond Design Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4570",
+    "price": 7500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/diamond-design-pendant-44?variant=gid://shopify/ProductVariant/49514187292899",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4570.jpg?v=1786254555"
+  },
+  "gid://shopify/ProductVariant/49514189521123": {
+    "product_title": "Ananya Diamond Design Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4869",
+    "price": 8400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/diamond-design-pendant-45?variant=gid://shopify/ProductVariant/49514189521123",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4869.jpg?v=1786254707"
+  },
+  "gid://shopify/ProductVariant/49514189684963": {
+    "product_title": "Kenisha Kundan Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17413",
+    "price": 151080.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/kenisha-kundan-long-necklace-1?variant=gid://shopify/ProductVariant/49514189684963",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17413.jpg?v=1786254764"
+  },
+  "gid://shopify/ProductVariant/49514189816035": {
+    "product_title": "Tanivika Diamond Design Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4870",
+    "price": 7000.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/diamond-design-pendant-46?variant=gid://shopify/ProductVariant/49514189816035",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4870.jpg?v=1786254882"
+  },
+  "gid://shopify/ProductVariant/49514190045411": {
+    "product_title": "Arshiya Diamond Design Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4871",
+    "price": 6700.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/diamond-design-pendant-47?variant=gid://shopify/ProductVariant/49514190045411",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4871.jpg?v=1786255035"
+  },
+  "gid://shopify/ProductVariant/49514190471395": {
+    "product_title": "Samitha Diamond Design Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4872",
+    "price": 8100.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/diamond-design-pendant-48?variant=gid://shopify/ProductVariant/49514190471395",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4872.jpg?v=1786255203"
   },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
