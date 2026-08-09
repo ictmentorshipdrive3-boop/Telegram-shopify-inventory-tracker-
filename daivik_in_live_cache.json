@@ -13,7 +13,7 @@
     "variant_title": "Default Title",
     "sku": "29",
     "price": 1999.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/29?variant=gid://shopify/ProductVariant/32600664506427",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG-6786.jpg?v=1583735555"
   },
@@ -571,7 +571,7 @@
     "variant_title": "Default Title",
     "sku": "400",
     "price": 1749.0,
-    "stock": 40,
+    "stock": 39,
     "url": "https://www.daivik.in/products/pure-uncut-kemp-vintage-necklace-with-earrings?variant=gid://shopify/ProductVariant/44178228478174",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C737AC2D-4625-48B3-A0E8-1A1FD009E918.jpg?v=1737636280"
   },
@@ -9904,7 +9904,7 @@
     "variant_title": "Default Title",
     "sku": "1169",
     "price": 799.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/ruby-green-antique-simple-necklace-set?variant=gid://shopify/ProductVariant/46121897361630",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E26FAB2D-6FB8-4034-8581-070F37D9395C.jpg?v=1733199831"
   },
@@ -10786,7 +10786,7 @@
     "variant_title": "Default Title",
     "sku": "1221",
     "price": 999.0,
-    "stock": 46,
+    "stock": 45,
     "url": "https://www.daivik.in/products/kemp-pastel-beads-necklace-with-earrings?variant=gid://shopify/ProductVariant/46297625559262",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/85A815FD-178A-42CB-A800-6B78BF024451.jpg?v=1781336593"
   },
@@ -13558,7 +13558,7 @@
     "variant_title": "Green",
     "sku": "1663",
     "price": 599.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/ad-flower-layer-jhumkas?variant=gid://shopify/ProductVariant/47471681732830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3227D9E3-A3F4-463A-AF86-3E59E3A480DF.jpg?v=1756278736"
   },
@@ -15763,7 +15763,7 @@
     "variant_title": "8 Inches String - Half Moolam",
     "sku": "3501",
     "price": 1299.0,
-    "stock": 3,
+    "stock": 56,
     "url": "https://www.daivik.in/products/jathi-malli-pink-shade-flower-reusable-gajra-16-inches?variant=gid://shopify/ProductVariant/47542602006750",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0342.heic?v=1758199868"
   },
@@ -21320,6 +21320,15 @@
     "url": "https://www.daivik.in/products/premium-gold-look-alike-antique-kada?variant=gid://shopify/ProductVariant/48584804761822",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B64A32E3-F256-4FBB-9AFC-A8820BE399C2.jpg?v=1786206007"
   },
+  "gid://shopify/ProductVariant/48586872553694": {
+    "product_title": "Simple Lotus Pendant Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "1112",
+    "price": 799.0,
+    "stock": 45,
+    "url": "https://www.daivik.in/products/simple-lotus-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48586872553694",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EA0E3112-00F1-4DB1-A5AB-9EE30EF10B2B.jpg?v=1786293531"
+  },
   "gid://shopify/ProductVariant/34430554472601": {
     "product_title": "Regular Use Stone Set Of Four Bangles",
     "variant_title": "2.4",
@@ -26215,15 +26224,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/ad-pendant-pearl-chain-in-3-colors?variant=gid://shopify/ProductVariant/45866086269150",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3BB9CDD1-47A6-40AD-B194-3E911E8BF795.jpg?v=1725623653"
-  },
-  "gid://shopify/ProductVariant/45875911721182": {
-    "product_title": "Non Idol Peacock Pastel Green Victorian Choker",
-    "variant_title": "Default Title",
-    "sku": "1112",
-    "price": 5499.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/non-idol-peacock-victorian-choker?variant=gid://shopify/ProductVariant/45875911721182",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/DCA10384-BECE-4944-AAEF-0285A2D3B8AC.jpg?v=1725983334"
   },
   "gid://shopify/ProductVariant/45879301538014": {
     "product_title": "AD Coral Bangles",
