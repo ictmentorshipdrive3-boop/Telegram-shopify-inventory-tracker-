@@ -6776,15 +6776,6 @@
     "url": "https://www.kanshijewels.com/products/jadau-kundan-ring-1?variant=gid://shopify/ProductVariant/50321642684716",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaukundanring1300_-_1.jpg?v=1734346525"
   },
-  "gid://shopify/ProductVariant/50321645142316": {
-    "product_title": "Jadau kundan hair pin",
-    "variant_title": "Default Title",
-    "sku": "AC106",
-    "price": 1470.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-kundan-hair-pin?variant=gid://shopify/ProductVariant/50321645142316",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaukundanhairpin1400.jpg?v=1734346578"
-  },
   "gid://shopify/ProductVariant/50321645961516": {
     "product_title": "Jadau kundan hair pin",
     "variant_title": "Default Title",
@@ -11308,7 +11299,7 @@
     "variant_title": "Default Title",
     "sku": "NK946",
     "price": 1690.0,
-    "stock": 20,
+    "stock": 19,
     "url": "https://www.kanshijewels.com/products/elegant-jadau-pendant-with-rice-pearls-chain?variant=gid://shopify/ProductVariant/53420265996588",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Elegantjadaupendantwithricepearlschain1690.jpg?v=1783576834"
   },
@@ -13030,6 +13021,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/jadau-mango-bangle?variant=gid://shopify/ProductVariant/50321640522028",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_1398.jpg?v=1734346429"
+  },
+  "gid://shopify/ProductVariant/50321645142316": {
+    "product_title": "Jadau kundan hair pin",
+    "variant_title": "Default Title",
+    "sku": "AC106",
+    "price": 1470.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-kundan-hair-pin?variant=gid://shopify/ProductVariant/50321645142316",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaukundanhairpin1400.jpg?v=1734346578"
   },
   "gid://shopify/ProductVariant/50321649140012": {
     "product_title": "Jadau bangle",
