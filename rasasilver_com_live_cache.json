@@ -13580,15 +13580,6 @@
     "url": "https://www.rasasilver.com/products/love-wing-ring?variant=gid://shopify/ProductVariant/52495125676329",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0091copy_resized_03ce144e-eeee-4a1d-84d2-a877309aa163.jpg?v=1769245113"
   },
-  "gid://shopify/ProductVariant/52495156019497": {
-    "product_title": "Peach Blush Ring",
-    "variant_title": "8",
-    "sku": "R13366",
-    "price": 2600.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/cz-ring?variant=gid://shopify/ProductVariant/52495156019497",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0085copy_resized_81775c4a-84ca-4dda-b3f1-95d37dc68297.jpg?v=1769490479"
-  },
   "gid://shopify/ProductVariant/52511283478825": {
     "product_title": "Nauka Kundan Danglers",
     "variant_title": "GREEN",
@@ -20803,7 +20794,7 @@
     "variant_title": "Default Title",
     "sku": "R28361",
     "price": 3800.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/ziva-spark-cz-ring-copy-1?variant=gid://shopify/ProductVariant/53138468241705",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_11May0182_resized.jpg?v=1781163440"
   },
@@ -41722,6 +41713,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/halo-curve-ring?variant=gid://shopify/ProductVariant/52495106572585",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0072copy_resized.jpg?v=1769245216"
+  },
+  "gid://shopify/ProductVariant/52495156019497": {
+    "product_title": "Peach Blush Ring",
+    "variant_title": "8",
+    "sku": "R13366",
+    "price": 2600.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/cz-ring?variant=gid://shopify/ProductVariant/52495156019497",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0085copy_resized_81775c4a-84ca-4dda-b3f1-95d37dc68297.jpg?v=1769490479"
   },
   "gid://shopify/ProductVariant/52495184068905": {
     "product_title": "Amora Violet Ring",
