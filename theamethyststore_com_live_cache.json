@@ -35986,7 +35986,7 @@
     "variant_title": "12",
     "sku": "AMS-101-1570-12\"",
     "price": 3520.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/ring-23?variant=gid://shopify/ProductVariant/47128377819363",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1570.jpg?v=1757160696"
   },
@@ -45769,7 +45769,7 @@
     "variant_title": "12",
     "sku": "AMS-101-1737-12''",
     "price": 5896.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/jerika-ring?variant=gid://shopify/ProductVariant/47442171625699",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1737.jpg?v=1762162776"
   },
@@ -90314,15 +90314,6 @@
     "url": "https://www.theamethyststore.com/products/royal-loom-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/49429966258403",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17023.jpg?v=1784529695"
   },
-  "gid://shopify/ProductVariant/49429967339747": {
-    "product_title": "Lumina Victorian Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17024",
-    "price": 70100.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/lumina-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/49429967339747",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17024.jpg?v=1784529982"
-  },
   "gid://shopify/ProductVariant/49429970616547": {
     "product_title": "Celestial Luxe Victorian Short Necklace Set",
     "variant_title": "Default Title",
@@ -98477,6 +98468,33 @@
     "url": "https://www.theamethyststore.com/products/diamond-design-pendant-41?variant=gid://shopify/ProductVariant/49508880351459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4894.jpg?v=1786104543"
   },
+  "gid://shopify/ProductVariant/49508885299427": {
+    "product_title": "Ashvikaa Avikam Pair Bangles",
+    "variant_title": "2.4\"",
+    "sku": "AMS-107-3355-2.4",
+    "price": 60200.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-28?variant=gid://shopify/ProductVariant/49508885299427",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3355.jpg?v=1786104719"
+  },
+  "gid://shopify/ProductVariant/49508885332195": {
+    "product_title": "Ashvikaa Avikam Pair Bangles",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-3355-2.6",
+    "price": 60400.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-28?variant=gid://shopify/ProductVariant/49508885332195",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3355.jpg?v=1786104719"
+  },
+  "gid://shopify/ProductVariant/49508885496035": {
+    "product_title": "Ashvikaa Avikam Pair Bangles",
+    "variant_title": "2.8\"",
+    "sku": "AMS-107-3355-2.8",
+    "price": 63600.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-28?variant=gid://shopify/ProductVariant/49508885496035",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3355.jpg?v=1786104719"
+  },
   "gid://shopify/ProductVariant/49508885627107": {
     "product_title": "Luxurious Nagas Long Necklace",
     "variant_title": "Default Title",
@@ -99043,6 +99061,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/admirable-kundan-short-necklace-4?variant=gid://shopify/ProductVariant/49514633003235",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17429.jpg?v=1786260759"
+  },
+  "gid://shopify/ProductVariant/49514633953507": {
+    "product_title": "Amazing Kundan Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17433",
+    "price": 105530.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/amazing-kundan-short-necklace-2?variant=gid://shopify/ProductVariant/49514633953507",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17433.jpg?v=1786261007"
   },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
@@ -115846,6 +115873,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/victorian-studs-19?variant=gid://shopify/ProductVariant/49429889450211",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14988.jpg?v=1784524317"
+  },
+  "gid://shopify/ProductVariant/49429967339747": {
+    "product_title": "Lumina Victorian Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17024",
+    "price": 70100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/lumina-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/49429967339747",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17024.jpg?v=1784529982"
   },
   "gid://shopify/ProductVariant/49436823879907": {
     "product_title": "Celestial Luxe Diamond Like Oddiyanam",
