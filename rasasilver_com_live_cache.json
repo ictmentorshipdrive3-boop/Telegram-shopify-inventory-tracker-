@@ -8585,6 +8585,15 @@
     "url": "https://www.rasasilver.com/products/shukamayi-bangles?variant=gid://shopify/ProductVariant/52263649181993",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0340copy_resized_1.jpg?v=1762943405"
   },
+  "gid://shopify/ProductVariant/51489255686441": {
+    "product_title": "Mayura Lekha Pendant",
+    "variant_title": "Default Title",
+    "sku": "R15092",
+    "price": 20900.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/mayura-lekha-pendant?variant=gid://shopify/ProductVariant/51489255686441",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0222copy_resized.jpg?v=1762940518"
+  },
   "gid://shopify/ProductVariant/51494679675177": {
     "product_title": "Florenza Oval Danglers",
     "variant_title": "Default Title",
@@ -8662,7 +8671,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R16460",
     "price": 17185.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/eshara-oxidised-payal?variant=gid://shopify/ProductVariant/51495544324393",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0093_copy_1.jpg?v=1763451618"
   },
@@ -24848,15 +24857,6 @@
     "url": "https://www.rasasilver.com/products/lakshmi-rajyam-temple-set?variant=gid://shopify/ProductVariant/53318417547561",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42258_resized.jpg?v=1783498337"
   },
-  "gid://shopify/ProductVariant/53318581879081": {
-    "product_title": "Nitya Lakshmi Temple Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R32293",
-    "price": 41000.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/nitya-lakshmi-temple-necklace-set?variant=gid://shopify/ProductVariant/53318581879081",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42246_resized.jpg?v=1783507253"
-  },
   "gid://shopify/ProductVariant/53324579012905": {
     "product_title": "Mandara Spark Stone Bangles",
     "variant_title": "Size",
@@ -26296,6 +26296,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/pearl-moissanite-mathapatti?variant=gid://shopify/ProductVariant/53362247500073",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0763.jpg?v=1786342054"
+  },
+  "gid://shopify/ProductVariant/53362252939561": {
+    "product_title": "Pinkish Beads Mala",
+    "variant_title": "Default Title",
+    "sku": "R32765",
+    "price": 7200.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/pinkish-beads-antique-mala?variant=gid://shopify/ProductVariant/53362252939561",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0434.jpg?v=1786363277"
   },
   "gid://shopify/ProductVariant/53362364317993": {
     "product_title": "Sea-Blue Beads Mala",
@@ -36304,15 +36313,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/shukapakshi-pendant-1?variant=gid://shopify/ProductVariant/51489230782761",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0283copy_resized_1.jpg?v=1762940447"
-  },
-  "gid://shopify/ProductVariant/51489255686441": {
-    "product_title": "Mayura Lekha Pendant",
-    "variant_title": "Default Title",
-    "sku": "R15092",
-    "price": 20900.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/mayura-lekha-pendant?variant=gid://shopify/ProductVariant/51489255686441",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0222copy_resized.jpg?v=1762940518"
   },
   "gid://shopify/ProductVariant/51489445675305": {
     "product_title": "Sugandh Phool Pendant",
@@ -49192,6 +49192,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/peacock-luxe-cz-jhumki?variant=gid://shopify/ProductVariant/53318508314921",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsApp_Image_2026-07-08_at_2.56.19_PM.jpg?v=1783505956"
+  },
+  "gid://shopify/ProductVariant/53318581879081": {
+    "product_title": "Nitya Lakshmi Temple Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R32293",
+    "price": 41000.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/nitya-lakshmi-temple-necklace-set?variant=gid://shopify/ProductVariant/53318581879081",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42246_resized.jpg?v=1783507253"
   },
   "gid://shopify/ProductVariant/53318604947753": {
     "product_title": "Lakshmi Kirana Temple Necklace Set",
