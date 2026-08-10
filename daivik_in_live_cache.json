@@ -17576,15 +17576,6 @@
     "url": "https://www.daivik.in/products/ad-green-bangle-combo-price-for-both-hands?variant=gid://shopify/ProductVariant/47834299400414",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/45B35157-5AE2-4542-A15C-6A31C78A21C2.jpg?v=1768578135"
   },
-  "gid://shopify/ProductVariant/47834299433182": {
-    "product_title": "AD Green Bangle Combo (Price for Both Hands)",
-    "variant_title": "2.8",
-    "sku": "1785",
-    "price": 3999.0,
-    "stock": 4,
-    "url": "https://www.daivik.in/products/ad-green-bangle-combo-price-for-both-hands?variant=gid://shopify/ProductVariant/47834299433182",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/45B35157-5AE2-4542-A15C-6A31C78A21C2.jpg?v=1768578135"
-  },
   "gid://shopify/ProductVariant/47834300973278": {
     "product_title": "AD Ruby Bangle Combo (Price for Both Hands)",
     "variant_title": "2.4",
@@ -19867,7 +19858,7 @@
     "variant_title": "Default Title",
     "sku": "1388",
     "price": 1399.0,
-    "stock": 42,
+    "stock": 43,
     "url": "https://www.daivik.in/products/a-31?variant=gid://shopify/ProductVariant/48267346772190",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CF4CC19F-42B5-4786-BFF0-3476E06D63F1.jpg?v=1779290628"
   },
@@ -20778,24 +20769,6 @@
     "price": 2299.0,
     "stock": 11,
     "url": "https://www.daivik.in/products/10-in-1-changeable-bangles?variant=gid://shopify/ProductVariant/48422119473374",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/JPEGimage-43A4-8F99-E6-0.jpg?v=1783684450"
-  },
-  "gid://shopify/ProductVariant/48422119506142": {
-    "product_title": "Openable Peacock Kada with Interchangeable Colour Bangles (10 Shades)",
-    "variant_title": "2.6",
-    "sku": "1924",
-    "price": 2299.0,
-    "stock": 8,
-    "url": "https://www.daivik.in/products/10-in-1-changeable-bangles?variant=gid://shopify/ProductVariant/48422119506142",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/JPEGimage-43A4-8F99-E6-0.jpg?v=1783684450"
-  },
-  "gid://shopify/ProductVariant/48422119538910": {
-    "product_title": "Openable Peacock Kada with Interchangeable Colour Bangles (10 Shades)",
-    "variant_title": "2.8",
-    "sku": "1924",
-    "price": 2299.0,
-    "stock": 8,
-    "url": "https://www.daivik.in/products/10-in-1-changeable-bangles?variant=gid://shopify/ProductVariant/48422119538910",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/JPEGimage-43A4-8F99-E6-0.jpg?v=1783684450"
   },
   "gid://shopify/ProductVariant/48422274859230": {
@@ -29888,6 +29861,15 @@
     "url": "https://www.daivik.in/products/half-moon-kemp-bugadi?variant=gid://shopify/ProductVariant/47829610594526",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/493B5BD2-E3EB-4405-821B-6B0D4425A497.jpg?v=1768455259"
   },
+  "gid://shopify/ProductVariant/47834299433182": {
+    "product_title": "AD Green Bangle Combo (Price for Both Hands)",
+    "variant_title": "2.8",
+    "sku": "1785",
+    "price": 3999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-green-bangle-combo-price-for-both-hands?variant=gid://shopify/ProductVariant/47834299433182",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/45B35157-5AE2-4542-A15C-6A31C78A21C2.jpg?v=1768578135"
+  },
   "gid://shopify/ProductVariant/47834301006046": {
     "product_title": "AD Ruby Bangle Combo (Price for Both Hands)",
     "variant_title": "2.6",
@@ -30868,6 +30850,24 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/invisible-green-ganesha-chain?variant=gid://shopify/ProductVariant/48447550390494",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/ADD05F51-8F3A-4262-86A7-4E853BC4FB59.jpg?v=1782904755"
+  },
+  "gid://shopify/ProductVariant/48422119506142": {
+    "product_title": "Openable Peacock Kada with Interchangeable Colour Bangles (10 Shades)",
+    "variant_title": "2.6",
+    "sku": "1924",
+    "price": 2299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/10-in-1-changeable-bangles?variant=gid://shopify/ProductVariant/48422119506142",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/JPEGimage-43A4-8F99-E6-0.jpg?v=1783684450"
+  },
+  "gid://shopify/ProductVariant/48422119538910": {
+    "product_title": "Openable Peacock Kada with Interchangeable Colour Bangles (10 Shades)",
+    "variant_title": "2.8",
+    "sku": "1924",
+    "price": 2299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/10-in-1-changeable-bangles?variant=gid://shopify/ProductVariant/48422119538910",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/JPEGimage-43A4-8F99-E6-0.jpg?v=1783684450"
   },
   "gid://shopify/ProductVariant/48424071037150": {
     "product_title": "Victorian Bridal Short and Long Combo Necklace with Earrings",
