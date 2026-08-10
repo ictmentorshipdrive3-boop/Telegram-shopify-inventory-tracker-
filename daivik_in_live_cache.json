@@ -9328,7 +9328,7 @@
     "variant_title": "Default Title",
     "sku": "1504",
     "price": 599.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.daivik.in/products/simple-ruby-green-flower-anklet?variant=gid://shopify/ProductVariant/45977990037726",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E7DC80CC-B691-47DA-BB27-8C71F9BADB1A.jpg?v=1729698852"
   },
@@ -11114,21 +11114,12 @@
     "url": "https://www.daivik.in/products/ad-hasli-dark-green-necklace-with-balis?variant=gid://shopify/ProductVariant/46349036519646",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/063511AC-1CDD-4E77-AC0F-4966AF43C301.jpg?v=1741505033"
   },
-  "gid://shopify/ProductVariant/46349378650334": {
-    "product_title": "Pure Kemp Brass Teekas",
-    "variant_title": "1",
-    "sku": "1570",
-    "price": 2399.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/pure-kemp-brass-teekas?variant=gid://shopify/ProductVariant/46349378650334",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D37CF94C-3D0A-40D7-BFC9-B3E15B6768BA.jpg?v=1741526394"
-  },
   "gid://shopify/ProductVariant/46349378748638": {
     "product_title": "Pure Kemp Brass Teekas",
     "variant_title": "4",
     "sku": "1570",
     "price": 2299.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/pure-kemp-brass-teekas?variant=gid://shopify/ProductVariant/46349378748638",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D37CF94C-3D0A-40D7-BFC9-B3E15B6768BA.jpg?v=1741526394"
   },
@@ -17716,7 +17707,7 @@
     "variant_title": "Ruby Green",
     "sku": "1799",
     "price": 499.0,
-    "stock": 48,
+    "stock": 47,
     "url": "https://www.daivik.in/products/simple-floral-antique-bugadi-in-2-colours?variant=gid://shopify/ProductVariant/47858169512158",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B33EEFAD-E473-4BC5-B313-A653F8EA874E.jpg?v=1769427881"
   },
@@ -27313,6 +27304,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/andal-kondai-in-4-styles-price-for-each?variant=gid://shopify/ProductVariant/46328685363422",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/963928FD-22B0-42AD-A45B-ACA90530A8F3.jpg?v=1740757574"
+  },
+  "gid://shopify/ProductVariant/46349378650334": {
+    "product_title": "Pure Kemp Brass Teekas",
+    "variant_title": "1",
+    "sku": "1570",
+    "price": 2399.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/pure-kemp-brass-teekas?variant=gid://shopify/ProductVariant/46349378650334",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D37CF94C-3D0A-40D7-BFC9-B3E15B6768BA.jpg?v=1741526394"
   },
   "gid://shopify/ProductVariant/46349378683102": {
     "product_title": "Pure Kemp Brass Teekas",
