@@ -7465,7 +7465,7 @@
     "variant_title": "Default Title",
     "sku": "NK197",
     "price": 546.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.kanshijewels.com/products/multipurpose-chain?variant=gid://shopify/ProductVariant/50702819459372",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Multipurposechain490.heic?v=1741258068"
   },
@@ -9598,7 +9598,7 @@
     "variant_title": "Default Title",
     "sku": "MT02",
     "price": 1200.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.kanshijewels.com/products/jadau-tika-6?variant=gid://shopify/ProductVariant/52445307601196",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_3119.jpg?v=1766141843"
   },
@@ -13768,5 +13768,14 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/elegant-dual-tone-gold-silver-chain?variant=gid://shopify/ProductVariant/53368843338028",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Elegantdualtonegoldsilverchain620.jpg?v=1782213813"
+  },
+  "gid://shopify/ProductVariant/53686835642668": {
+    "product_title": "test",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/test?variant=gid://shopify/ProductVariant/53686835642668",
+    "image_url": null
   }
 }
