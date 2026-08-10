@@ -11920,7 +11920,7 @@
     "variant_title": "Default Title",
     "sku": "R21705",
     "price": 25800.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/starveil-stone-bangles?variant=gid://shopify/ProductVariant/52338158633257",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_49_24Dec2061_resized.jpg?v=1767424447"
   },
@@ -26369,6 +26369,15 @@
     "url": "https://www.rasasilver.com/products/dynasty-nakshi-kanti?variant=gid://shopify/ProductVariant/53365568766249",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0375.jpg?v=1786366397"
   },
+  "gid://shopify/ProductVariant/53365580726569": {
+    "product_title": "Neela-Panna Kanti",
+    "variant_title": "Default Title",
+    "sku": "R32789",
+    "price": 9400.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/neela-panna-antique-kanti?variant=gid://shopify/ProductVariant/53365580726569",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0348.jpg?v=1786367462"
+  },
   "gid://shopify/ProductVariant/53365584101673": {
     "product_title": "Seraphine Nakshi Kanti",
     "variant_title": "Default Title",
@@ -26377,6 +26386,24 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/seraphine-nakshi-kanti?variant=gid://shopify/ProductVariant/53365584101673",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0381.jpg?v=1786366150"
+  },
+  "gid://shopify/ProductVariant/53365593243945": {
+    "product_title": "Blue-Kala Kanti",
+    "variant_title": "Default Title",
+    "sku": "R32796",
+    "price": 7000.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/blue-kala-antique-kanti?variant=gid://shopify/ProductVariant/53365593243945",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0341.jpg?v=1786367607"
+  },
+  "gid://shopify/ProductVariant/53365601894697": {
+    "product_title": "Yellow-Shapes Kanti",
+    "variant_title": "Yellow",
+    "sku": "R32801",
+    "price": 7000.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/yellow-shapes-antique-kanti?variant=gid://shopify/ProductVariant/53365601894697",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0358.jpg?v=1786366884"
   },
   "gid://shopify/ProductVariant/53365600583977": {
     "product_title": "Royale Pearl Kanti",
@@ -49462,6 +49489,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/orange-beads-antique-mala?variant=gid://shopify/ProductVariant/53362408554793",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July04481.jpg?v=1786362285"
+  },
+  "gid://shopify/ProductVariant/53365601927465": {
+    "product_title": "Yellow-Shapes Kanti",
+    "variant_title": "GREEN",
+    "sku": "R32803",
+    "price": 7000.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/yellow-shapes-antique-kanti?variant=gid://shopify/ProductVariant/53365601927465",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0358.jpg?v=1786366884"
   },
   "gid://shopify/ProductVariant/53365650882857": {
     "product_title": "Green CZ Ear Cuff",
