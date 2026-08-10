@@ -11420,15 +11420,6 @@
     "url": "https://www.rasasilver.com/products/hamsa-morika-choker?variant=gid://shopify/ProductVariant/52795442069801",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_16Dec36204.jpg?v=1766138232"
   },
-  "gid://shopify/ProductVariant/52795442102569": {
-    "product_title": "Hamsa Kundan Choker",
-    "variant_title": "Ruby Pink",
-    "sku": "R21521",
-    "price": 95850.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/hamsa-morika-choker?variant=gid://shopify/ProductVariant/52795442102569",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_16Dec36204.jpg?v=1766138232"
-  },
   "gid://shopify/ProductVariant/52279481794857": {
     "product_title": "Florya Victorian Bangles",
     "variant_title": "2.8",
@@ -20596,7 +20587,7 @@
     "variant_title": "Mint Green",
     "sku": "R28370",
     "price": 4600.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/myra-emerald-cz-studs?variant=gid://shopify/ProductVariant/53131822563625",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_11May0396_resized.jpg?v=1781245009"
   },
@@ -26014,7 +26005,7 @@
     "variant_title": "Default Title",
     "sku": "R30834",
     "price": 7100.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/muthuflora-cz-ring?variant=gid://shopify/ProductVariant/53350696026409",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0084_resized.jpg?v=1785927368"
   },
@@ -39706,6 +39697,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/rajmukta-choker?variant=gid://shopify/ProductVariant/52279431659817",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__16Dec36107.jpg?v=1766140037"
+  },
+  "gid://shopify/ProductVariant/52795442102569": {
+    "product_title": "Hamsa Kundan Choker",
+    "variant_title": "Ruby Pink",
+    "sku": "R21521",
+    "price": 95850.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/hamsa-morika-choker?variant=gid://shopify/ProductVariant/52795442102569",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_16Dec36204.jpg?v=1766138232"
   },
   "gid://shopify/ProductVariant/52279457808681": {
     "product_title": "Mor Kundan Choker",
