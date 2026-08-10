@@ -832,7 +832,7 @@
     "variant_title": "Default Title",
     "sku": "656",
     "price": 1199.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.daivik.in/products/simple-and-small-pure-kemp-jhumkas?variant=gid://shopify/ProductVariant/39434836574361",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_efb6bf02-8c97-4f01-8e8b-8fe052748f34.jpg?v=1615477628"
   },
@@ -1255,7 +1255,7 @@
     "variant_title": "Default Title",
     "sku": "845",
     "price": 1699.0,
-    "stock": 43,
+    "stock": 42,
     "url": "https://www.daivik.in/products/pure-kemp-peacock-jhumkas?variant=gid://shopify/ProductVariant/40988942401689",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_f1a78d25-5fdd-43b1-8a0f-311c5054d832.jpg?v=1630595789"
   },
@@ -15767,15 +15767,6 @@
     "url": "https://www.daivik.in/products/elegant-bloomed-jasmine-flower-artificial-gajra-16-inches?variant=gid://shopify/ProductVariant/47542601187550",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0354.heic?v=1758199815"
   },
-  "gid://shopify/ProductVariant/47542601515230": {
-    "product_title": "Elegant Jasmine/Mullai Flower Artificial Gajra",
-    "variant_title": "8 Inches String - Half Moolam",
-    "sku": "3507",
-    "price": 1299.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/elegant-jasmine-mullai-flower-artificial-gajra-16-inches?variant=gid://shopify/ProductVariant/47542601515230",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0344.heic?v=1758199863"
-  },
   "gid://shopify/ProductVariant/47542601547998": {
     "product_title": "Elegant Jasmine/Mullai Flower Artificial Gajra",
     "variant_title": "16 Inches String - Full Moolam",
@@ -21046,7 +21037,7 @@
     "variant_title": "Default Title",
     "sku": "1401",
     "price": 1699.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/diamond-look-alike-hasli-necklace-with-earrings-1?variant=gid://shopify/ProductVariant/48542645551326",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_56062.jpg?v=1785659057"
   },
@@ -29113,6 +29104,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/elegant-artificial-crossandra-kanakambaram-flower-8-inches?variant=gid://shopify/ProductVariant/47542602105054",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0346.heic?v=1758199854"
+  },
+  "gid://shopify/ProductVariant/47542601515230": {
+    "product_title": "Elegant Jasmine/Mullai Flower Artificial Gajra",
+    "variant_title": "8 Inches String - Half Moolam",
+    "sku": "3507",
+    "price": 1299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/elegant-jasmine-mullai-flower-artificial-gajra-16-inches?variant=gid://shopify/ProductVariant/47542601515230",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0344.heic?v=1758199863"
   },
   "gid://shopify/ProductVariant/47542849372382": {
     "product_title": "Diwali Sale Other Essentials D25802 (Price for Each)",
