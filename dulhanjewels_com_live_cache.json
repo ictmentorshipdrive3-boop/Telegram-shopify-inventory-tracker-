@@ -4688,15 +4688,6 @@
     "url": "https://www.dulhanjewels.com/products/p?variant=gid://shopify/ProductVariant/51071756861746",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-7900.jpg?v=1781350928"
   },
-  "gid://shopify/ProductVariant/51071758401842": {
-    "product_title": "Designer Nantad Necklace Set With Green Beads And Matching Studs",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1500.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/designer-nantad-necklace-set-with-green-beads-and-matching-studs?variant=gid://shopify/ProductVariant/51071758401842",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/752437A5-150B-4845-BBDE-F612ADC8A9E4.jpg?v=1776511072"
-  },
   "gid://shopify/ProductVariant/51071760793906": {
     "product_title": "Temple Beads Necklace With Laxmi Devi Center And Green Drops",
     "variant_title": "Default Title",
@@ -4738,7 +4729,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 1000.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.dulhanjewels.com/products/floral-jadau-kundan-stud-earrings-with-pearl-bordering?variant=gid://shopify/ProductVariant/51076769087794",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/F04EA3DE-F38E-48C2-A6FF-52E29E180AB9.jpg?v=1776772409"
   },
@@ -4801,7 +4792,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 1600.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.dulhanjewels.com/products/designer-floral-kundan-choker-with-green-beads?variant=gid://shopify/ProductVariant/51107212263730",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/341DE413-3FF3-4E82-A68C-A5EC3A05DF58.jpg?v=1777377269"
   },
@@ -5269,7 +5260,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 3650.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.dulhanjewels.com/products/elegant-jadau-kundan-full-kaan-earcuff?variant=gid://shopify/ProductVariant/51219191791922",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/839AFC12-E24C-4062-827B-C320F0831617.jpg?v=1780391177"
   },
@@ -5458,7 +5449,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 1500.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.dulhanjewels.com/products/floral-design-jadau-kundan-stud-earrings-with-pearl-bordering-1?variant=gid://shopify/ProductVariant/51269608669490",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FC00D4EF-F059-4408-A6F0-1F5D0590751B.jpg?v=1781080866"
   },
@@ -6307,6 +6298,15 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/ethnic-jadau-kundan-jhumki-earrings-with-green-bead-tassels?variant=gid://shopify/ProductVariant/51501266141490",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9620.jpg?v=1785498313"
+  },
+  "gid://shopify/ProductVariant/51501271089458": {
+    "product_title": "Traditional Jhumka Earrings with Green Beads And Pearl Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2650.0,
+    "stock": 1,
+    "url": "https://www.dulhanjewels.com/products/traditional-jhumka-earrings-with-green-beads-and-pearl-drops?variant=gid://shopify/ProductVariant/51501271089458",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9196.jpg?v=1784804152"
   },
   "gid://shopify/ProductVariant/51501271679282": {
     "product_title": "Ethnic Jadau Kundan Chandbali Earrings With Pearl Drops",
@@ -8612,6 +8612,15 @@
     "url": "https://www.dulhanjewels.com/products/antique-finish-kundan-choker-necklace-with-green-drops?variant=gid://shopify/ProductVariant/51056746561842",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6236E165-37E6-4270-AF8C-0588829DCCE1.jpg?v=1775905823"
   },
+  "gid://shopify/ProductVariant/51071758401842": {
+    "product_title": "Designer Nantad Necklace Set With Green Beads And Matching Studs",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1500.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/designer-nantad-necklace-set-with-green-beads-and-matching-studs?variant=gid://shopify/ProductVariant/51071758401842",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/752437A5-150B-4845-BBDE-F612ADC8A9E4.jpg?v=1776511072"
+  },
   "gid://shopify/ProductVariant/51090428821810": {
     "product_title": "Designer Jadau Kundan Bangle With Floral Pattern",
     "variant_title": "2-6",
@@ -8764,15 +8773,6 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/floral-stud-earrings-with-pearl-bordering?variant=gid://shopify/ProductVariant/51484153151794",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6266940520407962146.jpg?v=1784620083"
-  },
-  "gid://shopify/ProductVariant/51501271089458": {
-    "product_title": "Traditional Jhumka Earrings with Green Beads And Pearl Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2650.0,
-    "stock": 0,
-    "url": "https://www.dulhanjewels.com/products/traditional-jhumka-earrings-with-green-beads-and-pearl-drops?variant=gid://shopify/ProductVariant/51501271089458",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9196.jpg?v=1784804152"
   },
   "gid://shopify/ProductVariant/51548558917938": {
     "product_title": "Grand Jadau Kundan Long Necklace Set With Pendant",
