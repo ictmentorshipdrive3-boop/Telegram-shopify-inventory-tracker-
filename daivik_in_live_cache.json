@@ -9310,7 +9310,7 @@
     "variant_title": "Default Title",
     "sku": "1504",
     "price": 599.0,
-    "stock": 15,
+    "stock": 14,
     "url": "https://www.daivik.in/products/simple-ruby-green-flower-anklet?variant=gid://shopify/ProductVariant/45977990037726",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E7DC80CC-B691-47DA-BB27-8C71F9BADB1A.jpg?v=1729698852"
   },
@@ -16143,15 +16143,6 @@
     "price": 1999.0,
     "stock": 15,
     "url": "https://www.daivik.in/products/butta-antique-jadau-necklace-set-price-for-each?variant=gid://shopify/ProductVariant/47583155421406",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8995336F-3AD7-454D-BC03-490A54366A40.jpg?v=1759505403"
-  },
-  "gid://shopify/ProductVariant/47583155454174": {
-    "product_title": "Butta Antique Jadau Necklace set ( price for Each )",
-    "variant_title": "Only Long Haram",
-    "sku": "598",
-    "price": 3999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/butta-antique-jadau-necklace-set-price-for-each?variant=gid://shopify/ProductVariant/47583155454174",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8995336F-3AD7-454D-BC03-490A54366A40.jpg?v=1759505403"
   },
   "gid://shopify/ProductVariant/47583920226526": {
@@ -29230,6 +29221,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/untitled-oct1_21-35?variant=gid://shopify/ProductVariant/47576335286494",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EA7ABBFB-725E-4587-BBA2-D00441E47ACE.jpg?v=1759334756"
+  },
+  "gid://shopify/ProductVariant/47583155454174": {
+    "product_title": "Butta Antique Jadau Necklace set ( price for Each )",
+    "variant_title": "Only Long Haram",
+    "sku": "598",
+    "price": 3999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/butta-antique-jadau-necklace-set-price-for-each?variant=gid://shopify/ProductVariant/47583155454174",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8995336F-3AD7-454D-BC03-490A54366A40.jpg?v=1759505403"
   },
   "gid://shopify/ProductVariant/47583155486942": {
     "product_title": "Butta Antique Jadau Necklace set ( price for Each )",
