@@ -3680,15 +3680,6 @@
     "url": "https://www.rasasilver.com/products/phool-patra-ring?variant=gid://shopify/ProductVariant/50635383079209",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_b8e63f25-e347-47bc-a5b4-f852ef78fb3c.jpg?v=1754312394"
   },
-  "gid://shopify/ProductVariant/51412229259561": {
-    "product_title": "Zirconika Stone Ring",
-    "variant_title": "Ruby Pink",
-    "sku": "R17281",
-    "price": 2250.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/zirconika-ring?variant=gid://shopify/ProductVariant/51412229259561",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/3-2_a9ca0497-e6ce-4202-a821-dcefc58b6d3c.jpg?v=1754312006"
-  },
   "gid://shopify/ProductVariant/51412229292329": {
     "product_title": "Zirconika Stone Ring",
     "variant_title": "Green",
@@ -17207,15 +17198,6 @@
     "url": "https://www.rasasilver.com/products/swarna-devi-temple-necklace?variant=gid://shopify/ProductVariant/52799794643241",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/RasaSiver_115_Pics_6Mar36647_resized.jpg?v=1773731432"
   },
-  "gid://shopify/ProductVariant/52799821676841": {
-    "product_title": "Sreeva Mor Temple Danglers",
-    "variant_title": "Default Title",
-    "sku": "R26407",
-    "price": 7500.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/sreeva-mor-temple-danglers?variant=gid://shopify/ProductVariant/52799821676841",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_9Mar1008_resized.jpg?v=1773734955"
-  },
   "gid://shopify/ProductVariant/52799831408937": {
     "product_title": "Lakshmi-Peacock Temple Danglers",
     "variant_title": "Default Title",
@@ -27871,6 +27853,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/vanitha-spark-ring?variant=gid://shopify/ProductVariant/50635407196457",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_16.jpg?v=1754379257"
+  },
+  "gid://shopify/ProductVariant/51412229259561": {
+    "product_title": "Zirconika Stone Ring",
+    "variant_title": "Ruby Pink",
+    "sku": "R17281",
+    "price": 2250.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/zirconika-ring?variant=gid://shopify/ProductVariant/51412229259561",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/3-2_a9ca0497-e6ce-4202-a821-dcefc58b6d3c.jpg?v=1754312006"
   },
   "gid://shopify/ProductVariant/52263695188265": {
     "product_title": "Devi Darshanam Bangles",
@@ -45592,6 +45583,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/lakshira-temple-danglers?variant=gid://shopify/ProductVariant/52799819612457",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_9Mar0859_resized.jpg?v=1773734119"
+  },
+  "gid://shopify/ProductVariant/52799821676841": {
+    "product_title": "Sreeva Mor Temple Danglers",
+    "variant_title": "Default Title",
+    "sku": "R26407",
+    "price": 7500.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/sreeva-mor-temple-danglers?variant=gid://shopify/ProductVariant/52799821676841",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_9Mar1008_resized.jpg?v=1773734955"
   },
   "gid://shopify/ProductVariant/52799837274409": {
     "product_title": "Leherika Chain",
