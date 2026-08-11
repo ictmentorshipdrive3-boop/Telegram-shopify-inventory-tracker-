@@ -10849,7 +10849,7 @@
     "variant_title": "Default Title",
     "sku": "1228",
     "price": 2799.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/designer-ad-pearl-pastel-necklace-with-earrings?variant=gid://shopify/ProductVariant/46302297489630",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1829.heic?v=1740074820"
   },
@@ -15587,15 +15587,6 @@
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d25711?variant=gid://shopify/ProductVariant/47542914941150",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6816.jpg?v=1758141330"
   },
-  "gid://shopify/ProductVariant/47542915170526": {
-    "product_title": "Diwali Sale Bangles D25712",
-    "variant_title": "2.6",
-    "sku": "D25712",
-    "price": 399.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-bangles-d25712?variant=gid://shopify/ProductVariant/47542915170526",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6817.jpg?v=1758141332"
-  },
   "gid://shopify/ProductVariant/47542915039454": {
     "product_title": "Diwali Sale Bangles D25713",
     "variant_title": "2.4",
@@ -16033,7 +16024,7 @@
     "variant_title": "Default Title",
     "sku": "1700",
     "price": 499.0,
-    "stock": 43,
+    "stock": 42,
     "url": "https://www.daivik.in/products/ad-designer-openable-kada?variant=gid://shopify/ProductVariant/47564482576606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F6B8DA98-BEC0-4D00-A394-F6DC0A6DC9CF.jpg?v=1758971638"
   },
@@ -18850,7 +18841,7 @@
     "variant_title": "2.6",
     "sku": "1854",
     "price": 1499.0,
-    "stock": 41,
+    "stock": 40,
     "url": "https://www.daivik.in/products/victorian-spiral-ruby-ad-bangles?variant=gid://shopify/ProductVariant/48057311985886",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/77147F49-1B98-49B5-9135-B4ACF785E189.jpg?v=1775198787"
   },
@@ -29004,6 +28995,15 @@
     "price": 399.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d25712?variant=gid://shopify/ProductVariant/47542915137758",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6817.jpg?v=1758141332"
+  },
+  "gid://shopify/ProductVariant/47542915170526": {
+    "product_title": "Diwali Sale Bangles D25712",
+    "variant_title": "2.6",
+    "sku": "D25712",
+    "price": 399.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-bangles-d25712?variant=gid://shopify/ProductVariant/47542915170526",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6817.jpg?v=1758141332"
   },
   "gid://shopify/ProductVariant/47542915203294": {
