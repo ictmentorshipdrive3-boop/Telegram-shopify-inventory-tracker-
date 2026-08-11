@@ -12127,7 +12127,7 @@
     "variant_title": "2.4\"",
     "sku": "AMS-107-1398-2.4\"",
     "price": 23770.8,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/jivitha-kundan-pair-bangle?variant=gid://shopify/ProductVariant/45514112631011",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1398.jpg?v=1726312260"
   },
@@ -14629,7 +14629,7 @@
     "variant_title": "2.4\"",
     "sku": "AMS-107-1558-2.4\"",
     "price": 23770.8,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/nitra-kundan-pair-bangle?variant=gid://shopify/ProductVariant/46159133245667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1558-_2.jpg?v=1733484363"
   },
@@ -89783,15 +89783,6 @@
     "url": "https://www.theamethyststore.com/products/victorian-studs-15?variant=gid://shopify/ProductVariant/49426900910307",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14992.jpg?v=1784470210"
   },
-  "gid://shopify/ProductVariant/49429735538915": {
-    "product_title": "Abinaa Victorian Pendant set",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-4711",
-    "price": 11700.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/victorian-pendant-set-7?variant=gid://shopify/ProductVariant/49429735538915",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4711.jpg?v=1784522177"
-  },
   "gid://shopify/ProductVariant/49429746581731": {
     "product_title": "Tanisha Victorian Pendant set",
     "variant_title": "Default Title",
@@ -117124,6 +117115,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/victorian-maangtikka-5?variant=gid://shopify/ProductVariant/49426834129123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2401.jpg?v=1784465221"
+  },
+  "gid://shopify/ProductVariant/49429735538915": {
+    "product_title": "Abinaa Victorian Pendant set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4711",
+    "price": 11700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/victorian-pendant-set-7?variant=gid://shopify/ProductVariant/49429735538915",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4711.jpg?v=1784522177"
   },
   "gid://shopify/ProductVariant/49429889450211": {
     "product_title": "Cute Victorian Studs",
