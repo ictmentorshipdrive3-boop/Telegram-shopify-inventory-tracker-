@@ -23314,7 +23314,7 @@
     "variant_title": "Default Title",
     "sku": "R31549",
     "price": 900.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/studs-11?variant=gid://shopify/ProductVariant/53288735637801",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5636_resized.jpg?v=1782376212"
   },
@@ -25450,15 +25450,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/rosy-glow-bracelet?variant=gid://shopify/ProductVariant/53346362786089",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July1057.jpg?v=1786101878"
-  },
-  "gid://shopify/ProductVariant/53346367439145": {
-    "product_title": "Purple Grace Bracelet",
-    "variant_title": "Default Title",
-    "sku": "R32855",
-    "price": 3000.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/purple-grace-bracelet?variant=gid://shopify/ProductVariant/53346367439145",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July1079.jpg?v=1786100468"
   },
   "gid://shopify/ProductVariant/53346674901289": {
     "product_title": "Onyx Glam Bracelet",
@@ -49732,6 +49723,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/abstract-bracelet?variant=gid://shopify/ProductVariant/53346354200873",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July1052.jpg?v=1786102354"
+  },
+  "gid://shopify/ProductVariant/53346367439145": {
+    "product_title": "Purple Grace Bracelet",
+    "variant_title": "Default Title",
+    "sku": "R32855",
+    "price": 3000.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/purple-grace-bracelet?variant=gid://shopify/ProductVariant/53346367439145",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July1079.jpg?v=1786100468"
   },
   "gid://shopify/ProductVariant/53346506244393": {
     "product_title": "Padmavibhuti Temple Necklace",
