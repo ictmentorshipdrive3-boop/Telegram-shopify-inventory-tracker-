@@ -12068,15 +12068,6 @@
     "url": "https://www.theamethyststore.com/products/chandri-kundan-choker?variant=gid://shopify/ProductVariant/45509381325027",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7169.jpg?v=1726225396"
   },
-  "gid://shopify/ProductVariant/45509384241379": {
-    "product_title": "Kimaya Choker Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-7171",
-    "price": 87450.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kimaya-choker-necklace?variant=gid://shopify/ProductVariant/45509384241379",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7171-_2_9ecf016c-1ea0-4578-b098-6903f141cea5.jpg?v=1735565670"
-  },
   "gid://shopify/ProductVariant/45514016424163": {
     "product_title": "Nainika Long Necklace",
     "variant_title": "Default Title",
@@ -26837,15 +26828,6 @@
     "url": "https://www.theamethyststore.com/products/elisha-kundan-maatal?variant=gid://shopify/ProductVariant/46942960353507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1756.jpg?v=1753517629"
   },
-  "gid://shopify/ProductVariant/46943017009379": {
-    "product_title": "Rani Nagas Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-10939",
-    "price": 75338.1,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/rani-nagas-short-necklace?variant=gid://shopify/ProductVariant/46943017009379",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10939.jpg?v=1753517730"
-  },
   "gid://shopify/ProductVariant/46943020908771": {
     "product_title": "Sparkling Bracelet",
     "variant_title": "Default Title",
@@ -26944,15 +26926,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/aadhira-nagas-long-necklace-1?variant=gid://shopify/ProductVariant/46943232622819",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10955.jpg?v=1753528272"
-  },
-  "gid://shopify/ProductVariant/46943384469731": {
-    "product_title": "Avantika Nagas Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-10958",
-    "price": 153935.1,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/avantika-nagas-long-necklace?variant=gid://shopify/ProductVariant/46943384469731",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10958.jpg?v=1753530886"
   },
   "gid://shopify/ProductVariant/46943442174179": {
     "product_title": "Grand Look Necklace Set",
@@ -51438,7 +51411,7 @@
     "product_title": "Bridal Nagas Pair Bangles",
     "variant_title": "2.6\"",
     "sku": "AMS-107-2997-2.6\"",
-    "price": 59600.0,
+    "price": 52600.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/bridal-nagas-pair-bangles-1?variant=gid://shopify/ProductVariant/47794029265123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2997.jpg?v=1767614390"
@@ -102545,6 +102518,15 @@
     "url": "https://www.theamethyststore.com/products/clusting-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/45498511818979",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/DSC07932.jpg?v=1729835520"
   },
+  "gid://shopify/ProductVariant/45509384241379": {
+    "product_title": "Kimaya Choker Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-7171",
+    "price": 87450.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kimaya-choker-necklace?variant=gid://shopify/ProductVariant/45509384241379",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7171-_2_9ecf016c-1ea0-4578-b098-6903f141cea5.jpg?v=1735565670"
+  },
   "gid://shopify/ProductVariant/45513994043619": {
     "product_title": "Saaji Long Necklace",
     "variant_title": "Default Title",
@@ -105280,6 +105262,24 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/virshali-short-necklace-set?variant=gid://shopify/ProductVariant/46939009351907",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10236.jpg?v=1753427891"
+  },
+  "gid://shopify/ProductVariant/46943017009379": {
+    "product_title": "Rani Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-10939",
+    "price": 75338.1,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/rani-nagas-short-necklace?variant=gid://shopify/ProductVariant/46943017009379",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10939.jpg?v=1753517730"
+  },
+  "gid://shopify/ProductVariant/46943384469731": {
+    "product_title": "Avantika Nagas Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-10958",
+    "price": 153935.1,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/avantika-nagas-long-necklace?variant=gid://shopify/ProductVariant/46943384469731",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10958.jpg?v=1753530886"
   },
   "gid://shopify/ProductVariant/46943385387235": {
     "product_title": "Bridal Look Necklace Set",
