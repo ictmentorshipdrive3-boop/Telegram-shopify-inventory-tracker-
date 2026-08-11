@@ -82799,15 +82799,6 @@
     "url": "https://www.theamethyststore.com/products/trendy-avikam-short-necklace-set-2?variant=gid://shopify/ProductVariant/49334609936611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16189.jpg?v=1782821151"
   },
-  "gid://shopify/ProductVariant/49334619209955": {
-    "product_title": "Chic Avikam Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16191",
-    "price": 28072.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/chic-avikam-short-necklace-set-1?variant=gid://shopify/ProductVariant/49334619209955",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16191.jpg?v=1782821573"
-  },
   "gid://shopify/ProductVariant/49334620913891": {
     "product_title": "Vintage 3D Spl Short Necklace Set",
     "variant_title": "Default Title",
@@ -116287,6 +116278,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/3d-nagas-short-necklace-set-3?variant=gid://shopify/ProductVariant/49334537486563",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16369.jpg?v=1782819256"
+  },
+  "gid://shopify/ProductVariant/49334619209955": {
+    "product_title": "Chic Avikam Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16191",
+    "price": 28072.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/chic-avikam-short-necklace-set-1?variant=gid://shopify/ProductVariant/49334619209955",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16191.jpg?v=1782821573"
   },
   "gid://shopify/ProductVariant/49334621733091": {
     "product_title": "Glowing Avikam Short Necklace Set",
