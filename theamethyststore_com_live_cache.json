@@ -3788,15 +3788,6 @@
     "url": "https://www.theamethyststore.com/products/sherin-drops?variant=gid://shopify/ProductVariant/43660006654179",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-4017.jpg?v=1673953026"
   },
-  "gid://shopify/ProductVariant/43660155158755": {
-    "product_title": "Anita Stone Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-4026",
-    "price": 4900.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/anita-stone-drops?variant=gid://shopify/ProductVariant/43660155158755",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-4026.jpg?v=1673962181"
-  },
   "gid://shopify/ProductVariant/43660164661475": {
     "product_title": "Vikshi Stone Drops",
     "variant_title": "Default Title",
@@ -47312,15 +47303,6 @@
     "url": "https://www.theamethyststore.com/products/mithra-nagas-jhumkas-1?variant=gid://shopify/ProductVariant/47527656095971",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10712.jpg?v=1763113866"
   },
-  "gid://shopify/ProductVariant/47527705018595": {
-    "product_title": "Nitharshana Nagas Oddiyanam",
-    "variant_title": "Default Title",
-    "sku": "AMS-110-0778",
-    "price": 178839.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nitharshana-nagas-oddiyanam?variant=gid://shopify/ProductVariant/47527705018595",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0778.jpg?v=1763114436"
-  },
   "gid://shopify/ProductVariant/47527718944995": {
     "product_title": "Royal Charm Nagas Oddiyanam",
     "variant_title": "Default Title",
@@ -82813,7 +82795,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-16373",
     "price": 11176.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/3d-spl-short-necklace-set-3?variant=gid://shopify/ProductVariant/49334627467491",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16373.jpg?v=1782821925"
   },
@@ -101006,6 +100988,15 @@
     "url": "https://www.theamethyststore.com/products/yashika-pair-bangles?variant=gid://shopify/ProductVariant/43643809038563",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-107-0821.jpg?v=1673327697"
   },
+  "gid://shopify/ProductVariant/43660155158755": {
+    "product_title": "Anita Stone Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-4026",
+    "price": 4900.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/anita-stone-drops?variant=gid://shopify/ProductVariant/43660155158755",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-4026.jpg?v=1673962181"
+  },
   "gid://shopify/ProductVariant/43691519836387": {
     "product_title": "Preetha Nose Pin",
     "variant_title": "Default Title",
@@ -108268,6 +108259,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/long-earrings-11?variant=gid://shopify/ProductVariant/47527686504675",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10710.jpg?v=1763114043"
+  },
+  "gid://shopify/ProductVariant/47527705018595": {
+    "product_title": "Nitharshana Nagas Oddiyanam",
+    "variant_title": "Default Title",
+    "sku": "AMS-110-0778",
+    "price": 178839.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nitharshana-nagas-oddiyanam?variant=gid://shopify/ProductVariant/47527705018595",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0778.jpg?v=1763114436"
   },
   "gid://shopify/ProductVariant/47552678985955": {
     "product_title": "Tharika Nagas Jhumkas",
