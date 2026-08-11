@@ -44347,7 +44347,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-1627",
     "price": 3000.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.theamethyststore.com/products/nandhitha-stone-ring?variant=gid://shopify/ProductVariant/47392953893091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1627.jpg?v=1761375418"
   },
@@ -44383,7 +44383,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-1633",
     "price": 3000.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/avanthikha-stone-ring?variant=gid://shopify/ProductVariant/47392965132515",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1633_d68ec474-484c-4dd3-a028-e9b1df2e7674.jpg?v=1765882306"
   },
@@ -83024,15 +83024,6 @@
     "url": "https://www.theamethyststore.com/products/ashikha-avikam-earrings?variant=gid://shopify/ProductVariant/49334817947875",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14328.jpg?v=1782826191"
   },
-  "gid://shopify/ProductVariant/49334830432483": {
-    "product_title": "Nivinka Diamond Design Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14308",
-    "price": 5104.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/diamond-design-studs-20?variant=gid://shopify/ProductVariant/49334830432483",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14308.jpg?v=1782826272"
-  },
   "gid://shopify/ProductVariant/49334844522723": {
     "product_title": "Glittering Avikam Earrings",
     "variant_title": "Default Title",
@@ -99908,6 +99899,15 @@
     "url": "https://www.theamethyststore.com/products/aathmika-kundan-short-necklace?variant=gid://shopify/ProductVariant/49520097067235",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17474.jpg?v=1786436961"
   },
+  "gid://shopify/ProductVariant/49520427401443": {
+    "product_title": "Lovely Duck Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2166",
+    "price": 4100.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/chain-24?variant=gid://shopify/ProductVariant/49520427401443",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2166_2.jpg?v=1786443071"
+  },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
     "variant_title": "Default Title",
@@ -116359,6 +116359,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/charming-avikam-earrings?variant=gid://shopify/ProductVariant/49334778790115",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14314.jpg?v=1782825731"
+  },
+  "gid://shopify/ProductVariant/49334830432483": {
+    "product_title": "Nivinka Diamond Design Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14308",
+    "price": 5104.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/diamond-design-studs-20?variant=gid://shopify/ProductVariant/49334830432483",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14308.jpg?v=1782826272"
   },
   "gid://shopify/ProductVariant/49339954888931": {
     "product_title": "Ghanapriya 3D Spl Pendant",
