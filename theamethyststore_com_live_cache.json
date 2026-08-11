@@ -99836,6 +99836,15 @@
     "url": "https://www.theamethyststore.com/products/shanaya-kundan-short-necklace-1?variant=gid://shopify/ProductVariant/49519907340515",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17479.jpg?v=1786432062"
   },
+  "gid://shopify/ProductVariant/49519914254563": {
+    "product_title": "Narasimha Nagas Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4911",
+    "price": 6100.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nagas-pendant-45?variant=gid://shopify/ProductVariant/49519914254563",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4911.jpg?v=1786432580"
+  },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
     "variant_title": "Default Title",
@@ -117142,5 +117151,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/stone-ring-61?variant=gid://shopify/ProductVariant/49504435208419",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2226.jpg?v=1786000459"
+  },
+  "gid://shopify/ProductVariant/49519917891811": {
+    "product_title": "Testing Lmx",
+    "variant_title": "Default Title",
+    "sku": "TEST-111-2000",
+    "price": 0.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/testing-lmx?variant=gid://shopify/ProductVariant/49519917891811",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_jpg_df2c206f-8fda-456b-8e49-4954ebb24623.jpg?v=1786432571"
   }
 }
