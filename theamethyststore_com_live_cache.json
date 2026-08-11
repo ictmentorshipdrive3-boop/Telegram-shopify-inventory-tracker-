@@ -30622,7 +30622,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-0797",
     "price": 9592.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/amelia-bracelet?variant=gid://shopify/ProductVariant/47044461691107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-0797.jpg?v=1755777878"
   },
@@ -41395,7 +41395,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-11828",
     "price": 28700.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/cerlin-diamond-short-necklace-set?variant=gid://shopify/ProductVariant/47251784401123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11828-_4.jpg?v=1759832057"
   },
@@ -46672,15 +46672,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/glowing-kundan-short-necklace?variant=gid://shopify/ProductVariant/47486923866339",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12663.jpg?v=1762586962"
-  },
-  "gid://shopify/ProductVariant/47486930911459": {
-    "product_title": "Radiant Green Kundan Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-3531",
-    "price": 34500.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/radiant-green-kundan-pendant?variant=gid://shopify/ProductVariant/47486930911459",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3531.jpg?v=1762587873"
   },
   "gid://shopify/ProductVariant/47486933237987": {
     "product_title": "Gleaming Kundan Short Necklace",
@@ -86359,7 +86350,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-1339",
     "price": 4600.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.theamethyststore.com/products/stone-bracelet-8?variant=gid://shopify/ProductVariant/49389193855203",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1339.jpg?v=1783670124"
   },
@@ -108187,6 +108178,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/eternal-glow-kundan-jada-billa?variant=gid://shopify/ProductVariant/47471210004707",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0635.jpg?v=1762498974"
+  },
+  "gid://shopify/ProductVariant/47486930911459": {
+    "product_title": "Radiant Green Kundan Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-3531",
+    "price": 34500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/radiant-green-kundan-pendant?variant=gid://shopify/ProductVariant/47486930911459",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3531.jpg?v=1762587873"
   },
   "gid://shopify/ProductVariant/47487469682915": {
     "product_title": "Janita Kundan Maatal",
