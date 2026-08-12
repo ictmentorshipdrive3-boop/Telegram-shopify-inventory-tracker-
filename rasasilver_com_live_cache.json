@@ -9701,15 +9701,6 @@
     "url": "https://www.rasasilver.com/products/swanore-necklace-set?variant=gid://shopify/ProductVariant/51526922961193",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Box01_12Nov0566_resized.jpg?v=1763450262"
   },
-  "gid://shopify/ProductVariant/51526947111209": {
-    "product_title": "Rosmang\u00e9 Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R18141",
-    "price": 66800.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/rosmange-necklace-set?variant=gid://shopify/ProductVariant/51526947111209",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Box01_12Nov0539_resized.jpg?v=1763451411"
-  },
   "gid://shopify/ProductVariant/51526997803305": {
     "product_title": "Regency Tusk Pendant",
     "variant_title": "Default Title",
@@ -12220,15 +12211,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/devalaya-temple-necklace?variant=gid://shopify/ProductVariant/52400152117545",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0238copy_resized_52d811a9-da4c-45a3-a642-1c0b3bb809cb.jpg?v=1767699745"
-  },
-  "gid://shopify/ProductVariant/52415795364137": {
-    "product_title": "Emerald Petal CZ Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R22823",
-    "price": 78200.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/emerald-petal-cz-necklace-set?variant=gid://shopify/ProductVariant/52415795364137",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_72Pics_10Jan3075_resized.jpg?v=1769586329"
   },
   "gid://shopify/ProductVariant/52415813943593": {
     "product_title": "Green Muse CZ Necklace Set",
@@ -16159,7 +16141,7 @@
     "variant_title": "Default Title",
     "sku": "R25383",
     "price": 3570.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/back-chain-copy?variant=gid://shopify/ProductVariant/52737922302249",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Screenshot2026-02-23at5_17_18PMcopy_jpg.jpg?v=1771847962"
   },
@@ -36341,6 +36323,15 @@
     "url": "https://www.rasasilver.com/products/mirantha-bangles?variant=gid://shopify/ProductVariant/52263583318313",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa-10Nov_Sann0085_resized.jpg?v=1763378080"
   },
+  "gid://shopify/ProductVariant/51526947111209": {
+    "product_title": "Rosmang\u00e9 Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R18141",
+    "price": 66800.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/rosmange-necklace-set?variant=gid://shopify/ProductVariant/51526947111209",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Box01_12Nov0539_resized.jpg?v=1763451411"
+  },
   "gid://shopify/ProductVariant/51526960546089": {
     "product_title": "Emerosia Necklace Set",
     "variant_title": "Default Title",
@@ -38788,6 +38779,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/gutta-pasalu-temple-necklace?variant=gid://shopify/ProductVariant/52400136192297",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0110copy_resized_9866f2fb-6b33-4542-8b55-c993ddfbbc7e.jpg?v=1767699941"
+  },
+  "gid://shopify/ProductVariant/52415795364137": {
+    "product_title": "Emerald Petal CZ Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R22823",
+    "price": 78200.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/emerald-petal-cz-necklace-set?variant=gid://shopify/ProductVariant/52415795364137",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_72Pics_10Jan3075_resized.jpg?v=1769586329"
   },
   "gid://shopify/ProductVariant/52415847301417": {
     "product_title": "Blush Victorian Choker",
