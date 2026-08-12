@@ -6380,15 +6380,6 @@
     "url": "https://www.rasasilver.com/products/chain-pendant-1?variant=gid://shopify/ProductVariant/51317412462889",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS413_3c68c642-86a2-4f43-8b7f-a5652a809567.jpg?v=1760350945"
   },
-  "gid://shopify/ProductVariant/51317458600233": {
-    "product_title": "Rosivra Chain Pendant",
-    "variant_title": "Default Title",
-    "sku": "R13243",
-    "price": 2040.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/chain-pendant-5?variant=gid://shopify/ProductVariant/51317458600233",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS415.jpg?v=1760351278"
-  },
   "gid://shopify/ProductVariant/51317492482345": {
     "product_title": "Pholia Chain Pendant",
     "variant_title": "Default Title",
@@ -6424,15 +6415,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/eterni-link-bracelet?variant=gid://shopify/ProductVariant/51345272832297",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS465.jpg?v=1760419064"
-  },
-  "gid://shopify/ProductVariant/51345546936617": {
-    "product_title": "Miraflor Chain Pendant",
-    "variant_title": "Default Title",
-    "sku": "R13251",
-    "price": 2295.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/miraflor-chain-pendant?variant=gid://shopify/ProductVariant/51345546936617",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS503.jpg?v=1760359534"
   },
   "gid://shopify/ProductVariant/51345558405417": {
     "product_title": "Starlora Chain Pendant",
@@ -30446,6 +30428,15 @@
     "url": "https://www.rasasilver.com/products/chain-pendant-4?variant=gid://shopify/ProductVariant/51317450998057",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS430.jpg?v=1760351998"
   },
+  "gid://shopify/ProductVariant/51317458600233": {
+    "product_title": "Rosivra Chain Pendant",
+    "variant_title": "Default Title",
+    "sku": "R13243",
+    "price": 2040.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/chain-pendant-5?variant=gid://shopify/ProductVariant/51317458600233",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS415.jpg?v=1760351278"
+  },
   "gid://shopify/ProductVariant/51317473345833": {
     "product_title": "Floryn Wing Chain Pendant",
     "variant_title": "Default Title",
@@ -30697,6 +30688,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/saathya-mangalsutra?variant=gid://shopify/ProductVariant/51345524883753",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS501.jpg?v=1760359072"
+  },
+  "gid://shopify/ProductVariant/51345546936617": {
+    "product_title": "Miraflor Chain Pendant",
+    "variant_title": "Default Title",
+    "sku": "R13251",
+    "price": 2295.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/miraflor-chain-pendant?variant=gid://shopify/ProductVariant/51345546936617",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS503.jpg?v=1760359534"
   },
   "gid://shopify/ProductVariant/51345580556585": {
     "product_title": "Auris Link Bracelet",
