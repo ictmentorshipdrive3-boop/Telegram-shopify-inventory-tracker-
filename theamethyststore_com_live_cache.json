@@ -31211,15 +31211,6 @@
     "url": "https://www.theamethyststore.com/products/mahithasri-stone-maatal?variant=gid://shopify/ProductVariant/47048977449187",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1644.jpg?v=1755858294"
   },
-  "gid://shopify/ProductVariant/47048987017443": {
-    "product_title": "Shalini Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-9204",
-    "price": 8400.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/shalini-drops?variant=gid://shopify/ProductVariant/47048987017443",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9204.jpg?v=1755858644"
-  },
   "gid://shopify/ProductVariant/47048987050211": {
     "product_title": "Amazing Stone Jhumkas",
     "variant_title": "Default Title",
@@ -58246,15 +58237,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/kundan-ring-15?variant=gid://shopify/ProductVariant/47989270249699",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1966.jpg?v=1770356928"
-  },
-  "gid://shopify/ProductVariant/47989516697827": {
-    "product_title": "Shinning Kundan Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-12838",
-    "price": 3300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/shinning-kundan-studs-3?variant=gid://shopify/ProductVariant/47989516697827",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12838.jpg?v=1770357195"
   },
   "gid://shopify/ProductVariant/47989618245859": {
     "product_title": "Starring Kundan Ring",
@@ -100421,6 +100403,60 @@
     "url": "https://www.theamethyststore.com/products/nagas-chain-26?variant=gid://shopify/ProductVariant/49524681113827",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2181.jpg?v=1786536152"
   },
+  "gid://shopify/ProductVariant/49524694745315": {
+    "product_title": "Tanujaa Nagas Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2182",
+    "price": 36300.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nagas-chain-27?variant=gid://shopify/ProductVariant/49524694745315",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2182.jpg?v=1786537021"
+  },
+  "gid://shopify/ProductVariant/49524696482019": {
+    "product_title": "Gleaming Moissanite Pair Bangles",
+    "variant_title": "2.4\"",
+    "sku": "AMS-107-3469-2.4\"",
+    "price": 84400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/moissanite-pair-bangles-3?variant=gid://shopify/ProductVariant/49524696482019",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3469.jpg?v=1786537168"
+  },
+  "gid://shopify/ProductVariant/49524696744163": {
+    "product_title": "Diyaa Nagas Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2183",
+    "price": 35800.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nagas-chain-28?variant=gid://shopify/ProductVariant/49524696744163",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2183.jpg?v=1786537205"
+  },
+  "gid://shopify/ProductVariant/49524698939619": {
+    "product_title": "Shinning Moissanite Pair Bangles",
+    "variant_title": "2.4\"",
+    "sku": "AMS-107-3467-2.4\"",
+    "price": 72000.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/moissanite-pair-bangles-4?variant=gid://shopify/ProductVariant/49524698939619",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3467_2.jpg?v=1786537334"
+  },
+  "gid://shopify/ProductVariant/49524700283107": {
+    "product_title": "Prakitha Nagas Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2188",
+    "price": 34600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nagas-chain-29?variant=gid://shopify/ProductVariant/49524700283107",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2188.jpg?v=1786537670"
+  },
+  "gid://shopify/ProductVariant/49524701069539": {
+    "product_title": "Sparkling Moissanite Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15183",
+    "price": 5600.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/moissanite-drops-4?variant=gid://shopify/ProductVariant/49524701069539",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15183.jpg?v=1786537670"
+  },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
     "variant_title": "Default Title",
@@ -106568,6 +106604,15 @@
     "url": "https://www.theamethyststore.com/products/unique-long-earrings-1?variant=gid://shopify/ProductVariant/47048953528547",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9180.jpg?v=1755857459"
   },
+  "gid://shopify/ProductVariant/47048987017443": {
+    "product_title": "Shalini Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-9204",
+    "price": 8400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/shalini-drops?variant=gid://shopify/ProductVariant/47048987017443",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9204.jpg?v=1755858644"
+  },
   "gid://shopify/ProductVariant/47049002156259": {
     "product_title": "Floral Drop Earrings",
     "variant_title": "Default Title",
@@ -111085,6 +111130,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/yalikha-kundan-ring?variant=gid://shopify/ProductVariant/47988867432675",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1964.jpg?v=1770356573"
+  },
+  "gid://shopify/ProductVariant/47989516697827": {
+    "product_title": "Shinning Kundan Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-12838",
+    "price": 3300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/shinning-kundan-studs-3?variant=gid://shopify/ProductVariant/47989516697827",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12838.jpg?v=1770357195"
   },
   "gid://shopify/ProductVariant/47994276282595": {
     "product_title": "Jessica Kundan Ring",
