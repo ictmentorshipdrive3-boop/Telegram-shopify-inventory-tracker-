@@ -10907,15 +10907,6 @@
     "url": "https://www.daivik.in/products/premium-lakshmi-ruby-green-beads-long-haram?variant=gid://shopify/ProductVariant/46321066868958",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EEAFF794-A7DF-4FF1-8691-25A9BE4BA851.jpg?v=1740496232"
   },
-  "gid://shopify/ProductVariant/46323231785182": {
-    "product_title": "Two Line Pearl Choker with Earrings in 3 Colors (Price for Each)",
-    "variant_title": "Dark Green",
-    "sku": "523",
-    "price": 799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/two-like-pearl-choker-with-earrings?variant=gid://shopify/ProductVariant/46323231785182",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8516979F-B389-44A8-8A4E-0A80D62D19F2.jpg?v=1740581098"
-  },
   "gid://shopify/ProductVariant/46610542493918": {
     "product_title": "Designer Mossanite Carved stone Earrings in Three Colors (Price for Each)",
     "variant_title": "Turquoise",
@@ -11947,7 +11938,7 @@
     "variant_title": "Default Title",
     "sku": "1258",
     "price": 999.0,
-    "stock": 44,
+    "stock": 43,
     "url": "https://www.daivik.in/products/half-moon-ad-necklace-with-earrings?variant=gid://shopify/ProductVariant/46675256312030",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F4136161-FB12-4394-8EDD-72E3FE92901F.jpg?v=1746545689"
   },
@@ -27267,6 +27258,15 @@
     "price": 799.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/two-like-pearl-choker-with-earrings?variant=gid://shopify/ProductVariant/46323231752414",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8516979F-B389-44A8-8A4E-0A80D62D19F2.jpg?v=1740581098"
+  },
+  "gid://shopify/ProductVariant/46323231785182": {
+    "product_title": "Two Line Pearl Choker with Earrings in 3 Colors (Price for Each)",
+    "variant_title": "Dark Green",
+    "sku": "523",
+    "price": 799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/two-like-pearl-choker-with-earrings?variant=gid://shopify/ProductVariant/46323231785182",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8516979F-B389-44A8-8A4E-0A80D62D19F2.jpg?v=1740581098"
   },
   "gid://shopify/ProductVariant/46323231817950": {
