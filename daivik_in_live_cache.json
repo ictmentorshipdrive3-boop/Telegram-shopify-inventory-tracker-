@@ -3073,7 +3073,7 @@
     "variant_title": "Default Title",
     "sku": "538",
     "price": 999.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/a-327?variant=gid://shopify/ProductVariant/43546226196702",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_53420f7a-2acc-41f8-89b3-e97b3002fb4c.heic?v=1666190684"
   },
@@ -5226,15 +5226,6 @@
     "price": 1699.0,
     "stock": 50,
     "url": "https://www.daivik.in/products/ad-diamond-look-alike-smaller-necklace-and-earrings-in-2-colors-prices-for-each?variant=gid://shopify/ProductVariant/44408679039198",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9578.heic?v=1697296909"
-  },
-  "gid://shopify/ProductVariant/44408679071966": {
-    "product_title": "AD Diamond look alike Necklace and Earrings In 2 colors (Prices for each)",
-    "variant_title": "Ruby Green",
-    "sku": "528",
-    "price": 1699.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-diamond-look-alike-smaller-necklace-and-earrings-in-2-colors-prices-for-each?variant=gid://shopify/ProductVariant/44408679071966",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9578.heic?v=1697296909"
   },
   "gid://shopify/ProductVariant/44410125779166": {
@@ -25018,6 +25009,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/simple-gold-finish-anklets?variant=gid://shopify/ProductVariant/44406505308382",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0A336DBE-4A40-489B-B454-B8A29AA08C8D.jpg?v=1697212556"
+  },
+  "gid://shopify/ProductVariant/44408679071966": {
+    "product_title": "AD Diamond look alike Necklace and Earrings In 2 colors (Prices for each)",
+    "variant_title": "Ruby Green",
+    "sku": "528",
+    "price": 1699.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-diamond-look-alike-smaller-necklace-and-earrings-in-2-colors-prices-for-each?variant=gid://shopify/ProductVariant/44408679071966",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9578.heic?v=1697296909"
   },
   "gid://shopify/ProductVariant/44410126500062": {
     "product_title": "Diwali sale Rosegold 03",
