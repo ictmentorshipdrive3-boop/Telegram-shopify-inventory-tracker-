@@ -1417,7 +1417,7 @@
     "variant_title": "Dark green",
     "sku": "901",
     "price": 1699.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/elephant-guttaspusalu-necklace-in-5-variants?variant=gid://shopify/ProductVariant/43467306664158",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/350ED432-0324-4B14-9EC1-55B6C45A6010.jpg?v=1731240555"
   },
@@ -1627,15 +1627,6 @@
     "stock": 9,
     "url": "https://www.daivik.in/products/pure-kemp-midlength-haram?variant=gid://shopify/ProductVariant/42180674420958",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_23324bb1-7a9c-4d89-abfe-bc46ed0194fa.jpg?v=1640157624"
-  },
-  "gid://shopify/ProductVariant/42180921229534": {
-    "product_title": "Set of 6 AD Bangles",
-    "variant_title": "2.4",
-    "sku": "516",
-    "price": 1799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/set-of-6-ad-bangles?variant=gid://shopify/ProductVariant/42180921229534",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_12b001d9-912e-40bc-8046-5f433d9b34a1.jpg?v=1639382176"
   },
   "gid://shopify/ProductVariant/42181007704286": {
     "product_title": "Set of 6 AD Bangles",
@@ -5845,7 +5836,7 @@
     "variant_title": "Green",
     "sku": "327",
     "price": 649.0,
-    "stock": 21,
+    "stock": 20,
     "url": "https://www.daivik.in/products/simple-pearl-kemp-choker-with-earrings-in-2-variants?variant=gid://shopify/ProductVariant/44661107065054",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8967991B-4D20-4170-AFF8-73015A1DAB87.jpg?v=1704974070"
   },
@@ -22030,6 +22021,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/peacock-kemp-studs-in-7-colours?variant=gid://shopify/ProductVariant/42161124475102",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_68c3d074-b0d4-4dd7-922c-4a6943a4899f.jpg?v=1638978060"
+  },
+  "gid://shopify/ProductVariant/42180921229534": {
+    "product_title": "Set of 6 AD Bangles",
+    "variant_title": "2.4",
+    "sku": "516",
+    "price": 1799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/set-of-6-ad-bangles?variant=gid://shopify/ProductVariant/42180921229534",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_12b001d9-912e-40bc-8046-5f433d9b34a1.jpg?v=1639382176"
   },
   "gid://shopify/ProductVariant/42181007671518": {
     "product_title": "Set of 6 AD Bangles",
