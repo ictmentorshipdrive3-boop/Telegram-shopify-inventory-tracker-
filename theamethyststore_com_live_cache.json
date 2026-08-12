@@ -33623,15 +33623,6 @@
     "url": "https://www.theamethyststore.com/products/drops-2?variant=gid://shopify/ProductVariant/47081415147747",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10165.jpg?v=1756721237"
   },
-  "gid://shopify/ProductVariant/47081495560419": {
-    "product_title": "Rishitha Choker Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-11294",
-    "price": 61600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/rishitha-choker-set?variant=gid://shopify/ProductVariant/47081495560419",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11294.jpg?v=1756722060"
-  },
   "gid://shopify/ProductVariant/47081503817955": {
     "product_title": "Akshana Stud",
     "variant_title": "Default Title",
@@ -54664,15 +54655,6 @@
     "stock": 3,
     "url": "https://www.theamethyststore.com/products/raziya-avikam-maangtikka?variant=gid://shopify/ProductVariant/47850409328867",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2064.jpg?v=1768721121"
-  },
-  "gid://shopify/ProductVariant/47850414473443": {
-    "product_title": "Grand Nagas Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-11368",
-    "price": 212040.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/grand-nagas-long-necklace-3?variant=gid://shopify/ProductVariant/47850414473443",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11368.jpg?v=1768721842"
   },
   "gid://shopify/ProductVariant/47850415554787": {
     "product_title": "Shrika Deep Nagas Short Necklace",
@@ -107315,6 +107297,15 @@
     "url": "https://www.theamethyststore.com/products/kundan-chandhubaali-earrings?variant=gid://shopify/ProductVariant/47081480159459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10152.jpg?v=1756721874"
   },
+  "gid://shopify/ProductVariant/47081495560419": {
+    "product_title": "Rishitha Choker Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-11294",
+    "price": 61600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/rishitha-choker-set?variant=gid://shopify/ProductVariant/47081495560419",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11294.jpg?v=1756722060"
+  },
   "gid://shopify/ProductVariant/47081602908387": {
     "product_title": "Vikitha Kundan Short Necklace Set",
     "variant_title": "Default Title",
@@ -110455,6 +110446,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/herika-diamond-design-ring?variant=gid://shopify/ProductVariant/47848894595299",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1931.jpg?v=1768654325"
+  },
+  "gid://shopify/ProductVariant/47850414473443": {
+    "product_title": "Grand Nagas Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-11368",
+    "price": 212040.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/grand-nagas-long-necklace-3?variant=gid://shopify/ProductVariant/47850414473443",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11368.jpg?v=1768721842"
   },
   "gid://shopify/ProductVariant/47850423025891": {
     "product_title": "Statement Short Necklace Set",
