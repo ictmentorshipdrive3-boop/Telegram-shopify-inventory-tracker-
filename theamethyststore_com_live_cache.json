@@ -52397,15 +52397,6 @@
     "url": "https://www.theamethyststore.com/products/nagas-nakshi-pendant-2?variant=gid://shopify/ProductVariant/47804902670563",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3127.jpg?v=1767872698"
   },
-  "gid://shopify/ProductVariant/47804964471011": {
-    "product_title": "Glitz Kundan Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-3116",
-    "price": 31524.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/glitz-kundan-pendant?variant=gid://shopify/ProductVariant/47804964471011",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3116.jpg?v=1767875276"
-  },
   "gid://shopify/ProductVariant/47804978954467": {
     "product_title": "Navarathna Kundan Pendant",
     "variant_title": "Default Title",
@@ -100205,6 +100196,15 @@
     "url": "https://www.theamethyststore.com/products/anushiya-nagas-chain?variant=gid://shopify/ProductVariant/49524589789411",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2196.jpg?v=1786531901"
   },
+  "gid://shopify/ProductVariant/49524596113635": {
+    "product_title": "Anushi Nagas Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2170",
+    "price": 36120.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nagas-chain-14?variant=gid://shopify/ProductVariant/49524596113635",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2170.jpg?v=1786532603"
+  },
   "gid://shopify/ProductVariant/49524604272867": {
     "product_title": "Nasiya Nagas Chain",
     "variant_title": "Default Title",
@@ -100213,6 +100213,69 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/nasiya-nagas-chain?variant=gid://shopify/ProductVariant/49524604272867",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2195.jpg?v=1786532409"
+  },
+  "gid://shopify/ProductVariant/49524605681891": {
+    "product_title": "Shivya Nagas Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2194",
+    "price": 27640.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/shivya-nagas-chain-1?variant=gid://shopify/ProductVariant/49524605681891",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2194.jpg?v=1786532558"
+  },
+  "gid://shopify/ProductVariant/49524612366563": {
+    "product_title": "Cherina Nagas Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2193",
+    "price": 35050.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/cherina-nagas-chain?variant=gid://shopify/ProductVariant/49524612366563",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2193.jpg?v=1786532912"
+  },
+  "gid://shopify/ProductVariant/49524617740515": {
+    "product_title": "Nisha Nagas Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2171",
+    "price": 36500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nagas-chain-17?variant=gid://shopify/ProductVariant/49524617740515",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2171.jpg?v=1786532835"
+  },
+  "gid://shopify/ProductVariant/49524625834211": {
+    "product_title": "Ganisha Nagas Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2192",
+    "price": 41530.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/ganisha-nagas-chain-1?variant=gid://shopify/ProductVariant/49524625834211",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2192.jpg?v=1786533059"
+  },
+  "gid://shopify/ProductVariant/49524626686179": {
+    "product_title": "Yashikaa Nagas Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2172",
+    "price": 19900.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nagas-chain-16?variant=gid://shopify/ProductVariant/49524626686179",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2172.jpg?v=1786533145"
+  },
+  "gid://shopify/ProductVariant/49524630683875": {
+    "product_title": "Anisha Nagas Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2191",
+    "price": 34780.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/anisha-nagas-chain-2?variant=gid://shopify/ProductVariant/49524630683875",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2191.jpg?v=1786533246"
+  },
+  "gid://shopify/ProductVariant/49524633665763": {
+    "product_title": "Sharvikaa Nagas Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2173",
+    "price": 27600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nagas-chain-18?variant=gid://shopify/ProductVariant/49524633665763",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2173.jpg?v=1786533313"
   },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
@@ -109798,6 +109861,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/ferikha-nagas-pendant?variant=gid://shopify/ProductVariant/47804929769699",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3133.jpg?v=1767873252"
+  },
+  "gid://shopify/ProductVariant/47804964471011": {
+    "product_title": "Glitz Kundan Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-3116",
+    "price": 31524.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/glitz-kundan-pendant?variant=gid://shopify/ProductVariant/47804964471011",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3116.jpg?v=1767875276"
   },
   "gid://shopify/ProductVariant/47806386700515": {
     "product_title": "Nidhika  Nagas Pendant",
