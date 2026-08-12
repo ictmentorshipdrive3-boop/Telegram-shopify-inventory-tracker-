@@ -4801,7 +4801,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-4448",
     "price": 5700.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/conito-navarathna-studs?variant=gid://shopify/ProductVariant/43852694651107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-4448.jpg?v=1684393728"
   },
@@ -94346,15 +94346,6 @@
     "url": "https://www.theamethyststore.com/products/shinning-pakshi-short-necklace?variant=gid://shopify/ProductVariant/49483133550819",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16885.jpg?v=1785571330"
   },
-  "gid://shopify/ProductVariant/49483134042339": {
-    "product_title": "Vivana Diamond Design Chain with Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-2162",
-    "price": 15900.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/diamond-design-chain-with-earrings-1?variant=gid://shopify/ProductVariant/49483134042339",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2162.jpg?v=1785571343"
-  },
   "gid://shopify/ProductVariant/49483139449059": {
     "product_title": "Nithisha Pakshi Short Necklace",
     "variant_title": "Default Title",
@@ -117997,6 +117988,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/stunning-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49483075322083",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16862.jpg?v=1785569334"
+  },
+  "gid://shopify/ProductVariant/49483134042339": {
+    "product_title": "Vivana Diamond Design Chain with Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2162",
+    "price": 15900.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/diamond-design-chain-with-earrings-1?variant=gid://shopify/ProductVariant/49483134042339",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2162.jpg?v=1785571343"
   },
   "gid://shopify/ProductVariant/49483391533283": {
     "product_title": "Advika Diamond Design Studs",
