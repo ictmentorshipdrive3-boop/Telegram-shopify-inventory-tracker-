@@ -3167,15 +3167,6 @@
     "url": "https://www.rasasilver.com/products/octa-scroll-shine-necklace-set?variant=gid://shopify/ProductVariant/50568825405737",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R2491.jpg?v=1762342792"
   },
-  "gid://shopify/ProductVariant/50568944615721": {
-    "product_title": "Alexandria Mor Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "R9054",
-    "price": 51850.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/alexandria-mor-short-necklace?variant=gid://shopify/ProductVariant/50568944615721",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2-7_4a4a09eb-5749-434c-9976-21bfd5872076.jpg?v=1751623978"
-  },
   "gid://shopify/ProductVariant/50568979448105": {
     "product_title": "Sharvani Pushpam Short Necklace",
     "variant_title": "Default Title",
@@ -3676,7 +3667,7 @@
     "variant_title": "Default Title",
     "sku": "R17414",
     "price": 14400.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.rasasilver.com/products/kamala-ranjani-pendant?variant=gid://shopify/ProductVariant/50649020530985",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/3-3_f478139a-0244-4978-b152-93784f4cb5cd.jpg?v=1754029643"
   },
@@ -26872,6 +26863,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/20?variant=gid://shopify/ProductVariant/52247507206441",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2we23.jpg?v=1750761848"
+  },
+  "gid://shopify/ProductVariant/50568944615721": {
+    "product_title": "Alexandria Mor Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "R9054",
+    "price": 51850.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/alexandria-mor-short-necklace?variant=gid://shopify/ProductVariant/50568944615721",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2-7_4a4a09eb-5749-434c-9976-21bfd5872076.jpg?v=1751623978"
   },
   "gid://shopify/ProductVariant/52382733861161": {
     "product_title": "Pearleela Victorian Necklace Set",
