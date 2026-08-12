@@ -1660,7 +1660,7 @@
     "variant_title": "Default Title",
     "sku": "977",
     "price": 1999.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/floral-mattals-and-anklets-combo?variant=gid://shopify/ProductVariant/42255222309086",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_3f45ca47-7209-4bca-9b2c-7216d6b0c666.jpg?v=1640267810"
   },
@@ -2551,7 +2551,7 @@
     "variant_title": "Default Title",
     "sku": "432",
     "price": 899.0,
-    "stock": 54,
+    "stock": 53,
     "url": "https://www.daivik.in/products/a-225?variant=gid://shopify/ProductVariant/43212378439902",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_f6b01fa0-137c-4333-b8ec-463d4542e32a.heic?v=1659180660"
   },
@@ -5830,6 +5830,15 @@
     "stock": 3,
     "url": "https://www.daivik.in/products/small-version-of-layered-victorian-bridal-necklace-with-earrings?variant=gid://shopify/ProductVariant/44661290565854",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A9A742B3-9CB1-47DB-83BB-F4ADC7A5BB06.jpg?v=1704989144"
+  },
+  "gid://shopify/ProductVariant/44665226035422": {
+    "product_title": "Antique matte Finish Lakshmi Peacock Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "367",
+    "price": 999.0,
+    "stock": 30,
+    "url": "https://www.daivik.in/products/antique-matte-finish-lakshmi-peacock-jhumkas?variant=gid://shopify/ProductVariant/44665226035422",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0140D6CA-AE5E-456B-9707-71FA3598F63A.jpg?v=1705071171"
   },
   "gid://shopify/ProductVariant/44667373748446": {
     "product_title": "Long Pearl Antique Brass Lakshmi haram",
@@ -12562,15 +12571,6 @@
     "stock": 56,
     "url": "https://www.daivik.in/products/ad-peacock-green-beads-hasli-necklace-with-earrings?variant=gid://shopify/ProductVariant/47057264148702",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4AF35474-0BC1-4F26-A540-F0EABBFBA6B6.jpg?v=1751718377"
-  },
-  "gid://shopify/ProductVariant/47057264705758": {
-    "product_title": "Simple AD Peacock Hasli Necklace",
-    "variant_title": "Default Title",
-    "sku": "1291",
-    "price": 1399.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/simple-ad-peacock-hasli-necklace?variant=gid://shopify/ProductVariant/47057264705758",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/94128802-CA5E-4095-BD3F-0734C9E08F3E.jpg?v=1751718377"
   },
   "gid://shopify/ProductVariant/47057268900062": {
     "product_title": "Ruby Green Hasli Necklace with Earrings",
@@ -25280,15 +25280,6 @@
     "url": "https://www.daivik.in/products/simple-pearl-kemp-choker-with-earrings-in-2-variants?variant=gid://shopify/ProductVariant/44661107032286",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8967991B-4D20-4170-AFF8-73015A1DAB87.jpg?v=1704974070"
   },
-  "gid://shopify/ProductVariant/44665226035422": {
-    "product_title": "Antique matte Finish Lakshmi Peacock Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "367",
-    "price": 999.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/antique-matte-finish-lakshmi-peacock-jhumkas?variant=gid://shopify/ProductVariant/44665226035422",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0140D6CA-AE5E-456B-9707-71FA3598F63A.jpg?v=1705071171"
-  },
   "gid://shopify/ProductVariant/44673492844766": {
     "product_title": "Victorian AD Necklace with Earrings in 2 Colours",
     "variant_title": "Ruby",
@@ -27997,6 +27988,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/invisible-flower-chain-with-earrings?variant=gid://shopify/ProductVariant/47043956310238",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5AACDAE4-D336-4F2B-AC77-29B691F420BF.jpg?v=1751179958"
+  },
+  "gid://shopify/ProductVariant/47057264705758": {
+    "product_title": "Simple AD Peacock Hasli Necklace",
+    "variant_title": "Default Title",
+    "sku": "1291",
+    "price": 1399.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/simple-ad-peacock-hasli-necklace?variant=gid://shopify/ProductVariant/47057264705758",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/94128802-CA5E-4095-BD3F-0734C9E08F3E.jpg?v=1751718377"
   },
   "gid://shopify/ProductVariant/47092708573406": {
     "product_title": "Jyothika Mam Inspired AD Green Pendant Necklace (Prices for Short, Long and Combo)",
