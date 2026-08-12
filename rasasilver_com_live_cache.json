@@ -24326,15 +24326,6 @@
     "url": "https://www.rasasilver.com/products/pushpari-mor-nakshi-necklace-set?variant=gid://shopify/ProductVariant/53318343164201",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42269_resized.jpg?v=1783494350"
   },
-  "gid://shopify/ProductVariant/53318413779241": {
-    "product_title": "Lakshmi Kripa Temple Set",
-    "variant_title": "Default Title",
-    "sku": "R32284",
-    "price": 58100.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/lakshmi-kripa-temple-set?variant=gid://shopify/ProductVariant/53318413779241",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42254_resized.jpg?v=1783497777"
-  },
   "gid://shopify/ProductVariant/53318417547561": {
     "product_title": "Lakshmi Rajyam Temple Set",
     "variant_title": "Default Title",
@@ -26509,7 +26500,7 @@
     "variant_title": "Default Title",
     "sku": "R33377",
     "price": 765.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/thrishul-rakhi?variant=gid://shopify/ProductVariant/53394169659689",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19595.jpg?v=1786000594"
   },
@@ -26518,7 +26509,7 @@
     "variant_title": "Default Title",
     "sku": "R33378",
     "price": 765.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/rakhi?variant=gid://shopify/ProductVariant/53394179064105",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19588.jpg?v=1786000962"
   },
@@ -26671,7 +26662,7 @@
     "variant_title": "Default Title",
     "sku": "R33577",
     "price": 1275.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/rudra-trishul-rakhi?variant=gid://shopify/ProductVariant/53409731379497",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19647.jpg?v=1786022574"
   },
@@ -47653,6 +47644,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/nakshi-necklace-set-2?variant=gid://shopify/ProductVariant/53318387171625",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42263_resized.jpg?v=1783495704"
+  },
+  "gid://shopify/ProductVariant/53318413779241": {
+    "product_title": "Lakshmi Kripa Temple Set",
+    "variant_title": "Default Title",
+    "sku": "R32284",
+    "price": 58100.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/lakshmi-kripa-temple-set?variant=gid://shopify/ProductVariant/53318413779241",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42254_resized.jpg?v=1783497777"
   },
   "gid://shopify/ProductVariant/53318491603241": {
     "product_title": "Victorian Flora-Moti Haath Phool",
