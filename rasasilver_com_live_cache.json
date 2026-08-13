@@ -12550,7 +12550,7 @@
     "variant_title": "Default Title",
     "sku": "R22657",
     "price": 52200.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/fleurie-victorian-necklace-set?variant=gid://shopify/ProductVariant/52420272357673",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa__silver_Mood__10Jan0486_resized.jpg?v=1769598168"
   },
@@ -16342,15 +16342,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/kundan-necklace?variant=gid://shopify/ProductVariant/52741751439657",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5353_resized.jpg?v=1772534171"
-  },
-  "gid://shopify/ProductVariant/52741761401129": {
-    "product_title": "Amrakshi Kundan Necklace",
-    "variant_title": "Default Title",
-    "sku": "R25854",
-    "price": 107525.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/kundan-necklace-1?variant=gid://shopify/ProductVariant/52741761401129",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5343.jpg?v=1772535838"
   },
   "gid://shopify/ProductVariant/52741786370345": {
     "product_title": "Morika Rani Kundan Necklace",
@@ -43100,6 +43091,15 @@
     "url": "https://www.rasasilver.com/products/mayuriya-kundan-kada?variant=gid://shopify/ProductVariant/52741710446889",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5462_resized.jpg?v=1772533975"
   },
+  "gid://shopify/ProductVariant/52741761401129": {
+    "product_title": "Amrakshi Kundan Necklace",
+    "variant_title": "Default Title",
+    "sku": "R25854",
+    "price": 107525.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/kundan-necklace-1?variant=gid://shopify/ProductVariant/52741761401129",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5343.jpg?v=1772535838"
+  },
   "gid://shopify/ProductVariant/52741891621161": {
     "product_title": "Pushpalika Kundan Tikka",
     "variant_title": "Default Title",
@@ -48508,6 +48508,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/sitara-moissanite-nose-pin?variant=gid://shopify/ProductVariant/53403308130601",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38694.jpg?v=1786627758"
+  },
+  "gid://shopify/ProductVariant/53403310260521": {
+    "product_title": "Chandrika Moissanite Nose Pin",
+    "variant_title": "Default Title",
+    "sku": "R30823",
+    "price": 1600.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/chandrika-moissanite-nose-pin?variant=gid://shopify/ProductVariant/53403310260521",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38702.jpg?v=1786627938"
   },
   "gid://shopify/ProductVariant/53403322777897": {
     "product_title": "Trishul Bracelet",
