@@ -2582,15 +2582,6 @@
     "url": "https://www.kanshijewels.com/products/mangalsutra-12?variant=gid://shopify/ProductVariant/46476978127148",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1900_3.jpg?v=1692612257"
   },
-  "gid://shopify/ProductVariant/46477093929260": {
-    "product_title": "Jadau Kundan Ear Cuffs",
-    "variant_title": "Default Title",
-    "sku": "AC125",
-    "price": 577.5,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-kundan-ear-cuffs?variant=gid://shopify/ProductVariant/46477093929260",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/500.jpg?v=1692612571"
-  },
   "gid://shopify/ProductVariant/46477113622828": {
     "product_title": "Jadau Kundan Ear Cuffs",
     "variant_title": "Default Title",
@@ -9616,7 +9607,7 @@
     "variant_title": "Default Title",
     "sku": "MT02",
     "price": 1200.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.kanshijewels.com/products/jadau-tika-6?variant=gid://shopify/ProductVariant/52445307601196",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_3119.jpg?v=1766141843"
   },
@@ -12121,6 +12112,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/mangalsutra-8?variant=gid://shopify/ProductVariant/46476841550124",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1200_3.jpg?v=1692612099"
+  },
+  "gid://shopify/ProductVariant/46477093929260": {
+    "product_title": "Jadau Kundan Ear Cuffs",
+    "variant_title": "Default Title",
+    "sku": "AC125",
+    "price": 577.5,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-kundan-ear-cuffs?variant=gid://shopify/ProductVariant/46477093929260",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/500.jpg?v=1692612571"
   },
   "gid://shopify/ProductVariant/46477133021484": {
     "product_title": "Jadau Kundan Ear Cuffs",
