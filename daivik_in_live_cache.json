@@ -3676,7 +3676,7 @@
     "variant_title": "Default Title",
     "sku": "504",
     "price": 2999.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/a-56?variant=gid://shopify/ProductVariant/44145944592606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_d5c2980b-bc98-4693-8bbb-0302ee5acacf.heic?v=1681570569"
   },
@@ -20299,8 +20299,17 @@
     "variant_title": "2.4",
     "sku": "1916",
     "price": 2999.0,
-    "stock": 1,
+    "stock": 5,
     "url": "https://www.daivik.in/products/bangles-1?variant=gid://shopify/ProductVariant/48353994047710",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/87222F0C-BE78-40F6-9AD2-408ED91CF6ED.jpg?v=1782062197"
+  },
+  "gid://shopify/ProductVariant/48353994080478": {
+    "product_title": "AD Bangle Combo",
+    "variant_title": "2.6",
+    "sku": "1916",
+    "price": 2999.0,
+    "stock": 5,
+    "url": "https://www.daivik.in/products/bangles-1?variant=gid://shopify/ProductVariant/48353994080478",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/87222F0C-BE78-40F6-9AD2-408ED91CF6ED.jpg?v=1782062197"
   },
   "gid://shopify/ProductVariant/48353994113246": {
@@ -20452,7 +20461,7 @@
     "variant_title": "Dark Green",
     "sku": "672",
     "price": 999.0,
-    "stock": 8,
+    "stock": 6,
     "url": "https://www.daivik.in/products/invisible-green-ganesha-chain?variant=gid://shopify/ProductVariant/48447550357726",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/ADD05F51-8F3A-4262-86A7-4E853BC4FB59.jpg?v=1782904755"
   },
@@ -30661,15 +30670,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/a-14?variant=gid://shopify/ProductVariant/48349419602142",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8E726069-4FBB-444F-B05A-4F7C1AA30280.jpg?v=1781953952"
-  },
-  "gid://shopify/ProductVariant/48353994080478": {
-    "product_title": "AD Bangle Combo",
-    "variant_title": "2.6",
-    "sku": "1916",
-    "price": 2999.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/bangles-1?variant=gid://shopify/ProductVariant/48353994080478",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/87222F0C-BE78-40F6-9AD2-408ED91CF6ED.jpg?v=1782062197"
   },
   "gid://shopify/ProductVariant/48447550390494": {
     "product_title": "Invisible Ganesha Chain in Two Colors",
