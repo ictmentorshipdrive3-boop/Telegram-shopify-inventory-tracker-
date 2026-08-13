@@ -10826,15 +10826,6 @@
     "url": "https://www.kanshijewels.com/products/elegant-polki-fusion-set?variant=gid://shopify/ProductVariant/53368925651244",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/ElegantPolkifusionset1999.jpg?v=1782216193"
   },
-  "gid://shopify/ProductVariant/53368929255724": {
-    "product_title": "Elegant sheek jadau necklace and earring set",
-    "variant_title": "Default Title",
-    "sku": "NK913",
-    "price": 1199.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/elegant-sheek-jadau-necklace-and-earring-set?variant=gid://shopify/ProductVariant/53368929255724",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Elegantsheekjadaunecklaceandearringset1199.jpg?v=1782216299"
-  },
   "gid://shopify/ProductVariant/53368936956204": {
     "product_title": "Exquisite jadau fusion mango necklace",
     "variant_title": "Default Title",
@@ -13741,5 +13732,14 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/elegant-dual-tone-gold-silver-chain?variant=gid://shopify/ProductVariant/53368843338028",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Elegantdualtonegoldsilverchain620.jpg?v=1782213813"
+  },
+  "gid://shopify/ProductVariant/53368929255724": {
+    "product_title": "Elegant sheek jadau necklace and earring set",
+    "variant_title": "Default Title",
+    "sku": "NK913",
+    "price": 1199.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/elegant-sheek-jadau-necklace-and-earring-set?variant=gid://shopify/ProductVariant/53368929255724",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Elegantsheekjadaunecklaceandearringset1199.jpg?v=1782216299"
   }
 }
