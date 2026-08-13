@@ -31661,15 +31661,6 @@
     "url": "https://www.theamethyststore.com/products/lord-thirupathi-nagas-pendant-1?variant=gid://shopify/ProductVariant/47059294585059",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2883_1.jpg?v=1756036414"
   },
-  "gid://shopify/ProductVariant/47059338723555": {
-    "product_title": "Princess Stone Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-1457",
-    "price": 5464.16,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/princess-stone-ring?variant=gid://shopify/ProductVariant/47059338723555",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1457.jpg?v=1756037698"
-  },
   "gid://shopify/ProductVariant/47059369787619": {
     "product_title": "Beautiful Nagas Pendant",
     "variant_title": "Default Title",
@@ -31678,15 +31669,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/beautiful-nagas-pendant-2?variant=gid://shopify/ProductVariant/47059369787619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2893_1.jpg?v=1756038362"
-  },
-  "gid://shopify/ProductVariant/47059384893667": {
-    "product_title": "Sahara Stone Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-1462",
-    "price": 4294.08,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/sahara-stone-ring?variant=gid://shopify/ProductVariant/47059384893667",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1462.jpg?v=1756038731"
   },
   "gid://shopify/ProductVariant/47059396821219": {
     "product_title": "Lavita Stone Ring",
@@ -53215,15 +53197,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/liyanikha-nagas-jhumkas?variant=gid://shopify/ProductVariant/47813610373347",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12496.jpg?v=1768206284"
-  },
-  "gid://shopify/ProductVariant/47813720637667": {
-    "product_title": "Unique Nagas Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-12520",
-    "price": 16330.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/unique-nagas-jhumkas-4?variant=gid://shopify/ProductVariant/47813720637667",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12520.jpg?v=1768210854"
   },
   "gid://shopify/ProductVariant/47813732434147": {
     "product_title": "Chic & Trendy Hook Jhumkas",
@@ -100943,6 +100916,33 @@
     "url": "https://www.theamethyststore.com/products/reversible-kundan-short-necklace-6?variant=gid://shopify/ProductVariant/49526939746531",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17549.jpg?v=1786607039"
   },
+  "gid://shopify/ProductVariant/49526946365667": {
+    "product_title": "Divine 3D Spl Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17589",
+    "price": 54700.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/divine-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49526946365667",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17589.jpg?v=1786607263"
+  },
+  "gid://shopify/ProductVariant/49526955573475": {
+    "product_title": "Rupani Reversible Kundan Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17550",
+    "price": 76500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/reversible-kundan-short-necklace-7?variant=gid://shopify/ProductVariant/49526955573475",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17550.jpg?v=1786607463"
+  },
+  "gid://shopify/ProductVariant/49526978609379": {
+    "product_title": "Esnikaa Reversible Kundan Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17551",
+    "price": 78500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/reversible-kundan-short-necklace-8?variant=gid://shopify/ProductVariant/49526978609379",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17551.jpg?v=1786607691"
+  },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
     "variant_title": "Default Title",
@@ -107171,6 +107171,15 @@
     "url": "https://www.theamethyststore.com/products/arshika-deep-nagas-earrings-1?variant=gid://shopify/ProductVariant/47059288948963",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9422.jpg?v=1756035453"
   },
+  "gid://shopify/ProductVariant/47059338723555": {
+    "product_title": "Princess Stone Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-1457",
+    "price": 5464.16,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/princess-stone-ring?variant=gid://shopify/ProductVariant/47059338723555",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1457.jpg?v=1756037698"
+  },
   "gid://shopify/ProductVariant/47059368902883": {
     "product_title": "Nisha Stone Ring",
     "variant_title": "Default Title",
@@ -107179,6 +107188,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nisha-stone-ring?variant=gid://shopify/ProductVariant/47059368902883",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1458.jpg?v=1756038319"
+  },
+  "gid://shopify/ProductVariant/47059384893667": {
+    "product_title": "Sahara Stone Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-1462",
+    "price": 4294.08,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/sahara-stone-ring?variant=gid://shopify/ProductVariant/47059384893667",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1462.jpg?v=1756038731"
   },
   "gid://shopify/ProductVariant/47059486867683": {
     "product_title": "Pretty Lakshmi Nagas Pendant",
@@ -110734,6 +110752,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/rope-necklace-2?variant=gid://shopify/ProductVariant/47813576229091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13321.jpg?v=1768204127"
+  },
+  "gid://shopify/ProductVariant/47813720637667": {
+    "product_title": "Unique Nagas Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-12520",
+    "price": 16330.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/unique-nagas-jhumkas-4?variant=gid://shopify/ProductVariant/47813720637667",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12520.jpg?v=1768210854"
   },
   "gid://shopify/ProductVariant/47813860425955": {
     "product_title": "Srisha Stone Drops",
