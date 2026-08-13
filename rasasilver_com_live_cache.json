@@ -1655,6 +1655,15 @@
     "url": "https://www.rasasilver.com/products/rosabelle-pendant-set?variant=gid://shopify/ProductVariant/50307341320489",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06818copy2.jpg?v=1747130631"
   },
+  "gid://shopify/ProductVariant/51441089741097": {
+    "product_title": "Ruby Elegant Necklace",
+    "variant_title": "Ruby Pink",
+    "sku": "R22878",
+    "price": 14110.0,
+    "stock": 2,
+    "url": "https://www.rasasilver.com/products/nilohaar-necklace?variant=gid://shopify/ProductVariant/51441089741097",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0117_copy_resized.jpg?v=1761723467"
+  },
   "gid://shopify/ProductVariant/50307404923177": {
     "product_title": "Desi Featherfall Chain",
     "variant_title": "Pink",
@@ -4450,7 +4459,7 @@
     "variant_title": "Default Title",
     "sku": "R10582",
     "price": 3400.0,
-    "stock": 7,
+    "stock": 5,
     "url": "https://www.rasasilver.com/products/studs-1?variant=gid://shopify/ProductVariant/50777406243113",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_62.jpg?v=1754984023"
   },
@@ -23053,7 +23062,7 @@
     "variant_title": "Default Title",
     "sku": "R31585",
     "price": 1445.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/loop-love-ring?variant=gid://shopify/ProductVariant/53288183136553",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5722_resized.jpg?v=1782368066"
   },
@@ -27151,15 +27160,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/twilight-orchid-necklace-set?variant=gid://shopify/ProductVariant/50307187212585",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06937copy_e03c6f79-a55c-427e-b3f9-82129ee63c3b.jpg?v=1747146288"
-  },
-  "gid://shopify/ProductVariant/51441089741097": {
-    "product_title": "Ruby Elegant Necklace",
-    "variant_title": "Ruby Pink",
-    "sku": "R22878",
-    "price": 14110.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/nilohaar-necklace?variant=gid://shopify/ProductVariant/51441089741097",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0117_copy_resized.jpg?v=1761723467"
   },
   "gid://shopify/ProductVariant/51441136435497": {
     "product_title": "Ruby Elegant Necklace",
@@ -48166,6 +48166,51 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/floral-kundan-ear-cuff?variant=gid://shopify/ProductVariant/53398260384041",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38672.jpg?v=1786620215"
+  },
+  "gid://shopify/ProductVariant/53398271230249": {
+    "product_title": "Olive Vine Kundan Ear Cuff",
+    "variant_title": "Default Title",
+    "sku": "R32155",
+    "price": 4500.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/olive-vine-kundan-ear-cuff?variant=gid://shopify/ProductVariant/53398271230249",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38677.jpg?v=1786620726"
+  },
+  "gid://shopify/ProductVariant/53398272344361": {
+    "product_title": "Forest Glow Kundan Ear Cuff",
+    "variant_title": "Default Title",
+    "sku": "R32156",
+    "price": 4800.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/forest-glow-kundan-ear-cuff?variant=gid://shopify/ProductVariant/53398272344361",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38685.jpg?v=1786620952"
+  },
+  "gid://shopify/ProductVariant/53398279192873": {
+    "product_title": "Shahi Gulnaar Kundan Ear Cuff",
+    "variant_title": "Default Title",
+    "sku": "R32163",
+    "price": 4900.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/shahi-gulnaar-kundan-ear-cuff?variant=gid://shopify/ProductVariant/53398279192873",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38681.jpg?v=1786621082"
+  },
+  "gid://shopify/ProductVariant/53398286958889": {
+    "product_title": "Oxidised Face Frame",
+    "variant_title": "Default Title",
+    "sku": "R31115",
+    "price": 10900.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/oxidised-face-frame?variant=gid://shopify/ProductVariant/53398286958889",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19725.jpg?v=1786621219"
+  },
+  "gid://shopify/ProductVariant/53398288040233": {
+    "product_title": "Floral Oxidised Face Frame",
+    "variant_title": "Default Title",
+    "sku": "R31116",
+    "price": 9600.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/floral-oxidised-face-frame?variant=gid://shopify/ProductVariant/53398288040233",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19720.jpg?v=1786621372"
   },
   "gid://shopify/ProductVariant/53398610116905": {
     "product_title": "Heart Stone Buggadi",
