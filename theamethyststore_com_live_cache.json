@@ -20722,7 +20722,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-8169",
     "price": 9301.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/mira-kundan-studs?variant=gid://shopify/ProductVariant/46415687745763",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8169.jpg?v=1748785289"
   },
@@ -48118,7 +48118,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-12718",
     "price": 40200.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/dhivana-short-necklace?variant=gid://shopify/ProductVariant/47629990822115",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12718_5f7b1f1a-4bd1-4222-8abf-14cc19bd90a3.jpg?v=1781763306"
   },
@@ -56869,15 +56869,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/catchy-stone-drops?variant=gid://shopify/ProductVariant/47919555084515",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12721.jpg?v=1770187421"
-  },
-  "gid://shopify/ProductVariant/47919560884451": {
-    "product_title": "Nithra Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-12723",
-    "price": 4220.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nithra-stone-studs?variant=gid://shopify/ProductVariant/47919560884451",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12723_69b7e4bb-4fd6-4ecb-9002-34c679955e3d.jpg?v=1770188319"
   },
   "gid://shopify/ProductVariant/47919592931555": {
     "product_title": "Mystic Nagas Ring",
@@ -66901,7 +66892,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-15173",
     "price": 5300.0,
-    "stock": 5,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/mahika-hasli-necklace?variant=gid://shopify/ProductVariant/48762631782627",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15173.jpg?v=1775820399"
   },
@@ -73664,15 +73655,6 @@
     "url": "https://www.theamethyststore.com/products/nagas-pair-bangles-17?variant=gid://shopify/ProductVariant/48966221725923",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3197_3144c34c-cdc9-493b-b30a-a8e6fb8b1d9f.jpg?v=1778853419"
   },
-  "gid://shopify/ProductVariant/48968417870051": {
-    "product_title": "Mango Mala Reversible Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15079",
-    "price": 76050.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/mango-mala-reversible-short-necklace?variant=gid://shopify/ProductVariant/48968417870051",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15079_5ae6b178-dd85-4525-bd02-7aadedfd3cdc.jpg?v=1778908435"
-  },
   "gid://shopify/ProductVariant/48968429502691": {
     "product_title": "Nishikha Reversible Short Necklace",
     "variant_title": "Default Title",
@@ -77638,7 +77620,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4185",
     "price": 13650.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pendant-36?variant=gid://shopify/ProductVariant/49276596420835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4185.jpg?v=1781785294"
   },
@@ -95485,7 +95467,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4812",
     "price": 8900.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/amazing-avikam-pendant-set-3?variant=gid://shopify/ProductVariant/49497159631075",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4812.jpg?v=1785827386"
   },
@@ -111464,6 +111446,15 @@
     "url": "https://www.theamethyststore.com/products/barsha-hook-earrings?variant=gid://shopify/ProductVariant/47916279431395",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12991.jpg?v=1770123531"
   },
+  "gid://shopify/ProductVariant/47919560884451": {
+    "product_title": "Nithra Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-12723",
+    "price": 4220.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nithra-stone-studs?variant=gid://shopify/ProductVariant/47919560884451",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12723_69b7e4bb-4fd6-4ecb-9002-34c679955e3d.jpg?v=1770188319"
+  },
   "gid://shopify/ProductVariant/47919613116643": {
     "product_title": "Arnikha Nagas Ring",
     "variant_title": "Default Title",
@@ -115360,6 +115351,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nagas-pair-bangles-16?variant=gid://shopify/ProductVariant/48966164447459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3196.jpg?v=1778853083"
+  },
+  "gid://shopify/ProductVariant/48968417870051": {
+    "product_title": "Mango Mala Reversible Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15079",
+    "price": 76050.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/mango-mala-reversible-short-necklace?variant=gid://shopify/ProductVariant/48968417870051",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15079_5ae6b178-dd85-4525-bd02-7aadedfd3cdc.jpg?v=1778908435"
   },
   "gid://shopify/ProductVariant/48968526004451": {
     "product_title": "Tahira Bracelet",
