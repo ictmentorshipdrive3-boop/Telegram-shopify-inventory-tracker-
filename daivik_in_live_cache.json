@@ -2785,7 +2785,7 @@
     "variant_title": "2.8",
     "sku": "929",
     "price": 1199.0,
-    "stock": 37,
+    "stock": 36,
     "url": "https://www.daivik.in/products/a-302?variant=gid://shopify/ProductVariant/43479581163742",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_6a23397a-390f-4fae-a298-e6f1ac6ba3b9.heic?v=1664687431"
   },
@@ -9782,15 +9782,6 @@
     "url": "https://www.daivik.in/products/1163?variant=gid://shopify/ProductVariant/46113729216734",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F1E4D73C-2E0F-41F6-9842-C17D3CF33730.jpg?v=1732877733"
   },
-  "gid://shopify/ProductVariant/46113732591838": {
-    "product_title": "Reversible Ruby and Green Rice Pearl Necklace with Two Earrings",
-    "variant_title": "Default Title",
-    "sku": "1165",
-    "price": 1499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/1165-reversible?variant=gid://shopify/ProductVariant/46113732591838",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/739E0DC5-37F1-4EA5-B251-F40033D6F4AD.jpg?v=1732877812"
-  },
   "gid://shopify/ProductVariant/46116471472350": {
     "product_title": "Pure Kemp Jadau Brass Choker with Balis",
     "variant_title": "Default Title",
@@ -10876,7 +10867,7 @@
     "variant_title": "Default Title",
     "sku": "443",
     "price": 1799.0,
-    "stock": 13,
+    "stock": 12,
     "url": "https://www.daivik.in/products/xubin-ruby-green-pendant-with-earrings?variant=gid://shopify/ProductVariant/46326215901406",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F403EB87-C7B2-42AA-93C2-31B96CF93A2B.jpg?v=1740669748"
   },
@@ -19930,7 +19921,7 @@
     "variant_title": "Default Title",
     "sku": "958",
     "price": 1199.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/sri-balaji-5-layer-mope-chain?variant=gid://shopify/ProductVariant/48297913155806",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2F129480-42B4-4C62-B700-7E927A52D91C.jpg?v=1780311796"
   },
@@ -20146,7 +20137,7 @@
     "variant_title": "Default Title",
     "sku": "1911",
     "price": 1299.0,
-    "stock": 15,
+    "stock": 14,
     "url": "https://www.daivik.in/products/antique-3d-lakshmi-kumkum-box?variant=gid://shopify/ProductVariant/48334974419166",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6DB797F2-6703-4B31-98CE-CC39C77A5FDD.jpg?v=1781434726"
   },
@@ -26710,6 +26701,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/1164?variant=gid://shopify/ProductVariant/46113732526302",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/20BD1BBC-84C1-4B3E-9042-E4CAB141D7A1.jpg?v=1732877758"
+  },
+  "gid://shopify/ProductVariant/46113732591838": {
+    "product_title": "Reversible Ruby and Green Rice Pearl Necklace with Two Earrings",
+    "variant_title": "Default Title",
+    "sku": "1165",
+    "price": 1499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/1165-reversible?variant=gid://shopify/ProductVariant/46113732591838",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/739E0DC5-37F1-4EA5-B251-F40033D6F4AD.jpg?v=1732877812"
   },
   "gid://shopify/ProductVariant/46122755948766": {
     "product_title": "AD Purple Bangles",
