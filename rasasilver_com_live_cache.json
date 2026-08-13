@@ -1048,7 +1048,7 @@
     "variant_title": "Green",
     "sku": "R17124",
     "price": 22900.0,
-    "stock": 14,
+    "stock": 16,
     "url": "https://www.rasasilver.com/products/meadow-muse-pendant?variant=gid://shopify/ProductVariant/52485476843817",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R2675.jpg?v=1769672524"
   },
@@ -13396,7 +13396,7 @@
     "variant_title": "Default Title",
     "sku": "R22554",
     "price": 20400.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/narashima-temple-pendant?variant=gid://shopify/ProductVariant/52469599174953",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan0625_resized.jpg?v=1769084015"
   },
@@ -16312,7 +16312,7 @@
     "variant_title": "Default Title",
     "sku": "R25383",
     "price": 3570.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/back-chain-copy?variant=gid://shopify/ProductVariant/52737922302249",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Screenshot2026-02-23at5_17_18PMcopy_jpg.jpg?v=1771847962"
   },
@@ -20497,7 +20497,7 @@
     "variant_title": "Purple",
     "sku": "R28372",
     "price": 4335.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/myra-emerald-cz-studs?variant=gid://shopify/ProductVariant/53131822596393",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_11May0396_resized.jpg?v=1781245009"
   },
@@ -23587,15 +23587,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/mang-floral-nakshi-studs?variant=gid://shopify/ProductVariant/53290789110057",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2209_resized.jpg?v=1782736815"
-  },
-  "gid://shopify/ProductVariant/53290809655593": {
-    "product_title": "Padma-Mango Nakshi Studs",
-    "variant_title": "Default Title",
-    "sku": "R31894",
-    "price": 2975.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/padma-mango-nakshi-studs?variant=gid://shopify/ProductVariant/53290809655593",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2169_resized_1.jpg?v=1782737159"
   },
   "gid://shopify/ProductVariant/53292114772265": {
     "product_title": "Pushparaga Nakshi Studs",
@@ -47500,6 +47491,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/petal-harmony-nakshi-studs?variant=gid://shopify/ProductVariant/53290806477097",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2163_resized.jpg?v=1782737254"
+  },
+  "gid://shopify/ProductVariant/53290809655593": {
+    "product_title": "Padma-Mango Nakshi Studs",
+    "variant_title": "Default Title",
+    "sku": "R31894",
+    "price": 2975.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/padma-mango-nakshi-studs?variant=gid://shopify/ProductVariant/53290809655593",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2169_resized_1.jpg?v=1782737159"
   },
   "gid://shopify/ProductVariant/53292125552937": {
     "product_title": "Panna Kanti Stone Studs",
