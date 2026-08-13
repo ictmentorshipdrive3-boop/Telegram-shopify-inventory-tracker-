@@ -71693,15 +71693,6 @@
     "url": "https://www.theamethyststore.com/products/beads-chain-5?variant=gid://shopify/ProductVariant/48923473084643",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1945.jpg?v=1778242858"
   },
-  "gid://shopify/ProductVariant/48923478229219": {
-    "product_title": "Traditional Nagas Choker",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15578",
-    "price": 33240.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/traditional-nagas-choker-2?variant=gid://shopify/ProductVariant/48923478229219",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15578.jpg?v=1778244195"
-  },
   "gid://shopify/ProductVariant/48923498807523": {
     "product_title": "Hiranya Kundan Studs",
     "variant_title": "Default Title",
@@ -73101,7 +73092,7 @@
     "product_title": "Tanisha Diamond Design Studs",
     "variant_title": "Default Title",
     "sku": "AMS-106-13872",
-    "price": 5900.0,
+    "price": 5200.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/tanisha-diamond-design-studs-1?variant=gid://shopify/ProductVariant/48945363517667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13872.jpg?v=1778676736"
@@ -100781,6 +100772,15 @@
     "url": "https://www.theamethyststore.com/products/kundan-choker-26?variant=gid://shopify/ProductVariant/49526815391971",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17567.jpg?v=1786603903"
   },
+  "gid://shopify/ProductVariant/49526825025763": {
+    "product_title": "Blissful Kundan Pair Bangle",
+    "variant_title": "2.4\"",
+    "sku": "AMS-107-3562-2.4\"",
+    "price": 74200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/kundan-pair-bangle-25?variant=gid://shopify/ProductVariant/49526825025763",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3562.jpg?v=1786604210"
+  },
   "gid://shopify/ProductVariant/49526825648355": {
     "product_title": "Amazing Nagas Short Necklace",
     "variant_title": "Default Title",
@@ -100789,6 +100789,60 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/amazing-nagas-short-necklace-1?variant=gid://shopify/ProductVariant/49526825648355",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17621.jpg?v=1786604248"
+  },
+  "gid://shopify/ProductVariant/49526833119459": {
+    "product_title": "Denisha Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17622",
+    "price": 43500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/denisha-nagas-short-necklace?variant=gid://shopify/ProductVariant/49526833119459",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17622.jpg?v=1786604460"
+  },
+  "gid://shopify/ProductVariant/49526841213155": {
+    "product_title": "Heritage Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17623",
+    "price": 65800.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/heritage-nagas-short-necklace-10?variant=gid://shopify/ProductVariant/49526841213155",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17623.jpg?v=1786604669"
+  },
+  "gid://shopify/ProductVariant/49526843637987": {
+    "product_title": "Aarvikaa Kundan Pair Bangle",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-3564-2.6\"",
+    "price": 71200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/kundan-pair-bangle-26?variant=gid://shopify/ProductVariant/49526843637987",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3564.jpg?v=1786604745"
+  },
+  "gid://shopify/ProductVariant/49526846390499": {
+    "product_title": "Grandeur Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17624",
+    "price": 52800.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/grandeur-nagas-short-necklace-3?variant=gid://shopify/ProductVariant/49526846390499",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17624.jpg?v=1786605067"
+  },
+  "gid://shopify/ProductVariant/49526850158819": {
+    "product_title": "Vikasaa Kundan Pair Bangle",
+    "variant_title": "2.4\"",
+    "sku": "AMS-107-3567-2.4\"",
+    "price": 49300.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/kundan-pair-bangle-27?variant=gid://shopify/ProductVariant/49526850158819",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3567.jpg?v=1786604944"
+  },
+  "gid://shopify/ProductVariant/49526855336163": {
+    "product_title": "Inishaa Kundan Pair Bangle",
+    "variant_title": "2.4\"",
+    "sku": "AMS-107-3571-2.4\"",
+    "price": 65950.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/kundan-pair-bangle-28?variant=gid://shopify/ProductVariant/49526855336163",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3571.jpg?v=1786605148"
   },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
@@ -114560,6 +114614,15 @@
     "url": "https://www.theamethyststore.com/products/pranitha-long-earrings?variant=gid://shopify/ProductVariant/48923477508323",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13769.jpg?v=1778244029"
   },
+  "gid://shopify/ProductVariant/48923478229219": {
+    "product_title": "Traditional Nagas Choker",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15578",
+    "price": 33240.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/traditional-nagas-choker-2?variant=gid://shopify/ProductVariant/48923478229219",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15578.jpg?v=1778244195"
+  },
   "gid://shopify/ProductVariant/48923504214243": {
     "product_title": "Classy Nagas Long Earrings",
     "variant_title": "Default Title",
@@ -118403,13 +118466,13 @@
     "url": "https://www.theamethyststore.com/products/testing-lmx?variant=gid://shopify/ProductVariant/49519917891811",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_jpg_df2c206f-8fda-456b-8e49-4954ebb24623.jpg?v=1786432571"
   },
-  "gid://shopify/ProductVariant/49526833119459": {
-    "product_title": "Denisha Nagas Short Necklace",
+  "gid://shopify/ProductVariant/49526860644579": {
+    "product_title": "Charming Nagas Short Necklace",
     "variant_title": "Default Title",
-    "sku": "AMS-102-17622",
-    "price": 43500.0,
+    "sku": "AMS-102-17625",
+    "price": 36700.0,
     "stock": 0,
-    "url": "https://www.theamethyststore.com/products/denisha-nagas-short-necklace?variant=gid://shopify/ProductVariant/49526833119459",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17622.jpg?v=1786604460"
+    "url": "https://www.theamethyststore.com/products/charming-nagas-short-necklace-2?variant=gid://shopify/ProductVariant/49526860644579",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17625.jpg?v=1786605337"
   }
 }
