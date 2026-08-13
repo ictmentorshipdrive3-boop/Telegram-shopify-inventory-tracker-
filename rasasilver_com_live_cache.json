@@ -12136,7 +12136,7 @@
     "variant_title": "Default Title",
     "sku": "R15702",
     "price": 68900.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/wingessa-cz-necklace-set?variant=gid://shopify/ProductVariant/52383538676009",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0357copy_resized_46b3f69b-e349-4b81-a2f6-2199be06fe02.jpg?v=1767683089"
   },
@@ -25465,7 +25465,7 @@
     "variant_title": "Default Title",
     "sku": "R32938",
     "price": 5525.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.rasasilver.com/products/lakshmi-divine-temple-studs?variant=gid://shopify/ProductVariant/53346875539753",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July02311.jpg?v=1786341637"
   },
@@ -48302,6 +48302,15 @@
     "url": "https://www.rasasilver.com/products/silver-aura-kada?variant=gid://shopify/ProductVariant/53398431596841",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19477.jpg?v=1786624091"
   },
+  "gid://shopify/ProductVariant/53398433825065": {
+    "product_title": "Rosaline Crystal Kada",
+    "variant_title": "Default Title",
+    "sku": "R29743",
+    "price": 10900.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/rosaline-crystal-kada?variant=gid://shopify/ProductVariant/53398433825065",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19489.jpg?v=1786624254"
+  },
   "gid://shopify/ProductVariant/53398610116905": {
     "product_title": "Heart Stone Buggadi",
     "variant_title": "Default Title",
@@ -48409,6 +48418,33 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/vivah-glow-manglsutra?variant=gid://shopify/ProductVariant/53399130669353",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-08-03at5.12.30PM_1.jpg?v=1785758898"
+  },
+  "gid://shopify/ProductVariant/53403110539561": {
+    "product_title": "Cupid' Blush Necklace",
+    "variant_title": "Pink",
+    "sku": "R32234",
+    "price": 27500.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/cupid-blush-necklace?variant=gid://shopify/ProductVariant/53403110539561",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19537.jpg?v=1786624453"
+  },
+  "gid://shopify/ProductVariant/53403110572329": {
+    "product_title": "Cupid' Blush Necklace",
+    "variant_title": "Blue",
+    "sku": "R32235",
+    "price": 27500.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/cupid-blush-necklace?variant=gid://shopify/ProductVariant/53403110572329",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19537.jpg?v=1786624453"
+  },
+  "gid://shopify/ProductVariant/53403196129577": {
+    "product_title": "Radha-Krishna Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R33404",
+    "price": 38500.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/radha-krishna-temple-necklace?variant=gid://shopify/ProductVariant/53403196129577",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_41_107Pics0464_2.jpg?v=1786624800"
   },
   "gid://shopify/ProductVariant/53403322777897": {
     "product_title": "Trishul Bracelet",
