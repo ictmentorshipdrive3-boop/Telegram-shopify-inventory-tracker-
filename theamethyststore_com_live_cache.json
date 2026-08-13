@@ -5287,7 +5287,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-116-0054",
     "price": 1600.0,
-    "stock": 4,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/floral-silver-rakhi?variant=gid://shopify/ProductVariant/43921651073251",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-116-0054.jpg?v=1689940455"
   },
@@ -6196,7 +6196,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-5032",
     "price": 21853.8,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/mowiin-stone-earrings?variant=gid://shopify/ProductVariant/44029556130019",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5032_e63ac908-961f-48e8-9447-5aed45d98bfa.jpg?v=1704022180"
   },
@@ -57779,6 +57779,15 @@
     "url": "https://www.theamethyststore.com/products/kundan-ring-14?variant=gid://shopify/ProductVariant/47935562940643",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1986.jpg?v=1770279451"
   },
+  "gid://shopify/ProductVariant/47939421634787": {
+    "product_title": "Khashvi Kundan Anklet",
+    "variant_title": "Default Title",
+    "sku": "AMS-114-0803",
+    "price": 12020.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/khashvi-kundan-anklet?variant=gid://shopify/ProductVariant/47939421634787",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-114-0803.jpg?v=1770283636"
+  },
   "gid://shopify/ProductVariant/47939438346467": {
     "product_title": "Kashvi Kundan Anklet",
     "variant_title": "Default Title",
@@ -60370,6 +60379,15 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/anushi-pair-bangle?variant=gid://shopify/ProductVariant/48120376295651",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3058.jpg?v=1770729566"
+  },
+  "gid://shopify/ProductVariant/48124173844707": {
+    "product_title": "Jashvitha Bullakku Nose Pin",
+    "variant_title": "Default Title",
+    "sku": "AMS-113-0432",
+    "price": 1500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/jashvitha-bullakku-nose-pin?variant=gid://shopify/ProductVariant/48124173844707",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0432.jpg?v=1770733073"
   },
   "gid://shopify/ProductVariant/48162573189347": {
     "product_title": "Frizza Nagas Short Necklace",
@@ -111797,15 +111815,6 @@
     "url": "https://www.theamethyststore.com/products/tharsha-kundan-anklet?variant=gid://shopify/ProductVariant/47935428788451",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-114-0801.jpg?v=1770279274"
   },
-  "gid://shopify/ProductVariant/47939421634787": {
-    "product_title": "Khashvi Kundan Anklet",
-    "variant_title": "Default Title",
-    "sku": "AMS-114-0803",
-    "price": 12020.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/khashvi-kundan-anklet?variant=gid://shopify/ProductVariant/47939421634787",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-114-0803.jpg?v=1770283636"
-  },
   "gid://shopify/ProductVariant/47939658776803": {
     "product_title": "Arika Kundan Anklet",
     "variant_title": "Default Title",
@@ -112300,15 +112309,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/attigai-necklace-8?variant=gid://shopify/ProductVariant/48123103674595",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14264.jpg?v=1770731969"
-  },
-  "gid://shopify/ProductVariant/48124173844707": {
-    "product_title": "Jashvitha Bullakku Nose Pin",
-    "variant_title": "Default Title",
-    "sku": "AMS-113-0432",
-    "price": 1500.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/jashvitha-bullakku-nose-pin?variant=gid://shopify/ProductVariant/48124173844707",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0432.jpg?v=1770733073"
   },
   "gid://shopify/ProductVariant/48163024666851": {
     "product_title": "Rashikha Nagas Short Necklace",
