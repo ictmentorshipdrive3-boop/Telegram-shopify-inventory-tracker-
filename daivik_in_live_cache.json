@@ -5773,7 +5773,7 @@
     "variant_title": "Default Title",
     "sku": "337",
     "price": 1499.0,
-    "stock": 25,
+    "stock": 24,
     "url": "https://www.daivik.in/products/2-line-ad-droplet-necklace-with-earrings?variant=gid://shopify/ProductVariant/44659167101150",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CDF01663-3E25-4D34-985D-84EF924E2F26.jpg?v=1704901396"
   },
@@ -10205,15 +10205,6 @@
     "url": "https://www.daivik.in/products/hasli-lakshmi-pendant-necklace-with-earrings-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/46182730301662",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C7632E9E-4DDF-43CA-A3FD-5412032AE3F7.jpg?v=1735394088"
   },
-  "gid://shopify/ProductVariant/46188367904990": {
-    "product_title": "Simple Ruby Green Anklets",
-    "variant_title": "Default Title",
-    "sku": "1526",
-    "price": 699.0,
-    "stock": 3,
-    "url": "https://www.daivik.in/products/simple-ruby-green-anklets?variant=gid://shopify/ProductVariant/46188367904990",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/65EA16C8-E23C-412C-A199-F283DBE40726.jpg?v=1735652379"
-  },
   "gid://shopify/ProductVariant/46188373967070": {
     "product_title": "Simple Ruby Green Flower Anklets",
     "variant_title": "Default Title",
@@ -11551,7 +11542,7 @@
     "variant_title": "White",
     "sku": "982",
     "price": 699.0,
-    "stock": 25,
+    "stock": 24,
     "url": "https://www.daivik.in/products/invisible-ad-leaf-necklace-with-earrings-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/46601934078174",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1BC5AE9E-3283-41C7-AE2B-A526038DB48D.jpg?v=1744559542"
   },
@@ -11623,7 +11614,7 @@
     "variant_title": "Purple",
     "sku": "309",
     "price": 799.0,
-    "stock": 41,
+    "stock": 40,
     "url": "https://www.daivik.in/products/invisible-flower-chain-with-earrings-in-two-vaiants-price-for-each?variant=gid://shopify/ProductVariant/46622024335582",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5086782C-8B6D-4680-A1B4-6FCD1A121358.jpg?v=1744985053"
   },
@@ -26917,6 +26908,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/pure-kemp-brass-ruby-green-peacock-long-haram-with-earrings?variant=gid://shopify/ProductVariant/46184218788062",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/DA1A9083-5A27-4BBC-BF23-139AD35834CD.jpg?v=1735478469"
+  },
+  "gid://shopify/ProductVariant/46188367904990": {
+    "product_title": "Simple Ruby Green Anklets",
+    "variant_title": "Default Title",
+    "sku": "1526",
+    "price": 699.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/simple-ruby-green-anklets?variant=gid://shopify/ProductVariant/46188367904990",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/65EA16C8-E23C-412C-A199-F283DBE40726.jpg?v=1735652379"
   },
   "gid://shopify/ProductVariant/46188372492510": {
     "product_title": "Simple Golden Beads Ankelts",
