@@ -2483,15 +2483,6 @@
     "url": "https://www.daivik.in/products/a-144?variant=gid://shopify/ProductVariant/43057931223262",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_89a651cf-4620-421f-9548-1b0208432112.heic?v=1656949035"
   },
-  "gid://shopify/ProductVariant/43082516758750": {
-    "product_title": "Antique Gold Lakshmi Necklace",
-    "variant_title": "Default Title",
-    "sku": "593",
-    "price": 4699.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/a-199?variant=gid://shopify/ProductVariant/43082516758750",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_b6ae1744-c136-4e29-ad40-0a2723f2db55.heic?v=1657294604"
-  },
   "gid://shopify/ProductVariant/43086874050782": {
     "product_title": "Box Zirconium Rosegold necklace with earrings",
     "variant_title": "Default Title",
@@ -10768,7 +10759,7 @@
     "variant_title": "Green",
     "sku": "1229",
     "price": 1399.0,
-    "stock": 40,
+    "stock": 39,
     "url": "https://www.daivik.in/products/hasli-ad-necklace-with-earrings-in-2-colors?variant=gid://shopify/ProductVariant/46308331061470",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4C9C4178-0BAA-48EE-8287-B254E8847B5B.jpg?v=1740238481"
   },
@@ -17248,7 +17239,7 @@
     "variant_title": "Default Title",
     "sku": "306",
     "price": 3299.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/peacock-premium-hasli-necklace-with-earrings?variant=gid://shopify/ProductVariant/47795180536030",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8413BA38-0D94-4CBF-9307-B9994C388C53.jpg?v=1767371745"
   },
@@ -22939,6 +22930,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/a-191?variant=gid://shopify/ProductVariant/43057984766174",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_014333bf-5512-4445-8d6f-96beecf8fbe8.heic?v=1656950058"
+  },
+  "gid://shopify/ProductVariant/43082516758750": {
+    "product_title": "Antique Gold Lakshmi Necklace",
+    "variant_title": "Default Title",
+    "sku": "593",
+    "price": 4699.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/a-199?variant=gid://shopify/ProductVariant/43082516758750",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_b6ae1744-c136-4e29-ad40-0a2723f2db55.heic?v=1657294604"
   },
   "gid://shopify/ProductVariant/43108876452062": {
     "product_title": "AD Bridal Choker with Jhumkas",
