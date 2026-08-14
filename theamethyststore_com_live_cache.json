@@ -49778,15 +49778,6 @@
     "url": "https://www.theamethyststore.com/products/chandrika-stone-maangtikka?variant=gid://shopify/ProductVariant/47734337405155",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1667.jpg?v=1765695047"
   },
-  "gid://shopify/ProductVariant/47734449373411": {
-    "product_title": "Kirthana Stone Maangtikka",
-    "variant_title": "Default Title",
-    "sku": "AMS-109-1970",
-    "price": 9443.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kirthana-stone-maangtikka?variant=gid://shopify/ProductVariant/47734449373411",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1970.jpg?v=1765698131"
-  },
   "gid://shopify/ProductVariant/47734610428131": {
     "product_title": "Subhiksha Stone Maangtikka",
     "variant_title": "Default Title",
@@ -82480,7 +82471,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-16206",
     "price": 18128.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/fabulous-avikam-short-necklace-set-4?variant=gid://shopify/ProductVariant/49334671081699",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16206.jpg?v=1782822441"
   },
@@ -85612,7 +85603,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15224",
     "price": 7000.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/bugadi-earrings-4?variant=gid://shopify/ProductVariant/49383326482659",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15224.jpg?v=1783593180"
   },
@@ -86404,7 +86395,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-16577",
     "price": 4700.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/hasli-necklace-56?variant=gid://shopify/ProductVariant/49394357076195",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16577.jpg?v=1783767506"
   },
@@ -110653,6 +110644,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/grand-nagas-long-necklace-2?variant=gid://shopify/ProductVariant/47732655423715",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13279.jpg?v=1765628503"
+  },
+  "gid://shopify/ProductVariant/47734449373411": {
+    "product_title": "Kirthana Stone Maangtikka",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-1970",
+    "price": 9443.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kirthana-stone-maangtikka?variant=gid://shopify/ProductVariant/47734449373411",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1970.jpg?v=1765698131"
   },
   "gid://shopify/ProductVariant/47734745661667": {
     "product_title": "Saindhavi Stone Maangtikka",
