@@ -32926,7 +32926,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-10915",
     "price": 19200.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/tanisha-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/47070693654755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10915_3.jpg?v=1756293142"
   },
@@ -73510,15 +73510,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/glittering-stone-pair-bangles-1?variant=gid://shopify/ProductVariant/48965906301155",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3161_2.jpg?v=1778850132"
-  },
-  "gid://shopify/ProductVariant/48966048481507": {
-    "product_title": "Hamsini Bridal Nagas Oddiyanam",
-    "variant_title": "Default Title",
-    "sku": "AMS-110-0890",
-    "price": 110980.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/hamsini-bridal-nagas-oddiyanam?variant=gid://shopify/ProductVariant/48966048481507",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0890.jpg?v=1778852067"
   },
   "gid://shopify/ProductVariant/48966063685859": {
     "product_title": "Mesmerizing Stone Pair Bangles",
@@ -115810,6 +115801,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nagas-pair-bangles-15?variant=gid://shopify/ProductVariant/48965901025507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3195_bf07a73e-3995-4021-bbd9-bf83547aaec8.jpg?v=1778852429"
+  },
+  "gid://shopify/ProductVariant/48966048481507": {
+    "product_title": "Hamsini Bridal Nagas Oddiyanam",
+    "variant_title": "Default Title",
+    "sku": "AMS-110-0890",
+    "price": 110980.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/hamsini-bridal-nagas-oddiyanam?variant=gid://shopify/ProductVariant/48966048481507",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0890.jpg?v=1778852067"
   },
   "gid://shopify/ProductVariant/48966164447459": {
     "product_title": "Aarnikha Nagas Pair Bangles",
