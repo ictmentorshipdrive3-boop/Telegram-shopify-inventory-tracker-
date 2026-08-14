@@ -15628,7 +15628,7 @@
     "variant_title": "2.4",
     "sku": "R25317",
     "price": 27455.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/shahi-sparkle-stone-bangles?variant=gid://shopify/ProductVariant/52707645096233",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4063.jpg?v=1771321115"
   },
@@ -15637,7 +15637,7 @@
     "variant_title": "2.7",
     "sku": "R25317",
     "price": 32300.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/shahi-sparkle-stone-bangles?variant=gid://shopify/ProductVariant/52707645129001",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4063.jpg?v=1771321115"
   },
@@ -15646,7 +15646,7 @@
     "variant_title": "2.8",
     "sku": "R25317",
     "price": 32300.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/shahi-sparkle-stone-bangles?variant=gid://shopify/ProductVariant/52707645161769",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4063.jpg?v=1771321115"
   },
@@ -22693,7 +22693,7 @@
     "variant_title": "Default Title",
     "sku": "R31572",
     "price": 1190.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/beaded-charm-ear-cuff?variant=gid://shopify/ProductVariant/53286096306473",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5629_resized.jpg?v=1782293207"
   },
@@ -24587,15 +24587,6 @@
     "url": "https://www.rasasilver.com/products/chand-phool-kundan-choker-set?variant=gid://shopify/ProductVariant/53329513513257",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42327_resized.jpg?v=1784115433"
   },
-  "gid://shopify/ProductVariant/53329541792041": {
-    "product_title": "Rose Empress Victorian Choker Set",
-    "variant_title": "Default Title",
-    "sku": "R30807",
-    "price": 54400.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/rose-empress-victorian-choker-set?variant=gid://shopify/ProductVariant/53329541792041",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42356_resized.jpg?v=1784116032"
-  },
   "gid://shopify/ProductVariant/53329546412329": {
     "product_title": "Rajwadi Kundan Choker Set",
     "variant_title": "Default Title",
@@ -24721,15 +24712,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/vaibhava-victorian-haath-phool?variant=gid://shopify/ProductVariant/53329663787305",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0744_resized.jpg?v=1784180348"
-  },
-  "gid://shopify/ProductVariant/53329676828969": {
-    "product_title": "Blush-Floral Victorian Haath Phool",
-    "variant_title": "Default Title",
-    "sku": "R30749",
-    "price": 32385.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/blush-floral-victorian-haath-phool?variant=gid://shopify/ProductVariant/53329676828969",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0739_resized.jpg?v=1784180445"
   },
   "gid://shopify/ProductVariant/53329680826665": {
     "product_title": "Navilu Pearl Kundan Jhumki",
@@ -47807,6 +47789,15 @@
     "url": "https://www.rasasilver.com/products/recta-orange-stone-bangles?variant=gid://shopify/ProductVariant/53324630065449",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41417_resized.jpg?v=1783752047"
   },
+  "gid://shopify/ProductVariant/53329541792041": {
+    "product_title": "Rose Empress Victorian Choker Set",
+    "variant_title": "Default Title",
+    "sku": "R30807",
+    "price": 54400.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/rose-empress-victorian-choker-set?variant=gid://shopify/ProductVariant/53329541792041",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42356_resized.jpg?v=1784116032"
+  },
   "gid://shopify/ProductVariant/53329555063081": {
     "product_title": "Sunlit Empress Victorian Choker Set",
     "variant_title": "Default Title",
@@ -47824,6 +47815,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/maharani-mayura-temple-danglers?variant=gid://shopify/ProductVariant/53329646879017",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42411_resized.jpg?v=1784118883"
+  },
+  "gid://shopify/ProductVariant/53329676828969": {
+    "product_title": "Blush-Floral Victorian Haath Phool",
+    "variant_title": "Default Title",
+    "sku": "R30749",
+    "price": 32385.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/blush-floral-victorian-haath-phool?variant=gid://shopify/ProductVariant/53329676828969",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0739_resized.jpg?v=1784180445"
   },
   "gid://shopify/ProductVariant/53329738891561": {
     "product_title": "Temple Rasleela Jhumki",
@@ -48351,10 +48351,10 @@
     "product_title": "Rose Gold Necklace",
     "variant_title": "Default Title",
     "sku": "R32248",
-    "price": 9690.0,
+    "price": 9700.0,
     "stock": 0,
     "url": "https://www.rasasilver.com/products/rose-gold-necklace?variant=gid://shopify/ProductVariant/53398658220329",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageAug3_2026_06_26_06PM.png?v=1785761822"
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19528.jpg?v=1786704415"
   },
   "gid://shopify/ProductVariant/53398915186985": {
     "product_title": "Navarasa Peacock Nakshi Necklace Set",
@@ -48868,6 +48868,33 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/nova-line-necklace?variant=gid://shopify/ProductVariant/53410033205545",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19524.jpg?v=1786704091"
+  },
+  "gid://shopify/ProductVariant/53410042872105": {
+    "product_title": "Isabelle Necklace",
+    "variant_title": "Default Title",
+    "sku": "R32253",
+    "price": 2700.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/isabelle-necklace?variant=gid://shopify/ProductVariant/53410042872105",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19520.jpg?v=1786704542"
+  },
+  "gid://shopify/ProductVariant/53411230155049": {
+    "product_title": "Aarvya Kundan Studs",
+    "variant_title": "Default Title",
+    "sku": "R32198",
+    "price": 3000.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/aarvya-kundan-studs?variant=gid://shopify/ProductVariant/53411230155049",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38655.jpg?v=1786704846"
+  },
+  "gid://shopify/ProductVariant/53411231498537": {
+    "product_title": "Flora Royale Kundan Studs",
+    "variant_title": "Default Title",
+    "sku": "R32200",
+    "price": 4700.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/flora-royale-kundan-studs?variant=gid://shopify/ProductVariant/53411231498537",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38651.jpg?v=1786705003"
   },
   "gid://shopify/ProductVariant/53411271180585": {
     "product_title": "Dhan-Lakshmi Temple Necklace",
