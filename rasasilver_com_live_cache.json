@@ -26513,15 +26513,6 @@
     "url": "https://www.rasasilver.com/products/ganesha-rakhi?variant=gid://shopify/ProductVariant/53394183094569",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19601.jpg?v=1786000061"
   },
-  "gid://shopify/ProductVariant/53394183389481": {
-    "product_title": "Ganpati Rakhi",
-    "variant_title": "Default Title",
-    "sku": "R33381",
-    "price": 765.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/ganpati-rakhi?variant=gid://shopify/ProductVariant/53394183389481",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19598.jpg?v=1786000337"
-  },
   "gid://shopify/ProductVariant/53394183651625": {
     "product_title": "Veera Rakhi",
     "variant_title": "Default Title",
@@ -48059,6 +48050,15 @@
     "url": "https://www.rasasilver.com/products/flora-link-moissanite-choker?variant=gid://shopify/ProductVariant/53374196252969",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July03981.jpg?v=1786365606"
   },
+  "gid://shopify/ProductVariant/53394183389481": {
+    "product_title": "Ganpati Rakhi",
+    "variant_title": "Default Title",
+    "sku": "R33381",
+    "price": 765.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ganpati-rakhi?variant=gid://shopify/ProductVariant/53394183389481",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19598.jpg?v=1786000337"
+  },
   "gid://shopify/ProductVariant/53394191941929": {
     "product_title": "Infinte-Heart Bracelet",
     "variant_title": "Default Title",
@@ -48877,6 +48877,42 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/isabelle-necklace?variant=gid://shopify/ProductVariant/53410042872105",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19520.jpg?v=1786704542"
+  },
+  "gid://shopify/ProductVariant/53410983313705": {
+    "product_title": "Aurora Collar Necklace",
+    "variant_title": "Gold",
+    "sku": "R32256",
+    "price": 2600.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/aurora-collar-necklace?variant=gid://shopify/ProductVariant/53410983313705",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19516.jpg?v=1786707912"
+  },
+  "gid://shopify/ProductVariant/53410983346473": {
+    "product_title": "Aurora Collar Necklace",
+    "variant_title": "Silver",
+    "sku": "R32258",
+    "price": 2800.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/aurora-collar-necklace?variant=gid://shopify/ProductVariant/53410983346473",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19516.jpg?v=1786707912"
+  },
+  "gid://shopify/ProductVariant/53411020767529": {
+    "product_title": "Golden Aura Necklace",
+    "variant_title": "Default Title",
+    "sku": "R32260",
+    "price": 7200.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/golden-aura-necklace?variant=gid://shopify/ProductVariant/53411020767529",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19512.jpg?v=1786708144"
+  },
+  "gid://shopify/ProductVariant/53411129491753": {
+    "product_title": "Two Tone Necklace",
+    "variant_title": "Default Title",
+    "sku": "R32263",
+    "price": 12800.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/two-tone-necklace?variant=gid://shopify/ProductVariant/53411129491753",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19503.jpg?v=1786708494"
   },
   "gid://shopify/ProductVariant/53411171959081": {
     "product_title": "Kalapi-Gaja Temple Necklace",
