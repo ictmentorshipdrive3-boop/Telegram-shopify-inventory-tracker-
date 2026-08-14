@@ -41287,7 +41287,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-11828",
     "price": 28700.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/cerlin-diamond-short-necklace-set?variant=gid://shopify/ProductVariant/47251784401123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11828-_4.jpg?v=1759832057"
   },
@@ -66850,15 +66850,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/hasli-necklace-12?variant=gid://shopify/ProductVariant/48763474084067",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15175.jpg?v=1775826596"
-  },
-  "gid://shopify/ProductVariant/48763499872483": {
-    "product_title": "Jivanshi Hasli Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15185",
-    "price": 8200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/jivanshi-hasli-necklace?variant=gid://shopify/ProductVariant/48763499872483",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15185.jpg?v=1775826805"
   },
   "gid://shopify/ProductVariant/48771720806627": {
     "product_title": "Chic & Trendy Drops",
@@ -101402,6 +101393,15 @@
     "url": "https://www.theamethyststore.com/products/3d-spl-long-necklace-9?variant=gid://shopify/ProductVariant/49534351474915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17261.jpg?v=1786705240"
   },
+  "gid://shopify/ProductVariant/49534403805411": {
+    "product_title": "Traditional 3D Spl Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17255",
+    "price": 85500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/3d-spl-short-necklace-40?variant=gid://shopify/ProductVariant/49534403805411",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17255.jpg?v=1786706325"
+  },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
     "variant_title": "Default Title",
@@ -114280,6 +114280,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/aayushi-hasli-necklace?variant=gid://shopify/ProductVariant/48762969260259",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15183.jpg?v=1775823875"
+  },
+  "gid://shopify/ProductVariant/48763499872483": {
+    "product_title": "Jivanshi Hasli Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15185",
+    "price": 8200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/jivanshi-hasli-necklace?variant=gid://shopify/ProductVariant/48763499872483",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15185.jpg?v=1775826805"
   },
   "gid://shopify/ProductVariant/48773026742499": {
     "product_title": "Joshika Bracelet",
