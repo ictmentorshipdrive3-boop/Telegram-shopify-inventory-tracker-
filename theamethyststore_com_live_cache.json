@@ -22355,6 +22355,15 @@
     "url": "https://www.theamethyststore.com/products/shritha-nagas-nakshi-necklace?variant=gid://shopify/ProductVariant/46561489944803",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9317.jpg?v=1749649820"
   },
+  "gid://shopify/ProductVariant/46561496105187": {
+    "product_title": "Saithanya Nagas Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-9306",
+    "price": 283500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/saithanya-nagas-long-necklace?variant=gid://shopify/ProductVariant/46561496105187",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9306_2_266796f4-418d-43fd-88f8-149447400573.jpg?v=1775222313"
+  },
   "gid://shopify/ProductVariant/46561497415907": {
     "product_title": "Rasitha Nagas Nakshi Necklace",
     "variant_title": "Default Title",
@@ -88240,7 +88249,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4702",
     "price": 4000.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/chic-glow-stone-pendant?variant=gid://shopify/ProductVariant/49420686098659",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4702.jpg?v=1784269216"
   },
@@ -101402,6 +101411,24 @@
     "url": "https://www.theamethyststore.com/products/3d-spl-short-necklace-40?variant=gid://shopify/ProductVariant/49534403805411",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17255.jpg?v=1786706325"
   },
+  "gid://shopify/ProductVariant/49535187878115": {
+    "product_title": "Traditional Nagas Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4845",
+    "price": 24900.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nagas-pendant-47?variant=gid://shopify/ProductVariant/49535187878115",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/WhatsAppImage2026-08-14at6.34.25PM.jpg?v=1786712921"
+  },
+  "gid://shopify/ProductVariant/49535191089379": {
+    "product_title": "Devi Lakshmi Nagas Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4839",
+    "price": 26900.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nagas-pendant-48?variant=gid://shopify/ProductVariant/49535191089379",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/WhatsAppImage2026-08-14at6.35.10PM.jpg?v=1786713177"
+  },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
     "variant_title": "Default Title",
@@ -105838,15 +105865,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/dheeskshi-short-necklace?variant=gid://shopify/ProductVariant/46561398194403",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9332_d27df335-16fa-48fc-8b96-4fb7b530bc5b.jpg?v=1778993532"
-  },
-  "gid://shopify/ProductVariant/46561496105187": {
-    "product_title": "Saithanya Nagas Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-9306",
-    "price": 283500.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/saithanya-nagas-long-necklace?variant=gid://shopify/ProductVariant/46561496105187",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9306_2_266796f4-418d-43fd-88f8-149447400573.jpg?v=1775222313"
   },
   "gid://shopify/ProductVariant/46599785382115": {
     "product_title": "Vintage Nagas Long Necklace",
@@ -119248,5 +119266,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/testing-lmx?variant=gid://shopify/ProductVariant/49519917891811",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_jpg_df2c206f-8fda-456b-8e49-4954ebb24623.jpg?v=1786432571"
+  },
+  "gid://shopify/ProductVariant/49535194726627": {
+    "product_title": "Unique Nagas Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4836",
+    "price": 18500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-pendant-49?variant=gid://shopify/ProductVariant/49535194726627",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/WhatsAppImage2026-08-14at6.35.37PM.jpg?v=1786713337"
   }
 }
