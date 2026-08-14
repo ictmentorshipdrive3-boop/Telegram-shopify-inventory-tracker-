@@ -11366,15 +11366,6 @@
     "url": "https://www.rasasilver.com/products/hamsa-morika-choker?variant=gid://shopify/ProductVariant/52795442069801",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_16Dec36204.jpg?v=1766138232"
   },
-  "gid://shopify/ProductVariant/52279481794857": {
-    "product_title": "Florya Victorian Bangles",
-    "variant_title": "2.8",
-    "sku": "R20213",
-    "price": 46495.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/florya-bangles?variant=gid://shopify/ProductVariant/52279481794857",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_16Dec36283.jpg?v=1766127746"
-  },
   "gid://shopify/ProductVariant/52279496343849": {
     "product_title": "Emerveil Victorian Bangles",
     "variant_title": "Default Title",
@@ -38267,6 +38258,15 @@
     "url": "https://www.rasasilver.com/products/mor-muktamani-choker?variant=gid://shopify/ProductVariant/52279457808681",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_16Dec36093.jpg?v=1766128511"
   },
+  "gid://shopify/ProductVariant/52279481794857": {
+    "product_title": "Florya Victorian Bangles",
+    "variant_title": "2.8",
+    "sku": "R20213",
+    "price": 46495.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/florya-bangles?variant=gid://shopify/ProductVariant/52279481794857",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_16Dec36283.jpg?v=1766127746"
+  },
   "gid://shopify/ProductVariant/52279518167337": {
     "product_title": "Hexa-Flora Antique Necklace Set",
     "variant_title": "Default Title",
@@ -48571,6 +48571,42 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/black-blet-silver-bracelet?variant=gid://shopify/ProductVariant/53403326447913",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-08-04at1.36.52PM_2.jpg?v=1785831715"
+  },
+  "gid://shopify/ProductVariant/53403494252841": {
+    "product_title": "Leaf & Light Ring",
+    "variant_title": "Default Title",
+    "sku": "R32316",
+    "price": 4300.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/leaf-light-ring?variant=gid://shopify/ProductVariant/53403494252841",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19472.jpg?v=1786689044"
+  },
+  "gid://shopify/ProductVariant/53426533138729": {
+    "product_title": "Rosalie Ring",
+    "variant_title": "8",
+    "sku": "R32321",
+    "price": 6700.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/rosalie-ring?variant=gid://shopify/ProductVariant/53426533138729",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19443.jpg?v=1786689389"
+  },
+  "gid://shopify/ProductVariant/53426534940969": {
+    "product_title": "Blue Sparkle Ring",
+    "variant_title": "7",
+    "sku": "R32325",
+    "price": 5300.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/blue-sparkle-ring?variant=gid://shopify/ProductVariant/53426534940969",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug193871.jpg?v=1786689678"
+  },
+  "gid://shopify/ProductVariant/53426535563561": {
+    "product_title": "Wing Sparkle Ring",
+    "variant_title": "8",
+    "sku": "R32328",
+    "price": 5300.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/wing-sparkle-ring?variant=gid://shopify/ProductVariant/53426535563561",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19399.jpg?v=1786689844"
   },
   "gid://shopify/ProductVariant/53410114437417": {
     "product_title": "Infinite Bro Rakhi",
