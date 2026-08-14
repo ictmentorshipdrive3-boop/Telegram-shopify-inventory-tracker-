@@ -23413,7 +23413,7 @@
     "variant_title": "Default Title",
     "sku": "R31977",
     "price": 2380.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/rose-mist-ring?variant=gid://shopify/ProductVariant/53290731012393",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun06871_resized.jpg?v=1783592921"
   },
@@ -25378,6 +25378,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/vasantika-antique-studs?variant=gid://shopify/ProductVariant/53349015355689",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0239.jpg?v=1786341331"
+  },
+  "gid://shopify/ProductVariant/53349025055017": {
+    "product_title": "Navaratna Moissanite Necklace",
+    "variant_title": "Default Title",
+    "sku": "R30875",
+    "price": 31280.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/navaratna-moissanite-necklace?variant=gid://shopify/ProductVariant/53349025055017",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0323.jpg?v=1786368088"
   },
   "gid://shopify/ProductVariant/53349155668265": {
     "product_title": "Petal Veil Moissanite Necklace Set",
@@ -47941,15 +47950,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/dusky-gleam-bracelet?variant=gid://shopify/ProductVariant/53346676736297",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July1034.jpg?v=1786103754"
-  },
-  "gid://shopify/ProductVariant/53349025055017": {
-    "product_title": "Navaratna Moissanite Necklace",
-    "variant_title": "Default Title",
-    "sku": "R30875",
-    "price": 31280.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/navaratna-moissanite-necklace?variant=gid://shopify/ProductVariant/53349025055017",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0323.jpg?v=1786368088"
   },
   "gid://shopify/ProductVariant/53349149114665": {
     "product_title": "Luxe Brilliance Moissanite Necklace",
