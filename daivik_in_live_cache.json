@@ -6115,7 +6115,7 @@
     "variant_title": "Default Title",
     "sku": "825",
     "price": 999.0,
-    "stock": 25,
+    "stock": 24,
     "url": "https://www.daivik.in/products/two-line-kids-adult-pearl-choker-with-studs?variant=gid://shopify/ProductVariant/44815359410398",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG-2713.heic?v=1708876092"
   },
@@ -10786,7 +10786,7 @@
     "variant_title": "Default Title",
     "sku": "1562",
     "price": 1299.0,
-    "stock": 15,
+    "stock": 14,
     "url": "https://www.daivik.in/products/kemp-lotus-jhumkas-in-2-colours?variant=gid://shopify/ProductVariant/46309259018462",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BD46372A-71E9-4B1B-B508-BAF3117DA9B6.jpg?v=1773641333"
   },
@@ -19987,15 +19987,6 @@
     "stock": 23,
     "url": "https://www.daivik.in/products/ad-pearl-flower-bangle?variant=gid://shopify/ProductVariant/48306973376734",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D0B49F8C-2E93-472D-BEBC-A910B088AC6B.jpg?v=1780570794"
-  },
-  "gid://shopify/ProductVariant/48308560658654": {
-    "product_title": "Lotus Ruby Green Pure kemp Invisible chain with Earrings",
-    "variant_title": "Default Title",
-    "sku": "1391",
-    "price": 1999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/lotus-ruby-green-invisible-chain-with-earrings?variant=gid://shopify/ProductVariant/48308560658654",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3AF4828D-ADA0-4FE0-B1FA-C6BC7EE0AD33.jpg?v=1780659624"
   },
   "gid://shopify/ProductVariant/48309043429598": {
     "product_title": "Premium AD Rice Pearl Jada Billa",
@@ -30607,6 +30598,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-lakshmi-hipchain?variant=gid://shopify/ProductVariant/48292340334814",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AB81DC2C-D064-43FC-B287-38F9F45D5FF4.jpg?v=1780150095"
+  },
+  "gid://shopify/ProductVariant/48308560658654": {
+    "product_title": "Lotus Ruby Green Pure kemp Invisible chain with Earrings",
+    "variant_title": "Default Title",
+    "sku": "1391",
+    "price": 1999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/lotus-ruby-green-invisible-chain-with-earrings?variant=gid://shopify/ProductVariant/48308560658654",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3AF4828D-ADA0-4FE0-B1FA-C6BC7EE0AD33.jpg?v=1780659624"
   },
   "gid://shopify/ProductVariant/48309064794334": {
     "product_title": "Premium AD Jada Billa with Mattal",
