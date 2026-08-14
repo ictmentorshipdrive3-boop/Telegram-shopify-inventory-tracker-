@@ -1120,7 +1120,7 @@
     "variant_title": "Default Title",
     "sku": "792",
     "price": 2499.0,
-    "stock": 34,
+    "stock": 33,
     "url": "https://www.daivik.in/products/long-cluster-pearl-jhumkas?variant=gid://shopify/ProductVariant/40668971073689",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_1f82b2ef-706a-42eb-bc91-604d8f61ab3a.jpg?v=1627402072"
   },
@@ -3730,7 +3730,7 @@
     "variant_title": "Default Title",
     "sku": "75",
     "price": 4199.0,
-    "stock": 41,
+    "stock": 40,
     "url": "https://www.daivik.in/products/a-75?variant=gid://shopify/ProductVariant/44172631015646",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_f7a47cfe-1883-48be-8296-aaee6e2b6303.heic?v=1683038660"
   },
@@ -11173,7 +11173,7 @@
     "variant_title": "2.4",
     "sku": "1579",
     "price": 1499.0,
-    "stock": 49,
+    "stock": 48,
     "url": "https://www.daivik.in/products/ad-stone-bangles-price-for-a-pair?variant=gid://shopify/ProductVariant/46401150189790",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3679.heic?v=1742104840"
   },
@@ -21068,15 +21068,6 @@
     "url": "https://www.daivik.in/products/simple-lotus-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48586872553694",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EA0E3112-00F1-4DB1-A5AB-9EE30EF10B2B.jpg?v=1786293531"
   },
-  "gid://shopify/ProductVariant/48588136022238": {
-    "product_title": "Kemp Ruby Green Flower Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "1944",
-    "price": 1199.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/kemp-ruby-green-flower-jhumkas-1?variant=gid://shopify/ProductVariant/48588136022238",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5680.jpg?v=1786368472"
-  },
   "gid://shopify/ProductVariant/48590319288542": {
     "product_title": "Floral Antique Ruby Green Jada Billai / Choti / Hair Accessory",
     "variant_title": "Default Title",
@@ -30751,5 +30742,14 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/premium-gold-look-alike-antique-kada?variant=gid://shopify/ProductVariant/48584804729054",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B64A32E3-F256-4FBB-9AFC-A8820BE399C2.jpg?v=1786206007"
+  },
+  "gid://shopify/ProductVariant/48588136022238": {
+    "product_title": "Kemp Ruby Green Flower Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "1944",
+    "price": 1199.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/kemp-ruby-green-flower-jhumkas-1?variant=gid://shopify/ProductVariant/48588136022238",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5680.jpg?v=1786368472"
   }
 }
