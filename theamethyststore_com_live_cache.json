@@ -3576,8 +3576,8 @@
     "product_title": "Yellow Stone Studs",
     "variant_title": "Default Title",
     "sku": "AMS-106-3918",
-    "price": 5272.46,
-    "stock": 1,
+    "price": 4900.0,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/yellow-stone-studs?variant=gid://shopify/ProductVariant/43631199191267",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3918.jpg?v=1672644676"
   },
@@ -4800,8 +4800,8 @@
     "product_title": "Conito Navarathna Studs",
     "variant_title": "Default Title",
     "sku": "AMS-106-4448",
-    "price": 5700.0,
-    "stock": 1,
+    "price": 5300.0,
+    "stock": 7,
     "url": "https://www.theamethyststore.com/products/conito-navarathna-studs?variant=gid://shopify/ProductVariant/43852694651107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-4448.jpg?v=1684393728"
   },
@@ -4903,6 +4903,15 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/nivi-stone-studs?variant=gid://shopify/ProductVariant/43858963202275",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-4472.jpg?v=1684825894"
+  },
+  "gid://shopify/ProductVariant/43860891435235": {
+    "product_title": "Bhumi Stone Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-4470",
+    "price": 13450.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/bhumi-stone-jhumkas?variant=gid://shopify/ProductVariant/43860891435235",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-4470.jpg?v=1684910312"
   },
   "gid://shopify/ProductVariant/43864488149219": {
     "product_title": "Preethi Stone Drops",
@@ -71855,6 +71864,15 @@
     "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-9?variant=gid://shopify/ProductVariant/48927000527075",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3145.jpg?v=1778307312"
   },
+  "gid://shopify/ProductVariant/48927000625379": {
+    "product_title": "Athira Avikam Pair Bangles",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-3145-2.6\"",
+    "price": 85500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-9?variant=gid://shopify/ProductVariant/48927000625379",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3145.jpg?v=1778307312"
+  },
   "gid://shopify/ProductVariant/48927000592611": {
     "product_title": "Cutest Hook Earrings",
     "variant_title": "Default Title",
@@ -102815,15 +102833,6 @@
     "url": "https://www.theamethyststore.com/products/vividha-short-necklace?variant=gid://shopify/ProductVariant/43857276829923",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-2476.jpg?v=1684730545"
   },
-  "gid://shopify/ProductVariant/43860891435235": {
-    "product_title": "Bhumi Stone Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-4470",
-    "price": 14760.9,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/bhumi-stone-jhumkas?variant=gid://shopify/ProductVariant/43860891435235",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-4470.jpg?v=1684910312"
-  },
   "gid://shopify/ProductVariant/43867717009635": {
     "product_title": "Lakshmika Nagas Oddiyanam",
     "variant_title": "Default Title",
@@ -115531,15 +115540,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/enchanting-nagas-short-necklace?variant=gid://shopify/ProductVariant/48926964154595",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15677.jpg?v=1778305543"
-  },
-  "gid://shopify/ProductVariant/48927000625379": {
-    "product_title": "Athira Avikam Pair Bangles",
-    "variant_title": "2.6\"",
-    "sku": "AMS-107-3145-2.6\"",
-    "price": 87648.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-9?variant=gid://shopify/ProductVariant/48927000625379",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3145.jpg?v=1778307312"
   },
   "gid://shopify/ProductVariant/48927004950755": {
     "product_title": "Sanjitha Avikam Pair Bangles",
