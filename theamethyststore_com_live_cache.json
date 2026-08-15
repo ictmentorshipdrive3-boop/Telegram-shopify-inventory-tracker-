@@ -24812,15 +24812,6 @@
     "url": "https://www.theamethyststore.com/products/vithra-kundan-jada?variant=gid://shopify/ProductVariant/46824757887203",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0529.jpg?v=1752042508"
   },
-  "gid://shopify/ProductVariant/46824758116579": {
-    "product_title": "Dainty Nagas Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-10655",
-    "price": 28659.86,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/dainty-nagas-short-necklace-set?variant=gid://shopify/ProductVariant/46824758116579",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10655.jpg?v=1752042546"
-  },
   "gid://shopify/ProductVariant/46824761426147": {
     "product_title": "Exiquisite Nagas Short Necklace",
     "variant_title": "Default Title",
@@ -73754,15 +73745,6 @@
     "url": "https://www.theamethyststore.com/products/lekshya-short-necklace-set?variant=gid://shopify/ProductVariant/48987432124643",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15736.jpg?v=1779105375"
   },
-  "gid://shopify/ProductVariant/48987436351715": {
-    "product_title": "Paarnika Avikam Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15737",
-    "price": 25300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/paarnika-avikam-short-necklace?variant=gid://shopify/ProductVariant/48987436351715",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15737.jpg?v=1779105802"
-  },
   "gid://shopify/ProductVariant/48991065932003": {
     "product_title": "Yuki Nagas Choker",
     "variant_title": "Default Title",
@@ -94769,15 +94751,6 @@
     "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-25?variant=gid://shopify/ProductVariant/49495325376739",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3443.jpg?v=1785764654"
   },
-  "gid://shopify/ProductVariant/49495336452323": {
-    "product_title": "Dazzle Avikam Pendant Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-4857",
-    "price": 29100.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/avikam-pendant-set-17?variant=gid://shopify/ProductVariant/49495336452323",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4857.jpg?v=1785765596"
-  },
   "gid://shopify/ProductVariant/49495354736867": {
     "product_title": "Fish hook Necklace Back Chain",
     "variant_title": "Default Title",
@@ -107549,6 +107522,15 @@
     "url": "https://www.theamethyststore.com/products/bindhu-kundan-jada?variant=gid://shopify/ProductVariant/46799599042787",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0530.jpg?v=1751977889"
   },
+  "gid://shopify/ProductVariant/46824758116579": {
+    "product_title": "Dainty Nagas Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-10655",
+    "price": 28659.86,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/dainty-nagas-short-necklace-set?variant=gid://shopify/ProductVariant/46824758116579",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10655.jpg?v=1752042546"
+  },
   "gid://shopify/ProductVariant/46826024206563": {
     "product_title": "Shimmering Avikam Earrings",
     "variant_title": "Default Title",
@@ -117314,6 +117296,15 @@
     "url": "https://www.theamethyststore.com/products/upasana-nagas-earrings?variant=gid://shopify/ProductVariant/48987376550115",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13837.jpg?v=1779100551"
   },
+  "gid://shopify/ProductVariant/48987436351715": {
+    "product_title": "Paarnika Avikam Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15737",
+    "price": 25300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/paarnika-avikam-short-necklace?variant=gid://shopify/ProductVariant/48987436351715",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15737.jpg?v=1779105802"
+  },
   "gid://shopify/ProductVariant/48987443757283": {
     "product_title": "Sudarshini Nagas Earrings",
     "variant_title": "Default Title",
@@ -120571,6 +120562,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/diamond-design-studs-32?variant=gid://shopify/ProductVariant/49483391533283",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15076.jpg?v=1785579280"
+  },
+  "gid://shopify/ProductVariant/49495336452323": {
+    "product_title": "Dazzle Avikam Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4857",
+    "price": 29100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/avikam-pendant-set-17?variant=gid://shopify/ProductVariant/49495336452323",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4857.jpg?v=1785765596"
   },
   "gid://shopify/ProductVariant/49497200754915": {
     "product_title": "Admirable Avikam Pendant Set",
