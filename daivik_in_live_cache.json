@@ -1687,7 +1687,7 @@
     "variant_title": "Default Title",
     "sku": "985",
     "price": 2499.0,
-    "stock": 43,
+    "stock": 42,
     "url": "https://www.daivik.in/products/heavy-bridal-nagasi-necklace-with-earrings?variant=gid://shopify/ProductVariant/42285497417950",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_1db6eac3-6a3a-464f-8af0-96b606256a54.jpg?v=1640962064"
   },
@@ -20573,15 +20573,6 @@
     "url": "https://www.daivik.in/products/10-in-1-changeable-bangles?variant=gid://shopify/ProductVariant/48422119538910",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/JPEGimage-43A4-8F99-E6-0.jpg?v=1783684450"
   },
-  "gid://shopify/ProductVariant/48423947796702": {
-    "product_title": "Victorian Flower Pendant Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "283",
-    "price": 3499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/victorian-flower-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48423947796702",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9002.jpg?v=1783748787"
-  },
   "gid://shopify/ProductVariant/48424071037150": {
     "product_title": "Victorian Bridal Short and Long Combo Necklace with Earrings",
     "variant_title": "Default Title",
@@ -30688,6 +30679,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-gold-lakshmi-temple-necklace-with-earrings?variant=gid://shopify/ProductVariant/48422274859230",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0548.jpg?v=1783693151"
+  },
+  "gid://shopify/ProductVariant/48423947796702": {
+    "product_title": "Victorian Flower Pendant Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "283",
+    "price": 3499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/victorian-flower-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48423947796702",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9002.jpg?v=1783748787"
   },
   "gid://shopify/ProductVariant/48434484150494": {
     "product_title": "Simple Leaf Invisible Chain",
