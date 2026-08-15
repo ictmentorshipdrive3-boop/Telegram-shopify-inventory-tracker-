@@ -31,7 +31,7 @@
     "variant_title": "Default Title",
     "sku": "45",
     "price": 1449.0,
-    "stock": 22,
+    "stock": 21,
     "url": "https://www.daivik.in/products/45?variant=gid://shopify/ProductVariant/32600770707515",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_ec716232-9924-41f1-819a-8bc18601c00b.jpg?v=1599550627"
   },
@@ -4216,7 +4216,7 @@
     "variant_title": "Ruby green",
     "sku": "192",
     "price": 1099.0,
-    "stock": 20,
+    "stock": 19,
     "url": "https://www.daivik.in/products/ad-gold-finish-necklace-in-2-colours-with-earrings?variant=gid://shopify/ProductVariant/44264192475358",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_c580459d-3e6a-4c23-aa59-5b1a242f8584.heic?v=1689004254"
   },
@@ -11686,7 +11686,7 @@
     "variant_title": "Ruby Green",
     "sku": "1599",
     "price": 1199.0,
-    "stock": 36,
+    "stock": 35,
     "url": "https://www.daivik.in/products/parrot-pure-kemp-jadau-bugadi?variant=gid://shopify/ProductVariant/46641582538974",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/08372EEF-2851-452C-87DE-182BB012BE15.jpg?v=1745679366"
   },
@@ -13252,7 +13252,7 @@
     "variant_title": "Default Title",
     "sku": "1319",
     "price": 1299.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.daivik.in/products/lakshmi-antique-choker-with-studs?variant=gid://shopify/ProductVariant/47461641388254",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B43A7E7A-40CB-42C6-8659-D64017434DA7.jpg?v=1755770949"
   },
@@ -16780,7 +16780,7 @@
     "variant_title": "Green",
     "sku": "1344",
     "price": 999.0,
-    "stock": 36,
+    "stock": 35,
     "url": "https://www.daivik.in/products/gold-look-alike-simple-necklace-set?variant=gid://shopify/ProductVariant/47720147288286",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2F3239CC-48B4-4666-BDDC-8AAF76370B05.jpg?v=1764519438"
   },
@@ -17239,7 +17239,7 @@
     "variant_title": "Green",
     "sku": "1772",
     "price": 599.0,
-    "stock": 37,
+    "stock": 36,
     "url": "https://www.daivik.in/products/pure-kemp-brass-nose-pin-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/47796909768926",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_c2df2ed2-a369-44c5-8053-26d95c5becfb.jpg?v=1767421638"
   },
@@ -20375,15 +20375,6 @@
     "url": "https://www.daivik.in/products/triple-foam-handmade-artificial-lotus-pink-buds-kunjalam-hair-extension?variant=gid://shopify/ProductVariant/48377645465822",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5368.jpg?v=1782546537"
   },
-  "gid://shopify/ProductVariant/48378829111518": {
-    "product_title": "Antique Lakshmi Jada Billa (Price for 1 pc)",
-    "variant_title": "Default Title",
-    "sku": "1918",
-    "price": 499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/antique-lakshmi-jada-billa-price-for-1-pc?variant=gid://shopify/ProductVariant/48378829111518",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/006995CB-6D6A-442B-8D24-B0ECA03F962B.jpg?v=1782648270"
-  },
   "gid://shopify/ProductVariant/48383619760350": {
     "product_title": "Antique Kemp Lakshmi Pearl Choker with Earrings",
     "variant_title": "Default Title",
@@ -20677,7 +20668,7 @@
     "variant_title": "Default Title",
     "sku": "602",
     "price": 899.0,
-    "stock": 20,
+    "stock": 19,
     "url": "https://www.daivik.in/products/elakkathali-coin-ruby-green-choker-with-earrings?variant=gid://shopify/ProductVariant/48437245870302",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0685_e29c3fd8-04de-410a-8bc8-116c2569aa96.jpg?v=1784117072"
   },
@@ -30652,6 +30643,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/a-14?variant=gid://shopify/ProductVariant/48349419602142",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8E726069-4FBB-444F-B05A-4F7C1AA30280.jpg?v=1781953952"
+  },
+  "gid://shopify/ProductVariant/48378829111518": {
+    "product_title": "Antique Lakshmi Jada Billa (Price for 1 pc)",
+    "variant_title": "Default Title",
+    "sku": "1918",
+    "price": 499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/antique-lakshmi-jada-billa-price-for-1-pc?variant=gid://shopify/ProductVariant/48378829111518",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/006995CB-6D6A-442B-8D24-B0ECA03F962B.jpg?v=1782648270"
   },
   "gid://shopify/ProductVariant/48447550390494": {
     "product_title": "Invisible Ganesha Chain in Two Colors",
