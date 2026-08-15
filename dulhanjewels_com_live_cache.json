@@ -215,15 +215,6 @@
     "url": "https://www.dulhanjewels.com/products/majestic-gold-plated-jadau-kundan-long-mango-necklace?variant=gid://shopify/ProductVariant/48266685579570",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/29F56101-CE3A-457E-9F86-0CABF5C8AB07.jpg?v=1716553232"
   },
-  "gid://shopify/ProductVariant/48813280035122": {
-    "product_title": "Timeless Victorian Choker Set with screw-back earrings",
-    "variant_title": "Green",
-    "sku": "",
-    "price": 5800.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/timeless-victorian-choker-set-with-screw-back-earrings?variant=gid://shopify/ProductVariant/48813280035122",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/B0F7F3F6-678B-4116-A4C4-528BDC47FC95.jpg?v=1780990860"
-  },
   "gid://shopify/ProductVariant/48813280067890": {
     "product_title": "Timeless Victorian Choker Set with screw-back earrings",
     "variant_title": "Red",
@@ -6479,15 +6470,6 @@
     "url": "https://www.dulhanjewels.com/products/exquisite-victorian-bridal-choker-necklace-set-with-earrings-and-maang-tikka?variant=gid://shopify/ProductVariant/51548574843186",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/ED2FCCC0-DA38-4436-A338-F0AA6647A867.jpg?v=1786019757"
   },
-  "gid://shopify/ProductVariant/51548574875954": {
-    "product_title": "Exquisite Victorian Bridal Choker Necklace Set with Earrings And Maang Tikka",
-    "variant_title": "Pink",
-    "sku": null,
-    "price": 8550.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/exquisite-victorian-bridal-choker-necklace-set-with-earrings-and-maang-tikka?variant=gid://shopify/ProductVariant/51548574875954",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/ED2FCCC0-DA38-4436-A338-F0AA6647A867.jpg?v=1786019757"
-  },
   "gid://shopify/ProductVariant/51548579463474": {
     "product_title": "Antique Gold Temple Necklace Set With Matching Earrings",
     "variant_title": "Default Title",
@@ -7090,6 +7072,15 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/traditional-victorian-polki-bangles-with-ad-stones-in-navaratna-colour?variant=gid://shopify/ProductVariant/48167508214066",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/5BE6BC90-7A3B-4113-928E-39D86AA7059A.jpg?v=1784809176"
+  },
+  "gid://shopify/ProductVariant/48813280035122": {
+    "product_title": "Timeless Victorian Choker Set with screw-back earrings",
+    "variant_title": "Green",
+    "sku": "",
+    "price": 5800.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/timeless-victorian-choker-set-with-screw-back-earrings?variant=gid://shopify/ProductVariant/48813280035122",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/B0F7F3F6-678B-4116-A4C4-528BDC47FC95.jpg?v=1780990860"
   },
   "gid://shopify/ProductVariant/48813384761650": {
     "product_title": "Victorian Moissanite Necklace Set with Pearl hangings",
@@ -8458,5 +8449,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/floral-stud-earrings-with-pearl-bordering?variant=gid://shopify/ProductVariant/51484153151794",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6266940520407962146.jpg?v=1784620083"
+  },
+  "gid://shopify/ProductVariant/51548574875954": {
+    "product_title": "Exquisite Victorian Bridal Choker Necklace Set with Earrings And Maang Tikka",
+    "variant_title": "Pink",
+    "sku": null,
+    "price": 8550.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/exquisite-victorian-bridal-choker-necklace-set-with-earrings-and-maang-tikka?variant=gid://shopify/ProductVariant/51548574875954",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/ED2FCCC0-DA38-4436-A338-F0AA6647A867.jpg?v=1786019757"
   }
 }
