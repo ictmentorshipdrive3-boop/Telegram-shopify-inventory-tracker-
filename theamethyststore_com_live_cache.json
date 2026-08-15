@@ -5170,7 +5170,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-0722",
     "price": 11443.78,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/dhiya-maatal?variant=gid://shopify/ProductVariant/43900050604259",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-0722.jpg?v=1688109841"
   },
@@ -58741,15 +58741,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/priyasri-chain?variant=gid://shopify/ProductVariant/48022557753571",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1715.jpg?v=1770444211"
-  },
-  "gid://shopify/ProductVariant/48025239290083": {
-    "product_title": "Trendy Glow Chain",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-1757",
-    "price": 13810.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/trendy-glow-chain?variant=gid://shopify/ProductVariant/48025239290083",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1757.jpg?v=1770446676"
   },
   "gid://shopify/ProductVariant/48025385894115": {
     "product_title": "Liyanka Hair Maatal",
@@ -112957,6 +112948,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/shanvikha-chain?variant=gid://shopify/ProductVariant/48024433230051",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1758.jpg?v=1770446328"
+  },
+  "gid://shopify/ProductVariant/48025239290083": {
+    "product_title": "Trendy Glow Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-1757",
+    "price": 13810.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/trendy-glow-chain?variant=gid://shopify/ProductVariant/48025239290083",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1757.jpg?v=1770446676"
   },
   "gid://shopify/ProductVariant/48025582633187": {
     "product_title": "Chic & Fabulous Chain",
