@@ -85522,7 +85522,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15224",
     "price": 7000.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/bugadi-earrings-4?variant=gid://shopify/ProductVariant/49383326482659",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15224.jpg?v=1783593180"
   },
@@ -87654,7 +87654,7 @@
     "product_title": "Amazing Avikam Long Necklace Set",
     "variant_title": "Default Title",
     "sku": "AMS-102-16704",
-    "price": 38900.0,
+    "price": 41800.0,
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/amazing-avikam-long-necklace-set-1?variant=gid://shopify/ProductVariant/49410617573603",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16704.jpg?v=1784113529"
@@ -94918,7 +94918,7 @@
     "variant_title": "2.6\"",
     "sku": "AMS-107-3443-2.6\"",
     "price": 58800.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-25?variant=gid://shopify/ProductVariant/49495325376739",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3443.jpg?v=1785764654"
   },
@@ -102166,6 +102166,87 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/krisha-hook-jhumkas?variant=gid://shopify/ProductVariant/49539162243299",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15688.jpg?v=1786791376"
+  },
+  "gid://shopify/ProductVariant/49539163554019": {
+    "product_title": "Vikashaa Kundan Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17533",
+    "price": 38800.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/kundan-long-necklace-30?variant=gid://shopify/ProductVariant/49539163554019",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17533.jpg?v=1786791462"
+  },
+  "gid://shopify/ProductVariant/49539167748323": {
+    "product_title": "Attractive Hook Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15689",
+    "price": 13650.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/attractive-hook-jhumkas?variant=gid://shopify/ProductVariant/49539167748323",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15689.jpg?v=1786791625"
+  },
+  "gid://shopify/ProductVariant/49539168108771": {
+    "product_title": "Krithikaa Kundan Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17534",
+    "price": 34700.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/kundan-long-necklace-31?variant=gid://shopify/ProductVariant/49539168108771",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17534.jpg?v=1786791643"
+  },
+  "gid://shopify/ProductVariant/49539170468067": {
+    "product_title": "Eshika Hook Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15690",
+    "price": 13150.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/eshika-hook-jhumkas?variant=gid://shopify/ProductVariant/49539170468067",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15690.jpg?v=1786791740"
+  },
+  "gid://shopify/ProductVariant/49539170992355": {
+    "product_title": "Unique Kundan Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17535",
+    "price": 45250.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/kundan-long-necklace-32?variant=gid://shopify/ProductVariant/49539170992355",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17535.jpg?v=1786791774"
+  },
+  "gid://shopify/ProductVariant/49539173810403": {
+    "product_title": "Adhira Hook Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15691",
+    "price": 10600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/adhira-hook-jhumkas?variant=gid://shopify/ProductVariant/49539173810403",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15691.jpg?v=1786791862"
+  },
+  "gid://shopify/ProductVariant/49539184296163": {
+    "product_title": "Arisha Hook Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15692",
+    "price": 15070.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/arisha-hook-jhumkas?variant=gid://shopify/ProductVariant/49539184296163",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15692.jpg?v=1786792038"
+  },
+  "gid://shopify/ProductVariant/49539187540195": {
+    "product_title": "Trishikaa Kundan Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17536",
+    "price": 32500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/kundan-long-necklace-33?variant=gid://shopify/ProductVariant/49539187540195",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17536.jpg?v=1786792157"
+  },
+  "gid://shopify/ProductVariant/49539207200995": {
+    "product_title": "Finthikaa Kundan Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4923",
+    "price": 13400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-110?variant=gid://shopify/ProductVariant/49539207200995",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4923.jpg?v=1786792505"
   },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
@@ -119721,7 +119802,7 @@
     "product_title": "Eshvika Plain Bracelet",
     "variant_title": "Default Title",
     "sku": "AMS-103-1337",
-    "price": 3300.0,
+    "price": 4000.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/eshvika-plain-bracelet?variant=gid://shopify/ProductVariant/49390397325539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1337.jpg?v=1783681820"
