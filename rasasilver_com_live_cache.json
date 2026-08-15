@@ -5624,15 +5624,6 @@
     "url": "https://www.rasasilver.com/products/lush-loop-bangles?variant=gid://shopify/ProductVariant/51205341970729",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_83_6Aug24176_resized.jpg?v=1757939763"
   },
-  "gid://shopify/ProductVariant/51205354815785": {
-    "product_title": "Fairy Orchard Pendant Set",
-    "variant_title": "Default Title",
-    "sku": "R11484",
-    "price": 21900.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/fairy-orchard-pendant-set?variant=gid://shopify/ProductVariant/51205354815785",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP915.jpg?v=1757940850"
-  },
   "gid://shopify/ProductVariant/51205421891881": {
     "product_title": "Spring Orchard Pendant Set",
     "variant_title": "Default Title",
@@ -12028,7 +12019,7 @@
     "variant_title": "Default Title",
     "sku": "R22230",
     "price": 32895.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/cz-necklace-set-2?variant=gid://shopify/ProductVariant/52390337577257",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0221copy_resized_c0cb9981-2199-4df9-9749-5f03e3682233.jpg?v=1767685259"
   },
@@ -22936,7 +22927,7 @@
     "variant_title": "Default Title",
     "sku": "R31555",
     "price": 935.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/orlina-studs?variant=gid://shopify/ProductVariant/53288902000937",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5559_resized_1.jpg?v=1785306379"
   },
@@ -29158,6 +29149,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/samudrika-choker?variant=gid://shopify/ProductVariant/51205354389801",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_20Sep27752_resized.jpg?v=1758626306"
+  },
+  "gid://shopify/ProductVariant/51205354815785": {
+    "product_title": "Fairy Orchard Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "R11484",
+    "price": 21900.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/fairy-orchard-pendant-set?variant=gid://shopify/ProductVariant/51205354815785",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP915.jpg?v=1757940850"
   },
   "gid://shopify/ProductVariant/51205503484201": {
     "product_title": "Roselight Pear Pendant Set",
