@@ -29479,7 +29479,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-9832",
     "price": 4700.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/varusha-hook-drops?variant=gid://shopify/ProductVariant/47032915525859",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9832_24282889-dc6e-4114-82b8-f7e01c784cee.jpg?v=1775547960"
   },
@@ -32956,15 +32956,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/amaira-avikam-choker-set?variant=gid://shopify/ProductVariant/47070705647843",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10911_1.jpg?v=1756294002"
-  },
-  "gid://shopify/ProductVariant/47070723145955": {
-    "product_title": "Bhanvi Avikam Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-10984",
-    "price": 62384.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/bhanvi-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/47070723145955",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10984_1.jpg?v=1756295583"
   },
   "gid://shopify/ProductVariant/47070728126691": {
     "product_title": "Fabulous Avikam Short Necklace Set",
@@ -43468,15 +43459,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/rasitha-pachi-ring?variant=gid://shopify/ProductVariant/47374522876131",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1660.jpg?v=1761139854"
-  },
-  "gid://shopify/ProductVariant/47374523891939": {
-    "product_title": "Priyasri Pakshi Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-1662",
-    "price": 4623.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/priyasri-pachi-ring?variant=gid://shopify/ProductVariant/47374523891939",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1662.jpg?v=1761139979"
   },
   "gid://shopify/ProductVariant/47374540931299": {
     "product_title": "Niralini Mugappu Chain",
@@ -64240,15 +64222,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/mansi-kundan-maatal-1?variant=gid://shopify/ProductVariant/48343130177763",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2245.jpg?v=1772450089"
-  },
-  "gid://shopify/ProductVariant/48343186833635": {
-    "product_title": "Radiant Reversible Stone Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-14813",
-    "price": 75800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/radiant-reversible-stone-necklace?variant=gid://shopify/ProductVariant/48343186833635",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14813.jpg?v=1772450143"
   },
   "gid://shopify/ProductVariant/48343402217699": {
     "product_title": "Nipuna Kundan Maatal",
@@ -102050,6 +102023,15 @@
     "url": "https://www.theamethyststore.com/products/avikam-jada-4?variant=gid://shopify/ProductVariant/49538853863651",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0922-S.jpg?v=1786781310"
   },
+  "gid://shopify/ProductVariant/49539082191075": {
+    "product_title": "Roshika Hook Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15677",
+    "price": 13450.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/roshika-hook-jhumkas?variant=gid://shopify/ProductVariant/49539082191075",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15677.jpg?v=1786787579"
+  },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
     "variant_title": "Default Title",
@@ -108800,6 +108782,15 @@
     "url": "https://www.theamethyststore.com/products/dhansi-boho-choker-set?variant=gid://shopify/ProductVariant/47070258299107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11091.jpg?v=1756277190"
   },
+  "gid://shopify/ProductVariant/47070723145955": {
+    "product_title": "Bhanvi Avikam Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-10984",
+    "price": 62384.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/bhanvi-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/47070723145955",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10984_1.jpg?v=1756295583"
+  },
   "gid://shopify/ProductVariant/47073015496931": {
     "product_title": "Gorgeous Look Stone Pendant",
     "variant_title": "Default Title",
@@ -110221,6 +110212,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/forest-greenish-ring?variant=gid://shopify/ProductVariant/47374215053539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1655.jpg?v=1761138010"
+  },
+  "gid://shopify/ProductVariant/47374523891939": {
+    "product_title": "Priyasri Pakshi Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-1662",
+    "price": 4623.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/priyasri-pachi-ring?variant=gid://shopify/ProductVariant/47374523891939",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1662.jpg?v=1761139979"
   },
   "gid://shopify/ProductVariant/47374678098147": {
     "product_title": "Harshikha Pakshi Ring",
@@ -114172,6 +114172,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/malavika-diamond-design-ring?variant=gid://shopify/ProductVariant/48342056206563",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2005.jpg?v=1772448816"
+  },
+  "gid://shopify/ProductVariant/48343186833635": {
+    "product_title": "Radiant Reversible Stone Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-14813",
+    "price": 75800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/radiant-reversible-stone-necklace?variant=gid://shopify/ProductVariant/48343186833635",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14813.jpg?v=1772450143"
   },
   "gid://shopify/ProductVariant/48343511924963": {
     "product_title": "Jeshnitha Reversible Stone Necklace",
