@@ -4936,7 +4936,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R17363",
     "price": 3145.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/gaurangi-phool-studs?variant=gid://shopify/ProductVariant/51472911139113",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP290.jpg?v=1756542039"
   },
@@ -4945,7 +4945,7 @@
     "variant_title": "Default Title",
     "sku": "R20350",
     "price": 2295.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/pervida-studs?variant=gid://shopify/ProductVariant/50828932940073",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP296.jpg?v=1756541884"
   },
@@ -10168,15 +10168,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/rubalyn-bloom-necklace-set-copy?variant=gid://shopify/ProductVariant/51870223630633",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2317_resized.jpg?v=1763464533"
-  },
-  "gid://shopify/ProductVariant/51870848450857": {
-    "product_title": "Ruby Pearline Necklace Set",
-    "variant_title": "GREEN",
-    "sku": "R18544",
-    "price": 14700.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/ovarielle-cz-necklace-set-copy?variant=gid://shopify/ProductVariant/51870848450857",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2374_resized.jpg?v=1763464111"
   },
   "gid://shopify/ProductVariant/51871269454121": {
     "product_title": "Pear-Flora Elysia Necklace Set",
@@ -36933,6 +36924,15 @@
     "price": 9180.0,
     "stock": 0,
     "url": "https://www.rasasilver.com/products/ovarielle-cz-necklace-set-copy?variant=gid://shopify/ProductVariant/51870848418089",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2374_resized.jpg?v=1763464111"
+  },
+  "gid://shopify/ProductVariant/51870848450857": {
+    "product_title": "Ruby Pearline Necklace Set",
+    "variant_title": "GREEN",
+    "sku": "R18544",
+    "price": 14700.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ovarielle-cz-necklace-set-copy?variant=gid://shopify/ProductVariant/51870848450857",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2374_resized.jpg?v=1763464111"
   },
   "gid://shopify/ProductVariant/51871534612777": {
