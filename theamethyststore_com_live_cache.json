@@ -38776,7 +38776,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-117-0532",
     "price": 1500.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/vine-glow-toe-ring-1?variant=gid://shopify/ProductVariant/47208981004515",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0532_1.jpg?v=1758880594"
   },
@@ -80396,15 +80396,6 @@
     "url": "https://www.theamethyststore.com/products/nagas-pair-bangles-51?variant=gid://shopify/ProductVariant/49320518123747",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3286.jpg?v=1782567738"
   },
-  "gid://shopify/ProductVariant/49320520909027": {
-    "product_title": "Classic Charm Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16330",
-    "price": 41440.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/classic-charm-short-necklace?variant=gid://shopify/ProductVariant/49320520909027",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16330.jpg?v=1782567863"
-  },
   "gid://shopify/ProductVariant/49320530051299": {
     "product_title": "Radiant Nagas Pair Bangles",
     "variant_title": "2.4\"",
@@ -119185,6 +119176,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/eternal-elegance-short-necklace?variant=gid://shopify/ProductVariant/49320505213155",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16351.jpg?v=1782567556"
+  },
+  "gid://shopify/ProductVariant/49320520909027": {
+    "product_title": "Classic Charm Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16330",
+    "price": 41440.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/classic-charm-short-necklace?variant=gid://shopify/ProductVariant/49320520909027",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16330.jpg?v=1782567863"
   },
   "gid://shopify/ProductVariant/49320543060195": {
     "product_title": "Elegant Nagas Pair Bangles",
