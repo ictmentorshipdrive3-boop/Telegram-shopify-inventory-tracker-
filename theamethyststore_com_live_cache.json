@@ -28718,15 +28718,6 @@
     "url": "https://www.theamethyststore.com/products/manusha-stone-ring?variant=gid://shopify/ProductVariant/47008980009187",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1413_f5559414-0b23-4154-9078-f008e008ab7d.jpg?v=1765882245"
   },
-  "gid://shopify/ProductVariant/47008995410147": {
-    "product_title": "Takshana Stone Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-1414",
-    "price": 4000.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/takshana-stone-ring?variant=gid://shopify/ProductVariant/47008995410147",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1414.jpg?v=1754992349"
-  },
   "gid://shopify/ProductVariant/47009020412131": {
     "product_title": "Ravithra Stone Bracelet",
     "variant_title": "Default Title",
@@ -80729,15 +80720,6 @@
     "url": "https://www.theamethyststore.com/products/traditional-nagas-drops-earrings-1?variant=gid://shopify/ProductVariant/49323315101923",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14492.jpg?v=1782649451"
   },
-  "gid://shopify/ProductVariant/49323326243043": {
-    "product_title": "Nithisha Nagas Drops Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14491",
-    "price": 4800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nithisha-nagas-drops-earrings?variant=gid://shopify/ProductVariant/49323326243043",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14491.jpg?v=1782649787"
-  },
   "gid://shopify/ProductVariant/49323330797795": {
     "product_title": "Mahitha Nagas Drops Earrings",
     "variant_title": "Default Title",
@@ -108359,6 +108341,15 @@
     "url": "https://www.theamethyststore.com/products/trivisha-stone-bracelet?variant=gid://shopify/ProductVariant/47008991150307",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-0905.jpg?v=1754992218"
   },
+  "gid://shopify/ProductVariant/47008995410147": {
+    "product_title": "Takshana Stone Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-1414",
+    "price": 4000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/takshana-stone-ring?variant=gid://shopify/ProductVariant/47008995410147",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1414.jpg?v=1754992349"
+  },
   "gid://shopify/ProductVariant/47009071333603": {
     "product_title": "Traditional Nagas Tikka",
     "variant_title": "Default Title",
@@ -119302,6 +119293,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/heritage-nagas-drops-earrings?variant=gid://shopify/ProductVariant/49322889150691",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14501.jpg?v=1782643676"
+  },
+  "gid://shopify/ProductVariant/49323326243043": {
+    "product_title": "Nithisha Nagas Drops Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14491",
+    "price": 4800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nithisha-nagas-drops-earrings?variant=gid://shopify/ProductVariant/49323326243043",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14491.jpg?v=1782649787"
   },
   "gid://shopify/ProductVariant/49325600604387": {
     "product_title": "Karpooravalli 3D Spl Pendant",
