@@ -9665,15 +9665,6 @@
     "url": "https://www.rasasilver.com/products/regency-tusk-pendant?variant=gid://shopify/ProductVariant/51526997803305",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Box01_12Nov0623_resized.jpg?v=1763464329"
   },
-  "gid://shopify/ProductVariant/52263580139817": {
-    "product_title": "Harini Mor Bangles",
-    "variant_title": "2.7",
-    "sku": "R17563",
-    "price": 18700.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/harini-mor-bangles?variant=gid://shopify/ProductVariant/52263580139817",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_10Nov0183_resized.jpg?v=1763378288"
-  },
   "gid://shopify/ProductVariant/52263576928553": {
     "product_title": "Venura Bangles",
     "variant_title": "2.7",
@@ -10003,7 +9994,7 @@
     "variant_title": "Ruby Pink / 2.7",
     "sku": "R17350",
     "price": 20500.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/dhanika-bangles?variant=gid://shopify/ProductVariant/52273420075305",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa-10Nov_Sann0071_resized.jpg?v=1765780858"
   },
@@ -10012,7 +10003,7 @@
     "variant_title": "Ruby Pink / 2.6",
     "sku": "R17350",
     "price": 20500.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/dhanika-bangles?variant=gid://shopify/ProductVariant/52273497309481",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa-10Nov_Sann0071_resized.jpg?v=1765780858"
   },
@@ -10021,7 +10012,7 @@
     "variant_title": "Ruby Pink / 2.8",
     "sku": "R17350",
     "price": 20500.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/dhanika-bangles?variant=gid://shopify/ProductVariant/52274222432553",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa-10Nov_Sann0071_resized.jpg?v=1765780858"
   },
@@ -36502,6 +36493,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/jewel-of-shuka-bangles?variant=gid://shopify/ProductVariant/51526981222697",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa-10Nov_Sann0109_resized.jpg?v=1763378177"
+  },
+  "gid://shopify/ProductVariant/52263580139817": {
+    "product_title": "Harini Mor Bangles",
+    "variant_title": "2.7",
+    "sku": "R17563",
+    "price": 18700.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/harini-mor-bangles?variant=gid://shopify/ProductVariant/52263580139817",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_10Nov0183_resized.jpg?v=1763378288"
   },
   "gid://shopify/ProductVariant/51527022706985": {
     "product_title": "Ruby Panna Bangles",
