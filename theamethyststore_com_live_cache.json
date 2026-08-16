@@ -7820,15 +7820,6 @@
     "url": "https://www.theamethyststore.com/products/dhrisha-short-kundan-necklace?variant=gid://shopify/ProductVariant/44398759313635",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5594.jpg?v=1707900249"
   },
-  "gid://shopify/ProductVariant/46773685977315": {
-    "product_title": "Baiza Stone Pair Bangles",
-    "variant_title": "2.4\"",
-    "sku": "AMS-107-1092-2.4\"",
-    "price": 28755.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/baiza-stone-pair-bangles?variant=gid://shopify/ProductVariant/46773685977315",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1092.jpg?v=1707900903"
-  },
   "gid://shopify/ProductVariant/46230140682467": {
     "product_title": "Baiza Stone Pair Bangles",
     "variant_title": "2.6\"",
@@ -32579,15 +32570,6 @@
     "url": "https://www.theamethyststore.com/products/krishtika-nagas-chain?variant=gid://shopify/ProductVariant/47068421685475",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1182.jpg?v=1756217858"
   },
-  "gid://shopify/ProductVariant/47068422176995": {
-    "product_title": "Shristi Nagas Chain",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-1181",
-    "price": 35656.2,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/shristi-nagas-chain?variant=gid://shopify/ProductVariant/47068422176995",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1181.jpg?v=1756217993"
-  },
   "gid://shopify/ProductVariant/47068423487715": {
     "product_title": "Vishakha Nagas Chain",
     "variant_title": "Default Title",
@@ -35707,7 +35689,7 @@
     "variant_title": "8",
     "sku": "AMS-101-1576-08\"",
     "price": 5984.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/tishikha-ring?variant=gid://shopify/ProductVariant/47128464851171",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1576.jpg?v=1757162601"
   },
@@ -47392,15 +47374,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/yashika-victorian-choker?variant=gid://shopify/ProductVariant/47570707874019",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12397_7bbb8ff4-84f4-4a38-8651-303d3f891eec.jpg?v=1763465713"
-  },
-  "gid://shopify/ProductVariant/47570730909923": {
-    "product_title": "Amaira Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-12800",
-    "price": 53443.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/amaira-short-necklace?variant=gid://shopify/ProductVariant/47570730909923",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12800.jpg?v=1763468102"
   },
   "gid://shopify/ProductVariant/47570745884899": {
     "product_title": "Gorgeous Look Short Necklace",
@@ -87286,7 +87259,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-16717",
     "price": 44100.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/stunning-avikam-short-necklace-set-6?variant=gid://shopify/ProductVariant/49410626027747",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16717.jpg?v=1784114451"
   },
@@ -104228,6 +104201,15 @@
     "url": "https://www.theamethyststore.com/products/sanjani-nagas-short-necklace?variant=gid://shopify/ProductVariant/44398699938019",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5592.jpg?v=1707897537"
   },
+  "gid://shopify/ProductVariant/46773685977315": {
+    "product_title": "Baiza Stone Pair Bangles",
+    "variant_title": "2.4\"",
+    "sku": "AMS-107-1092-2.4\"",
+    "price": 28755.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/baiza-stone-pair-bangles?variant=gid://shopify/ProductVariant/46773685977315",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1092.jpg?v=1707900903"
+  },
   "gid://shopify/ProductVariant/44404924874979": {
     "product_title": "Dhiya Studs",
     "variant_title": "Default Title",
@@ -109295,6 +109277,15 @@
     "url": "https://www.theamethyststore.com/products/vinitha-nagas-chain?variant=gid://shopify/ProductVariant/47068393079011",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1189.jpg?v=1756216154"
   },
+  "gid://shopify/ProductVariant/47068422176995": {
+    "product_title": "Shristi Nagas Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-1181",
+    "price": 35656.2,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/shristi-nagas-chain?variant=gid://shopify/ProductVariant/47068422176995",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1181.jpg?v=1756217993"
+  },
   "gid://shopify/ProductVariant/47070258299107": {
     "product_title": "Dhansi Boho Choker Set",
     "variant_title": "Default Title",
@@ -111211,6 +111202,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/krishtikha-short-necklace-set?variant=gid://shopify/ProductVariant/47570720686307",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12804.jpg?v=1763466824"
+  },
+  "gid://shopify/ProductVariant/47570730909923": {
+    "product_title": "Amaira Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-12800",
+    "price": 53443.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/amaira-short-necklace?variant=gid://shopify/ProductVariant/47570730909923",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12800.jpg?v=1763468102"
   },
   "gid://shopify/ProductVariant/47570764726499": {
     "product_title": "Zylara Victorian Choker Set",
