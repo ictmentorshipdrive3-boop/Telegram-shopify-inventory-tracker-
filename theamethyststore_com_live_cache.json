@@ -1,13 +1,4 @@
 {
-  "gid://shopify/ProductVariant/37371588804758": {
-    "product_title": "Pavo Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-0353",
-    "price": 7668.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/pavo-pendant?variant=gid://shopify/ProductVariant/37371588804758",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/ams-104-0353.jpg?v=1608545853"
-  },
   "gid://shopify/ProductVariant/37378542993558": {
     "product_title": "Floral Navarathna Pendant",
     "variant_title": "Default Title",
@@ -102355,6 +102346,15 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/trishya-kundan-pendant-set?variant=gid://shopify/ProductVariant/49542614450403",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4917.jpg?v=1786869744"
+  },
+  "gid://shopify/ProductVariant/37371588804758": {
+    "product_title": "Pavo Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-0353",
+    "price": 7668.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/pavo-pendant?variant=gid://shopify/ProductVariant/37371588804758",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/ams-104-0353.jpg?v=1608545853"
   },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
