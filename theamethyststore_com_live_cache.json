@@ -84973,7 +84973,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-14863",
     "price": 18300.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/dhanisha-kundan-jhumkas?variant=gid://shopify/ProductVariant/49375723880675",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14863.jpg?v=1783497459"
   },
@@ -102463,6 +102463,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/aadhya-kundan-maangtikka?variant=gid://shopify/ProductVariant/49542425903331",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2446.jpg?v=1786865557"
+  },
+  "gid://shopify/ProductVariant/49542452510947": {
+    "product_title": "Aradhya Kundan Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15714",
+    "price": 21970.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/aradhya-kundan-drops?variant=gid://shopify/ProductVariant/49542452510947",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15714.jpg?v=1786866208"
   },
   "gid://shopify/ProductVariant/37380148461718": {
     "product_title": "Glorious Pendant",
@@ -120832,14 +120841,5 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/dazzle-diamond-design-pair-bangles?variant=gid://shopify/ProductVariant/49527851581667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3401_2.jpg?v=1786622211"
-  },
-  "gid://shopify/ProductVariant/49542452510947": {
-    "product_title": "Aradhya Kundan Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 7100.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/aradhya-kundan-drops?variant=gid://shopify/ProductVariant/49542452510947",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15714.jpg?v=1786866208"
   }
 }
