@@ -2434,7 +2434,7 @@
     "variant_title": "Default Title",
     "sku": "869",
     "price": 4999.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.daivik.in/products/a-177?variant=gid://shopify/ProductVariant/43015535722718",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_6e95c64c-ea53-48c1-a589-bc568a5ff3e6.heic?v=1656239729"
   },
@@ -3577,7 +3577,7 @@
     "variant_title": "1.",
     "sku": "596",
     "price": 999.0,
-    "stock": 46,
+    "stock": 45,
     "url": "https://www.daivik.in/products/a-44?variant=gid://shopify/ProductVariant/44131700048094",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_091bb76a-2a60-4347-9eeb-5949c7a4d549.heic?v=1680874629"
   },
@@ -12446,6 +12446,15 @@
     "url": "https://www.daivik.in/products/diamond-look-alike-floral-necklace-with-earrings?variant=gid://shopify/ProductVariant/47058250170590",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AE8A8B55-BBFF-4A9C-8164-78581ED7BF0D.jpg?v=1751779972"
   },
+  "gid://shopify/ProductVariant/47092708573406": {
+    "product_title": "Jyothika Mam Inspired AD Green Pendant Necklace (Prices for Short, Long and Combo)",
+    "variant_title": "Short",
+    "sku": "1295",
+    "price": 799.0,
+    "stock": 50,
+    "url": "https://www.daivik.in/products/jyothika-mam-inspired-ad-green-pendant-necklace?variant=gid://shopify/ProductVariant/47092708573406",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6D306FEB-C930-4743-A32A-FBEB4ECF8E48.jpg?v=1752941521"
+  },
   "gid://shopify/ProductVariant/47092708606174": {
     "product_title": "Jyothika Mam Inspired AD Green Pendant Necklace (Prices for Short, Long and Combo)",
     "variant_title": "Long",
@@ -15515,6 +15524,15 @@
     "url": "https://www.daivik.in/products/elegant-bloomed-jasmine-flower-artificial-gajra-16-inches?variant=gid://shopify/ProductVariant/47542601187550",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0354.heic?v=1758199815"
   },
+  "gid://shopify/ProductVariant/47542601515230": {
+    "product_title": "Elegant Jasmine/Mullai Flower Artificial Gajra",
+    "variant_title": "8 Inches String - Half Moolam",
+    "sku": "3507",
+    "price": 1299.0,
+    "stock": 50,
+    "url": "https://www.daivik.in/products/elegant-jasmine-mullai-flower-artificial-gajra-16-inches?variant=gid://shopify/ProductVariant/47542601515230",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0344.heic?v=1758199863"
+  },
   "gid://shopify/ProductVariant/47542601547998": {
     "product_title": "Elegant Jasmine/Mullai Flower Artificial Gajra",
     "variant_title": "16 Inches String - Full Moolam",
@@ -15790,7 +15808,7 @@
     "variant_title": "Green",
     "sku": "711",
     "price": 3199.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/ad-pearl-mala-set-with-earrings?variant=gid://shopify/ProductVariant/47564628525278",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B39AF4BE-97D6-41F8-BEF0-DC096CF7AB91.jpg?v=1758992132"
   },
@@ -20339,6 +20357,15 @@
     "url": "https://www.daivik.in/products/antique-pure-kemp-hasli-necklace-with-balis?variant=gid://shopify/ProductVariant/48393036169438",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D0EA99C0-C086-4927-8CD2-5E0C0FAA6F36.jpg?v=1782836330"
   },
+  "gid://shopify/ProductVariant/48447550357726": {
+    "product_title": "Invisible Ganesha Chain in Two Colors",
+    "variant_title": "Dark Green",
+    "sku": "672",
+    "price": 999.0,
+    "stock": 10,
+    "url": "https://www.daivik.in/products/invisible-green-ganesha-chain?variant=gid://shopify/ProductVariant/48447550357726",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/ADD05F51-8F3A-4262-86A7-4E853BC4FB59.jpg?v=1782904755"
+  },
   "gid://shopify/ProductVariant/48400077258974": {
     "product_title": "Pachi Pearl Jali Necklace",
     "variant_title": "Default Title",
@@ -20481,6 +20508,15 @@
     "price": 2299.0,
     "stock": 7,
     "url": "https://www.daivik.in/products/10-in-1-changeable-bangles?variant=gid://shopify/ProductVariant/48422119473374",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/JPEGimage-43A4-8F99-E6-0.jpg?v=1783684450"
+  },
+  "gid://shopify/ProductVariant/48422119506142": {
+    "product_title": "Openable Peacock Kada with Interchangeable Colour Bangles (10 Shades)",
+    "variant_title": "2.6",
+    "sku": "1924",
+    "price": 2299.0,
+    "stock": 10,
+    "url": "https://www.daivik.in/products/10-in-1-changeable-bangles?variant=gid://shopify/ProductVariant/48422119506142",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/JPEGimage-43A4-8F99-E6-0.jpg?v=1783684450"
   },
   "gid://shopify/ProductVariant/48422119538910": {
@@ -28016,15 +28052,6 @@
     "url": "https://www.daivik.in/products/simple-ad-peacock-hasli-necklace?variant=gid://shopify/ProductVariant/47057264705758",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/94128802-CA5E-4095-BD3F-0734C9E08F3E.jpg?v=1751718377"
   },
-  "gid://shopify/ProductVariant/47092708573406": {
-    "product_title": "Jyothika Mam Inspired AD Green Pendant Necklace (Prices for Short, Long and Combo)",
-    "variant_title": "Short",
-    "sku": "1295",
-    "price": 799.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/jyothika-mam-inspired-ad-green-pendant-necklace?variant=gid://shopify/ProductVariant/47092708573406",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6D306FEB-C930-4743-A32A-FBEB4ECF8E48.jpg?v=1752941521"
-  },
   "gid://shopify/ProductVariant/47077373346014": {
     "product_title": "Pearl Stone Beads AD Mala with Earrings in 3 Colors (Price for Each)",
     "variant_title": "Cream",
@@ -29149,15 +29176,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/elegant-artificial-crossandra-kanakambaram-flower-8-inches?variant=gid://shopify/ProductVariant/47542602105054",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0346.heic?v=1758199854"
-  },
-  "gid://shopify/ProductVariant/47542601515230": {
-    "product_title": "Elegant Jasmine/Mullai Flower Artificial Gajra",
-    "variant_title": "8 Inches String - Half Moolam",
-    "sku": "3507",
-    "price": 1299.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/elegant-jasmine-mullai-flower-artificial-gajra-16-inches?variant=gid://shopify/ProductVariant/47542601515230",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0344.heic?v=1758199863"
   },
   "gid://shopify/ProductVariant/47542849372382": {
     "product_title": "Diwali Sale Other Essentials D25802 (Price for Each)",
@@ -30671,15 +30689,6 @@
     "url": "https://www.daivik.in/products/antique-lakshmi-jada-billa-price-for-1-pc?variant=gid://shopify/ProductVariant/48378829111518",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/006995CB-6D6A-442B-8D24-B0ECA03F962B.jpg?v=1782648270"
   },
-  "gid://shopify/ProductVariant/48447550357726": {
-    "product_title": "Invisible Ganesha Chain in Two Colors",
-    "variant_title": "Dark Green",
-    "sku": "672",
-    "price": 999.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/invisible-green-ganesha-chain?variant=gid://shopify/ProductVariant/48447550357726",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/ADD05F51-8F3A-4262-86A7-4E853BC4FB59.jpg?v=1782904755"
-  },
   "gid://shopify/ProductVariant/48447550390494": {
     "product_title": "Invisible Ganesha Chain in Two Colors",
     "variant_title": "Baby Pink",
@@ -30706,15 +30715,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/trisha-mam-inspired-ad-necklace-with-earrings-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/48417802617054",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E8723323-DACF-49E7-87D5-C54E1E5554DD.jpg?v=1783614027"
-  },
-  "gid://shopify/ProductVariant/48422119506142": {
-    "product_title": "Openable Peacock Kada with Interchangeable Colour Bangles (10 Shades)",
-    "variant_title": "2.6",
-    "sku": "1924",
-    "price": 2299.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/10-in-1-changeable-bangles?variant=gid://shopify/ProductVariant/48422119506142",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/JPEGimage-43A4-8F99-E6-0.jpg?v=1783684450"
   },
   "gid://shopify/ProductVariant/48422274859230": {
     "product_title": "Antique Gold Lakshmi Temple Necklace with Earrings",
