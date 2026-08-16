@@ -5912,15 +5912,6 @@
     "url": "https://www.rasasilver.com/products/18-2?variant=gid://shopify/ProductVariant/51227572863273",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_58_Pics_22Sep28145.jpg?v=1758960887"
   },
-  "gid://shopify/ProductVariant/52279497949481": {
-    "product_title": "Luminary Glow Ring",
-    "variant_title": "12",
-    "sku": "R13166",
-    "price": 1020.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/s18?variant=gid://shopify/ProductVariant/52279497949481",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS230.jpg?v=1759994426"
-  },
   "gid://shopify/ProductVariant/51226701136169": {
     "product_title": "Ruby Angelica Ring",
     "variant_title": "Default Title",
@@ -8293,7 +8284,7 @@
     "variant_title": "Default Title",
     "sku": "R17422",
     "price": 2890.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.rasasilver.com/products/kanchan-spark-studs?variant=gid://shopify/ProductVariant/51488632471849",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0052copy_resized.jpg?v=1762943543"
   },
@@ -29509,6 +29500,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/ring-5?variant=gid://shopify/ProductVariant/52274221941033",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS229.jpg?v=1759927568"
+  },
+  "gid://shopify/ProductVariant/52279497949481": {
+    "product_title": "Luminary Glow Ring",
+    "variant_title": "12",
+    "sku": "R13166",
+    "price": 1020.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/s18?variant=gid://shopify/ProductVariant/52279497949481",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS230.jpg?v=1759994426"
   },
   "gid://shopify/ProductVariant/52274106958121": {
     "product_title": "White Fire Ring",
