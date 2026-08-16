@@ -83753,15 +83753,6 @@
     "url": "https://www.theamethyststore.com/products/grand-legacy-kundan-maatal?variant=gid://shopify/ProductVariant/49365503017187",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2341.jpg?v=1783236388"
   },
-  "gid://shopify/ProductVariant/49365507375331": {
-    "product_title": "Royal Memoir Kundan Maatal",
-    "variant_title": "Default Title",
-    "sku": "AMS-109-2342",
-    "price": 31900.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/royal-memoir-kundan-maatal?variant=gid://shopify/ProductVariant/49365507375331",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2342.jpg?v=1783236541"
-  },
   "gid://shopify/ProductVariant/49365516353763": {
     "product_title": "Gorgeous Kundan Maatal",
     "variant_title": "Default Title",
@@ -97288,15 +97279,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/srisha-kundan-short-necklace?variant=gid://shopify/ProductVariant/49514483319011",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17420.jpg?v=1786257458"
-  },
-  "gid://shopify/ProductVariant/49514484170979": {
-    "product_title": "Dhansikaa Kundan Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17507",
-    "price": 102400.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kundan-long-necklace-19?variant=gid://shopify/ProductVariant/49514484170979",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17507.jpg?v=1786257746"
   },
   "gid://shopify/ProductVariant/49514486268131": {
     "product_title": "Danisha Kundan Short Necklace",
@@ -120185,6 +120167,15 @@
     "url": "https://www.theamethyststore.com/products/elantra-kundan-pendant?variant=gid://shopify/ProductVariant/49365387346147",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4622.jpg?v=1783233542"
   },
+  "gid://shopify/ProductVariant/49365507375331": {
+    "product_title": "Royal Memoir Kundan Maatal",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2342",
+    "price": 31900.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/royal-memoir-kundan-maatal?variant=gid://shopify/ProductVariant/49365507375331",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2342.jpg?v=1783236541"
+  },
   "gid://shopify/ProductVariant/49365878079715": {
     "product_title": "Blissful Kundan Maangtikka",
     "variant_title": "Default Title",
@@ -120949,6 +120940,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/avikam-pendant-set-43?variant=gid://shopify/ProductVariant/49507850518755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4865.jpg?v=1786086620"
+  },
+  "gid://shopify/ProductVariant/49514484170979": {
+    "product_title": "Dhansikaa Kundan Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17507",
+    "price": 102400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kundan-long-necklace-19?variant=gid://shopify/ProductVariant/49514484170979",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17507.jpg?v=1786257746"
   },
   "gid://shopify/ProductVariant/49519917891811": {
     "product_title": "Testing Lmx",
