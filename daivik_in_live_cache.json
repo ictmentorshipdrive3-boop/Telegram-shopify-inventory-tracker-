@@ -805,7 +805,7 @@
     "variant_title": "Default Title",
     "sku": "656",
     "price": 1199.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/simple-and-small-pure-kemp-jhumkas?variant=gid://shopify/ProductVariant/39434836574361",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_efb6bf02-8c97-4f01-8e8b-8fe052748f34.jpg?v=1615477628"
   },
@@ -10948,7 +10948,7 @@
     "variant_title": "Default Title",
     "sku": "1571",
     "price": 1899.0,
-    "stock": 31,
+    "stock": 30,
     "url": "https://www.daivik.in/products/diamond-look-alike-hipchain?variant=gid://shopify/ProductVariant/46352106225886",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/652A82F5-2F82-426D-BD67-D13793D5597F.jpg?v=1741621131"
   },
@@ -15641,15 +15641,6 @@
     "url": "https://www.daivik.in/products/diwali-sale-hipbelt-d25903?variant=gid://shopify/ProductVariant/47543984947422",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7003.jpg?v=1758270071"
   },
-  "gid://shopify/ProductVariant/47543981637854": {
-    "product_title": "Diwali Sale Hipbelt D25905",
-    "variant_title": "Default Title",
-    "sku": "D25905",
-    "price": 4999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-hipbelt-d25905?variant=gid://shopify/ProductVariant/47543981637854",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7124.jpg?v=1758269917"
-  },
   "gid://shopify/ProductVariant/47543985635550": {
     "product_title": "Diwali Sale Hipbelt D25906",
     "variant_title": "White Pearl",
@@ -17203,7 +17194,7 @@
     "variant_title": "White",
     "sku": "1772",
     "price": 599.0,
-    "stock": 26,
+    "stock": 25,
     "url": "https://www.daivik.in/products/pure-kemp-brass-nose-pin-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/47796909801694",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_c2df2ed2-a369-44c5-8053-26d95c5becfb.jpg?v=1767421638"
   },
@@ -19660,7 +19651,7 @@
     "variant_title": "Default Title",
     "sku": "3540",
     "price": 149.0,
-    "stock": 42,
+    "stock": 41,
     "url": "https://www.daivik.in/products/kundan-lotus-coin-kasumalai-handmade-hair-pin?variant=gid://shopify/ProductVariant/48279058645214",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/33093669-130A-4A9A-94D1-732ABDF410FB.jpg?v=1779606079"
   },
@@ -20092,7 +20083,7 @@
     "variant_title": "Ruby",
     "sku": "1913",
     "price": 299.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/ad-non-piercing-nosepin-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/48341912387806",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5358.jpg?v=1781711079"
   },
@@ -20110,7 +20101,7 @@
     "variant_title": "White",
     "sku": "1913",
     "price": 299.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/ad-non-piercing-nosepin-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/48341912453342",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5358.jpg?v=1781711079"
   },
@@ -20371,7 +20362,7 @@
     "variant_title": "Default Title",
     "sku": "491",
     "price": 2999.0,
-    "stock": 31,
+    "stock": 30,
     "url": "https://www.daivik.in/products/pachi-pearl-jali-necklace?variant=gid://shopify/ProductVariant/48400077258974",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_83502.jpg?v=1782925422"
   },
@@ -29230,6 +29221,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-hipbelt-d25903?variant=gid://shopify/ProductVariant/47543984914654",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7003.jpg?v=1758270071"
+  },
+  "gid://shopify/ProductVariant/47543981637854": {
+    "product_title": "Diwali Sale Hipbelt D25905",
+    "variant_title": "Default Title",
+    "sku": "D25905",
+    "price": 4999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-hipbelt-d25905?variant=gid://shopify/ProductVariant/47543981637854",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7124.jpg?v=1758269917"
   },
   "gid://shopify/ProductVariant/47543985602782": {
     "product_title": "Diwali Sale Hipbelt D25906",
