@@ -661,7 +661,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 2200.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-jhumkas-with-pearl-and-natural-strawberry-beads-3?variant=gid://shopify/ProductVariant/52802274427196",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260225_231844_fb97a91b-7a29-40db-a52a-323134dbffd8.jpg?v=1772115134"
   },
@@ -2087,15 +2087,6 @@
     "url": "https://www.muskanjewel.com/products/jadau-kundan-temple-antique-goddess-laxmi-elephant-necklace-with-pearl-onyx-beads?variant=gid://shopify/ProductVariant/53659509752124",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260725_104651_a65329fb-2ffc-45c8-bcbe-a6d3630b698b.jpg?v=1785153969"
   },
-  "gid://shopify/ProductVariant/53660206301500": {
-    "product_title": "Jadau Kundan Peacock Necklace With Pearl & Natural Strawberry Beads",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 4200.0,
-    "stock": 1,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-necklace-with-pearl-natural-strawberry-beads?variant=gid://shopify/ProductVariant/53660206301500",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260725_100437_8eb1a8c4-a579-4d98-9a5e-62e0bfe699b9.jpg?v=1785154292"
-  },
   "gid://shopify/ProductVariant/53660289270076": {
     "product_title": "Jadau Kundan Bridal Peacock Necklace with pearl",
     "variant_title": "Default Title",
@@ -2464,5 +2455,14 @@
     "stock": 0,
     "url": "https://www.muskanjewel.com/products/temple-antique-mango-necklace-with-earrings?variant=gid://shopify/ProductVariant/53044883325244",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260501_011714_4f6cd90d-232e-4d4b-be49-5a9994508a70.webp?v=1778337065"
+  },
+  "gid://shopify/ProductVariant/53660206301500": {
+    "product_title": "Jadau Kundan Peacock Necklace With Pearl & Natural Strawberry Beads",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 4200.0,
+    "stock": 0,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-necklace-with-pearl-natural-strawberry-beads?variant=gid://shopify/ProductVariant/53660206301500",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260725_100437_8eb1a8c4-a579-4d98-9a5e-62e0bfe699b9.jpg?v=1785154292"
   }
 }
