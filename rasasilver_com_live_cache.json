@@ -18922,7 +18922,7 @@
     "variant_title": "Default Title",
     "sku": "R26317",
     "price": 8160.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/indira-temple-necklace?variant=gid://shopify/ProductVariant/52889885016361",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0142_resized.jpg?v=1775208186"
   },
@@ -19528,15 +19528,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/madhavi-temple-necklace?variant=gid://shopify/ProductVariant/53071576400169",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_25April0087_resized.jpg?v=1778235080"
-  },
-  "gid://shopify/ProductVariant/53071581937961": {
-    "product_title": "Siddhi Lakshmi Temple Necklace",
-    "variant_title": "Default Title",
-    "sku": "R28195",
-    "price": 20145.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/siddhi-lakshmi-temple-necklace?variant=gid://shopify/ProductVariant/53071581937961",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_25April0080_resized.jpg?v=1778235765"
   },
   "gid://shopify/ProductVariant/53101099680041": {
     "product_title": "Raanvika Stone Danglers",
@@ -45763,6 +45754,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/manjari-temple-short-necklace-copy?variant=gid://shopify/ProductVariant/53071480127785",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_25April0063_resized.jpg?v=1778317161"
+  },
+  "gid://shopify/ProductVariant/53071581937961": {
+    "product_title": "Siddhi Lakshmi Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R28195",
+    "price": 20145.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/siddhi-lakshmi-temple-necklace?variant=gid://shopify/ProductVariant/53071581937961",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_25April0080_resized.jpg?v=1778235765"
   },
   "gid://shopify/ProductVariant/53071770190121": {
     "product_title": "Morvika Nakshi Necklace",
