@@ -337,7 +337,7 @@
     "variant_title": "Default Title",
     "sku": "293",
     "price": 4999.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.daivik.in/products/guttapusalu-long-and-short-combo?variant=gid://shopify/ProductVariant/34664267481241",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/guttapusalu-long-and-short-combo-neckwearnecklace-459.jpg?v=1594914039"
   },
@@ -553,7 +553,7 @@
     "variant_title": "Default Title",
     "sku": "400",
     "price": 1749.0,
-    "stock": 32,
+    "stock": 31,
     "url": "https://www.daivik.in/products/pure-uncut-kemp-vintage-necklace-with-earrings?variant=gid://shopify/ProductVariant/44178228478174",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C737AC2D-4625-48B3-A0E8-1A1FD009E918.jpg?v=1737636280"
   },
@@ -5881,7 +5881,7 @@
     "variant_title": "Default Title",
     "sku": "874",
     "price": 1999.0,
-    "stock": 27,
+    "stock": 26,
     "url": "https://www.daivik.in/products/ad-lakshmi-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/45756425830622",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4A9D8CBB-41EC-4051-ACF2-F155CDF8CA24.jpg?v=1705937525"
   },
@@ -6727,7 +6727,7 @@
     "variant_title": "Default Title",
     "sku": "708",
     "price": 2299.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/two-line-necklace-with-earrings?variant=gid://shopify/ProductVariant/45333722759390",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B98339A8-F58B-42BE-A566-F73DD079D750.jpg?v=1715100306"
   },
@@ -19907,15 +19907,6 @@
     "url": "https://www.daivik.in/products/ad-pearl-flower-bangle?variant=gid://shopify/ProductVariant/48306973376734",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D0B49F8C-2E93-472D-BEBC-A910B088AC6B.jpg?v=1780570794"
   },
-  "gid://shopify/ProductVariant/48309043429598": {
-    "product_title": "Premium AD Rice Pearl Jada Billa",
-    "variant_title": "Default Title",
-    "sku": "1904",
-    "price": 1799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/premium-ad-rice-pearl-jada-billa?variant=gid://shopify/ProductVariant/48309043429598",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8C12985A-81D7-4E76-8786-9AC7F3794F5F.jpg?v=1780676901"
-  },
   "gid://shopify/ProductVariant/48312504844510": {
     "product_title": "AD Multi Pendant Necklace with Earrings",
     "variant_title": "Default Title",
@@ -20362,7 +20353,7 @@
     "variant_title": "Dark Green",
     "sku": "672",
     "price": 999.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/invisible-green-ganesha-chain?variant=gid://shopify/ProductVariant/48447550357726",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/ADD05F51-8F3A-4262-86A7-4E853BC4FB59.jpg?v=1782904755"
   },
@@ -20947,7 +20938,7 @@
     "variant_title": "Default Title",
     "sku": "1942",
     "price": 1999.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/ruby-green-golden-beads-mattals?variant=gid://shopify/ProductVariant/48566325051614",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5661.jpg?v=1786123454"
   },
@@ -30607,6 +30598,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/lotus-ruby-green-invisible-chain-with-earrings?variant=gid://shopify/ProductVariant/48308560658654",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3AF4828D-ADA0-4FE0-B1FA-C6BC7EE0AD33.jpg?v=1780659624"
+  },
+  "gid://shopify/ProductVariant/48309043429598": {
+    "product_title": "Premium AD Rice Pearl Jada Billa",
+    "variant_title": "Default Title",
+    "sku": "1904",
+    "price": 1799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/premium-ad-rice-pearl-jada-billa?variant=gid://shopify/ProductVariant/48309043429598",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8C12985A-81D7-4E76-8786-9AC7F3794F5F.jpg?v=1780676901"
   },
   "gid://shopify/ProductVariant/48309064794334": {
     "product_title": "Premium AD Jada Billa with Mattal",
