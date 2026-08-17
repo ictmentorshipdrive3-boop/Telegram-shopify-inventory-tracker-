@@ -66586,7 +66586,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-15190",
     "price": 8100.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.theamethyststore.com/products/elegant-hasli-necklace?variant=gid://shopify/ProductVariant/48763379548387",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15190.jpg?v=1775825902"
   },
@@ -85769,15 +85769,6 @@
     "url": "https://www.theamethyststore.com/products/hasli-with-pendant-set-11?variant=gid://shopify/ProductVariant/49394493391075",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16593.jpg?v=1783774069"
   },
-  "gid://shopify/ProductVariant/49394499059939": {
-    "product_title": "Attractive Hasli with Pendant Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16594",
-    "price": 14100.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/hasli-with-pendant-set-12?variant=gid://shopify/ProductVariant/49394499059939",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16594.jpg?v=1783774298"
-  },
   "gid://shopify/ProductVariant/49394502271203": {
     "product_title": "Shristikaa Hasli with Pendant Set",
     "variant_title": "Default Title",
@@ -103003,6 +102994,33 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/pragitha-kundan-pendant?variant=gid://shopify/ProductVariant/49547668488419",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4929.jpg?v=1786973620"
+  },
+  "gid://shopify/ProductVariant/49547798413539": {
+    "product_title": "White Kundan Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15651",
+    "price": 7400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/kundan-studs-39?variant=gid://shopify/ProductVariant/49547798413539",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15651.jpg?v=1786974789"
+  },
+  "gid://shopify/ProductVariant/49547799396579": {
+    "product_title": "Catchy Colour Kundan Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15653",
+    "price": 7300.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/kundan-studs-40?variant=gid://shopify/ProductVariant/49547799396579",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15653.jpg?v=1786974908"
+  },
+  "gid://shopify/ProductVariant/49547801690339": {
+    "product_title": "Little Lotus Kundan Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15654",
+    "price": 3800.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/kundan-studs-41?variant=gid://shopify/ProductVariant/49547801690339",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15654.jpg?v=1786975099"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -121507,6 +121525,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/hasli-necklace-59?variant=gid://shopify/ProductVariant/49394421694691",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16539.jpg?v=1783770248"
+  },
+  "gid://shopify/ProductVariant/49394499059939": {
+    "product_title": "Attractive Hasli with Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16594",
+    "price": 14100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/hasli-with-pendant-set-12?variant=gid://shopify/ProductVariant/49394499059939",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16594.jpg?v=1783774298"
   },
   "gid://shopify/ProductVariant/49394735055075": {
     "product_title": "Charm Chain",
