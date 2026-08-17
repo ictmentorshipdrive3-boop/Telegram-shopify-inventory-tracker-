@@ -48838,7 +48838,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-3643",
     "price": 93400.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/victorian-pendant-set-1?variant=gid://shopify/ProductVariant/47709080486115",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3643.jpg?v=1765020513"
   },
@@ -64075,7 +64075,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-3817",
     "price": 10500.0,
-    "stock": 1,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/asvika-diamond-design-pendant?variant=gid://shopify/ProductVariant/48345261474019",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3817_493ae08c-b8c7-47ce-b87c-75b41605a2a3.jpg?v=1786084347"
   },
@@ -64088,12 +64088,21 @@
     "url": "https://www.theamethyststore.com/products/floral-bugadi-earrings-1?variant=gid://shopify/ProductVariant/48345433178339",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13101.jpg?v=1772452751"
   },
+  "gid://shopify/ProductVariant/48345434718435": {
+    "product_title": "Vimala Diamond Design Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-3818",
+    "price": 11600.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/vimala-diamond-design-pendant?variant=gid://shopify/ProductVariant/48345434718435",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3818_d91ae2c3-c39a-47da-90ca-d950f1442870.jpg?v=1772453274"
+  },
   "gid://shopify/ProductVariant/48346256081123": {
     "product_title": "Pranita Diamond Design Pendant",
     "variant_title": "Default Title",
     "sku": "AMS-104-3819",
     "price": 11800.0,
-    "stock": 1,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/pranita-diamond-design-pendant?variant=gid://shopify/ProductVariant/48346256081123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3819_4a2a5ab0-7b21-444a-89a6-dd9e9b91719a.jpg?v=1786084429"
   },
@@ -64150,6 +64159,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/twisha-kundan-choker?variant=gid://shopify/ProductVariant/48349655302371",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14984.jpg?v=1772457942"
+  },
+  "gid://shopify/ProductVariant/48350357946595": {
+    "product_title": "Magisha Diamond Design Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-3824",
+    "price": 11500.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/magisha-diamond-design-pendant?variant=gid://shopify/ProductVariant/48350357946595",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3824.jpg?v=1772458875"
   },
   "gid://shopify/ProductVariant/48350650859747": {
     "product_title": "Shreya Nagas Short Necklace",
@@ -72449,6 +72467,15 @@
     "url": "https://www.theamethyststore.com/products/aseenaa-diamond-design-pendant-copy?variant=gid://shopify/ProductVariant/48937255207139",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4047.jpg?v=1778583323"
   },
+  "gid://shopify/ProductVariant/48937281028323": {
+    "product_title": "Varshikaa Diamond Design Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4049",
+    "price": 26500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/diamond-design-pendant-3?variant=gid://shopify/ProductVariant/48937281028323",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4049.jpg?v=1778584382"
+  },
   "gid://shopify/ProductVariant/48937287680227": {
     "product_title": "Facinate Diamond Design Pendant",
     "variant_title": "Default Title",
@@ -72556,6 +72583,24 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/pendant-set-2?variant=gid://shopify/ProductVariant/48944194912483",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4050.jpg?v=1778654589"
+  },
+  "gid://shopify/ProductVariant/48944335257827": {
+    "product_title": "Mohini Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4054",
+    "price": 9100.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/pendant-set-6?variant=gid://shopify/ProductVariant/48944335257827",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4054.jpg?v=1778662354"
+  },
+  "gid://shopify/ProductVariant/48944364814563": {
+    "product_title": "Sarvada Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4055",
+    "price": 6200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/pendant-set-7?variant=gid://shopify/ProductVariant/48944364814563",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4055.jpg?v=1778663241"
   },
   "gid://shopify/ProductVariant/48944400498915": {
     "product_title": "Amazing Avikam Pendant Set",
@@ -96520,7 +96565,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-1442",
     "price": 9500.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/surathi-avikam-bracelet?variant=gid://shopify/ProductVariant/49507854909667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1442.jpg?v=1786086807"
   },
@@ -99310,7 +99355,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-1445",
     "price": 10800.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/gleaming-avikam-bracelet?variant=gid://shopify/ProductVariant/49524805599459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1445.jpg?v=1786540681"
   },
@@ -102229,6 +102274,33 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/charming-kundan-long-necklace?variant=gid://shopify/ProductVariant/49545390096611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17575.jpg?v=1786947325"
+  },
+  "gid://shopify/ProductVariant/49545741861091": {
+    "product_title": "Gorgeous Kundan Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1456",
+    "price": 17200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/gorgeous-kundan-bracelet-2?variant=gid://shopify/ProductVariant/49545741861091",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1456.jpg?v=1786950405"
+  },
+  "gid://shopify/ProductVariant/49545748218083": {
+    "product_title": "Nithisha Kundan Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1457",
+    "price": 17200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nithisha-kundan-bracelet?variant=gid://shopify/ProductVariant/49545748218083",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1457.jpg?v=1786950576"
+  },
+  "gid://shopify/ProductVariant/49545750577379": {
+    "product_title": "Trendy Kundan Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1458",
+    "price": 15420.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/trendy-kundan-bracelet-1?variant=gid://shopify/ProductVariant/49545750577379",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1458.jpg?v=1786950699"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
