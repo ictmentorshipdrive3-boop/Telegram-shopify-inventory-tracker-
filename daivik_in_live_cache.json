@@ -2191,7 +2191,7 @@
     "variant_title": "Default Title",
     "sku": "670",
     "price": 1099.0,
-    "stock": 18,
+    "stock": 17,
     "url": "https://www.daivik.in/products/1-4?variant=gid://shopify/ProductVariant/42679325982942",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_0755.heic?v=1649768309"
   },
@@ -7253,15 +7253,6 @@
     "url": "https://www.daivik.in/products/ad-flower-golden-pearl-teeka?variant=gid://shopify/ProductVariant/45681768235230",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D48D5F14-C95C-418C-96B4-DEBB0BBB0951.jpg?v=1719930842"
   },
-  "gid://shopify/ProductVariant/45696427589854": {
-    "product_title": "3 Line Single-colour Mala with earrings in 3 Colors",
-    "variant_title": "Purple",
-    "sku": "444",
-    "price": 2249.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/3-line-single-colour-mala-with-earrings-in-3-colors?variant=gid://shopify/ProductVariant/45696427589854",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4CD97FB4-6017-4378-AA31-801695F1B6A3.jpg?v=1720105255"
-  },
   "gid://shopify/ProductVariant/45696427622622": {
     "product_title": "3 Line Single-colour Mala with earrings in 3 Colors",
     "variant_title": "Pink",
@@ -9769,7 +9760,7 @@
     "variant_title": "2.6",
     "sku": "1514",
     "price": 1299.0,
-    "stock": 52,
+    "stock": 51,
     "url": "https://www.daivik.in/products/ad-green-bangles?variant=gid://shopify/ProductVariant/46122760011998",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BD79C196-27CD-4AE0-9735-781FAFF33BEB.jpg?v=1733241544"
   },
@@ -12442,7 +12433,7 @@
     "variant_title": "Short",
     "sku": "1295",
     "price": 799.0,
-    "stock": 48,
+    "stock": 47,
     "url": "https://www.daivik.in/products/jyothika-mam-inspired-ad-green-pendant-necklace?variant=gid://shopify/ProductVariant/47092708573406",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6D306FEB-C930-4743-A32A-FBEB4ECF8E48.jpg?v=1752941521"
   },
@@ -25774,6 +25765,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-jadau-kemp-3-sided-teeka-with-surian-chand?variant=gid://shopify/ProductVariant/45692117188830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/08F1388B-FFB0-4481-A2C5-483E31DBB5E7.jpg?v=1720019911"
+  },
+  "gid://shopify/ProductVariant/45696427589854": {
+    "product_title": "3 Line Single-colour Mala with earrings in 3 Colors",
+    "variant_title": "Purple",
+    "sku": "444",
+    "price": 2249.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/3-line-single-colour-mala-with-earrings-in-3-colors?variant=gid://shopify/ProductVariant/45696427589854",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4CD97FB4-6017-4378-AA31-801695F1B6A3.jpg?v=1720105255"
   },
   "gid://shopify/ProductVariant/45705149579486": {
     "product_title": "Victorian Premium Necklace with Earrings in 2 Colors",
