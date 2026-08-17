@@ -5764,7 +5764,7 @@
     "variant_title": "Default Title",
     "sku": "367",
     "price": 999.0,
-    "stock": 20,
+    "stock": 19,
     "url": "https://www.daivik.in/products/antique-matte-finish-lakshmi-peacock-jhumkas?variant=gid://shopify/ProductVariant/44665226035422",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0140D6CA-AE5E-456B-9707-71FA3598F63A.jpg?v=1705071171"
   },
@@ -20488,7 +20488,7 @@
     "variant_title": "Default Title",
     "sku": "1922",
     "price": 699.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/premium-ad-curve-design-kada?variant=gid://shopify/ProductVariant/48415688229086",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0580.jpg?v=1783509036"
   },
@@ -20536,6 +20536,15 @@
     "stock": 2,
     "url": "https://www.daivik.in/products/10-in-1-changeable-bangles?variant=gid://shopify/ProductVariant/48422119538910",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/JPEGimage-43A4-8F99-E6-0.jpg?v=1783684450"
+  },
+  "gid://shopify/ProductVariant/48422274859230": {
+    "product_title": "Antique Gold Lakshmi Temple Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "968",
+    "price": 2499.0,
+    "stock": 2,
+    "url": "https://www.daivik.in/products/antique-gold-lakshmi-temple-necklace-with-earrings?variant=gid://shopify/ProductVariant/48422274859230",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0548.jpg?v=1783693151"
   },
   "gid://shopify/ProductVariant/48423947796702": {
     "product_title": "Victorian Flower Pendant Necklace with Earrings",
@@ -30742,15 +30751,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/trisha-mam-inspired-ad-necklace-with-earrings-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/48417802617054",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E8723323-DACF-49E7-87D5-C54E1E5554DD.jpg?v=1783614027"
-  },
-  "gid://shopify/ProductVariant/48422274859230": {
-    "product_title": "Antique Gold Lakshmi Temple Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "968",
-    "price": 2499.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/antique-gold-lakshmi-temple-necklace-with-earrings?variant=gid://shopify/ProductVariant/48422274859230",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0548.jpg?v=1783693151"
   },
   "gid://shopify/ProductVariant/48434484150494": {
     "product_title": "Simple Leaf Invisible Chain",
