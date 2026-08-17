@@ -37925,15 +37925,6 @@
     "url": "https://www.theamethyststore.com/products/evil-eye-toe-ring-1?variant=gid://shopify/ProductVariant/47202187870435",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0291_ec225a1e-fbb6-4593-b3b1-dd9785d37bbb.jpg?v=1758712871"
   },
-  "gid://shopify/ProductVariant/47202191147235": {
-    "product_title": "Evil Eye Toe Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-117-0295",
-    "price": 2000.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/evil-eye-toe-ring-2?variant=gid://shopify/ProductVariant/47202191147235",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0295.jpg?v=1758713004"
-  },
   "gid://shopify/ProductVariant/47202197373155": {
     "product_title": "Vithusha Toe Ring",
     "variant_title": "Default Title",
@@ -91750,7 +91741,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-1406",
     "price": 22800.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/mesmerizing-moissanite-bracelet-2?variant=gid://shopify/ProductVariant/49448273117411",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1406.jpg?v=1785068241"
   },
@@ -91921,7 +91912,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15116",
     "price": 9900.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/kundan-studs-29?variant=gid://shopify/ProductVariant/49475880059107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15116.jpg?v=1785399849"
   },
@@ -110203,6 +110194,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/grand-look-jhumkas-1?variant=gid://shopify/ProductVariant/47202130788579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10290.jpg?v=1758710110"
+  },
+  "gid://shopify/ProductVariant/47202191147235": {
+    "product_title": "Evil Eye Toe Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-117-0295",
+    "price": 2000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/evil-eye-toe-ring-2?variant=gid://shopify/ProductVariant/47202191147235",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0295.jpg?v=1758713004"
   },
   "gid://shopify/ProductVariant/47202225389795": {
     "product_title": "Butterfly Toe Ring",
