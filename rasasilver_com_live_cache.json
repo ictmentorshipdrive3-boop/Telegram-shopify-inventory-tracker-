@@ -8153,15 +8153,6 @@
     "url": "https://www.rasasilver.com/products/czquare-necklace-set?variant=gid://shopify/ProductVariant/51487852626217",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_79Pics_5Nov34505.jpg?v=1763014778"
   },
-  "gid://shopify/ProductVariant/51487855116585": {
-    "product_title": "Satyashree Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "R12567",
-    "price": 18300.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/satyashree-short-necklace?variant=gid://shopify/ProductVariant/51487855116585",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_5_Nov12721_1c520947-c67f-4a10-936a-24ecf3332287.jpg?v=1762756624"
-  },
   "gid://shopify/ProductVariant/51487857738025": {
     "product_title": "Pearoval Dangle Earrings",
     "variant_title": "Default Title",
@@ -22162,7 +22153,7 @@
     "variant_title": "Default Title",
     "sku": "R31630",
     "price": 2550.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/butterfly-flora-chain-pendant?variant=gid://shopify/ProductVariant/53286086443305",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13374_resized.jpg?v=1782291914"
   },
@@ -33595,6 +33586,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/pavonikha-short-necklace?variant=gid://shopify/ProductVariant/51487850758441",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_5_Nov1206.jpg?v=1762756516"
+  },
+  "gid://shopify/ProductVariant/51487855116585": {
+    "product_title": "Satyashree Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "R12567",
+    "price": 18300.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/satyashree-short-necklace?variant=gid://shopify/ProductVariant/51487855116585",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_5_Nov12721_1c520947-c67f-4a10-936a-24ecf3332287.jpg?v=1762756624"
   },
   "gid://shopify/ProductVariant/51487869862185": {
     "product_title": "Mirapear Stud Earrings",
@@ -49084,6 +49084,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/svarnisha-jadau-oddiyanam?variant=gid://shopify/ProductVariant/53416730427689",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__12Aug0454_1.jpg?v=1786952274"
+  },
+  "gid://shopify/ProductVariant/53416856944937": {
+    "product_title": "Navya Nakshi Jhumka",
+    "variant_title": "Default Title",
+    "sku": "R31380",
+    "price": 9500.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/sitara-stone-jhumkis-copy?variant=gid://shopify/ProductVariant/53416856944937",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__12Aug0408.jpg?v=1786958545"
   },
   "gid://shopify/ProductVariant/53419073896745": {
     "product_title": "Veyansh CZ Jhumki",
