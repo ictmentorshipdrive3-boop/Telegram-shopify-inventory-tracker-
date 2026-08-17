@@ -1462,7 +1462,7 @@
     "variant_title": "Only Pendant",
     "sku": "AMS-104-0794",
     "price": 8378.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/shiviya-pendant?variant=gid://shopify/ProductVariant/46235892089059",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-0794.jpg?v=1749195091"
   },
@@ -69470,15 +69470,6 @@
     "url": "https://www.theamethyststore.com/products/aarika-nagas-pendant?variant=gid://shopify/ProductVariant/48903528120547",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4027.jpg?v=1777813124"
   },
-  "gid://shopify/ProductVariant/48903530086627": {
-    "product_title": "Grandeur Stone Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15527",
-    "price": 46570.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/grandeur-stone-short-necklace?variant=gid://shopify/ProductVariant/48903530086627",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15527.jpg?v=1777813363"
-  },
   "gid://shopify/ProductVariant/48903533986019": {
     "product_title": "Vaishira Stone Short Necklace",
     "variant_title": "Default Title",
@@ -102770,6 +102761,69 @@
     "url": "https://www.theamethyststore.com/products/kundan-pendant-161?variant=gid://shopify/ProductVariant/49546244849891",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4984.jpg?v=1786966159"
   },
+  "gid://shopify/ProductVariant/49546246160611": {
+    "product_title": "Lakshitha Kundan Long Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15755",
+    "price": 18520.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/lakshitha-kundan-long-earrings?variant=gid://shopify/ProductVariant/49546246160611",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15755.jpg?v=1786966235"
+  },
+  "gid://shopify/ProductVariant/49546302685411": {
+    "product_title": "Avrinkaa Kundan Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4985",
+    "price": 7030.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-162?variant=gid://shopify/ProductVariant/49546302685411",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4985.jpg?v=1786967362"
+  },
+  "gid://shopify/ProductVariant/49546316873955": {
+    "product_title": "Renita Kundan Long Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15756",
+    "price": 12420.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/renita-kundan-long-earrings?variant=gid://shopify/ProductVariant/49546316873955",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15756.jpg?v=1786967420"
+  },
+  "gid://shopify/ProductVariant/49546342531299": {
+    "product_title": "Manjari Kundan Long Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15758",
+    "price": 19880.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/manjari-kundan-long-earrings?variant=gid://shopify/ProductVariant/49546342531299",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15758.jpg?v=1786967542"
+  },
+  "gid://shopify/ProductVariant/49546345447651": {
+    "product_title": "Vithusha Kundan Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4986",
+    "price": 7000.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-163?variant=gid://shopify/ProductVariant/49546345447651",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4986_58a675cc-0c63-4441-9de6-c236e4fefd97.jpg?v=1786967989"
+  },
+  "gid://shopify/ProductVariant/49546368614627": {
+    "product_title": "Vinita Kundan Long Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15761",
+    "price": 17150.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/vinita-kundan-long-earrings?variant=gid://shopify/ProductVariant/49546368614627",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15761.jpg?v=1786967652"
+  },
+  "gid://shopify/ProductVariant/49546460594403": {
+    "product_title": "Mango Design Kundan Long Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15762",
+    "price": 12550.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/mango-design-kundan-long-earrings?variant=gid://shopify/ProductVariant/49546460594403",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15762.jpg?v=1786968037"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -116863,6 +116917,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/liyana-nagas-pendant?variant=gid://shopify/ProductVariant/48903504134371",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4011.jpg?v=1777812666"
+  },
+  "gid://shopify/ProductVariant/48903530086627": {
+    "product_title": "Grandeur Stone Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15527",
+    "price": 46570.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/grandeur-stone-short-necklace?variant=gid://shopify/ProductVariant/48903530086627",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15527.jpg?v=1777813363"
   },
   "gid://shopify/ProductVariant/48903540179171": {
     "product_title": "Aadhya Stone Jada Billa",
