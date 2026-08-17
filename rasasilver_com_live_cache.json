@@ -3698,15 +3698,6 @@
     "url": "https://www.rasasilver.com/products/no-image-11?variant=gid://shopify/ProductVariant/50677089304873",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_bb5643c6-3b7f-4b51-a79c-d7b8fc3d15fb.jpg?v=1754038998"
   },
-  "gid://shopify/ProductVariant/50680479744297": {
-    "product_title": "Om Trishakti Rakhi",
-    "variant_title": "Default Title",
-    "sku": "R10570",
-    "price": 1445.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/om-trishakti-rakhi?variant=gid://shopify/ProductVariant/50680479744297",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP00637copy-2.jpg?v=1753351641"
-  },
   "gid://shopify/ProductVariant/50680487412009": {
     "product_title": "Rudraksha Rakhi",
     "variant_title": "Default Title",
@@ -25942,7 +25933,7 @@
     "variant_title": "Default Title",
     "sku": "R33575",
     "price": 1020.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/cool-bro-rakhi?variant=gid://shopify/ProductVariant/53409733935401",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19650.jpg?v=1786023083"
   },
@@ -25960,7 +25951,7 @@
     "variant_title": "Default Title",
     "sku": "R33571",
     "price": 1020.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/raksha-bhai-rakhi?variant=gid://shopify/ProductVariant/53409742586153",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19649.jpg?v=1786022885"
   },
@@ -26512,6 +26503,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/ganapati-ratna-necklace?variant=gid://shopify/ProductVariant/50648922685737",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-8_4c3d97ce-6434-4884-9d1c-3253dc5c5219.jpg?v=1754027174"
+  },
+  "gid://shopify/ProductVariant/50680479744297": {
+    "product_title": "Om Trishakti Rakhi",
+    "variant_title": "Default Title",
+    "sku": "R10570",
+    "price": 1445.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/om-trishakti-rakhi?variant=gid://shopify/ProductVariant/50680479744297",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP00637copy-2.jpg?v=1753351641"
   },
   "gid://shopify/ProductVariant/50680497209641": {
     "product_title": "Ekadanta Rakhi",
@@ -45669,7 +45669,7 @@
     "product_title": "Mrinalini Temple Necklace",
     "variant_title": "Default Title",
     "sku": "R28175",
-    "price": 7905.0,
+    "price": 7900.0,
     "stock": 0,
     "url": "https://www.rasasilver.com/products/suvarna-temple-short-necklace-copy?variant=gid://shopify/ProductVariant/53071175680297",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_25April0117_resized.jpg?v=1778309660"
@@ -49147,6 +49147,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/ugra-pakshi-kundan-jada?variant=gid://shopify/ProductVariant/53411380658473",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPT_Image_Aug_13_2026_03_52_04_PM.png?v=1786616545"
+  },
+  "gid://shopify/ProductVariant/53411423781161": {
+    "product_title": "Pushvaira Kundan Necklace",
+    "variant_title": "Default Title",
+    "sku": "R27815",
+    "price": 63000.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/pushvaira-kundan-necklace?variant=gid://shopify/ProductVariant/53411423781161",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__12Aug0228.jpg?v=1786970221"
   },
   "gid://shopify/ProductVariant/53413288575273": {
     "product_title": "ShriVanya Temple Necklace Set",
