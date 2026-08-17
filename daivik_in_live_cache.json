@@ -5764,7 +5764,7 @@
     "variant_title": "Default Title",
     "sku": "367",
     "price": 999.0,
-    "stock": 18,
+    "stock": 17,
     "url": "https://www.daivik.in/products/antique-matte-finish-lakshmi-peacock-jhumkas?variant=gid://shopify/ProductVariant/44665226035422",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0140D6CA-AE5E-456B-9707-71FA3598F63A.jpg?v=1705071171"
   },
@@ -6448,7 +6448,7 @@
     "variant_title": "Default Title",
     "sku": "855",
     "price": 999.0,
-    "stock": 35,
+    "stock": 34,
     "url": "https://www.daivik.in/products/simple-copper-pearl-necklace-with-earrings?variant=gid://shopify/ProductVariant/45158978093278",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/10FBB2F6-B0C5-408A-BD02-F523E5B50F7E.jpg?v=1713026655"
   },
@@ -10024,15 +10024,6 @@
     "stock": 2,
     "url": "https://www.daivik.in/products/ruby-green-multi-pendant-necklace?variant=gid://shopify/ProductVariant/46154341581022",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/40981219-4C8D-4C0C-9398-0DF24144227C.jpg?v=1734353607"
-  },
-  "gid://shopify/ProductVariant/46155031380190": {
-    "product_title": "Flower pendant Ghungroo Chain with Earrings",
-    "variant_title": "Default Title",
-    "sku": "1186",
-    "price": 1099.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/flower-pendant-ghungroo-chain-with-earrings?variant=gid://shopify/ProductVariant/46155031380190",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A4C7C3A1-12AB-4A2F-B7A7-00048E59D245.jpg?v=1734363903"
   },
   "gid://shopify/ProductVariant/46159320842462": {
     "product_title": "Simple Ring Leaf Earrings",
@@ -17203,7 +17194,7 @@
     "variant_title": "Default Title",
     "sku": "870",
     "price": 3599.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/antique-lakshmi-pearl-hanging-necklace-with-balis?variant=gid://shopify/ProductVariant/47797500575966",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C263EF27-F38A-4C5B-8B40-09E9FD67CAA1.jpg?v=1767458681"
   },
@@ -26818,6 +26809,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/microplating-coin-necklace?variant=gid://shopify/ProductVariant/46154974462174",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6D48D4A0-9C3C-4B17-90D2-7902E934AB17.jpg?v=1734363464"
+  },
+  "gid://shopify/ProductVariant/46155031380190": {
+    "product_title": "Flower pendant Ghungroo Chain with Earrings",
+    "variant_title": "Default Title",
+    "sku": "1186",
+    "price": 1099.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/flower-pendant-ghungroo-chain-with-earrings?variant=gid://shopify/ProductVariant/46155031380190",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A4C7C3A1-12AB-4A2F-B7A7-00048E59D245.jpg?v=1734363903"
   },
   "gid://shopify/ProductVariant/46159325200606": {
     "product_title": "Flower Pearl AD Earrings",
