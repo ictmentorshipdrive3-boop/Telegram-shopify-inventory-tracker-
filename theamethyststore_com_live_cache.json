@@ -27832,7 +27832,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-1350",
     "price": 5822.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/nerina-kundan-ring?variant=gid://shopify/ProductVariant/46977690697955",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1350_53b599e0-c2dc-4233-8570-147c4a36992a.jpg?v=1766647851"
   },
@@ -51421,7 +51421,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-113-0394",
     "price": 1600.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/classic-bullakku-nose-pin?variant=gid://shopify/ProductVariant/47797429338339",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0394.jpg?v=1767681397"
   },
@@ -74560,7 +74560,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-15878",
     "price": 33300.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/freyja-short-necklace-set-1?variant=gid://shopify/ProductVariant/49101781336291",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15878.jpg?v=1780398507"
   },
@@ -76507,15 +76507,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/luxurious-nagas-short-necklace-1?variant=gid://shopify/ProductVariant/49275627765987",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16202.jpg?v=1781764559"
-  },
-  "gid://shopify/ProductVariant/49275635400931": {
-    "product_title": "Aldora Stone Mini Choker",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15784",
-    "price": 16900.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/stone-mini-choker-3?variant=gid://shopify/ProductVariant/49275635400931",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15784.jpg?v=1781764726"
   },
   "gid://shopify/ProductVariant/49275639791843": {
     "product_title": "Dhanusha Nagas Short Necklace",
@@ -84139,15 +84130,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/hridaya-kundan-pendant?variant=gid://shopify/ProductVariant/49366159327459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4627.jpg?v=1783257009"
-  },
-  "gid://shopify/ProductVariant/49369100157155": {
-    "product_title": "Dazzle Avikam Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16194",
-    "price": 31000.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/avikam-short-necklace-set-25?variant=gid://shopify/ProductVariant/49369100157155",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/WhatsAppImage2026-07-06at1.34.23PM.jpg?v=1783325181"
   },
   "gid://shopify/ProductVariant/49369105105123": {
     "product_title": "Sparkling Avikam Short Necklace Set",
@@ -102986,6 +102968,15 @@
     "url": "https://www.theamethyststore.com/products/shavitha-kundan-pendant?variant=gid://shopify/ProductVariant/49547281531107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4934.jpg?v=1786971848"
   },
+  "gid://shopify/ProductVariant/49547316592867": {
+    "product_title": "Ishitha Kundan Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4935",
+    "price": 23800.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/ishitha-kundan-pendant-1?variant=gid://shopify/ProductVariant/49547316592867",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4935.jpg?v=1786971982"
+  },
   "gid://shopify/ProductVariant/49547349459171": {
     "product_title": "Mini Lotus Kundan Studs",
     "variant_title": "Default Title",
@@ -119240,6 +119231,15 @@
     "url": "https://www.theamethyststore.com/products/guttapusalu-necklace-6?variant=gid://shopify/ProductVariant/49275586281699",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15787.jpg?v=1781764067"
   },
+  "gid://shopify/ProductVariant/49275635400931": {
+    "product_title": "Aldora Stone Mini Choker",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15784",
+    "price": 16900.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/stone-mini-choker-3?variant=gid://shopify/ProductVariant/49275635400931",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15784.jpg?v=1781764726"
+  },
   "gid://shopify/ProductVariant/49275646902499": {
     "product_title": "Luxurious Nagas Long Necklace",
     "variant_title": "Default Title",
@@ -121256,6 +121256,15 @@
     "url": "https://www.theamethyststore.com/products/himani-kundan-pendant?variant=gid://shopify/ProductVariant/49366162571491",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4628.jpg?v=1783257233"
   },
+  "gid://shopify/ProductVariant/49369100157155": {
+    "product_title": "Dazzle Avikam Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16194",
+    "price": 31000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/avikam-short-necklace-set-25?variant=gid://shopify/ProductVariant/49369100157155",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/WhatsAppImage2026-07-06at1.34.23PM.jpg?v=1783325181"
+  },
   "gid://shopify/ProductVariant/49373174431971": {
     "product_title": "Chaitra Kundan Pendant",
     "variant_title": "Default Title",
@@ -122146,5 +122155,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/dazzle-diamond-design-pair-bangles?variant=gid://shopify/ProductVariant/49527851581667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3401_2.jpg?v=1786622211"
+  },
+  "gid://shopify/ProductVariant/49547628052707": {
+    "product_title": "Navitha Kundan Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4933",
+    "price": 22600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/navitha-kundan-pendant-1?variant=gid://shopify/ProductVariant/49547628052707",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4933.jpg?v=1786973486"
   }
 }
