@@ -5791,7 +5791,7 @@
     "variant_title": "9 Inches",
     "sku": "AMS-119-0001-ML",
     "price": 4800.0,
-    "stock": 35,
+    "stock": 31,
     "url": "https://www.theamethyststore.com/products/fish-hook-back-chain?variant=gid://shopify/ProductVariant/43970730000611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_21dbdd2e-d30a-4019-816f-52833d641d9a.jpg?v=1693456844"
   },
@@ -14800,7 +14800,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-7974",
     "price": 21912.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.theamethyststore.com/products/nityasri-short-necklace?variant=gid://shopify/ProductVariant/45814885777635",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7974-_2.jpg?v=1772024325"
   },
@@ -91862,15 +91862,6 @@
     "url": "https://www.theamethyststore.com/products/varalakshmi-face-7?variant=gid://shopify/ProductVariant/49476086137059",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/SV-508-0027.jpg?v=1785407078"
   },
-  "gid://shopify/ProductVariant/49476088004835": {
-    "product_title": "Pooja Amman Face",
-    "variant_title": "Default Title",
-    "sku": "SV-508-0028",
-    "price": 36013.95,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/varalakshmi-face-8?variant=gid://shopify/ProductVariant/49476088004835",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/SV-508-0028.jpg?v=1785407268"
-  },
   "gid://shopify/ProductVariant/49476094623971": {
     "product_title": "Aarnaa Chandhubaali Earrings",
     "variant_title": "Default Title",
@@ -93913,15 +93904,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/kundan-short-necklace-21?variant=gid://shopify/ProductVariant/49495221207267",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17151.jpg?v=1785760112"
-  },
-  "gid://shopify/ProductVariant/49495231135971": {
-    "product_title": "Kenisha Kundan Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17152",
-    "price": 39750.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kenisha-kundan-short-necklace-4?variant=gid://shopify/ProductVariant/49495231135971",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17152.jpg?v=1785760487"
   },
   "gid://shopify/ProductVariant/49495237656803": {
     "product_title": "Admirable Kundan Short Necklace",
@@ -97090,15 +97072,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/diamond-design-studs-44?variant=gid://shopify/ProductVariant/49514384195811",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15561.jpg?v=1786256791"
-  },
-  "gid://shopify/ProductVariant/49514411983075": {
-    "product_title": "Vibha Diamond Design Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15563",
-    "price": 4700.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/diamond-design-studs-45?variant=gid://shopify/ProductVariant/49514411983075",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15563.jpg?v=1786256921"
   },
   "gid://shopify/ProductVariant/49514427384035": {
     "product_title": "Advika Kundan Long Necklace",
@@ -122165,6 +122138,15 @@
     "url": "https://www.theamethyststore.com/products/shikarikha-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49483680874723",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16960.jpg?v=1785587605"
   },
+  "gid://shopify/ProductVariant/49495231135971": {
+    "product_title": "Kenisha Kundan Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17152",
+    "price": 39750.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kenisha-kundan-short-necklace-4?variant=gid://shopify/ProductVariant/49495231135971",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17152.jpg?v=1785760487"
+  },
   "gid://shopify/ProductVariant/49495244144867": {
     "product_title": "Fabulous Kundan Short Necklace",
     "variant_title": "Default Title",
@@ -122254,6 +122236,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/avikam-pendant-set-43?variant=gid://shopify/ProductVariant/49507850518755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4865.jpg?v=1786086620"
+  },
+  "gid://shopify/ProductVariant/49514411983075": {
+    "product_title": "Vibha Diamond Design Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15563",
+    "price": 4700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/diamond-design-studs-45?variant=gid://shopify/ProductVariant/49514411983075",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15563.jpg?v=1786256921"
   },
   "gid://shopify/ProductVariant/49514484170979": {
     "product_title": "Dhansikaa Kundan Long Necklace",
