@@ -5872,7 +5872,7 @@
     "variant_title": "Default Title",
     "sku": "896",
     "price": 1699.0,
-    "stock": 23,
+    "stock": 22,
     "url": "https://www.daivik.in/products/ad-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/44690078073054",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/32B43223-B9A7-41CD-AA3B-D118713D7A1D.jpg?v=1705756501"
   },
@@ -19984,8 +19984,26 @@
     "variant_title": "2.4",
     "sku": "1910",
     "price": 3199.0,
-    "stock": 1,
+    "stock": 10,
     "url": "https://www.daivik.in/products/ad-green-pearl-floral-combo?variant=gid://shopify/ProductVariant/48333256032478",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6850.jpg?v=1781280866"
+  },
+  "gid://shopify/ProductVariant/48333256065246": {
+    "product_title": "AD Green Pearl Floral Combo",
+    "variant_title": "2.6",
+    "sku": "1910",
+    "price": 3199.0,
+    "stock": 10,
+    "url": "https://www.daivik.in/products/ad-green-pearl-floral-combo?variant=gid://shopify/ProductVariant/48333256065246",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6850.jpg?v=1781280866"
+  },
+  "gid://shopify/ProductVariant/48333256098014": {
+    "product_title": "AD Green Pearl Floral Combo",
+    "variant_title": "2.8",
+    "sku": "1910",
+    "price": 3199.0,
+    "stock": 10,
+    "url": "https://www.daivik.in/products/ad-green-pearl-floral-combo?variant=gid://shopify/ProductVariant/48333256098014",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6850.jpg?v=1781280866"
   },
   "gid://shopify/ProductVariant/48333917356254": {
@@ -20643,6 +20661,15 @@
     "price": 4999.0,
     "stock": 1,
     "url": "https://www.daivik.in/products/ruby-lakshmi-bangle-combo?variant=gid://shopify/ProductVariant/48446041948382",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2A304FC0-6319-4A9F-BEA0-8CDEE8B6F6AE.jpg?v=1784308377"
+  },
+  "gid://shopify/ProductVariant/48446047060190": {
+    "product_title": "Ruby Lakshmi Bangle Combo (Price for Both Hands)",
+    "variant_title": "2.6",
+    "sku": "1930",
+    "price": 4999.0,
+    "stock": 5,
+    "url": "https://www.daivik.in/products/ruby-lakshmi-bangle-combo?variant=gid://shopify/ProductVariant/48446047060190",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2A304FC0-6319-4A9F-BEA0-8CDEE8B6F6AE.jpg?v=1784308377"
   },
   "gid://shopify/ProductVariant/48446047092958": {
@@ -30671,24 +30698,6 @@
     "url": "https://www.daivik.in/products/ad-ruby-pearl-floral-combo?variant=gid://shopify/ProductVariant/48315170914526",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6BB7EEE1-75CA-4229-8BFB-F555807A583C.jpg?v=1780914224"
   },
-  "gid://shopify/ProductVariant/48333256065246": {
-    "product_title": "AD Green Pearl Floral Combo",
-    "variant_title": "2.6",
-    "sku": "1910",
-    "price": 3199.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/ad-green-pearl-floral-combo?variant=gid://shopify/ProductVariant/48333256065246",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6850.jpg?v=1781280866"
-  },
-  "gid://shopify/ProductVariant/48333256098014": {
-    "product_title": "AD Green Pearl Floral Combo",
-    "variant_title": "2.8",
-    "sku": "1910",
-    "price": 3199.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/ad-green-pearl-floral-combo?variant=gid://shopify/ProductVariant/48333256098014",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6850.jpg?v=1781280866"
-  },
   "gid://shopify/ProductVariant/48349419602142": {
     "product_title": "Antique Lakhsmi Short and Long Necklace with Jhumkas (Prices for Short, Long and Combo)",
     "variant_title": "Combo",
@@ -30751,15 +30760,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/simple-leaf-invisible-chain?variant=gid://shopify/ProductVariant/48434484150494",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6F48194E-21F4-470E-AD03-FE1A254608A7.jpg?v=1784029225"
-  },
-  "gid://shopify/ProductVariant/48446047060190": {
-    "product_title": "Ruby Lakshmi Bangle Combo (Price for Both Hands)",
-    "variant_title": "2.6",
-    "sku": "1930",
-    "price": 4999.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/ruby-lakshmi-bangle-combo?variant=gid://shopify/ProductVariant/48446047060190",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2A304FC0-6319-4A9F-BEA0-8CDEE8B6F6AE.jpg?v=1784308377"
   },
   "gid://shopify/ProductVariant/48513202520286": {
     "product_title": "Three layered Pearl Necklace with Earrings",
