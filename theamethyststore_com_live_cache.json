@@ -71032,7 +71032,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-1943",
     "price": 5984.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/beads-chain-3?variant=gid://shopify/ProductVariant/48921844416739",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1943.jpg?v=1778229503"
   },
@@ -77326,15 +77326,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/hasli-kundan-short-necklace?variant=gid://shopify/ProductVariant/49279600787683",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16305.jpg?v=1781862773"
-  },
-  "gid://shopify/ProductVariant/49279636209891": {
-    "product_title": "Stunning Kundan Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16318",
-    "price": 69050.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kundan-short-necklace-28?variant=gid://shopify/ProductVariant/49279636209891",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16318.jpg?v=1781862955"
   },
   "gid://shopify/ProductVariant/49279646499043": {
     "product_title": "Unique Kundan Short Necklace",
@@ -119203,6 +119194,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/luxe-aura-kundan-necklace-set?variant=gid://shopify/ProductVariant/49279141249251",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16175.jpg?v=1781855970"
+  },
+  "gid://shopify/ProductVariant/49279636209891": {
+    "product_title": "Stunning Kundan Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16318",
+    "price": 69050.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kundan-short-necklace-28?variant=gid://shopify/ProductVariant/49279636209891",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16318.jpg?v=1781862955"
   },
   "gid://shopify/ProductVariant/49279894880483": {
     "product_title": "Shinning Charm Kundan Choker",
