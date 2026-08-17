@@ -15043,7 +15043,7 @@
     "variant_title": "Default Title",
     "sku": "R24793",
     "price": 21760.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/two-layers-antique-mala?variant=gid://shopify/ProductVariant/52668091892009",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4200.jpg?v=1771089792"
   },
@@ -18790,15 +18790,6 @@
     "stock": 2,
     "url": "https://www.rasasilver.com/products/indira-temple-necklace-copy-3?variant=gid://shopify/ProductVariant/52890051543337",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar00044_resized.jpg?v=1775210227"
-  },
-  "gid://shopify/ProductVariant/52890124255529": {
-    "product_title": "Vaibhavi Temple Necklace",
-    "variant_title": "Default Title",
-    "sku": "R26310",
-    "price": 14705.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/indira-temple-necklace-copy-5?variant=gid://shopify/ProductVariant/52890124255529",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0105_resized.jpg?v=1775202429"
   },
   "gid://shopify/ProductVariant/52897790394665": {
     "product_title": "Shirovastra Matil",
@@ -23218,15 +23209,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/ruby-laksh-temple-kada?variant=gid://shopify/ProductVariant/53299616579881",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41448_resized.jpg?v=1783748450"
-  },
-  "gid://shopify/ProductVariant/53302498230569": {
-    "product_title": "Shri Temple Mop Chain",
-    "variant_title": "Default Title",
-    "sku": "R29922",
-    "price": 16830.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/shri-temple-mop-chain?variant=gid://shopify/ProductVariant/53302498230569",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41325.jpg?v=1783603727"
   },
   "gid://shopify/ProductVariant/53302501671209": {
     "product_title": "Stone Aarunya Danglers",
@@ -44990,6 +44972,15 @@
     "url": "https://www.rasasilver.com/products/luxoria-victorian-necklace?variant=gid://shopify/ProductVariant/52890100203817",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0162_resized.jpg?v=1775210543"
   },
+  "gid://shopify/ProductVariant/52890124255529": {
+    "product_title": "Vaibhavi Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R26310",
+    "price": 14705.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/indira-temple-necklace-copy-5?variant=gid://shopify/ProductVariant/52890124255529",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0105_resized.jpg?v=1775202429"
+  },
   "gid://shopify/ProductVariant/52890216268073": {
     "product_title": "Elvique Victorian Necklace Set",
     "variant_title": "Default Title",
@@ -47500,6 +47491,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/temple-mop-chain?variant=gid://shopify/ProductVariant/53302493905193",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41324_resized.jpg?v=1783603213"
+  },
+  "gid://shopify/ProductVariant/53302498230569": {
+    "product_title": "Shri Temple Mop Chain",
+    "variant_title": "Default Title",
+    "sku": "R29922",
+    "price": 16830.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/shri-temple-mop-chain?variant=gid://shopify/ProductVariant/53302498230569",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41325.jpg?v=1783603727"
   },
   "gid://shopify/ProductVariant/53302629138729": {
     "product_title": "Gutta Pasalu Stone Danglers",
