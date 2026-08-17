@@ -36449,15 +36449,6 @@
     "url": "https://www.theamethyststore.com/products/bridal-look-nagas-choker?variant=gid://shopify/ProductVariant/47180955222243",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11283.jpg?v=1758108120"
   },
-  "gid://shopify/ProductVariant/47180959449315": {
-    "product_title": "Girizasri Kundan Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-11334",
-    "price": 170200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/girizasri-kundan-long-necklace?variant=gid://shopify/ProductVariant/47180959449315",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11334.jpg?v=1758108388"
-  },
   "gid://shopify/ProductVariant/47180960399587": {
     "product_title": "Classic Nagas Short Necklace",
     "variant_title": "Default Title",
@@ -68561,15 +68552,6 @@
     "url": "https://www.theamethyststore.com/products/kundan-long-necklace-15?variant=gid://shopify/ProductVariant/48882239275235",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15479.jpg?v=1777374015"
   },
-  "gid://shopify/ProductVariant/48882336563427": {
-    "product_title": "Aashvika Kundan Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15482",
-    "price": 100070.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/aashvika-kundan-short-necklace?variant=gid://shopify/ProductVariant/48882336563427",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15482.jpg?v=1777375005"
-  },
   "gid://shopify/ProductVariant/48882642616547": {
     "product_title": "Little Charm Kundan Choker",
     "variant_title": "Default Title",
@@ -71233,15 +71215,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/schithara-beads-chain?variant=gid://shopify/ProductVariant/48923566014691",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1948.jpg?v=1778246219"
-  },
-  "gid://shopify/ProductVariant/48923595210979": {
-    "product_title": "Sheshikha Kundan Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15686",
-    "price": 72150.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/sheshikha-kundan-short-necklace?variant=gid://shopify/ProductVariant/48923595210979",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15686.jpg?v=1778246343"
   },
   "gid://shopify/ProductVariant/48923658223843": {
     "product_title": "Gorgeous Kundan Bracelet",
@@ -110483,6 +110456,15 @@
     "url": "https://www.theamethyststore.com/products/virshali-stone-pair-bangle?variant=gid://shopify/ProductVariant/47180887884003",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2422.jpg?v=1758106776"
   },
+  "gid://shopify/ProductVariant/47180959449315": {
+    "product_title": "Girizasri Kundan Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-11334",
+    "price": 170200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/girizasri-kundan-long-necklace?variant=gid://shopify/ProductVariant/47180959449315",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11334.jpg?v=1758108388"
+  },
   "gid://shopify/ProductVariant/47190387982563": {
     "product_title": "Beautiful Lakshmi Nagas Pendant",
     "variant_title": "Default Title",
@@ -116990,6 +116972,15 @@
     "url": "https://www.theamethyststore.com/products/victorian-pendant-set-6?variant=gid://shopify/ProductVariant/48876919521507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3998.jpg?v=1777300285"
   },
+  "gid://shopify/ProductVariant/48882336563427": {
+    "product_title": "Aashvika Kundan Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15482",
+    "price": 100070.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/aashvika-kundan-short-necklace?variant=gid://shopify/ProductVariant/48882336563427",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15482.jpg?v=1777375005"
+  },
   "gid://shopify/ProductVariant/48883082592483": {
     "product_title": "Enchanting Short Necklace Set",
     "variant_title": "Default Title",
@@ -117637,6 +117628,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/sherikha-nagas-short-necklace?variant=gid://shopify/ProductVariant/48923550089443",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15713.jpg?v=1778246144"
+  },
+  "gid://shopify/ProductVariant/48923595210979": {
+    "product_title": "Sheshikha Kundan Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15686",
+    "price": 72150.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/sheshikha-kundan-short-necklace?variant=gid://shopify/ProductVariant/48923595210979",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15686.jpg?v=1778246343"
   },
   "gid://shopify/ProductVariant/48923617100003": {
     "product_title": "Beautiful Attigai Necklace",
