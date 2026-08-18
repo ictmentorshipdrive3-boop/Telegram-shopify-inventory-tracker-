@@ -66388,7 +66388,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-13156",
     "price": 7304.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/diamond-design-studs-4?variant=gid://shopify/ProductVariant/48732231532771",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13156.jpg?v=1775484311"
   },
@@ -103175,6 +103175,15 @@
     "url": "https://www.theamethyststore.com/products/aakshitha-kundan-jada-billa?variant=gid://shopify/ProductVariant/49552995877091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0969.jpg?v=1787030927"
   },
+  "gid://shopify/ProductVariant/49553115578595": {
+    "product_title": "Trishali Kundan Jada Billa",
+    "variant_title": "Default Title",
+    "sku": "AMS-112-0968",
+    "price": 28460.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/trishali-kundan-jada-billa?variant=gid://shopify/ProductVariant/49553115578595",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0968.jpg?v=1787032758"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -122434,5 +122443,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/dazzle-diamond-design-pair-bangles?variant=gid://shopify/ProductVariant/49527851581667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3401_2.jpg?v=1786622211"
+  },
+  "gid://shopify/ProductVariant/49553129668835": {
+    "product_title": "Ankitha Kundan Jada Billa",
+    "variant_title": "Default Title",
+    "sku": "AMS-112-0967",
+    "price": 33430.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ankitha-kundan-jada-billa?variant=gid://shopify/ProductVariant/49553129668835",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0967.jpg?v=1787032862"
   }
 }
