@@ -42304,7 +42304,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-12356",
     "price": 18176.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/janithra-stone-mini-choker?variant=gid://shopify/ProductVariant/47328336543971",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12356.jpg?v=1760520569"
   },
@@ -77155,15 +77155,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/mashikaa-stone-studs?variant=gid://shopify/ProductVariant/49280156631267",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14165.jpg?v=1781866190"
-  },
-  "gid://shopify/ProductVariant/49280162726115": {
-    "product_title": "Trendy Glow Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16143",
-    "price": 25600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/trendy-glow-short-necklace-set-4?variant=gid://shopify/ProductVariant/49280162726115",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16143.jpg?v=1781866290"
   },
   "gid://shopify/ProductVariant/49280164757731": {
     "product_title": "Shanaga Nagas Short Necklace Set",
@@ -120427,6 +120418,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/madushi-stone-studs?variant=gid://shopify/ProductVariant/49280110788835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14163.jpg?v=1781865963"
+  },
+  "gid://shopify/ProductVariant/49280162726115": {
+    "product_title": "Trendy Glow Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16143",
+    "price": 25600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/trendy-glow-short-necklace-set-4?variant=gid://shopify/ProductVariant/49280162726115",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16143.jpg?v=1781866290"
   },
   "gid://shopify/ProductVariant/49280199033059": {
     "product_title": "Jessintha Stone Studs",
