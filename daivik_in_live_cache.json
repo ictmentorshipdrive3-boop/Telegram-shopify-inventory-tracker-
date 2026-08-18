@@ -3860,15 +3860,6 @@
     "url": "https://www.daivik.in/products/a-103?variant=gid://shopify/ProductVariant/44206928593118",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_b0c12209-bf7e-4ad8-9431-f87964cfb95b.heic?v=1685283410"
   },
-  "gid://shopify/ProductVariant/44212089585886": {
-    "product_title": "3 Line Multicolour Mala with earrings",
-    "variant_title": "Default Title",
-    "sku": "898",
-    "price": 2499.0,
-    "stock": 6,
-    "url": "https://www.daivik.in/products/3-line-multicolour-mala-with-earrings?variant=gid://shopify/ProductVariant/44212089585886",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_8b415e5f-a762-4a7e-b286-dcb2b1ac28ec.heic?v=1685632032"
-  },
   "gid://shopify/ProductVariant/44212589330654": {
     "product_title": "Victorian AD Green pearl necklace with earrings",
     "variant_title": "Default Title",
@@ -9121,7 +9112,7 @@
     "variant_title": "Black",
     "sku": "D24603",
     "price": 1099.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/diwali-sale-anklets-d24603?variant=gid://shopify/ProductVariant/45951803785438",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1746.jpg?v=1728588224"
   },
@@ -10687,7 +10678,7 @@
     "variant_title": "Default Title",
     "sku": "1228",
     "price": 2799.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/designer-ad-pearl-pastel-necklace-with-earrings?variant=gid://shopify/ProductVariant/46302297489630",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1829.heic?v=1740074820"
   },
@@ -15565,7 +15556,7 @@
     "variant_title": "16 Inches String - Full Moolam",
     "sku": "3507",
     "price": 2599.0,
-    "stock": 15,
+    "stock": 14,
     "url": "https://www.daivik.in/products/elegant-jasmine-mullai-flower-artificial-gajra-16-inches?variant=gid://shopify/ProductVariant/47542601547998",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0344.heic?v=1758199863"
   },
@@ -24073,6 +24064,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/ad-changeable-earrings-with-4-colours?variant=gid://shopify/ProductVariant/44210810978526",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_6535067d-d306-40f8-a436-9e20ff72947c.heic?v=1685546180"
+  },
+  "gid://shopify/ProductVariant/44212089585886": {
+    "product_title": "3 Line Multicolour Mala with earrings",
+    "variant_title": "Default Title",
+    "sku": "898",
+    "price": 2499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/3-line-multicolour-mala-with-earrings?variant=gid://shopify/ProductVariant/44212089585886",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_8b415e5f-a762-4a7e-b286-dcb2b1ac28ec.heic?v=1685632032"
   },
   "gid://shopify/ProductVariant/44219189428446": {
     "product_title": "AD leaf gold finish necklace with earrings",
