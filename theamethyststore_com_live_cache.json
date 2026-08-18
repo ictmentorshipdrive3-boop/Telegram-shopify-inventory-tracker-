@@ -20110,7 +20110,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-9228",
     "price": 33200.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/forest-green-short-necklace?variant=gid://shopify/ProductVariant/46388603551971",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9228.jpg?v=1747907833"
   },
@@ -24673,7 +24673,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-0382-S",
     "price": 6300.0,
-    "stock": 26,
+    "stock": 25,
     "url": "https://www.theamethyststore.com/products/mangalsutra-chain-double-layer?variant=gid://shopify/ProductVariant/46779081195747",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-0382_S.jpg?v=1775372483"
   },
@@ -52261,15 +52261,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/vedhikha-stone-pendant-1?variant=gid://shopify/ProductVariant/47806507745507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3744.jpg?v=1767938732"
-  },
-  "gid://shopify/ProductVariant/47806529732835": {
-    "product_title": "Taahira Nagas Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-3142",
-    "price": 22850.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/taahira-nagas-pendant?variant=gid://shopify/ProductVariant/47806529732835",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3142_ae4b10e8-a335-494b-96c0-f20476f09ab5.jpg?v=1778312850"
   },
   "gid://shopify/ProductVariant/47806543823075": {
     "product_title": "Nithya Nagas Pendant",
@@ -103472,6 +103463,60 @@
     "url": "https://www.theamethyststore.com/products/bugadi-earrings-14?variant=gid://shopify/ProductVariant/49553358651619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15790.jpg?v=1787038032"
   },
+  "gid://shopify/ProductVariant/49553366319331": {
+    "product_title": "Bhavikha Bugadi Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15793",
+    "price": 6700.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/bugadi-earrings-15?variant=gid://shopify/ProductVariant/49553366319331",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15793.jpg?v=1787038348"
+  },
+  "gid://shopify/ProductVariant/49553367302371": {
+    "product_title": "Glitz Stone Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15151",
+    "price": 6400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/glitz-stone-drops-5?variant=gid://shopify/ProductVariant/49553367302371",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15151.jpg?v=1787038391"
+  },
+  "gid://shopify/ProductVariant/49553376084195": {
+    "product_title": "Navarathna Stone Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15152",
+    "price": 9370.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/navarathna-stone-drops-1?variant=gid://shopify/ProductVariant/49553376084195",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15152.jpg?v=1787038515"
+  },
+  "gid://shopify/ProductVariant/49553377788131": {
+    "product_title": "Yalini Stone Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15153",
+    "price": 8470.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/yalini-stone-drops-1?variant=gid://shopify/ProductVariant/49553377788131",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15153.jpg?v=1787038658"
+  },
+  "gid://shopify/ProductVariant/49553379623139": {
+    "product_title": "Multi Charm Stone Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15154",
+    "price": 8920.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/multi-charm-stone-drops?variant=gid://shopify/ProductVariant/49553379623139",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15154.jpg?v=1787038766"
+  },
+  "gid://shopify/ProductVariant/49553380475107": {
+    "product_title": "Raveena Stone Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15155",
+    "price": 8230.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/raveena-stone-drops?variant=gid://shopify/ProductVariant/49553380475107",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15155.jpg?v=1787038890"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -113596,6 +113641,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/anisha-toe-ring-1?variant=gid://shopify/ProductVariant/47806394990819",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0701.jpg?v=1767936230"
+  },
+  "gid://shopify/ProductVariant/47806529732835": {
+    "product_title": "Taahira Nagas Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-3142",
+    "price": 22850.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/taahira-nagas-pendant?variant=gid://shopify/ProductVariant/47806529732835",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3142_ae4b10e8-a335-494b-96c0-f20476f09ab5.jpg?v=1778312850"
   },
   "gid://shopify/ProductVariant/47806560501987": {
     "product_title": "Yazhini Nagas Pendant",
