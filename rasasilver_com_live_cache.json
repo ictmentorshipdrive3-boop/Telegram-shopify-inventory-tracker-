@@ -3401,15 +3401,6 @@
     "url": "https://www.rasasilver.com/products/mayur-mukut-kamarbandh?variant=gid://shopify/ProductVariant/50603599593769",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/4_f2900791-0901-493e-8fc3-e03f1ed0df40.jpg?v=1753955579"
   },
-  "gid://shopify/ProductVariant/50611633619241": {
-    "product_title": "Emeronika Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R9941",
-    "price": 20655.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/emeronika-necklace-set?variant=gid://shopify/ProductVariant/50611633619241",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_2_68d0c43f-f914-454e-ac2d-b5ff3dc9a0db.jpg?v=1754374086"
-  },
   "gid://shopify/ProductVariant/50612149387561": {
     "product_title": "Nava Tales Necklace",
     "variant_title": "Default Title",
@@ -8647,15 +8638,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/rectasia-necklace-set?variant=gid://shopify/ProductVariant/51500309086505",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_297Pics_07Oct34911_resized.jpg?v=1763552275"
-  },
-  "gid://shopify/ProductVariant/51500318654761": {
-    "product_title": "Silvabead Bloom Payal",
-    "variant_title": "Ruby Pink",
-    "sku": "R16572",
-    "price": 18000.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/silvabead-bloom-payal?variant=gid://shopify/ProductVariant/51500318654761",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0188_copy_3.jpg?v=1763447158"
   },
   "gid://shopify/ProductVariant/51500325339433": {
     "product_title": "Rajayura Elegant Necklace Set",
@@ -19957,7 +19939,7 @@
     "variant_title": "Mint Green",
     "sku": "R28370",
     "price": 4335.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/myra-emerald-cz-studs?variant=gid://shopify/ProductVariant/53131822563625",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_11May0396_resized.jpg?v=1781245009"
   },
@@ -26882,6 +26864,15 @@
     "url": "https://www.rasasilver.com/products/pearleela-necklace-set?variant=gid://shopify/ProductVariant/52382733861161",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-3_684cef32-b321-4786-89de-824df2c39847.jpg?v=1753961376"
   },
+  "gid://shopify/ProductVariant/50611633619241": {
+    "product_title": "Emeronika Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R9941",
+    "price": 20655.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/emeronika-necklace-set?variant=gid://shopify/ProductVariant/50611633619241",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_2_68d0c43f-f914-454e-ac2d-b5ff3dc9a0db.jpg?v=1754374086"
+  },
   "gid://shopify/ProductVariant/51412295745833": {
     "product_title": "Rosy Maanga Studs",
     "variant_title": "Green",
@@ -32649,6 +32640,15 @@
     "price": 15300.0,
     "stock": 0,
     "url": "https://www.rasasilver.com/products/silvabead-bloom-payal?variant=gid://shopify/ProductVariant/51500318621993",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0188_copy_3.jpg?v=1763447158"
+  },
+  "gid://shopify/ProductVariant/51500318654761": {
+    "product_title": "Silvabead Bloom Payal",
+    "variant_title": "Ruby Pink",
+    "sku": "R16572",
+    "price": 18000.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/silvabead-bloom-payal?variant=gid://shopify/ProductVariant/51500318654761",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0188_copy_3.jpg?v=1763447158"
   },
   "gid://shopify/ProductVariant/51500344934697": {
@@ -47194,5 +47194,23 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/ishira-kundan-kanti-copy-1?variant=gid://shopify/ProductVariant/53429137408297",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0788.jpg?v=1787057485"
+  },
+  "gid://shopify/ProductVariant/53429198717225": {
+    "product_title": "Tanirika Kundan Kanti",
+    "variant_title": "Default Title",
+    "sku": "R33944",
+    "price": 16900.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ishira-kundan-kanti-copy-2?variant=gid://shopify/ProductVariant/53429198717225",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0797.jpg?v=1787058134"
+  },
+  "gid://shopify/ProductVariant/53429223489833": {
+    "product_title": "Mayura-Chand Kundan Kanti",
+    "variant_title": "Default Title",
+    "sku": "R33946",
+    "price": 21400.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ishira-kundan-kanti-copy-3?variant=gid://shopify/ProductVariant/53429223489833",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0784.jpg?v=1787058564"
   }
 }
