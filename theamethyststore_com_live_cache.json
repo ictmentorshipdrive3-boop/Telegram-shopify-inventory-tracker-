@@ -88883,15 +88883,6 @@
     "url": "https://www.theamethyststore.com/products/short-necklace-set-76?variant=gid://shopify/ProductVariant/49436885156067",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17049.jpg?v=1784717622"
   },
-  "gid://shopify/ProductVariant/49436922216675": {
-    "product_title": "Roselle Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17066",
-    "price": 43900.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/roselle-short-necklace-set?variant=gid://shopify/ProductVariant/49436922216675",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17066.jpg?v=1784718883"
-  },
   "gid://shopify/ProductVariant/49436947218659": {
     "product_title": "Elaris Moissanite Short Necklace Set",
     "variant_title": "Default Title",
@@ -90206,15 +90197,6 @@
     "url": "https://www.theamethyststore.com/products/pair-bangles-29?variant=gid://shopify/ProductVariant/49446749896931",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3487_2.jpg?v=1784966080"
   },
-  "gid://shopify/ProductVariant/49446797082851": {
-    "product_title": "Shanthikaa Pair Bangles",
-    "variant_title": "2.4\"",
-    "sku": "AMS-107-3488-2.4",
-    "price": 66800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/pair-bangles-30?variant=gid://shopify/ProductVariant/49446797082851",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3488.jpg?v=1784966345"
-  },
   "gid://shopify/ProductVariant/49446844203235": {
     "product_title": "Dhanishka Pair Bangles",
     "variant_title": "2.4\"",
@@ -90967,7 +90949,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4732",
     "price": 40100.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/divine-look-victorian-pendant-set?variant=gid://shopify/ProductVariant/49447993508067",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4732.jpg?v=1785050292"
   },
@@ -92182,7 +92164,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17191",
     "price": 24120.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/charming-kundan-short-necklace-1?variant=gid://shopify/ProductVariant/49479192707299",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17191.jpg?v=1785479821"
   },
@@ -103678,6 +103660,60 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/bugadi-earrings-20?variant=gid://shopify/ProductVariant/49556101431523",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15801.jpg?v=1787055812"
+  },
+  "gid://shopify/ProductVariant/49556374552803": {
+    "product_title": "Sherisha Bugadi Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15802",
+    "price": 5200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/bugadi-earrings-21?variant=gid://shopify/ProductVariant/49556374552803",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15802.jpg?v=1787057229"
+  },
+  "gid://shopify/ProductVariant/49556377469155": {
+    "product_title": "Admirable Stone Jada Billa",
+    "variant_title": "Suryan",
+    "sku": "AMS-112-0911-SURAJ",
+    "price": 5650.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/jada-billa-26?variant=gid://shopify/ProductVariant/49556377469155",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0911_2.jpg?v=1787056987"
+  },
+  "gid://shopify/ProductVariant/49556377501923": {
+    "product_title": "Admirable Stone Jada Billa",
+    "variant_title": "Chaand",
+    "sku": "AMS-112-0911-CHAAND",
+    "price": 4400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/jada-billa-26?variant=gid://shopify/ProductVariant/49556377501923",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0911_2.jpg?v=1787056987"
+  },
+  "gid://shopify/ProductVariant/49556469776611": {
+    "product_title": "Zarinaa Bugadi Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15806",
+    "price": 5720.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/bugadi-earrings-22?variant=gid://shopify/ProductVariant/49556469776611",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15806.jpg?v=1787057694"
+  },
+  "gid://shopify/ProductVariant/49556475216099": {
+    "product_title": "Amazing Stone Jada Billa",
+    "variant_title": "Chaand",
+    "sku": "AMS-112-0913-CHAAND",
+    "price": 4400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/amazing-stone-jada-billa?variant=gid://shopify/ProductVariant/49556475216099",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0913_2.jpg?v=1787057691"
+  },
+  "gid://shopify/ProductVariant/49556485210339": {
+    "product_title": "Dheera Bugadi Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15807",
+    "price": 3400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/bugadi-earrings-23?variant=gid://shopify/ProductVariant/49556485210339",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15807.jpg?v=1787057891"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -122723,6 +122759,15 @@
     "url": "https://www.theamethyststore.com/products/lumina-moissanite-pendant-set?variant=gid://shopify/ProductVariant/49436846981347",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4725.jpg?v=1784715865"
   },
+  "gid://shopify/ProductVariant/49436922216675": {
+    "product_title": "Roselle Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17066",
+    "price": 43900.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/roselle-short-necklace-set?variant=gid://shopify/ProductVariant/49436922216675",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17066.jpg?v=1784718883"
+  },
   "gid://shopify/ProductVariant/49438801985763": {
     "product_title": "Bride's Legacy Moissanite Long Necklace Set",
     "variant_title": "Default Title",
@@ -122803,6 +122848,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/mesmerizing-moissanite-ring?variant=gid://shopify/ProductVariant/49446055248099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2170.jpg?v=1784961017"
+  },
+  "gid://shopify/ProductVariant/49446797082851": {
+    "product_title": "Shanthikaa Pair Bangles",
+    "variant_title": "2.4\"",
+    "sku": "AMS-107-3488-2.4",
+    "price": 66800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/pair-bangles-30?variant=gid://shopify/ProductVariant/49446797082851",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3488.jpg?v=1784966345"
   },
   "gid://shopify/ProductVariant/49446882771171": {
     "product_title": "Vimika Pair Bangles",
@@ -123154,5 +123208,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/dazzle-diamond-design-pair-bangles?variant=gid://shopify/ProductVariant/49527851581667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3401_2.jpg?v=1786622211"
+  },
+  "gid://shopify/ProductVariant/49556475183331": {
+    "product_title": "Amazing Stone Jada Billa",
+    "variant_title": "Suryan",
+    "sku": "AMS-112-0913-SURAJ",
+    "price": 5650.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/amazing-stone-jada-billa?variant=gid://shopify/ProductVariant/49556475183331",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0913_2.jpg?v=1787057691"
   }
 }
