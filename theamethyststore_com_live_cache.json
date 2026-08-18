@@ -90886,7 +90886,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15009",
     "price": 48400.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/shine-charm-moissanite-jhumkas?variant=gid://shopify/ProductVariant/49447953694947",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15009.jpg?v=1785042157"
   },
@@ -103597,6 +103597,24 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/kundan-pair-bangles-3?variant=gid://shopify/ProductVariant/49554408046819",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3565.jpg?v=1787047872"
+  },
+  "gid://shopify/ProductVariant/49554425905379": {
+    "product_title": "Vithusha Kundan Pair Bangles",
+    "variant_title": "2.4\"",
+    "sku": "AMS-107-3566-2.4\"",
+    "price": 67340.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/kundan-pair-bangles-4?variant=gid://shopify/ProductVariant/49554425905379",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3566_2.jpg?v=1787048282"
+  },
+  "gid://shopify/ProductVariant/49554462638307": {
+    "product_title": "Prashika Kundan Pair Bangles",
+    "variant_title": "2.4\"",
+    "sku": "AMS-107-3568-2.4\"",
+    "price": 77000.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/prashika-kundan-pair-bangles?variant=gid://shopify/ProductVariant/49554462638307",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3568_2.jpg?v=1787048560"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -122947,5 +122965,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/dazzle-diamond-design-pair-bangles?variant=gid://shopify/ProductVariant/49527851581667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3401_2.jpg?v=1786622211"
+  },
+  "gid://shopify/ProductVariant/49554552783075": {
+    "product_title": "Akitha Kundan Pair Bangles",
+    "variant_title": "2.4\"",
+    "sku": null,
+    "price": 77000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/akitha-kundan-pair-bangles?variant=gid://shopify/ProductVariant/49554552783075",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3569.jpg?v=1787049024"
   }
 }
