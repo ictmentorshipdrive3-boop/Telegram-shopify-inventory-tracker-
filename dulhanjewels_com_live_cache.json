@@ -5723,15 +5723,6 @@
     "url": "https://www.dulhanjewels.com/products/classy-jadau-kundan-chandbali-earrings-with-rice-pearls?variant=gid://shopify/ProductVariant/51494634160434",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9102.jpg?v=1784632693"
   },
-  "gid://shopify/ProductVariant/51501266141490": {
-    "product_title": "Ethnic Jadau Kundan Jhumki Earrings With Green Bead Tassels",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2400.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/ethnic-jadau-kundan-jhumki-earrings-with-green-bead-tassels?variant=gid://shopify/ProductVariant/51501266141490",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9620.jpg?v=1785498313"
-  },
   "gid://shopify/ProductVariant/51501271679282": {
     "product_title": "Ethnic Jadau Kundan Chandbali Earrings With Pearl Drops",
     "variant_title": "Default Title",
@@ -6343,15 +6334,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/royal-victorian-peacock-pendant-and-earring-set?variant=gid://shopify/ProductVariant/51564461293874",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/1F183AD7-1137-44A7-AF50-27CEB286A721.jpg?v=1786528097"
-  },
-  "gid://shopify/ProductVariant/51564463554866": {
-    "product_title": "Elegant Victorian Bird Pendant And Earrings Set",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1750.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/elegant-victorian-bird-pendant-and-earrings-set?variant=gid://shopify/ProductVariant/51564463554866",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/7C75C347-E5BD-4C46-AF48-92483992FA66.jpg?v=1786528474"
   },
   "gid://shopify/ProductVariant/51564468797746": {
     "product_title": "Green Emerald Victorian Pendant And Earrings Set",
@@ -8378,6 +8360,15 @@
     "url": "https://www.dulhanjewels.com/products/elegant-victorian-maang-tikka-with-pearl-and-emerald-hangings?variant=gid://shopify/ProductVariant/51582490313010",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/C9DB5662-46F5-42EE-B18A-4D4933FD3120.jpg?v=1783590903"
   },
+  "gid://shopify/ProductVariant/51501266141490": {
+    "product_title": "Ethnic Jadau Kundan Jhumki Earrings With Green Bead Tassels",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2400.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/ethnic-jadau-kundan-jhumki-earrings-with-green-bead-tassels?variant=gid://shopify/ProductVariant/51501266141490",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9620.jpg?v=1785498313"
+  },
   "gid://shopify/ProductVariant/51505711022386": {
     "product_title": "Ethnic Jadau Kundan Necklace Set With Green Beads",
     "variant_title": "Default Title",
@@ -8404,5 +8395,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/bridal-necklace-set-with-green-beads-and-matching-earrings?variant=gid://shopify/ProductVariant/51539515474226",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FD9E3B54-5F19-4F58-850F-CD709664D384.jpg?v=1785842327"
+  },
+  "gid://shopify/ProductVariant/51564463554866": {
+    "product_title": "Elegant Victorian Bird Pendant And Earrings Set",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1750.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/elegant-victorian-bird-pendant-and-earrings-set?variant=gid://shopify/ProductVariant/51564463554866",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/7C75C347-E5BD-4C46-AF48-92483992FA66.jpg?v=1786528474"
   }
 }
