@@ -16078,7 +16078,7 @@
     "variant_title": "Default Title",
     "sku": "R24972",
     "price": 27115.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/berundesh-kundan-pendant?variant=gid://shopify/ProductVariant/52748844794153",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5405_resized.jpg?v=1772539240"
   },
@@ -20861,15 +20861,6 @@
     "url": "https://www.rasasilver.com/products/floral-foliage-cz-ring?variant=gid://shopify/ProductVariant/53163542151465",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_11May0248_resized.jpg?v=1780919047"
   },
-  "gid://shopify/ProductVariant/53163557454121": {
-    "product_title": "Pear-Heart Ring",
-    "variant_title": "Default Title",
-    "sku": "R27547",
-    "price": 2380.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/twin-teardrops-cz-ring?variant=gid://shopify/ProductVariant/53163557454121",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_11May0208_resized.jpg?v=1780919352"
-  },
   "gid://shopify/ProductVariant/53163576721705": {
     "product_title": "Oval Drop CZ Ring",
     "variant_title": "Default Title",
@@ -22661,15 +22652,6 @@
     "url": "https://www.rasasilver.com/products/zariya-green-stone-danglers?variant=gid://shopify/ProductVariant/53290441441577",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2252_resized.jpg?v=1782735821"
   },
-  "gid://shopify/ProductVariant/53290401956137": {
-    "product_title": "Belli Spark Stone Danglers",
-    "variant_title": "Default Title",
-    "sku": "R31812",
-    "price": 2890.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/belli-spark-stone-danglers?variant=gid://shopify/ProductVariant/53290401956137",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2306_resized_1.jpg?v=1782735926"
-  },
   "gid://shopify/ProductVariant/53290402021673": {
     "product_title": "Manikya Pear Stone Danglers",
     "variant_title": "Default Title",
@@ -22873,7 +22855,7 @@
     "variant_title": "Default Title",
     "sku": "R31426",
     "price": 10115.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/crystal-drop-stone-necklace?variant=gid://shopify/ProductVariant/53290769842473",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0666_resized.jpg?v=1783594406"
   },
@@ -44441,6 +44423,15 @@
     "url": "https://www.rasasilver.com/products/bichiya-grace-rings-copy?variant=gid://shopify/ProductVariant/53163525243177",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11944_resized.jpg?v=1780843670"
   },
+  "gid://shopify/ProductVariant/53163557454121": {
+    "product_title": "Pear-Heart Ring",
+    "variant_title": "Default Title",
+    "sku": "R27547",
+    "price": 2380.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/twin-teardrops-cz-ring?variant=gid://shopify/ProductVariant/53163557454121",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_11May0208_resized.jpg?v=1780919352"
+  },
   "gid://shopify/ProductVariant/53163582325033": {
     "product_title": "Bloom Spark Toe Rings",
     "variant_title": "Default Title",
@@ -45286,6 +45277,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/zariya-green-stone-danglers?variant=gid://shopify/ProductVariant/53290441408809",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2252_resized.jpg?v=1782735821"
+  },
+  "gid://shopify/ProductVariant/53290401956137": {
+    "product_title": "Belli Spark Stone Danglers",
+    "variant_title": "Default Title",
+    "sku": "R31812",
+    "price": 2890.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/belli-spark-stone-danglers?variant=gid://shopify/ProductVariant/53290401956137",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2306_resized_1.jpg?v=1782735926"
   },
   "gid://shopify/ProductVariant/53290470867241": {
     "product_title": "Pear-Navaratna Pendant Set",
