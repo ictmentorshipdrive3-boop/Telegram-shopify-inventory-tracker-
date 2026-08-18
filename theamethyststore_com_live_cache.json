@@ -29029,7 +29029,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-117-0247",
     "price": 2100.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/ilyra-toe-ring?variant=gid://shopify/ProductVariant/47019612864739",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0247_1.jpg?v=1755071180"
   },
@@ -29050,15 +29050,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/lurya-toe-ring?variant=gid://shopify/ProductVariant/47019628134627",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0249.jpg?v=1755071784"
-  },
-  "gid://shopify/ProductVariant/47019642126563": {
-    "product_title": "Olyra Toe Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-117-0250",
-    "price": 2100.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/olyra-toe-ring?variant=gid://shopify/ProductVariant/47019642126563",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0250.jpg?v=1755072328"
   },
   "gid://shopify/ProductVariant/47019644616931": {
     "product_title": "Nyria Toe Ring",
@@ -38068,15 +38059,6 @@
     "stock": 4,
     "url": "https://www.theamethyststore.com/products/aron-silver-cufflinks?variant=gid://shopify/ProductVariant/47202387493091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-120-0148.jpg?v=1758717713"
-  },
-  "gid://shopify/ProductVariant/47202395554019": {
-    "product_title": "Mystic Toe Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-117-0479",
-    "price": 1700.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/mystic-toe-ring?variant=gid://shopify/ProductVariant/47202395554019",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0479.jpg?v=1758718047"
   },
   "gid://shopify/ProductVariant/47202413773027": {
     "product_title": "Classic Toe Ring",
@@ -109142,6 +109124,15 @@
     "url": "https://www.theamethyststore.com/products/venilla-stone-long-earrings?variant=gid://shopify/ProductVariant/47009481588963",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9955.jpg?v=1755003773"
   },
+  "gid://shopify/ProductVariant/47019642126563": {
+    "product_title": "Olyra Toe Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-117-0250",
+    "price": 2100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/olyra-toe-ring?variant=gid://shopify/ProductVariant/47019642126563",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0250.jpg?v=1755072328"
+  },
   "gid://shopify/ProductVariant/47020111167715": {
     "product_title": "Geeth Toe Ring",
     "variant_title": "Default Title",
@@ -110734,6 +110725,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/blue-floral-toe-ring?variant=gid://shopify/ProductVariant/47202228830435",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0372.jpg?v=1758714481"
+  },
+  "gid://shopify/ProductVariant/47202395554019": {
+    "product_title": "Mystic Toe Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-117-0479",
+    "price": 1700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/mystic-toe-ring?variant=gid://shopify/ProductVariant/47202395554019",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0479.jpg?v=1758718047"
   },
   "gid://shopify/ProductVariant/47202468823267": {
     "product_title": "Glimmer Diamond Design Pair Bangle",
