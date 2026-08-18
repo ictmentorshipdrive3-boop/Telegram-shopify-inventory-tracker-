@@ -20186,15 +20186,6 @@
     "url": "https://www.rasasilver.com/products/morni-floral-nakshi-bangles?variant=gid://shopify/ProductVariant/53149212475689",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11550_resized.jpg?v=1780921787"
   },
-  "gid://shopify/ProductVariant/53149232562473": {
-    "product_title": "Ruhani Oxidized Bangles",
-    "variant_title": "Default Title",
-    "sku": "R12927",
-    "price": 23800.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/ruhani-oxidized-bangles?variant=gid://shopify/ProductVariant/53149232562473",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11564_resized.jpg?v=1780921987"
-  },
   "gid://shopify/ProductVariant/53149244817705": {
     "product_title": "Triple-Phool Oxidized Bangles",
     "variant_title": "Default Title",
@@ -21382,15 +21373,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/florisha-moon-stone-maang-tikka?variant=gid://shopify/ProductVariant/53271415488809",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_261924_resized.jpg?v=1781677148"
-  },
-  "gid://shopify/ProductVariant/53271416996137": {
-    "product_title": "Dwi-Mayura Stone Maang Tikka",
-    "variant_title": "Default Title",
-    "sku": "R28622",
-    "price": 5695.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/stone-maang-tikka-2?variant=gid://shopify/ProductVariant/53271416996137",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_261914_resized.jpg?v=1781677783"
   },
   "gid://shopify/ProductVariant/53271433478441": {
     "product_title": "Sharvika Stone Maang Tikka",
@@ -44225,6 +44207,15 @@
     "url": "https://www.rasasilver.com/products/opulent-circle-hoops?variant=gid://shopify/ProductVariant/53149229646121",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0291_resized.jpg?v=1780380925"
   },
+  "gid://shopify/ProductVariant/53149232562473": {
+    "product_title": "Ruhani Oxidized Bangles",
+    "variant_title": "Default Title",
+    "sku": "R12927",
+    "price": 23800.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ruhani-oxidized-bangles?variant=gid://shopify/ProductVariant/53149232562473",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11564_resized.jpg?v=1780921987"
+  },
   "gid://shopify/ProductVariant/53149272277289": {
     "product_title": "Eternal Link Bracelet",
     "variant_title": "Default Title",
@@ -44692,6 +44683,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/mayurisha-stone-maang-tikka?variant=gid://shopify/ProductVariant/53271413850409",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_261882_resized_1.jpg?v=1781676711"
+  },
+  "gid://shopify/ProductVariant/53271416996137": {
+    "product_title": "Dwi-Mayura Stone Maang Tikka",
+    "variant_title": "Default Title",
+    "sku": "R28622",
+    "price": 5695.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/stone-maang-tikka-2?variant=gid://shopify/ProductVariant/53271416996137",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_261914_resized.jpg?v=1781677783"
   },
   "gid://shopify/ProductVariant/53271440097577": {
     "product_title": "Rosanika Stone Maang Tikka",
