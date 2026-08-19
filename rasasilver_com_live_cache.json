@@ -12923,15 +12923,6 @@
     "url": "https://www.rasasilver.com/products/victorian-orchid-studs?variant=gid://shopify/ProductVariant/52469938618665",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan1084_resized.jpg?v=1769585569"
   },
-  "gid://shopify/ProductVariant/52469951693097": {
-    "product_title": "Frosted Victorian Studs",
-    "variant_title": "Default Title",
-    "sku": "R20924",
-    "price": 12920.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/frosted-victorian-studs?variant=gid://shopify/ProductVariant/52469951693097",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan1090_resized.jpg?v=1769585662"
-  },
   "gid://shopify/ProductVariant/52479316295977": {
     "product_title": "Srikari Nakshi Bangles",
     "variant_title": "2.4",
@@ -13684,7 +13675,7 @@
     "variant_title": "2.6",
     "sku": "R24459",
     "price": 41820.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/duchess-oval-victorian-bangles?variant=gid://shopify/ProductVariant/52535462461737",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_113_Pics_29Jan4093.jpg?v=1770287868"
   },
@@ -37753,6 +37744,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/carved-victorain-pendant?variant=gid://shopify/ProductVariant/52469624996137",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan1070_resized.jpg?v=1769084135"
+  },
+  "gid://shopify/ProductVariant/52469951693097": {
+    "product_title": "Frosted Victorian Studs",
+    "variant_title": "Default Title",
+    "sku": "R20924",
+    "price": 12920.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/frosted-victorian-studs?variant=gid://shopify/ProductVariant/52469951693097",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan1090_resized.jpg?v=1769585662"
   },
   "gid://shopify/ProductVariant/52469972730153": {
     "product_title": "Green Victorian Studs",
