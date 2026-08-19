@@ -28678,7 +28678,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-1411",
     "price": 4000.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/nakchatra-stone-ring?variant=gid://shopify/ProductVariant/47008956973283",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1411.jpg?v=1754991759"
   },
@@ -67481,15 +67481,6 @@
     "url": "https://www.theamethyststore.com/products/kaasu-malai-necklace?variant=gid://shopify/ProductVariant/48842774708451",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15334_2.jpg?v=1776690833"
   },
-  "gid://shopify/ProductVariant/48842794729699": {
-    "product_title": "Kavishka Kaasu Malai Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15336",
-    "price": 113300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kavishka-kaasu-malai-necklace?variant=gid://shopify/ProductVariant/48842794729699",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15336_2.jpg?v=1776691152"
-  },
   "gid://shopify/ProductVariant/48857579880675": {
     "product_title": "Trendy Studs",
     "variant_title": "Default Title",
@@ -97973,15 +97964,6 @@
     "url": "https://www.theamethyststore.com/products/nagas-choker-12?variant=gid://shopify/ProductVariant/49524014448867",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17607.jpg?v=1786510485"
   },
-  "gid://shopify/ProductVariant/49524020216035": {
-    "product_title": "Yalisha Nagas Choker",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17608",
-    "price": 31300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nagas-choker-13?variant=gid://shopify/ProductVariant/49524020216035",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17608.jpg?v=1786510802"
-  },
   "gid://shopify/ProductVariant/49524023361763": {
     "product_title": "Thrishka Nagas Choker",
     "variant_title": "Default Title",
@@ -117350,6 +117332,15 @@
     "url": "https://www.theamethyststore.com/products/perumal-3d-spl-pendant?variant=gid://shopify/ProductVariant/48842771300579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3913.jpg?v=1776690558"
   },
+  "gid://shopify/ProductVariant/48842794729699": {
+    "product_title": "Kavishka Kaasu Malai Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15336",
+    "price": 113300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kavishka-kaasu-malai-necklace?variant=gid://shopify/ProductVariant/48842794729699",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15336_2.jpg?v=1776691152"
+  },
   "gid://shopify/ProductVariant/48857433276643": {
     "product_title": "Luxurious 3D Spl Long Necklace Set",
     "variant_title": "Default Title",
@@ -123253,6 +123244,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/testing-lmx?variant=gid://shopify/ProductVariant/49519917891811",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_jpg_df2c206f-8fda-456b-8e49-4954ebb24623.jpg?v=1786432571"
+  },
+  "gid://shopify/ProductVariant/49524020216035": {
+    "product_title": "Yalisha Nagas Choker",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17608",
+    "price": 31300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-choker-13?variant=gid://shopify/ProductVariant/49524020216035",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17608.jpg?v=1786510802"
   },
   "gid://shopify/ProductVariant/49524094533859": {
     "product_title": "Glowing Kundan Brooch Pin",
