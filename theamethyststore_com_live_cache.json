@@ -4819,7 +4819,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-4448",
     "price": 5300.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/conito-navarathna-studs?variant=gid://shopify/ProductVariant/43852694651107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-4448.jpg?v=1684393728"
   },
@@ -48985,15 +48985,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/hiralini-short-necklace?variant=gid://shopify/ProductVariant/47721717924067",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13159.jpg?v=1765351132"
-  },
-  "gid://shopify/ProductVariant/47721729196259": {
-    "product_title": "Facinate Stud",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-11477",
-    "price": 7079.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/facinate-stud?variant=gid://shopify/ProductVariant/47721729196259",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11477.jpg?v=1765351863"
   },
   "gid://shopify/ProductVariant/47721758523619": {
     "product_title": "Shinning Stud",
@@ -113038,6 +113029,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/fabulous-stud?variant=gid://shopify/ProductVariant/47721722085603",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11475.jpg?v=1765351340"
+  },
+  "gid://shopify/ProductVariant/47721729196259": {
+    "product_title": "Facinate Stud",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-11477",
+    "price": 7079.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/facinate-stud?variant=gid://shopify/ProductVariant/47721729196259",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11477.jpg?v=1765351863"
   },
   "gid://shopify/ProductVariant/47721732669667": {
     "product_title": "Chic & Trendy Stud",
