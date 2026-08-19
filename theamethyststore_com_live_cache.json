@@ -85319,15 +85319,6 @@
     "url": "https://www.theamethyststore.com/products/hasli-with-pendant-set-10?variant=gid://shopify/ProductVariant/49394476318947",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16592.jpg?v=1783773305"
   },
-  "gid://shopify/ProductVariant/49394493391075": {
-    "product_title": "Elinkaa Hasli with Pendant Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16593",
-    "price": 18300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/hasli-with-pendant-set-11?variant=gid://shopify/ProductVariant/49394493391075",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16593.jpg?v=1783774069"
-  },
   "gid://shopify/ProductVariant/49394502271203": {
     "product_title": "Shristikaa Hasli with Pendant Set",
     "variant_title": "Default Title",
@@ -103498,6 +103489,24 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/bugadi-earrings-39?variant=gid://shopify/ProductVariant/49560076550371",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15796.jpg?v=1787147070"
+  },
+  "gid://shopify/ProductVariant/49560079597795": {
+    "product_title": "Navika Bugadi Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15799",
+    "price": 6550.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/bugadi-earrings-40?variant=gid://shopify/ProductVariant/49560079597795",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15799.jpg?v=1787148511"
+  },
+  "gid://shopify/ProductVariant/49560153686243": {
+    "product_title": "Pranavi Bugadi Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15803",
+    "price": 4200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/bugadi-earrings-41?variant=gid://shopify/ProductVariant/49560153686243",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15803.jpg?v=1787148612"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -122470,6 +122479,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/hasli-necklace-59?variant=gid://shopify/ProductVariant/49394421694691",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16539.jpg?v=1783770248"
+  },
+  "gid://shopify/ProductVariant/49394493391075": {
+    "product_title": "Elinkaa Hasli with Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16593",
+    "price": 18300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/hasli-with-pendant-set-11?variant=gid://shopify/ProductVariant/49394493391075",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16593.jpg?v=1783774069"
   },
   "gid://shopify/ProductVariant/49394499059939": {
     "product_title": "Attractive Hasli with Pendant Set",
