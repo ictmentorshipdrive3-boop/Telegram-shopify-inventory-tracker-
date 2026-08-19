@@ -5782,7 +5782,7 @@
     "variant_title": "9 Inches",
     "sku": "AMS-119-0001-ML",
     "price": 4800.0,
-    "stock": 29,
+    "stock": 28,
     "url": "https://www.theamethyststore.com/products/fish-hook-back-chain?variant=gid://shopify/ProductVariant/43970730000611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_21dbdd2e-d30a-4019-816f-52833d641d9a.jpg?v=1693456844"
   },
@@ -7621,15 +7621,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/prathija-stone-choker?variant=gid://shopify/ProductVariant/44365453263075",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5517.jpg?v=1707053240"
-  },
-  "gid://shopify/ProductVariant/44365458899171": {
-    "product_title": "Sharmik Stone Choker",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-5533",
-    "price": 45672.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/sharmik-stone-choker?variant=gid://shopify/ProductVariant/44365458899171",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5533.jpg?v=1707054323"
   },
   "gid://shopify/ProductVariant/44365459947747": {
     "product_title": "Skanda Short Kundan Necklace",
@@ -30967,15 +30958,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/liara-ring?variant=gid://shopify/ProductVariant/47048918499555",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1206.jpg?v=1755856011"
-  },
-  "gid://shopify/ProductVariant/47048920498403": {
-    "product_title": "Calista Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-1207",
-    "price": 7956.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/calista-ring-1?variant=gid://shopify/ProductVariant/47048920498403",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1207.jpg?v=1755856124"
   },
   "gid://shopify/ProductVariant/47048934064355": {
     "product_title": "Dual Charms Oddiyanam",
@@ -86655,7 +86637,7 @@
     "product_title": "Charm Cutie Diamond Design Pendant",
     "variant_title": "Default Title",
     "sku": "AMS-104-4664",
-    "price": 5500.0,
+    "price": 6300.0,
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/diamond-design-pendant-17?variant=gid://shopify/ProductVariant/49415046856931",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4664.jpg?v=1784202034"
@@ -91492,15 +91474,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-bracelet-21?variant=gid://shopify/ProductVariant/49476230971619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1370.jpg?v=1785415555"
-  },
-  "gid://shopify/ProductVariant/49476231069923": {
-    "product_title": "Grand Luxe Kundan Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17140",
-    "price": 39350.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/grand-luxe-kundan-short-necklace-1?variant=gid://shopify/ProductVariant/49476231069923",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17140.jpg?v=1785415584"
   },
   "gid://shopify/ProductVariant/49476231954659": {
     "product_title": "Hanisha Stone Bracelet",
@@ -105344,6 +105317,15 @@
     "url": "https://www.theamethyststore.com/products/preshiti-maangtikka-2?variant=gid://shopify/ProductVariant/44364075630819",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-0992-_2_ae1acb76-af5a-4772-bb1c-022b028993ff.jpg?v=1735457379"
   },
+  "gid://shopify/ProductVariant/44365458899171": {
+    "product_title": "Sharmik Stone Choker",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-5533",
+    "price": 45672.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/sharmik-stone-choker?variant=gid://shopify/ProductVariant/44365458899171",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5533.jpg?v=1707054323"
+  },
   "gid://shopify/ProductVariant/44370494587107": {
     "product_title": "Sanadhan Nagas Pendant",
     "variant_title": "Default Title",
@@ -109942,6 +109924,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/shrinika-chain?variant=gid://shopify/ProductVariant/47046809354467",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1128.jpg?v=1755843476"
+  },
+  "gid://shopify/ProductVariant/47048920498403": {
+    "product_title": "Calista Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-1207",
+    "price": 7956.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/calista-ring-1?variant=gid://shopify/ProductVariant/47048920498403",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1207.jpg?v=1755856124"
   },
   "gid://shopify/ProductVariant/47048953528547": {
     "product_title": "Unique Long Earrings",
@@ -123100,6 +123091,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/lunara-chandhubaali-earrings?variant=gid://shopify/ProductVariant/49476111958243",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15111.jpg?v=1785409303"
+  },
+  "gid://shopify/ProductVariant/49476231069923": {
+    "product_title": "Grand Luxe Kundan Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17140",
+    "price": 39350.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/grand-luxe-kundan-short-necklace-1?variant=gid://shopify/ProductVariant/49476231069923",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17140.jpg?v=1785415584"
   },
   "gid://shopify/ProductVariant/49476501176547": {
     "product_title": "Charming Kundan Jhumkas",
