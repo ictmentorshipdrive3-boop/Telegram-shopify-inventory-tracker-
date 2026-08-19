@@ -5773,7 +5773,7 @@
     "variant_title": "9 Inches",
     "sku": "AMS-119-0001-ML",
     "price": 4800.0,
-    "stock": 30,
+    "stock": 29,
     "url": "https://www.theamethyststore.com/products/fish-hook-back-chain?variant=gid://shopify/ProductVariant/43970730000611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_21dbdd2e-d30a-4019-816f-52833d641d9a.jpg?v=1693456844"
   },
@@ -73241,15 +73241,6 @@
     "url": "https://www.theamethyststore.com/products/harshika-3d-spl-short-necklace?variant=gid://shopify/ProductVariant/48975093694691",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15814.jpg?v=1779025186"
   },
-  "gid://shopify/ProductVariant/48975130198243": {
-    "product_title": "Amazing 3D Spl Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15813",
-    "price": 13024.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/amazing-3d-spl-short-necklace-3?variant=gid://shopify/ProductVariant/48975130198243",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15813.jpg?v=1779025333"
-  },
   "gid://shopify/ProductVariant/48987122270435": {
     "product_title": "Methika Short Necklace set",
     "variant_title": "Default Title",
@@ -75289,7 +75280,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-2306",
     "price": 11520.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/upasana-hair-maatal?variant=gid://shopify/ProductVariant/49252753178851",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2306.jpg?v=1781268616"
   },
@@ -119095,6 +119086,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/divine-look-3d-spl-short-necklace-2?variant=gid://shopify/ProductVariant/48975045755107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15812_9f5b07bf-de9e-451a-9cd7-487a9a612613.jpg?v=1782802730"
+  },
+  "gid://shopify/ProductVariant/48975130198243": {
+    "product_title": "Amazing 3D Spl Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15813",
+    "price": 13024.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/amazing-3d-spl-short-necklace-3?variant=gid://shopify/ProductVariant/48975130198243",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15813.jpg?v=1779025333"
   },
   "gid://shopify/ProductVariant/48987205992675": {
     "product_title": "Vihaana Short Necklace Set",
