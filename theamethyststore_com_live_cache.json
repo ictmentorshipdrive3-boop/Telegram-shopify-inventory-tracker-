@@ -2533,7 +2533,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-0297",
     "price": 7400.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/callie-kundan-ring?variant=gid://shopify/ProductVariant/43321216434403",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-101-0297.jpg?v=1662721704"
   },
@@ -76454,15 +76454,6 @@
     "url": "https://www.theamethyststore.com/products/3d-spl-jhumkas-2?variant=gid://shopify/ProductVariant/49276075147491",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14207.jpg?v=1781769371"
   },
-  "gid://shopify/ProductVariant/49276103426275": {
-    "product_title": "Trishiya 3D Spl Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14208",
-    "price": 22400.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/3d-spl-jhumkas-3?variant=gid://shopify/ProductVariant/49276103426275",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14208.jpg?v=1781769628"
-  },
   "gid://shopify/ProductVariant/49276164538595": {
     "product_title": "Dazzling Nagas Long Necklace",
     "variant_title": "Default Title",
@@ -120184,6 +120175,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nagas-short-necklace-50?variant=gid://shopify/ProductVariant/49275943321827",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16024.jpg?v=1781768492"
+  },
+  "gid://shopify/ProductVariant/49276103426275": {
+    "product_title": "Trishiya 3D Spl Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14208",
+    "price": 22400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/3d-spl-jhumkas-3?variant=gid://shopify/ProductVariant/49276103426275",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14208.jpg?v=1781769628"
   },
   "gid://shopify/ProductVariant/49276139372771": {
     "product_title": "Henisha 3D Spl Jhumkas",
