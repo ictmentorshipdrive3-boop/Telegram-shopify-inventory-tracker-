@@ -103616,15 +103616,6 @@
     "url": "https://www.theamethyststore.com/products/bugadi-earrings-28?variant=gid://shopify/ProductVariant/49556911227107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15824.jpg?v=1787060566"
   },
-  "gid://shopify/ProductVariant/49559427514595": {
-    "product_title": "Victorian Earings",
-    "variant_title": "Default Title",
-    "sku": "562-A70707",
-    "price": 21800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/victorian?variant=gid://shopify/ProductVariant/49559427514595",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/WhatsAppImage2026-08-19at12.49.32PM.jpg?v=1787124172"
-  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -123298,5 +123289,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/dazzle-diamond-design-pair-bangles?variant=gid://shopify/ProductVariant/49527851581667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3401_2.jpg?v=1786622211"
+  },
+  "gid://shopify/ProductVariant/49559427514595": {
+    "product_title": "Victorian Earings",
+    "variant_title": "Default Title",
+    "sku": "562-A70707",
+    "price": 21800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/victorian?variant=gid://shopify/ProductVariant/49559427514595",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/WhatsAppImage2026-08-19at12.49.32PM.jpg?v=1787124172"
   }
 }
