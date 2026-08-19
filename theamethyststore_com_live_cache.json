@@ -87344,15 +87344,6 @@
     "url": "https://www.theamethyststore.com/products/kundan-jhumkas-15?variant=gid://shopify/ProductVariant/49421304791267",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15428.jpg?v=1784291314"
   },
-  "gid://shopify/ProductVariant/49421305086179": {
-    "product_title": "Facinate Avikam Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16806",
-    "price": 61900.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/facinate-avikam-necklace-set?variant=gid://shopify/ProductVariant/49421305086179",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16806.jpg?v=1784291346"
-  },
   "gid://shopify/ProductVariant/49421305217251": {
     "product_title": "Mesmerizing Avikam Necklace Set",
     "variant_title": "Default Title",
@@ -95710,7 +95701,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17484",
     "price": 28420.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/ashikha-kundan-short-necklace?variant=gid://shopify/ProductVariant/49507803824355",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17484.jpg?v=1786085352"
   },
@@ -101236,7 +101227,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15719",
     "price": 13700.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/charvi-kundan-studs?variant=gid://shopify/ProductVariant/49542420889827",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15719.jpg?v=1786865036"
   },
@@ -102865,7 +102856,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15145",
     "price": 7460.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/sparkling-stone-studs-2?variant=gid://shopify/ProductVariant/49553309040867",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15145.jpg?v=1787036670"
   },
@@ -122677,6 +122668,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/vikitha-avikam-necklace-set?variant=gid://shopify/ProductVariant/49421201932515",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16780.jpg?v=1784284907"
+  },
+  "gid://shopify/ProductVariant/49421305086179": {
+    "product_title": "Facinate Avikam Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16806",
+    "price": 61900.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/facinate-avikam-necklace-set?variant=gid://shopify/ProductVariant/49421305086179",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16806.jpg?v=1784291346"
   },
   "gid://shopify/ProductVariant/49421371375843": {
     "product_title": "Shine Charm Kundan Short Necklace",
