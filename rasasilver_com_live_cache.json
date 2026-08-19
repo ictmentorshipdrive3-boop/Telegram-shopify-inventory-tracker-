@@ -7523,15 +7523,6 @@
     "url": "https://www.rasasilver.com/products/rubenelle-pendant?variant=gid://shopify/ProductVariant/51441029841193",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0029copy_resized.jpg?v=1761722024"
   },
-  "gid://shopify/ProductVariant/51441045504297": {
-    "product_title": "Pearmukta Gem Pendant",
-    "variant_title": "Default Title",
-    "sku": "R15269",
-    "price": 10600.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/pearmukta-pendant?variant=gid://shopify/ProductVariant/51441045504297",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0141copy_resized_c8ab29aa-5614-40c0-8ccc-6e8fce150232.jpg?v=1761721991"
-  },
   "gid://shopify/ProductVariant/51441071653161": {
     "product_title": "Emerald Petaline Pendant",
     "variant_title": "Default Title",
@@ -26423,13 +26414,13 @@
     "url": "https://www.rasasilver.com/products/ruvayika-antique-danglers-copy?variant=gid://shopify/ProductVariant/53419110760745",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_42_51Pics0652.jpg?v=1786953143"
   },
-  "gid://shopify/ProductVariant/53430645883177": {
+  "gid://shopify/ProductVariant/53437048815913": {
     "product_title": "Swarna Lehar Kundan Matil",
-    "variant_title": "Default Title",
+    "variant_title": "Swarovski",
     "sku": "R33765",
     "price": 17100.0,
     "stock": 1,
-    "url": "https://www.rasasilver.com/products/maharani-pearl-kundan-matil-copy?variant=gid://shopify/ProductVariant/53430645883177",
+    "url": "https://www.rasasilver.com/products/maharani-pearl-kundan-matil-copy?variant=gid://shopify/ProductVariant/53437048815913",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0840.jpg?v=1787059395"
   },
   "gid://shopify/ProductVariant/53431577313577": {
@@ -31264,6 +31255,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/moti-kireeta-danglers?variant=gid://shopify/ProductVariant/51435374510377",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0378_copy.jpg?v=1777373798"
+  },
+  "gid://shopify/ProductVariant/51441045504297": {
+    "product_title": "Pearmukta Gem Pendant",
+    "variant_title": "Default Title",
+    "sku": "R15269",
+    "price": 10600.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/pearmukta-pendant?variant=gid://shopify/ProductVariant/51441045504297",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0141copy_resized_c8ab29aa-5614-40c0-8ccc-6e8fce150232.jpg?v=1761721991"
   },
   "gid://shopify/ProductVariant/51441178116393": {
     "product_title": "Floravia Pendant",
@@ -47230,5 +47230,14 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/kundan-berunda-necklace-copy?variant=gid://shopify/ProductVariant/53429712683305",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0858.jpg?v=1787059024"
+  },
+  "gid://shopify/ProductVariant/53437048848681": {
+    "product_title": "Swarna Lehar Kundan Matil",
+    "variant_title": "Ruby Pink",
+    "sku": "R33766",
+    "price": 17600.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/maharani-pearl-kundan-matil-copy?variant=gid://shopify/ProductVariant/53437048848681",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0840.jpg?v=1787059395"
   }
 }
