@@ -1318,7 +1318,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 3000.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-jhumkas-with-pearl-and-natural-strawberry-beads-10?variant=gid://shopify/ProductVariant/52971511447868",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260407_193648_3815b6e4-afc5-4df4-b925-3059da9c60f7.webp?v=1775827219"
   },
@@ -1492,15 +1492,6 @@
     "stock": 2,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-moissonite-polki-peacock-pendant-pearls-beads-mala?variant=gid://shopify/ProductVariant/52991727698236",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260407_182610_42542e36-0a02-43c2-b494-f6d1ec2acd4c.webp?v=1776437479"
-  },
-  "gid://shopify/ProductVariant/53016630329660": {
-    "product_title": "Temple/Antique peacock bangles multi colour (Pair)",
-    "variant_title": "2.4",
-    "sku": null,
-    "price": 900.0,
-    "stock": 1,
-    "url": "https://www.muskanjewel.com/products/temple-antique-peacock-bangles-multi-colour-pair?variant=gid://shopify/ProductVariant/53016630329660",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260427_111051_76e7c9d2-b8e3-4b0f-84cc-21f6289d7a97.webp?v=1777382056"
   },
   "gid://shopify/ProductVariant/53016630362428": {
     "product_title": "Temple/Antique peacock bangles multi colour (Pair)",
@@ -2491,6 +2482,15 @@
     "stock": 0,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-sun-moon-hair-accessories?variant=gid://shopify/ProductVariant/52801987084604",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260226_035747_2a55559c-43a6-4b44-aa16-69df10e5f230.jpg?v=1772108256"
+  },
+  "gid://shopify/ProductVariant/53016630329660": {
+    "product_title": "Temple/Antique peacock bangles multi colour (Pair)",
+    "variant_title": "2.4",
+    "sku": null,
+    "price": 900.0,
+    "stock": 0,
+    "url": "https://www.muskanjewel.com/products/temple-antique-peacock-bangles-multi-colour-pair?variant=gid://shopify/ProductVariant/53016630329660",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260427_111051_76e7c9d2-b8e3-4b0f-84cc-21f6289d7a97.webp?v=1777382056"
   },
   "gid://shopify/ProductVariant/53016663294268": {
     "product_title": "Temple/Antique goddess laxmi peacock bangles (pair)",
