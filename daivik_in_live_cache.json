@@ -4459,7 +4459,7 @@
     "variant_title": "Pink",
     "sku": "364",
     "price": 999.0,
-    "stock": 31,
+    "stock": 30,
     "url": "https://www.daivik.in/products/untitled-aug24_21-15?variant=gid://shopify/ProductVariant/44323138273502",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D1221F9B-4B46-4FCA-A426-121C0CBF2979.jpg?v=1697109021"
   },
@@ -21113,15 +21113,6 @@
     "url": "https://www.daivik.in/products/ad-pink-bangle-combo-price-for-both-hands?variant=gid://shopify/ProductVariant/48594088132830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1455.jpg?v=1786552757"
   },
-  "gid://shopify/ProductVariant/48597123268830": {
-    "product_title": "AD Hanging Pendants Earcuff in 2 Colors (Price for Each)",
-    "variant_title": "Ruby",
-    "sku": "1948",
-    "price": 1399.0,
-    "stock": 2,
-    "url": "https://www.daivik.in/products/ad-hanging-pendants-earcuff-in-2-colors-price-for-each?variant=gid://shopify/ProductVariant/48597123268830",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1249.jpg?v=1786618747"
-  },
   "gid://shopify/ProductVariant/48597722071262": {
     "product_title": "Kemp Hasli Necklace with Earrings",
     "variant_title": "Default Title",
@@ -30733,6 +30724,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/kemp-ruby-green-flower-jhumkas-1?variant=gid://shopify/ProductVariant/48588136022238",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5680.jpg?v=1786368472"
+  },
+  "gid://shopify/ProductVariant/48597123268830": {
+    "product_title": "AD Hanging Pendants Earcuff in 2 Colors (Price for Each)",
+    "variant_title": "Ruby",
+    "sku": "1948",
+    "price": 1399.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-hanging-pendants-earcuff-in-2-colors-price-for-each?variant=gid://shopify/ProductVariant/48597123268830",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1249.jpg?v=1786618747"
   },
   "gid://shopify/ProductVariant/48597123301598": {
     "product_title": "AD Hanging Pendants Earcuff in 2 Colors (Price for Each)",
