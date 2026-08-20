@@ -2290,7 +2290,7 @@
     "variant_title": "Default Title",
     "sku": "ER382",
     "price": 2415.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-stud-earrings-29?variant=gid://shopify/ProductVariant/46472990523692",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2300.jpg?v=1692607020"
   },
@@ -10583,15 +10583,6 @@
     "url": "https://www.kanshijewels.com/products/gold-look-dulhan-chokar?variant=gid://shopify/ProductVariant/53256110768428",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1_9d80eef0-f344-49c5-aa99-4e7ae9e7783c.png?v=1780320388"
   },
-  "gid://shopify/ProductVariant/53331945455916": {
-    "product_title": "Elegant Victorian Emerald",
-    "variant_title": "Default Title",
-    "sku": "ER520",
-    "price": 450.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/elegant-victorian-emerald?variant=gid://shopify/ProductVariant/53331945455916",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Screenshot2026-06-16144512.png?v=1781601374"
-  },
   "gid://shopify/ProductVariant/53345299792172": {
     "product_title": "Elegant blue cutting with pearls sleek chain necklace",
     "variant_title": "Default Title",
@@ -14002,6 +13993,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/classic-victorian-polki-studs?variant=gid://shopify/ProductVariant/53331903611180",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Screenshot2026-06-16142931.png?v=1781600432"
+  },
+  "gid://shopify/ProductVariant/53331945455916": {
+    "product_title": "Elegant Victorian Emerald",
+    "variant_title": "Default Title",
+    "sku": "ER520",
+    "price": 450.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/elegant-victorian-emerald?variant=gid://shopify/ProductVariant/53331945455916",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Screenshot2026-06-16144512.png?v=1781601374"
   },
   "gid://shopify/ProductVariant/53368843338028": {
     "product_title": "Elegant dual tone gold silver chain",
