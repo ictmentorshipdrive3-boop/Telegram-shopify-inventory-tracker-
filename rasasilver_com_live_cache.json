@@ -121,7 +121,7 @@
     "variant_title": "Default Title",
     "sku": "R1526",
     "price": 2890.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.rasasilver.com/products/kundan-nath?variant=gid://shopify/ProductVariant/49855900451113",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-34_d498d6ad-5c3a-4fdf-b147-520b19be8a5a.jpg?v=1739427458"
   },
@@ -19916,15 +19916,6 @@
     "url": "https://www.rasasilver.com/products/phoolkari-oxidized-payal?variant=gid://shopify/ProductVariant/53149428678953",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0689_resized.jpg?v=1780925710"
   },
-  "gid://shopify/ProductVariant/53149452468521": {
-    "product_title": "Greena-Pink Oxidised Payal",
-    "variant_title": "Default Title",
-    "sku": "R13223",
-    "price": 7756.25,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/greena-pink-oxidized-payal?variant=gid://shopify/ProductVariant/53149452468521",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0712_resized.jpg?v=1780936095"
-  },
   "gid://shopify/ProductVariant/53149510566185": {
     "product_title": "Veloura Circles Studs",
     "variant_title": "Default Title",
@@ -24209,15 +24200,6 @@
     "url": "https://www.rasasilver.com/products/vasantika-antique-studs?variant=gid://shopify/ProductVariant/53349015355689",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0239.jpg?v=1786341331"
   },
-  "gid://shopify/ProductVariant/53349025055017": {
-    "product_title": "Navaratna Moissanite Necklace",
-    "variant_title": "Default Title",
-    "sku": "R30875",
-    "price": 31280.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/navaratna-moissanite-necklace?variant=gid://shopify/ProductVariant/53349025055017",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0323.jpg?v=1786368088"
-  },
   "gid://shopify/ProductVariant/53349149114665": {
     "product_title": "Luxe Brilliance Moissanite Necklace",
     "variant_title": "Default Title",
@@ -25258,7 +25240,7 @@
     "variant_title": "Default Title",
     "sku": "R33284",
     "price": 75500.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/mango-royale-cz-choker-set?variant=gid://shopify/ProductVariant/53374196154665",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0294_resized.jpg?v=1785920498"
   },
@@ -44153,6 +44135,15 @@
     "url": "https://www.rasasilver.com/products/aarna-bracelet?variant=gid://shopify/ProductVariant/53149330932009",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsApp_Image_2026-08-03_at_3.47.24_PM.jpg?v=1785752293"
   },
+  "gid://shopify/ProductVariant/53149452468521": {
+    "product_title": "Greena-Pink Oxidised Payal",
+    "variant_title": "Default Title",
+    "sku": "R13223",
+    "price": 7756.25,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/greena-pink-oxidized-payal?variant=gid://shopify/ProductVariant/53149452468521",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0712_resized.jpg?v=1780936095"
+  },
   "gid://shopify/ProductVariant/53149470982441": {
     "product_title": "Oxidised Phool Payal",
     "variant_title": "Default Title",
@@ -46024,6 +46015,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/celestial-petal-moissanite-bracelet?variant=gid://shopify/ProductVariant/53346777465129",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2645_resized.jpg?v=1785240768"
+  },
+  "gid://shopify/ProductVariant/53349025055017": {
+    "product_title": "Navaratna Moissanite Necklace",
+    "variant_title": "Default Title",
+    "sku": "R30875",
+    "price": 31280.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/navaratna-moissanite-necklace?variant=gid://shopify/ProductVariant/53349025055017",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0323.jpg?v=1786368088"
   },
   "gid://shopify/ProductVariant/53349411324201": {
     "product_title": "Petaluxe Three-Finger Moissanite Ring",
