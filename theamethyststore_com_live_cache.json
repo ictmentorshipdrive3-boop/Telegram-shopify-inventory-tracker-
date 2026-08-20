@@ -13594,7 +13594,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-7601",
     "price": 175405.5,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/nishka-long-necklace?variant=gid://shopify/ProductVariant/45671618904291",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7601_d38f5f25-a90a-4997-844b-998bc5e4e0a5.jpg?v=1739431658"
   },
@@ -33313,7 +33313,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-10042",
     "price": 11300.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/henisha-kundan-hook-jhumkhas?variant=gid://shopify/ProductVariant/47081160900835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10042.jpg?v=1756717433"
   },
@@ -44050,7 +44050,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-10656",
     "price": 22166.2,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/catchy-kundan-jhumkas?variant=gid://shopify/ProductVariant/47393148895459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10656.jpg?v=1761384712"
   },
@@ -82853,6 +82853,15 @@
     "url": "https://www.theamethyststore.com/products/jiya-avikam-earrings?variant=gid://shopify/ProductVariant/49363813794019",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14309.jpg?v=1783167526"
   },
+  "gid://shopify/ProductVariant/49363813990627": {
+    "product_title": "Admirable Avikam Chandhubaali",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15886",
+    "price": 25200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/admirable-avikam-chandhubaali?variant=gid://shopify/ProductVariant/49363813990627",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15886.jpg?v=1787222633"
+  },
   "gid://shopify/ProductVariant/49363815006435": {
     "product_title": "Amarya Stone Chain",
     "variant_title": "Default Title",
@@ -103804,6 +103813,51 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/traditional-nagas-pendant-set?variant=gid://shopify/ProductVariant/49563393786083",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5001.jpg?v=1787221734"
+  },
+  "gid://shopify/ProductVariant/49563397587171": {
+    "product_title": "Evisha Victorian Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14976",
+    "price": 5500.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/victorian-studs-25?variant=gid://shopify/ProductVariant/49563397587171",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14976.jpg?v=1787222003"
+  },
+  "gid://shopify/ProductVariant/49563399749859": {
+    "product_title": "Stunning Stone Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15024",
+    "price": 6900.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/stone-earrings-4?variant=gid://shopify/ProductVariant/49563399749859",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15024.jpg?v=1787222050"
+  },
+  "gid://shopify/ProductVariant/49563403256035": {
+    "product_title": "Catchy Victorian Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15025",
+    "price": 7000.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/catchy-victorian-drops?variant=gid://shopify/ProductVariant/49563403256035",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15025.jpg?v=1787222175"
+  },
+  "gid://shopify/ProductVariant/49563407450339": {
+    "product_title": "Mesmerizing Moissanite Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15874",
+    "price": 7700.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/mesmerizing-moissanite-drops?variant=gid://shopify/ProductVariant/49563407450339",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15874.jpg?v=1787222350"
+  },
+  "gid://shopify/ProductVariant/49563411677411": {
+    "product_title": "Admirable Avikam Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4991",
+    "price": 49100.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/avikam-pendant-set-50?variant=gid://shopify/ProductVariant/49563411677411",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4991.jpg?v=1787222550"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
