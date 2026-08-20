@@ -3793,7 +3793,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-4024",
     "price": 7200.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/varuna-stone-drops?variant=gid://shopify/ProductVariant/43660167807203",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-4024.jpg?v=1764067492"
   },
@@ -80288,15 +80288,6 @@
     "url": "https://www.theamethyststore.com/products/nagas-jhumkas-65?variant=gid://shopify/ProductVariant/49325809271011",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14438.jpg?v=1782720994"
   },
-  "gid://shopify/ProductVariant/49325859635427": {
-    "product_title": "Dhanvikha Nagas Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14439",
-    "price": 14100.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nagas-jhumkas-66?variant=gid://shopify/ProductVariant/49325859635427",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14439.jpg?v=1782726395"
-  },
   "gid://shopify/ProductVariant/49325865238755": {
     "product_title": "Priya Nagas Jhumkas",
     "variant_title": "Default Title",
@@ -83996,15 +83987,6 @@
     "url": "https://www.theamethyststore.com/products/kundan-long-earrings-12?variant=gid://shopify/ProductVariant/49373582754019",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14829.jpg?v=1783429742"
   },
-  "gid://shopify/ProductVariant/49373589242083": {
-    "product_title": "Aadhiraa Kundan Long Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14830",
-    "price": 14800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kundan-long-earrings-13?variant=gid://shopify/ProductVariant/49373589242083",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14830.jpg?v=1783430083"
-  },
   "gid://shopify/ProductVariant/49373589438691": {
     "product_title": "Mivya Kundan Jhumkas",
     "variant_title": "Default Title",
@@ -85813,15 +85795,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/long-earrings-40?variant=gid://shopify/ProductVariant/49405609017571",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14916.jpg?v=1784035445"
-  },
-  "gid://shopify/ProductVariant/49405616652515": {
-    "product_title": "Aura Boho Long Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14919",
-    "price": 12800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/long-earrings-41?variant=gid://shopify/ProductVariant/49405616652515",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14919.jpg?v=1784035651"
   },
   "gid://shopify/ProductVariant/49405619568867": {
     "product_title": "Radiant Boho Long Earrings",
@@ -91510,15 +91483,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/kundan-pendant-95?variant=gid://shopify/ProductVariant/49476465197283",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4752.jpg?v=1785416695"
-  },
-  "gid://shopify/ProductVariant/49476466082019": {
-    "product_title": "Vedhikaa Kundan Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-4753",
-    "price": 14300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kundan-pendant-96?variant=gid://shopify/ProductVariant/49476466082019",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4753.jpg?v=1785416939"
   },
   "gid://shopify/ProductVariant/49476484333795": {
     "product_title": "Finrikaa Kundan Pendant",
@@ -121328,6 +121292,15 @@
     "url": "https://www.theamethyststore.com/products/nagas-jhumkas-62?variant=gid://shopify/ProductVariant/49325806354659",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14434.jpg?v=1782720450"
   },
+  "gid://shopify/ProductVariant/49325859635427": {
+    "product_title": "Dhanvikha Nagas Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14439",
+    "price": 14100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-jhumkas-66?variant=gid://shopify/ProductVariant/49325859635427",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14439.jpg?v=1782726395"
+  },
   "gid://shopify/ProductVariant/49325895188707": {
     "product_title": "Shreya Nagas Jhumkas",
     "variant_title": "Default Title",
@@ -122300,6 +122273,15 @@
     "url": "https://www.theamethyststore.com/products/riyana-kundan-jhumkas?variant=gid://shopify/ProductVariant/49373586489571",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14858.jpg?v=1783429946"
   },
+  "gid://shopify/ProductVariant/49373589242083": {
+    "product_title": "Aadhiraa Kundan Long Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14830",
+    "price": 14800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kundan-long-earrings-13?variant=gid://shopify/ProductVariant/49373589242083",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14830.jpg?v=1783430083"
+  },
   "gid://shopify/ProductVariant/49373594419427": {
     "product_title": "Ruhika Kundan Jhumkas",
     "variant_title": "Default Title",
@@ -122614,6 +122596,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/hasli-with-pendant-set-17?variant=gid://shopify/ProductVariant/49397004632291",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16596.jpg?v=1783860069"
+  },
+  "gid://shopify/ProductVariant/49405616652515": {
+    "product_title": "Aura Boho Long Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14919",
+    "price": 12800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/long-earrings-41?variant=gid://shopify/ProductVariant/49405616652515",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14919.jpg?v=1784035651"
   },
   "gid://shopify/ProductVariant/49405667639523": {
     "product_title": "Fabulous Boho Long Necklace",
@@ -123091,6 +123082,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/grand-luxe-kundan-short-necklace-1?variant=gid://shopify/ProductVariant/49476231069923",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17140.jpg?v=1785415584"
+  },
+  "gid://shopify/ProductVariant/49476466082019": {
+    "product_title": "Vedhikaa Kundan Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4753",
+    "price": 14300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-96?variant=gid://shopify/ProductVariant/49476466082019",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4753.jpg?v=1785416939"
   },
   "gid://shopify/ProductVariant/49476501176547": {
     "product_title": "Charming Kundan Jhumkas",
