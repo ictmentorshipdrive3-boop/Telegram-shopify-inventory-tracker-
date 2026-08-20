@@ -85310,15 +85310,6 @@
     "url": "https://www.theamethyststore.com/products/hasli-necklace-61?variant=gid://shopify/ProductVariant/49394707136739",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16554.jpg?v=1783776732"
   },
-  "gid://shopify/ProductVariant/49396522844387": {
-    "product_title": "Fabulous Chain",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-2059",
-    "price": 8900.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/chain-21?variant=gid://shopify/ProductVariant/49396522844387",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2059.jpg?v=1783830500"
-  },
   "gid://shopify/ProductVariant/49396528840931": {
     "product_title": "Elegant Hasli Necklace",
     "variant_title": "Default Title",
@@ -86908,7 +86899,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15186",
     "price": 8400.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/diamond-design-studs-22?variant=gid://shopify/ProductVariant/49420686655715",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15186.jpg?v=1784269341"
   },
@@ -96154,15 +96145,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/liyasri-kundan-long-necklace?variant=gid://shopify/ProductVariant/49514178805987",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17320.jpg?v=1786253679"
-  },
-  "gid://shopify/ProductVariant/49514178838755": {
-    "product_title": "Renisha Diamond Design Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-4568",
-    "price": 7400.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/diamond-design-pendant-42?variant=gid://shopify/ProductVariant/49514178838755",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4568.jpg?v=1786253705"
   },
   "gid://shopify/ProductVariant/49514179952867": {
     "product_title": "Catchy Kundan Long Necklace",
@@ -122876,6 +122858,15 @@
     "url": "https://www.theamethyststore.com/products/chain-20?variant=gid://shopify/ProductVariant/49394754879715",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2058.jpg?v=1783778091"
   },
+  "gid://shopify/ProductVariant/49396522844387": {
+    "product_title": "Fabulous Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2059",
+    "price": 8900.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/chain-21?variant=gid://shopify/ProductVariant/49396522844387",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2059.jpg?v=1783830500"
+  },
   "gid://shopify/ProductVariant/49396580909283": {
     "product_title": "Venisha Hasli Necklace",
     "variant_title": "Default Title",
@@ -123712,6 +123703,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/avikam-pendant-set-43?variant=gid://shopify/ProductVariant/49507850518755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4865.jpg?v=1786086620"
+  },
+  "gid://shopify/ProductVariant/49514178838755": {
+    "product_title": "Renisha Diamond Design Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4568",
+    "price": 7400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/diamond-design-pendant-42?variant=gid://shopify/ProductVariant/49514178838755",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4568.jpg?v=1786253705"
   },
   "gid://shopify/ProductVariant/49514411983075": {
     "product_title": "Vibha Diamond Design Studs",
