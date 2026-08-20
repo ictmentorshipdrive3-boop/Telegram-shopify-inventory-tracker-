@@ -40,7 +40,7 @@
     "variant_title": "Default Title",
     "sku": "R15179",
     "price": 13175.0,
-    "stock": 5,
+    "stock": 6,
     "url": "https://www.rasasilver.com/products/daisy-emerald-necklace?variant=gid://shopify/ProductVariant/49810565038377",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-44_3c348a4d-d5da-458b-8db5-7e116fdfa192.jpg?v=1740814119"
   },
@@ -121,7 +121,7 @@
     "variant_title": "Default Title",
     "sku": "R1526",
     "price": 2890.0,
-    "stock": 10,
+    "stock": 12,
     "url": "https://www.rasasilver.com/products/kundan-nath?variant=gid://shopify/ProductVariant/49855900451113",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-34_d498d6ad-5c3a-4fdf-b147-520b19be8a5a.jpg?v=1739427458"
   },
@@ -985,7 +985,7 @@
     "variant_title": "Default Title",
     "sku": "R15982",
     "price": 2210.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/botanique-studs?variant=gid://shopify/ProductVariant/50158205501737",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06453_copy.jpg?v=1744184601"
   },
@@ -6029,6 +6029,15 @@
     "url": "https://www.rasasilver.com/products/necklace-set-40?variant=gid://shopify/ProductVariant/51274740465961",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_122_Pics_1Oct29824.jpg?v=1759840740"
   },
+  "gid://shopify/ProductVariant/51274646847785": {
+    "product_title": "Floristella Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R14505",
+    "price": 42245.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/necklace-set-41?variant=gid://shopify/ProductVariant/51274646847785",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_122_Pics_1Oct29840.jpg?v=1759841644"
+  },
   "gid://shopify/ProductVariant/51274658939177": {
     "product_title": "Elegant Contours Necklace Set",
     "variant_title": "Default Title",
@@ -6151,7 +6160,7 @@
     "variant_title": "Ruby Pink / 6",
     "sku": "R17289",
     "price": 3230.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/devanshi-ring?variant=gid://shopify/ProductVariant/51472139649321",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS216.jpg?v=1759909957"
   },
@@ -8720,6 +8729,15 @@
     "url": "https://www.rasasilver.com/products/chromaflor-necklace-set?variant=gid://shopify/ProductVariant/51509565391145",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Box07_10Nov0440.jpg?v=1763443611"
   },
+  "gid://shopify/ProductVariant/51509599994153": {
+    "product_title": "Peardew Spark Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R17747",
+    "price": 16660.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/peardew-spark-necklace-set?variant=gid://shopify/ProductVariant/51509599994153",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Box07_10Nov0374.jpg?v=1763445854"
+  },
   "gid://shopify/ProductVariant/51509604155689": {
     "product_title": "Sundari Mor Nakshi Jhumki",
     "variant_title": "Default Title",
@@ -9085,7 +9103,7 @@
     "variant_title": "Ruby Pink / 5.5",
     "sku": "R17295",
     "price": 3230.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/gulaabi-roop-ring?variant=gid://shopify/ProductVariant/51514751222057",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0229copy_resized.jpg?v=1763632274"
   },
@@ -10129,7 +10147,7 @@
     "variant_title": "Ruby Pink / 15",
     "sku": "R16681",
     "price": 3655.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/rossi-ring?variant=gid://shopify/ProductVariant/52166981583145",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0059copy_resized_ecc8542e-3cfe-487b-903d-58ea3e221ef6.jpg?v=1763970956"
   },
@@ -10147,7 +10165,7 @@
     "variant_title": "Ruby Pink / 5.4",
     "sku": "R16685",
     "price": 3230.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/rosalya-ring?variant=gid://shopify/ProductVariant/52166987907369",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0045copy_resized.jpg?v=1763971241"
   },
@@ -13882,7 +13900,7 @@
     "variant_title": "2.4",
     "sku": "R24394",
     "price": 25075.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/tara-stone-bangles?variant=gid://shopify/ProductVariant/52553600893225",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsApp_Image_2026-08-06_at_4.31.33_PM.jpg?v=1786014144"
   },
@@ -14314,7 +14332,7 @@
     "variant_title": "Default Title",
     "sku": "R25042",
     "price": 18105.0,
-    "stock": 4,
+    "stock": 5,
     "url": "https://www.rasasilver.com/products/dvi-mukha-pakshi-pendant-copy?variant=gid://shopify/ProductVariant/52565266432297",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/5_2.jpg?v=1743056786"
   },
@@ -15115,7 +15133,7 @@
     "variant_title": "Default Title",
     "sku": "R25011",
     "price": 24055.0,
-    "stock": 6,
+    "stock": 7,
     "url": "https://www.rasasilver.com/products/regal-trinket-necklace-set?variant=gid://shopify/ProductVariant/52682036707625",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00135copy_resized_c193ce03-34a6-4b83-ba95-fafe10484aa8.jpg?v=1772194576"
   },
@@ -15502,7 +15520,7 @@
     "variant_title": "Default Title",
     "sku": "R25383",
     "price": 3570.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/back-chain-copy?variant=gid://shopify/ProductVariant/52737922302249",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Screenshot2026-02-23at5_17_18PMcopy_jpg.jpg?v=1771847962"
   },
@@ -17797,7 +17815,7 @@
     "variant_title": "Default Title",
     "sku": "R25215",
     "price": 19550.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/floral-bliss-tear-necklace-set-copy?variant=gid://shopify/ProductVariant/52876057706793",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar00052.jpg?v=1775284660"
   },
@@ -19808,6 +19826,15 @@
     "url": "https://www.rasasilver.com/products/flora-pink-oxidized-payal?variant=gid://shopify/ProductVariant/53149276733737",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0718_resized.jpg?v=1780925424"
   },
+  "gid://shopify/ProductVariant/53149330932009": {
+    "product_title": "Aarna Bracelet",
+    "variant_title": "Default Title",
+    "sku": "R13017",
+    "price": 4250.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/aarna-bracelet?variant=gid://shopify/ProductVariant/53149330932009",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsApp_Image_2026-08-03_at_3.47.24_PM.jpg?v=1785752293"
+  },
   "gid://shopify/ProductVariant/53149351313705": {
     "product_title": "Pallavi Antique Haath Phool",
     "variant_title": "Default Title",
@@ -19852,6 +19879,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/phoolkari-oxidized-payal?variant=gid://shopify/ProductVariant/53149428678953",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0689_resized.jpg?v=1780925710"
+  },
+  "gid://shopify/ProductVariant/53149452468521": {
+    "product_title": "Greena-Pink Oxidised Payal",
+    "variant_title": "Default Title",
+    "sku": "R13223",
+    "price": 7756.25,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/greena-pink-oxidized-payal?variant=gid://shopify/ProductVariant/53149452468521",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0712_resized.jpg?v=1780936095"
   },
   "gid://shopify/ProductVariant/53149510566185": {
     "product_title": "Veloura Circles Studs",
@@ -21271,7 +21307,7 @@
     "variant_title": "2.5",
     "sku": "R29452",
     "price": 20995.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/lustrelle-stone-bangles?variant=gid://shopify/ProductVariant/53283968745769",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May1650_resized.jpg?v=1782201399"
   },
@@ -21688,6 +21724,15 @@
     "stock": 3,
     "url": "https://www.rasasilver.com/products/rajwadi-kada?variant=gid://shopify/ProductVariant/53286148735273",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5767_resized.jpg?v=1782295210"
+  },
+  "gid://shopify/ProductVariant/53286160138537": {
+    "product_title": "Beaded Heart Oxidized Payal",
+    "variant_title": "Default Title",
+    "sku": "R31647",
+    "price": 3315.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/beaded-heart-oxidized-payal?variant=gid://shopify/ProductVariant/53286160138537",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13394_resized.jpg?v=1782297119"
   },
   "gid://shopify/ProductVariant/53286180323625": {
     "product_title": "Solitaire Spark Ring",
@@ -23116,7 +23161,7 @@
     "variant_title": "2.7",
     "sku": "R30326",
     "price": 19465.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/square-greena-stone-bangles?variant=gid://shopify/ProductVariant/53315097428265",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41421_resized.jpg?v=1783749015"
   },
@@ -23242,7 +23287,7 @@
     "variant_title": "2.4",
     "sku": "R31252",
     "price": 18275.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/oval-pushp-stone-bangles?variant=gid://shopify/ProductVariant/53324650414377",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41424_resized.jpg?v=1783753120"
   },
@@ -23278,7 +23323,7 @@
     "variant_title": "GREEN / 2.9",
     "sku": "R31274",
     "price": 18615.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/h-1?variant=gid://shopify/ProductVariant/53324724568361",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41376_resized.jpg?v=1783757327"
   },
@@ -24136,6 +24181,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/vasantika-antique-studs?variant=gid://shopify/ProductVariant/53349015355689",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0239.jpg?v=1786341331"
+  },
+  "gid://shopify/ProductVariant/53349025055017": {
+    "product_title": "Navaratna Moissanite Necklace",
+    "variant_title": "Default Title",
+    "sku": "R30875",
+    "price": 31280.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/navaratna-moissanite-necklace?variant=gid://shopify/ProductVariant/53349025055017",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0323.jpg?v=1786368088"
   },
   "gid://shopify/ProductVariant/53349149114665": {
     "product_title": "Luxe Brilliance Moissanite Necklace",
@@ -25186,7 +25240,7 @@
     "variant_title": "Default Title",
     "sku": "R33284",
     "price": 75500.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/mango-royale-cz-choker-set?variant=gid://shopify/ProductVariant/53374196154665",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0294_resized.jpg?v=1785920498"
   },
@@ -25783,6 +25837,150 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/ruvayika-antique-danglers-copy?variant=gid://shopify/ProductVariant/53419110760745",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_42_51Pics0652.jpg?v=1786953143"
+  },
+  "gid://shopify/ProductVariant/53427255410985": {
+    "product_title": "Varnika  Kundan Choker",
+    "variant_title": "Default Title",
+    "sku": "R33535",
+    "price": 39000.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/varnika-kundan-choker?variant=gid://shopify/ProductVariant/53427255410985",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0779.jpg?v=1787052683"
+  },
+  "gid://shopify/ProductVariant/53427450380585": {
+    "product_title": "Aavya Kundan Kanti",
+    "variant_title": "Default Title",
+    "sku": "R33934",
+    "price": 15100.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/padmini-kundan-kanti?variant=gid://shopify/ProductVariant/53427450380585",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0793.jpg?v=1787055578"
+  },
+  "gid://shopify/ProductVariant/53429113585961": {
+    "product_title": "Ishira Reversible Kundan Kanti",
+    "variant_title": "Default Title",
+    "sku": "R33938",
+    "price": 14000.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/padmini-kundan-kanti-copy?variant=gid://shopify/ProductVariant/53429113585961",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0804.jpg?v=1787056412"
+  },
+  "gid://shopify/ProductVariant/53429127938345": {
+    "product_title": "Aarini Kundan Kanti",
+    "variant_title": "Default Title",
+    "sku": "R33942",
+    "price": 16400.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/ishira-kundan-kanti-copy?variant=gid://shopify/ProductVariant/53429127938345",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0811.jpg?v=1787057022"
+  },
+  "gid://shopify/ProductVariant/53429137408297": {
+    "product_title": "Pranavi Kundan Kanti",
+    "variant_title": "Default Title",
+    "sku": "R33943",
+    "price": 22300.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/ishira-kundan-kanti-copy-1?variant=gid://shopify/ProductVariant/53429137408297",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0788.jpg?v=1787057485"
+  },
+  "gid://shopify/ProductVariant/53429198717225": {
+    "product_title": "Tanirika Kundan Kanti",
+    "variant_title": "Default Title",
+    "sku": "R33944",
+    "price": 16900.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/ishira-kundan-kanti-copy-2?variant=gid://shopify/ProductVariant/53429198717225",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0797.jpg?v=1787058134"
+  },
+  "gid://shopify/ProductVariant/53429712683305": {
+    "product_title": "Sharvani Kundan Necklace",
+    "variant_title": "Default Title",
+    "sku": "R33702",
+    "price": 80400.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/kundan-berunda-necklace-copy?variant=gid://shopify/ProductVariant/53429712683305",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0858.jpg?v=1787059024"
+  },
+  "gid://shopify/ProductVariant/53437052846377": {
+    "product_title": "Sheervana Temple Bangles",
+    "variant_title": "2.6",
+    "sku": "R33655",
+    "price": 57200.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/narayani-temple-bangles-copy?variant=gid://shopify/ProductVariant/53437052846377",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0868.jpg?v=1787119443"
+  },
+  "gid://shopify/ProductVariant/53430273671465": {
+    "product_title": "Shreeja Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R33522",
+    "price": 24100.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/hemamalini-temple-necklace-copy?variant=gid://shopify/ProductVariant/53430273671465",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0773.jpg?v=1787122362"
+  },
+  "gid://shopify/ProductVariant/53430278193449": {
+    "product_title": "Dhanalakshmi Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R33530",
+    "price": 22000.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/shreeja-temple-necklace-copy?variant=gid://shopify/ProductVariant/53430278193449",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0763.jpg?v=1787127136"
+  },
+  "gid://shopify/ProductVariant/53430603972905": {
+    "product_title": "Hiranmayi Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R33532",
+    "price": 18100.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/shreeja-temple-necklace-copy-1?variant=gid://shopify/ProductVariant/53430603972905",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0756.jpg?v=1787126769"
+  },
+  "gid://shopify/ProductVariant/53430608396585": {
+    "product_title": "Ranjani Kundan Necklace",
+    "variant_title": "Default Title",
+    "sku": "R33699",
+    "price": 76300.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/tilottama-kundan-short-necklace-copy?variant=gid://shopify/ProductVariant/53430608396585",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0762.jpg?v=1787119902"
+  },
+  "gid://shopify/ProductVariant/53430611771689": {
+    "product_title": "Vilasini Kundan Necklace",
+    "variant_title": "Default Title",
+    "sku": "R33704",
+    "price": 27900.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/ranjani-kundan-short-necklace-copy?variant=gid://shopify/ProductVariant/53430611771689",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0769.jpg?v=1787120642"
+  },
+  "gid://shopify/ProductVariant/53430627533097": {
+    "product_title": "Suhasini Kundan Necklace",
+    "variant_title": "Default Title",
+    "sku": "R33707",
+    "price": 29300.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/vilasini-kundan-short-necklace-copy?variant=gid://shopify/ProductVariant/53430627533097",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0746.jpg?v=1787121046"
+  },
+  "gid://shopify/ProductVariant/53437048815913": {
+    "product_title": "Swarna Lehar Kundan Matil",
+    "variant_title": "Swarovski",
+    "sku": "R33765",
+    "price": 17100.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/maharani-pearl-kundan-matil-copy?variant=gid://shopify/ProductVariant/53437048815913",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0840.jpg?v=1787059395"
+  },
+  "gid://shopify/ProductVariant/53437048848681": {
+    "product_title": "Swarna Lehar Kundan Matil",
+    "variant_title": "Ruby Pink",
+    "sku": "R33766",
+    "price": 17600.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/maharani-pearl-kundan-matil-copy?variant=gid://shopify/ProductVariant/53437048848681",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0840.jpg?v=1787059395"
   },
   "gid://shopify/ProductVariant/53431577313577": {
     "product_title": "Ball Royale Kundan Studs",
@@ -28420,15 +28618,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/necklace-60?variant=gid://shopify/ProductVariant/51274640884009",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_122_Pics_1Oct29900.jpg?v=1759907046"
-  },
-  "gid://shopify/ProductVariant/51274646847785": {
-    "product_title": "Floristella Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R14505",
-    "price": 42245.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/necklace-set-41?variant=gid://shopify/ProductVariant/51274646847785",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_122_Pics_1Oct29840.jpg?v=1759841644"
   },
   "gid://shopify/ProductVariant/51274740695337": {
     "product_title": "Florabead Antique Studs",
@@ -32353,15 +32542,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/mithra-mor-jhumki?variant=gid://shopify/ProductVariant/51509595111721",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_297_Pics_7Oct1948_resized.jpg?v=1763535378"
-  },
-  "gid://shopify/ProductVariant/51509599994153": {
-    "product_title": "Peardew Spark Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R17747",
-    "price": 16660.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/peardew-spark-necklace-set?variant=gid://shopify/ProductVariant/51509599994153",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Box07_10Nov0374.jpg?v=1763445854"
   },
   "gid://shopify/ProductVariant/51509629976873": {
     "product_title": "Aar Morika Nakshi Jhumki",
@@ -43964,24 +44144,6 @@
     "url": "https://www.rasasilver.com/products/eternal-link-bracelet?variant=gid://shopify/ProductVariant/53149272277289",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0737_resized_134be3cf-0873-4171-9d83-5e0af2f11846.jpg?v=1785753222"
   },
-  "gid://shopify/ProductVariant/53149330932009": {
-    "product_title": "Aarna Bracelet",
-    "variant_title": "Default Title",
-    "sku": "R13017",
-    "price": 4250.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/aarna-bracelet?variant=gid://shopify/ProductVariant/53149330932009",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsApp_Image_2026-08-03_at_3.47.24_PM.jpg?v=1785752293"
-  },
-  "gid://shopify/ProductVariant/53149452468521": {
-    "product_title": "Greena-Pink Oxidised Payal",
-    "variant_title": "Default Title",
-    "sku": "R13223",
-    "price": 7756.25,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/greena-pink-oxidized-payal?variant=gid://shopify/ProductVariant/53149452468521",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0712_resized.jpg?v=1780936095"
-  },
   "gid://shopify/ProductVariant/53149470982441": {
     "product_title": "Oxidised Phool Payal",
     "variant_title": "Default Title",
@@ -45071,15 +45233,6 @@
     "url": "https://www.rasasilver.com/products/classic-ear-cuff?variant=gid://shopify/ProductVariant/53286097125673",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5625_resized.jpg?v=1782294055"
   },
-  "gid://shopify/ProductVariant/53286160138537": {
-    "product_title": "Beaded Heart Oxidized Payal",
-    "variant_title": "Default Title",
-    "sku": "R31647",
-    "price": 3315.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/beaded-heart-oxidized-payal?variant=gid://shopify/ProductVariant/53286160138537",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13394_resized.jpg?v=1782297119"
-  },
   "gid://shopify/ProductVariant/53286167675177": {
     "product_title": "Mystic Snake Ring",
     "variant_title": "Default Title",
@@ -45853,15 +46006,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/celestial-petal-moissanite-bracelet?variant=gid://shopify/ProductVariant/53346777465129",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2645_resized.jpg?v=1785240768"
-  },
-  "gid://shopify/ProductVariant/53349025055017": {
-    "product_title": "Navaratna Moissanite Necklace",
-    "variant_title": "Default Title",
-    "sku": "R30875",
-    "price": 31280.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/navaratna-moissanite-necklace?variant=gid://shopify/ProductVariant/53349025055017",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0323.jpg?v=1786368088"
   },
   "gid://shopify/ProductVariant/53349411324201": {
     "product_title": "Petaluxe Three-Finger Moissanite Ring",
@@ -47132,15 +47276,6 @@
     "url": "https://www.rasasilver.com/products/eshvani-cz-danglers?variant=gid://shopify/ProductVariant/53419081859369",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_42_51Pics0697.jpg?v=1786954413"
   },
-  "gid://shopify/ProductVariant/53427255410985": {
-    "product_title": "Varnika  Kundan Choker",
-    "variant_title": "Default Title",
-    "sku": "R33535",
-    "price": 39000.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/varnika-kundan-choker?variant=gid://shopify/ProductVariant/53427255410985",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0779.jpg?v=1787052683"
-  },
   "gid://shopify/ProductVariant/53427382059305": {
     "product_title": "Shreeyani Kasu Temple Mala",
     "variant_title": "Default Title",
@@ -47150,51 +47285,6 @@
     "url": "https://www.rasasilver.com/products/shreeyani-kasu-mala?variant=gid://shopify/ProductVariant/53427382059305",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0836.jpg?v=1787054971"
   },
-  "gid://shopify/ProductVariant/53427450380585": {
-    "product_title": "Aavya Kundan Kanti",
-    "variant_title": "Default Title",
-    "sku": "R33934",
-    "price": 15100.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/padmini-kundan-kanti?variant=gid://shopify/ProductVariant/53427450380585",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0793.jpg?v=1787055578"
-  },
-  "gid://shopify/ProductVariant/53429113585961": {
-    "product_title": "Ishira Reversible Kundan Kanti",
-    "variant_title": "Default Title",
-    "sku": "R33938",
-    "price": 14000.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/padmini-kundan-kanti-copy?variant=gid://shopify/ProductVariant/53429113585961",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0804.jpg?v=1787056412"
-  },
-  "gid://shopify/ProductVariant/53429127938345": {
-    "product_title": "Aarini Kundan Kanti",
-    "variant_title": "Default Title",
-    "sku": "R33942",
-    "price": 16400.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/ishira-kundan-kanti-copy?variant=gid://shopify/ProductVariant/53429127938345",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0811.jpg?v=1787057022"
-  },
-  "gid://shopify/ProductVariant/53429137408297": {
-    "product_title": "Pranavi Kundan Kanti",
-    "variant_title": "Default Title",
-    "sku": "R33943",
-    "price": 22300.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/ishira-kundan-kanti-copy-1?variant=gid://shopify/ProductVariant/53429137408297",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0788.jpg?v=1787057485"
-  },
-  "gid://shopify/ProductVariant/53429198717225": {
-    "product_title": "Tanirika Kundan Kanti",
-    "variant_title": "Default Title",
-    "sku": "R33944",
-    "price": 16900.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/ishira-kundan-kanti-copy-2?variant=gid://shopify/ProductVariant/53429198717225",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0797.jpg?v=1787058134"
-  },
   "gid://shopify/ProductVariant/53429223489833": {
     "product_title": "Mayura-Chand Kundan Kanti",
     "variant_title": "Default Title",
@@ -47203,96 +47293,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/ishira-kundan-kanti-copy-3?variant=gid://shopify/ProductVariant/53429223489833",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0784.jpg?v=1787058564"
-  },
-  "gid://shopify/ProductVariant/53429712683305": {
-    "product_title": "Sharvani Kundan Necklace",
-    "variant_title": "Default Title",
-    "sku": "R33702",
-    "price": 80400.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/kundan-berunda-necklace-copy?variant=gid://shopify/ProductVariant/53429712683305",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0858.jpg?v=1787059024"
-  },
-  "gid://shopify/ProductVariant/53437052846377": {
-    "product_title": "Sheervana Temple Bangles",
-    "variant_title": "2.6",
-    "sku": "R33655",
-    "price": 57200.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/narayani-temple-bangles-copy?variant=gid://shopify/ProductVariant/53437052846377",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0868.jpg?v=1787119443"
-  },
-  "gid://shopify/ProductVariant/53430273671465": {
-    "product_title": "Shreeja Temple Necklace",
-    "variant_title": "Default Title",
-    "sku": "R33522",
-    "price": 24100.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/hemamalini-temple-necklace-copy?variant=gid://shopify/ProductVariant/53430273671465",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0773.jpg?v=1787122362"
-  },
-  "gid://shopify/ProductVariant/53430278193449": {
-    "product_title": "Dhanalakshmi Temple Necklace",
-    "variant_title": "Default Title",
-    "sku": "R33530",
-    "price": 22000.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/shreeja-temple-necklace-copy?variant=gid://shopify/ProductVariant/53430278193449",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0763.jpg?v=1787127136"
-  },
-  "gid://shopify/ProductVariant/53430603972905": {
-    "product_title": "Hiranmayi Temple Necklace",
-    "variant_title": "Default Title",
-    "sku": "R33532",
-    "price": 18100.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/shreeja-temple-necklace-copy-1?variant=gid://shopify/ProductVariant/53430603972905",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0756.jpg?v=1787126769"
-  },
-  "gid://shopify/ProductVariant/53430608396585": {
-    "product_title": "Ranjani Kundan Necklace",
-    "variant_title": "Default Title",
-    "sku": "R33699",
-    "price": 76300.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/tilottama-kundan-short-necklace-copy?variant=gid://shopify/ProductVariant/53430608396585",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0762.jpg?v=1787119902"
-  },
-  "gid://shopify/ProductVariant/53430611771689": {
-    "product_title": "Vilasini Kundan Necklace",
-    "variant_title": "Default Title",
-    "sku": "R33704",
-    "price": 27900.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/ranjani-kundan-short-necklace-copy?variant=gid://shopify/ProductVariant/53430611771689",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0769.jpg?v=1787120642"
-  },
-  "gid://shopify/ProductVariant/53430627533097": {
-    "product_title": "Suhasini Kundan Necklace",
-    "variant_title": "Default Title",
-    "sku": "R33707",
-    "price": 29300.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/vilasini-kundan-short-necklace-copy?variant=gid://shopify/ProductVariant/53430627533097",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0746.jpg?v=1787121046"
-  },
-  "gid://shopify/ProductVariant/53437048815913": {
-    "product_title": "Swarna Lehar Kundan Matil",
-    "variant_title": "Swarovski",
-    "sku": "R33765",
-    "price": 17100.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/maharani-pearl-kundan-matil-copy?variant=gid://shopify/ProductVariant/53437048815913",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0840.jpg?v=1787059395"
-  },
-  "gid://shopify/ProductVariant/53437048848681": {
-    "product_title": "Swarna Lehar Kundan Matil",
-    "variant_title": "Ruby Pink",
-    "sku": "R33766",
-    "price": 17600.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/maharani-pearl-kundan-matil-copy?variant=gid://shopify/ProductVariant/53437048848681",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0840.jpg?v=1787059395"
   },
   "gid://shopify/ProductVariant/53430651126057": {
     "product_title": "Mridula Kundan Matil",
