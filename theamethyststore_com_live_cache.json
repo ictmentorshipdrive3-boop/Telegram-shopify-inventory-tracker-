@@ -18607,7 +18607,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-0811",
     "price": 23500.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/nakshatra-mangalsutra-chain-with-earrings?variant=gid://shopify/ProductVariant/46240052052195",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-0811.jpg?v=1749195164"
   },
@@ -50497,15 +50497,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/glittering-kundan-maangtikka?variant=gid://shopify/ProductVariant/47759979938019",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2039.jpg?v=1766645789"
-  },
-  "gid://shopify/ProductVariant/47759984853219": {
-    "product_title": "Kenisha Kundan Maangtikka",
-    "variant_title": "Default Title",
-    "sku": "AMS-109-2037",
-    "price": 16812.8,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kenisha-kundan-maangtikka?variant=gid://shopify/ProductVariant/47759984853219",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2037.jpg?v=1766646145"
   },
   "gid://shopify/ProductVariant/47759992291555": {
     "product_title": "Traditional Kundan Maangtikka",
@@ -103904,6 +103895,42 @@
     "url": "https://www.theamethyststore.com/products/diamond-design-necklace-set-2?variant=gid://shopify/ProductVariant/49563457093859",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17453.jpg?v=1787224149"
   },
+  "gid://shopify/ProductVariant/49563739848931": {
+    "product_title": "Bridal Like 3D Spl Oddiyanam",
+    "variant_title": "Default Title",
+    "sku": "AMS-110-0954",
+    "price": 145000.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/3d-spl-oddiyanam?variant=gid://shopify/ProductVariant/49563739848931",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0954.jpg?v=1787227669"
+  },
+  "gid://shopify/ProductVariant/49563753513187": {
+    "product_title": "Bridal Oddiyanam",
+    "variant_title": "Default Title",
+    "sku": "AMS-110-0943",
+    "price": 70150.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nagas-oddiyanam-14?variant=gid://shopify/ProductVariant/49563753513187",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0943.jpg?v=1787227909"
+  },
+  "gid://shopify/ProductVariant/49563754365155": {
+    "product_title": "Kranthi Diamond Design Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17458",
+    "price": 58500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/diamond-design-necklace-set-3?variant=gid://shopify/ProductVariant/49563754365155",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17458.jpg?v=1787227888"
+  },
+  "gid://shopify/ProductVariant/49563764064483": {
+    "product_title": "Golden Glow Oddiyanam",
+    "variant_title": "Default Title",
+    "sku": "AMS-110-0942",
+    "price": 73960.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/golden-glow-oddiyanam?variant=gid://shopify/ProductVariant/49563764064483",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0942.jpg?v=1787228103"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -114001,6 +114028,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/aasha-kundan-maangtikka?variant=gid://shopify/ProductVariant/47758896693475",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2029.jpg?v=1766581788"
+  },
+  "gid://shopify/ProductVariant/47759984853219": {
+    "product_title": "Kenisha Kundan Maangtikka",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2037",
+    "price": 16812.8,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kenisha-kundan-maangtikka?variant=gid://shopify/ProductVariant/47759984853219",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2037.jpg?v=1766646145"
   },
   "gid://shopify/ProductVariant/47790122008803": {
     "product_title": "Vianna Stone Long Necklace",
