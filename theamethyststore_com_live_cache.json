@@ -8734,7 +8734,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-5872",
     "price": 8900.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/heriyan-victorian-studs?variant=gid://shopify/ProductVariant/44987603681507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5872_3a9741dc-c3db-45a6-bf20-c5b59ae7754c.jpg?v=1737261990"
   },
@@ -64912,7 +64912,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-12796",
     "price": 9680.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/bugadi-4?variant=gid://shopify/ProductVariant/48524408029411",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12796.jpg?v=1774008261"
   },
@@ -89036,15 +89036,6 @@
     "url": "https://www.theamethyststore.com/products/devansha-stone-bracelet?variant=gid://shopify/ProductVariant/49439696683235",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1359.jpg?v=1784816541"
   },
-  "gid://shopify/ProductVariant/49439697961187": {
-    "product_title": "Auranika Stone Bracelet",
-    "variant_title": "Default Title",
-    "sku": "AMS-103-1360",
-    "price": 9550.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/auranika-stone-bracelet?variant=gid://shopify/ProductVariant/49439697961187",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1360.jpg?v=1784816695"
-  },
   "gid://shopify/ProductVariant/49439702352099": {
     "product_title": "Hemorra Stone Bracelet",
     "variant_title": "Default Title",
@@ -103768,6 +103759,51 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/fabulous-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/49563355578595",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17666.jpg?v=1787220393"
+  },
+  "gid://shopify/ProductVariant/49563368816867": {
+    "product_title": "Mahisha Diamond Design Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17652",
+    "price": 72200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/mahisha-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/49563368816867",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17652.jpg?v=1787220718"
+  },
+  "gid://shopify/ProductVariant/49563384152291": {
+    "product_title": "Navaratna Stone Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15184",
+    "price": 6200.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/stone-drops-50?variant=gid://shopify/ProductVariant/49563384152291",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15184.jpg?v=1787221363"
+  },
+  "gid://shopify/ProductVariant/49563388313827": {
+    "product_title": "Navisha Nagas Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15477",
+    "price": 20600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/navisha-nagas-jhumkas-1?variant=gid://shopify/ProductVariant/49563388313827",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15477.jpg?v=1787221530"
+  },
+  "gid://shopify/ProductVariant/49563392573667": {
+    "product_title": "Srisha Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15027",
+    "price": 4000.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/stone-studs-41?variant=gid://shopify/ProductVariant/49563392573667",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15027.jpg?v=1787221647"
+  },
+  "gid://shopify/ProductVariant/49563393786083": {
+    "product_title": "Traditional Nagas Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5001",
+    "price": 51400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/traditional-nagas-pendant-set?variant=gid://shopify/ProductVariant/49563393786083",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5001.jpg?v=1787221734"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -123298,6 +123334,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/classic-royal-moissanite-short-necklace-set?variant=gid://shopify/ProductVariant/49439530320099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17073.jpg?v=1784808045"
+  },
+  "gid://shopify/ProductVariant/49439697961187": {
+    "product_title": "Auranika Stone Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1360",
+    "price": 9550.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/auranika-stone-bracelet?variant=gid://shopify/ProductVariant/49439697961187",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1360.jpg?v=1784816695"
   },
   "gid://shopify/ProductVariant/49442433073379": {
     "product_title": "Auranika Moissanite Short Necklace Set",
