@@ -16748,15 +16748,6 @@
     "url": "https://www.rasasilver.com/products/victorian-parrot-necklace-set?variant=gid://shopify/ProductVariant/52824395972905",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_158Pics_12Mar36936_resized.jpg?v=1774273816"
   },
-  "gid://shopify/ProductVariant/52824398987561": {
-    "product_title": "Shubhaprada Temple Necklace",
-    "variant_title": "Default Title",
-    "sku": "R26168",
-    "price": 68425.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/shubhaprada-long-temple-necklace?variant=gid://shopify/ProductVariant/52824398987561",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar0226_resized.jpg?v=1774441748"
-  },
   "gid://shopify/ProductVariant/52824404164905": {
     "product_title": "Lakshmidevi Temple Necklace",
     "variant_title": "Default Title",
@@ -41597,6 +41588,15 @@
     "url": "https://www.rasasilver.com/products/devanshika-kasu-mala?variant=gid://shopify/ProductVariant/52824397119785",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar0101_resized.jpg?v=1774356129"
   },
+  "gid://shopify/ProductVariant/52824398987561": {
+    "product_title": "Shubhaprada Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R26168",
+    "price": 68425.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/shubhaprada-long-temple-necklace?variant=gid://shopify/ProductVariant/52824398987561",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar0226_resized.jpg?v=1774441748"
+  },
   "gid://shopify/ProductVariant/52824659132713": {
     "product_title": "RadhaNandan Temple Kada",
     "variant_title": "Default Title",
@@ -46079,15 +46079,6 @@
     "url": "https://www.rasasilver.com/products/ganesha-rakhi?variant=gid://shopify/ProductVariant/53394183094569",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19601.jpg?v=1786000061"
   },
-  "gid://shopify/ProductVariant/53394183389481": {
-    "product_title": "Ganpati Rakhi",
-    "variant_title": "Default Title",
-    "sku": "R34657",
-    "price": 850.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/ganpati-rakhi?variant=gid://shopify/ProductVariant/53394183389481",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19598.jpg?v=1786000337"
-  },
   "gid://shopify/ProductVariant/53394191941929": {
     "product_title": "Infinte-Heart Bracelet",
     "variant_title": "Default Title",
@@ -47311,5 +47302,14 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/swarna-lehar-kundan-matil-copy-1?variant=gid://shopify/ProductVariant/53430651126057",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0844.jpg?v=1787118976"
+  },
+  "gid://shopify/ProductVariant/53439333695785": {
+    "product_title": "Ganpati Rakhi",
+    "variant_title": "Default Title",
+    "sku": "R34657",
+    "price": 850.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ganpati-rakhi-1?variant=gid://shopify/ProductVariant/53439333695785",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19598.jpg?v=1786000337"
   }
 }
