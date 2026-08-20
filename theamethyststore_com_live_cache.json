@@ -8446,7 +8446,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-5788",
     "price": 115304.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/labhya-kundan-choker?variant=gid://shopify/ProductVariant/44672872218851",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5788_071e33d1-8e73-40f9-a7c7-56686aba787e.jpg?v=1712212288"
   },
@@ -66428,15 +66428,6 @@
     "url": "https://www.theamethyststore.com/products/sashmita-kundan-jhumkhas?variant=gid://shopify/ProductVariant/48774404473059",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13286.jpg?v=1775974379"
   },
-  "gid://shopify/ProductVariant/48774414631139": {
-    "product_title": "Royal Kundan Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-13285",
-    "price": 21210.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/royal-kundan-jhumkas?variant=gid://shopify/ProductVariant/48774414631139",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13285.jpg?v=1775975389"
-  },
   "gid://shopify/ProductVariant/48774420037859": {
     "product_title": "Royal shine Kundan Jhumkas",
     "variant_title": "Default Title",
@@ -90808,15 +90799,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/kundan-studs-27?variant=gid://shopify/ProductVariant/49472064028899",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15120.jpg?v=1785306039"
-  },
-  "gid://shopify/ProductVariant/49475815637219": {
-    "product_title": "Divine Varalakshmi Face",
-    "variant_title": "Default Title",
-    "sku": "SV-508-0020",
-    "price": 53354.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/varalakshmi-face?variant=gid://shopify/ProductVariant/49475815637219",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/SV-508-0020.jpg?v=1785398916"
   },
   "gid://shopify/ProductVariant/49475816259811": {
     "product_title": "Cute Floral Kundan Studs",
@@ -117872,6 +117854,15 @@
     "url": "https://www.theamethyststore.com/products/tanirika-hook-jhumkas?variant=gid://shopify/ProductVariant/48774378782947",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13212.jpg?v=1775971189"
   },
+  "gid://shopify/ProductVariant/48774414631139": {
+    "product_title": "Royal Kundan Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-13285",
+    "price": 21210.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/royal-kundan-jhumkas?variant=gid://shopify/ProductVariant/48774414631139",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13285.jpg?v=1775975389"
+  },
   "gid://shopify/ProductVariant/48774664159459": {
     "product_title": "Timeless beauty Hook Earrings",
     "variant_title": "Default Title",
@@ -123910,6 +123901,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/gleaming-victorian-bracelet?variant=gid://shopify/ProductVariant/49448252735715",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1405.jpg?v=1785066531"
+  },
+  "gid://shopify/ProductVariant/49475815637219": {
+    "product_title": "Divine Varalakshmi Face",
+    "variant_title": "Default Title",
+    "sku": "SV-508-0020",
+    "price": 53354.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/varalakshmi-face?variant=gid://shopify/ProductVariant/49475815637219",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/SV-508-0020.jpg?v=1785398916"
   },
   "gid://shopify/ProductVariant/49476086628579": {
     "product_title": "Magizhini Kundan Short Necklace",
