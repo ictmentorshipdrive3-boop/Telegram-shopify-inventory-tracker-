@@ -5647,7 +5647,7 @@
     "variant_title": "2.6",
     "sku": "588",
     "price": 1499.0,
-    "stock": 48,
+    "stock": 47,
     "url": "https://www.daivik.in/products/star-bangles-in-rosegold-finish-price-for-4-bangles?variant=gid://shopify/ProductVariant/44629002027230",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6FE73D3A-29DF-48A8-ACE2-AFE9D1C10CA8.heic?v=1703606440"
   },
@@ -5773,7 +5773,7 @@
     "variant_title": "Default Title",
     "sku": "367",
     "price": 999.0,
-    "stock": 53,
+    "stock": 52,
     "url": "https://www.daivik.in/products/antique-matte-finish-lakshmi-peacock-jhumkas?variant=gid://shopify/ProductVariant/44665226035422",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0140D6CA-AE5E-456B-9707-71FA3598F63A.jpg?v=1705071171"
   },
@@ -11096,15 +11096,6 @@
     "url": "https://www.daivik.in/products/ad-stone-baby-pink-bangles-price-for-a-pair?variant=gid://shopify/ProductVariant/46401149993182",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3680.heic?v=1742104835"
   },
-  "gid://shopify/ProductVariant/46401150025950": {
-    "product_title": "AD Stone Baby Pink Bangles (Price for a Pair)",
-    "variant_title": "2.6",
-    "sku": "1578",
-    "price": 1499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-stone-baby-pink-bangles-price-for-a-pair?variant=gid://shopify/ProductVariant/46401150025950",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3680.heic?v=1742104835"
-  },
   "gid://shopify/ProductVariant/46401150058718": {
     "product_title": "AD Stone Baby Pink Bangles (Price for a Pair)",
     "variant_title": "2.8",
@@ -15574,7 +15565,7 @@
     "variant_title": "8 Inches String - Half Moolam",
     "sku": "3507",
     "price": 1299.0,
-    "stock": 47,
+    "stock": 45,
     "url": "https://www.daivik.in/products/elegant-jasmine-mullai-flower-artificial-gajra-16-inches?variant=gid://shopify/ProductVariant/47542601515230",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0344.heic?v=1758199863"
   },
@@ -27313,6 +27304,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/ad-stone-turquoise-bangles-price-for-a-pair?variant=gid://shopify/ProductVariant/46401149632734",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3683.heic?v=1742104821"
+  },
+  "gid://shopify/ProductVariant/46401150025950": {
+    "product_title": "AD Stone Baby Pink Bangles (Price for a Pair)",
+    "variant_title": "2.6",
+    "sku": "1578",
+    "price": 1499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-stone-baby-pink-bangles-price-for-a-pair?variant=gid://shopify/ProductVariant/46401150025950",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3680.heic?v=1742104835"
   },
   "gid://shopify/ProductVariant/46408690401502": {
     "product_title": "Antique Coral Teeka (Price for Each)",
