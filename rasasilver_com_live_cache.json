@@ -15934,7 +15934,7 @@
     "variant_title": "Default Title",
     "sku": "R25535",
     "price": 3995.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/kada-6?variant=gid://shopify/ProductVariant/52759259644201",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00196copy_resized.jpg?v=1772782079"
   },
@@ -21046,7 +21046,7 @@
     "variant_title": "Red",
     "sku": "R29481",
     "price": 11400.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/blue-floriya-cz-necklace?variant=gid://shopify/ProductVariant/53282526593321",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May14581_resized.jpg?v=1782111166"
   },
@@ -24100,15 +24100,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/brown-crystal-watch?variant=gid://shopify/ProductVariant/53346812363049",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0386_resized.jpg?v=1785935171"
-  },
-  "gid://shopify/ProductVariant/53346857681193": {
-    "product_title": "The Rose Hour Watch",
-    "variant_title": "Default Title",
-    "sku": "R32894",
-    "price": 6290.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/the-rose-hour-watch-1?variant=gid://shopify/ProductVariant/53346857681193",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0380_resized.jpg?v=1785935333"
   },
   "gid://shopify/ProductVariant/53346864070953": {
     "product_title": "Time & Shine Watch",
@@ -46042,6 +46033,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/moissanite-beaded-bracelet?variant=gid://shopify/ProductVariant/53346766946601",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2654_resized.jpg?v=1785241973"
+  },
+  "gid://shopify/ProductVariant/53346857681193": {
+    "product_title": "The Rose Hour Watch",
+    "variant_title": "Default Title",
+    "sku": "R32894",
+    "price": 6290.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/the-rose-hour-watch-1?variant=gid://shopify/ProductVariant/53346857681193",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0380_resized.jpg?v=1785935333"
   },
   "gid://shopify/ProductVariant/53349411324201": {
     "product_title": "Petaluxe Three-Finger Moissanite Ring",
