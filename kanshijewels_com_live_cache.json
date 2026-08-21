@@ -9089,15 +9089,6 @@
     "url": "https://www.kanshijewels.com/products/jadau-septum-nose-pin-2?variant=gid://shopify/ProductVariant/52441933938988",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadauseptumnosepin900_-_1.jpg?v=1766063236"
   },
-  "gid://shopify/ProductVariant/52441936232748": {
-    "product_title": "Jadau bugadi",
-    "variant_title": "Default Title",
-    "sku": "ER131",
-    "price": 920.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-bugadi-1?variant=gid://shopify/ProductVariant/52441936232748",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaubugadi920.jpg?v=1766063307"
-  },
   "gid://shopify/ProductVariant/52441939444012": {
     "product_title": "Jadau hair accessory",
     "variant_title": "Default Title",
@@ -11416,7 +11407,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 3999.0,
-    "stock": 1,
+    "stock": 9,
     "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-5?variant=gid://shopify/ProductVariant/53714353389868",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Kanshijewels_26.jpg?v=1787030614"
   },
@@ -13669,6 +13660,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/jadau-septum-nose-pin?variant=gid://shopify/ProductVariant/52441927549228",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadauseptumnosepin900.jpg?v=1766063066"
+  },
+  "gid://shopify/ProductVariant/52441936232748": {
+    "product_title": "Jadau bugadi",
+    "variant_title": "Default Title",
+    "sku": "ER131",
+    "price": 920.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-bugadi-1?variant=gid://shopify/ProductVariant/52441936232748",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaubugadi920.jpg?v=1766063307"
   },
   "gid://shopify/ProductVariant/52441945932076": {
     "product_title": "Jadau bugadi",
