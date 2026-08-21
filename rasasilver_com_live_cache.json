@@ -14197,7 +14197,7 @@
     "variant_title": "Default Title",
     "sku": "R22288",
     "price": 11645.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/violette-cz-pendant-set?variant=gid://shopify/ProductVariant/52559937601833",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0211copy_resized_8a9b997b-b3b7-4c13-86c1-f6fc63c744f0.jpg?v=1770199182"
   },
@@ -22229,15 +22229,6 @@
     "url": "https://www.rasasilver.com/products/blossom-stone-pendant-set?variant=gid://shopify/ProductVariant/53321405989161",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0571_resized.jpg?v=1783577466"
   },
-  "gid://shopify/ProductVariant/53321406021929": {
-    "product_title": "Blossom Stone Pendant Set",
-    "variant_title": "GREEN",
-    "sku": "R31936",
-    "price": 3910.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/blossom-stone-pendant-set?variant=gid://shopify/ProductVariant/53321406021929",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0571_resized.jpg?v=1783577466"
-  },
   "gid://shopify/ProductVariant/53336905744681": {
     "product_title": "Kusumika Kundan Kada",
     "variant_title": "GREEN / 2.5",
@@ -23017,7 +23008,7 @@
     "variant_title": "Default Title",
     "sku": "R29944",
     "price": 14450.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/queens-lakshmi-temple-necklace-set?variant=gid://shopify/ProductVariant/53310655463721",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40164_resized.jpg?v=1783673230"
   },
@@ -45232,6 +45223,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/pear-navaratna-pendant-set?variant=gid://shopify/ProductVariant/53290470867241",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2406_resized.jpg?v=1783510632"
+  },
+  "gid://shopify/ProductVariant/53321406021929": {
+    "product_title": "Blossom Stone Pendant Set",
+    "variant_title": "GREEN",
+    "sku": "R31936",
+    "price": 3910.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/blossom-stone-pendant-set?variant=gid://shopify/ProductVariant/53321406021929",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0571_resized.jpg?v=1783577466"
   },
   "gid://shopify/ProductVariant/53290680385833": {
     "product_title": "Siri-Blossom Stone Pendant Set",
