@@ -22333,7 +22333,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-9339",
     "price": 24700.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/varsha-short-necklace?variant=gid://shopify/ProductVariant/46600737882339",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9339.jpg?v=1749795589"
   },
@@ -45913,7 +45913,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-0974",
     "price": 23936.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/heart-spark-chain-type-bracelet?variant=gid://shopify/ProductVariant/47456193544419",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-0974.jpg?v=1762321241"
   },
@@ -45943,15 +45943,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/multi-charm-chain-type-bracelet?variant=gid://shopify/ProductVariant/47456245907683",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-0949.jpg?v=1762322695"
-  },
-  "gid://shopify/ProductVariant/47456260030691": {
-    "product_title": "Mary Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-12399",
-    "price": 34700.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/mary-short-necklace-set?variant=gid://shopify/ProductVariant/47456260030691",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12399.jpg?v=1762322955"
   },
   "gid://shopify/ProductVariant/47456267370723": {
     "product_title": "Princess Short Necklace Set",
@@ -51205,7 +51196,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-113-0395",
     "price": 1300.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/yashwini-bullakku-nose-pin?variant=gid://shopify/ProductVariant/47797438906595",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0395.jpg?v=1767681519"
   },
@@ -60880,7 +60871,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-1682",
     "price": 16200.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/jasitha-mugappu-chain?variant=gid://shopify/ProductVariant/48272789733603",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1682-_2.jpg?v=1770992819"
   },
@@ -113542,6 +113533,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/admirable-chain?variant=gid://shopify/ProductVariant/47451410792675",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1389.jpg?v=1762262522"
+  },
+  "gid://shopify/ProductVariant/47456260030691": {
+    "product_title": "Mary Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-12399",
+    "price": 34700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/mary-short-necklace-set?variant=gid://shopify/ProductVariant/47456260030691",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12399.jpg?v=1762322955"
   },
   "gid://shopify/ProductVariant/47471210004707": {
     "product_title": "Eternal Glow Kundan Jada Billa",
