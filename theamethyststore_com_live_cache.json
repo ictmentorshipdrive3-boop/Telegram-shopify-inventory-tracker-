@@ -73637,15 +73637,6 @@
     "url": "https://www.theamethyststore.com/products/hestia-short-necklace-set?variant=gid://shopify/ProductVariant/49101468598499",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15869.jpg?v=1780393267"
   },
-  "gid://shopify/ProductVariant/49101499007203": {
-    "product_title": "Freyja Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15870",
-    "price": 155800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/freyja-short-necklace-set?variant=gid://shopify/ProductVariant/49101499007203",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15870.jpg?v=1780393727"
-  },
   "gid://shopify/ProductVariant/49101596360931": {
     "product_title": "Ruthikaa Bridal Nagas Oddiyanam",
     "variant_title": "Default Title",
@@ -78838,15 +78829,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/luxe-avenue-kundan-long-necklace?variant=gid://shopify/ProductVariant/49320108949731",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16461.jpg?v=1782543431"
-  },
-  "gid://shopify/ProductVariant/49320112554211": {
-    "product_title": "Forever Chic Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16465",
-    "price": 89600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/forever-chic-long-necklace?variant=gid://shopify/ProductVariant/49320112554211",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16465.jpg?v=1782543596"
   },
   "gid://shopify/ProductVariant/49320122810595": {
     "product_title": "Dazzle Edit Kundan Choker",
@@ -87721,15 +87703,6 @@
     "stock": 4,
     "url": "https://www.theamethyststore.com/products/gleaming-glory-diamond-design-pendant?variant=gid://shopify/ProductVariant/49436364570851",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4729.jpg?v=1784704537"
-  },
-  "gid://shopify/ProductVariant/49436830335203": {
-    "product_title": "Gleaming Glory Moissanite Pendant Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-4728",
-    "price": 39300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/gleaming-glory-moissanite-pendant-set?variant=gid://shopify/ProductVariant/49436830335203",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4728.jpg?v=1784715207"
   },
   "gid://shopify/ProductVariant/49436837609699": {
     "product_title": "Allure Aura Moissanite Pendant Set",
@@ -121148,6 +121121,15 @@
     "url": "https://www.theamethyststore.com/products/bridal-nagas-oddiyanam-6?variant=gid://shopify/ProductVariant/49101493666019",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0894.jpg?v=1780393599"
   },
+  "gid://shopify/ProductVariant/49101499007203": {
+    "product_title": "Freyja Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15870",
+    "price": 155800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/freyja-short-necklace-set?variant=gid://shopify/ProductVariant/49101499007203",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15870.jpg?v=1780393727"
+  },
   "gid://shopify/ProductVariant/49101520208099": {
     "product_title": "Grandeur Bridal Nagas Oddiyanam",
     "variant_title": "Default Title",
@@ -122983,6 +122965,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/kundan-short-necklace-33?variant=gid://shopify/ProductVariant/49319995146467",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16479_2.jpg?v=1782536876"
+  },
+  "gid://shopify/ProductVariant/49320112554211": {
+    "product_title": "Forever Chic Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16465",
+    "price": 89600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/forever-chic-long-necklace?variant=gid://shopify/ProductVariant/49320112554211",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16465.jpg?v=1782543596"
   },
   "gid://shopify/ProductVariant/49320118845667": {
     "product_title": "Chic Spark Kundan Choker",
@@ -124945,6 +124936,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/diamond-like-oddiyanam-9?variant=gid://shopify/ProductVariant/49436823879907",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0928.jpg?v=1784714884"
+  },
+  "gid://shopify/ProductVariant/49436830335203": {
+    "product_title": "Gleaming Glory Moissanite Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4728",
+    "price": 39300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/gleaming-glory-moissanite-pendant-set?variant=gid://shopify/ProductVariant/49436830335203",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4728.jpg?v=1784715207"
   },
   "gid://shopify/ProductVariant/49436832989411": {
     "product_title": "Luminous Grace Moissanite Pendant Set",
