@@ -773,15 +773,6 @@
     "url": "https://www.rasasilver.com/products/navapuspha-haar?variant=gid://shopify/ProductVariant/50087589511465",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/5_e95873d4-54a8-4d6a-b610-8421710bd2c4.jpg?v=1743839871"
   },
-  "gid://shopify/ProductVariant/50087860437289": {
-    "product_title": "Navamayura Ratna Addige",
-    "variant_title": "Default Title",
-    "sku": "R12711",
-    "price": 18900.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/navamayura-ratna-addige?variant=gid://shopify/ProductVariant/50087860437289",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/12_4e4fb553-3719-4d67-9fd1-6e76c597770d.jpg?v=1743840592"
-  },
   "gid://shopify/ProductVariant/50869131313449": {
     "product_title": "Saanjh Stone Earring",
     "variant_title": "Ruby Pink",
@@ -26449,6 +26440,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/raghukul-ratnaraj-studs?variant=gid://shopify/ProductVariant/50869189083433",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R2230.jpg?v=1751348656"
+  },
+  "gid://shopify/ProductVariant/50087860437289": {
+    "product_title": "Navamayura Ratna Addige",
+    "variant_title": "Default Title",
+    "sku": "R12711",
+    "price": 18900.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/navamayura-ratna-addige?variant=gid://shopify/ProductVariant/50087860437289",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/12_4e4fb553-3719-4d67-9fd1-6e76c597770d.jpg?v=1743840592"
   },
   "gid://shopify/ProductVariant/50133672263977": {
     "product_title": "Vishwa Ratna Earrings",
