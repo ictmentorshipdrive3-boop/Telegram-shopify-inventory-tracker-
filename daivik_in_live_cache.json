@@ -5872,7 +5872,7 @@
     "variant_title": "Default Title",
     "sku": "367",
     "price": 999.0,
-    "stock": 48,
+    "stock": 47,
     "url": "https://www.daivik.in/products/antique-matte-finish-lakshmi-peacock-jhumkas?variant=gid://shopify/ProductVariant/44665226035422",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0140D6CA-AE5E-456B-9707-71FA3598F63A.jpg?v=1705071171"
   },
@@ -6910,15 +6910,6 @@
     "stock": 12,
     "url": "https://www.daivik.in/products/lakshmi-rubygreen-bangles-set-of-4?variant=gid://shopify/ProductVariant/45355639963870",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3DF6E6AF-2D3C-44C8-8AC2-FD37770A7F84.jpg?v=1715354017"
-  },
-  "gid://shopify/ProductVariant/45363709771998": {
-    "product_title": "AD RubyGreen Jhumkas with attached Mattals",
-    "variant_title": "Default Title",
-    "sku": "920",
-    "price": 999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-rubygreen-jhumkas-with-attached-mattel-s?variant=gid://shopify/ProductVariant/45363709771998",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FE914FE7-C858-449F-842B-F29124E5954E.jpg?v=1715608816"
   },
   "gid://shopify/ProductVariant/45367734436062": {
     "product_title": "Short and Long Guttapusalu Combo",
@@ -18319,7 +18310,7 @@
     "variant_title": "Default Title",
     "sku": "4006",
     "price": 4999.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/antique-designer-watch-bracelet-5?variant=gid://shopify/ProductVariant/47972936089822",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3799.heic?v=1773239687"
   },
@@ -21217,7 +21208,7 @@
     "variant_title": "Default Title",
     "sku": "1112",
     "price": 799.0,
-    "stock": 18,
+    "stock": 17,
     "url": "https://www.daivik.in/products/simple-lotus-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48586872553694",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EA0E3112-00F1-4DB1-A5AB-9EE30EF10B2B.jpg?v=1786293531"
   },
@@ -25765,6 +25756,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/lakshmi-rubygreen-bangles-set-of-4?variant=gid://shopify/ProductVariant/46158413758686",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3DF6E6AF-2D3C-44C8-8AC2-FD37770A7F84.jpg?v=1715354017"
+  },
+  "gid://shopify/ProductVariant/45363709771998": {
+    "product_title": "AD RubyGreen Jhumkas with attached Mattals",
+    "variant_title": "Default Title",
+    "sku": "920",
+    "price": 999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-rubygreen-jhumkas-with-attached-mattel-s?variant=gid://shopify/ProductVariant/45363709771998",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FE914FE7-C858-449F-842B-F29124E5954E.jpg?v=1715608816"
   },
   "gid://shopify/ProductVariant/45392856580318": {
     "product_title": "Pure Kemp Brass Peacock Jadau Long Haram with Earrings",
