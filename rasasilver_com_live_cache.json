@@ -7987,7 +7987,7 @@
     "variant_title": "Default Title",
     "sku": "R17422",
     "price": 2890.0,
-    "stock": 18,
+    "stock": 17,
     "url": "https://www.rasasilver.com/products/kanchan-spark-studs?variant=gid://shopify/ProductVariant/51488632471849",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0052copy_resized.jpg?v=1762943543"
   },
@@ -19421,15 +19421,6 @@
     "url": "https://www.rasasilver.com/products/multimuse-stone-bracelet?variant=gid://shopify/ProductVariant/53133321437481",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11864_resized.jpg?v=1781159435"
   },
-  "gid://shopify/ProductVariant/53133827703081": {
-    "product_title": "Svara Toe Rings",
-    "variant_title": "Default Title",
-    "sku": "R31637",
-    "price": 1955.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/svara-toe-rings?variant=gid://shopify/ProductVariant/53133827703081",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5782_resized.jpg?v=1782386232"
-  },
   "gid://shopify/ProductVariant/53133895467305": {
     "product_title": "Viona Toe Ring",
     "variant_title": "Default Title",
@@ -19681,15 +19672,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/flora-pink-oxidized-payal?variant=gid://shopify/ProductVariant/53149276733737",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0718_resized.jpg?v=1780925424"
-  },
-  "gid://shopify/ProductVariant/53149330932009": {
-    "product_title": "Aarna Bracelet",
-    "variant_title": "Default Title",
-    "sku": "R13017",
-    "price": 4250.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/aarna-bracelet?variant=gid://shopify/ProductVariant/53149330932009",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsApp_Image_2026-08-03_at_3.47.24_PM.jpg?v=1785752293"
   },
   "gid://shopify/ProductVariant/53149351313705": {
     "product_title": "Pallavi Antique Haath Phool",
@@ -19966,7 +19948,7 @@
     "variant_title": "Default Title",
     "sku": "R27970",
     "price": 6630.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/pankhudi-oxidised-jhumki?variant=gid://shopify/ProductVariant/53150242472233",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11656_resized.jpg?v=1780728247"
   },
@@ -44468,6 +44450,15 @@
     "url": "https://www.rasasilver.com/products/kshira-temple-studs?variant=gid://shopify/ProductVariant/53133631947049",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0133_resized.jpg?v=1781256131"
   },
+  "gid://shopify/ProductVariant/53133827703081": {
+    "product_title": "Svara Toe Rings",
+    "variant_title": "Default Title",
+    "sku": "R31637",
+    "price": 1955.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/svara-toe-rings?variant=gid://shopify/ProductVariant/53133827703081",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5782_resized.jpg?v=1782386232"
+  },
   "gid://shopify/ProductVariant/53137971282217": {
     "product_title": "Tattva Toe Ring",
     "variant_title": "Default Title",
@@ -44647,6 +44638,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/eternal-link-bracelet?variant=gid://shopify/ProductVariant/53149272277289",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0737_resized_134be3cf-0873-4171-9d83-5e0af2f11846.jpg?v=1785753222"
+  },
+  "gid://shopify/ProductVariant/53149330932009": {
+    "product_title": "Aarna Bracelet",
+    "variant_title": "Default Title",
+    "sku": "R13017",
+    "price": 4250.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/aarna-bracelet?variant=gid://shopify/ProductVariant/53149330932009",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsApp_Image_2026-08-03_at_3.47.24_PM.jpg?v=1785752293"
   },
   "gid://shopify/ProductVariant/53149470982441": {
     "product_title": "Oxidised Phool Payal",
