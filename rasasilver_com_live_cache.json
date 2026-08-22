@@ -1853,15 +1853,6 @@
     "url": "https://www.rasasilver.com/products/dwa?variant=gid://shopify/ProductVariant/50325040595241",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/iuy76rtrut7.jpg?v=1750154416"
   },
-  "gid://shopify/ProductVariant/50325061927209": {
-    "product_title": "Thiruvilakku Haaram",
-    "variant_title": "Default Title",
-    "sku": "R3778",
-    "price": 95000.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/ere?variant=gid://shopify/ProductVariant/50325061927209",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP03694copy.jpg?v=1750154970"
-  },
   "gid://shopify/ProductVariant/52290992013609": {
     "product_title": "Infinity Twins Bangles",
     "variant_title": "2.2",
@@ -15839,15 +15830,6 @@
     "url": "https://www.rasasilver.com/products/kundika-kundan-necklace?variant=gid://shopify/ProductVariant/52752432759081",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5359_resized.jpg?v=1772543410"
   },
-  "gid://shopify/ProductVariant/52752695197993": {
-    "product_title": "Pearika Kundan Necklace",
-    "variant_title": "Default Title",
-    "sku": "R25072",
-    "price": 26945.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/pearika-kundan-necklace?variant=gid://shopify/ProductVariant/52752695197993",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5325_resized.jpg?v=1772543565"
-  },
   "gid://shopify/ProductVariant/52752941089065": {
     "product_title": "Pushpika-Mor Kundan Necklace",
     "variant_title": "Default Title",
@@ -26125,6 +26107,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/vivaahgleam-manglsutra-set?variant=gid://shopify/ProductVariant/50313215508777",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP08196copy2_1.jpg?v=1747921521"
+  },
+  "gid://shopify/ProductVariant/50325061927209": {
+    "product_title": "Thiruvilakku Haaram",
+    "variant_title": "Default Title",
+    "sku": "R3778",
+    "price": 95000.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ere?variant=gid://shopify/ProductVariant/50325061927209",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP03694copy.jpg?v=1750154970"
   },
   "gid://shopify/ProductVariant/50325765685545": {
     "product_title": "Ovalelle Duo Bangles",
@@ -40588,6 +40579,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/florusha-kundan-necklace?variant=gid://shopify/ProductVariant/52750983921961",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5312_resized.jpg?v=1772541117"
+  },
+  "gid://shopify/ProductVariant/52752695197993": {
+    "product_title": "Pearika Kundan Necklace",
+    "variant_title": "Default Title",
+    "sku": "R25072",
+    "price": 26945.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/pearika-kundan-necklace?variant=gid://shopify/ProductVariant/52752695197993",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5325_resized.jpg?v=1772543565"
   },
   "gid://shopify/ProductVariant/52753164534057": {
     "product_title": "Pushpra Kundan Necklace",
