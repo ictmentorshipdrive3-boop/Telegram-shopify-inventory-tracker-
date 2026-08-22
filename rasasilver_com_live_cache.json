@@ -706,7 +706,7 @@
     "variant_title": "Default Title",
     "sku": "R15884",
     "price": 2210.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/pachai-ratnam-studs?variant=gid://shopify/ProductVariant/50074586120489",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP05605_copy.jpg?v=1743660656"
   },
@@ -724,7 +724,7 @@
     "variant_title": "Default Title",
     "sku": "R20419",
     "price": 3060.0,
-    "stock": 16,
+    "stock": 9,
     "url": "https://www.rasasilver.com/products/flowery-ruby-studs?variant=gid://shopify/ProductVariant/50082055651625",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP05460_copy.jpg?v=1743511206"
   },
@@ -787,7 +787,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R11780",
     "price": 3315.0,
-    "stock": 11,
+    "stock": 9,
     "url": "https://www.rasasilver.com/products/saanjh-earring?variant=gid://shopify/ProductVariant/50869131313449",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/8_b088a12e-cc0e-475b-ae70-603aa2d9cf35.jpg?v=1743489289"
   },
@@ -2758,7 +2758,7 @@
     "variant_title": "Default Title",
     "sku": "R11729",
     "price": 3485.0,
-    "stock": 28,
+    "stock": 23,
     "url": "https://www.rasasilver.com/products/green-whisper-studs-1?variant=gid://shopify/ProductVariant/50478674411817",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Screenshot2025-04-20145843_119af41a-4086-405f-be19-59f97a7bb520.png?v=1749455078"
   },
@@ -3775,7 +3775,7 @@
     "variant_title": "Default Title",
     "sku": "R20374",
     "price": 1785.0,
-    "stock": 14,
+    "stock": 8,
     "url": "https://www.rasasilver.com/products/35?variant=gid://shopify/ProductVariant/50712002330921",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_723b0375-1d76-4ccb-a761-ebd44e7148dd.jpg?v=1754916327"
   },
@@ -15493,7 +15493,7 @@
     "variant_title": "Default Title",
     "sku": "R25383",
     "price": 3570.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/back-chain-copy?variant=gid://shopify/ProductVariant/52737922302249",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Screenshot2026-02-23at5_17_18PMcopy_jpg.jpg?v=1771847962"
   },
@@ -22540,7 +22540,7 @@
     "variant_title": "Default Title",
     "sku": "R31489",
     "price": 2465.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/panna-manik-stone-studs?variant=gid://shopify/ProductVariant/53296613753129",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2230_resized.jpg?v=1782826064"
   },
@@ -47176,6 +47176,24 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/ramabhadra-temple-necklace?variant=gid://shopify/ProductVariant/53411215671593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_41_107Pics0450_2.jpg?v=1786707584"
+  },
+  "gid://shopify/ProductVariant/53411227369769": {
+    "product_title": "Shree Samriddhi Temple Necklace",
+    "variant_title": "Ruby Pink",
+    "sku": "R33496",
+    "price": 89200.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/shree-samriddhi-temple-necklace?variant=gid://shopify/ProductVariant/53411227369769",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_10Aug56782F.jpg?v=1787385274"
+  },
+  "gid://shopify/ProductVariant/53411227402537": {
+    "product_title": "Shree Samriddhi Temple Necklace",
+    "variant_title": "GREEN",
+    "sku": "R33497",
+    "price": 89200.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/shree-samriddhi-temple-necklace?variant=gid://shopify/ProductVariant/53411227402537",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_10Aug56782F.jpg?v=1787385274"
   },
   "gid://shopify/ProductVariant/53411230155049": {
     "product_title": "Aarvya Kundan Studs",
