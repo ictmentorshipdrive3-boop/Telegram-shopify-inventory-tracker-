@@ -7438,7 +7438,7 @@
     "variant_title": "Default Title",
     "sku": "NK197",
     "price": 546.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.kanshijewels.com/products/multipurpose-chain?variant=gid://shopify/ProductVariant/50702819459372",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Multipurposechain490.heic?v=1741258068"
   },
@@ -8035,15 +8035,6 @@
     "stock": 4,
     "url": "https://www.kanshijewels.com/products/jadau-necklace-4?variant=gid://shopify/ProductVariant/51119699067180",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaunecklace3200.jpg?v=1747994941"
-  },
-  "gid://shopify/ProductVariant/51119705325868": {
-    "product_title": "Jadau Necklace",
-    "variant_title": "Default Title",
-    "sku": "NK146",
-    "price": 2100.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-necklace-5?variant=gid://shopify/ProductVariant/51119705325868",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaunecklace2900.jpg?v=1747995028"
   },
   "gid://shopify/ProductVariant/51119706538284": {
     "product_title": "Jadau Necklace",
@@ -13354,6 +13345,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/nakashi-necklace?variant=gid://shopify/ProductVariant/51119199945004",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Nakashichokarnecklace2200.jpg?v=1747981892"
+  },
+  "gid://shopify/ProductVariant/51119705325868": {
+    "product_title": "Jadau Necklace",
+    "variant_title": "Default Title",
+    "sku": "NK146",
+    "price": 2100.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-necklace-5?variant=gid://shopify/ProductVariant/51119705325868",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaunecklace2900.jpg?v=1747995028"
   },
   "gid://shopify/ProductVariant/51119726395692": {
     "product_title": "Coral Pearl Kundan fusion Rani Haram",
