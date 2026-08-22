@@ -22234,7 +22234,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-9399",
     "price": 41050.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/natasha-short-necklace?variant=gid://shopify/ProductVariant/46601534144739",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9399.jpg?v=1749797828"
   },
@@ -22670,15 +22670,6 @@
     "url": "https://www.theamethyststore.com/products/hanshika-kundan-ring?variant=gid://shopify/ProductVariant/46735422357731",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0940_587a9220-de83-42d6-8489-f292d6b6e516.jpg?v=1761373915"
   },
-  "gid://shopify/ProductVariant/46735423897827": {
-    "product_title": "Fathima Kundan Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-0941",
-    "price": 2500.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/fathima-kundan-ring?variant=gid://shopify/ProductVariant/46735423897827",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0941.jpg?v=1750415771"
-  },
   "gid://shopify/ProductVariant/46735428845795": {
     "product_title": "Reena Kundan Ring",
     "variant_title": "Default Title",
@@ -22732,15 +22723,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/katrina-kundan-ring?variant=gid://shopify/ProductVariant/46735466889443",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0951.jpg?v=1750417809"
-  },
-  "gid://shopify/ProductVariant/46735484256483": {
-    "product_title": "Vargavi Kundan Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-0953",
-    "price": 2700.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/vargavi-kundan-ring?variant=gid://shopify/ProductVariant/46735484256483",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0953.jpg?v=1750418377"
   },
   "gid://shopify/ProductVariant/46735489302755": {
     "product_title": "Aanvi Kundan Ring",
@@ -109403,6 +109385,15 @@
     "url": "https://www.theamethyststore.com/products/dharshini-kundan-studs?variant=gid://shopify/ProductVariant/46730500833507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8694.jpg?v=1750252311"
   },
+  "gid://shopify/ProductVariant/46735423897827": {
+    "product_title": "Fathima Kundan Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-0941",
+    "price": 2500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/fathima-kundan-ring?variant=gid://shopify/ProductVariant/46735423897827",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0941.jpg?v=1750415771"
+  },
   "gid://shopify/ProductVariant/46735430254819": {
     "product_title": "White Kundan Ring",
     "variant_title": "Default Title",
@@ -109411,6 +109402,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/white-kundan-ring?variant=gid://shopify/ProductVariant/46735430254819",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0943.jpg?v=1750416089"
+  },
+  "gid://shopify/ProductVariant/46735484256483": {
+    "product_title": "Vargavi Kundan Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-0953",
+    "price": 2700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vargavi-kundan-ring?variant=gid://shopify/ProductVariant/46735484256483",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0953.jpg?v=1750418377"
   },
   "gid://shopify/ProductVariant/46740056637667": {
     "product_title": "Trendy Look Studs",
