@@ -11731,7 +11731,7 @@
     "variant_title": "2",
     "sku": "1596",
     "price": 1299.0,
-    "stock": 12,
+    "stock": 10,
     "url": "https://www.daivik.in/products/lotus-kemp-jadau-bugadi?variant=gid://shopify/ProductVariant/46641574969566",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A898065E-12E0-47C3-BCB6-CA5281F12C97.jpg?v=1745678801"
   },
@@ -20294,15 +20294,6 @@
     "url": "https://www.daivik.in/products/diamond-look-alike-square-pattern-necklace-with-earrings-in-two-colors?variant=gid://shopify/ProductVariant/48341689860318",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FE2D1F67-6825-4EB8-BB4E-B04B5B3CA22A.jpg?v=1781696551"
   },
-  "gid://shopify/ProductVariant/48341912387806": {
-    "product_title": "AD Non Piercing Nosepin in 3 Colors (Price for Each)",
-    "variant_title": "Ruby",
-    "sku": "1913",
-    "price": 299.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-non-piercing-nosepin-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/48341912387806",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5358.jpg?v=1781711079"
-  },
   "gid://shopify/ProductVariant/48341912420574": {
     "product_title": "AD Non Piercing Nosepin in 3 Colors (Price for Each)",
     "variant_title": "Green",
@@ -21031,15 +21022,6 @@
     "stock": 3,
     "url": "https://www.daivik.in/products/diamond-look-alike-hasli-necklace-with-earrings-1?variant=gid://shopify/ProductVariant/48542645551326",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_56062.jpg?v=1785659057"
-  },
-  "gid://shopify/ProductVariant/48542646599902": {
-    "product_title": "Diamond Look Alike Hasli Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "1402",
-    "price": 1599.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diamond-look-alike-hasli-necklace-with-earrings-2?variant=gid://shopify/ProductVariant/48542646599902",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_56122.jpg?v=1785659230"
   },
   "gid://shopify/ProductVariant/48543801835742": {
     "product_title": "Pure Kemp Brass Jadau Earcuff in Two Colors (Price for Each)",
@@ -30680,6 +30662,15 @@
     "url": "https://www.daivik.in/products/ad-ruby-pearl-floral-combo?variant=gid://shopify/ProductVariant/48315170914526",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6BB7EEE1-75CA-4229-8BFB-F555807A583C.jpg?v=1780914224"
   },
+  "gid://shopify/ProductVariant/48341912387806": {
+    "product_title": "AD Non Piercing Nosepin in 3 Colors (Price for Each)",
+    "variant_title": "Ruby",
+    "sku": "1913",
+    "price": 299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-non-piercing-nosepin-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/48341912387806",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5358.jpg?v=1781711079"
+  },
   "gid://shopify/ProductVariant/48349419602142": {
     "product_title": "Antique Lakhsmi Short and Long Necklace with Jhumkas (Prices for Short, Long and Combo)",
     "variant_title": "Combo",
@@ -30742,6 +30733,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/three-layered-pearl-necklace-with-earrings?variant=gid://shopify/ProductVariant/48513202520286",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_03492.jpg?v=1785257794"
+  },
+  "gid://shopify/ProductVariant/48542646599902": {
+    "product_title": "Diamond Look Alike Hasli Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "1402",
+    "price": 1599.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diamond-look-alike-hasli-necklace-with-earrings-2?variant=gid://shopify/ProductVariant/48542646599902",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_56122.jpg?v=1785659230"
   },
   "gid://shopify/ProductVariant/48547820536030": {
     "product_title": "Heritage Antique Watch Bracelet",
