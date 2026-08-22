@@ -55457,15 +55457,6 @@
     "url": "https://www.theamethyststore.com/products/traditional-nagas-short-necklace-set-3?variant=gid://shopify/ProductVariant/47913251864803",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13375.jpg?v=1770101658"
   },
-  "gid://shopify/ProductVariant/47913263694051": {
-    "product_title": "Haridhya Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-13377",
-    "price": 44240.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/haridhya-short-necklace-set?variant=gid://shopify/ProductVariant/47913263694051",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13377.jpg?v=1770102994"
-  },
   "gid://shopify/ProductVariant/47913290924259": {
     "product_title": "Sparkling Short Necklace Set",
     "variant_title": "Default Title",
@@ -64258,15 +64249,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/nagas-long-necklace-29?variant=gid://shopify/ProductVariant/48427805901027",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15069.jpg?v=1773141690"
-  },
-  "gid://shopify/ProductVariant/48427973247203": {
-    "product_title": "Lavishing Long Avikam Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15122",
-    "price": 127160.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/lavishing-long-avikam-necklace?variant=gid://shopify/ProductVariant/48427973247203",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15122.jpg?v=1773147996"
   },
   "gid://shopify/ProductVariant/48428056051939": {
     "product_title": "Spark Stone Short Necklace",
@@ -86434,15 +86416,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/kundan-studs-24?variant=gid://shopify/ProductVariant/49421238796515",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15436.jpg?v=1784287072"
-  },
-  "gid://shopify/ProductVariant/49421283393763": {
-    "product_title": "Stunning Avikam Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16799",
-    "price": 80900.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/stunning-avikam-necklace-set-2?variant=gid://shopify/ProductVariant/49421283393763",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16799.jpg?v=1784290128"
   },
   "gid://shopify/ProductVariant/49421288341731": {
     "product_title": "Nethirkaa Kundan Jhumkas",
@@ -116261,6 +116234,15 @@
     "url": "https://www.theamethyststore.com/products/short-necklace-38?variant=gid://shopify/ProductVariant/47896904270051",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13935.jpg?v=1769756043"
   },
+  "gid://shopify/ProductVariant/47913263694051": {
+    "product_title": "Haridhya Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-13377",
+    "price": 44240.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/haridhya-short-necklace-set?variant=gid://shopify/ProductVariant/47913263694051",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13377.jpg?v=1770102994"
+  },
   "gid://shopify/ProductVariant/47913411543267": {
     "product_title": "Yazhikha Long Necklace Set",
     "variant_title": "Default Title",
@@ -118240,6 +118222,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/deep-nagas-oddiyanam?variant=gid://shopify/ProductVariant/48427830804707",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0864.jpg?v=1773142539"
+  },
+  "gid://shopify/ProductVariant/48427973247203": {
+    "product_title": "Lavishing Long Avikam Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15122",
+    "price": 127160.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/lavishing-long-avikam-necklace?variant=gid://shopify/ProductVariant/48427973247203",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15122.jpg?v=1773147996"
   },
   "gid://shopify/ProductVariant/48465314808035": {
     "product_title": "Jivika Oxidised Short Necklace",
@@ -124837,6 +124828,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/vikitha-avikam-necklace-set?variant=gid://shopify/ProductVariant/49421201932515",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16780.jpg?v=1784284907"
+  },
+  "gid://shopify/ProductVariant/49421283393763": {
+    "product_title": "Stunning Avikam Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16799",
+    "price": 80900.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/stunning-avikam-necklace-set-2?variant=gid://shopify/ProductVariant/49421283393763",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16799.jpg?v=1784290128"
   },
   "gid://shopify/ProductVariant/49421305086179": {
     "product_title": "Facinate Avikam Necklace Set",
