@@ -8815,7 +8815,7 @@
     "variant_title": "Default Title",
     "sku": "NK77",
     "price": 7339.5,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-long-harams-30?variant=gid://shopify/ProductVariant/52022461464876",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_2798.jpg?v=1758881698"
   },
@@ -9556,15 +9556,6 @@
     "stock": 2,
     "url": "https://www.kanshijewels.com/products/jadau-tika-1?variant=gid://shopify/ProductVariant/52445296492844",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadautika1300.jpg?v=1766141367"
-  },
-  "gid://shopify/ProductVariant/52445307601196": {
-    "product_title": "Jadau tika",
-    "variant_title": "Default Title",
-    "sku": "MT02",
-    "price": 1200.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-tika-6?variant=gid://shopify/ProductVariant/52445307601196",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_3119.jpg?v=1766141843"
   },
   "gid://shopify/ProductVariant/52445324738860": {
     "product_title": "Mossanite earrings",
@@ -13840,6 +13831,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/jadau-tika-5?variant=gid://shopify/ProductVariant/52445305143596",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadautika1200.jpg?v=1766141622"
+  },
+  "gid://shopify/ProductVariant/52445307601196": {
+    "product_title": "Jadau tika",
+    "variant_title": "Default Title",
+    "sku": "MT02",
+    "price": 1200.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-tika-6?variant=gid://shopify/ProductVariant/52445307601196",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_3119.jpg?v=1766141843"
   },
   "gid://shopify/ProductVariant/52445344858412": {
     "product_title": "Jadau jhumkas",
