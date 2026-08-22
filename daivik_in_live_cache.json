@@ -7969,7 +7969,7 @@
     "variant_title": "Default Title",
     "sku": "1117",
     "price": 999.0,
-    "stock": 41,
+    "stock": 40,
     "url": "https://www.daivik.in/products/ad-pendant-mangalsutra-with-studs?variant=gid://shopify/ProductVariant/45905761435870",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1BFD7312-DC7F-4913-8069-C828D5725142.jpg?v=1726894974"
   },
@@ -16568,15 +16568,6 @@
     "url": "https://www.daivik.in/products/ad-mesh-necklace-with-studs-in-5-colours-price-for-each?variant=gid://shopify/ProductVariant/47669942091998",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D2F649D9-0CC0-47ED-8F54-DCF4D0222297.jpg?v=1762878208"
   },
-  "gid://shopify/ProductVariant/47669942223070": {
-    "product_title": "AD Mesh Necklace with Studs in 5 Colours ( Price for Each )",
-    "variant_title": "Dark Green",
-    "sku": "1335",
-    "price": 649.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-mesh-necklace-with-studs-in-5-colours-price-for-each?variant=gid://shopify/ProductVariant/47669942223070",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D2F649D9-0CC0-47ED-8F54-DCF4D0222297.jpg?v=1762878208"
-  },
   "gid://shopify/ProductVariant/47670974021854": {
     "product_title": "Lakshmi Golden and White Pearl Jhumkas",
     "variant_title": "Default Title",
@@ -19471,7 +19462,7 @@
     "variant_title": "Default Title",
     "sku": "1874",
     "price": 1499.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/kemp-jhumkas-with-kemp-mattal?variant=gid://shopify/ProductVariant/48143141667038",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2049B20A-0E46-4E07-B91C-71BFC1D59A54.jpg?v=1776858167"
   },
@@ -29545,6 +29536,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/bridal-lakshmi-combo-available-in-short-long-hipbelt-and-combo?variant=gid://shopify/ProductVariant/47665374757086",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8F0AF96C-59B1-4081-9664-4D9C72F939C5.jpg?v=1762689546"
+  },
+  "gid://shopify/ProductVariant/47669942223070": {
+    "product_title": "AD Mesh Necklace with Studs in 5 Colours ( Price for Each )",
+    "variant_title": "Dark Green",
+    "sku": "1335",
+    "price": 649.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-mesh-necklace-with-studs-in-5-colours-price-for-each?variant=gid://shopify/ProductVariant/47669942223070",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D2F649D9-0CC0-47ED-8F54-DCF4D0222297.jpg?v=1762878208"
   },
   "gid://shopify/ProductVariant/47669942190302": {
     "product_title": "AD Mesh Necklace with Studs in 5 Colours ( Price for Each )",
