@@ -427,7 +427,7 @@
     "variant_title": "Default Title",
     "sku": "NK872",
     "price": 1680.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-necklace-19?variant=gid://shopify/ProductVariant/45426029134124",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0192.jpg?v=1686915799"
   },
@@ -11474,15 +11474,6 @@
     "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-9?variant=gid://shopify/ProductVariant/53714395529516",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1999.jpg?v=1787031939"
   },
-  "gid://shopify/ProductVariant/53714404213036": {
-    "product_title": "Classic Jadau Earrings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 3999.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-10?variant=gid://shopify/ProductVariant/53714404213036",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/3999_2.jpg?v=1787032512"
-  },
   "gid://shopify/ProductVariant/53714412110124": {
     "product_title": "Classic Jadau Earrings",
     "variant_title": "Default Title",
@@ -11626,15 +11617,6 @@
     "stock": 1,
     "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-26?variant=gid://shopify/ProductVariant/53714540364076",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Kanshijewels_4.jpg?v=1787036162"
-  },
-  "gid://shopify/ProductVariant/53714550849836": {
-    "product_title": "Classic Jadau Earrings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 3999.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-27?variant=gid://shopify/ProductVariant/53714550849836",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Kanshijewels_3.jpg?v=1787036294"
   },
   "gid://shopify/ProductVariant/53714561499436": {
     "product_title": "Classic Jadau Earrings",
@@ -14029,5 +14011,23 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/designer-coral-cz-danglers?variant=gid://shopify/ProductVariant/53369132024108",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Designercoralczdanglers320.jpg?v=1782221208"
+  },
+  "gid://shopify/ProductVariant/53714404213036": {
+    "product_title": "Classic Jadau Earrings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 3999.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-10?variant=gid://shopify/ProductVariant/53714404213036",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/3999_2.jpg?v=1787032512"
+  },
+  "gid://shopify/ProductVariant/53714550849836": {
+    "product_title": "Classic Jadau Earrings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 3999.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-27?variant=gid://shopify/ProductVariant/53714550849836",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Kanshijewels_3.jpg?v=1787036294"
   }
 }
