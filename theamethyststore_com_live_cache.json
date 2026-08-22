@@ -5764,7 +5764,7 @@
     "variant_title": "9 Inches",
     "sku": "AMS-119-0001-ML",
     "price": 4800.0,
-    "stock": 25,
+    "stock": 24,
     "url": "https://www.theamethyststore.com/products/fish-hook-back-chain?variant=gid://shopify/ProductVariant/43970730000611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_21dbdd2e-d30a-4019-816f-52833d641d9a.jpg?v=1693456844"
   },
@@ -62063,15 +62063,6 @@
     "url": "https://www.theamethyststore.com/products/sarvika-stone-drops?variant=gid://shopify/ProductVariant/48292747280611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12409.jpg?v=1771571169"
   },
-  "gid://shopify/ProductVariant/48292753113315": {
-    "product_title": "Malinisri Pakshi Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-14136",
-    "price": 13288.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/malinisri-pakshi-long-necklace?variant=gid://shopify/ProductVariant/48292753113315",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14136-_2.jpg?v=1771571392"
-  },
   "gid://shopify/ProductVariant/48292774150371": {
     "product_title": "Anvikha Stone Jhumkas",
     "variant_title": "Default Title",
@@ -97019,15 +97010,6 @@
     "url": "https://www.theamethyststore.com/products/nagas-pendant-45?variant=gid://shopify/ProductVariant/49519914254563",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4911.jpg?v=1786432580"
   },
-  "gid://shopify/ProductVariant/49520017834211": {
-    "product_title": "Lord Krishna-inspired Nagas Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-4912",
-    "price": 8500.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nagas-pendant-46?variant=gid://shopify/ProductVariant/49520017834211",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4912.jpg?v=1786434107"
-  },
   "gid://shopify/ProductVariant/49520035856611": {
     "product_title": "Sharvika Kundan Long Necklace",
     "variant_title": "Default Title",
@@ -104533,6 +104515,15 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/nithya-bullakku-nose-pin?variant=gid://shopify/ProductVariant/49572572496099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0457.jpg?v=1787320876"
+  },
+  "gid://shopify/ProductVariant/49575192494307": {
+    "product_title": "Traditional 3D Spl Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17648",
+    "price": 81500.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/traditional-3d-spl-short-necklace-set-2?variant=gid://shopify/ProductVariant/49575192494307",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17648.jpg?v=1787373588"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -117179,6 +117170,15 @@
     "url": "https://www.theamethyststore.com/products/shervin-kaasu-malai-necklace?variant=gid://shopify/ProductVariant/48289010155747",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14472.jpg?v=1771503861"
   },
+  "gid://shopify/ProductVariant/48292753113315": {
+    "product_title": "Malinisri Pakshi Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-14136",
+    "price": 13288.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/malinisri-pakshi-long-necklace?variant=gid://shopify/ProductVariant/48292753113315",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14136-_2.jpg?v=1771571392"
+  },
   "gid://shopify/ProductVariant/48292804329699": {
     "product_title": "Charmin Stone Jhumkas",
     "variant_title": "Default Title",
@@ -125089,6 +125089,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/testing-lmx?variant=gid://shopify/ProductVariant/49519917891811",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_jpg_df2c206f-8fda-456b-8e49-4954ebb24623.jpg?v=1786432571"
+  },
+  "gid://shopify/ProductVariant/49520017834211": {
+    "product_title": "Lord Krishna-inspired Nagas Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4912",
+    "price": 8500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-pendant-46?variant=gid://shopify/ProductVariant/49520017834211",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4912.jpg?v=1786434107"
   },
   "gid://shopify/ProductVariant/49524020216035": {
     "product_title": "Yalisha Nagas Choker",
