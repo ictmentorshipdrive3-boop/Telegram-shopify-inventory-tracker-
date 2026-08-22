@@ -5120,15 +5120,6 @@
     "url": "https://www.theamethyststore.com/products/taryn-style-ring?variant=gid://shopify/ProductVariant/43893948350691",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0476.jpg?v=1687525262"
   },
-  "gid://shopify/ProductVariant/43894808248547": {
-    "product_title": "Asmi Heart Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-4632",
-    "price": 22264.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/asmi-heart-earrings?variant=gid://shopify/ProductVariant/43894808248547",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/21.jpg?v=1687954558"
-  },
   "gid://shopify/ProductVariant/43894812999907": {
     "product_title": "Yaswini Studs",
     "variant_title": "Default Title",
@@ -23947,15 +23938,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/bindhya-beads-long-necklace?variant=gid://shopify/ProductVariant/46764068700387",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9853.jpg?v=1751266662"
-  },
-  "gid://shopify/ProductVariant/46764083937507": {
-    "product_title": "Fabulous Victorian Long Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-9132",
-    "price": 11825.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/fabulous-victorian-long-earrings-1?variant=gid://shopify/ProductVariant/46764083937507",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9132.jpg?v=1751266803"
   },
   "gid://shopify/ProductVariant/46764144754915": {
     "product_title": "Vibha Beads Long Necklace",
@@ -106262,6 +106244,15 @@
     "url": "https://www.theamethyststore.com/products/jaanvhi-deep-nagas-necklace?variant=gid://shopify/ProductVariant/43884458475747",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-4443.jpg?v=1686728560"
   },
+  "gid://shopify/ProductVariant/43894808248547": {
+    "product_title": "Asmi Heart Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-4632",
+    "price": 22264.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/asmi-heart-earrings?variant=gid://shopify/ProductVariant/43894808248547",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/21.jpg?v=1687954558"
+  },
   "gid://shopify/ProductVariant/43908580212963": {
     "product_title": "Charmy Stone Necklace Set",
     "variant_title": "Default Title",
@@ -110032,6 +110023,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/arunika-beads-long-necklace?variant=gid://shopify/ProductVariant/46764032950499",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9849.jpg?v=1751266142"
+  },
+  "gid://shopify/ProductVariant/46764083937507": {
+    "product_title": "Fabulous Victorian Long Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-9132",
+    "price": 11825.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/fabulous-victorian-long-earrings-1?variant=gid://shopify/ProductVariant/46764083937507",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9132.jpg?v=1751266803"
   },
   "gid://shopify/ProductVariant/46764100026595": {
     "product_title": "Tanu Beads Long Necklace",
