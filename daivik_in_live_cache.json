@@ -22,7 +22,7 @@
     "variant_title": "Default Title",
     "sku": "42",
     "price": 2499.0,
-    "stock": 3,
+    "stock": 25,
     "url": "https://www.daivik.in/products/42?variant=gid://shopify/ProductVariant/32600742723643",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_ae83b031-205e-453b-8bb4-cd73dcec54c8.jpg?v=1598451549"
   },
@@ -1583,15 +1583,6 @@
     "url": "https://www.daivik.in/products/peacock-pure-kemp-balis?variant=gid://shopify/ProductVariant/42115154084062",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_960c7e1a-3fd3-4a16-a3b2-86f51319c3cd.jpg?v=1637935654"
   },
-  "gid://shopify/ProductVariant/42121213542622": {
-    "product_title": "Ghungroo Hipbelt in 2 variants",
-    "variant_title": "White pearl",
-    "sku": "967",
-    "price": 2099.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ghungroo-hipbelt-in-2-variants?variant=gid://shopify/ProductVariant/42121213542622",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_6f9650ba-b18b-42ec-be91-b475f4b315e7.jpg?v=1638111695"
-  },
   "gid://shopify/ProductVariant/42121223176414": {
     "product_title": "Ghungroo Hipbelt in 2 variants",
     "variant_title": "Golden pearl",
@@ -1897,6 +1888,15 @@
     "stock": 24,
     "url": "https://www.daivik.in/products/small-kemp-balis?variant=gid://shopify/ProductVariant/42391386226910",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_1f89bc3f-38a4-4217-b711-e4080be47184.jpg?v=1643126952"
+  },
+  "gid://shopify/ProductVariant/42396464087262": {
+    "product_title": "Pure kemp Nagasi hipbelt",
+    "variant_title": "Default Title",
+    "sku": "617",
+    "price": 5999.0,
+    "stock": 2,
+    "url": "https://www.daivik.in/products/pure-kemp-nagasi-hipbelt?variant=gid://shopify/ProductVariant/42396464087262",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_d57c40ff-8652-4482-aecb-c7d1af2fb01e.jpg?v=1643209132"
   },
   "gid://shopify/ProductVariant/42401506722014": {
     "product_title": "Set of 6 Golden pearl Bangles",
@@ -2438,6 +2438,15 @@
     "url": "https://www.daivik.in/products/a-131?variant=gid://shopify/ProductVariant/42917493244126",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_05bf778e-6336-4306-9368-d1a560eca725.heic?v=1654612524"
   },
+  "gid://shopify/ProductVariant/42938514997470": {
+    "product_title": "Gold finish Antique Lakshmi Hipbelt",
+    "variant_title": "Default Title",
+    "sku": "318",
+    "price": 7499.0,
+    "stock": 4,
+    "url": "https://www.daivik.in/products/a-145?variant=gid://shopify/ProductVariant/42938514997470",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_d63168f2-bd2e-452f-b8b9-9625fe761e41.heic?v=1654957806"
+  },
   "gid://shopify/ProductVariant/42942923407582": {
     "product_title": "Simple Circle Ad Necklace with earrings",
     "variant_title": "Default Title",
@@ -2506,7 +2515,7 @@
     "variant_title": "Default Title",
     "sku": "581",
     "price": 5999.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/a-144?variant=gid://shopify/ProductVariant/43057931223262",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_89a651cf-4620-421f-9548-1b0208432112.heic?v=1656949035"
   },
@@ -4567,7 +4576,7 @@
     "variant_title": "Default Title",
     "sku": "910",
     "price": 1099.0,
-    "stock": 6,
+    "stock": 32,
     "url": "https://www.daivik.in/products/untitled-sep7_21-09?variant=gid://shopify/ProductVariant/44338668208350",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D54EFA73-AB4B-4A50-8663-86F80E2924BA.jpg?v=1694101215"
   },
@@ -5674,7 +5683,7 @@
     "variant_title": "Default Title",
     "sku": "974",
     "price": 799.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/simple-ghungroo-box-anklets?variant=gid://shopify/ProductVariant/44626224054494",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_d775e362-7320-45bd-a85a-ee87fd54d9d1.jpg?v=1703433466"
   },
@@ -7708,7 +7717,7 @@
     "variant_title": "Default Title",
     "sku": "1102",
     "price": 2199.0,
-    "stock": 6,
+    "stock": 15,
     "url": "https://www.daivik.in/products/ganesha-textured-hipbelt?variant=gid://shopify/ProductVariant/45813241708766",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG-7171.heic?v=1723817414"
   },
@@ -7954,6 +7963,15 @@
     "stock": 56,
     "url": "https://www.daivik.in/products/simple-flower-pearl-necklace-with-earrings?variant=gid://shopify/ProductVariant/45903852241118",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG-7980.heic?v=1726841814"
+  },
+  "gid://shopify/ProductVariant/45905761435870": {
+    "product_title": "AD Pendant Mangalsutra with Studs",
+    "variant_title": "Default Title",
+    "sku": "1117",
+    "price": 999.0,
+    "stock": 41,
+    "url": "https://www.daivik.in/products/ad-pendant-mangalsutra-with-studs?variant=gid://shopify/ProductVariant/45905761435870",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1BFD7312-DC7F-4913-8069-C828D5725142.jpg?v=1726894974"
   },
   "gid://shopify/ProductVariant/45906896847070": {
     "product_title": "Premium Jadau kemp Mango Motifs haram with Earrings",
@@ -9706,9 +9724,18 @@
     "variant_title": "Default Title",
     "sku": "1703",
     "price": 2499.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/ad-floral-textured-hipbelt?variant=gid://shopify/ProductVariant/46098386288862",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9D0C0E9B-3BD0-477D-B918-83FCF99CDE69.jpg?v=1732289702"
+  },
+  "gid://shopify/ProductVariant/46098407948510": {
+    "product_title": "AD Lakshmi Textured Hipbelt",
+    "variant_title": "Default Title",
+    "sku": "1704",
+    "price": 2999.0,
+    "stock": 5,
+    "url": "https://www.daivik.in/products/ad-lakshmi-textured-hipbelt?variant=gid://shopify/ProductVariant/46098407948510",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/20055F72-205F-4F4D-917E-805AC0C5481C.jpg?v=1732289835"
   },
   "gid://shopify/ProductVariant/46100678475998": {
     "product_title": "Ghungroo premium beads Mala with earrings - 18 inches",
@@ -11780,15 +11807,6 @@
     "url": "https://www.daivik.in/products/kemp-jadau-bugadi?variant=gid://shopify/ProductVariant/46641514021086",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CB5ABDC8-5C29-4FFF-A6DB-47E2CBF6855A.jpg?v=1745678929"
   },
-  "gid://shopify/ProductVariant/46643685261534": {
-    "product_title": "Simple Antique Thin Hipchain in 5 Variants ( Price for Each )",
-    "variant_title": "1",
-    "sku": "1602",
-    "price": 1299.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/simple-antique-thin-hipchain-in-5-variants-price-for-each?variant=gid://shopify/ProductVariant/46643685261534",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/rn-image_picker_lib_temp_5df87eca-eb77-47a2-bf7a-d5abb9272ce3.jpg?v=1745770753"
-  },
   "gid://shopify/ProductVariant/46643685359838": {
     "product_title": "Simple Antique Thin Hipchain in 5 Variants ( Price for Each )",
     "variant_title": "4",
@@ -11947,7 +11965,7 @@
     "variant_title": "1",
     "sku": "1606",
     "price": 1499.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/u-1?variant=gid://shopify/ProductVariant/46686857953502",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C897E96C-C8F4-431B-88C6-6A8CBEB1EFDA.jpg?v=1747063152"
   },
@@ -11956,7 +11974,7 @@
     "variant_title": "3",
     "sku": "1606",
     "price": 1799.0,
-    "stock": 6,
+    "stock": 3,
     "url": "https://www.daivik.in/products/u-1?variant=gid://shopify/ProductVariant/46686858019038",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C897E96C-C8F4-431B-88C6-6A8CBEB1EFDA.jpg?v=1747063152"
   },
@@ -11965,7 +11983,7 @@
     "variant_title": "4",
     "sku": "1606",
     "price": 1499.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/u-1?variant=gid://shopify/ProductVariant/46686858051806",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C897E96C-C8F4-431B-88C6-6A8CBEB1EFDA.jpg?v=1747063152"
   },
@@ -13225,7 +13243,7 @@
     "variant_title": "Ruby",
     "sku": "1652",
     "price": 999.0,
-    "stock": 13,
+    "stock": 12,
     "url": "https://www.daivik.in/products/3d-lakshmi-hanging-golden-pearl-balis-in-two-colors?variant=gid://shopify/ProductVariant/47445676622046",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1D410DEB-D6DA-40CB-B06A-EB974D542FFF.jpg?v=1755152775"
   },
@@ -16657,6 +16675,15 @@
     "stock": 9999,
     "url": "https://www.daivik.in/products/real-look-alike-foam-handmade-malli-pink-elastic-rubber-band-hair-tie-price-for-1-pc?variant=gid://shopify/ProductVariant/47686673858782",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7500_22a06332-60a6-4ce6-913c-1c35aba22242.heic?v=1763301029"
+  },
+  "gid://shopify/ProductVariant/47686674022622": {
+    "product_title": "Real Look alike Foam Handmade Malli Pink Shade U Pin (Price for 1 pc)",
+    "variant_title": "Default Title",
+    "sku": "3511",
+    "price": 249.0,
+    "stock": 50,
+    "url": "https://www.daivik.in/products/real-look-alike-foam-handmade-malli-pink-shade-u-pin-price-for-1-pc?variant=gid://shopify/ProductVariant/47686674022622",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7495.heic?v=1763301107"
   },
   "gid://shopify/ProductVariant/47686676349150": {
     "product_title": "Real Look alike Foam Handmade Malli White and Orange Shade Hair Clip (Price for 1 pc )",
@@ -22013,6 +22040,15 @@
     "url": "https://www.daivik.in/products/peacock-pure-kemp-balis?variant=gid://shopify/ProductVariant/42115149824222",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_960c7e1a-3fd3-4a16-a3b2-86f51319c3cd.jpg?v=1637935654"
   },
+  "gid://shopify/ProductVariant/42121213542622": {
+    "product_title": "Ghungroo Hipbelt in 2 variants",
+    "variant_title": "White pearl",
+    "sku": "967",
+    "price": 2099.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ghungroo-hipbelt-in-2-variants?variant=gid://shopify/ProductVariant/42121213542622",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_6f9650ba-b18b-42ec-be91-b475f4b315e7.jpg?v=1638111695"
+  },
   "gid://shopify/ProductVariant/42128435675358": {
     "product_title": "Simple Kemp Jhumkas in 7 colours",
     "variant_title": "Ruby",
@@ -22318,15 +22354,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/pure-kemp-brass-hipbelt?variant=gid://shopify/ProductVariant/42396271444190",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_24ea66a9-39e9-4d76-bb4f-41cd89d84181.jpg?v=1643208169"
-  },
-  "gid://shopify/ProductVariant/42396464087262": {
-    "product_title": "Pure kemp Nagasi hipbelt",
-    "variant_title": "Default Title",
-    "sku": "617",
-    "price": 5999.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/pure-kemp-nagasi-hipbelt?variant=gid://shopify/ProductVariant/42396464087262",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_d57c40ff-8652-4482-aecb-c7d1af2fb01e.jpg?v=1643209132"
   },
   "gid://shopify/ProductVariant/42429019685086": {
     "product_title": "Pure Kemp Brass choker in 2 variants (price for each)",
@@ -23029,15 +23056,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/a-140?variant=gid://shopify/ProductVariant/43277662388446",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_2bafffbe-9040-4729-ba8d-ebaa493f75fe.heic?v=1654787360"
-  },
-  "gid://shopify/ProductVariant/42938514997470": {
-    "product_title": "Gold finish Antique Lakshmi Hipbelt",
-    "variant_title": "Default Title",
-    "sku": "318",
-    "price": 7499.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/a-145?variant=gid://shopify/ProductVariant/42938514997470",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_d63168f2-bd2e-452f-b8b9-9625fe761e41.heic?v=1654957806"
   },
   "gid://shopify/ProductVariant/42966383395038": {
     "product_title": "Peacock Kemp Brass Necklace with earrings",
@@ -26216,15 +26234,6 @@
     "url": "https://www.daivik.in/products/bridal-combo?variant=gid://shopify/ProductVariant/45890065236190",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3CD1A221-61AE-4B56-BB78-B4514AE0E08B.jpg?v=1726400342"
   },
-  "gid://shopify/ProductVariant/45905761435870": {
-    "product_title": "AD Pendant Mangalsutra with Studs",
-    "variant_title": "Default Title",
-    "sku": "1117",
-    "price": 999.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/ad-pendant-mangalsutra-with-studs?variant=gid://shopify/ProductVariant/45905761435870",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1BFD7312-DC7F-4913-8069-C828D5725142.jpg?v=1726894974"
-  },
   "gid://shopify/ProductVariant/45925146263774": {
     "product_title": "Simple Mangalsutra with Earrings in 3 Colors (Prices for Each)",
     "variant_title": "Ruby Green",
@@ -26719,15 +26728,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/peacock-flower-ruby-green-textured-hipbelt?variant=gid://shopify/ProductVariant/46098367119582",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A4476454-3A6D-4F1B-B539-962EB45287C6.jpg?v=1732289552"
-  },
-  "gid://shopify/ProductVariant/46098407948510": {
-    "product_title": "AD Lakshmi Textured Hipbelt",
-    "variant_title": "Default Title",
-    "sku": "1704",
-    "price": 2999.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/ad-lakshmi-textured-hipbelt?variant=gid://shopify/ProductVariant/46098407948510",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/20055F72-205F-4F4D-917E-805AC0C5481C.jpg?v=1732289835"
   },
   "gid://shopify/ProductVariant/46108557050078": {
     "product_title": "Designer Flexible Kada in 2 colours (Price for all pair)",
@@ -27718,6 +27718,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/floral-kemp-jadau-bugadi?variant=gid://shopify/ProductVariant/46641587454174",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B07640AF-C4B3-462E-85D3-56E83AC30C0F.jpg?v=1745679389"
+  },
+  "gid://shopify/ProductVariant/46643685261534": {
+    "product_title": "Simple Antique Thin Hipchain in 5 Variants ( Price for Each )",
+    "variant_title": "1",
+    "sku": "1602",
+    "price": 1299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/simple-antique-thin-hipchain-in-5-variants-price-for-each?variant=gid://shopify/ProductVariant/46643685261534",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/rn-image_picker_lib_temp_5df87eca-eb77-47a2-bf7a-d5abb9272ce3.jpg?v=1745770753"
   },
   "gid://shopify/ProductVariant/46643685294302": {
     "product_title": "Simple Antique Thin Hipchain in 5 Variants ( Price for Each )",
@@ -29572,15 +29581,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/pure-kemp-jadau-billai-with-mattal?variant=gid://shopify/ProductVariant/47686210617566",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/521E3015-9971-41FF-BB35-3391792DBC93.jpg?v=1763268878"
-  },
-  "gid://shopify/ProductVariant/47686674022622": {
-    "product_title": "Real Look alike Foam Handmade Malli Pink Shade U Pin (Price for 1 pc)",
-    "variant_title": "Default Title",
-    "sku": "3511",
-    "price": 249.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/real-look-alike-foam-handmade-malli-pink-shade-u-pin-price-for-1-pc?variant=gid://shopify/ProductVariant/47686674022622",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7495.heic?v=1763301107"
   },
   "gid://shopify/ProductVariant/47687672266974": {
     "product_title": "Lotus Balis in 2 Colours",
