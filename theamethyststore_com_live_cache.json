@@ -101897,15 +101897,6 @@
     "url": "https://www.theamethyststore.com/products/avikam-bracelet-34?variant=gid://shopify/ProductVariant/49562475561187",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1500.jpg?v=1787209175"
   },
-  "gid://shopify/ProductVariant/49562494599395": {
-    "product_title": "Nethra Avikam Bracelet",
-    "variant_title": "Default Title",
-    "sku": "AMS-103-1501",
-    "price": 9100.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/avikam-bracelet-35?variant=gid://shopify/ProductVariant/49562494599395",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1501.jpg?v=1787209304"
-  },
   "gid://shopify/ProductVariant/49562515636451": {
     "product_title": "Venitha Avikam Bracelet",
     "variant_title": "Default Title",
@@ -125719,5 +125710,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/victorian?variant=gid://shopify/ProductVariant/49559427514595",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/WhatsAppImage2026-08-19at12.49.32PM.jpg?v=1787124172"
+  },
+  "gid://shopify/ProductVariant/49562494599395": {
+    "product_title": "Nethra Avikam Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1501",
+    "price": 9100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/avikam-bracelet-35?variant=gid://shopify/ProductVariant/49562494599395",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1501.jpg?v=1787209304"
   }
 }
