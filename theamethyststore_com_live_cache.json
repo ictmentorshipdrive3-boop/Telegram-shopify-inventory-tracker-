@@ -5687,15 +5687,6 @@
     "url": "https://www.theamethyststore.com/products/jivika-stone-earrings?variant=gid://shopify/ProductVariant/43961534972131",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-4884.jpg?v=1692855853"
   },
-  "gid://shopify/ProductVariant/43964187115747": {
-    "product_title": "Nishtha Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-4801",
-    "price": 49266.9,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nishtha-necklace?variant=gid://shopify/ProductVariant/43964187115747",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-4801.jpg?v=1692965090"
-  },
   "gid://shopify/ProductVariant/43964189343971": {
     "product_title": "Nihari Necklace",
     "variant_title": "Default Title",
@@ -75113,15 +75104,6 @@
     "url": "https://www.theamethyststore.com/products/3d-spl-short-necklace-32?variant=gid://shopify/ProductVariant/49273543065827",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16008.jpg?v=1781690811"
   },
-  "gid://shopify/ProductVariant/49273554862307": {
-    "product_title": "Ganisha 3D Spl Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16010",
-    "price": 12496.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/3d-spl-short-necklace-34?variant=gid://shopify/ProductVariant/49273554862307",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16010.jpg?v=1781691341"
-  },
   "gid://shopify/ProductVariant/49273585631459": {
     "product_title": "Dhanisha Nagas Mini Short Necklace",
     "variant_title": "Default Title",
@@ -75158,15 +75140,6 @@
     "url": "https://www.theamethyststore.com/products/yashikha-nagas-mini-short-necklace?variant=gid://shopify/ProductVariant/49273601097955",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16031.jpg?v=1781692963"
   },
-  "gid://shopify/ProductVariant/49273618956515": {
-    "product_title": "Srisha Nagas Mini Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16033",
-    "price": 13400.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nagas-mini-short-necklace?variant=gid://shopify/ProductVariant/49273618956515",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16033.jpg?v=1781693681"
-  },
   "gid://shopify/ProductVariant/49273818284259": {
     "product_title": "Timeless Perumal Nagas Long Necklace",
     "variant_title": "Default Title",
@@ -75202,15 +75175,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/nagas-short-necklace-42?variant=gid://shopify/ProductVariant/49273825558755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16243.jpg?v=1781702308"
-  },
-  "gid://shopify/ProductVariant/49273826181347": {
-    "product_title": "Thanisha Nagas Mini Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16039",
-    "price": 13100.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/thanisha-nagas-mini-short-necklace?variant=gid://shopify/ProductVariant/49273826181347",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16039.jpg?v=1781702366"
   },
   "gid://shopify/ProductVariant/49275320828131": {
     "product_title": "Pranitha Nagas Mini Short Necklace",
@@ -83779,15 +83743,6 @@
     "stock": 4,
     "url": "https://www.theamethyststore.com/products/glittering-moissanite-drops?variant=gid://shopify/ProductVariant/49388929450211",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15166.jpg?v=1783668712"
-  },
-  "gid://shopify/ProductVariant/49388930236643": {
-    "product_title": "Harvikaa Hasli Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16507",
-    "price": 9100.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/hasli-necklace-27?variant=gid://shopify/ProductVariant/49388930236643",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16507.jpg?v=1783668793"
   },
   "gid://shopify/ProductVariant/49388932825315": {
     "product_title": "Hrishika Moissanite Drops",
@@ -105713,6 +105668,15 @@
     "url": "https://www.theamethyststore.com/products/delcy-studs?variant=gid://shopify/ProductVariant/43946082271459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-4819.jpg?v=1691910497"
   },
+  "gid://shopify/ProductVariant/43964187115747": {
+    "product_title": "Nishtha Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-4801",
+    "price": 49266.9,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nishtha-necklace?variant=gid://shopify/ProductVariant/43964187115747",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-4801.jpg?v=1692965090"
+  },
   "gid://shopify/ProductVariant/43967962939619": {
     "product_title": "Shikha Stone Earrings",
     "variant_title": "Default Title",
@@ -121598,6 +121562,15 @@
     "url": "https://www.theamethyststore.com/products/3d-spl-short-necklace-33?variant=gid://shopify/ProductVariant/49273549291747",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16009.jpg?v=1781691041"
   },
+  "gid://shopify/ProductVariant/49273554862307": {
+    "product_title": "Ganisha 3D Spl Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16010",
+    "price": 12496.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/3d-spl-short-necklace-34?variant=gid://shopify/ProductVariant/49273554862307",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16010.jpg?v=1781691341"
+  },
   "gid://shopify/ProductVariant/49273560858851": {
     "product_title": "Divine Look Nagas Pendant",
     "variant_title": "Default Title",
@@ -121642,6 +121615,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/thrishya-nagas-mini-short-necklace?variant=gid://shopify/ProductVariant/49273603555555",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16032.jpg?v=1781693185"
+  },
+  "gid://shopify/ProductVariant/49273618956515": {
+    "product_title": "Srisha Nagas Mini Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16033",
+    "price": 13400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-mini-short-necklace?variant=gid://shopify/ProductVariant/49273618956515",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16033.jpg?v=1781693681"
   },
   "gid://shopify/ProductVariant/49273630818531": {
     "product_title": "Sithikaa Nagas Short Necklace",
@@ -121696,6 +121678,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/dhanvitha-nagas-mini-short-necklace?variant=gid://shopify/ProductVariant/49273820709091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16037.jpg?v=1781701666"
+  },
+  "gid://shopify/ProductVariant/49273826181347": {
+    "product_title": "Thanisha Nagas Mini Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16039",
+    "price": 13100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/thanisha-nagas-mini-short-necklace?variant=gid://shopify/ProductVariant/49273826181347",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16039.jpg?v=1781702366"
   },
   "gid://shopify/ProductVariant/49273837748451": {
     "product_title": "Elegant Nagas Mini Short Necklace",
@@ -124225,6 +124216,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/hasli-necklace-21?variant=gid://shopify/ProductVariant/49388885115107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16257.jpg?v=1783665843"
+  },
+  "gid://shopify/ProductVariant/49388930236643": {
+    "product_title": "Harvikaa Hasli Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16507",
+    "price": 9100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/hasli-necklace-27?variant=gid://shopify/ProductVariant/49388930236643",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16507.jpg?v=1783668793"
   },
   "gid://shopify/ProductVariant/49389067731171": {
     "product_title": "Pranitha Hasli Necklace",
