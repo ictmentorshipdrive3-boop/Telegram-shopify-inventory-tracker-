@@ -490,7 +490,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-1978",
     "price": 7817.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/pretty-charm-earrings?variant=gid://shopify/ProductVariant/40018776359062",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/ams-106-1978.jpg?v=1623215335"
   },
@@ -17971,15 +17971,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/kamala-victorian-earrings?variant=gid://shopify/ProductVariant/46196353695971",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-7947_8de1702e-7269-4575-8801-e9aba98f1e03.jpg?v=1748341708"
-  },
-  "gid://shopify/ProductVariant/46196361036003": {
-    "product_title": "Cute Green Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-7948",
-    "price": 10350.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/cute-green-studs?variant=gid://shopify/ProductVariant/46196361036003",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-7948_8284d3f5-3dcc-4447-8084-5e85ef5343f2.jpg?v=1748341752"
   },
   "gid://shopify/ProductVariant/46196376338659": {
     "product_title": "Neelima Earrings",
@@ -65623,7 +65614,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-15190",
     "price": 8100.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/elegant-hasli-necklace?variant=gid://shopify/ProductVariant/48763379548387",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15190.jpg?v=1775825902"
   },
@@ -83713,7 +83704,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-1337",
     "price": 4000.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/eshvika-plain-bracelet?variant=gid://shopify/ProductVariant/49390397325539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1337.jpg?v=1783681820"
   },
@@ -84064,7 +84055,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-16499",
     "price": 8800.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/hasli-necklace-62?variant=gid://shopify/ProductVariant/49396528840931",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16499.jpg?v=1783831227"
   },
@@ -108043,6 +108034,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/gorgeous-long-necklace-1?variant=gid://shopify/ProductVariant/46196091846883",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8884_1_d5c627cd-8e30-4068-9456-0f29bbdd7057.jpg?v=1748339631"
+  },
+  "gid://shopify/ProductVariant/46196361036003": {
+    "product_title": "Cute Green Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-7948",
+    "price": 10350.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/cute-green-studs?variant=gid://shopify/ProductVariant/46196361036003",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-7948_8284d3f5-3dcc-4447-8084-5e85ef5343f2.jpg?v=1748341752"
   },
   "gid://shopify/ProductVariant/46197083799779": {
     "product_title": "Clarika Sheeshphool",
