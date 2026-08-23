@@ -20065,7 +20065,7 @@
     "variant_title": "Default Title",
     "sku": "R28121",
     "price": 7310.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/neel-mayuri-cz-pendant?variant=gid://shopify/ProductVariant/53158542803241",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11460_resized.jpg?v=1780905109"
   },
@@ -21472,15 +21472,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/butterfly-flora-chain-pendant?variant=gid://shopify/ProductVariant/53286086443305",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13374_resized.jpg?v=1782291914"
-  },
-  "gid://shopify/ProductVariant/53286089687337": {
-    "product_title": "Daisy Dream Chain Pendant",
-    "variant_title": "Default Title",
-    "sku": "R31636",
-    "price": 2380.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/daisy-dream-chain-pendant?variant=gid://shopify/ProductVariant/53286089687337",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13320A_resized.jpg?v=1782292197"
   },
   "gid://shopify/ProductVariant/53286091129129": {
     "product_title": "Up-Side Down Danglers",
@@ -45745,6 +45736,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/shinner-chain?variant=gid://shopify/ProductVariant/53286077202729",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13390_resized.jpg?v=1782290496"
+  },
+  "gid://shopify/ProductVariant/53286089687337": {
+    "product_title": "Daisy Dream Chain Pendant",
+    "variant_title": "Default Title",
+    "sku": "R31636",
+    "price": 2380.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/daisy-dream-chain-pendant?variant=gid://shopify/ProductVariant/53286089687337",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13320A_resized.jpg?v=1782292197"
   },
   "gid://shopify/ProductVariant/53286095651113": {
     "product_title": "Triple-Heart Ear Cuff",
