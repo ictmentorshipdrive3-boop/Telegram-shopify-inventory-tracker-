@@ -3766,7 +3766,7 @@
     "variant_title": "Default Title",
     "sku": "R20374",
     "price": 1785.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.rasasilver.com/products/35?variant=gid://shopify/ProductVariant/50712002330921",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_723b0375-1d76-4ccb-a761-ebd44e7148dd.jpg?v=1754916327"
   },
@@ -13085,15 +13085,6 @@
     "url": "https://www.rasasilver.com/products/tarini-gul-kundan-studs?variant=gid://shopify/ProductVariant/52527091581225",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0367copy_resized.jpg?v=1770096927"
   },
-  "gid://shopify/ProductVariant/52527116943657": {
-    "product_title": "Mayurini Antique Studs",
-    "variant_title": "Default Title",
-    "sku": "R22100",
-    "price": 7650.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/mayurini-antique-studs?variant=gid://shopify/ProductVariant/52527116943657",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0348copy_resized_d70cbcb2-7c04-46b5-b134-440a89789041.jpg?v=1770097002"
-  },
   "gid://shopify/ProductVariant/52527154790697": {
     "product_title": "Lady Wini Victorian Studs",
     "variant_title": "Default Title",
@@ -21343,7 +21334,7 @@
     "variant_title": "Default Title",
     "sku": "R31640",
     "price": 2720.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/green-haven-bracelet?variant=gid://shopify/ProductVariant/53285940986153",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13247_resized.jpg?v=1782280764"
   },
@@ -38779,6 +38770,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/morve-kundan-studs?variant=gid://shopify/ProductVariant/52527071068457",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0338copy_resized_de066ea6-7626-4920-a42b-ff4df5ad522b.jpg?v=1770096811"
+  },
+  "gid://shopify/ProductVariant/52527116943657": {
+    "product_title": "Mayurini Antique Studs",
+    "variant_title": "Default Title",
+    "sku": "R22100",
+    "price": 7650.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/mayurini-antique-studs?variant=gid://shopify/ProductVariant/52527116943657",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0348copy_resized_d70cbcb2-7c04-46b5-b134-440a89789041.jpg?v=1770097002"
   },
   "gid://shopify/ProductVariant/52527132246313": {
     "product_title": "Mayurpriya Kundan Studs",
