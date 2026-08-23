@@ -87353,24 +87353,6 @@
     "url": "https://www.theamethyststore.com/products/moissanite-studs-2?variant=gid://shopify/ProductVariant/49430598942947",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15178.jpg?v=1784555156"
   },
-  "gid://shopify/ProductVariant/49436282355939": {
-    "product_title": "Traditional Attigai Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17008",
-    "price": 29600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/traditional-attigai-necklace?variant=gid://shopify/ProductVariant/49436282355939",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17008.jpg?v=1784701219"
-  },
-  "gid://shopify/ProductVariant/49436290187491": {
-    "product_title": "Anusha Attigai Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17009",
-    "price": 32900.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/attigai-necklace-16?variant=gid://shopify/ProductVariant/49436290187491",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17009.jpg?v=1784701425"
-  },
   "gid://shopify/ProductVariant/49436316074211": {
     "product_title": "Traditional Attigai Necklace",
     "variant_title": "Default Title",
@@ -87379,15 +87361,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/traditional-attigai-necklace-1?variant=gid://shopify/ProductVariant/49436316074211",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17011.jpg?v=1784702590"
-  },
-  "gid://shopify/ProductVariant/49436322037987": {
-    "product_title": "Aurabelle Attigai Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17012",
-    "price": 33900.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/aurabelle-attigai-necklace?variant=gid://shopify/ProductVariant/49436322037987",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17012.jpg?v=1784702867"
   },
   "gid://shopify/ProductVariant/49436330721507": {
     "product_title": "Celestial Luxe Attigai Necklace",
@@ -124874,6 +124847,24 @@
     "url": "https://www.theamethyststore.com/products/grandeur-nagas-long-necklace-4?variant=gid://shopify/ProductVariant/49430297018595",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17101.jpg?v=1784544044"
   },
+  "gid://shopify/ProductVariant/49436282355939": {
+    "product_title": "Traditional Attigai Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17008",
+    "price": 29600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/traditional-attigai-necklace?variant=gid://shopify/ProductVariant/49436282355939",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17008.jpg?v=1784701219"
+  },
+  "gid://shopify/ProductVariant/49436290187491": {
+    "product_title": "Anusha Attigai Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17009",
+    "price": 32900.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/attigai-necklace-16?variant=gid://shopify/ProductVariant/49436290187491",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17009.jpg?v=1784701425"
+  },
   "gid://shopify/ProductVariant/49436313092323": {
     "product_title": "Mesmera Attigai Necklace",
     "variant_title": "Default Title",
@@ -124882,6 +124873,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/mesmera-attigai-necklace?variant=gid://shopify/ProductVariant/49436313092323",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17010.jpg?v=1784702398"
+  },
+  "gid://shopify/ProductVariant/49436322037987": {
+    "product_title": "Aurabelle Attigai Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17012",
+    "price": 33900.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/aurabelle-attigai-necklace?variant=gid://shopify/ProductVariant/49436322037987",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17012.jpg?v=1784702867"
   },
   "gid://shopify/ProductVariant/49436823879907": {
     "product_title": "Celestial Luxe Diamond Like Oddiyanam",
