@@ -17198,15 +17198,6 @@
     "url": "https://www.theamethyststore.com/products/jovika-nagas-jhumkas?variant=gid://shopify/ProductVariant/46139427717347",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-7756.jpg?v=1742275066"
   },
-  "gid://shopify/ProductVariant/46139758149859": {
-    "product_title": "Lara Beads chain with Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-0730",
-    "price": 46391.4,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/lara-beads-chain-with-pendant?variant=gid://shopify/ProductVariant/46139758149859",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-0730_1.jpg?v=1744365393"
-  },
   "gid://shopify/ProductVariant/46139917172963": {
     "product_title": "Fancy Earrings",
     "variant_title": "Default Title",
@@ -88046,15 +88037,6 @@
     "url": "https://www.theamethyststore.com/products/aarohi-moissanite-short-necklace-set?variant=gid://shopify/ProductVariant/49442431566051",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17115.jpg?v=1784880488"
   },
-  "gid://shopify/ProductVariant/49442438480099": {
-    "product_title": "Kanorra Moissanite Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17118",
-    "price": 62900.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kanorra-moissanite-short-necklace-set?variant=gid://shopify/ProductVariant/49442438480099",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17118.jpg?v=1784880774"
-  },
   "gid://shopify/ProductVariant/49442440118499": {
     "product_title": "Dheksha Diamond Design Stud",
     "variant_title": "Default Title",
@@ -90646,24 +90628,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/kundan-maatal-9?variant=gid://shopify/ProductVariant/49480406434019",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2418.jpg?v=1785495351"
-  },
-  "gid://shopify/ProductVariant/49480406466787": {
-    "product_title": "Grandeur Beads Long Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17131",
-    "price": 129700.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/long-necklace-25?variant=gid://shopify/ProductVariant/49480406466787",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17131.jpg?v=1785495345"
-  },
-  "gid://shopify/ProductVariant/49480428978403": {
-    "product_title": "Admirable Beads Long Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17132",
-    "price": 137700.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/admirable-beads-long-necklace-set?variant=gid://shopify/ProductVariant/49480428978403",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17132.jpg?v=1785495674"
   },
   "gid://shopify/ProductVariant/49480430813411": {
     "product_title": "Farisha Avikam Maangtikka",
@@ -107936,6 +107900,15 @@
     "url": "https://www.theamethyststore.com/products/kavinaya-hair-maatal?variant=gid://shopify/ProductVariant/46123909251299",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1303-_2.jpg?v=1741928681"
   },
+  "gid://shopify/ProductVariant/46139758149859": {
+    "product_title": "Lara Beads chain with Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-0730",
+    "price": 46391.4,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/lara-beads-chain-with-pendant?variant=gid://shopify/ProductVariant/46139758149859",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-0730_1.jpg?v=1744365393"
+  },
   "gid://shopify/ProductVariant/46139797799139": {
     "product_title": "Puvi Beads chain with Pendant",
     "variant_title": "Default Title",
@@ -124955,6 +124928,15 @@
     "url": "https://www.theamethyststore.com/products/diamond-design-stud-15?variant=gid://shopify/ProductVariant/49442438119651",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15411.jpg?v=1784880676"
   },
+  "gid://shopify/ProductVariant/49442438480099": {
+    "product_title": "Kanorra Moissanite Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17118",
+    "price": 62900.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kanorra-moissanite-short-necklace-set?variant=gid://shopify/ProductVariant/49442438480099",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17118.jpg?v=1784880774"
+  },
   "gid://shopify/ProductVariant/49442594259171": {
     "product_title": "Divyora Moissanite Short Necklace Set",
     "variant_title": "Default Title",
@@ -125224,6 +125206,24 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/kundan-maatal-2?variant=gid://shopify/ProductVariant/49480336146659",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2411.jpg?v=1785493940"
+  },
+  "gid://shopify/ProductVariant/49480406466787": {
+    "product_title": "Grandeur Beads Long Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17131",
+    "price": 129700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/long-necklace-25?variant=gid://shopify/ProductVariant/49480406466787",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17131.jpg?v=1785495345"
+  },
+  "gid://shopify/ProductVariant/49480428978403": {
+    "product_title": "Admirable Beads Long Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17132",
+    "price": 137700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/admirable-beads-long-necklace-set?variant=gid://shopify/ProductVariant/49480428978403",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17132.jpg?v=1785495674"
   },
   "gid://shopify/ProductVariant/49483026563299": {
     "product_title": "Amazing Diamond Design Short Necklace",
