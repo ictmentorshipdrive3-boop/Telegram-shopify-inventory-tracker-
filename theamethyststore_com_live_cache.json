@@ -36985,7 +36985,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-10263",
     "price": 7500.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/shravya-stone-studs?variant=gid://shopify/ProductVariant/47201148928227",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10263.jpg?v=1758694108"
   },
@@ -84842,15 +84842,6 @@
     "url": "https://www.theamethyststore.com/products/long-earrings-40?variant=gid://shopify/ProductVariant/49405609017571",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14916.jpg?v=1784035445"
   },
-  "gid://shopify/ProductVariant/49405619568867": {
-    "product_title": "Radiant Boho Long Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14920",
-    "price": 20300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/boho-long-earrings?variant=gid://shopify/ProductVariant/49405619568867",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14920.jpg?v=1784035816"
-  },
   "gid://shopify/ProductVariant/49405625762019": {
     "product_title": "Dazzle Boho Long Earrings",
     "variant_title": "Default Title",
@@ -96730,15 +96721,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/dhivisha-moissanite-studs?variant=gid://shopify/ProductVariant/49524126777571",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15616.jpg?v=1786517036"
-  },
-  "gid://shopify/ProductVariant/49524127203555": {
-    "product_title": "Yalisha Kundan Palm Bracelet",
-    "variant_title": "Default Title",
-    "sku": "AMS-103-1453",
-    "price": 10800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kundan-palm-bracelet-3?variant=gid://shopify/ProductVariant/49524127203555",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1453.jpg?v=1786517107"
   },
   "gid://shopify/ProductVariant/49524133200099": {
     "product_title": "Attractive Kundan Palm Bracelet",
@@ -124613,6 +124595,15 @@
     "url": "https://www.theamethyststore.com/products/long-earrings-41?variant=gid://shopify/ProductVariant/49405616652515",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14919.jpg?v=1784035651"
   },
+  "gid://shopify/ProductVariant/49405619568867": {
+    "product_title": "Radiant Boho Long Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14920",
+    "price": 20300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/boho-long-earrings?variant=gid://shopify/ProductVariant/49405619568867",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14920.jpg?v=1784035816"
+  },
   "gid://shopify/ProductVariant/49405667639523": {
     "product_title": "Fabulous Boho Long Necklace",
     "variant_title": "Default Title",
@@ -125629,6 +125620,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/kundan-brooch-pin-1?variant=gid://shopify/ProductVariant/49524094533859",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-121-0194.jpg?v=1786514563"
+  },
+  "gid://shopify/ProductVariant/49524127203555": {
+    "product_title": "Yalisha Kundan Palm Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1453",
+    "price": 10800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kundan-palm-bracelet-3?variant=gid://shopify/ProductVariant/49524127203555",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1453.jpg?v=1786517107"
   },
   "gid://shopify/ProductVariant/49526855336163": {
     "product_title": "Inishaa Kundan Pair Bangle",
