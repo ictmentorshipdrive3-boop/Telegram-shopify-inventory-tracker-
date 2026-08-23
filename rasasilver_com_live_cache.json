@@ -8068,7 +8068,7 @@
     "variant_title": "Default Title",
     "sku": "R16466",
     "price": 25200.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/mishaya-payal?variant=gid://shopify/ProductVariant/51495570342185",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0038copy_2_0f075aef-d359-406d-ae39-4322fb15082f.jpg?v=1763458020"
   },
@@ -19483,15 +19483,6 @@
     "stock": 2,
     "url": "https://www.rasasilver.com/products/frost-prism-toe-ring?variant=gid://shopify/ProductVariant/53138801033513",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11810_resized.jpg?v=1781338230"
-  },
-  "gid://shopify/ProductVariant/53138883772713": {
-    "product_title": "Vine Swirl Toe Ring",
-    "variant_title": "Default Title",
-    "sku": "R16665",
-    "price": 2720.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/vine-swirl-toe-ring?variant=gid://shopify/ProductVariant/53138883772713",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11797_resized.jpg?v=1781338505"
   },
   "gid://shopify/ProductVariant/53248213188905": {
     "product_title": "Dual Twist Ring",
@@ -44521,6 +44512,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/floral-strip-toe-ring?variant=gid://shopify/ProductVariant/53138855395625",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11822_resized.jpg?v=1781338375"
+  },
+  "gid://shopify/ProductVariant/53138883772713": {
+    "product_title": "Vine Swirl Toe Ring",
+    "variant_title": "Default Title",
+    "sku": "R16665",
+    "price": 2720.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/vine-swirl-toe-ring?variant=gid://shopify/ProductVariant/53138883772713",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11797_resized.jpg?v=1781338505"
   },
   "gid://shopify/ProductVariant/53138926010665": {
     "product_title": "Radiant Strip Toe Ring",
