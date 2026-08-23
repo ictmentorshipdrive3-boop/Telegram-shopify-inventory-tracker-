@@ -21595,7 +21595,7 @@
     "variant_title": "Women",
     "sku": "R31534",
     "price": 1190.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/tiny-shine-ring?variant=gid://shopify/ProductVariant/53286206996777",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5734_resized_74b363fc-bf97-4f90-a6fb-0f7e7c1d2918.jpg?v=1782301238"
   },
@@ -21676,7 +21676,7 @@
     "variant_title": "Default Title",
     "sku": "R31573",
     "price": 1275.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/leaf-grace-ring?variant=gid://shopify/ProductVariant/53288175075625",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5755_resized.jpg?v=1782367034"
   },
@@ -23560,15 +23560,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/vishnu-patni-temple-necklace?variant=gid://shopify/ProductVariant/53333231567145",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42311_resized.jpg?v=1784183196"
-  },
-  "gid://shopify/ProductVariant/53333243724073": {
-    "product_title": "Emerald Regalia Victorian Tikka",
-    "variant_title": "Default Title",
-    "sku": "R30745",
-    "price": 8500.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/emerald-regalia-victorian-tikka?variant=gid://shopify/ProductVariant/53333243724073",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0779_resized.jpg?v=1784184191"
   },
   "gid://shopify/ProductVariant/53333255520553": {
     "product_title": "Rosette Elegance Victorian Maang Tikka",
@@ -46429,6 +46420,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/queen-s-moissanite-tikka-1?variant=gid://shopify/ProductVariant/53333233434921",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0771_resized.jpg?v=1784184121"
+  },
+  "gid://shopify/ProductVariant/53333243724073": {
+    "product_title": "Emerald Regalia Victorian Tikka",
+    "variant_title": "Default Title",
+    "sku": "R30745",
+    "price": 8500.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/emerald-regalia-victorian-tikka?variant=gid://shopify/ProductVariant/53333243724073",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0779_resized.jpg?v=1784184191"
   },
   "gid://shopify/ProductVariant/53333256044841": {
     "product_title": "Violet Glow Victorian Tikka",
