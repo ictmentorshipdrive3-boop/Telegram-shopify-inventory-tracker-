@@ -2398,7 +2398,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-3375",
     "price": 9281.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/pinky-sparkle-stud?variant=gid://shopify/ProductVariant/43309673349347",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS09670.jpg?v=1687776471"
   },
@@ -5755,7 +5755,7 @@
     "variant_title": "9 Inches",
     "sku": "AMS-119-0001-ML",
     "price": 4800.0,
-    "stock": 17,
+    "stock": 15,
     "url": "https://www.theamethyststore.com/products/fish-hook-back-chain?variant=gid://shopify/ProductVariant/43970730000611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_21dbdd2e-d30a-4019-816f-52833d641d9a.jpg?v=1693456844"
   },
@@ -63301,7 +63301,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-3819",
     "price": 11800.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/pranita-diamond-design-pendant?variant=gid://shopify/ProductVariant/48346256081123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3819_4a2a5ab0-7b21-444a-89a6-dd9e9b91719a.jpg?v=1786084429"
   },
@@ -83879,15 +83879,6 @@
     "url": "https://www.theamethyststore.com/products/arohi-bugadi-earrings?variant=gid://shopify/ProductVariant/49389061603555",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15168.jpg?v=1783669439"
   },
-  "gid://shopify/ProductVariant/49389067731171": {
-    "product_title": "Pranitha Hasli Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16557",
-    "price": 5500.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/hasli-necklace-30?variant=gid://shopify/ProductVariant/49389067731171",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16557.jpg?v=1783669463"
-  },
   "gid://shopify/ProductVariant/49389193625827": {
     "product_title": "Sherinkaa Hasli Necklace",
     "variant_title": "Default Title",
@@ -92779,24 +92770,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/jada-billa-10?variant=gid://shopify/ProductVariant/49498581467363",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0888_2.jpg?v=1785847960"
-  },
-  "gid://shopify/ProductVariant/49498775584995": {
-    "product_title": "Bridal Like Jada Billa",
-    "variant_title": "Suryan",
-    "sku": "AMS-112-0889-SURAJ",
-    "price": 8200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/bridal-like-jada-billa?variant=gid://shopify/ProductVariant/49498775584995",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0889_5.jpg?v=1785850913"
-  },
-  "gid://shopify/ProductVariant/49498775617763": {
-    "product_title": "Bridal Like Jada Billa",
-    "variant_title": "Chandran",
-    "sku": "AMS-112-0889-CHAAND",
-    "price": 5300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/bridal-like-jada-billa?variant=gid://shopify/ProductVariant/49498775617763",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0889_5.jpg?v=1785850913"
   },
   "gid://shopify/ProductVariant/49498778337507": {
     "product_title": "Swetha Avikam Pendant Set",
@@ -124280,6 +124253,15 @@
     "url": "https://www.theamethyststore.com/products/hasli-necklace-21?variant=gid://shopify/ProductVariant/49388885115107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16257.jpg?v=1783665843"
   },
+  "gid://shopify/ProductVariant/49389067731171": {
+    "product_title": "Pranitha Hasli Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16557",
+    "price": 5500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/hasli-necklace-30?variant=gid://shopify/ProductVariant/49389067731171",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16557.jpg?v=1783669463"
+  },
   "gid://shopify/ProductVariant/49389194248419": {
     "product_title": "Yuvanshri Hasli Necklace",
     "variant_title": "Default Title",
@@ -125467,6 +125449,24 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/jada-billa-5?variant=gid://shopify/ProductVariant/49497780420835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0873_2.jpg?v=1785839039"
+  },
+  "gid://shopify/ProductVariant/49498775584995": {
+    "product_title": "Bridal Like Jada Billa",
+    "variant_title": "Suryan",
+    "sku": "AMS-112-0889-SURAJ",
+    "price": 8200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/bridal-like-jada-billa?variant=gid://shopify/ProductVariant/49498775584995",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0889_5.jpg?v=1785850913"
+  },
+  "gid://shopify/ProductVariant/49498775617763": {
+    "product_title": "Bridal Like Jada Billa",
+    "variant_title": "Chandran",
+    "sku": "AMS-112-0889-CHAAND",
+    "price": 5300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/bridal-like-jada-billa?variant=gid://shopify/ProductVariant/49498775617763",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0889_5.jpg?v=1785850913"
   },
   "gid://shopify/ProductVariant/49501804658915": {
     "product_title": "Catchy Stone Ring",
