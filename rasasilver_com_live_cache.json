@@ -19840,7 +19840,7 @@
     "variant_title": "Default Title",
     "sku": "R28127",
     "price": 73440.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/sharmila-temple-oddiyanam?variant=gid://shopify/ProductVariant/53149975740713",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_11May0485Fa_resized.jpg?v=1780489710"
   },
@@ -22588,15 +22588,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/stone-danglers-no-image?variant=gid://shopify/ProductVariant/53302649618729",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40311_resized.jpg?v=1783605102"
-  },
-  "gid://shopify/ProductVariant/53304496128297": {
-    "product_title": "Neela Mor Nakshi Bangles",
-    "variant_title": "2.4",
-    "sku": "R30398",
-    "price": 40375.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/neela-mor-nakshi-bangles?variant=gid://shopify/ProductVariant/53304496128297",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41365_resized.jpg?v=1783748604"
   },
   "gid://shopify/ProductVariant/53304544526633": {
     "product_title": "Pushpa Chakra Stone Danglers",
@@ -46114,6 +46105,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/gutta-pasalu-stone-danglers?variant=gid://shopify/ProductVariant/53302629138729",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40270_resized.jpg?v=1783604474"
+  },
+  "gid://shopify/ProductVariant/53304496128297": {
+    "product_title": "Neela Mor Nakshi Bangles",
+    "variant_title": "2.4",
+    "sku": "R30398",
+    "price": 40375.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/neela-mor-nakshi-bangles?variant=gid://shopify/ProductVariant/53304496128297",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41365_resized.jpg?v=1783748604"
   },
   "gid://shopify/ProductVariant/53304579293481": {
     "product_title": "Hariyali Stone Hangings",
