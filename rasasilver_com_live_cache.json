@@ -440,15 +440,6 @@
     "url": "https://www.rasasilver.com/products/rasleela-short-necklace?variant=gid://shopify/ProductVariant/50028204851497",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1_4.jpg?v=1741860481"
   },
-  "gid://shopify/ProductVariant/50028308693289": {
-    "product_title": "Padma Gajeshwari Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "R1831",
-    "price": 37400.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/padma-gajeshwari-short-necklace?variant=gid://shopify/ProductVariant/50028308693289",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-3_154ea0f2-055a-4017-adb4-cb33a070da59.jpg?v=1741861957"
-  },
   "gid://shopify/ProductVariant/50028438126889": {
     "product_title": "Aasana Lakshmi Short Necklace",
     "variant_title": "Default Title",
@@ -14665,7 +14656,7 @@
     "variant_title": "Default Title",
     "sku": "R25139",
     "price": 20315.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/dakshin-stone-matil?variant=gid://shopify/ProductVariant/52667728232745",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4256.jpg?v=1771094801"
   },
@@ -20582,15 +20573,6 @@
     "url": "https://www.rasasilver.com/products/swarnika-stone-matil?variant=gid://shopify/ProductVariant/53269129789737",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262092_resized_e4f0279c-b1a3-478a-a1f5-6d0a6355048e.jpg?v=1781589289"
   },
-  "gid://shopify/ProductVariant/53269137555753": {
-    "product_title": "Panna-Gulabika Stone Matil",
-    "variant_title": "Default Title",
-    "sku": "R28536",
-    "price": 23460.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/panna-gulabika-stone-matil?variant=gid://shopify/ProductVariant/53269137555753",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262118_resized.jpg?v=1781589990"
-  },
   "gid://shopify/ProductVariant/53269150040361": {
     "product_title": "Stone Ratna Matil",
     "variant_title": "Default Title",
@@ -26296,6 +26278,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/indra-agni-emerald-necklace?variant=gid://shopify/ProductVariant/49953690026281",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-111.jpg?v=1741000413"
+  },
+  "gid://shopify/ProductVariant/50028308693289": {
+    "product_title": "Padma Gajeshwari Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "R1831",
+    "price": 37400.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/padma-gajeshwari-short-necklace?variant=gid://shopify/ProductVariant/50028308693289",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-3_154ea0f2-055a-4017-adb4-cb33a070da59.jpg?v=1741861957"
   },
   "gid://shopify/ProductVariant/51407841886505": {
     "product_title": "Sarini Lakshmi Short Necklace",
@@ -45061,6 +45052,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/pear-panna-stone-matil?variant=gid://shopify/ProductVariant/53267719192873",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262088_resized.jpg?v=1781546233"
+  },
+  "gid://shopify/ProductVariant/53269137555753": {
+    "product_title": "Panna-Gulabika Stone Matil",
+    "variant_title": "Default Title",
+    "sku": "R28536",
+    "price": 23460.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/panna-gulabika-stone-matil?variant=gid://shopify/ProductVariant/53269137555753",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262118_resized.jpg?v=1781589990"
   },
   "gid://shopify/ProductVariant/53269214298409": {
     "product_title": "Padmini Temple Maang Tikka",
