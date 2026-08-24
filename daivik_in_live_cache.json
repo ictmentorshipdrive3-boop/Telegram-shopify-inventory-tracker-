@@ -2393,13 +2393,13 @@
     "url": "https://www.daivik.in/products/a-99?variant=gid://shopify/ProductVariant/42876001943774",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_f4ba2e27-96ff-43f1-af9f-13388c3a20e7.heic?v=1653737171"
   },
-  "gid://shopify/ProductVariant/42877369647326": {
+  "gid://shopify/ProductVariant/42877367550174": {
     "product_title": "AD Small Teekas in 2 colours",
-    "variant_title": "Green",
+    "variant_title": "Ruby green",
     "sku": "557",
     "price": 899.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/a-102?variant=gid://shopify/ProductVariant/42877369647326",
+    "stock": 2,
+    "url": "https://www.daivik.in/products/a-102?variant=gid://shopify/ProductVariant/42877367550174",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_5b632b6a-710c-490e-a513-aa7567e88f14.heic?v=1653830181"
   },
   "gid://shopify/ProductVariant/42882816606430": {
@@ -6592,7 +6592,7 @@
     "variant_title": "Default Title",
     "sku": "840",
     "price": 1599.0,
-    "stock": 22,
+    "stock": 21,
     "url": "https://www.daivik.in/products/ad-pendant-long-chain-with-earrings?variant=gid://shopify/ProductVariant/45167765881054",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/58434AA7-CE46-4464-82BC-A7E246516ADA.jpg?v=1713105126"
   },
@@ -7006,7 +7006,7 @@
     "variant_title": "Short",
     "sku": "962",
     "price": 1499.0,
-    "stock": 35,
+    "stock": 34,
     "url": "https://www.daivik.in/products/ruby-guttapusalu-necklace-with-earrings?variant=gid://shopify/ProductVariant/47292618768606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EA754F23-6813-4092-8B15-2B97F15CE4C2.jpg?v=1754321906"
   },
@@ -11578,7 +11578,7 @@
     "variant_title": "White",
     "sku": "982",
     "price": 699.0,
-    "stock": 21,
+    "stock": 20,
     "url": "https://www.daivik.in/products/invisible-ad-leaf-necklace-with-earrings-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/46601934078174",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1BC5AE9E-3283-41C7-AE2B-A526038DB48D.jpg?v=1744559542"
   },
@@ -20870,15 +20870,6 @@
     "url": "https://www.daivik.in/products/victorian-green-bangle-combo?variant=gid://shopify/ProductVariant/48453374345438",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B12C84A9-CA55-468E-A8C3-2BA16D904B9F.jpg?v=1784567845"
   },
-  "gid://shopify/ProductVariant/48453374378206": {
-    "product_title": "Victorian Green Bangle Combo (Price for Both Hands)",
-    "variant_title": "2.6",
-    "sku": "1931",
-    "price": 3299.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/victorian-green-bangle-combo?variant=gid://shopify/ProductVariant/48453374378206",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B12C84A9-CA55-468E-A8C3-2BA16D904B9F.jpg?v=1784567845"
-  },
   "gid://shopify/ProductVariant/48453374410974": {
     "product_title": "Victorian Green Bangle Combo (Price for Both Hands)",
     "variant_title": "2.8",
@@ -21355,6 +21346,15 @@
     "stock": 8,
     "url": "https://www.daivik.in/products/pearl-kemp-floral-droplet-balis?variant=gid://shopify/ProductVariant/48623898886366",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F07B3D62-F7C5-4A9C-AF33-EA3958501861.jpg?v=1787313150"
+  },
+  "gid://shopify/ProductVariant/48624208937182": {
+    "product_title": "Guttapusalu Balaji Long Haram and Choker with Earrings",
+    "variant_title": "Default Title",
+    "sku": "928",
+    "price": 7499.0,
+    "stock": 4,
+    "url": "https://www.daivik.in/products/balaji-haram?variant=gid://shopify/ProductVariant/48624208937182",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5F1292F7-1238-4DCB-B513-CCB1A7D8A251.jpg?v=1787331525"
   },
   "gid://shopify/ProductVariant/48629356986590": {
     "product_title": "Balaji Black Thread Bracelet",
@@ -22832,13 +22832,13 @@
     "url": "https://www.daivik.in/products/layered-pearl-chain-with-earrings?variant=gid://shopify/ProductVariant/42855762198750",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_36b1d7d2-996f-45c1-9bb0-2637d25e8446.heic?v=1653315219"
   },
-  "gid://shopify/ProductVariant/42877367550174": {
+  "gid://shopify/ProductVariant/42877369647326": {
     "product_title": "AD Small Teekas in 2 colours",
-    "variant_title": "Ruby green",
+    "variant_title": "Green",
     "sku": "557",
     "price": 899.0,
     "stock": 0,
-    "url": "https://www.daivik.in/products/a-102?variant=gid://shopify/ProductVariant/42877367550174",
+    "url": "https://www.daivik.in/products/a-102?variant=gid://shopify/ProductVariant/42877369647326",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_5b632b6a-710c-490e-a513-aa7567e88f14.heic?v=1653830181"
   },
   "gid://shopify/ProductVariant/42908095381726": {
@@ -30608,6 +30608,15 @@
     "url": "https://www.daivik.in/products/simple-leaf-invisible-chain?variant=gid://shopify/ProductVariant/48434484150494",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6F48194E-21F4-470E-AD03-FE1A254608A7.jpg?v=1784029225"
   },
+  "gid://shopify/ProductVariant/48453374378206": {
+    "product_title": "Victorian Green Bangle Combo (Price for Both Hands)",
+    "variant_title": "2.6",
+    "sku": "1931",
+    "price": 3299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/victorian-green-bangle-combo?variant=gid://shopify/ProductVariant/48453374378206",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B12C84A9-CA55-468E-A8C3-2BA16D904B9F.jpg?v=1784567845"
+  },
   "gid://shopify/ProductVariant/48513202520286": {
     "product_title": "Three layered Pearl Necklace with Earrings",
     "variant_title": "Default Title",
@@ -30643,14 +30652,5 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-lakshmi-kada?variant=gid://shopify/ProductVariant/48606013096158",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C212A11D-8F23-46DE-8894-E34661B11E0C.jpg?v=1786900231"
-  },
-  "gid://shopify/ProductVariant/48624208937182": {
-    "product_title": "Guttapusalu Balaji Long Haram and Choker with Earrings",
-    "variant_title": "Default Title",
-    "sku": "928",
-    "price": 7499.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/balaji-haram?variant=gid://shopify/ProductVariant/48624208937182",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5F1292F7-1238-4DCB-B513-CCB1A7D8A251.jpg?v=1787331525"
   }
 }
