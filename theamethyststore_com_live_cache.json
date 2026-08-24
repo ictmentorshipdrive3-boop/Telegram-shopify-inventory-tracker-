@@ -65339,15 +65339,6 @@
     "url": "https://www.theamethyststore.com/products/victorian-long-earrings-2?variant=gid://shopify/ProductVariant/48731723038947",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9224-_5_fe3c175e-b725-46d3-bb60-43cbadd3255f.jpg?v=1775473200"
   },
-  "gid://shopify/ProductVariant/48731810726115": {
-    "product_title": "Aavmira Victorian Long Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-13530",
-    "price": 31504.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/aavmira-victorian-long-earrings?variant=gid://shopify/ProductVariant/48731810726115",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-6307-_3_857863a4-9480-4ad6-9cfb-2e13ed53cb5b.jpg?v=1775474448"
-  },
   "gid://shopify/ProductVariant/48731858993379": {
     "product_title": "Zenlira Diamond Design Studs",
     "variant_title": "Default Title",
@@ -93716,15 +93707,6 @@
     "url": "https://www.theamethyststore.com/products/unisha-kundan-short-necklace-1?variant=gid://shopify/ProductVariant/49507798057187",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17483_eb0efcbe-da3e-4025-baa4-5bcd9d4e386f.jpg?v=1786427406"
   },
-  "gid://shopify/ProductVariant/49507803824355": {
-    "product_title": "Ashikha Kundan Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17484",
-    "price": 28420.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/ashikha-kundan-short-necklace?variant=gid://shopify/ProductVariant/49507803824355",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17484.jpg?v=1786085352"
-  },
   "gid://shopify/ProductVariant/49507804741859": {
     "product_title": "Sashini Diamond Design Pendant",
     "variant_title": "Default Title",
@@ -118169,6 +118151,15 @@
     "url": "https://www.theamethyststore.com/products/nagas-chain-10?variant=gid://shopify/ProductVariant/48731658879203",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1866_812ca2e6-599d-48ae-903f-c22a5d67dbd7.jpg?v=1775470018"
   },
+  "gid://shopify/ProductVariant/48731810726115": {
+    "product_title": "Aavmira Victorian Long Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-13530",
+    "price": 31504.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/aavmira-victorian-long-earrings?variant=gid://shopify/ProductVariant/48731810726115",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-6307-_3_857863a4-9480-4ad6-9cfb-2e13ed53cb5b.jpg?v=1775474448"
+  },
   "gid://shopify/ProductVariant/48762631782627": {
     "product_title": "Mahika Hasli Necklace",
     "variant_title": "Default Title",
@@ -125503,6 +125494,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nagas-short-necklace-25?variant=gid://shopify/ProductVariant/49504969392355",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17538.jpg?v=1786017993"
+  },
+  "gid://shopify/ProductVariant/49507803824355": {
+    "product_title": "Ashikha Kundan Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17484",
+    "price": 28420.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ashikha-kundan-short-necklace?variant=gid://shopify/ProductVariant/49507803824355",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17484.jpg?v=1786085352"
   },
   "gid://shopify/ProductVariant/49507850518755": {
     "product_title": "Sherinka Avikam Pendant Set",
