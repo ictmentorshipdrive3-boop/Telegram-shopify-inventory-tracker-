@@ -4477,7 +4477,7 @@
     "variant_title": "Green",
     "sku": "R11762",
     "price": 1615.0,
-    "stock": 8,
+    "stock": 6,
     "url": "https://www.rasasilver.com/products/emerovia-pendant?variant=gid://shopify/ProductVariant/50809107087657",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2606.jpg?v=1756541009"
   },
@@ -11631,7 +11631,7 @@
     "product_title": "Green Muse CZ Necklace Set",
     "variant_title": "Default Title",
     "sku": "R22833",
-    "price": 69275.0,
+    "price": 81500.0,
     "stock": 1,
     "url": "https://www.rasasilver.com/products/green-muse-cz-necklace-set?variant=gid://shopify/ProductVariant/52415813943593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_72Pics_10Jan3071_resized.jpg?v=1769586832"
@@ -21608,15 +21608,6 @@
     "url": "https://www.rasasilver.com/products/serpent-twist-ring?variant=gid://shopify/ProductVariant/53288189690153",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5686_resized.jpg?v=1782368827"
   },
-  "gid://shopify/ProductVariant/53288195916073": {
-    "product_title": "Rose Prestige Ring",
-    "variant_title": "Default Title",
-    "sku": "R31599",
-    "price": 1275.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/rose-prestige-ring?variant=gid://shopify/ProductVariant/53288195916073",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5714_resized.jpg?v=1782368636"
-  },
   "gid://shopify/ProductVariant/53288198373673": {
     "product_title": "Leaflet Ring",
     "variant_title": "Default Title",
@@ -26044,6 +26035,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/shritara-temple-necklace-copy?variant=gid://shopify/ProductVariant/53419171971369",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_16May0169_resized.jpg?v=1787550314"
+  },
+  "gid://shopify/ProductVariant/53426656870697": {
+    "product_title": "Back Chain",
+    "variant_title": "Default Title",
+    "sku": "R30484",
+    "price": 4300.0,
+    "stock": 50,
+    "url": "https://www.rasasilver.com/products/back-chain?variant=gid://shopify/ProductVariant/53426656870697",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageAug24_2026_12_36_13PM.png?v=1787555201"
   },
   "gid://shopify/ProductVariant/53427255410985": {
     "product_title": "Varnika  Kundan Choker",
@@ -45754,6 +45754,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/mystic-snake-cz-ring?variant=gid://shopify/ProductVariant/53286167675177",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5740_resized.jpg?v=1782297759"
+  },
+  "gid://shopify/ProductVariant/53288195916073": {
+    "product_title": "Rose Prestige Ring",
+    "variant_title": "Default Title",
+    "sku": "R31599",
+    "price": 1275.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/rose-prestige-ring?variant=gid://shopify/ProductVariant/53288195916073",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5714_resized.jpg?v=1782368636"
   },
   "gid://shopify/ProductVariant/53288358445353": {
     "product_title": "Classic Cube Studs",
