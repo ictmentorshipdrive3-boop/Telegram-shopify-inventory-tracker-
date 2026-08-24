@@ -21190,7 +21190,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-9549",
     "price": 22400.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/yamika-short-necklace?variant=gid://shopify/ProductVariant/46467480060131",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9549_9e6d5adf-baef-4f9f-94f9-d38416581928.jpg?v=1764078786"
   },
@@ -28339,15 +28339,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/smiley-anklets?variant=gid://shopify/ProductVariant/47008173359331",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-114-0577_1.jpg?v=1754978864"
-  },
-  "gid://shopify/ProductVariant/47008956973283": {
-    "product_title": "Nakchatra Stone Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-1411",
-    "price": 4000.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nakchatra-stone-ring?variant=gid://shopify/ProductVariant/47008956973283",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1411.jpg?v=1754991759"
   },
   "gid://shopify/ProductVariant/47008972767459": {
     "product_title": "Glitz Stone Ring",
@@ -103760,6 +103751,33 @@
     "url": "https://www.theamethyststore.com/products/victorian-short-necklace-set-1?variant=gid://shopify/ProductVariant/49588981530851",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17650.jpg?v=1787565547"
   },
+  "gid://shopify/ProductVariant/49588987625699": {
+    "product_title": "Heritage Nagas Pair Bangles",
+    "variant_title": "Default Title",
+    "sku": "AMS-107-3575-2.6\"",
+    "price": 35900.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/heritage-nagas-pair-bangles?variant=gid://shopify/ProductVariant/49588987625699",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3575_2.jpg?v=1787565600"
+  },
+  "gid://shopify/ProductVariant/49589087928547": {
+    "product_title": "Peacock Victorian Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17658",
+    "price": 32600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/victorian-short-necklace-set-2?variant=gid://shopify/ProductVariant/49589087928547",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17658.jpg?v=1787566280"
+  },
+  "gid://shopify/ProductVariant/49589280899299": {
+    "product_title": "Catchy Victorian Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15872",
+    "price": 23300.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/catchy-victorian-jhumkas?variant=gid://shopify/ProductVariant/49589280899299",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15872.jpg?v=1787567471"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -110203,6 +110221,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/zara-baby-anklets?variant=gid://shopify/ProductVariant/47008015286499",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-114-0751_2.jpg?v=1754976364"
+  },
+  "gid://shopify/ProductVariant/47008956973283": {
+    "product_title": "Nakchatra Stone Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-1411",
+    "price": 4000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nakchatra-stone-ring?variant=gid://shopify/ProductVariant/47008956973283",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1411.jpg?v=1754991759"
   },
   "gid://shopify/ProductVariant/47008991150307": {
     "product_title": "Trivisha Stone Bracelet",
