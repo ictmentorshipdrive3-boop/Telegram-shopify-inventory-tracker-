@@ -211,7 +211,7 @@
     "variant_title": "Default Title",
     "sku": "211",
     "price": 1999.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/211?variant=gid://shopify/ProductVariant/34430324605081",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_3126.jpg?v=1590237634"
   },
@@ -1579,7 +1579,7 @@
     "variant_title": "Ruby Green",
     "sku": "965",
     "price": 1799.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/peacock-pure-kemp-balis?variant=gid://shopify/ProductVariant/42115154084062",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_960c7e1a-3fd3-4a16-a3b2-86f51319c3cd.jpg?v=1637935654"
   },
@@ -3865,7 +3865,7 @@
     "variant_title": "Default Title",
     "sku": "1005",
     "price": 1799.0,
-    "stock": 35,
+    "stock": 34,
     "url": "https://www.daivik.in/products/a-96?variant=gid://shopify/ProductVariant/44200836563166",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_5ddff812-ad16-4e41-897d-081f5a44094f.heic?v=1684939937"
   },
@@ -6853,7 +6853,7 @@
     "variant_title": "Default Title",
     "sku": "708",
     "price": 2299.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/two-line-necklace-with-earrings?variant=gid://shopify/ProductVariant/45333722759390",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B98339A8-F58B-42BE-A566-F73DD079D750.jpg?v=1715100306"
   },
@@ -11641,7 +11641,7 @@
     "variant_title": "Purple",
     "sku": "309",
     "price": 799.0,
-    "stock": 31,
+    "stock": 30,
     "url": "https://www.daivik.in/products/invisible-flower-chain-with-earrings-in-two-vaiants-price-for-each?variant=gid://shopify/ProductVariant/46622024335582",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5086782C-8B6D-4680-A1B4-6FCD1A121358.jpg?v=1744985053"
   },
@@ -20087,15 +20087,6 @@
     "url": "https://www.daivik.in/products/premium-traditional-pure-kemp-brass-phoenix-long-necklace-with-lakshmi-coin-drops?variant=gid://shopify/ProductVariant/48328321532126",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5559BE28-C131-43FE-95A7-2AD11F666379.jpg?v=1781190679"
   },
-  "gid://shopify/ProductVariant/48332854886622": {
-    "product_title": "Kemp Flower Rice Pearl Hair Clip",
-    "variant_title": "Default Title",
-    "sku": "1907",
-    "price": 1599.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/pure-kemp-brass-flower-rub-hair-clip?variant=gid://shopify/ProductVariant/48332854886622",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7303.jpg?v=1781262932"
-  },
   "gid://shopify/ProductVariant/48332856918238": {
     "product_title": "Kemp Layered Hair Clip",
     "variant_title": "Default Title",
@@ -21274,15 +21265,6 @@
     "stock": 47,
     "url": "https://www.daivik.in/products/ruby-green-floral-elakkathali-choker-with-studs?variant=gid://shopify/ProductVariant/48605611655390",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9BB3FD0D-97BF-49A7-B86C-9B52460569E8.jpg?v=1786875830"
-  },
-  "gid://shopify/ProductVariant/48606013128926": {
-    "product_title": "Antique Lakshmi Kada",
-    "variant_title": "2.6",
-    "sku": "1949",
-    "price": 1699.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/antique-lakshmi-kada?variant=gid://shopify/ProductVariant/48606013128926",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C212A11D-8F23-46DE-8894-E34661B11E0C.jpg?v=1786900231"
   },
   "gid://shopify/ProductVariant/48606013161694": {
     "product_title": "Antique Lakshmi Kada",
@@ -30572,6 +30554,15 @@
     "url": "https://www.daivik.in/products/ad-ruby-pearl-floral-combo?variant=gid://shopify/ProductVariant/48315170914526",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6BB7EEE1-75CA-4229-8BFB-F555807A583C.jpg?v=1780914224"
   },
+  "gid://shopify/ProductVariant/48332854886622": {
+    "product_title": "Kemp Flower Rice Pearl Hair Clip",
+    "variant_title": "Default Title",
+    "sku": "1907",
+    "price": 1599.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/pure-kemp-brass-flower-rub-hair-clip?variant=gid://shopify/ProductVariant/48332854886622",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7303.jpg?v=1781262932"
+  },
   "gid://shopify/ProductVariant/48341912387806": {
     "product_title": "AD Non Piercing Nosepin in 3 Colors (Price for Each)",
     "variant_title": "Ruby",
@@ -30678,6 +30669,15 @@
     "price": 1699.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-lakshmi-kada?variant=gid://shopify/ProductVariant/48606013096158",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C212A11D-8F23-46DE-8894-E34661B11E0C.jpg?v=1786900231"
+  },
+  "gid://shopify/ProductVariant/48606013128926": {
+    "product_title": "Antique Lakshmi Kada",
+    "variant_title": "2.6",
+    "sku": "1949",
+    "price": 1699.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/antique-lakshmi-kada?variant=gid://shopify/ProductVariant/48606013128926",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C212A11D-8F23-46DE-8894-E34661B11E0C.jpg?v=1786900231"
   }
 }
