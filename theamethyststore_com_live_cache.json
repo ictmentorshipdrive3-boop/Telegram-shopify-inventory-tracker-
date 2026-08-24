@@ -9242,15 +9242,6 @@
     "url": "https://www.theamethyststore.com/products/shiba-diamond-design-ring?variant=gid://shopify/ProductVariant/45214490656995",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0566.jpg?v=1719927193"
   },
-  "gid://shopify/ProductVariant/45214609375459": {
-    "product_title": "Modern Look Avikam Oddiyanam",
-    "variant_title": "Default Title",
-    "sku": "AMS-110-0425",
-    "price": 84968.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/modern-look-avikam-oddiyanam?variant=gid://shopify/ProductVariant/45214609375459",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0425.jpg?v=1719929517"
-  },
   "gid://shopify/ProductVariant/45214626316515": {
     "product_title": "Wedding style Avikam Oddiyanam",
     "variant_title": "Default Title",
@@ -93347,15 +93338,6 @@
     "url": "https://www.theamethyststore.com/products/nagas-short-necklace-24?variant=gid://shopify/ProductVariant/49504962609379",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17537.jpg?v=1786017624"
   },
-  "gid://shopify/ProductVariant/49505029259491": {
-    "product_title": "Radhinka Nagas Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17544",
-    "price": 95300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nagas-short-necklace-29?variant=gid://shopify/ProductVariant/49505029259491",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17544.jpg?v=1786019868"
-  },
   "gid://shopify/ProductVariant/49505037713635": {
     "product_title": "Ruthinka Avikam Chain",
     "variant_title": "Default Title",
@@ -103868,6 +103850,24 @@
     "url": "https://www.theamethyststore.com/products/short-necklace?variant=gid://shopify/ProductVariant/49591211524323",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/WhatsAppImage2026-08-24at6.23.42PM.jpg?v=1787579051"
   },
+  "gid://shopify/ProductVariant/49591269359843": {
+    "product_title": "Diamond Design Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-3488",
+    "price": 8200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/diamond-design-pendant-4?variant=gid://shopify/ProductVariant/49591269359843",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/WhatsAppImage2026-08-24at6.23.42PM_1.jpg?v=1787579225"
+  },
+  "gid://shopify/ProductVariant/49591278010595": {
+    "product_title": "Diamond Design Pendant",
+    "variant_title": "Default Title",
+    "sku": "633-A72087",
+    "price": 17000.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/diamond-design-pendant-5?variant=gid://shopify/ProductVariant/49591278010595",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/WhatsAppImage2026-08-24at6.39.59PM.jpg?v=1787579427"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -106342,6 +106342,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/aldora-victorian-single-bangle?variant=gid://shopify/ProductVariant/45213397385443",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1278.jpg?v=1719902193"
+  },
+  "gid://shopify/ProductVariant/45214609375459": {
+    "product_title": "Modern Look Avikam Oddiyanam",
+    "variant_title": "Default Title",
+    "sku": "AMS-110-0425",
+    "price": 84968.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/modern-look-avikam-oddiyanam?variant=gid://shopify/ProductVariant/45214609375459",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0425.jpg?v=1719929517"
   },
   "gid://shopify/ProductVariant/45221296472291": {
     "product_title": "Tharavi Victorian Necklace Set",
@@ -125746,6 +125755,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nagas-short-necklace-25?variant=gid://shopify/ProductVariant/49504969392355",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17538.jpg?v=1786017993"
+  },
+  "gid://shopify/ProductVariant/49505029259491": {
+    "product_title": "Radhinka Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17544",
+    "price": 95300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-short-necklace-29?variant=gid://shopify/ProductVariant/49505029259491",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17544.jpg?v=1786019868"
   },
   "gid://shopify/ProductVariant/49507803824355": {
     "product_title": "Ashikha Kundan Short Necklace",
