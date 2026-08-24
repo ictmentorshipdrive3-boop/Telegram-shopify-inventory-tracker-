@@ -1183,7 +1183,7 @@
     "variant_title": "Default Title",
     "sku": "797",
     "price": 2999.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.daivik.in/products/uncut-kemp-long-haram-with-earrings?variant=gid://shopify/ProductVariant/40705655144601",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_7b231dc6-4aac-4721-9760-6f72c8d460d7.jpg?v=1627824604"
   },
@@ -3910,7 +3910,7 @@
     "variant_title": "Default Title",
     "sku": "898",
     "price": 2499.0,
-    "stock": 26,
+    "stock": 25,
     "url": "https://www.daivik.in/products/3-line-multicolour-mala-with-earrings?variant=gid://shopify/ProductVariant/44212089585886",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_8b415e5f-a762-4a7e-b286-dcb2b1ac28ec.heic?v=1685632032"
   },
@@ -13090,7 +13090,7 @@
     "variant_title": "Default Title",
     "sku": "1644",
     "price": 599.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/antique-kids-jhumkas?variant=gid://shopify/ProductVariant/47392254066910",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6B12E2B0-F2DF-4720-AC86-EF7C31C0A1C7.jpg?v=1754539616"
   },
@@ -17995,7 +17995,7 @@
     "variant_title": "Short",
     "sku": "298",
     "price": 6799.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/heavy-bridal-gold-plated-rice-pearl-jadau-short-and-long-haram-with-earrings-prices-for-short-long-and-combo?variant=gid://shopify/ProductVariant/47934062624990",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8251.heic?v=1772031261"
   },
@@ -20229,15 +20229,6 @@
     "price": 299.0,
     "stock": 56,
     "url": "https://www.daivik.in/products/ad-non-piercing-nosepin-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/48341912420574",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5358.jpg?v=1781711079"
-  },
-  "gid://shopify/ProductVariant/48341912453342": {
-    "product_title": "AD Non Piercing Nosepin in 3 Colors (Price for Each)",
-    "variant_title": "White",
-    "sku": "1913",
-    "price": 299.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-non-piercing-nosepin-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/48341912453342",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5358.jpg?v=1781711079"
   },
   "gid://shopify/ProductVariant/48344007049438": {
@@ -30570,6 +30561,15 @@
     "price": 299.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/ad-non-piercing-nosepin-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/48341912387806",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5358.jpg?v=1781711079"
+  },
+  "gid://shopify/ProductVariant/48341912453342": {
+    "product_title": "AD Non Piercing Nosepin in 3 Colors (Price for Each)",
+    "variant_title": "White",
+    "sku": "1913",
+    "price": 299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-non-piercing-nosepin-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/48341912453342",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5358.jpg?v=1781711079"
   },
   "gid://shopify/ProductVariant/48349419602142": {
