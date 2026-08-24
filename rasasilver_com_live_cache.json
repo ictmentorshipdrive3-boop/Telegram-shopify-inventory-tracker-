@@ -3973,7 +3973,7 @@
     "variant_title": "Purple",
     "sku": "R21160",
     "price": 31790.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/amoria-short-necklace?variant=gid://shopify/ProductVariant/52258554315049",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_07Aug06621.jpg?v=1756199570"
   },
@@ -15020,6 +15020,15 @@
     "url": "https://www.rasasilver.com/products/zariya-luxe-cz-necklace-set?variant=gid://shopify/ProductVariant/52682074620201",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4544_resized.jpg?v=1771654949"
   },
+  "gid://shopify/ProductVariant/52682093461801": {
+    "product_title": "Ember Gold CZ Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R25062",
+    "price": 22100.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/ember-gold-cz-necklace-set?variant=gid://shopify/ProductVariant/52682093461801",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4528_resized.jpg?v=1771655874"
+  },
   "gid://shopify/ProductVariant/52682122789161": {
     "product_title": "Royal Glow CZ Necklace Set",
     "variant_title": "Default Title",
@@ -20011,7 +20020,7 @@
     "variant_title": "Default Title",
     "sku": "R28068",
     "price": 24820.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/rectoriae-cz-necklace-set-copy?variant=gid://shopify/ProductVariant/53161109422377",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0533_resized.jpg?v=1780901616"
   },
@@ -20788,6 +20797,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/sparkle-oval-cz-necklace?variant=gid://shopify/ProductVariant/53282825273641",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May1520_resized.jpg?v=1782110893"
+  },
+  "gid://shopify/ProductVariant/53282539569449": {
+    "product_title": "Greenika-Pear CZ Necklace",
+    "variant_title": "GREEN",
+    "sku": "R29501",
+    "price": 13090.0,
+    "stock": 2,
+    "url": "https://www.rasasilver.com/products/greenika-pear-cz-necklace?variant=gid://shopify/ProductVariant/53282539569449",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May1444_resized.jpg?v=1782112425"
   },
   "gid://shopify/ProductVariant/53282539602217": {
     "product_title": "Greenika-Pear CZ Necklace",
@@ -40346,15 +40364,6 @@
     "url": "https://www.rasasilver.com/products/carat-culture-cz-necklace-set?variant=gid://shopify/ProductVariant/52682087727401",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4571_resized.jpg?v=1771655422"
   },
-  "gid://shopify/ProductVariant/52682093461801": {
-    "product_title": "Ember Gold CZ Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R25062",
-    "price": 22100.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/ember-gold-cz-necklace-set?variant=gid://shopify/ProductVariant/52682093461801",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4528_resized.jpg?v=1771655874"
-  },
   "gid://shopify/ProductVariant/52682103914793": {
     "product_title": "Gilded Petal CZ Necklace Set",
     "variant_title": "Default Title",
@@ -45232,15 +45241,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/brilliant-bloom-cz-necklace?variant=gid://shopify/ProductVariant/53282531442985",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May1501_resized_1.jpg?v=1785566620"
-  },
-  "gid://shopify/ProductVariant/53282539569449": {
-    "product_title": "Greenika-Pear CZ Necklace",
-    "variant_title": "GREEN",
-    "sku": "R29501",
-    "price": 13090.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/greenika-pear-cz-necklace?variant=gid://shopify/ProductVariant/53282539569449",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May1444_resized.jpg?v=1782112425"
   },
   "gid://shopify/ProductVariant/53282541371689": {
     "product_title": "Panna-Droplet CZ Necklace",
