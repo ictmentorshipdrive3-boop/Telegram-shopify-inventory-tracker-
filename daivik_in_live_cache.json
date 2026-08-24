@@ -3109,7 +3109,7 @@
     "variant_title": "3.",
     "sku": "1023",
     "price": 1099.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/a-349?variant=gid://shopify/ProductVariant/43630214349022",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_91c2a3d5-77e4-46d3-a42c-2774b24808b5.heic?v=1667830052"
   },
@@ -10426,7 +10426,7 @@
     "variant_title": "Default Title",
     "sku": "1204",
     "price": 999.0,
-    "stock": 46,
+    "stock": 45,
     "url": "https://www.daivik.in/products/three-line-green-golden-beads-chain?variant=gid://shopify/ProductVariant/46238039572702",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/382D24A8-252E-4668-808B-883976C9F1AA.jpg?v=1737555341"
   },
@@ -11425,7 +11425,7 @@
     "variant_title": "Ruby",
     "sku": "697",
     "price": 1799.0,
-    "stock": 36,
+    "stock": 35,
     "url": "https://www.daivik.in/products/ad-peacock-long-chain-with-earrings-in-2-colors?variant=gid://shopify/ProductVariant/46517284798686",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EE3D287A-B2CE-4854-8BD0-134F555888F3.jpg?v=1743600253"
   },
@@ -18499,18 +18499,9 @@
     "variant_title": "Default Title",
     "sku": "550",
     "price": 3999.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.daivik.in/products/rashmika-mandanna-inspired-antique-bridal-jewellery?variant=gid://shopify/ProductVariant/48022270148830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3E051AAE-E0C6-42D0-981A-FF39F43F99FA.jpg?v=1774428452"
-  },
-  "gid://shopify/ProductVariant/48029690036446": {
-    "product_title": "Premium Pearl AD Flower Kada",
-    "variant_title": "Default Title",
-    "sku": "1839",
-    "price": 799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/premium-pearl-ad-flower-kada?variant=gid://shopify/ProductVariant/48029690036446",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8694.jpg?v=1774524235"
   },
   "gid://shopify/ProductVariant/48036280369374": {
     "product_title": "Antique Bridal Temple Handcrafted Necklace with Jhumkas",
@@ -20740,7 +20731,7 @@
     "variant_title": "Default Title",
     "sku": "1925",
     "price": 699.0,
-    "stock": 40,
+    "stock": 39,
     "url": "https://www.daivik.in/products/premium-floral-ad-kada-fits-2-2-2-4?variant=gid://shopify/ProductVariant/48429714374878",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0576.jpg?v=1783946500"
   },
@@ -20776,7 +20767,7 @@
     "variant_title": "White",
     "sku": "1927",
     "price": 1099.0,
-    "stock": 29,
+    "stock": 28,
     "url": "https://www.daivik.in/products/ad-earcuff-in-4-colors-price-for-each?variant=gid://shopify/ProductVariant/48434488705246",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5594.jpg?v=1784029118"
   },
@@ -21109,7 +21100,7 @@
     "variant_title": "Default Title",
     "sku": "1150",
     "price": 799.0,
-    "stock": 50,
+    "stock": 49,
     "url": "https://www.daivik.in/products/simple-ad-green-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48550497583326",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/652C9996-8E2A-40F9-87B5-3C976003D04F.jpg?v=1785942584"
   },
@@ -21190,7 +21181,7 @@
     "variant_title": "Default Title",
     "sku": "1112",
     "price": 799.0,
-    "stock": 15,
+    "stock": 14,
     "url": "https://www.daivik.in/products/simple-lotus-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48586872553694",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EA0E3112-00F1-4DB1-A5AB-9EE30EF10B2B.jpg?v=1786293531"
   },
@@ -30247,6 +30238,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/simple-ad-ruby-green-nose-pin-nath-screw-type?variant=gid://shopify/ProductVariant/48017605394654",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8636.jpg?v=1774274426"
+  },
+  "gid://shopify/ProductVariant/48029690036446": {
+    "product_title": "Premium Pearl AD Flower Kada",
+    "variant_title": "Default Title",
+    "sku": "1839",
+    "price": 799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/premium-pearl-ad-flower-kada?variant=gid://shopify/ProductVariant/48029690036446",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8694.jpg?v=1774524235"
   },
   "gid://shopify/ProductVariant/48029717856478": {
     "product_title": "Premium Pearl AD Kada",
