@@ -1624,7 +1624,7 @@
     "variant_title": "Default Title",
     "sku": "452",
     "price": 4199.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.daivik.in/products/pure-kemp-midlength-haram?variant=gid://shopify/ProductVariant/42180674420958",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_23324bb1-7a9c-4d89-abfe-bc46ed0194fa.jpg?v=1640157624"
   },
@@ -1780,15 +1780,6 @@
     "stock": 9,
     "url": "https://www.daivik.in/products/simple-floral-ad-kemp-necklace-with-earrings?variant=gid://shopify/ProductVariant/42331638989022",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_425e3745-a388-46dc-bd87-3b3b6eee7169.jpg?v=1641996550"
-  },
-  "gid://shopify/ProductVariant/42338491891934": {
-    "product_title": "Pure kemp brass teeka",
-    "variant_title": "Default Title",
-    "sku": "375",
-    "price": 2199.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/pure-kemp-brass-teeka?variant=gid://shopify/ProductVariant/42338491891934",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_c920ba8f-3819-41cb-8d62-09fae78769ef.jpg?v=1642085779"
   },
   "gid://shopify/ProductVariant/42350496121054": {
     "product_title": "Set of 4 green bangles",
@@ -16411,7 +16402,7 @@
     "variant_title": "Default Title",
     "sku": "1331",
     "price": 6499.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/jadau-kemp-lotus-necklace-with-earrings?variant=gid://shopify/ProductVariant/47658374922462",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3738FE9E-9BC6-4E28-969A-82F54E5218AD.jpg?v=1762340468"
   },
@@ -22102,6 +22093,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/pure-brass-kundan-necklace-with-earrings?variant=gid://shopify/ProductVariant/42331658387678",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_3cc20ae3-e7c9-4dc4-9082-2d9571ce75e2.jpg?v=1641996872"
+  },
+  "gid://shopify/ProductVariant/42338491891934": {
+    "product_title": "Pure kemp brass teeka",
+    "variant_title": "Default Title",
+    "sku": "375",
+    "price": 2199.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/pure-kemp-brass-teeka?variant=gid://shopify/ProductVariant/42338491891934",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_c920ba8f-3819-41cb-8d62-09fae78769ef.jpg?v=1642085779"
   },
   "gid://shopify/ProductVariant/42348479578334": {
     "product_title": "Party wear Necklaces in 4 styles with earrings",
