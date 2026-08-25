@@ -886,7 +886,7 @@
     "variant_title": "Default Title",
     "sku": "R17286",
     "price": 4080.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/kiranaratna-studs?variant=gid://shopify/ProductVariant/50152979005737",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06339_copy.jpg?v=1744182993"
   },
@@ -21283,15 +21283,6 @@
     "stock": 3,
     "url": "https://www.rasasilver.com/products/orbit-edge-hoop?variant=gid://shopify/ProductVariant/53286101778729",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5595_resized.jpg?v=1782294133"
-  },
-  "gid://shopify/ProductVariant/53286102073641": {
-    "product_title": "Coil & Shine Kada",
-    "variant_title": "Default Title",
-    "sku": "R31526",
-    "price": 13005.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/coil-shine-kada?variant=gid://shopify/ProductVariant/53286102073641",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5773_resized.jpg?v=1782294818"
   },
   "gid://shopify/ProductVariant/53286134087977": {
     "product_title": "Timeless Spark Kada",
@@ -45880,6 +45871,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/classic-ear-cuff?variant=gid://shopify/ProductVariant/53286097125673",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5625_resized.jpg?v=1782294055"
+  },
+  "gid://shopify/ProductVariant/53286102073641": {
+    "product_title": "Coil & Shine Kada",
+    "variant_title": "Default Title",
+    "sku": "R31526",
+    "price": 13005.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/coil-shine-kada?variant=gid://shopify/ProductVariant/53286102073641",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5773_resized.jpg?v=1782294818"
   },
   "gid://shopify/ProductVariant/53286167675177": {
     "product_title": "Mystic Snake Ring",
