@@ -508,7 +508,7 @@
     "variant_title": "Default Title",
     "sku": "381",
     "price": 1099.0,
-    "stock": 13,
+    "stock": 12,
     "url": "https://www.daivik.in/products/simple-lakshmi-choker-with-pearl-hangings?variant=gid://shopify/ProductVariant/36398494351513",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/simple-lakshmi-choker-with-pearl-hangings-neckwearnecklace-455.jpg?v=1601103548"
   },
@@ -769,7 +769,7 @@
     "variant_title": "Default Title",
     "sku": "604",
     "price": 1399.0,
-    "stock": 33,
+    "stock": 32,
     "url": "https://www.daivik.in/products/ad-peacock-jhumkas-1?variant=gid://shopify/ProductVariant/38058936402073",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/ad-peacock-jhumkas-earrings-269.jpg?v=1613143353"
   },
@@ -5854,7 +5854,7 @@
     "variant_title": "Default Title",
     "sku": "367",
     "price": 999.0,
-    "stock": 43,
+    "stock": 42,
     "url": "https://www.daivik.in/products/antique-matte-finish-lakshmi-peacock-jhumkas?variant=gid://shopify/ProductVariant/44665226035422",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0140D6CA-AE5E-456B-9707-71FA3598F63A.jpg?v=1705071171"
   },
@@ -13490,15 +13490,6 @@
     "url": "https://www.daivik.in/products/antique-kids-floral-jhumkas?variant=gid://shopify/ProductVariant/47490343207134",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A47B5CEA-AC4E-4CF5-8818-977205037DB1.jpg?v=1756623443"
   },
-  "gid://shopify/ProductVariant/47490358804702": {
-    "product_title": "Kemp Bangles in 2 Variants",
-    "variant_title": "Ruby / 2.4",
-    "sku": "1670",
-    "price": 2299.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/kemp-bangles-in-2-variants?variant=gid://shopify/ProductVariant/47490358804702",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/28E11D59-774C-4D87-BE30-A43AD663C4E2.jpg?v=1756623515"
-  },
   "gid://shopify/ProductVariant/47490358837470": {
     "product_title": "Kemp Bangles in 2 Variants",
     "variant_title": "Green / 2.4",
@@ -19876,7 +19867,7 @@
     "variant_title": "Default Title",
     "sku": "841",
     "price": 799.0,
-    "stock": 23,
+    "stock": 22,
     "url": "https://www.daivik.in/products/sri-balaji-heritage-choker-with-studs?variant=gid://shopify/ProductVariant/48289643102430",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/84DF6BB0-9447-44E6-8BBB-5D467BC5ACC4.jpg?v=1780066755"
   },
@@ -21343,7 +21334,7 @@
     "variant_title": "2",
     "sku": "1952",
     "price": 599.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.daivik.in/products/simple-thin-hipchain-in-3-variants-price-for-each?variant=gid://shopify/ProductVariant/48632739070174",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1564_23be5796-b199-4b04-937d-77f96fe88e88.jpg?v=1787586721"
   },
@@ -28429,6 +28420,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-kids-peacock-jhumkas?variant=gid://shopify/ProductVariant/47490332917982",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4E7EFD54-988A-4DE7-A671-AFE619C9C17D.jpg?v=1756623315"
+  },
+  "gid://shopify/ProductVariant/47490358804702": {
+    "product_title": "Kemp Bangles in 2 Variants",
+    "variant_title": "Ruby / 2.4",
+    "sku": "1670",
+    "price": 2299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/kemp-bangles-in-2-variants?variant=gid://shopify/ProductVariant/47490358804702",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/28E11D59-774C-4D87-BE30-A43AD663C4E2.jpg?v=1756623515"
   },
   "gid://shopify/ProductVariant/47494054445278": {
     "product_title": "AD Floral Jhumkas with Mattals",
