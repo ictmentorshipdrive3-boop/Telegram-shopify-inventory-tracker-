@@ -7348,7 +7348,7 @@
     "variant_title": "Default Title",
     "sku": "NK207",
     "price": 3465.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.kanshijewels.com/products/rani-choker-1?variant=gid://shopify/ProductVariant/50702760575276",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/3300_-ranichokar.jpg?v=1741257517"
   },
@@ -9934,15 +9934,6 @@
     "stock": 9,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-choker-studs-set?variant=gid://shopify/ProductVariant/52737239023916",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/JADAUCHOKARSTUDSSET2900SET.jpg?v=1773120608"
-  },
-  "gid://shopify/ProductVariant/52737246265644": {
-    "product_title": "Jadau Earrings",
-    "variant_title": "Default Title",
-    "sku": "ER27",
-    "price": 1520.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-earrings-6?variant=gid://shopify/ProductVariant/52737246265644",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/JADAUEARRINGS1520_30d83a35-528f-49aa-a95f-18c757434ec4.jpg?v=1773121082"
   },
   "gid://shopify/ProductVariant/52737252688172": {
     "product_title": "Jadau Earrings",
@@ -13858,6 +13849,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/jadau-earcuff-jhumkas-2?variant=gid://shopify/ProductVariant/52737241907500",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_3440.jpg?v=1773120733"
+  },
+  "gid://shopify/ProductVariant/52737246265644": {
+    "product_title": "Jadau Earrings",
+    "variant_title": "Default Title",
+    "sku": "ER27",
+    "price": 1520.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-earrings-6?variant=gid://shopify/ProductVariant/52737246265644",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/JADAUEARRINGS1520_30d83a35-528f-49aa-a95f-18c757434ec4.jpg?v=1773121082"
   },
   "gid://shopify/ProductVariant/52737249050924": {
     "product_title": "Jadau Earrings",
