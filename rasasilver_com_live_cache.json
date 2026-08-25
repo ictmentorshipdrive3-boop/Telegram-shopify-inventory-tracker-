@@ -3568,7 +3568,7 @@
     "variant_title": "Default Title",
     "sku": "R10528",
     "price": 3400.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/ruby-rohini-studs?variant=gid://shopify/ProductVariant/50711198564649",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_4c902a52-9723-4e62-b14e-12f8f355af31.jpg?v=1754912871"
   },
@@ -5038,15 +5038,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/moissivine-ring?variant=gid://shopify/ProductVariant/51412278772009",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug47040.jpg?v=1756816552"
-  },
-  "gid://shopify/ProductVariant/50839896883497": {
-    "product_title": "Aurora Amethyst Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R12420",
-    "price": 41600.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/aurora-amethyst-necklace-set?variant=gid://shopify/ProductVariant/50839896883497",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug46635.jpg?v=1756884646"
   },
   "gid://shopify/ProductVariant/50839924015401": {
     "product_title": "Sapphire Petalia Necklace Set",
@@ -25802,15 +25793,6 @@
     "url": "https://www.rasasilver.com/products/vedaishri-kundan-jhumki?variant=gid://shopify/ProductVariant/53413302141225",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__12Aug0432.jpg?v=1786956377"
   },
-  "gid://shopify/ProductVariant/53413302370601": {
-    "product_title": "Sumanika Victorian Studs",
-    "variant_title": "Default Title",
-    "sku": "R30977",
-    "price": 6500.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/sumanika-studs?variant=gid://shopify/ProductVariant/53413302370601",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_42_51Pics0610.jpg?v=1786972519"
-  },
   "gid://shopify/ProductVariant/53413306106153": {
     "product_title": "Madhurvya Kundan Necklace",
     "variant_title": "Default Title",
@@ -27988,6 +27970,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/glowique-short-necklace?variant=gid://shopify/ProductVariant/50839838228777",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_79_Pc_25Aug0454.jpg?v=1756811395"
+  },
+  "gid://shopify/ProductVariant/50839896883497": {
+    "product_title": "Aurora Amethyst Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R12420",
+    "price": 41600.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/aurora-amethyst-necklace-set?variant=gid://shopify/ProductVariant/50839896883497",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug46635.jpg?v=1756884646"
   },
   "gid://shopify/ProductVariant/50840294424873": {
     "product_title": "Brillafleur Cz Necklace Set",
@@ -47320,6 +47311,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/ugra-pakshi-kundan-jada?variant=gid://shopify/ProductVariant/53411380658473",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPT_Image_Aug_13_2026_03_52_04_PM.png?v=1786616545"
+  },
+  "gid://shopify/ProductVariant/53413302370601": {
+    "product_title": "Sumanika Victorian Studs",
+    "variant_title": "Default Title",
+    "sku": "R30977",
+    "price": 6500.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/sumanika-studs?variant=gid://shopify/ProductVariant/53413302370601",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_42_51Pics0610.jpg?v=1786972519"
   },
   "gid://shopify/ProductVariant/53413618483497": {
     "product_title": "Vyanika Kundan Oddiyanam",
