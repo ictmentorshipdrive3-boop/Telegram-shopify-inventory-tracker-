@@ -2929,7 +2929,7 @@
     "variant_title": "Default Title",
     "sku": "R22189",
     "price": 39440.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/nav-rang-darpan-necklace-set?variant=gid://shopify/ProductVariant/50545568284969",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2_fc2e575d-66e2-4505-a73c-bdd47a1f7fd0.jpg?v=1751449396"
   },
@@ -7834,7 +7834,7 @@
     "variant_title": "Default Title",
     "sku": "R17422",
     "price": 2890.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.rasasilver.com/products/kanchan-spark-studs?variant=gid://shopify/ProductVariant/51488632471849",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0052copy_resized.jpg?v=1762943543"
   },
@@ -9854,15 +9854,6 @@
     "url": "https://www.rasasilver.com/products/rosalya-ring?variant=gid://shopify/ProductVariant/52166987940137",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0045copy_resized.jpg?v=1763971241"
   },
-  "gid://shopify/ProductVariant/52166999998761": {
-    "product_title": "Emera Bud Ring",
-    "variant_title": "Green / 13",
-    "sku": "R16714",
-    "price": 4505.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/emera-bud-ring?variant=gid://shopify/ProductVariant/52166999998761",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0029copy_resized_cadf1c64-528c-4d83-82aa-bf3461c4b619.jpg?v=1763976041"
-  },
   "gid://shopify/ProductVariant/52167125106985": {
     "product_title": "Ruby Florin Stud Earrings",
     "variant_title": "GREEN",
@@ -10222,15 +10213,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/rosaria-ruby-bangles?variant=gid://shopify/ProductVariant/52210180161833",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0110copy_resized_7a47d753-5fff-4af0-b6d4-80f14c98efe6.jpg?v=1764667367"
-  },
-  "gid://shopify/ProductVariant/52210196775209": {
-    "product_title": "Gemhalo Gem Bangles",
-    "variant_title": "2.7",
-    "sku": "R20096",
-    "price": 34850.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/gemhalo-bangles?variant=gid://shopify/ProductVariant/52210196775209",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0115copy_resized_d2312280-4ad3-4667-945d-1c0d4fc5463e.jpg?v=1764668133"
   },
   "gid://shopify/ProductVariant/52210235081001": {
     "product_title": "Glitzara Stone Bangles",
@@ -23615,15 +23597,6 @@
     "url": "https://www.rasasilver.com/products/luxe-brilliance-moissanite-necklace?variant=gid://shopify/ProductVariant/53349149114665",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0678.jpg?v=1786345043"
   },
-  "gid://shopify/ProductVariant/53349155668265": {
-    "product_title": "Petal Veil Moissanite Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R32665",
-    "price": 50575.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/petal-veil-moissanite-necklace-set?variant=gid://shopify/ProductVariant/53349155668265",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0677.jpg?v=1786345252"
-  },
   "gid://shopify/ProductVariant/53349200396585": {
     "product_title": "Queen's Glow CZ Choker Set",
     "variant_title": "Default Title",
@@ -25357,7 +25330,7 @@
     "variant_title": "Gold",
     "sku": "R32256",
     "price": 2550.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/aurora-collar-necklace?variant=gid://shopify/ProductVariant/53410983313705",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19516.jpg?v=1786707912"
   },
@@ -35306,6 +35279,15 @@
     "url": "https://www.rasasilver.com/products/rosavia-ring?variant=gid://shopify/ProductVariant/52166970278185",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0054copy_resized_c3c00b55-df54-4f25-92c8-d8e37ebda8f6.jpg?v=1763970411"
   },
+  "gid://shopify/ProductVariant/52166999998761": {
+    "product_title": "Emera Bud Ring",
+    "variant_title": "Green / 13",
+    "sku": "R16714",
+    "price": 4505.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/emera-bud-ring?variant=gid://shopify/ProductVariant/52166999998761",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0029copy_resized_cadf1c64-528c-4d83-82aa-bf3461c4b619.jpg?v=1763976041"
+  },
   "gid://shopify/ProductVariant/52167000031529": {
     "product_title": "Emera Bud Ring",
     "variant_title": "Ruby Pink / 13",
@@ -35836,6 +35818,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/vimalalakshmi-bangles?variant=gid://shopify/ProductVariant/52210154832169",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0164copy_resized_4010a4ee-39c8-4911-b412-c1e761dc2789.jpg?v=1764667066"
+  },
+  "gid://shopify/ProductVariant/52210196775209": {
+    "product_title": "Gemhalo Gem Bangles",
+    "variant_title": "2.7",
+    "sku": "R20096",
+    "price": 34850.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/gemhalo-bangles?variant=gid://shopify/ProductVariant/52210196775209",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0115copy_resized_d2312280-4ad3-4667-945d-1c0d4fc5463e.jpg?v=1764668133"
   },
   "gid://shopify/ProductVariant/52209301684521": {
     "product_title": "Floral Carmine Bangles",
@@ -46627,6 +46618,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/the-rose-hour-watch-1?variant=gid://shopify/ProductVariant/53346857681193",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0380_resized.jpg?v=1785935333"
+  },
+  "gid://shopify/ProductVariant/53349155668265": {
+    "product_title": "Petal Veil Moissanite Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R32665",
+    "price": 50575.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/petal-veil-moissanite-necklace-set?variant=gid://shopify/ProductVariant/53349155668265",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0677.jpg?v=1786345252"
   },
   "gid://shopify/ProductVariant/53349272322345": {
     "product_title": "Pink Majesty Victorian Ring",
