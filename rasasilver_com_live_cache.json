@@ -121,7 +121,7 @@
     "variant_title": "Default Title",
     "sku": "R1526",
     "price": 2890.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.rasasilver.com/products/kundan-nath?variant=gid://shopify/ProductVariant/49855900451113",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-34_d498d6ad-5c3a-4fdf-b147-520b19be8a5a.jpg?v=1739427458"
   },
@@ -3478,7 +3478,7 @@
     "variant_title": "GREEN",
     "sku": "R17375",
     "price": 2720.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/phool-patra-ring?variant=gid://shopify/ProductVariant/50635383046441",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_b8e63f25-e347-47bc-a5b4-f852ef78fb3c.jpg?v=1754312394"
   },
@@ -4139,24 +4139,6 @@
     "url": "https://www.rasasilver.com/products/lotus-diadem-hip-belt?variant=gid://shopify/ProductVariant/50758256754985",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_c9cbcf70-4928-46c6-9b6a-d005563eea38.jpg?v=1755595162"
   },
-  "gid://shopify/ProductVariant/50758334972201": {
-    "product_title": "Petal & Paisley Hip Belt",
-    "variant_title": "Default Title",
-    "sku": "R11417",
-    "price": 75000.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/petal-paisley-hip-belt?variant=gid://shopify/ProductVariant/50758334972201",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug47050_1_-2.jpg?v=1756797033"
-  },
-  "gid://shopify/ProductVariant/50758387106089": {
-    "product_title": "Fiorelle Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R11557",
-    "price": 48800.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/fiorelle-short-necklace-set?variant=gid://shopify/ProductVariant/50758387106089",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-5_0994240a-a177-4506-a91f-5efd687f0fd6.jpg?v=1755687949"
-  },
   "gid://shopify/ProductVariant/50758458933545": {
     "product_title": "Jasmine Jive Danglers",
     "variant_title": "Default Title",
@@ -4684,7 +4666,7 @@
     "variant_title": "GREEN",
     "sku": "R17416",
     "price": 3145.0,
-    "stock": 6,
+    "stock": 7,
     "url": "https://www.rasasilver.com/products/gaurangi-phool-studs?variant=gid://shopify/ProductVariant/51472911106345",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP290.jpg?v=1756542039"
   },
@@ -5020,15 +5002,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/crystal-mehreen-maang-tikka?variant=gid://shopify/ProductVariant/50839509827881",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug46953.jpg?v=1756882964"
-  },
-  "gid://shopify/ProductVariant/50905980600617": {
-    "product_title": "Dazzlonite Cz Bangles",
-    "variant_title": "2.6",
-    "sku": "R12341",
-    "price": 19200.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/dazzlonite-bangles?variant=gid://shopify/ProductVariant/50905980600617",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug47002.jpg?v=1756817920"
   },
   "gid://shopify/ProductVariant/51412278772009": {
     "product_title": "Moissivine Ring",
@@ -6164,6 +6137,15 @@
     "url": "https://www.rasasilver.com/products/ring-21?variant=gid://shopify/ProductVariant/52291044311337",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0073_copy.jpg?v=1761283433"
   },
+  "gid://shopify/ProductVariant/51350170468649": {
+    "product_title": "Ruvanya Stone Ring",
+    "variant_title": "Ruby Pink / 12",
+    "sku": "R16060",
+    "price": 2890.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/ring-22?variant=gid://shopify/ProductVariant/51350170468649",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS581.jpg?v=1761283685"
+  },
   "gid://shopify/ProductVariant/52274131534121": {
     "product_title": "Emvira Antique Ring",
     "variant_title": "15",
@@ -6811,6 +6793,15 @@
     "stock": 2,
     "url": "https://www.rasasilver.com/products/misra-mangalam-tali-necklace?variant=gid://shopify/ProductVariant/51408742121769",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0022_resized.jpg?v=1762260618"
+  },
+  "gid://shopify/ProductVariant/51409019207977": {
+    "product_title": "Rose Gem Earrings",
+    "variant_title": "Default Title",
+    "sku": "R16467",
+    "price": 10710.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/liora-rose-studs?variant=gid://shopify/ProductVariant/51409019207977",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_79_Pics_15Oct2459_resized.jpg?v=1761564365"
   },
   "gid://shopify/ProductVariant/51412361609513": {
     "product_title": "Mayuk Oval Hip Belt",
@@ -9485,15 +9476,6 @@
     "url": "https://www.rasasilver.com/products/ziryana-sparkle-pendant-set?variant=gid://shopify/ProductVariant/51864696979753",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2427_resized.jpg?v=1763468484"
   },
-  "gid://shopify/ProductVariant/51866778796329": {
-    "product_title": "Emerald Quadline Necklace Set",
-    "variant_title": "Ruby Pink",
-    "sku": "R18568",
-    "price": 39185.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/emerald-quadline-necklace-set?variant=gid://shopify/ProductVariant/51866778796329",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2296_resized.jpg?v=1763464950"
-  },
   "gid://shopify/ProductVariant/51867914699049": {
     "product_title": "Ruby Zivara Necklace Set",
     "variant_title": "Ruby Pink",
@@ -9895,7 +9877,7 @@
     "variant_title": "GREEN / 5.4",
     "sku": "R16711",
     "price": 3230.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/rosalya-ring?variant=gid://shopify/ProductVariant/52166987940137",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0045copy_resized.jpg?v=1763971241"
   },
@@ -9944,6 +9926,15 @@
     "url": "https://www.rasasilver.com/products/rubyleaf-ovelle-necklace-set?variant=gid://shopify/ProductVariant/52170082713897",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0091copy_resized.jpg?v=1764056071"
   },
+  "gid://shopify/ProductVariant/52170147823913": {
+    "product_title": "Flora Crimson Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R19096",
+    "price": 35445.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/flora-crimson-pear-necklace-set?variant=gid://shopify/ProductVariant/52170147823913",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0116copy_resized.jpg?v=1764060695"
+  },
   "gid://shopify/ProductVariant/52170171023657": {
     "product_title": "Scarlet Pear Necklace Set",
     "variant_title": "Default Title",
@@ -9985,7 +9976,7 @@
     "variant_title": "7.25",
     "sku": "R16496",
     "price": 6035.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/frost-bloom-ring?variant=gid://shopify/ProductVariant/52290959966505",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0007copy_resized.jpg?v=1764062037"
   },
@@ -11231,6 +11222,15 @@
     "url": "https://www.rasasilver.com/products/tri-gem-victorian-necklace-set?variant=gid://shopify/ProductVariant/52362309140777",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0349copy_resized_7aea5e00-28b8-4b3e-8448-1b76c703883f.jpg?v=1767418992"
   },
+  "gid://shopify/ProductVariant/52377912377641": {
+    "product_title": "Hexa Victorian Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R22314",
+    "price": 23885.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/hexa-victorian-necklace-set?variant=gid://shopify/ProductVariant/52377912377641",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0194_copy_resized.jpg?v=1767418620"
+  },
   "gid://shopify/ProductVariant/52377995542825": {
     "product_title": "Orbit Victorian Necklace",
     "variant_title": "Default Title",
@@ -11281,7 +11281,7 @@
     "variant_title": "Default Title",
     "sku": "R20933",
     "price": 98515.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/haloria-cz-hip-belt?variant=gid://shopify/ProductVariant/52383370445097",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0497copy_resized.jpg?v=1767690102"
   },
@@ -15686,6 +15686,15 @@
     "url": "https://www.rasasilver.com/products/kada-6?variant=gid://shopify/ProductVariant/52759259644201",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00196copy_resized.jpg?v=1772782079"
   },
+  "gid://shopify/ProductVariant/52759309418793": {
+    "product_title": "Moissanite Glow Kada",
+    "variant_title": "Default Title",
+    "sku": "R22763",
+    "price": 14280.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/moissanite-kada?variant=gid://shopify/ProductVariant/52759309418793",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00222copy_resized_1.jpg?v=1772782825"
+  },
   "gid://shopify/ProductVariant/52871896891689": {
     "product_title": "Flory-Navara Stone Kada",
     "variant_title": "Ruby Pink",
@@ -15928,6 +15937,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/swarna-peacock-kundan-oddiyanam?variant=gid://shopify/ProductVariant/52797624975657",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/RasaSiver_115_Pics_6Mar36658_resized.jpg?v=1773725231"
+  },
+  "gid://shopify/ProductVariant/52797773840681": {
+    "product_title": "Mahalakshmi Temple Oddiyanam",
+    "variant_title": "Default Title",
+    "sku": "R25800",
+    "price": 91460.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/mahalakshmi-temple-oddiyanam?variant=gid://shopify/ProductVariant/52797773840681",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/RasaSiver_115_Pics_6Mar36654_resized.jpg?v=1773725410"
   },
   "gid://shopify/ProductVariant/52797908517161": {
     "product_title": "Ganesha Peacock Temple Necklace",
@@ -16604,15 +16622,6 @@
     "url": "https://www.rasasilver.com/products/zivara-elephant-victorian-tikka?variant=gid://shopify/ProductVariant/52825076564265",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_12_Mar16341.jpg?v=1774009353"
   },
-  "gid://shopify/ProductVariant/52825120637225": {
-    "product_title": "Avira CZ Matil",
-    "variant_title": "Default Title",
-    "sku": "R23608",
-    "price": 55590.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/avira-cz-matil?variant=gid://shopify/ProductVariant/52825120637225",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar02541.jpg?v=1773994217"
-  },
   "gid://shopify/ProductVariant/52825172050217": {
     "product_title": "Aavira Kundan Matil",
     "variant_title": "Default Title",
@@ -17108,15 +17117,6 @@
     "url": "https://www.rasasilver.com/products/ratnashila-moissanite-bangles?variant=gid://shopify/ProductVariant/52832177717545",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_12_Mar16165_resized.jpg?v=1774346856"
   },
-  "gid://shopify/ProductVariant/52832229556521": {
-    "product_title": "Aurelina Moissanite Bangles",
-    "variant_title": "Default Title",
-    "sku": "R9316",
-    "price": 41650.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/aurelina-moissanite-bangles?variant=gid://shopify/ProductVariant/52832229556521",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_12_Mar16178_resized.jpg?v=1774347657"
-  },
   "gid://shopify/ProductVariant/52838517506345": {
     "product_title": "Sri Kamala Temple Pendant",
     "variant_title": "Default Title",
@@ -17215,6 +17215,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/kusintha-antique-choker-copy?variant=gid://shopify/ProductVariant/52866191524137",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar00672_resized.jpg?v=1775218320"
+  },
+  "gid://shopify/ProductVariant/52866227667241": {
+    "product_title": "Varna-Gowri Temple Oddiyanam",
+    "variant_title": "Default Title",
+    "sku": "R26671",
+    "price": 111350.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/varna-gowri-oddiyanam?variant=gid://shopify/ProductVariant/52866227667241",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_26_Mar20708_resized.jpg?v=1775028929"
   },
   "gid://shopify/ProductVariant/52866248769833": {
     "product_title": "Radhashyamika Temple Oddiyanam",
@@ -17374,7 +17383,7 @@
     "variant_title": "Default Title",
     "sku": "R26773",
     "price": 13685.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/ovelis-cz-maang-tikka?variant=gid://shopify/ProductVariant/52871072383273",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar00322_resized.jpg?v=1775280545"
   },
@@ -17599,7 +17608,7 @@
     "variant_title": "2.6",
     "sku": "R26683",
     "price": 15640.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.rasasilver.com/products/tira-cz-bangles?variant=gid://shopify/ProductVariant/52915504415017",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_272Pics_19Mar37286_resized.jpg?v=1775113946"
   },
@@ -17608,7 +17617,7 @@
     "variant_title": "2.7",
     "sku": "R26683",
     "price": 18400.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.rasasilver.com/products/tira-cz-bangles?variant=gid://shopify/ProductVariant/52915504447785",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_272Pics_19Mar37286_resized.jpg?v=1775113946"
   },
@@ -18251,6 +18260,15 @@
     "url": "https://www.rasasilver.com/products/althira-matil?variant=gid://shopify/ProductVariant/52897925693737",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20511_resized.jpg?v=1775484372"
   },
+  "gid://shopify/ProductVariant/52897910685993": {
+    "product_title": "Maathang Kundan Matil",
+    "variant_title": "Swarovski",
+    "sku": "R23825",
+    "price": 9775.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/maathang-matil?variant=gid://shopify/ProductVariant/52897910685993",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20447_resized_a5e94255-a00d-48c1-b27f-5bb1f197b76a.jpg?v=1775484676"
+  },
   "gid://shopify/ProductVariant/53269104263465": {
     "product_title": "Shrinika Stone Matil",
     "variant_title": "Default Title",
@@ -18367,6 +18385,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/sugandha-daab?variant=gid://shopify/ProductVariant/52911232221481",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_26_Mar20688_resized_1.jpg?v=1775647061"
+  },
+  "gid://shopify/ProductVariant/52911255093545": {
+    "product_title": "Sea-Blue Victorian Kada",
+    "variant_title": "Default Title",
+    "sku": "R23297",
+    "price": 30175.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/ovalora-victorian-kada?variant=gid://shopify/ProductVariant/52911255093545",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_21_Mar20273_resized.jpg?v=1775547755"
   },
   "gid://shopify/ProductVariant/52911257092393": {
     "product_title": "Shrinyra Kundan Daab",
@@ -18679,7 +18706,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R25336",
     "price": 2465.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/zirconika-stone-ring-copy?variant=gid://shopify/ProductVariant/53064066040105",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/3-2_a9ca0497-e6ce-4202-a821-dcefc58b6d3c.jpg?v=1754312006"
   },
@@ -20065,7 +20092,7 @@
     "variant_title": "Default Title",
     "sku": "R28052",
     "price": 31110.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/frostelle-cz-bangles?variant=gid://shopify/ProductVariant/53163475960105",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11570_resized.jpg?v=1780841033"
   },
@@ -20131,15 +20158,6 @@
     "stock": 2,
     "url": "https://www.rasasilver.com/products/oval-greenora-cz-bangles?variant=gid://shopify/ProductVariant/53163675484457",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11593_resized.jpg?v=1780841535"
-  },
-  "gid://shopify/ProductVariant/53163682038057": {
-    "product_title": "Oval-Pannara CZ Bangles",
-    "variant_title": "Default Title",
-    "sku": "R28062",
-    "price": 16235.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/oval-pannara-cz-bangles?variant=gid://shopify/ProductVariant/53163682038057",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11559_resized.jpg?v=1780841635"
   },
   "gid://shopify/ProductVariant/53173673656617": {
     "product_title": "Blossira Antique Bangles",
@@ -20825,6 +20843,24 @@
     "url": "https://www.rasasilver.com/products/queencz-pendant-set?variant=gid://shopify/ProductVariant/53282896937257",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262299_resized.jpg?v=1782127395"
   },
+  "gid://shopify/ProductVariant/53282906341673": {
+    "product_title": "Matsyika Stone Ring",
+    "variant_title": "Default Title",
+    "sku": "R29517",
+    "price": 2380.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/matsyika-stone-ring?variant=gid://shopify/ProductVariant/53282906341673",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1874_resized.jpg?v=1782128447"
+  },
+  "gid://shopify/ProductVariant/53282916565289": {
+    "product_title": "Stone Lumina Ring",
+    "variant_title": "Default Title",
+    "sku": "R29519",
+    "price": 2125.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/stone-lumina-ring?variant=gid://shopify/ProductVariant/53282916565289",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1891_resized.jpg?v=1782129728"
+  },
   "gid://shopify/ProductVariant/53282936291625": {
     "product_title": "Regal Blush Stone Bangles",
     "variant_title": "2.5",
@@ -21049,6 +21085,15 @@
     "stock": 2,
     "url": "https://www.rasasilver.com/products/bracelet-10?variant=gid://shopify/ProductVariant/53284829692201",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13239_resized.jpg?v=1782223002"
+  },
+  "gid://shopify/ProductVariant/53284830413097": {
+    "product_title": "Evil-Eye Bracelet",
+    "variant_title": "Default Title",
+    "sku": "R31589",
+    "price": 1360.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/evil-eye-bracelet-1?variant=gid://shopify/ProductVariant/53284830413097",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13270_resized.jpg?v=1782223220"
   },
   "gid://shopify/ProductVariant/53284831822121": {
     "product_title": "Verdelle Bracelet",
@@ -22675,7 +22720,7 @@
     "variant_title": "Default Title",
     "sku": "R30467",
     "price": 12410.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/kite-stone-necklace-set?variant=gid://shopify/ProductVariant/53312818905385",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40226_resized.jpg?v=1783667731"
   },
@@ -22945,7 +22990,7 @@
     "variant_title": "Swarovski / 13",
     "sku": "R31659",
     "price": 3485.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/pear-blossom-antique-ring?variant=gid://shopify/ProductVariant/53329380966697",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41497_resized.jpg?v=1783919177"
   },
@@ -23227,15 +23272,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/navil-krupa-jadau-necklace?variant=gid://shopify/ProductVariant/53333186314537",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42316_resized.jpg?v=1784182438"
-  },
-  "gid://shopify/ProductVariant/53333198635305": {
-    "product_title": "Dwi-Pear Polki Kada",
-    "variant_title": "Default Title",
-    "sku": "R30690",
-    "price": 16320.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/dwi-pear-polki-kada?variant=gid://shopify/ProductVariant/53333198635305",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42563_resized.jpg?v=1784186650"
   },
   "gid://shopify/ProductVariant/53333209612585": {
     "product_title": "Princess Pink Victorian Kada",
@@ -23534,15 +23570,6 @@
     "url": "https://www.rasasilver.com/products/burgundy-crown-bracelet?variant=gid://shopify/ProductVariant/53346683355433",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0411_resized.jpg?v=1785919177"
   },
-  "gid://shopify/ProductVariant/53346704064809": {
-    "product_title": "Luxe Cuff Bracelet",
-    "variant_title": "Default Title",
-    "sku": "R31194",
-    "price": 17765.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/luxe-waterfall-cuff-bracelet?variant=gid://shopify/ProductVariant/53346704064809",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0970.jpg?v=1786104096"
-  },
   "gid://shopify/ProductVariant/53346717892905": {
     "product_title": "Imperial Multigem Gemstone Bracelet",
     "variant_title": "Default Title",
@@ -23750,15 +23777,6 @@
     "url": "https://www.rasasilver.com/products/queens-glow-cz-choker-set?variant=gid://shopify/ProductVariant/53349200396585",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0303_resized.jpg?v=1785933718"
   },
-  "gid://shopify/ProductVariant/53349274353961": {
-    "product_title": "Vintage Elegance Victorian Ring",
-    "variant_title": "Default Title",
-    "sku": "R30895",
-    "price": 7565.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/vintage-elegance-victorian-ring?variant=gid://shopify/ProductVariant/53349274353961",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0143_resized.jpg?v=1785933570"
-  },
   "gid://shopify/ProductVariant/53349287657769": {
     "product_title": "Imperial Green Victorian Ring",
     "variant_title": "Default Title",
@@ -23893,6 +23911,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/aloka-hertiage-moissanite-ring?variant=gid://shopify/ProductVariant/53350490571049",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0153_resized.jpg?v=1785930505"
+  },
+  "gid://shopify/ProductVariant/53350506332457": {
+    "product_title": "Oval-Amethyst Gemstone Ring",
+    "variant_title": "7",
+    "sku": "R31101",
+    "price": 4845.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/oval-amethyst-gemstone-ring?variant=gid://shopify/ProductVariant/53350506332457",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0900.jpg?v=1786346922"
   },
   "gid://shopify/ProductVariant/53350554075433": {
     "product_title": "Half-Moon Ring",
@@ -24029,15 +24056,6 @@
     "url": "https://www.rasasilver.com/products/aurora-moissanite-bangles?variant=gid://shopify/ProductVariant/53351229030697",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2543_resized.jpg?v=1785243089"
   },
-  "gid://shopify/ProductVariant/53362218271017": {
-    "product_title": "Rose Radiance CZ Bangles",
-    "variant_title": "2.3",
-    "sku": "R31051",
-    "price": 40120.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/rose-radiance-cz-bangles?variant=gid://shopify/ProductVariant/53362218271017",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2548_resized.jpg?v=1785242268"
-  },
   "gid://shopify/ProductVariant/53362245042473": {
     "product_title": "Regal Green CZ Bangles",
     "variant_title": "2.8",
@@ -24118,15 +24136,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/royal-heirloom-victorian-maang-tikka?variant=gid://shopify/ProductVariant/53362547032361",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0101.jpg?v=1786369769"
-  },
-  "gid://shopify/ProductVariant/53362555388201": {
-    "product_title": "Raga Pearl Moissanite Maang Tikka",
-    "variant_title": "Default Title",
-    "sku": "R30780",
-    "price": 10285.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/raga-pearl-moissanite-maang-tikka?variant=gid://shopify/ProductVariant/53362555388201",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0113.jpg?v=1786369253"
   },
   "gid://shopify/ProductVariant/53362568462633": {
     "product_title": "Amodini Moissanite Maang Tikka",
@@ -24290,15 +24299,6 @@
     "url": "https://www.rasasilver.com/products/ruby-crown-victorian-kada?variant=gid://shopify/ProductVariant/53365606711593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July1005_01ad5bd9-9974-4752-b8e9-c4bd50e17bf5.jpg?v=1786106102"
   },
-  "gid://shopify/ProductVariant/53365608481065": {
-    "product_title": "Imperial Rose Moissanite Kada",
-    "variant_title": "2.3",
-    "sku": "R30775",
-    "price": 28135.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/imperial-rose-moissanite-kada?variant=gid://shopify/ProductVariant/53365608481065",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2531_resized.jpg?v=1785244941"
-  },
   "gid://shopify/ProductVariant/53365611004201": {
     "product_title": "Rose Crown Moissanite Kada",
     "variant_title": "Pink",
@@ -24340,7 +24340,7 @@
     "variant_title": "Default Title",
     "sku": "R32824",
     "price": 31960.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/cz-kada?variant=gid://shopify/ProductVariant/53365619851561",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2585_resized.jpg?v=1785244538"
   },
@@ -24361,15 +24361,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/moissanite-swarnika-kaankarela?variant=gid://shopify/ProductVariant/53365635580201",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2668_resized.jpg?v=1785237657"
-  },
-  "gid://shopify/ProductVariant/53365651865897": {
-    "product_title": "Asteria CZ Ear Cuff",
-    "variant_title": "Default Title",
-    "sku": "R31084",
-    "price": 15130.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/cz-ear-cuff?variant=gid://shopify/ProductVariant/53365651865897",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0156.jpg?v=1786350545"
   },
   "gid://shopify/ProductVariant/53365659271465": {
     "product_title": "Pear-Green CZ Ear Cuff",
@@ -24475,7 +24466,7 @@
     "variant_title": "Default Title",
     "sku": "R32923",
     "price": 15725.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/bloom-fern-cz-danglers?variant=gid://shopify/ProductVariant/53370042417449",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0182.jpg?v=1786358856"
   },
@@ -25397,6 +25388,15 @@
     "url": "https://www.rasasilver.com/products/moissanite-ring-1?variant=gid://shopify/ProductVariant/53426654413097",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38727.jpg?v=1786695639"
   },
+  "gid://shopify/ProductVariant/53426674237737": {
+    "product_title": "Duchess Pink Victorian Ring",
+    "variant_title": "Adjustable",
+    "sku": "R30877",
+    "price": 2700.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/duchess-pink-victorian-ring?variant=gid://shopify/ProductVariant/53426674237737",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38737.jpg?v=1786696070"
+  },
   "gid://shopify/ProductVariant/53410106147113": {
     "product_title": "Divine Trishul Rakhi",
     "variant_title": "Blue",
@@ -25451,6 +25451,24 @@
     "url": "https://www.rasasilver.com/products/raksha-bhai-rakhi?variant=gid://shopify/ProductVariant/53409742586153",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19649.jpg?v=1786022885"
   },
+  "gid://shopify/ProductVariant/53426841714985": {
+    "product_title": "Lotus Legacy Victorian Ring",
+    "variant_title": "Adjustable",
+    "sku": "R30882",
+    "price": 4200.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/lotus-legacy-victorian-ring?variant=gid://shopify/ProductVariant/53426841714985",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38721.jpg?v=1786700671"
+  },
+  "gid://shopify/ProductVariant/53426863931689": {
+    "product_title": "Lady Arabella Victorian Ring",
+    "variant_title": "Adjustable",
+    "sku": "R30901",
+    "price": 3800.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/lady-arabella-victorian-ring?variant=gid://shopify/ProductVariant/53426863931689",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38741.jpg?v=1786701382"
+  },
   "gid://shopify/ProductVariant/53426846073129": {
     "product_title": "Victorian Prisma Ring",
     "variant_title": "Adjustable",
@@ -25459,6 +25477,24 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/victorian-prisma-ring?variant=gid://shopify/ProductVariant/53426846073129",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38733.jpg?v=1786701173"
+  },
+  "gid://shopify/ProductVariant/53426868584745": {
+    "product_title": "Duchess of Blue Victorian Ring",
+    "variant_title": "Adjustable",
+    "sku": "R30910",
+    "price": 4000.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/duchess-of-blue-victorian-ring?variant=gid://shopify/ProductVariant/53426868584745",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38716.jpg?v=1786701650"
+  },
+  "gid://shopify/ProductVariant/53409996308777": {
+    "product_title": "Navaratna Empress Victorian Ring",
+    "variant_title": "Default Title",
+    "sku": "R30914",
+    "price": 5000.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/navaratna-empress-victorian-ring?variant=gid://shopify/ProductVariant/53409996308777",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38725.jpg?v=1786701877"
   },
   "gid://shopify/ProductVariant/53410018263337": {
     "product_title": "Peacock Stone Necklace",
@@ -27287,6 +27323,24 @@
     "url": "https://www.rasasilver.com/products/orlisse-short-necklace-set?variant=gid://shopify/ProductVariant/50758284837161",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_c3699610-5387-4778-963e-5953cb406331.jpg?v=1755688377"
   },
+  "gid://shopify/ProductVariant/50758334972201": {
+    "product_title": "Petal & Paisley Hip Belt",
+    "variant_title": "Default Title",
+    "sku": "R11417",
+    "price": 75000.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/petal-paisley-hip-belt?variant=gid://shopify/ProductVariant/50758334972201",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug47050_1_-2.jpg?v=1756797033"
+  },
+  "gid://shopify/ProductVariant/50758387106089": {
+    "product_title": "Fiorelle Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R11557",
+    "price": 48800.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/fiorelle-short-necklace-set?variant=gid://shopify/ProductVariant/50758387106089",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-5_0994240a-a177-4506-a91f-5efd687f0fd6.jpg?v=1755687949"
+  },
   "gid://shopify/ProductVariant/50815899205929": {
     "product_title": "Elira Bangles",
     "variant_title": "2.6",
@@ -27943,6 +27997,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/moissan-myst-matil?variant=gid://shopify/ProductVariant/50839616094505",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug46977.jpg?v=1756817719"
+  },
+  "gid://shopify/ProductVariant/50905980600617": {
+    "product_title": "Dazzlonite Cz Bangles",
+    "variant_title": "2.6",
+    "sku": "R12341",
+    "price": 19200.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/dazzlonite-bangles?variant=gid://shopify/ProductVariant/50905980600617",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug47002.jpg?v=1756817920"
   },
   "gid://shopify/ProductVariant/50839814963497": {
     "product_title": "Sparklenite Stud Earrings",
@@ -29717,15 +29780,6 @@
     "url": "https://www.rasasilver.com/products/ring-22?variant=gid://shopify/ProductVariant/51350170435881",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS581.jpg?v=1761283685"
   },
-  "gid://shopify/ProductVariant/51350170468649": {
-    "product_title": "Ruvanya Stone Ring",
-    "variant_title": "Ruby Pink / 12",
-    "sku": "R16060",
-    "price": 2890.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/ring-22?variant=gid://shopify/ProductVariant/51350170468649",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS581.jpg?v=1761283685"
-  },
   "gid://shopify/ProductVariant/52291042574633": {
     "product_title": "Vanklyn Stone Ring",
     "variant_title": "4.7",
@@ -30634,15 +30688,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/misra-mangalam-tali-necklace-copy?variant=gid://shopify/ProductVariant/51408775381289",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct3328_resized.jpg?v=1762261339"
-  },
-  "gid://shopify/ProductVariant/51409019207977": {
-    "product_title": "Rose Gem Earrings",
-    "variant_title": "Default Title",
-    "sku": "R16467",
-    "price": 10710.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/liora-rose-studs?variant=gid://shopify/ProductVariant/51409019207977",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_79_Pics_15Oct2459_resized.jpg?v=1761564365"
   },
   "gid://shopify/ProductVariant/52263685783849": {
     "product_title": "Peacora Cz Bangles",
@@ -34748,6 +34793,15 @@
     "url": "https://www.rasasilver.com/products/emerald-quadline-necklace-set?variant=gid://shopify/ProductVariant/51866778763561",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2296_resized.jpg?v=1763464950"
   },
+  "gid://shopify/ProductVariant/51866778796329": {
+    "product_title": "Emerald Quadline Necklace Set",
+    "variant_title": "Ruby Pink",
+    "sku": "R18568",
+    "price": 39185.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/emerald-quadline-necklace-set?variant=gid://shopify/ProductVariant/51866778796329",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2296_resized.jpg?v=1763464950"
+  },
   "gid://shopify/ProductVariant/51868437348649": {
     "product_title": "Zircadia Pear Necklace Set",
     "variant_title": "Default Title",
@@ -35530,15 +35584,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/mayuraflora-danglers?variant=gid://shopify/ProductVariant/52170005709097",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0137copy_resized_50eae528-c473-42c8-abae-4a1a5b5b9615.jpg?v=1764055718"
-  },
-  "gid://shopify/ProductVariant/52170147823913": {
-    "product_title": "Flora Crimson Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R19096",
-    "price": 35445.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/flora-crimson-pear-necklace-set?variant=gid://shopify/ProductVariant/52170147823913",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0116copy_resized.jpg?v=1764060695"
   },
   "gid://shopify/ProductVariant/52170183016745": {
     "product_title": "Tri Ruby Ovella Necklace Set",
@@ -36655,15 +36700,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/lilac-victorian-necklace-set?variant=gid://shopify/ProductVariant/52362961781033",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0235copy_resized_6ba48625-ae1f-4e30-8c0e-a6c0086c3818.jpg?v=1767417731"
-  },
-  "gid://shopify/ProductVariant/52377912377641": {
-    "product_title": "Hexa Victorian Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R22314",
-    "price": 23885.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/hexa-victorian-necklace-set?variant=gid://shopify/ProductVariant/52377912377641",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0194_copy_resized.jpg?v=1767418620"
   },
   "gid://shopify/ProductVariant/52377943146793": {
     "product_title": "Starlet Victorian Necklace Set",
@@ -41210,15 +41246,6 @@
     "url": "https://www.rasasilver.com/products/kada-7?variant=gid://shopify/ProductVariant/52759300243753",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00200copy_resized_2.jpg?v=1772782542"
   },
-  "gid://shopify/ProductVariant/52759309418793": {
-    "product_title": "Moissanite Glow Kada",
-    "variant_title": "Default Title",
-    "sku": "R22763",
-    "price": 14280.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/moissanite-kada?variant=gid://shopify/ProductVariant/52759309418793",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00222copy_resized_1.jpg?v=1772782825"
-  },
   "gid://shopify/ProductVariant/52759347265833": {
     "product_title": "Flory-Mor Stone Kada",
     "variant_title": "Default Title",
@@ -41587,15 +41614,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/rajsi-phool-kundan-necklace?variant=gid://shopify/ProductVariant/52780767904041",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00053copy_resized.jpg?v=1772458442"
-  },
-  "gid://shopify/ProductVariant/52797773840681": {
-    "product_title": "Mahalakshmi Temple Oddiyanam",
-    "variant_title": "Default Title",
-    "sku": "R25800",
-    "price": 91460.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/mahalakshmi-temple-oddiyanam?variant=gid://shopify/ProductVariant/52797773840681",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/RasaSiver_115_Pics_6Mar36654_resized.jpg?v=1773725410"
   },
   "gid://shopify/ProductVariant/52797825646889": {
     "product_title": "Victorian Pearl Oddiyanam",
@@ -42263,6 +42281,15 @@
     "url": "https://www.rasasilver.com/products/kala-lahari-temple-necklace?variant=gid://shopify/ProductVariant/52824899780905",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar0232_resized.jpg?v=1774418699"
   },
+  "gid://shopify/ProductVariant/52825120637225": {
+    "product_title": "Avira CZ Matil",
+    "variant_title": "Default Title",
+    "sku": "R23608",
+    "price": 55590.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/avira-cz-matil?variant=gid://shopify/ProductVariant/52825120637225",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar02541.jpg?v=1773994217"
+  },
   "gid://shopify/ProductVariant/52825187811625": {
     "product_title": "Kundan Siyana Matil",
     "variant_title": "Default Title",
@@ -42614,6 +42641,15 @@
     "url": "https://www.rasasilver.com/products/veloria-moissanite-bangles?variant=gid://shopify/ProductVariant/52832214712617",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_12_Mar16133_resized.jpg?v=1774347233"
   },
+  "gid://shopify/ProductVariant/52832229556521": {
+    "product_title": "Aurelina Moissanite Bangles",
+    "variant_title": "Default Title",
+    "sku": "R9316",
+    "price": 41650.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/aurelina-moissanite-bangles?variant=gid://shopify/ProductVariant/52832229556521",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_12_Mar16178_resized.jpg?v=1774347657"
+  },
   "gid://shopify/ProductVariant/52871093387561": {
     "product_title": "Glory Victorian Bangles",
     "variant_title": "2.6",
@@ -42757,15 +42793,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/kamalora-kundan-choker-copy?variant=gid://shopify/ProductVariant/52866225275177",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar00431_resized.jpg?v=1775219344"
-  },
-  "gid://shopify/ProductVariant/52866227667241": {
-    "product_title": "Varna-Gowri Temple Oddiyanam",
-    "variant_title": "Default Title",
-    "sku": "R26671",
-    "price": 111350.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/varna-gowri-oddiyanam?variant=gid://shopify/ProductVariant/52866227667241",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_26_Mar20708_resized.jpg?v=1775028929"
   },
   "gid://shopify/ProductVariant/52866273083689": {
     "product_title": "Florenza Stone Choker",
@@ -43451,15 +43478,6 @@
     "url": "https://www.rasasilver.com/products/maulika-matil?variant=gid://shopify/ProductVariant/52897894531369",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20398.jpg?v=1775467514"
   },
-  "gid://shopify/ProductVariant/52897910685993": {
-    "product_title": "Maathang Kundan Matil",
-    "variant_title": "Swarovski",
-    "sku": "R23825",
-    "price": 9775.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/maathang-matil?variant=gid://shopify/ProductVariant/52897910685993",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20447_resized_a5e94255-a00d-48c1-b27f-5bb1f197b76a.jpg?v=1775484676"
-  },
   "gid://shopify/ProductVariant/52897910718761": {
     "product_title": "Maathang Kundan Matil",
     "variant_title": "Ruby Pink",
@@ -43567,15 +43585,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/mahika-temple-matil-copy-1?variant=gid://shopify/ProductVariant/52898757574953",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20403_resized.jpg?v=1775472983"
-  },
-  "gid://shopify/ProductVariant/52911255093545": {
-    "product_title": "Sea-Blue Victorian Kada",
-    "variant_title": "Default Title",
-    "sku": "R23297",
-    "price": 30175.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/ovalora-victorian-kada?variant=gid://shopify/ProductVariant/52911255093545",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_21_Mar20273_resized.jpg?v=1775547755"
   },
   "gid://shopify/ProductVariant/52911255716137": {
     "product_title": "Floranya Victorian Kada",
@@ -44963,6 +44972,15 @@
     "url": "https://www.rasasilver.com/products/cupid-steps-toe-rings-copy?variant=gid://shopify/ProductVariant/53163651203369",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11952_resized.jpg?v=1780845040"
   },
+  "gid://shopify/ProductVariant/53163682038057": {
+    "product_title": "Oval-Pannara CZ Bangles",
+    "variant_title": "Default Title",
+    "sku": "R28062",
+    "price": 16235.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/oval-pannara-cz-bangles?variant=gid://shopify/ProductVariant/53163682038057",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11559_resized.jpg?v=1780841635"
+  },
   "gid://shopify/ProductVariant/53204902412585": {
     "product_title": "Ram Parivar Danglers",
     "variant_title": "Default Title",
@@ -45494,15 +45512,6 @@
     "url": "https://www.rasasilver.com/products/queencz-pendant-set?variant=gid://shopify/ProductVariant/53282896970025",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262299_resized.jpg?v=1782127395"
   },
-  "gid://shopify/ProductVariant/53282906341673": {
-    "product_title": "Matsyika Stone Ring",
-    "variant_title": "Default Title",
-    "sku": "R29517",
-    "price": 2380.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/matsyika-stone-ring?variant=gid://shopify/ProductVariant/53282906341673",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1874_resized.jpg?v=1782128447"
-  },
   "gid://shopify/ProductVariant/53282909421865": {
     "product_title": "Stone Halo Ring",
     "variant_title": "Default Title",
@@ -45520,15 +45529,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/dazzle-stone-ring?variant=gid://shopify/ProductVariant/53282910044457",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1886_resized.jpg?v=1782128178"
-  },
-  "gid://shopify/ProductVariant/53282916565289": {
-    "product_title": "Stone Lumina Ring",
-    "variant_title": "Default Title",
-    "sku": "R29519",
-    "price": 2125.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/stone-lumina-ring?variant=gid://shopify/ProductVariant/53282916565289",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1891_resized.jpg?v=1782129728"
   },
   "gid://shopify/ProductVariant/53282952675625": {
     "product_title": "CZ Rosetta Danglers",
@@ -45754,15 +45754,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/intertwine-bracelet?variant=gid://shopify/ProductVariant/53284751507753",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13277_resized.jpg?v=1782220190"
-  },
-  "gid://shopify/ProductVariant/53284830413097": {
-    "product_title": "Evil-Eye Bracelet",
-    "variant_title": "Default Title",
-    "sku": "R31589",
-    "price": 1360.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/evil-eye-bracelet-1?variant=gid://shopify/ProductVariant/53284830413097",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13270_resized.jpg?v=1782223220"
   },
   "gid://shopify/ProductVariant/53285923029289": {
     "product_title": "Roselle Spark Bracelet",
@@ -46529,6 +46520,15 @@
     "url": "https://www.rasasilver.com/products/balaji-luxe-temple-jhumki?variant=gid://shopify/ProductVariant/53333175664937",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42360_resized.jpg?v=1784182291"
   },
+  "gid://shopify/ProductVariant/53333198635305": {
+    "product_title": "Dwi-Pear Polki Kada",
+    "variant_title": "Default Title",
+    "sku": "R30690",
+    "price": 16320.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/dwi-pear-polki-kada?variant=gid://shopify/ProductVariant/53333198635305",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42563_resized.jpg?v=1784186650"
+  },
   "gid://shopify/ProductVariant/53333209514281": {
     "product_title": "Crystal-Luxe Victorian Kada",
     "variant_title": "Default Title",
@@ -46655,6 +46655,15 @@
     "url": "https://www.rasasilver.com/products/dusky-gleam-bracelet?variant=gid://shopify/ProductVariant/53346676736297",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July1034.jpg?v=1786103754"
   },
+  "gid://shopify/ProductVariant/53346704064809": {
+    "product_title": "Luxe Cuff Bracelet",
+    "variant_title": "Default Title",
+    "sku": "R31194",
+    "price": 17765.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/luxe-waterfall-cuff-bracelet?variant=gid://shopify/ProductVariant/53346704064809",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0970.jpg?v=1786104096"
+  },
   "gid://shopify/ProductVariant/53346766946601": {
     "product_title": "Moissanite Beaded Bracelet",
     "variant_title": "Default Title",
@@ -46681,6 +46690,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/pink-majesty-victorian-ring?variant=gid://shopify/ProductVariant/53349272322345",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0228_resized.jpg?v=1785933378"
+  },
+  "gid://shopify/ProductVariant/53349274353961": {
+    "product_title": "Vintage Elegance Victorian Ring",
+    "variant_title": "Default Title",
+    "sku": "R30895",
+    "price": 7565.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/vintage-elegance-victorian-ring?variant=gid://shopify/ProductVariant/53349274353961",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0143_resized.jpg?v=1785933570"
   },
   "gid://shopify/ProductVariant/53408343130409": {
     "product_title": "Panna Pushpa Moissanite Ring",
@@ -46763,15 +46781,6 @@
     "url": "https://www.rasasilver.com/products/pearshine-cz-necklace?variant=gid://shopify/ProductVariant/53350479528233",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-07-23at1.18.45PM.jpg?v=1784794140"
   },
-  "gid://shopify/ProductVariant/53350506332457": {
-    "product_title": "Oval-Amethyst Gemstone Ring",
-    "variant_title": "7",
-    "sku": "R31101",
-    "price": 4845.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/oval-amethyst-gemstone-ring?variant=gid://shopify/ProductVariant/53350506332457",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0900.jpg?v=1786346922"
-  },
   "gid://shopify/ProductVariant/53350522814761": {
     "product_title": "Trio-Spark Gemstone Ring",
     "variant_title": "6",
@@ -46808,6 +46817,15 @@
     "url": "https://www.rasasilver.com/products/aira-crown-ring?variant=gid://shopify/ProductVariant/53350544638249",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July1095.jpg?v=1786098727"
   },
+  "gid://shopify/ProductVariant/53362218271017": {
+    "product_title": "Rose Radiance CZ Bangles",
+    "variant_title": "2.3",
+    "sku": "R31051",
+    "price": 40120.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/rose-radiance-cz-bangles?variant=gid://shopify/ProductVariant/53362218271017",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2548_resized.jpg?v=1785242268"
+  },
   "gid://shopify/ProductVariant/53362247500073": {
     "product_title": "Pearl Moissanite Mathapatti",
     "variant_title": "Default Title",
@@ -46825,6 +46843,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/orange-beads-antique-mala?variant=gid://shopify/ProductVariant/53362408554793",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July04481.jpg?v=1786362285"
+  },
+  "gid://shopify/ProductVariant/53362555388201": {
+    "product_title": "Raga Pearl Moissanite Maang Tikka",
+    "variant_title": "Default Title",
+    "sku": "R30780",
+    "price": 10285.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/raga-pearl-moissanite-maang-tikka?variant=gid://shopify/ProductVariant/53362555388201",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0113.jpg?v=1786369253"
   },
   "gid://shopify/ProductVariant/53362558533929": {
     "product_title": "Royal Pear Moissanite Maang Tikka",
@@ -46862,6 +46889,15 @@
     "url": "https://www.rasasilver.com/products/yellow-shapes-antique-kanti?variant=gid://shopify/ProductVariant/53365601927465",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0358.jpg?v=1786366884"
   },
+  "gid://shopify/ProductVariant/53365608481065": {
+    "product_title": "Imperial Rose Moissanite Kada",
+    "variant_title": "2.3",
+    "sku": "R30775",
+    "price": 28135.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/imperial-rose-moissanite-kada?variant=gid://shopify/ProductVariant/53365608481065",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2531_resized.jpg?v=1785244941"
+  },
   "gid://shopify/ProductVariant/53365611036969": {
     "product_title": "Rose Crown Moissanite Kada",
     "variant_title": "GREEN",
@@ -46897,6 +46933,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/green-cz-ear-cuff?variant=gid://shopify/ProductVariant/53365650882857",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July01661.jpg?v=1786359711"
+  },
+  "gid://shopify/ProductVariant/53365651865897": {
+    "product_title": "Asteria CZ Ear Cuff",
+    "variant_title": "Default Title",
+    "sku": "R31084",
+    "price": 15130.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/cz-ear-cuff?variant=gid://shopify/ProductVariant/53365651865897",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0156.jpg?v=1786350545"
   },
   "gid://shopify/ProductVariant/53365659795753": {
     "product_title": "Fleurance Moissanite Haath Phool",
@@ -47087,15 +47132,6 @@
     "url": "https://www.rasasilver.com/products/moissanite-ring?variant=gid://shopify/ProductVariant/53408394117417",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38745.jpg?v=1786695395"
   },
-  "gid://shopify/ProductVariant/53426674237737": {
-    "product_title": "Duchess Pink Victorian Ring",
-    "variant_title": "Adjustable",
-    "sku": "R30877",
-    "price": 2700.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/duchess-pink-victorian-ring?variant=gid://shopify/ProductVariant/53426674237737",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38737.jpg?v=1786696070"
-  },
   "gid://shopify/ProductVariant/53410084323625": {
     "product_title": "Infinite Veera Rakhi",
     "variant_title": "Yellow",
@@ -47167,42 +47203,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/best-bro-rakhi?variant=gid://shopify/ProductVariant/53409745174825",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19651.jpg?v=1786020567"
-  },
-  "gid://shopify/ProductVariant/53426841714985": {
-    "product_title": "Lotus Legacy Victorian Ring",
-    "variant_title": "Adjustable",
-    "sku": "R30882",
-    "price": 4200.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/lotus-legacy-victorian-ring?variant=gid://shopify/ProductVariant/53426841714985",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38721.jpg?v=1786700671"
-  },
-  "gid://shopify/ProductVariant/53426863931689": {
-    "product_title": "Lady Arabella Victorian Ring",
-    "variant_title": "Adjustable",
-    "sku": "R30901",
-    "price": 3800.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/lady-arabella-victorian-ring?variant=gid://shopify/ProductVariant/53426863931689",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38741.jpg?v=1786701382"
-  },
-  "gid://shopify/ProductVariant/53426868584745": {
-    "product_title": "Duchess of Blue Victorian Ring",
-    "variant_title": "Adjustable",
-    "sku": "R30910",
-    "price": 4000.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/duchess-of-blue-victorian-ring?variant=gid://shopify/ProductVariant/53426868584745",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38716.jpg?v=1786701650"
-  },
-  "gid://shopify/ProductVariant/53409996308777": {
-    "product_title": "Navaratna Empress Victorian Ring",
-    "variant_title": "Default Title",
-    "sku": "R30914",
-    "price": 5000.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/navaratna-empress-victorian-ring?variant=gid://shopify/ProductVariant/53409996308777",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38725.jpg?v=1786701877"
   },
   "gid://shopify/ProductVariant/53411169927465": {
     "product_title": "Shriya Temple Jhumki",
