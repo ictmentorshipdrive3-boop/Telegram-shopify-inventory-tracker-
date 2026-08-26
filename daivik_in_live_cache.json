@@ -7168,7 +7168,7 @@
     "variant_title": "Turquoise",
     "sku": "407",
     "price": 1899.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/lakshmi-hasli-necklace-with-balis?variant=gid://shopify/ProductVariant/45553293131998",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7CF7427E-3DF1-45D3-8D5E-580CE49F70A9.jpg?v=1718377093"
   },
@@ -21257,15 +21257,6 @@
     "url": "https://www.daivik.in/products/pearl-kemp-floral-droplet-balis?variant=gid://shopify/ProductVariant/48623898886366",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F07B3D62-F7C5-4A9C-AF33-EA3958501861.jpg?v=1787313150"
   },
-  "gid://shopify/ProductVariant/48624208937182": {
-    "product_title": "Guttapusalu Balaji Long Haram and Choker with Earrings",
-    "variant_title": "Default Title",
-    "sku": "928",
-    "price": 7499.0,
-    "stock": 4,
-    "url": "https://www.daivik.in/products/balaji-haram?variant=gid://shopify/ProductVariant/48624208937182",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5F1292F7-1238-4DCB-B513-CCB1A7D8A251.jpg?v=1787331525"
-  },
   "gid://shopify/ProductVariant/48629356986590": {
     "product_title": "Balaji Black Thread Bracelet",
     "variant_title": "Default Title",
@@ -30688,5 +30679,14 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-lakshmi-kada?variant=gid://shopify/ProductVariant/48606013128926",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C212A11D-8F23-46DE-8894-E34661B11E0C.jpg?v=1786900231"
+  },
+  "gid://shopify/ProductVariant/48624208937182": {
+    "product_title": "Guttapusalu Balaji Long Haram and Choker with Earrings",
+    "variant_title": "Default Title",
+    "sku": "928",
+    "price": 7499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/balaji-haram?variant=gid://shopify/ProductVariant/48624208937182",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5F1292F7-1238-4DCB-B513-CCB1A7D8A251.jpg?v=1787331525"
   }
 }
