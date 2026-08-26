@@ -71756,15 +71756,6 @@
     "url": "https://www.theamethyststore.com/products/short-necklace-set-62?variant=gid://shopify/ProductVariant/48987160641763",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15734.jpg?v=1779085477"
   },
-  "gid://shopify/ProductVariant/48987276673251": {
-    "product_title": "Yogini Kundan Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-4059",
-    "price": 22945.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kalmashi-kundan-pendant-copy?variant=gid://shopify/ProductVariant/48987276673251",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4059_6d0de810-00a3-4a57-aea3-4aa5cf27db93.jpg?v=1779091971"
-  },
   "gid://shopify/ProductVariant/48987315437795": {
     "product_title": "Yamuna Kundan Pendant",
     "variant_title": "Default Title",
@@ -73582,15 +73573,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/ushakiran-stone-pair-bangles?variant=gid://shopify/ProductVariant/49252693082339",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3206.jpg?v=1781265882"
-  },
-  "gid://shopify/ProductVariant/49252741480675": {
-    "product_title": "Upkosha Stone Pair Bangles",
-    "variant_title": "2.8\"",
-    "sku": "AMS-107-3208-2.8",
-    "price": 40630.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/upkosha-stone-pair-bangles?variant=gid://shopify/ProductVariant/49252741480675",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3208.jpg?v=1781266867"
   },
   "gid://shopify/ProductVariant/49252742430947": {
     "product_title": "Urmi Stone Pair Bangles",
@@ -104057,6 +104039,24 @@
     "url": "https://www.theamethyststore.com/products/srishali-nagas-short-necklace?variant=gid://shopify/ProductVariant/49604693623011",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17722.jpg?v=1787741871"
   },
+  "gid://shopify/ProductVariant/49604984766691": {
+    "product_title": "Astonishing Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17723",
+    "price": 27390.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/astonishing-nagas-short-necklace?variant=gid://shopify/ProductVariant/49604984766691",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17723.jpg?v=1787743321"
+  },
+  "gid://shopify/ProductVariant/49605056954595": {
+    "product_title": "Opulent Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17724",
+    "price": 29520.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/opulent-nagas-short-necklace?variant=gid://shopify/ProductVariant/49605056954595",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17724.jpg?v=1787743632"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -121130,6 +121130,15 @@
     "url": "https://www.theamethyststore.com/products/vihaana-short-necklace-set?variant=gid://shopify/ProductVariant/48987205992675",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15738.jpg?v=1779086752"
   },
+  "gid://shopify/ProductVariant/48987276673251": {
+    "product_title": "Yogini Kundan Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4059",
+    "price": 22945.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kalmashi-kundan-pendant-copy?variant=gid://shopify/ProductVariant/48987276673251",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4059_6d0de810-00a3-4a57-aea3-4aa5cf27db93.jpg?v=1779091971"
+  },
   "gid://shopify/ProductVariant/48987355119843": {
     "product_title": "Vishweshwari Nagas Jhumkas",
     "variant_title": "Default Title",
@@ -121849,6 +121858,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/urveen-stone-pair-bangles?variant=gid://shopify/ProductVariant/49252736631011",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3207_2.jpg?v=1781266357"
+  },
+  "gid://shopify/ProductVariant/49252741480675": {
+    "product_title": "Upkosha Stone Pair Bangles",
+    "variant_title": "2.8\"",
+    "sku": "AMS-107-3208-2.8",
+    "price": 40630.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/upkosha-stone-pair-bangles?variant=gid://shopify/ProductVariant/49252741480675",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3208.jpg?v=1781266867"
   },
   "gid://shopify/ProductVariant/49256832303331": {
     "product_title": "Tisya Stone Pendant",
