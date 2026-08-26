@@ -5296,7 +5296,7 @@
     "variant_title": "Default Title",
     "sku": "R21072",
     "price": 14790.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/vilasika-moti-danglers?variant=gid://shopify/ProductVariant/51205552242985",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17_Sept01991.jpg?v=1759147678"
   },
@@ -8098,15 +8098,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/gajashri-necklace-set?variant=gid://shopify/ProductVariant/51500251939113",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_297Pics_07Oct34946_resized.jpg?v=1763552818"
-  },
-  "gid://shopify/ProductVariant/51500206227753": {
-    "product_title": "Squarora Polki Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R17994",
-    "price": 33660.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/squarora-necklace-set?variant=gid://shopify/ProductVariant/51500206227753",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_297Pics_07Oct34941_resized.jpg?v=1763553693"
   },
   "gid://shopify/ProductVariant/51500227920169": {
     "product_title": "Heptaflora Polki Necklace Set",
@@ -25330,7 +25321,7 @@
     "variant_title": "Default Title",
     "sku": "R32241",
     "price": 14600.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/aurora-lariat-necklace?variant=gid://shopify/ProductVariant/53410022424873",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19546.jpg?v=1786703210"
   },
@@ -25441,15 +25432,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/aarvya-kundan-studs?variant=gid://shopify/ProductVariant/53411230155049",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38655.jpg?v=1786704846"
-  },
-  "gid://shopify/ProductVariant/53411231498537": {
-    "product_title": "Flora Royale Kundan Studs",
-    "variant_title": "Default Title",
-    "sku": "R32200",
-    "price": 4700.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/flora-royale-kundan-studs?variant=gid://shopify/ProductVariant/53411231498537",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38651.jpg?v=1786705003"
   },
   "gid://shopify/ProductVariant/53411232579881": {
     "product_title": "Gaja Shri Temple Necklace",
@@ -32587,6 +32569,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/emerflora-necklace-set?variant=gid://shopify/ProductVariant/51500133876009",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_297Pics_07Oct34880_resized.jpg?v=1763555744"
+  },
+  "gid://shopify/ProductVariant/51500206227753": {
+    "product_title": "Squarora Polki Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R17994",
+    "price": 33660.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/squarora-necklace-set?variant=gid://shopify/ProductVariant/51500206227753",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_297Pics_07Oct34941_resized.jpg?v=1763553693"
   },
   "gid://shopify/ProductVariant/51500256461097": {
     "product_title": "Pavika Oxidised Payal",
@@ -47239,6 +47230,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/shree-samriddhi-temple-necklace?variant=gid://shopify/ProductVariant/53411227369769",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_10Aug56782F.jpg?v=1787385274"
+  },
+  "gid://shopify/ProductVariant/53411231498537": {
+    "product_title": "Flora Royale Kundan Studs",
+    "variant_title": "Default Title",
+    "sku": "R32200",
+    "price": 4700.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/flora-royale-kundan-studs?variant=gid://shopify/ProductVariant/53411231498537",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38651.jpg?v=1786705003"
   },
   "gid://shopify/ProductVariant/53411232743721": {
     "product_title": "Mohini-Mor Kundan Studs",
