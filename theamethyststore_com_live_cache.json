@@ -1138,7 +1138,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-2280",
     "price": 6500.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/nivar-earrings?variant=gid://shopify/ProductVariant/42416930848995",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-2280.jpg?v=1687241133"
   },
@@ -2020,7 +2020,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-116-0003",
     "price": 1794.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.theamethyststore.com/products/swastik-rakhi?variant=gid://shopify/ProductVariant/43147190370531",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-116-0003.jpg?v=1658321416"
   },
@@ -3766,7 +3766,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-4017",
     "price": 7700.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/sherin-drops?variant=gid://shopify/ProductVariant/43660006654179",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-4017.jpg?v=1673953026"
   },
@@ -75041,15 +75041,6 @@
     "url": "https://www.theamethyststore.com/products/prashikha-nagas-long-necklace?variant=gid://shopify/ProductVariant/49276628435171",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16219.jpg?v=1781786878"
   },
-  "gid://shopify/ProductVariant/49276643770595": {
-    "product_title": "Sylvie Stone Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14140",
-    "price": 5900.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/sylvie-stone-drops?variant=gid://shopify/ProductVariant/49276643770595",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14140.jpg?v=1781788282"
-  },
   "gid://shopify/ProductVariant/49276644622563": {
     "product_title": "Grand Luxurious Nagas Long Necklace",
     "variant_title": "Default Title",
@@ -122578,6 +122569,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/stone-studs-33?variant=gid://shopify/ProductVariant/49276636332259",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14185.jpg?v=1781787671"
+  },
+  "gid://shopify/ProductVariant/49276643770595": {
+    "product_title": "Sylvie Stone Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14140",
+    "price": 5900.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/sylvie-stone-drops?variant=gid://shopify/ProductVariant/49276643770595",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14140.jpg?v=1781788282"
   },
   "gid://shopify/ProductVariant/49276644557027": {
     "product_title": "Rosalina Stone Drops",
