@@ -7933,7 +7933,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R16473",
     "price": 22000.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/anzuri-rose-payal?variant=gid://shopify/ProductVariant/51495597474089",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0233_copy_2.jpg?v=1763463227"
   },
@@ -10759,7 +10759,7 @@
     "variant_title": "Default Title",
     "sku": "R22051",
     "price": 5695.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/celest-pear-victorian-ring?variant=gid://shopify/ProductVariant/52333734199593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0027copy_5c21919d-706b-49db-a307-52ac43ce5edd.jpg?v=1766995152"
   },
@@ -24154,15 +24154,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/moissanite-swarnika-kaankarela?variant=gid://shopify/ProductVariant/53365635580201",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2668_resized.jpg?v=1785237657"
-  },
-  "gid://shopify/ProductVariant/53365659271465": {
-    "product_title": "Pear-Green CZ Ear Cuff",
-    "variant_title": "Default Title",
-    "sku": "R31087",
-    "price": 15895.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/pear-green-cz-ear-cuff?variant=gid://shopify/ProductVariant/53365659271465",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0161.jpg?v=1786360040"
   },
   "gid://shopify/ProductVariant/53365673296169": {
     "product_title": "Falling Leaves CZ Ear Cuff",
@@ -46897,6 +46888,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/cz-ear-cuff?variant=gid://shopify/ProductVariant/53365651865897",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0156.jpg?v=1786350545"
+  },
+  "gid://shopify/ProductVariant/53365659271465": {
+    "product_title": "Pear-Green CZ Ear Cuff",
+    "variant_title": "Default Title",
+    "sku": "R31087",
+    "price": 15895.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/pear-green-cz-ear-cuff?variant=gid://shopify/ProductVariant/53365659271465",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0161.jpg?v=1786360040"
   },
   "gid://shopify/ProductVariant/53365659795753": {
     "product_title": "Fleurance Moissanite Haath Phool",
