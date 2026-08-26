@@ -3685,7 +3685,7 @@
     "variant_title": "Default Title",
     "sku": "504",
     "price": 2999.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/a-56?variant=gid://shopify/ProductVariant/44145944592606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_d5c2980b-bc98-4693-8bbb-0302ee5acacf.heic?v=1681570569"
   },
@@ -5584,7 +5584,7 @@
     "variant_title": "Green",
     "sku": "541",
     "price": 2799.0,
-    "stock": 45,
+    "stock": 44,
     "url": "https://www.daivik.in/products/victorian-peacock-necklace-with-earrings-in-2-colors?variant=gid://shopify/ProductVariant/44605291364574",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/63003919-415E-4B08-B98F-F5DAC6C06AD5.heic?v=1702565544"
   },
@@ -7501,7 +7501,7 @@
     "variant_title": "Default Title",
     "sku": "732",
     "price": 1899.0,
-    "stock": 39,
+    "stock": 38,
     "url": "https://www.daivik.in/products/designer-ad-necklace-with-earrings?variant=gid://shopify/ProductVariant/45760593232094",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F8D9EC28-3003-4838-A594-D43701BB5328.jpg?v=1721832645"
   },
@@ -11353,7 +11353,7 @@
     "variant_title": "Default Title",
     "sku": "601",
     "price": 599.0,
-    "stock": 29,
+    "stock": 28,
     "url": "https://www.daivik.in/products/lotus-ruby-pearl-necklace-with-earrings?variant=gid://shopify/ProductVariant/46511776989406",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1DC5F738-495A-403E-8ABF-3EC8D8BF5505.jpg?v=1743401266"
   },
@@ -21217,7 +21217,7 @@
     "variant_title": "Default Title",
     "sku": "1951",
     "price": 499.0,
-    "stock": 1,
+    "stock": 5,
     "url": "https://www.daivik.in/products/balaji-black-thread-bracelet?variant=gid://shopify/ProductVariant/48629356986590",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0C8C6CF4-59B8-47AB-94C1-9DB2B7F85904.jpg?v=1787399713"
   },
@@ -21226,7 +21226,7 @@
     "variant_title": "Default Title",
     "sku": "316",
     "price": 1499.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/diamond-look-alike-3-layer-flower-neckalace-with-earrings?variant=gid://shopify/ProductVariant/48630564880606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1184.jpg?v=1787466208"
   },
@@ -21235,7 +21235,7 @@
     "variant_title": "Default Title",
     "sku": "317",
     "price": 2499.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/diamond-look-alike-2-layer-flower-necklace-with-earrings?variant=gid://shopify/ProductVariant/48630569435358",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1190.jpg?v=1787466710"
   },
@@ -21301,6 +21301,15 @@
     "stock": 4,
     "url": "https://www.daivik.in/products/traditional-flower-mesh-adigai-necklace-with-earrings?variant=gid://shopify/ProductVariant/48640380109022",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1322.jpg?v=1787675125"
+  },
+  "gid://shopify/ProductVariant/48645693636830": {
+    "product_title": "Black Beads Jali classic Mala / Chain",
+    "variant_title": "Default Title",
+    "sku": "738",
+    "price": 1399.0,
+    "stock": 5,
+    "url": "https://www.daivik.in/products/black-beads-jalli-classic-mala-chain?variant=gid://shopify/ProductVariant/48645693636830",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5F282C96-F264-4289-A54D-B92E77D91465.jpg?v=1787762150"
   },
   "gid://shopify/ProductVariant/34430554472601": {
     "product_title": "Regular Use Stone Set Of Four Bangles",
@@ -24667,24 +24676,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/untitled-oct4_21-04?variant=gid://shopify/ProductVariant/44379719565534",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2287F884-F070-451F-A5B6-501299261359.jpg?v=1696434041"
-  },
-  "gid://shopify/ProductVariant/44389530337502": {
-    "product_title": "AD simple Necklace with Jhumkas",
-    "variant_title": "Ruby green",
-    "sku": "738",
-    "price": 2499.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/ad-simple-necklace-with-jhumkas?variant=gid://shopify/ProductVariant/44389530337502",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender.heic?v=1696676257"
-  },
-  "gid://shopify/ProductVariant/44389530370270": {
-    "product_title": "AD simple Necklace with Jhumkas",
-    "variant_title": "Ruby",
-    "sku": "738",
-    "price": 2499.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/ad-simple-necklace-with-jhumkas?variant=gid://shopify/ProductVariant/44389530370270",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender.heic?v=1696676257"
   },
   "gid://shopify/ProductVariant/44401200005342": {
     "product_title": "Diwali Sale Necklace 14",
