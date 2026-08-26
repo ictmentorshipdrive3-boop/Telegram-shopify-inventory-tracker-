@@ -1052,15 +1052,6 @@
     "url": "https://www.daivik.in/products/kemp-bridal-mattals?variant=gid://shopify/ProductVariant/40392151400601",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_c686d5d4-aa4b-45a9-b038-20408d189497.jpg?v=1624376719"
   },
-  "gid://shopify/ProductVariant/40399475277977": {
-    "product_title": "Traditional Teeka in 2 variants",
-    "variant_title": "1",
-    "sku": "756",
-    "price": 799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/traditional-teeka-in-2-variants-1?variant=gid://shopify/ProductVariant/40399475277977",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_0066045a-8bf2-4b6c-b69e-6d4d3128735b.jpg?v=1624462201"
-  },
   "gid://shopify/ProductVariant/40399475310745": {
     "product_title": "Traditional Teeka in 2 variants",
     "variant_title": "2",
@@ -6592,7 +6583,7 @@
     "variant_title": "Pink",
     "sku": "881",
     "price": 999.0,
-    "stock": 27,
+    "stock": 26,
     "url": "https://www.daivik.in/products/victorian-ad-choker-with-earrings?variant=gid://shopify/ProductVariant/45763463872734",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0234.jpg?v=1779468898"
   },
@@ -11983,7 +11974,7 @@
     "variant_title": "Default Title",
     "sku": "482",
     "price": 2299.0,
-    "stock": 20,
+    "stock": 19,
     "url": "https://www.daivik.in/products/diamond-look-alike-gj-polish-necklace-with-earrings?variant=gid://shopify/ProductVariant/46734779777246",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/48F3AF13-D6B8-40A3-9167-4ABC6E796737.jpg?v=1747668658"
   },
@@ -21661,6 +21652,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/kemp-ad-set-of-6-bangles?variant=gid://shopify/ProductVariant/40292754161817",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_b1c40f43-08d8-4720-b54c-7cea1e8151eb.jpg?v=1623254923"
+  },
+  "gid://shopify/ProductVariant/40399475277977": {
+    "product_title": "Traditional Teeka in 2 variants",
+    "variant_title": "1",
+    "sku": "756",
+    "price": 799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/traditional-teeka-in-2-variants-1?variant=gid://shopify/ProductVariant/40399475277977",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_0066045a-8bf2-4b6c-b69e-6d4d3128735b.jpg?v=1624462201"
   },
   "gid://shopify/ProductVariant/40510053089433": {
     "product_title": "Kids/Adults mini choker",
