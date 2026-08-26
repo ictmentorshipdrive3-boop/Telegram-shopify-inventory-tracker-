@@ -33835,7 +33835,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-9579",
     "price": 11200.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.theamethyststore.com/products/pretty-look-avikam-jhumkas?variant=gid://shopify/ProductVariant/47102823825635",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9579.jpg?v=1756989366"
   },
@@ -65303,15 +65303,6 @@
     "url": "https://www.theamethyststore.com/products/bracelet-13?variant=gid://shopify/ProductVariant/48773007048931",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1232.jpg?v=1775903057"
   },
-  "gid://shopify/ProductVariant/48773091754211": {
-    "product_title": "Trendy Bracelet",
-    "variant_title": "Default Title",
-    "sku": "AMS-103-1235",
-    "price": 17336.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/bracelet-15?variant=gid://shopify/ProductVariant/48773091754211",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1235.jpg?v=1775905763"
-  },
   "gid://shopify/ProductVariant/48773107417315": {
     "product_title": "Ayana Bracelet",
     "variant_title": "Default Title",
@@ -85918,7 +85909,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-14990",
     "price": 17900.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/victorian-studs-21?variant=gid://shopify/ProductVariant/49429898625251",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14990.jpg?v=1784524971"
   },
@@ -104084,6 +104075,24 @@
     "url": "https://www.theamethyststore.com/products/gorgeous-pachi-short-necklace-1?variant=gid://shopify/ProductVariant/49601253572835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16990.jpg?v=1787725561"
   },
+  "gid://shopify/ProductVariant/49601349484771": {
+    "product_title": "Splendid Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17741",
+    "price": 14590.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/splendid-nagas-short-necklace?variant=gid://shopify/ProductVariant/49601349484771",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17741.jpg?v=1787725884"
+  },
+  "gid://shopify/ProductVariant/49601368129763": {
+    "product_title": "Dazzling Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17742",
+    "price": 13890.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/dazzling-nagas-short-necklace?variant=gid://shopify/ProductVariant/49601368129763",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17742.jpg?v=1787726223"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -118879,6 +118888,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/bracelet-14?variant=gid://shopify/ProductVariant/48773026742499",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1234.jpg?v=1775903616"
+  },
+  "gid://shopify/ProductVariant/48773091754211": {
+    "product_title": "Trendy Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1235",
+    "price": 17336.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/bracelet-15?variant=gid://shopify/ProductVariant/48773091754211",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1235.jpg?v=1775905763"
   },
   "gid://shopify/ProductVariant/48773102043363": {
     "product_title": "Avanti Bracelet",
