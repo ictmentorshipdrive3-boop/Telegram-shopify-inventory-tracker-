@@ -6547,7 +6547,7 @@
     "variant_title": "Default Title",
     "sku": "855",
     "price": 999.0,
-    "stock": 31,
+    "stock": 30,
     "url": "https://www.daivik.in/products/simple-copper-pearl-necklace-with-earrings?variant=gid://shopify/ProductVariant/45158978093278",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/10FBB2F6-B0C5-408A-BD02-F523E5B50F7E.jpg?v=1713026655"
   },
@@ -10474,15 +10474,6 @@
     "stock": 3,
     "url": "https://www.daivik.in/products/copy-pure-kemp-jadau-flower-jhumkas?variant=gid://shopify/ProductVariant/46247809908958",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B24D0440-B82E-4782-A5CF-8E5901111D8A.jpg?v=1737992081"
-  },
-  "gid://shopify/ProductVariant/46247811743966": {
-    "product_title": "Pure kemp Jadau Strawberry beads Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "1553",
-    "price": 6599.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/copy-pure-kemp-jadau-multi-pearl-jhumkas?variant=gid://shopify/ProductVariant/46247811743966",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E661857A-4D8D-41CA-B617-43BC91833AF9.jpg?v=1737992171"
   },
   "gid://shopify/ProductVariant/46254270906590": {
     "product_title": "AD Peacock Ruby Green Choker with Earrings",
@@ -16370,15 +16361,6 @@
     "url": "https://www.daivik.in/products/kemp-ruby-green-flower-jhumkas?variant=gid://shopify/ProductVariant/47653484036318",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BE32195A-6ADF-4792-86DF-1C9E1646EF55.jpg?v=1762232792"
   },
-  "gid://shopify/ProductVariant/47658374922462": {
-    "product_title": "Jadau Kemp Lotus Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "1331",
-    "price": 6499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/jadau-kemp-lotus-necklace-with-earrings?variant=gid://shopify/ProductVariant/47658374922462",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3738FE9E-9BC6-4E28-969A-82F54E5218AD.jpg?v=1762340468"
-  },
   "gid://shopify/ProductVariant/47660596134110": {
     "product_title": "Kemp Flower Coin Short and Long Haram with Jhumkas (Price for Short, Long and Combo)",
     "variant_title": "Short",
@@ -19147,7 +19129,7 @@
     "variant_title": "2.6",
     "sku": "1861",
     "price": 1799.0,
-    "stock": 26,
+    "stock": 25,
     "url": "https://www.daivik.in/products/manga-pure-kemp-bangles?variant=gid://shopify/ProductVariant/48086454468830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/91A12708-AC32-473E-B57E-E240D95BA0BD.jpg?v=1776078743"
   },
@@ -21010,7 +20992,7 @@
     "variant_title": "Default Title",
     "sku": "1940",
     "price": 1499.0,
-    "stock": 21,
+    "stock": 20,
     "url": "https://www.daivik.in/products/manga-pure-kemp-brass-earrings?variant=gid://shopify/ProductVariant/48550210273502",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4891DBA9-A6F9-450D-BAB6-A69C94E80743.jpg?v=1785928507"
   },
@@ -27035,6 +27017,15 @@
     "url": "https://www.daivik.in/products/copy-pure-kemp-jadau-chand-balis?variant=gid://shopify/ProductVariant/46247807779038",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8BE71CA7-9755-4175-9277-DBE362A058E7.jpg?v=1737991804"
   },
+  "gid://shopify/ProductVariant/46247811743966": {
+    "product_title": "Pure kemp Jadau Strawberry beads Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "1553",
+    "price": 6599.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/copy-pure-kemp-jadau-multi-pearl-jhumkas?variant=gid://shopify/ProductVariant/46247811743966",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E661857A-4D8D-41CA-B617-43BC91833AF9.jpg?v=1737992171"
+  },
   "gid://shopify/ProductVariant/46258868912350": {
     "product_title": "Elephant Multilayer Pearl Hanging Jhumkas in two Colors (Price for Each)",
     "variant_title": "Green",
@@ -29320,6 +29311,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/peacock-green-bangles-price-for-both-hands?variant=gid://shopify/ProductVariant/47650983772382",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0BCE9FA0-74EA-418F-9079-9CA689C37454.jpg?v=1762094594"
+  },
+  "gid://shopify/ProductVariant/47658374922462": {
+    "product_title": "Jadau Kemp Lotus Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "1331",
+    "price": 6499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/jadau-kemp-lotus-necklace-with-earrings?variant=gid://shopify/ProductVariant/47658374922462",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3738FE9E-9BC6-4E28-969A-82F54E5218AD.jpg?v=1762340468"
   },
   "gid://shopify/ProductVariant/47658960584926": {
     "product_title": "Evergreen Traditional Kemp Finger Ring ( Price for each)",
