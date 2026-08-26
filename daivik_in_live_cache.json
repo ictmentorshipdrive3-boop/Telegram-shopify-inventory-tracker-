@@ -1871,15 +1871,6 @@
     "url": "https://www.daivik.in/products/small-kemp-balis?variant=gid://shopify/ProductVariant/42391386226910",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_1f89bc3f-38a4-4217-b711-e4080be47184.jpg?v=1643126952"
   },
-  "gid://shopify/ProductVariant/42396464087262": {
-    "product_title": "Pure kemp Nagasi hipbelt",
-    "variant_title": "Default Title",
-    "sku": "617",
-    "price": 5999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/pure-kemp-nagasi-hipbelt?variant=gid://shopify/ProductVariant/42396464087262",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_d57c40ff-8652-4482-aecb-c7d1af2fb01e.jpg?v=1643209132"
-  },
   "gid://shopify/ProductVariant/42401506722014": {
     "product_title": "Set of 6 Golden pearl Bangles",
     "variant_title": "2.4",
@@ -2029,7 +2020,7 @@
     "variant_title": "Default Title",
     "sku": "173",
     "price": 11499.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/bridal-brass-kemp-mango-haram-with-jhumkas?variant=gid://shopify/ProductVariant/42552079319262",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_68b0ffd6-91fe-435f-8ccb-6246e03c553f.jpg?v=1646754118"
   },
@@ -22237,6 +22228,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/pure-kemp-brass-hipbelt?variant=gid://shopify/ProductVariant/42396271444190",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_24ea66a9-39e9-4d76-bb4f-41cd89d84181.jpg?v=1643208169"
+  },
+  "gid://shopify/ProductVariant/42396464087262": {
+    "product_title": "Pure kemp Nagasi hipbelt",
+    "variant_title": "Default Title",
+    "sku": "617",
+    "price": 5999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/pure-kemp-nagasi-hipbelt?variant=gid://shopify/ProductVariant/42396464087262",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_d57c40ff-8652-4482-aecb-c7d1af2fb01e.jpg?v=1643209132"
   },
   "gid://shopify/ProductVariant/42429019685086": {
     "product_title": "Pure Kemp Brass choker in 2 variants (price for each)",
