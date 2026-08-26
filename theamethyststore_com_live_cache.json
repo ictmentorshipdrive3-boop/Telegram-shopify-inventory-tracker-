@@ -42142,7 +42142,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-10651",
     "price": 3980.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.theamethyststore.com/products/pink-revika-bugadi-earrings?variant=gid://shopify/ProductVariant/47340224315619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10651_a3ae1c7b-195c-49b5-9cd1-06e3ccff2fa4.jpg?v=1760853158"
   },
@@ -72385,24 +72385,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/surya-chandra-jada-billa-6?variant=gid://shopify/ProductVariant/49404200943843",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0807_5.jpg?v=1779365800"
-  },
-  "gid://shopify/ProductVariant/49404001943779": {
-    "product_title": "Krithika Jada Billa",
-    "variant_title": "Suryan",
-    "sku": "AMS-112-0809-SURAJ",
-    "price": 7020.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/surya-chandra-jada-billa-7?variant=gid://shopify/ProductVariant/49404001943779",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0809_5.jpg?v=1779366211"
-  },
-  "gid://shopify/ProductVariant/49404001976547": {
-    "product_title": "Krithika Jada Billa",
-    "variant_title": "Chandran",
-    "sku": "AMS-112-0809-CHAAND",
-    "price": 5970.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/surya-chandra-jada-billa-7?variant=gid://shopify/ProductVariant/49404001976547",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0809_5.jpg?v=1779366211"
   },
   "gid://shopify/ProductVariant/49403989688547": {
     "product_title": "Mythili Jada Billa",
@@ -121435,6 +121417,24 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/myra-nagas-long-necklace?variant=gid://shopify/ProductVariant/48996945559779",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15710.jpg?v=1779358072"
+  },
+  "gid://shopify/ProductVariant/49404001943779": {
+    "product_title": "Krithika Jada Billa",
+    "variant_title": "Suryan",
+    "sku": "AMS-112-0809-SURAJ",
+    "price": 7020.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/surya-chandra-jada-billa-7?variant=gid://shopify/ProductVariant/49404001943779",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0809_5.jpg?v=1779366211"
+  },
+  "gid://shopify/ProductVariant/49404001976547": {
+    "product_title": "Krithika Jada Billa",
+    "variant_title": "Chandran",
+    "sku": "AMS-112-0809-CHAAND",
+    "price": 5970.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/surya-chandra-jada-billa-7?variant=gid://shopify/ProductVariant/49404001976547",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0809_5.jpg?v=1779366211"
   },
   "gid://shopify/ProductVariant/49403917533411": {
     "product_title": "Rukmani  Jada Billa",
