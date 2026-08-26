@@ -43312,7 +43312,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-1627",
     "price": 3000.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.theamethyststore.com/products/nandhitha-stone-ring?variant=gid://shopify/ProductVariant/47392953893091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1627.jpg?v=1761375418"
   },
@@ -76013,15 +76013,6 @@
     "url": "https://www.theamethyststore.com/products/stone-drops-9?variant=gid://shopify/ProductVariant/49289999515875",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14029.jpg?v=1782106240"
   },
-  "gid://shopify/ProductVariant/49290016162019": {
-    "product_title": "Shivikaa Stone Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14037",
-    "price": 3250.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/stone-drops-10?variant=gid://shopify/ProductVariant/49290016162019",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14037.jpg?v=1782107037"
-  },
   "gid://shopify/ProductVariant/49290018947299": {
     "product_title": "Janani Stone Drops",
     "variant_title": "Default Title",
@@ -87106,7 +87097,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-2163",
     "price": 8000.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/manisha-moissanite-ring?variant=gid://shopify/ProductVariant/49445739233507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2163.jpg?v=1784959126"
   },
@@ -91429,15 +91420,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/lashitha-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49501134323939",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16933.jpg?v=1785916185"
-  },
-  "gid://shopify/ProductVariant/49501138944227": {
-    "product_title": "Prashitha Stone Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-2194",
-    "price": 2300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/prashitha-stone-ring?variant=gid://shopify/ProductVariant/49501138944227",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2194.jpg?v=1785916338"
   },
   "gid://shopify/ProductVariant/49501147496675": {
     "product_title": "Navisha Stone Ring",
@@ -123371,6 +123353,15 @@
     "url": "https://www.theamethyststore.com/products/nagas-short-necklace-set-42?variant=gid://shopify/ProductVariant/49289957179619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16152.jpg?v=1782105108"
   },
+  "gid://shopify/ProductVariant/49290016162019": {
+    "product_title": "Shivikaa Stone Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14037",
+    "price": 3250.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/stone-drops-10?variant=gid://shopify/ProductVariant/49290016162019",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14037.jpg?v=1782107037"
+  },
   "gid://shopify/ProductVariant/49290089365731": {
     "product_title": "Shashikaa Stone Drops",
     "variant_title": "Default Title",
@@ -126862,6 +126853,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/jada-billa-12?variant=gid://shopify/ProductVariant/49498823885027",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0890_2.jpg?v=1785917795"
+  },
+  "gid://shopify/ProductVariant/49501138944227": {
+    "product_title": "Prashitha Stone Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2194",
+    "price": 2300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/prashitha-stone-ring?variant=gid://shopify/ProductVariant/49501138944227",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2194.jpg?v=1785916338"
   },
   "gid://shopify/ProductVariant/49501725458659": {
     "product_title": "Vithikaa Stone Ring",
