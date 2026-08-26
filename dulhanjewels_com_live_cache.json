@@ -4355,15 +4355,6 @@
     "url": "https://www.dulhanjewels.com/products/designer-chand-motif-jadau-kundan-pendant-with-golden-drops?variant=gid://shopify/ProductVariant/51132157460786",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/61ED2C5E-371F-42E8-95EF-24CE759EFDEB.jpg?v=1780665754"
   },
-  "gid://shopify/ProductVariant/51132206776626": {
-    "product_title": "Elegant Jadau Kundan Beads Necklace Set With Ruby Leaf Motifs",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 3500.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/elegant-jadau-kundan-beads-necklace-set-with-ruby-leaf-motifs?variant=gid://shopify/ProductVariant/51132206776626",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-6486.jpg?v=1778073735"
-  },
   "gid://shopify/ProductVariant/51132222964018": {
     "product_title": "Premium South Indian Bottumala Necklace With Green Stone Detailing",
     "variant_title": "Default Title",
@@ -6596,15 +6587,6 @@
     "url": "https://www.dulhanjewels.com/products/lotus-design-jadau-necklace-with-earrings?variant=gid://shopify/ProductVariant/51647248826674",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0378.jpg?v=1787651241"
   },
-  "gid://shopify/ProductVariant/51647257510194": {
-    "product_title": "Multi Layer Jadau Kundan Beads Haram",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1750.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/multi-layer-jadau-kundan-necklace-set?variant=gid://shopify/ProductVariant/51647257510194",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_36d3cd7e-a21c-432f-999c-5efa7f76ca56.jpg?v=1787733016"
-  },
   "gid://shopify/ProductVariant/51655881621810": {
     "product_title": "Royal Jadau Kundan Green Beads Mala With Earrings",
     "variant_title": "Default Title",
@@ -8027,6 +8009,15 @@
     "url": "https://www.dulhanjewels.com/products/royal-jadau-kundan-necklace-with-green-beads?variant=gid://shopify/ProductVariant/51582977802546",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/327C0B35-BC4A-4D95-9874-9027DDD7E2EE.jpg?v=1786962519"
   },
+  "gid://shopify/ProductVariant/51132206776626": {
+    "product_title": "Elegant Jadau Kundan Beads Necklace Set With Ruby Leaf Motifs",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 3500.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/elegant-jadau-kundan-beads-necklace-set-with-ruby-leaf-motifs?variant=gid://shopify/ProductVariant/51132206776626",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-6486.jpg?v=1778073735"
+  },
   "gid://shopify/ProductVariant/51132593209650": {
     "product_title": "Unique Jadau Kundan Sleek Bangles",
     "variant_title": "Red / 2.4",
@@ -8242,5 +8233,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/elegant-jhumki-earrings-with-green-beads-and-pearl-border?variant=gid://shopify/ProductVariant/51647231099186",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_5fe81af2-47a0-40ab-85e7-8b41ecbbb061.jpg?v=1787651123"
+  },
+  "gid://shopify/ProductVariant/51647257510194": {
+    "product_title": "Multi Layer Jadau Kundan Beads Haram",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1750.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/multi-layer-jadau-kundan-necklace-set?variant=gid://shopify/ProductVariant/51647257510194",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_36d3cd7e-a21c-432f-999c-5efa7f76ca56.jpg?v=1787733016"
   }
 }
