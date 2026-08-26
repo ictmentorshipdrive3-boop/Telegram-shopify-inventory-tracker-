@@ -11884,7 +11884,7 @@
     "variant_title": "2.8\"",
     "sku": "AMS-107-1398-2.8\"",
     "price": 24800.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/jivitha-kundan-pair-bangle?variant=gid://shopify/ProductVariant/49507695952099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1398.jpg?v=1726312260"
   },
@@ -19813,7 +19813,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-9228",
     "price": 33200.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/forest-green-short-necklace?variant=gid://shopify/ProductVariant/46388603551971",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9228.jpg?v=1747907833"
   },
@@ -69772,7 +69772,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-2296",
     "price": 32600.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/riyana-stone-maatal?variant=gid://shopify/ProductVariant/48926960189667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2296.jpg?v=1778305354"
   },
@@ -81382,7 +81382,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-112-0825",
     "price": 60100.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/vanki-1?variant=gid://shopify/ProductVariant/49365986640099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0825.jpg?v=1783251325"
   },
@@ -91264,7 +91264,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4804",
     "price": 17000.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/avikam-pendant-set-36?variant=gid://shopify/ProductVariant/49497906807011",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4804.jpg?v=1785840770"
   },
@@ -94849,15 +94849,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/myra-kundan-short-necklace?variant=gid://shopify/ProductVariant/49519905767651",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17480.jpg?v=1786431923"
-  },
-  "gid://shopify/ProductVariant/49519907340515": {
-    "product_title": "Shanaya Kundan Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17479",
-    "price": 37520.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/shanaya-kundan-short-necklace-1?variant=gid://shopify/ProductVariant/49519907340515",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17479.jpg?v=1786432062"
   },
   "gid://shopify/ProductVariant/49519914254563": {
     "product_title": "Narasimha Nagas Pendant",
@@ -100111,7 +100102,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15351",
     "price": 7180.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/ashikha-nagas-drops?variant=gid://shopify/ProductVariant/49553648713955",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15351.jpg?v=1787041796"
   },
@@ -126781,6 +126772,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nagas-jada-billa-3?variant=gid://shopify/ProductVariant/49519840854243",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0942.jpg?v=1786426039"
+  },
+  "gid://shopify/ProductVariant/49519907340515": {
+    "product_title": "Shanaya Kundan Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17479",
+    "price": 37520.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/shanaya-kundan-short-necklace-1?variant=gid://shopify/ProductVariant/49519907340515",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17479.jpg?v=1786432062"
   },
   "gid://shopify/ProductVariant/49519917891811": {
     "product_title": "Testing Lmx",
