@@ -706,7 +706,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-2170",
     "price": 34200.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/pretty-queen?variant=gid://shopify/ProductVariant/40641112866966",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS00113.jpg?v=1686577760"
   },
@@ -84657,7 +84657,7 @@
     "product_title": "Virshali Kundan Jhumkas",
     "variant_title": "Default Title",
     "sku": "AMS-106-15428",
-    "price": 21800.0,
+    "price": 25000.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/kundan-jhumkas-15?variant=gid://shopify/ProductVariant/49421304791267",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15428.jpg?v=1784291314"
@@ -93517,15 +93517,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/kundan-long-necklace-22?variant=gid://shopify/ProductVariant/49514979754211",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17430.jpg?v=1786281187"
-  },
-  "gid://shopify/ProductVariant/49514990239971": {
-    "product_title": "Fariyaa Rope Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17402",
-    "price": 27800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/rope-necklace-3?variant=gid://shopify/ProductVariant/49514990239971",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17402.jpg?v=1786281545"
   },
   "gid://shopify/ProductVariant/49517007700195": {
     "product_title": "Beautiful Avikam Bracelet",
@@ -103894,6 +103885,51 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/marvelous-nagas-short-necklace?variant=gid://shopify/ProductVariant/49605826871523",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17749.jpg?v=1787748487"
+  },
+  "gid://shopify/ProductVariant/49614860484835": {
+    "product_title": "Stunning Pakshi Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16868",
+    "price": 25400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/pakshi-short-necklace-set-2?variant=gid://shopify/ProductVariant/49614860484835",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16868.jpg?v=1787809587"
+  },
+  "gid://shopify/ProductVariant/49614941618403": {
+    "product_title": "Ruhikaa Pakshi Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16871",
+    "price": 27600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/pakshi-short-necklace-set-3?variant=gid://shopify/ProductVariant/49614941618403",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16871.jpg?v=1787809765"
+  },
+  "gid://shopify/ProductVariant/49615005941987": {
+    "product_title": "Avanthikaa Pakshi Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16876",
+    "price": 21100.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/pakshi-short-necklace-set-5?variant=gid://shopify/ProductVariant/49615005941987",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16876.jpg?v=1787809953"
+  },
+  "gid://shopify/ProductVariant/49615077703907": {
+    "product_title": "Amazing Pakshi Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16877",
+    "price": 34200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/pakshi-short-necklace-set-6?variant=gid://shopify/ProductVariant/49615077703907",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16877.jpg?v=1787810096"
+  },
+  "gid://shopify/ProductVariant/49615206973667": {
+    "product_title": "Adorable Pakshi Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16895",
+    "price": 28000.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/pakshi-short-necklace-set-7?variant=gid://shopify/ProductVariant/49615206973667",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16895.jpg?v=1787810427"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -127024,6 +127060,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/kundan-short-necklace-54?variant=gid://shopify/ProductVariant/49514928865507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17434_2.jpg?v=1786279522"
+  },
+  "gid://shopify/ProductVariant/49514990239971": {
+    "product_title": "Fariyaa Rope Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17402",
+    "price": 27800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/rope-necklace-3?variant=gid://shopify/ProductVariant/49514990239971",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17402.jpg?v=1786281545"
   },
   "gid://shopify/ProductVariant/49515014684899": {
     "product_title": "Catchy Rope Necklace",
