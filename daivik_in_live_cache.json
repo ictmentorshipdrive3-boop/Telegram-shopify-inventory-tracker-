@@ -31,7 +31,7 @@
     "variant_title": "Default Title",
     "sku": "45",
     "price": 1449.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.daivik.in/products/45?variant=gid://shopify/ProductVariant/32600770707515",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_ec716232-9924-41f1-819a-8bc18601c00b.jpg?v=1599550627"
   },
@@ -1052,12 +1052,21 @@
     "url": "https://www.daivik.in/products/kemp-bridal-mattals?variant=gid://shopify/ProductVariant/40392151400601",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_c686d5d4-aa4b-45a9-b038-20408d189497.jpg?v=1624376719"
   },
+  "gid://shopify/ProductVariant/40399475277977": {
+    "product_title": "Traditional Teeka in 2 variants",
+    "variant_title": "1",
+    "sku": "756",
+    "price": 799.0,
+    "stock": 1,
+    "url": "https://www.daivik.in/products/traditional-teeka-in-2-variants-1?variant=gid://shopify/ProductVariant/40399475277977",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_0066045a-8bf2-4b6c-b69e-6d4d3128735b.jpg?v=1624462201"
+  },
   "gid://shopify/ProductVariant/40399475310745": {
     "product_title": "Traditional Teeka in 2 variants",
     "variant_title": "2",
     "sku": "756",
     "price": 699.0,
-    "stock": 45,
+    "stock": 44,
     "url": "https://www.daivik.in/products/traditional-teeka-in-2-variants-1?variant=gid://shopify/ProductVariant/40399475310745",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_0066045a-8bf2-4b6c-b69e-6d4d3128735b.jpg?v=1624462201"
   },
@@ -2200,7 +2209,7 @@
     "variant_title": "Default Title",
     "sku": "277",
     "price": 599.0,
-    "stock": 39,
+    "stock": 40,
     "url": "https://www.daivik.in/products/ad-white-gold-teeka?variant=gid://shopify/ProductVariant/42641179345118",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_cab7af53-ce70-4200-8b35-a70dcb200b07.heic?v=1648999204"
   },
@@ -16204,7 +16213,7 @@
     "variant_title": "2.8",
     "sku": "1717",
     "price": 2499.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/lakshmi-bangles-combo?variant=gid://shopify/ProductVariant/47632180412638",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/92910E2B-9672-474A-ACA3-10DB4AA77746.jpg?v=1761496017"
   },
@@ -19822,7 +19831,7 @@
     "variant_title": "Default Title",
     "sku": "841",
     "price": 799.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/sri-balaji-heritage-choker-with-studs?variant=gid://shopify/ProductVariant/48289643102430",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/84DF6BB0-9447-44E6-8BBB-5D467BC5ACC4.jpg?v=1780066755"
   },
@@ -21190,7 +21199,7 @@
     "variant_title": "2.8",
     "sku": "1949",
     "price": 1699.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/antique-lakshmi-kada?variant=gid://shopify/ProductVariant/48606013161694",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C212A11D-8F23-46DE-8894-E34661B11E0C.jpg?v=1786900231"
   },
@@ -21670,15 +21679,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/kemp-ad-set-of-6-bangles?variant=gid://shopify/ProductVariant/40292754161817",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_b1c40f43-08d8-4720-b54c-7cea1e8151eb.jpg?v=1623254923"
-  },
-  "gid://shopify/ProductVariant/40399475277977": {
-    "product_title": "Traditional Teeka in 2 variants",
-    "variant_title": "1",
-    "sku": "756",
-    "price": 799.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/traditional-teeka-in-2-variants-1?variant=gid://shopify/ProductVariant/40399475277977",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_0066045a-8bf2-4b6c-b69e-6d4d3128735b.jpg?v=1624462201"
   },
   "gid://shopify/ProductVariant/40510053089433": {
     "product_title": "Kids/Adults mini choker",
