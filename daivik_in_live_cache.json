@@ -5980,7 +5980,7 @@
     "variant_title": "Default Title",
     "sku": "874",
     "price": 1999.0,
-    "stock": 23,
+    "stock": 22,
     "url": "https://www.daivik.in/products/ad-lakshmi-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/45756425830622",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4A9D8CBB-41EC-4051-ACF2-F155CDF8CA24.jpg?v=1705937525"
   },
@@ -12460,7 +12460,7 @@
     "variant_title": "Default Title",
     "sku": "1286",
     "price": 599.0,
-    "stock": 25,
+    "stock": 24,
     "url": "https://www.daivik.in/products/lakshmi-coin-chain?variant=gid://shopify/ProductVariant/47042689433822",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0076DA59-97D2-403B-B4DE-3FD7466C64AE.jpg?v=1751086512"
   },
@@ -20020,8 +20020,17 @@
     "variant_title": "2.4",
     "sku": "1906",
     "price": 3199.0,
-    "stock": 1,
+    "stock": 5,
     "url": "https://www.daivik.in/products/ad-ruby-pearl-floral-combo?variant=gid://shopify/ProductVariant/48315170881758",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6BB7EEE1-75CA-4229-8BFB-F555807A583C.jpg?v=1780914224"
+  },
+  "gid://shopify/ProductVariant/48315170914526": {
+    "product_title": "AD Ruby Pearl Floral Combo",
+    "variant_title": "2.6",
+    "sku": "1906",
+    "price": 3199.0,
+    "stock": 5,
+    "url": "https://www.daivik.in/products/ad-ruby-pearl-floral-combo?variant=gid://shopify/ProductVariant/48315170914526",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6BB7EEE1-75CA-4229-8BFB-F555807A583C.jpg?v=1780914224"
   },
   "gid://shopify/ProductVariant/48315170947294": {
@@ -30517,15 +30526,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/premium-ad-jada-billa-with-mattal?variant=gid://shopify/ProductVariant/48309064794334",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/29615296-F9D7-4848-A680-A6B169A5C3BD.jpg?v=1780676900"
-  },
-  "gid://shopify/ProductVariant/48315170914526": {
-    "product_title": "AD Ruby Pearl Floral Combo",
-    "variant_title": "2.6",
-    "sku": "1906",
-    "price": 3199.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/ad-ruby-pearl-floral-combo?variant=gid://shopify/ProductVariant/48315170914526",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6BB7EEE1-75CA-4229-8BFB-F555807A583C.jpg?v=1780914224"
   },
   "gid://shopify/ProductVariant/48332854886622": {
     "product_title": "Kemp Flower Rice Pearl Hair Clip",
