@@ -6218,15 +6218,6 @@
     "url": "https://www.dulhanjewels.com/products/jadau-kundan-polki-earrings-with-pearl-detailing?variant=gid://shopify/ProductVariant/51566627160370",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/20F030C2-0724-4813-8B9E-6E19F791A225.jpg?v=1786606928"
   },
-  "gid://shopify/ProductVariant/51566677688626": {
-    "product_title": "Radiant Victorian Necklace Set With Matching Earrings",
-    "variant_title": "Green",
-    "sku": null,
-    "price": 4250.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/radiant-victorian-necklace-set-with-matching-earrings?variant=gid://shopify/ProductVariant/51566677688626",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/9D635791-AFE6-4572-B92E-6773900153BA.jpg?v=1786609473"
-  },
   "gid://shopify/ProductVariant/51566677721394": {
     "product_title": "Radiant Victorian Necklace Set With Matching Earrings",
     "variant_title": "Light Green",
@@ -6542,15 +6533,6 @@
     "url": "https://www.dulhanjewels.com/products/royal-jadau-kundan-green-beads-mala-with-earrings?variant=gid://shopify/ProductVariant/51655881621810",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/A2045578-B161-467A-8D25-0D83AA76ADA2.jpg?v=1787733075"
   },
-  "gid://shopify/ProductVariant/51656175747378": {
-    "product_title": "Temple Style Jadau Kundan Short Necklace With Earrings",
-    "variant_title": "White",
-    "sku": null,
-    "price": 2050.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/temple-style-jadau-kundan-short-necklace-with-earrings?variant=gid://shopify/ProductVariant/51656175747378",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0451.jpg?v=1787736836"
-  },
   "gid://shopify/ProductVariant/51656175780146": {
     "product_title": "Temple Style Jadau Kundan Short Necklace With Earrings",
     "variant_title": "Pink",
@@ -6595,6 +6577,24 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/traditional-jadau-kundan-hip-belt-with-emerald-drops?variant=gid://shopify/ProductVariant/51661454541106",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0465.jpg?v=1787814788"
+  },
+  "gid://shopify/ProductVariant/51661467189554": {
+    "product_title": "Gold Style Jadau Kundan Hip Belt With Green Hangings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 3800.0,
+    "stock": 1,
+    "url": "https://www.dulhanjewels.com/products/gold-style-jadau-kundan-hip-belt-with-green-hangings?variant=gid://shopify/ProductVariant/51661467189554",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/A28CA83C-107F-458D-B6A9-983398F5EDB5.jpg?v=1787815162"
+  },
+  "gid://shopify/ProductVariant/51661481312562": {
+    "product_title": "Unique Jadau Kundan Hip Belt With Strawberry Beads",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 4250.0,
+    "stock": 1,
+    "url": "https://www.dulhanjewels.com/products/unique-jadau-kundan-hip-belt-with-strawberry-beads?variant=gid://shopify/ProductVariant/51661481312562",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/4ED5DCDA-E4CD-4D96-A49D-BD7578CF45BE.jpg?v=1787815488"
   },
   "gid://shopify/ProductVariant/46748694446386": {
     "product_title": "Elegant Jadau Long Pearl Mala",
@@ -8153,6 +8153,15 @@
     "url": "https://www.dulhanjewels.com/products/designer-jadau-kundan-jhumka-earrings-with-green-drops-1?variant=gid://shopify/ProductVariant/51564598886706",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/F7E59350-916A-4A80-8CF5-AC00E73D1880.jpg?v=1786539138"
   },
+  "gid://shopify/ProductVariant/51566677688626": {
+    "product_title": "Radiant Victorian Necklace Set With Matching Earrings",
+    "variant_title": "Green",
+    "sku": null,
+    "price": 4250.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/radiant-victorian-necklace-set-with-matching-earrings?variant=gid://shopify/ProductVariant/51566677688626",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/9D635791-AFE6-4572-B92E-6773900153BA.jpg?v=1786609473"
+  },
   "gid://shopify/ProductVariant/51567537881394": {
     "product_title": "Gold Style Jadau Kundan Hip Belt With Emerald Centre",
     "variant_title": "Default Title",
@@ -8179,5 +8188,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/elegant-jhumki-earrings-with-green-beads-and-pearl-border?variant=gid://shopify/ProductVariant/51647231099186",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_5fe81af2-47a0-40ab-85e7-8b41ecbbb061.jpg?v=1787651123"
+  },
+  "gid://shopify/ProductVariant/51656175747378": {
+    "product_title": "Temple Style Jadau Kundan Short Necklace With Earrings",
+    "variant_title": "White",
+    "sku": null,
+    "price": 2050.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/temple-style-jadau-kundan-short-necklace-with-earrings?variant=gid://shopify/ProductVariant/51656175747378",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0451.jpg?v=1787736836"
   }
 }
