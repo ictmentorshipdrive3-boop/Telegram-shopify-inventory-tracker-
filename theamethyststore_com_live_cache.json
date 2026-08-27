@@ -17999,15 +17999,6 @@
     "url": "https://www.theamethyststore.com/products/diamond-design-bangles?variant=gid://shopify/ProductVariant/46373532598499",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1825-_2.jpg?v=1743494747"
   },
-  "gid://shopify/ProductVariant/46200885215459": {
-    "product_title": "Daisy Diamond Design Bangles",
-    "variant_title": "2.6\"",
-    "sku": "AMS-107-1825-2.6",
-    "price": 43400.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/diamond-design-bangles?variant=gid://shopify/ProductVariant/46200885215459",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1825-_2.jpg?v=1743494747"
-  },
   "gid://shopify/ProductVariant/46201436340451": {
     "product_title": "Caroline Long Necklace Set",
     "variant_title": "Default Title",
@@ -90292,7 +90283,7 @@
     "variant_title": "2.4\"",
     "sku": "AMS-107-3443-2.4\"",
     "price": 57200.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-25?variant=gid://shopify/ProductVariant/49495325343971",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3443.jpg?v=1785764654"
   },
@@ -92491,15 +92482,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/lavya-avikam-bracelet?variant=gid://shopify/ProductVariant/49507871621347",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1446.jpg?v=1786087487"
-  },
-  "gid://shopify/ProductVariant/49507874865379": {
-    "product_title": "Briziya Avikam Bracelet",
-    "variant_title": "Default Title",
-    "sku": "AMS-103-1447",
-    "price": 10600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/briziya-avikam-bracelet?variant=gid://shopify/ProductVariant/49507874865379",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1447.jpg?v=1786087625"
   },
   "gid://shopify/ProductVariant/49507875553507": {
     "product_title": "Yashmikaa Avikam Pendant Set",
@@ -108376,6 +108358,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/clarika-sheeshphool?variant=gid://shopify/ProductVariant/46197083799779",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/DSC06847.jpg?v=1748331716"
+  },
+  "gid://shopify/ProductVariant/46200885215459": {
+    "product_title": "Daisy Diamond Design Bangles",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-1825-2.6",
+    "price": 43400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/diamond-design-bangles?variant=gid://shopify/ProductVariant/46200885215459",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1825-_2.jpg?v=1743494747"
   },
   "gid://shopify/ProductVariant/46375583416547": {
     "product_title": "Nayana Diamond Design Pair Bangle",
@@ -127267,6 +127258,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/avikam-pendant-set-43?variant=gid://shopify/ProductVariant/49507850518755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4865.jpg?v=1786086620"
+  },
+  "gid://shopify/ProductVariant/49507874865379": {
+    "product_title": "Briziya Avikam Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1447",
+    "price": 10600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/briziya-avikam-bracelet?variant=gid://shopify/ProductVariant/49507874865379",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1447.jpg?v=1786087625"
   },
   "gid://shopify/ProductVariant/49514178838755": {
     "product_title": "Renisha Diamond Design Pendant",
