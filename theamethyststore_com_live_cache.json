@@ -73178,15 +73178,6 @@
     "url": "https://www.theamethyststore.com/products/alessandra-short-necklace-set?variant=gid://shopify/ProductVariant/49250536358115",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15969.jpg?v=1781175158"
   },
-  "gid://shopify/ProductVariant/49250538520803": {
-    "product_title": "Bruna Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15968",
-    "price": 67496.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/bruna-short-necklace-set?variant=gid://shopify/ProductVariant/49250538520803",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15968.jpg?v=1781175493"
-  },
   "gid://shopify/ProductVariant/49250584101091": {
     "product_title": "Caterina Avikam Long Necklace Set",
     "variant_title": "Default Title",
@@ -104066,6 +104057,15 @@
     "url": "https://www.theamethyststore.com/products/cherishing-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49617524031715",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16983.jpg?v=1787826012"
   },
+  "gid://shopify/ProductVariant/49618364006627": {
+    "product_title": "Traditional Nagas Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14905",
+    "price": 5600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/traditional-nagas-drops?variant=gid://shopify/ProductVariant/49618364006627",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14905.jpg?v=1787832098"
+  },
   "gid://shopify/ProductVariant/49618368299235": {
     "product_title": "Lakshmi Nagas Drops",
     "variant_title": "Default Title",
@@ -104074,6 +104074,69 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/nagas-drops-2?variant=gid://shopify/ProductVariant/49618368299235",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15314.jpg?v=1787831265"
+  },
+  "gid://shopify/ProductVariant/49618642174179": {
+    "product_title": "Glowing Nagas Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15322",
+    "price": 5200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nagas-drops?variant=gid://shopify/ProductVariant/49618642174179",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15322.jpg?v=1787832227"
+  },
+  "gid://shopify/ProductVariant/49618650038499": {
+    "product_title": "Ahitha Nagas Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14907",
+    "price": 5100.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/ahitha-nagas-drops?variant=gid://shopify/ProductVariant/49618650038499",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14907.jpg?v=1787832260"
+  },
+  "gid://shopify/ProductVariant/49618680414435": {
+    "product_title": "Nithra Nagas Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14958",
+    "price": 5400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nithra-nagas-drops?variant=gid://shopify/ProductVariant/49618680414435",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14958.jpg?v=1787832400"
+  },
+  "gid://shopify/ProductVariant/49618680447203": {
+    "product_title": "Catchy Nagas Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15358",
+    "price": 3700.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nagas-drops-copy?variant=gid://shopify/ProductVariant/49618680447203",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15358.jpg?v=1787832398"
+  },
+  "gid://shopify/ProductVariant/49618709348579": {
+    "product_title": "Dazzle Nagas Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14966",
+    "price": 4300.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/dazzle-nagas-drops?variant=gid://shopify/ProductVariant/49618709348579",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14966.jpg?v=1787832544"
+  },
+  "gid://shopify/ProductVariant/49618744934627": {
+    "product_title": "Trishika Nagas Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14968",
+    "price": 4780.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/trishika-nagas-drops?variant=gid://shopify/ProductVariant/49618744934627",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14968.jpg?v=1787832669"
+  },
+  "gid://shopify/ProductVariant/49618771738851": {
+    "product_title": "Srisha Nagas Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15294",
+    "price": 2850.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/srisha-nagas-drops?variant=gid://shopify/ProductVariant/49618771738851",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15294.jpg?v=1787832780"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -121967,6 +122030,15 @@
     "url": "https://www.theamethyststore.com/products/elettra-avikam-pendant-set?variant=gid://shopify/ProductVariant/49250504704227",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4186.jpg?v=1781171066"
   },
+  "gid://shopify/ProductVariant/49250538520803": {
+    "product_title": "Bruna Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15968",
+    "price": 67496.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/bruna-short-necklace-set?variant=gid://shopify/ProductVariant/49250538520803",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15968.jpg?v=1781175493"
+  },
   "gid://shopify/ProductVariant/49250637676771": {
     "product_title": "Gabriella Short Necklace Set",
     "variant_title": "Default Title",
@@ -127492,5 +127564,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/bullakku-nose-pin-32?variant=gid://shopify/ProductVariant/49575800471779",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0512.jpg?v=1787384508"
+  },
+  "gid://shopify/ProductVariant/49618710003939": {
+    "product_title": "Avinthaa Nagas Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15361",
+    "price": 3500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-drops-4?variant=gid://shopify/ProductVariant/49618710003939",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15361.jpg?v=1787832517"
   }
 }
