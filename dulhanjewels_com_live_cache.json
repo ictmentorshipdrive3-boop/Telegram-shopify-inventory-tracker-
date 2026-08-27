@@ -5714,15 +5714,6 @@
     "url": "https://www.dulhanjewels.com/products/fresh-water-pearls-mala-with-matching-earrings?variant=gid://shopify/ProductVariant/51521743356210",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/CEE315FA-8367-4AEE-9E37-7B042A6DC22E.jpg?v=1785758480"
   },
-  "gid://shopify/ProductVariant/51521743388978": {
-    "product_title": "Fresh Water Pearls Mala With Matching Earrings",
-    "variant_title": "Green",
-    "sku": null,
-    "price": 3150.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/fresh-water-pearls-mala-with-matching-earrings?variant=gid://shopify/ProductVariant/51521743388978",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/CEE315FA-8367-4AEE-9E37-7B042A6DC22E.jpg?v=1785758480"
-  },
   "gid://shopify/ProductVariant/51521778680114": {
     "product_title": "Bridal Jadau Kundan Pendant With Emerald Hangings",
     "variant_title": "Default Title",
@@ -8189,6 +8180,15 @@
     "url": "https://www.dulhanjewels.com/products/classy-jadau-kundan-bangle-with-floral-center?variant=gid://shopify/ProductVariant/51505705189682",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/931A7235-4B54-4A95-8BE3-840DFCCD2E56.jpg?v=1784887061"
   },
+  "gid://shopify/ProductVariant/51521743388978": {
+    "product_title": "Fresh Water Pearls Mala With Matching Earrings",
+    "variant_title": "Green",
+    "sku": null,
+    "price": 3150.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/fresh-water-pearls-mala-with-matching-earrings?variant=gid://shopify/ProductVariant/51521743388978",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/CEE315FA-8367-4AEE-9E37-7B042A6DC22E.jpg?v=1785758480"
+  },
   "gid://shopify/ProductVariant/51566677688626": {
     "product_title": "Radiant Victorian Necklace Set With Matching Earrings",
     "variant_title": "Green",
@@ -8198,15 +8198,6 @@
     "url": "https://www.dulhanjewels.com/products/radiant-victorian-necklace-set-with-matching-earrings?variant=gid://shopify/ProductVariant/51566677688626",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/9D635791-AFE6-4572-B92E-6773900153BA.jpg?v=1786609473"
   },
-  "gid://shopify/ProductVariant/51567537881394": {
-    "product_title": "Gold Style Jadau Kundan Hip Belt With Emerald Centre",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 3000.0,
-    "stock": 0,
-    "url": "https://www.dulhanjewels.com/products/gold-style-jadau-kundan-hip-belt-with-emerald-centre?variant=gid://shopify/ProductVariant/51567537881394",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/83646CF3-97F2-4501-839B-BC4BCD7AE00E.jpg?v=1786621767"
-  },
   "gid://shopify/ProductVariant/51609768165682": {
     "product_title": "Magnificent Victorian Bridal Necklace Set With Earrings",
     "variant_title": "Green",
@@ -8215,14 +8206,5 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/magnificent-victorian-emerald-bridal-necklace-set-with-earrings?variant=gid://shopify/ProductVariant/51609768165682",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/989D131E-EB45-4346-B1E9-60905B0EF2FA.jpg?v=1787127196"
-  },
-  "gid://shopify/ProductVariant/51647231099186": {
-    "product_title": "Elegant Jhumki Earrings With Green Beads And Pearl Border",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 3000.0,
-    "stock": 0,
-    "url": "https://www.dulhanjewels.com/products/elegant-jhumki-earrings-with-green-beads-and-pearl-border?variant=gid://shopify/ProductVariant/51647231099186",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_5fe81af2-47a0-40ab-85e7-8b41ecbbb061.jpg?v=1787651123"
   }
 }
