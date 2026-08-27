@@ -11713,7 +11713,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-1887",
     "price": 23900.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/vibusha-victorian-pendant-set?variant=gid://shopify/ProductVariant/45498621362403",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-1887.jpg?v=1725975091"
   },
@@ -31180,7 +31180,7 @@
     "variant_title": "Black",
     "sku": "AMS-102-7255-Black",
     "price": 11300.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/short-necklace-18?variant=gid://shopify/ProductVariant/47067941699811",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7255_6d6a33a3-6cd1-428e-9064-affc4d9dfc22.jpg?v=1756202475"
   },
@@ -91286,15 +91286,6 @@
     "url": "https://www.theamethyststore.com/products/jashikha-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49501953720547",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16949.jpg?v=1785926419"
   },
-  "gid://shopify/ProductVariant/49501955227875": {
-    "product_title": "Mithali Stone Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-2235",
-    "price": 2650.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/stone-ring-32?variant=gid://shopify/ProductVariant/49501955227875",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2235.jpg?v=1785926434"
-  },
   "gid://shopify/ProductVariant/49501969121507": {
     "product_title": "Dazzling Stone Ring",
     "variant_title": "Default Title",
@@ -127150,6 +127141,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/stone-ring-29?variant=gid://shopify/ProductVariant/49501804658915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2225.jpg?v=1785925451"
+  },
+  "gid://shopify/ProductVariant/49501955227875": {
+    "product_title": "Mithali Stone Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2235",
+    "price": 2650.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/stone-ring-32?variant=gid://shopify/ProductVariant/49501955227875",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2235.jpg?v=1785926434"
   },
   "gid://shopify/ProductVariant/49502130012387": {
     "product_title": "Stunning Stone Ring",
