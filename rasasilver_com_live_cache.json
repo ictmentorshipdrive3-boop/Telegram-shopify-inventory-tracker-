@@ -6218,15 +6218,6 @@
     "url": "https://www.rasasilver.com/products/surangi-studs?variant=gid://shopify/ProductVariant/51353649512745",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0193copy.jpg?v=1761389766"
   },
-  "gid://shopify/ProductVariant/51355357217065": {
-    "product_title": "Divyanka Aam Studs",
-    "variant_title": "Default Title",
-    "sku": "R15936",
-    "price": 3995.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/divyanka-aam-studs?variant=gid://shopify/ProductVariant/51355357217065",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0027_copy.jpg?v=1761378073"
-  },
   "gid://shopify/ProductVariant/51356269936937": {
     "product_title": "Glimflora Stud Earrings",
     "variant_title": "Default Title",
@@ -13333,7 +13324,7 @@
     "variant_title": "2.6",
     "sku": "R24459",
     "price": 41820.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/duchess-oval-victorian-bangles?variant=gid://shopify/ProductVariant/52535462461737",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_113_Pics_29Jan4093.jpg?v=1770287868"
   },
@@ -24785,15 +24776,6 @@
     "url": "https://www.rasasilver.com/products/thrishul-rakhi?variant=gid://shopify/ProductVariant/53394169659689",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19595.jpg?v=1786000594"
   },
-  "gid://shopify/ProductVariant/53394180505897": {
-    "product_title": "Om Shakti Rakhi",
-    "variant_title": "Default Title",
-    "sku": "R33379",
-    "price": 810.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/om-shakti-rakhi?variant=gid://shopify/ProductVariant/53394180505897",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19581.jpg?v=1785999547"
-  },
   "gid://shopify/ProductVariant/53394183651625": {
     "product_title": "Veera Rakhi",
     "variant_title": "Default Title",
@@ -30058,6 +30040,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/fleurara-studs?variant=gid://shopify/ProductVariant/51355167424809",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0238_copy.jpg?v=1761382125"
+  },
+  "gid://shopify/ProductVariant/51355357217065": {
+    "product_title": "Divyanka Aam Studs",
+    "variant_title": "Default Title",
+    "sku": "R15936",
+    "price": 3995.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/divyanka-aam-studs?variant=gid://shopify/ProductVariant/51355357217065",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0027_copy.jpg?v=1761378073"
   },
   "gid://shopify/ProductVariant/51356277932329": {
     "product_title": "Nitya Pearl Studs",
@@ -47068,6 +47059,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/rakhi?variant=gid://shopify/ProductVariant/53394179064105",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19588.jpg?v=1786000962"
+  },
+  "gid://shopify/ProductVariant/53394180505897": {
+    "product_title": "Om Shakti Rakhi",
+    "variant_title": "Default Title",
+    "sku": "R33379",
+    "price": 810.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/om-shakti-rakhi?variant=gid://shopify/ProductVariant/53394180505897",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19581.jpg?v=1785999547"
   },
   "gid://shopify/ProductVariant/53394183094569": {
     "product_title": "Ganesha Rakhi",
