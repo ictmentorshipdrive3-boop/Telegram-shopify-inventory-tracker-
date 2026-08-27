@@ -1745,15 +1745,6 @@
     "url": "https://www.muskanjewel.com/products/temple-antique-goddess-laxmi-necklace-with-pearl-and-natural-strawberry-beads-1?variant=gid://shopify/ProductVariant/53034628219196",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260430_221800_fc84e3db-9559-4cef-a876-8f85cfda4164.webp?v=1777989038"
   },
-  "gid://shopify/ProductVariant/53034643161404": {
-    "product_title": "Temple/Antique Goddess Laxmi combo necklace with pearl and natural strawberry beads(Tika and Earrings)",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2500.0,
-    "stock": 1,
-    "url": "https://www.muskanjewel.com/products/temple-antique-goddess-laxmi-combo-necklace-with-pearl-and-natural-strawberry-beadstika-and-earrings?variant=gid://shopify/ProductVariant/53034643161404",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260430_225831_7c2f26b5-2738-4481-b043-48dd351f65e8.webp?v=1777989678"
-  },
   "gid://shopify/ProductVariant/53034661445948": {
     "product_title": "Temple/Antique goddess laxmi and god balaji combo with pearl and natural strawberry beads(With Earrings)",
     "variant_title": "Default Title",
@@ -2065,7 +2056,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 2850.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-pandent-pearls-beads-mala-with-rice-pearls-onyx-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/53828101308732",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260725_101734_567c24a0-73e0-4a1a-b114-05a18f41f14e_1.jpg?v=1785157139"
   },
@@ -2509,5 +2500,14 @@
     "stock": 0,
     "url": "https://www.muskanjewel.com/products/temple-antique-goddess-laxmi-and-peacock-bangles-pair?variant=gid://shopify/ProductVariant/53016702124348",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260427_121550_b70684a9-e244-4e0f-bfa3-5fc4b9b535b6.webp?v=1777384090"
+  },
+  "gid://shopify/ProductVariant/53034643161404": {
+    "product_title": "Temple/Antique Goddess Laxmi combo necklace with pearl and natural strawberry beads(Tika and Earrings)",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2500.0,
+    "stock": 0,
+    "url": "https://www.muskanjewel.com/products/temple-antique-goddess-laxmi-combo-necklace-with-pearl-and-natural-strawberry-beadstika-and-earrings?variant=gid://shopify/ProductVariant/53034643161404",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260430_225831_7c2f26b5-2738-4481-b043-48dd351f65e8.webp?v=1777989678"
   }
 }
