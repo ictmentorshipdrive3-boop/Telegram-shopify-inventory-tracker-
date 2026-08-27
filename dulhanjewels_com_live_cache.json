@@ -5543,15 +5543,6 @@
     "url": "https://www.dulhanjewels.com/products/mini-jadau-kundan-jhumki-earrings-with-pearl-hangings?variant=gid://shopify/ProductVariant/51505714200882",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9529.jpg?v=1785413370"
   },
-  "gid://shopify/ProductVariant/51505756242226": {
-    "product_title": "Traditional Jadau Kundan Hip Belt",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 3000.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/traditional-jadau-kundan-hip-belt?variant=gid://shopify/ProductVariant/51505756242226",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0389.jpg?v=1784891756"
-  },
   "gid://shopify/ProductVariant/51515401666866": {
     "product_title": "Classic Floral Jadau Kundan Necklace With Emerald Beads",
     "variant_title": "Default Title",
@@ -6433,15 +6424,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/green-victorian-polki-necklace-set-with-matching-earrings?variant=gid://shopify/ProductVariant/51609780519218",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0275.jpg?v=1787128290"
-  },
-  "gid://shopify/ProductVariant/51624532508978": {
-    "product_title": "Simple Jadau Kundan Necklace With Emerald Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1350.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/simple-jadau-kundan-necklace-with-emerald-drops?variant=gid://shopify/ProductVariant/51624532508978",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/0346A0D2-555A-4893-96C2-8A34142D5A65.jpg?v=1787388567"
   },
   "gid://shopify/ProductVariant/51624534147378": {
     "product_title": "Designer Jadau Kundan Nantad Chain Necklace",
@@ -8144,6 +8126,15 @@
     "url": "https://www.dulhanjewels.com/products/classy-jadau-kundan-bangle-with-floral-center?variant=gid://shopify/ProductVariant/51505705189682",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/931A7235-4B54-4A95-8BE3-840DFCCD2E56.jpg?v=1784887061"
   },
+  "gid://shopify/ProductVariant/51505756242226": {
+    "product_title": "Traditional Jadau Kundan Hip Belt",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 3000.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/traditional-jadau-kundan-hip-belt?variant=gid://shopify/ProductVariant/51505756242226",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0389.jpg?v=1784891756"
+  },
   "gid://shopify/ProductVariant/51566677688626": {
     "product_title": "Radiant Victorian Necklace Set With Matching Earrings",
     "variant_title": "Green",
@@ -8161,5 +8152,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/magnificent-victorian-emerald-bridal-necklace-set-with-earrings?variant=gid://shopify/ProductVariant/51609768165682",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/989D131E-EB45-4346-B1E9-60905B0EF2FA.jpg?v=1787127196"
+  },
+  "gid://shopify/ProductVariant/51624532508978": {
+    "product_title": "Simple Jadau Kundan Necklace With Emerald Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1350.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/simple-jadau-kundan-necklace-with-emerald-drops?variant=gid://shopify/ProductVariant/51624532508978",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/0346A0D2-555A-4893-96C2-8A34142D5A65.jpg?v=1787388567"
   }
 }
