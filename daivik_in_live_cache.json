@@ -2542,7 +2542,7 @@
     "variant_title": "Default Title",
     "sku": "432",
     "price": 899.0,
-    "stock": 46,
+    "stock": 45,
     "url": "https://www.daivik.in/products/a-225?variant=gid://shopify/ProductVariant/43212378439902",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_f6b01fa0-137c-4333-b8ec-463d4542e32a.heic?v=1659180660"
   },
@@ -6954,15 +6954,6 @@
     "price": 1199.0,
     "stock": 2,
     "url": "https://www.daivik.in/products/untitled-may26_18-32?variant=gid://shopify/ProductVariant/45429015412958",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E9778EB0-EEE1-448C-A5BB-2F8C93C70B74.jpg?v=1716729186"
-  },
-  "gid://shopify/ProductVariant/45429015445726": {
-    "product_title": "Hasli Choker with Jhumkas",
-    "variant_title": "Ruby Green",
-    "sku": "510",
-    "price": 1199.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/untitled-may26_18-32?variant=gid://shopify/ProductVariant/45429015445726",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E9778EB0-EEE1-448C-A5BB-2F8C93C70B74.jpg?v=1716729186"
   },
   "gid://shopify/ProductVariant/47292618735838": {
@@ -25549,6 +25540,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/pure-kemp-brass-peacock-jadau-long-haram-with-earrings?variant=gid://shopify/ProductVariant/45392856580318",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0DED898B-2A9C-4E6A-BBB3-0511D6A31ED3.jpg?v=1716118800"
+  },
+  "gid://shopify/ProductVariant/45429015445726": {
+    "product_title": "Hasli Choker with Jhumkas",
+    "variant_title": "Ruby Green",
+    "sku": "510",
+    "price": 1199.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/untitled-may26_18-32?variant=gid://shopify/ProductVariant/45429015445726",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E9778EB0-EEE1-448C-A5BB-2F8C93C70B74.jpg?v=1716729186"
   },
   "gid://shopify/ProductVariant/45443238002910": {
     "product_title": "Peacock Jhumkas with Golden beads Mattal",
