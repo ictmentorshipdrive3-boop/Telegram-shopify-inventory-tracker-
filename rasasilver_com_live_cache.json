@@ -913,7 +913,7 @@
     "variant_title": "Default Title",
     "sku": "R15982",
     "price": 2210.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/botanique-studs?variant=gid://shopify/ProductVariant/50158205501737",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06453_copy.jpg?v=1744184601"
   },
@@ -4414,7 +4414,7 @@
     "variant_title": "Default Title",
     "sku": "R11605",
     "price": 41905.0,
-    "stock": 7,
+    "stock": 8,
     "url": "https://www.rasasilver.com/products/back-belt?variant=gid://shopify/ProductVariant/50808980635945",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_24Pics_20Aug21644.jpg?v=1756537405"
   },
@@ -12536,6 +12536,15 @@
     "url": "https://www.rasasilver.com/products/luvia-cz-ring?variant=gid://shopify/ProductVariant/52486730711337",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0161copy_resized_921b2877-53c9-4128-a62c-44086297b914.jpg?v=1769232678"
   },
+  "gid://shopify/ProductVariant/52486743785769": {
+    "product_title": "Glowra CZ Ring",
+    "variant_title": "Default Title",
+    "sku": "R13098",
+    "price": 1615.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/glowra-cz-ring?variant=gid://shopify/ProductVariant/52486743785769",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0189copy_resized_dfbd467d-61d9-4364-8581-892d922a9761.jpg?v=1769232915"
+  },
   "gid://shopify/ProductVariant/52486766231849": {
     "product_title": "Pinkish CZ Ring",
     "variant_title": "15",
@@ -18421,6 +18430,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/dhanvisha-temple-necklace-set?variant=gid://shopify/ProductVariant/52911495479593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0328_resized.jpg?v=1775652856"
+  },
+  "gid://shopify/ProductVariant/52911502950697": {
+    "product_title": "Seshadri Temple Oddiyanam",
+    "variant_title": "Default Title",
+    "sku": "R26672",
+    "price": 94180.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/seshadri-temple-daab?variant=gid://shopify/ProductVariant/52911502950697",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_26_Mar20655_resized.jpg?v=1775648266"
   },
   "gid://shopify/ProductVariant/52911542501673": {
     "product_title": "Shiva Parivara Temple Oddiyanam",
@@ -38249,15 +38267,6 @@
     "url": "https://www.rasasilver.com/products/gaja-nidhi-chain-copy?variant=gid://shopify/ProductVariant/52480283869481",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-5_be3a6b83-60a0-4b50-bf5e-2b0cf557387e.jpg?v=1753964177"
   },
-  "gid://shopify/ProductVariant/52486743785769": {
-    "product_title": "Glowra CZ Ring",
-    "variant_title": "Default Title",
-    "sku": "R13098",
-    "price": 1615.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/glowra-cz-ring?variant=gid://shopify/ProductVariant/52486743785769",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0189copy_resized_dfbd467d-61d9-4364-8581-892d922a9761.jpg?v=1769232915"
-  },
   "gid://shopify/ProductVariant/52486777536809": {
     "product_title": "Blue Haven Studs",
     "variant_title": "Default Title",
@@ -43585,15 +43594,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/ovalora-victorian-kada-copy?variant=gid://shopify/ProductVariant/52911255716137",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_21_Mar20278_resized.jpg?v=1775650462"
-  },
-  "gid://shopify/ProductVariant/52911502950697": {
-    "product_title": "Seshadri Temple Oddiyanam",
-    "variant_title": "Default Title",
-    "sku": "R26672",
-    "price": 94180.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/seshadri-temple-daab?variant=gid://shopify/ProductVariant/52911502950697",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_26_Mar20655_resized.jpg?v=1775648266"
   },
   "gid://shopify/ProductVariant/52911539749161": {
     "product_title": "Blossira Moissanite Tikka",
