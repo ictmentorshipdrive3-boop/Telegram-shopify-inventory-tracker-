@@ -1228,7 +1228,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-113-0056",
     "price": 1300.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/mahi-nose-pin?variant=gid://shopify/ProductVariant/42473697575139",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-113-0117.jpg?v=1645601675"
   },
@@ -90413,15 +90413,6 @@
     "url": "https://www.theamethyststore.com/products/beautiful-short-necklace-set-3?variant=gid://shopify/ProductVariant/49496641831139",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16867.jpg?v=1785818180"
   },
-  "gid://shopify/ProductVariant/49496648483043": {
-    "product_title": "Fabulous Pachi Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16886",
-    "price": 27300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/fabulous-pachi-short-necklace?variant=gid://shopify/ProductVariant/49496648483043",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16886.jpg?v=1785818365"
-  },
   "gid://shopify/ProductVariant/49496652808419": {
     "product_title": "Admirable Pachi Short Necklace",
     "variant_title": "Default Title",
@@ -126772,6 +126763,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/avikam-pendant-set-17?variant=gid://shopify/ProductVariant/49495336452323",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4857.jpg?v=1785765596"
+  },
+  "gid://shopify/ProductVariant/49496648483043": {
+    "product_title": "Fabulous Pachi Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16886",
+    "price": 27300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/fabulous-pachi-short-necklace?variant=gid://shopify/ProductVariant/49496648483043",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16886.jpg?v=1785818365"
   },
   "gid://shopify/ProductVariant/49497200754915": {
     "product_title": "Admirable Avikam Pendant Set",
