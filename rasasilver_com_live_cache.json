@@ -4414,7 +4414,7 @@
     "variant_title": "Default Title",
     "sku": "R11605",
     "price": 41905.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.rasasilver.com/products/back-belt?variant=gid://shopify/ProductVariant/50808980635945",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_24Pics_20Aug21644.jpg?v=1756537405"
   },
@@ -17450,15 +17450,6 @@
     "url": "https://www.rasasilver.com/products/neelkamali-moissanite-matil?variant=gid://shopify/ProductVariant/52871510327593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20412_resized.jpg?v=1775460362"
   },
-  "gid://shopify/ProductVariant/52871636222249": {
-    "product_title": "Trivika Stone Matil",
-    "variant_title": "Default Title",
-    "sku": "R16134",
-    "price": 13400.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/trivika-kundan-matil?variant=gid://shopify/ProductVariant/52871636222249",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20554_resized.jpg?v=1775281687"
-  },
   "gid://shopify/ProductVariant/52871680229673": {
     "product_title": "Soundarya Temple Jhumki",
     "variant_title": "Default Title",
@@ -22445,15 +22436,6 @@
     "url": "https://www.rasasilver.com/products/pushpa-chakra-stone-danglers?variant=gid://shopify/ProductVariant/53304544526633",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40277_resized.jpg?v=1783605722"
   },
-  "gid://shopify/ProductVariant/53304566382889": {
-    "product_title": "Temple Rajarajeshwari Danglers",
-    "variant_title": "Default Title",
-    "sku": "R30443",
-    "price": 10370.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/temple-rajarajeshwari-danglers?variant=gid://shopify/ProductVariant/53304566382889",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40259_resized.jpg?v=1783605893"
-  },
   "gid://shopify/ProductVariant/53304593940777": {
     "product_title": "Navaratna-Flora Stone Jhumki",
     "variant_title": "Default Title",
@@ -25045,15 +25027,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/sharvika-temple-necklace?variant=gid://shopify/ProductVariant/53399096951081",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-08-03at5.01.09PM.jpg?v=1785757273"
-  },
-  "gid://shopify/ProductVariant/53399103734057": {
-    "product_title": "Aaradhya Temple Necklace",
-    "variant_title": "Default Title",
-    "sku": "R31228",
-    "price": 32400.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/aaradhya-temple-necklace?variant=gid://shopify/ProductVariant/53399103734057",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-08-03at5.01.09PM_1.jpg?v=1785757932"
   },
   "gid://shopify/ProductVariant/53399130669353": {
     "product_title": "Vivah Glow Manglsutra",
@@ -43055,6 +43028,15 @@
     "url": "https://www.rasasilver.com/products/trikaara-pearl-matil?variant=gid://shopify/ProductVariant/52871592116521",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20525_resized.jpg?v=1775462663"
   },
+  "gid://shopify/ProductVariant/52871636222249": {
+    "product_title": "Trivika Stone Matil",
+    "variant_title": "Default Title",
+    "sku": "R16134",
+    "price": 13400.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/trivika-kundan-matil?variant=gid://shopify/ProductVariant/52871636222249",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20554_resized.jpg?v=1775281687"
+  },
   "gid://shopify/ProductVariant/52871699923241": {
     "product_title": "Madhulika Temple Jhumki",
     "variant_title": "Default Title",
@@ -46241,6 +46223,15 @@
     "url": "https://www.rasasilver.com/products/neela-mor-nakshi-bangles?variant=gid://shopify/ProductVariant/53304496128297",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41365_resized.jpg?v=1783748604"
   },
+  "gid://shopify/ProductVariant/53304566382889": {
+    "product_title": "Temple Rajarajeshwari Danglers",
+    "variant_title": "Default Title",
+    "sku": "R30443",
+    "price": 10370.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/temple-rajarajeshwari-danglers?variant=gid://shopify/ProductVariant/53304566382889",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40259_resized.jpg?v=1783605893"
+  },
   "gid://shopify/ProductVariant/53304579293481": {
     "product_title": "Hariyali Stone Hangings",
     "variant_title": "Default Title",
@@ -47131,6 +47122,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/twinshakti-kundan-pendant?variant=gid://shopify/ProductVariant/53398983311657",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-08-03at4.40.06PM.jpg?v=1785760499"
+  },
+  "gid://shopify/ProductVariant/53399103734057": {
+    "product_title": "Aaradhya Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R31228",
+    "price": 32400.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/aaradhya-temple-necklace?variant=gid://shopify/ProductVariant/53399103734057",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-08-03at5.01.09PM_1.jpg?v=1785757932"
   },
   "gid://shopify/ProductVariant/53403196129577": {
     "product_title": "Radha-Krishna Temple Necklace",
