@@ -82084,7 +82084,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-16502",
     "price": 5100.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/hasli-necklace-26?variant=gid://shopify/ProductVariant/49388904939747",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16502.jpg?v=1783668351"
   },
@@ -92131,15 +92131,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/dhanisha-kundan-short-necklace?variant=gid://shopify/ProductVariant/49507819716835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17485.jpg?v=1786085852"
-  },
-  "gid://shopify/ProductVariant/49507821256931": {
-    "product_title": "Rashika Avikam Pendant Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-4862",
-    "price": 8700.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/avikam-pendant-set-41?variant=gid://shopify/ProductVariant/49507821256931",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4862.jpg?v=1786085897"
   },
   "gid://shopify/ProductVariant/49507823780067": {
     "product_title": "Shinning Kundan Short Necklace",
@@ -127744,6 +127735,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/ashikha-kundan-short-necklace?variant=gid://shopify/ProductVariant/49507803824355",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17484.jpg?v=1786085352"
+  },
+  "gid://shopify/ProductVariant/49507821256931": {
+    "product_title": "Rashika Avikam Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4862",
+    "price": 8700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/avikam-pendant-set-41?variant=gid://shopify/ProductVariant/49507821256931",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4862.jpg?v=1786085897"
   },
   "gid://shopify/ProductVariant/49507850518755": {
     "product_title": "Sherinka Avikam Pendant Set",
