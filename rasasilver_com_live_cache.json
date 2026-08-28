@@ -11663,15 +11663,6 @@
     "url": "https://www.rasasilver.com/products/moonlight-cz-necklace-set?variant=gid://shopify/ProductVariant/52419983573289",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_72Pics_10Jan3135_resized.jpg?v=1769596783"
   },
-  "gid://shopify/ProductVariant/52420011852073": {
-    "product_title": "Peacock Nakshi Necklace",
-    "variant_title": "Default Title",
-    "sku": "R22272",
-    "price": 34340.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/peacock-nakshi-necklace?variant=gid://shopify/ProductVariant/52420011852073",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_silverMood_10Jan0301_resized.jpg?v=1769597139"
-  },
   "gid://shopify/ProductVariant/52420015391017": {
     "product_title": "Gajraj Nakshi Necklace",
     "variant_title": "Default Title",
@@ -14557,7 +14548,7 @@
     "variant_title": "Default Title",
     "sku": "R24793",
     "price": 21760.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/two-layers-antique-mala?variant=gid://shopify/ProductVariant/52668091892009",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4200.jpg?v=1771089792"
   },
@@ -17950,7 +17941,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R26909",
     "price": 39400.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/peravia-bloomara-cz-necklace-set?variant=gid://shopify/ProductVariant/52882335138089",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0028_resized.jpg?v=1775559190"
   },
@@ -18214,6 +18205,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/sindhura-temple-necklace?variant=gid://shopify/ProductVariant/52889856475433",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar01721_resized.jpg?v=1775200068"
+  },
+  "gid://shopify/ProductVariant/52889885016361": {
+    "product_title": "Indira Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R26317",
+    "price": 8160.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/indira-temple-necklace?variant=gid://shopify/ProductVariant/52889885016361",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0142_resized.jpg?v=1775208186"
   },
   "gid://shopify/ProductVariant/52889937477929": {
     "product_title": "Hemamalini Temple Necklace",
@@ -21526,15 +21526,6 @@
     "stock": 4,
     "url": "https://www.rasasilver.com/products/one-shine-ring?variant=gid://shopify/ProductVariant/53288180515113",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5672_resized.jpg?v=1782367619"
-  },
-  "gid://shopify/ProductVariant/53288183136553": {
-    "product_title": "Loop-Love Ring",
-    "variant_title": "Default Title",
-    "sku": "R31585",
-    "price": 1445.0,
-    "stock": 2,
-    "url": "https://www.rasasilver.com/products/loop-love-ring?variant=gid://shopify/ProductVariant/53288183136553",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5722_resized.jpg?v=1782368066"
   },
   "gid://shopify/ProductVariant/53288189690153": {
     "product_title": "Serpent Twist Ring",
@@ -37259,6 +37250,15 @@
     "url": "https://www.rasasilver.com/products/starburst-cz-necklace-set?variant=gid://shopify/ProductVariant/52419948609833",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_72Pics_10Jan3126_resized.jpg?v=1769596584"
   },
+  "gid://shopify/ProductVariant/52420011852073": {
+    "product_title": "Peacock Nakshi Necklace",
+    "variant_title": "Default Title",
+    "sku": "R22272",
+    "price": 34340.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/peacock-nakshi-necklace?variant=gid://shopify/ProductVariant/52420011852073",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_silverMood_10Jan0301_resized.jpg?v=1769597139"
+  },
   "gid://shopify/ProductVariant/52420034887977": {
     "product_title": "Morni Kundan Necklace",
     "variant_title": "Default Title",
@@ -43379,15 +43379,6 @@
     "url": "https://www.rasasilver.com/products/rectina-florina-cz-necklace-set-copy?variant=gid://shopify/ProductVariant/52886051553577",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar00132_resized.jpg?v=1775555926"
   },
-  "gid://shopify/ProductVariant/52889885016361": {
-    "product_title": "Indira Temple Necklace",
-    "variant_title": "Default Title",
-    "sku": "R26317",
-    "price": 8160.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/indira-temple-necklace?variant=gid://shopify/ProductVariant/52889885016361",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0142_resized.jpg?v=1775208186"
-  },
   "gid://shopify/ProductVariant/52890021495081": {
     "product_title": "Haripriya Temple Necklace",
     "variant_title": "Default Title",
@@ -45862,6 +45853,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/mystic-snake-cz-ring?variant=gid://shopify/ProductVariant/53286167675177",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5740_resized.jpg?v=1782297759"
+  },
+  "gid://shopify/ProductVariant/53288183136553": {
+    "product_title": "Loop-Love Ring",
+    "variant_title": "Default Title",
+    "sku": "R31585",
+    "price": 1445.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/loop-love-ring?variant=gid://shopify/ProductVariant/53288183136553",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5722_resized.jpg?v=1782368066"
   },
   "gid://shopify/ProductVariant/53288358445353": {
     "product_title": "Classic Cube Studs",
