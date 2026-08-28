@@ -23926,7 +23926,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-0923",
     "price": 6261.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/stella-victorian-ring?variant=gid://shopify/ProductVariant/46767797764323",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0923.jpg?v=1751364770"
   },
@@ -35320,7 +35320,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-0838",
     "price": 29000.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/bold-blue-bracelet?variant=gid://shopify/ProductVariant/47141716197603",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-0838_2.jpg?v=1757228694"
   },
@@ -68443,15 +68443,6 @@
     "stock": 4,
     "url": "https://www.theamethyststore.com/products/pair-bangle-26?variant=gid://shopify/ProductVariant/48913896308963",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1927_2.jpg?v=1778055776"
-  },
-  "gid://shopify/ProductVariant/48913900208355": {
-    "product_title": "Methika Pair Bangle",
-    "variant_title": "2.6\"",
-    "sku": "AMS-107-3123-2.6\"",
-    "price": 33264.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/pair-bangle-27?variant=gid://shopify/ProductVariant/48913900208355",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3123_2.jpg?v=1778056095"
   },
   "gid://shopify/ProductVariant/48913900732643": {
     "product_title": "Mesmeric Nagas Pendant",
@@ -120616,6 +120607,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/enchanting-nagas-pendant?variant=gid://shopify/ProductVariant/48913896046819",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4016.jpg?v=1778055624"
+  },
+  "gid://shopify/ProductVariant/48913900208355": {
+    "product_title": "Methika Pair Bangle",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-3123-2.6\"",
+    "price": 33264.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/pair-bangle-27?variant=gid://shopify/ProductVariant/48913900208355",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3123_2.jpg?v=1778056095"
   },
   "gid://shopify/ProductVariant/48913907646691": {
     "product_title": "Shimmering Nagas Pendant",
