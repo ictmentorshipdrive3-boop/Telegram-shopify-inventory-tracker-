@@ -1858,7 +1858,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-0169",
     "price": 3426.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/cygnet-chain?variant=gid://shopify/ProductVariant/43120688627939",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-105-0169.jpg?v=1657630568"
   },
@@ -2083,7 +2083,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-0223",
     "price": 3080.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/artistic-s-chain?variant=gid://shopify/ProductVariant/43184382804195",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-105-0223.jpg?v=1659358389"
   },
@@ -2339,6 +2339,15 @@
     "url": "https://www.theamethyststore.com/products/finest-stone-necklace?variant=gid://shopify/ProductVariant/43308217958627",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-3347.jpg?v=1744692839"
   },
+  "gid://shopify/ProductVariant/43309396099299": {
+    "product_title": "Traingle Shaped Stud",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-3385",
+    "price": 9110.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/traingle-shaped-stud?variant=gid://shopify/ProductVariant/43309396099299",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3385.jpg?v=1675581403"
+  },
   "gid://shopify/ProductVariant/43309488701667": {
     "product_title": "Voguish Hook Drops",
     "variant_title": "Default Title",
@@ -2353,9 +2362,18 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-3380",
     "price": 8475.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/shimmer-hook-earrings?variant=gid://shopify/ProductVariant/43309496467683",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-3380.jpg?v=1695720720"
+  },
+  "gid://shopify/ProductVariant/43309534413027": {
+    "product_title": "Blue Finish Hook Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-3376",
+    "price": 11920.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/blue-finish-hook-earrings?variant=gid://shopify/ProductVariant/43309534413027",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS09656.jpg?v=1687776438"
   },
   "gid://shopify/ProductVariant/43309584679139": {
     "product_title": "Cutie Hook Earrings",
@@ -2416,7 +2434,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-3371",
     "price": 20322.0,
-    "stock": 1,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/crocus-nice-earrings?variant=gid://shopify/ProductVariant/43309696811235",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS09692.jpg?v=1687776176"
   },
@@ -2843,6 +2861,15 @@
     "url": "https://www.theamethyststore.com/products/sylvan-hand-painted-earrings?variant=gid://shopify/ProductVariant/43489408712931",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-3763.jpg?v=1777791246"
   },
+  "gid://shopify/ProductVariant/43489531003107": {
+    "product_title": "Hand Tint Hook Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-3758",
+    "price": 23376.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/hand-tint-hook-earrings?variant=gid://shopify/ProductVariant/43489531003107",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-3758.jpg?v=1695720645"
+  },
   "gid://shopify/ProductVariant/43491115565283": {
     "product_title": "Aarohi Pichwai Earrings",
     "variant_title": "Default Title",
@@ -2878,6 +2905,24 @@
     "stock": 3,
     "url": "https://www.theamethyststore.com/products/arini-dual-kind-earrings?variant=gid://shopify/ProductVariant/43491213115619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-3750.jpg?v=1695720525"
+  },
+  "gid://shopify/ProductVariant/43492365402339": {
+    "product_title": "Dark Shine Hook Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-3749",
+    "price": 23984.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/dark-shine-hook-earrings?variant=gid://shopify/ProductVariant/43492365402339",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS09562.jpg?v=1687776990"
+  },
+  "gid://shopify/ProductVariant/43492523901155": {
+    "product_title": "Reddish Hand Painted Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-3746",
+    "price": 15699.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/reddish-hand-painted-earrings?variant=gid://shopify/ProductVariant/43492523901155",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3746.jpg?v=1667394273"
   },
   "gid://shopify/ProductVariant/43501536313571": {
     "product_title": "Amika Nagas Necklace",
@@ -12742,15 +12787,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/kanishq-stone-short-necklace?variant=gid://shopify/ProductVariant/45601862844643",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7479.jpg?v=1728464684"
-  },
-  "gid://shopify/ProductVariant/45601873494243": {
-    "product_title": "Ayanthika Stone Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-7481",
-    "price": 23292.26,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/ayanthika-stone-short-necklace?variant=gid://shopify/ProductVariant/45601873494243",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7481.jpg?v=1728465084"
   },
   "gid://shopify/ProductVariant/45602452177123": {
     "product_title": "Praganya Kundan Earrings",
@@ -54197,15 +54233,6 @@
     "url": "https://www.theamethyststore.com/products/sithika-stone-studs?variant=gid://shopify/ProductVariant/47854945009891",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11885.jpg?v=1768889676"
   },
-  "gid://shopify/ProductVariant/47854960672995": {
-    "product_title": "Rethikha Nagas Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-14006",
-    "price": 87640.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/rethikha-nagas-long-necklace-1?variant=gid://shopify/ProductVariant/47854960672995",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14006.jpg?v=1768890103"
-  },
   "gid://shopify/ProductVariant/47854981775587": {
     "product_title": "Lithya Stone Studs",
     "variant_title": "Default Title",
@@ -58705,15 +58732,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/short-necklace-set-33?variant=gid://shopify/ProductVariant/48108660883683",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14892_a377cb63-78c7-4afb-aad1-b8c179a3909a.jpg?v=1774603240"
-  },
-  "gid://shopify/ProductVariant/48109587792099": {
-    "product_title": "Halo Haze Long Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-14308",
-    "price": 99487.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/halo-haze-long-necklace-set?variant=gid://shopify/ProductVariant/48109587792099",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14308_cbd25da5-b08c-4f31-9aba-93edd2200958.jpg?v=1771413973"
   },
   "gid://shopify/ProductVariant/48110875017443": {
     "product_title": "Nishanthi Kundan Long Earrings",
@@ -81301,7 +81319,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-14879",
     "price": 3000.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/kundan-studs-11?variant=gid://shopify/ProductVariant/49373451682019",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14879.jpg?v=1783419166"
   },
@@ -105290,24 +105308,6 @@
     "url": "https://www.theamethyststore.com/products/gleam-navarathna-stone-pendant?variant=gid://shopify/ProductVariant/43309205881059",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-0967.jpg?v=1760774528"
   },
-  "gid://shopify/ProductVariant/43309396099299": {
-    "product_title": "Traingle Shaped Stud",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-3385",
-    "price": 9110.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/traingle-shaped-stud?variant=gid://shopify/ProductVariant/43309396099299",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3385.jpg?v=1675581403"
-  },
-  "gid://shopify/ProductVariant/43309534413027": {
-    "product_title": "Blue Finish Hook Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-3376",
-    "price": 11920.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/blue-finish-hook-earrings?variant=gid://shopify/ProductVariant/43309534413027",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS09656.jpg?v=1687776438"
-  },
   "gid://shopify/ProductVariant/43320604328163": {
     "product_title": "Cristy Studs",
     "variant_title": "Default Title",
@@ -105397,33 +105397,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/wondrous-kundan-bracelet?variant=gid://shopify/ProductVariant/43486247059683",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-103-0270.jpg?v=1667194227"
-  },
-  "gid://shopify/ProductVariant/43489531003107": {
-    "product_title": "Hand Tint Hook Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-3758",
-    "price": 23376.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/hand-tint-hook-earrings?variant=gid://shopify/ProductVariant/43489531003107",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-3758.jpg?v=1695720645"
-  },
-  "gid://shopify/ProductVariant/43492365402339": {
-    "product_title": "Dark Shine Hook Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-3749",
-    "price": 23984.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/dark-shine-hook-earrings?variant=gid://shopify/ProductVariant/43492365402339",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS09562.jpg?v=1687776990"
-  },
-  "gid://shopify/ProductVariant/43492523901155": {
-    "product_title": "Reddish Hand Painted Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-3746",
-    "price": 15699.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/reddish-hand-painted-earrings?variant=gid://shopify/ProductVariant/43492523901155",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3746.jpg?v=1667394273"
   },
   "gid://shopify/ProductVariant/43495123845347": {
     "product_title": "Lovely Kundan Maangtikka",
@@ -107665,6 +107638,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/gleaming-stone-maatal?variant=gid://shopify/ProductVariant/45598336352483",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1191.jpg?v=1728393457"
+  },
+  "gid://shopify/ProductVariant/45601873494243": {
+    "product_title": "Ayanthika Stone Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-7481",
+    "price": 23292.26,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ayanthika-stone-short-necklace?variant=gid://shopify/ProductVariant/45601873494243",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7481.jpg?v=1728465084"
   },
   "gid://shopify/ProductVariant/45628741746915": {
     "product_title": "Zara Oxidised Pair Bangles",
@@ -116477,6 +116459,15 @@
     "url": "https://www.theamethyststore.com/products/sripura-nagas-short-necklace?variant=gid://shopify/ProductVariant/47854829109475",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14003.jpg?v=1768886373"
   },
+  "gid://shopify/ProductVariant/47854960672995": {
+    "product_title": "Rethikha Nagas Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-14006",
+    "price": 87640.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/rethikha-nagas-long-necklace-1?variant=gid://shopify/ProductVariant/47854960672995",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14006.jpg?v=1768890103"
+  },
   "gid://shopify/ProductVariant/47855048589539": {
     "product_title": "Jevisha Stone Studs",
     "variant_title": "Default Title",
@@ -117538,6 +117529,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/astraea-short-necklace-set?variant=gid://shopify/ProductVariant/48106903994595",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11410_3.jpg?v=1774588395"
+  },
+  "gid://shopify/ProductVariant/48109587792099": {
+    "product_title": "Halo Haze Long Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-14308",
+    "price": 99487.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/halo-haze-long-necklace-set?variant=gid://shopify/ProductVariant/48109587792099",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14308_cbd25da5-b08c-4f31-9aba-93edd2200958.jpg?v=1771413973"
   },
   "gid://shopify/ProductVariant/48123103674595": {
     "product_title": "Yashini Attigai Necklace",
