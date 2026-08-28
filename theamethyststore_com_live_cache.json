@@ -42340,7 +42340,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-11580",
     "price": 20749.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/rehana-attigai-necklace?variant=gid://shopify/ProductVariant/47350428860643",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11580.jpg?v=1760876200"
   },
@@ -51019,15 +51019,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/nagas-nakshi-pendant-2?variant=gid://shopify/ProductVariant/47804902670563",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3127.jpg?v=1767872698"
-  },
-  "gid://shopify/ProductVariant/47804978954467": {
-    "product_title": "Navarathna Kundan Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-3112",
-    "price": 10650.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/navarathna-kundan-pendant?variant=gid://shopify/ProductVariant/47804978954467",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3112.jpg?v=1767875542"
   },
   "gid://shopify/ProductVariant/47804985999587": {
     "product_title": "Gleaming Stone Ring",
@@ -115603,6 +115594,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/glitz-kundan-pendant?variant=gid://shopify/ProductVariant/47804964471011",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3116.jpg?v=1767875276"
+  },
+  "gid://shopify/ProductVariant/47804978954467": {
+    "product_title": "Navarathna Kundan Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-3112",
+    "price": 10650.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/navarathna-kundan-pendant?variant=gid://shopify/ProductVariant/47804978954467",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3112.jpg?v=1767875542"
   },
   "gid://shopify/ProductVariant/47806386700515": {
     "product_title": "Nidhika  Nagas Pendant",
