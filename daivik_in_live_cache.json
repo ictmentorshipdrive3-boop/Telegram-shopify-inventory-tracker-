@@ -5863,7 +5863,7 @@
     "variant_title": "Default Title",
     "sku": "367",
     "price": 999.0,
-    "stock": 37,
+    "stock": 36,
     "url": "https://www.daivik.in/products/antique-matte-finish-lakshmi-peacock-jhumkas?variant=gid://shopify/ProductVariant/44665226035422",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0140D6CA-AE5E-456B-9707-71FA3598F63A.jpg?v=1705071171"
   },
@@ -10663,15 +10663,6 @@
     "stock": 56,
     "url": "https://www.daivik.in/products/designer-pastel-ad-studs?variant=gid://shopify/ProductVariant/46292552909022",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_2211.jpg?v=1739775672"
-  },
-  "gid://shopify/ProductVariant/46293338882270": {
-    "product_title": "Lakshmi Cluster Pearl Hasli Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "1219",
-    "price": 1299.0,
-    "stock": 5,
-    "url": "https://www.daivik.in/products/lakshmi-cluster-pearl-hasli-necklace-with-earrings?variant=gid://shopify/ProductVariant/46293338882270",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E012C375-82FF-428E-87A2-DE5EB3CEDA79.jpg?v=1739798799"
   },
   "gid://shopify/ProductVariant/46296032674014": {
     "product_title": "Kemp AD Golden Beads Choker with Earrings",
@@ -20164,7 +20155,7 @@
     "variant_title": "Green",
     "sku": "1913",
     "price": 299.0,
-    "stock": 55,
+    "stock": 54,
     "url": "https://www.daivik.in/products/ad-non-piercing-nosepin-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/48341912420574",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5358.jpg?v=1781711079"
   },
@@ -21229,15 +21220,6 @@
     "stock": 5,
     "url": "https://www.daivik.in/products/balaji-haram?variant=gid://shopify/ProductVariant/48624208937182",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5F1292F7-1238-4DCB-B513-CCB1A7D8A251.jpg?v=1787331525"
-  },
-  "gid://shopify/ProductVariant/48629356986590": {
-    "product_title": "Balaji Black Thread Bracelet",
-    "variant_title": "Default Title",
-    "sku": "1951",
-    "price": 499.0,
-    "stock": 4,
-    "url": "https://www.daivik.in/products/balaji-black-thread-bracelet?variant=gid://shopify/ProductVariant/48629356986590",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0C8C6CF4-59B8-47AB-94C1-9DB2B7F85904.jpg?v=1787399713"
   },
   "gid://shopify/ProductVariant/48630564880606": {
     "product_title": "Diamond Look Alike 3 Layer Flower Necklace with Earrings",
@@ -27062,6 +27044,15 @@
     "url": "https://www.daivik.in/products/lakshmi-ruby-green-short-jada-billa?variant=gid://shopify/ProductVariant/46289875534046",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6FE68022-48A5-4D5B-AF70-082929FAC854.jpg?v=1739682833"
   },
+  "gid://shopify/ProductVariant/46293338882270": {
+    "product_title": "Lakshmi Cluster Pearl Hasli Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "1219",
+    "price": 1299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/lakshmi-cluster-pearl-hasli-necklace-with-earrings?variant=gid://shopify/ProductVariant/46293338882270",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E012C375-82FF-428E-87A2-DE5EB3CEDA79.jpg?v=1739798799"
+  },
   "gid://shopify/ProductVariant/46298739409118": {
     "product_title": "Invisible AD Chain with Earrings in Two Colors (Price for Each)",
     "variant_title": "Green",
@@ -30670,5 +30661,14 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-lakshmi-kada?variant=gid://shopify/ProductVariant/48606013161694",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C212A11D-8F23-46DE-8894-E34661B11E0C.jpg?v=1786900231"
+  },
+  "gid://shopify/ProductVariant/48629356986590": {
+    "product_title": "Balaji Black Thread Bracelet",
+    "variant_title": "Default Title",
+    "sku": "1951",
+    "price": 499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/balaji-black-thread-bracelet?variant=gid://shopify/ProductVariant/48629356986590",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0C8C6CF4-59B8-47AB-94C1-9DB2B7F85904.jpg?v=1787399713"
   }
 }
