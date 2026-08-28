@@ -11938,7 +11938,7 @@
     "variant_title": "2.6\"",
     "sku": "AMS-107-1396-2.6\"",
     "price": 26860.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/vikshi-kundan-pair-bangle?variant=gid://shopify/ProductVariant/45514132619491",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1396.jpg?v=1726312622"
   },
@@ -66500,15 +66500,6 @@
     "url": "https://www.theamethyststore.com/products/shreya-avikam-bracelet?variant=gid://shopify/ProductVariant/48873938026723",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1241.jpg?v=1777208975"
   },
-  "gid://shopify/ProductVariant/48873947889891": {
-    "product_title": "Flawless Nagas Kaasu Maalai Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15472",
-    "price": 102900.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/flawless-nagas-kaasu-maalai-necklace?variant=gid://shopify/ProductVariant/48873947889891",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15472_2.jpg?v=1777211546"
-  },
   "gid://shopify/ProductVariant/48873951887587": {
     "product_title": "Bindhu Kaasu Malai Necklace",
     "variant_title": "Default Title",
@@ -76966,15 +76957,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/kundan-short-necklace-37?variant=gid://shopify/ProductVariant/49320025260259",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16486.jpg?v=1782538214"
-  },
-  "gid://shopify/ProductVariant/49320029290723": {
-    "product_title": "Stunning Kundan Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16487",
-    "price": 88400.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/stunning-kundan-short-necklace?variant=gid://shopify/ProductVariant/49320029290723",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16487.jpg?v=1782538664"
   },
   "gid://shopify/ProductVariant/49320035778787": {
     "product_title": "Unique Charm Reversible Short Necklace",
@@ -120041,6 +120023,15 @@
     "url": "https://www.theamethyststore.com/products/classy-nagas-kaasu-maalai-necklace?variant=gid://shopify/ProductVariant/48873942483171",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15470_2.jpg?v=1777210946"
   },
+  "gid://shopify/ProductVariant/48873947889891": {
+    "product_title": "Flawless Nagas Kaasu Maalai Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15472",
+    "price": 102900.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/flawless-nagas-kaasu-maalai-necklace?variant=gid://shopify/ProductVariant/48873947889891",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15472_2.jpg?v=1777211546"
+  },
   "gid://shopify/ProductVariant/48873949724899": {
     "product_title": "Divine Kaasu Malai Necklace",
     "variant_title": "Default Title",
@@ -124477,6 +124468,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/kundan-short-necklace-33?variant=gid://shopify/ProductVariant/49319995146467",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16479_2.jpg?v=1782536876"
+  },
+  "gid://shopify/ProductVariant/49320029290723": {
+    "product_title": "Stunning Kundan Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16487",
+    "price": 88400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/stunning-kundan-short-necklace?variant=gid://shopify/ProductVariant/49320029290723",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16487.jpg?v=1782538664"
   },
   "gid://shopify/ProductVariant/49320112554211": {
     "product_title": "Forever Chic Long Necklace",
