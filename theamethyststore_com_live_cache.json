@@ -30127,7 +30127,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-9054",
     "price": 2904.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/classic-look-studs?variant=gid://shopify/ProductVariant/47044812013795",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9054.jpg?v=1755782570"
   },
@@ -48301,15 +48301,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/reyna-long-necklace-set?variant=gid://shopify/ProductVariant/47726194950371",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12835.jpg?v=1765447241"
-  },
-  "gid://shopify/ProductVariant/47726210515171": {
-    "product_title": "Rebina Long Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-12838",
-    "price": 13154.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/rebina-long-necklace-set?variant=gid://shopify/ProductVariant/47726210515171",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12838.jpg?v=1765447502"
   },
   "gid://shopify/ProductVariant/47726373404899": {
     "product_title": "Temple Charm Long Earrings",
@@ -115027,6 +115018,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/dazzle-long-necklace-set?variant=gid://shopify/ProductVariant/47726145044707",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12825.jpg?v=1765446633"
+  },
+  "gid://shopify/ProductVariant/47726210515171": {
+    "product_title": "Rebina Long Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-12838",
+    "price": 13154.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/rebina-long-necklace-set?variant=gid://shopify/ProductVariant/47726210515171",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12838.jpg?v=1765447502"
   },
   "gid://shopify/ProductVariant/47726332477667": {
     "product_title": "Ishitha Chandubaali Earrings",
