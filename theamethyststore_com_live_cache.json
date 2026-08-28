@@ -42038,15 +42038,6 @@
     "url": "https://www.theamethyststore.com/products/appealing-nagas-short-necklace-set?variant=gid://shopify/ProductVariant/47338272751843",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12459.jpg?v=1760764102"
   },
-  "gid://shopify/ProductVariant/47338760274147": {
-    "product_title": "Zyan Nagas Bracelet",
-    "variant_title": "Default Title",
-    "sku": "AMS-103-0945",
-    "price": 26600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/zyan-nagas-bracelet?variant=gid://shopify/ProductVariant/47338760274147",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-0945-_3.jpg?v=1760765653"
-  },
   "gid://shopify/ProductVariant/47338859757795": {
     "product_title": "Anitha Nagas Jhumkas",
     "variant_title": "Default Title",
@@ -73673,15 +73664,6 @@
     "url": "https://www.theamethyststore.com/products/grand-luxurious-nagas-oddiyanam?variant=gid://shopify/ProductVariant/49268005273827",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0898.jpg?v=1781609113"
   },
-  "gid://shopify/ProductVariant/49268010123491": {
-    "product_title": "Sanchitha Plain Chain",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-1902",
-    "price": 14600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/plain-chain-2?variant=gid://shopify/ProductVariant/49268010123491",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1902.jpg?v=1781609150"
-  },
   "gid://shopify/ProductVariant/49268020150499": {
     "product_title": "Dhanusha Nagas Oddiyanam",
     "variant_title": "Default Title",
@@ -77200,15 +77182,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/lunora-kundan-short-necklace?variant=gid://shopify/ProductVariant/49320160133347",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16482.jpg?v=1782546153"
-  },
-  "gid://shopify/ProductVariant/49320160166115": {
-    "product_title": "Yashmikaa Kundan Pair Bangle",
-    "variant_title": "2.8\"",
-    "sku": "AMS-107-3317-2.8\"",
-    "price": 52800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kundan-pair-bangle-14?variant=gid://shopify/ProductVariant/49320160166115",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3317_2.jpg?v=1782546156"
   },
   "gid://shopify/ProductVariant/49320161181923": {
     "product_title": "Zirelle Kundan Short Necklace",
@@ -113669,6 +113642,15 @@
     "url": "https://www.theamethyststore.com/products/long-necklace-12?variant=gid://shopify/ProductVariant/47334918750435",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12363.jpg?v=1760678065"
   },
+  "gid://shopify/ProductVariant/47338760274147": {
+    "product_title": "Zyan Nagas Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-0945",
+    "price": 26600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/zyan-nagas-bracelet?variant=gid://shopify/ProductVariant/47338760274147",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-0945-_3.jpg?v=1760765653"
+  },
   "gid://shopify/ProductVariant/47338953670883": {
     "product_title": "Shanvi Nagas Jhumkas",
     "variant_title": "Default Title",
@@ -122786,6 +122768,15 @@
     "url": "https://www.theamethyststore.com/products/bracelet-19?variant=gid://shopify/ProductVariant/49268002128099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1323-2.6.jpg?v=1781608725"
   },
+  "gid://shopify/ProductVariant/49268010123491": {
+    "product_title": "Sanchitha Plain Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-1902",
+    "price": 14600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/plain-chain-2?variant=gid://shopify/ProductVariant/49268010123491",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1902.jpg?v=1781609150"
+  },
   "gid://shopify/ProductVariant/49268028801251": {
     "product_title": "Traditional 3D Spl Oddiyanam",
     "variant_title": "Default Title",
@@ -124513,6 +124504,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/kundan-pair-bangle-13?variant=gid://shopify/ProductVariant/49320152695011",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3316_2.jpg?v=1782545537"
+  },
+  "gid://shopify/ProductVariant/49320160166115": {
+    "product_title": "Yashmikaa Kundan Pair Bangle",
+    "variant_title": "2.8\"",
+    "sku": "AMS-107-3317-2.8\"",
+    "price": 52800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kundan-pair-bangle-14?variant=gid://shopify/ProductVariant/49320160166115",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3317_2.jpg?v=1782546156"
   },
   "gid://shopify/ProductVariant/49320162722019": {
     "product_title": "Manisha Nagas Jhumkas",
