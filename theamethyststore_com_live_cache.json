@@ -256,7 +256,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-1300",
     "price": 39450.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/amethyst-beads?variant=gid://shopify/ProductVariant/37808454795414",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS09845.jpg?v=1686577092"
   },
@@ -50305,7 +50305,7 @@
     "variant_title": "2.6\"",
     "sku": "AMS-107-2995-2.6\"",
     "price": 69200.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/elina-nagas-pair-bangles?variant=gid://shopify/ProductVariant/47797070692579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2995.jpg?v=1767675604"
   },
@@ -58489,15 +58489,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/shritha-kundan-studs-2?variant=gid://shopify/ProductVariant/48095262081251",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12963.jpg?v=1770700254"
-  },
-  "gid://shopify/ProductVariant/48095265226979": {
-    "product_title": "Krithika Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-12476",
-    "price": 31294.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/krithika-short-necklace-set-1?variant=gid://shopify/ProductVariant/48095265226979",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12476.jpg?v=1770700481"
   },
   "gid://shopify/ProductVariant/48095268110563": {
     "product_title": "Glara Kundan Studs",
@@ -67477,7 +67468,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-1878",
     "price": 22600.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/joshika-chain-with-earrings?variant=gid://shopify/ProductVariant/48903414546659",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1878.jpg?v=1777808163"
   },
@@ -82231,15 +82222,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/hasli-with-pendant-3?variant=gid://shopify/ProductVariant/49389905084643",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16589.jpg?v=1783678931"
-  },
-  "gid://shopify/ProductVariant/49389991756003": {
-    "product_title": "Srisha Hasli with Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16607",
-    "price": 13600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/hasli-with-pendant-4?variant=gid://shopify/ProductVariant/49389991756003",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16607.jpg?v=1783679162"
   },
   "gid://shopify/ProductVariant/49390061813987": {
     "product_title": "Aadhiraa Hasli with Pendant",
@@ -117332,6 +117314,15 @@
     "url": "https://www.theamethyststore.com/products/dhishya-kundan-studs?variant=gid://shopify/ProductVariant/48095258738915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12960.jpg?v=1770699977"
   },
+  "gid://shopify/ProductVariant/48095265226979": {
+    "product_title": "Krithika Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-12476",
+    "price": 31294.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/krithika-short-necklace-set-1?variant=gid://shopify/ProductVariant/48095265226979",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12476.jpg?v=1770700481"
+  },
   "gid://shopify/ProductVariant/48095272894691": {
     "product_title": "Vimala Nagas Long Necklace",
     "variant_title": "Default Title",
@@ -126016,6 +126007,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/hasli-necklace-33?variant=gid://shopify/ProductVariant/49389195952355",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17084.jpg?v=1783670499"
+  },
+  "gid://shopify/ProductVariant/49389991756003": {
+    "product_title": "Srisha Hasli with Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16607",
+    "price": 13600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/hasli-with-pendant-4?variant=gid://shopify/ProductVariant/49389991756003",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16607.jpg?v=1783679162"
   },
   "gid://shopify/ProductVariant/49390218871011": {
     "product_title": "Stunning Hasli with Pendant",
