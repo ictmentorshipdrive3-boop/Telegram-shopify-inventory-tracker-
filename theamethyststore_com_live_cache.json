@@ -26468,15 +26468,6 @@
     "url": "https://www.theamethyststore.com/products/graceful-nagas-long-necklace?variant=gid://shopify/ProductVariant/46947272360163",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10636.jpg?v=1753686972"
   },
-  "gid://shopify/ProductVariant/46947290153187": {
-    "product_title": "Anicha Nagas Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-10603",
-    "price": 75529.8,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/anicha-nagas-short-necklace?variant=gid://shopify/ProductVariant/46947290153187",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10603.jpg?v=1753687396"
-  },
   "gid://shopify/ProductVariant/46947298509027": {
     "product_title": "Bhavisha Nagas Short Necklace",
     "variant_title": "Default Title",
@@ -42466,7 +42457,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-12250",
     "price": 14000.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/attractive-rose-hasli-necklace?variant=gid://shopify/ProductVariant/47372429295843",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12250.jpg?v=1761115380"
   },
@@ -48904,15 +48895,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/dipthikha-kundan-choker?variant=gid://shopify/ProductVariant/47739045576931",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13333.jpg?v=1765862766"
-  },
-  "gid://shopify/ProductVariant/47739069563107": {
-    "product_title": "Gorgeous Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-13336",
-    "price": 130682.6,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/gorgeous-long-necklace-2?variant=gid://shopify/ProductVariant/47739069563107",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13336.jpg?v=1765863903"
   },
   "gid://shopify/ProductVariant/47739086176483": {
     "product_title": "Facinate Victorian Pair Bangles",
@@ -110555,6 +110537,15 @@
     "url": "https://www.theamethyststore.com/products/dazzling-nagas-long-necklace?variant=gid://shopify/ProductVariant/46947240640739",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10631.jpg?v=1753686262"
   },
+  "gid://shopify/ProductVariant/46947290153187": {
+    "product_title": "Anicha Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-10603",
+    "price": 75529.8,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/anicha-nagas-short-necklace?variant=gid://shopify/ProductVariant/46947290153187",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10603.jpg?v=1753687396"
+  },
   "gid://shopify/ProductVariant/46947366404323": {
     "product_title": "Vennila Nagas Short Necklace Set",
     "variant_title": "Default Title",
@@ -115027,6 +115018,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/vishaka-jhumkas?variant=gid://shopify/ProductVariant/47737726959843",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11609.jpg?v=1765806892"
+  },
+  "gid://shopify/ProductVariant/47739069563107": {
+    "product_title": "Gorgeous Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-13336",
+    "price": 130682.6,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/gorgeous-long-necklace-2?variant=gid://shopify/ProductVariant/47739069563107",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13336.jpg?v=1765863903"
   },
   "gid://shopify/ProductVariant/47739407991011": {
     "product_title": "Lahitha Hook Jhumkas",
