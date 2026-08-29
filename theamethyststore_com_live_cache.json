@@ -42106,7 +42106,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-10651",
     "price": 3980.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.theamethyststore.com/products/pink-revika-bugadi-earrings?variant=gid://shopify/ProductVariant/47340224315619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10651_a3ae1c7b-195c-49b5-9cd1-06e3ccff2fa4.jpg?v=1760853158"
   },
@@ -44536,7 +44536,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-10807",
     "price": 4500.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/pretty-look-bugadi-earrings?variant=gid://shopify/ProductVariant/47442174083299",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10807.jpg?v=1762163011"
   },
@@ -50893,15 +50893,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/aishwarya-hook-drops?variant=gid://shopify/ProductVariant/47800847991011",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12244.jpg?v=1767778273"
-  },
-  "gid://shopify/ProductVariant/47800893047011": {
-    "product_title": "Ivanika Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-13376",
-    "price": 51120.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/ivanika-long-necklace?variant=gid://shopify/ProductVariant/47800893047011",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13376.jpg?v=1767779184"
   },
   "gid://shopify/ProductVariant/47801133924579": {
     "product_title": "Sherin Short Necklace Set",
@@ -88334,15 +88325,6 @@
     "url": "https://www.theamethyststore.com/products/kundan-pendant-98?variant=gid://shopify/ProductVariant/49476495966435",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4755.jpg?v=1785417597"
   },
-  "gid://shopify/ProductVariant/49476500619491": {
-    "product_title": "Pranitha Kundan Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-4756",
-    "price": 18200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kundan-pendant-99?variant=gid://shopify/ProductVariant/49476500619491",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4756.jpg?v=1785417758"
-  },
   "gid://shopify/ProductVariant/49476530176227": {
     "product_title": "Shivya Kundan Pendant",
     "variant_title": "Default Title",
@@ -95998,7 +95980,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4830",
     "price": 18300.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/diamond-design-pendant-53?variant=gid://shopify/ProductVariant/49538092564707",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4830.jpg?v=1786770834"
   },
@@ -97468,15 +97450,6 @@
     "stock": 3,
     "url": "https://www.theamethyststore.com/products/little-charm-moissanite-studs-1?variant=gid://shopify/ProductVariant/49543836795107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15718.jpg?v=1786885107"
-  },
-  "gid://shopify/ProductVariant/49543840956643": {
-    "product_title": "Akshara Kundan Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15739",
-    "price": 18600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/akshara-kundan-jhumkas?variant=gid://shopify/ProductVariant/49543840956643",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15739.jpg?v=1786885419"
   },
   "gid://shopify/ProductVariant/49543849279715": {
     "product_title": "Advika Kundan Jhumkas",
@@ -100480,7 +100453,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17642",
     "price": 22000.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/attigai-necklace-22?variant=gid://shopify/ProductVariant/49564824568035",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17642.jpg?v=1787232533"
   },
@@ -115451,6 +115424,15 @@
     "url": "https://www.theamethyststore.com/products/liyana-kundan-earrings?variant=gid://shopify/ProductVariant/47798976774371",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11568.jpg?v=1767710606"
   },
+  "gid://shopify/ProductVariant/47800893047011": {
+    "product_title": "Ivanika Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-13376",
+    "price": 51120.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ivanika-long-necklace?variant=gid://shopify/ProductVariant/47800893047011",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13376.jpg?v=1767779184"
+  },
   "gid://shopify/ProductVariant/47801166889187": {
     "product_title": "Lahina Pendant",
     "variant_title": "Default Title",
@@ -127196,6 +127178,15 @@
     "url": "https://www.theamethyststore.com/products/kundan-pendant-96?variant=gid://shopify/ProductVariant/49476466082019",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4753.jpg?v=1785416939"
   },
+  "gid://shopify/ProductVariant/49476500619491": {
+    "product_title": "Pranitha Kundan Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4756",
+    "price": 18200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-99?variant=gid://shopify/ProductVariant/49476500619491",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4756.jpg?v=1785417758"
+  },
   "gid://shopify/ProductVariant/49476501176547": {
     "product_title": "Charming Kundan Jhumkas",
     "variant_title": "Default Title",
@@ -127987,6 +127978,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/anvitha-kundan-drops?variant=gid://shopify/ProductVariant/49538115698915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15523.jpg?v=1786771493"
+  },
+  "gid://shopify/ProductVariant/49543840956643": {
+    "product_title": "Akshara Kundan Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15739",
+    "price": 18600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/akshara-kundan-jhumkas?variant=gid://shopify/ProductVariant/49543840956643",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15739.jpg?v=1786885419"
   },
   "gid://shopify/ProductVariant/49543853539555": {
     "product_title": "Alaira Kundan Jhumkas",
