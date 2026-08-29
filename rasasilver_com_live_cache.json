@@ -6533,15 +6533,6 @@
     "url": "https://www.rasasilver.com/products/crystina-bangles?variant=gid://shopify/ProductVariant/52263713636649",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_79_Pics_15Oct2347_resized.jpg?v=1761553505"
   },
-  "gid://shopify/ProductVariant/51368212234537": {
-    "product_title": "Navashriya Nakash Bangles",
-    "variant_title": "Blue / 2.7",
-    "sku": "R15004",
-    "price": 24100.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/navashriya-bangles?variant=gid://shopify/ProductVariant/51368212234537",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_79_Pics_15Oct2328_resized.jpg?v=1761553697"
-  },
   "gid://shopify/ProductVariant/51368334950697": {
     "product_title": "Aalayam Feathers Pendant",
     "variant_title": "Default Title",
@@ -7071,15 +7062,6 @@
     "price": 39700.0,
     "stock": 1,
     "url": "https://www.rasasilver.com/products/floral-wing-necklace-set?variant=gid://shopify/ProductVariant/51434335699241",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct3310_resized.jpg?v=1762252408"
-  },
-  "gid://shopify/ProductVariant/51434335732009": {
-    "product_title": "Floral Wing Necklace Set",
-    "variant_title": "Navaratna Colour",
-    "sku": "R16143",
-    "price": 39700.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/floral-wing-necklace-set?variant=gid://shopify/ProductVariant/51434335732009",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct3310_resized.jpg?v=1762252408"
   },
   "gid://shopify/ProductVariant/51434441015593": {
@@ -25222,7 +25204,7 @@
     "variant_title": "8",
     "sku": "R32353",
     "price": 3400.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/luxe-link-ring?variant=gid://shopify/ProductVariant/53426561089833",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19462.jpg?v=1786691635"
   },
@@ -30491,6 +30473,15 @@
     "url": "https://www.rasasilver.com/products/navashriya-bangles?variant=gid://shopify/ProductVariant/52273917329705",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_79_Pics_15Oct2328_resized.jpg?v=1761553697"
   },
+  "gid://shopify/ProductVariant/51368212234537": {
+    "product_title": "Navashriya Nakash Bangles",
+    "variant_title": "Blue / 2.7",
+    "sku": "R15004",
+    "price": 24100.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/navashriya-bangles?variant=gid://shopify/ProductVariant/51368212234537",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_79_Pics_15Oct2328_resized.jpg?v=1761553697"
+  },
   "gid://shopify/ProductVariant/51368273609001": {
     "product_title": "Moonga Lakshmi Bangles",
     "variant_title": "Default Title",
@@ -30913,6 +30904,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/oval-muse-necklace?variant=gid://shopify/ProductVariant/51434313023785",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct3140_resized.jpg?v=1762251445"
+  },
+  "gid://shopify/ProductVariant/51434335732009": {
+    "product_title": "Floral Wing Necklace Set",
+    "variant_title": "Navaratna Colour",
+    "sku": "R16143",
+    "price": 39700.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/floral-wing-necklace-set?variant=gid://shopify/ProductVariant/51434335732009",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct3310_resized.jpg?v=1762252408"
   },
   "gid://shopify/ProductVariant/51434368794921": {
     "product_title": "Padmira Necklace Set",
