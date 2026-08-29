@@ -73511,15 +73511,6 @@
     "url": "https://www.theamethyststore.com/products/short-necklace-set-66?variant=gid://shopify/ProductVariant/49267954319587",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16183.jpg?v=1781606557"
   },
-  "gid://shopify/ProductVariant/49267959398627": {
-    "product_title": "Peacock Inspired Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16184",
-    "price": 31064.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/short-necklace-set-67?variant=gid://shopify/ProductVariant/49267959398627",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16184.jpg?v=1781606723"
-  },
   "gid://shopify/ProductVariant/49267968147683": {
     "product_title": "Heshvitha Chandubaali Earrings",
     "variant_title": "Default Title",
@@ -83303,15 +83294,6 @@
     "url": "https://www.theamethyststore.com/products/boho-long-earrings-6?variant=gid://shopify/ProductVariant/49409192558819",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14941.jpg?v=1784097194"
   },
-  "gid://shopify/ProductVariant/49409193312483": {
-    "product_title": "Nomad Glow Long Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14942",
-    "price": 15000.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/long-earrings-42?variant=gid://shopify/ProductVariant/49409193312483",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14942.jpg?v=1784097416"
-  },
   "gid://shopify/ProductVariant/49409201340643": {
     "product_title": "Wild Weave Long Earrings",
     "variant_title": "Default Title",
@@ -91771,15 +91753,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/avikam-necklace-set-14?variant=gid://shopify/ProductVariant/49504836452579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17350.jpg?v=1786010747"
-  },
-  "gid://shopify/ProductVariant/49504839041251": {
-    "product_title": "Charika Diamond Design Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17327",
-    "price": 21400.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/diamond-design-short-necklace-8?variant=gid://shopify/ProductVariant/49504839041251",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17327.jpg?v=1786011126"
   },
   "gid://shopify/ProductVariant/49504857161955": {
     "product_title": "Zyvikaa Attigai Necklace",
@@ -103201,15 +103174,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stunning-nagas-short-necklace?variant=gid://shopify/ProductVariant/49603779559651",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17746.jpg?v=1787740310"
-  },
-  "gid://shopify/ProductVariant/49603866362083": {
-    "product_title": "Amazing Nagas Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17747",
-    "price": 11350.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/amazing-nagas-short-necklace-2?variant=gid://shopify/ProductVariant/49603866362083",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17747.jpg?v=1787740677"
   },
   "gid://shopify/ProductVariant/49604173201635": {
     "product_title": "Srisha Nagas Short Necklace",
@@ -122687,6 +122651,15 @@
     "url": "https://www.theamethyststore.com/products/kenisha-kundan-oddiyanam?variant=gid://shopify/ProductVariant/49267955794147",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0910.jpg?v=1781606598"
   },
+  "gid://shopify/ProductVariant/49267959398627": {
+    "product_title": "Peacock Inspired Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16184",
+    "price": 31064.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/short-necklace-set-67?variant=gid://shopify/ProductVariant/49267959398627",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16184.jpg?v=1781606723"
+  },
   "gid://shopify/ProductVariant/49267967688931": {
     "product_title": "Saanvikha Short Necklace Set",
     "variant_title": "Default Title",
@@ -126467,6 +126440,15 @@
     "url": "https://www.theamethyststore.com/products/thekshikha-boho-pendants?variant=gid://shopify/ProductVariant/49409134854371",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4695.jpg?v=1784095719"
   },
+  "gid://shopify/ProductVariant/49409193312483": {
+    "product_title": "Nomad Glow Long Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14942",
+    "price": 15000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/long-earrings-42?variant=gid://shopify/ProductVariant/49409193312483",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14942.jpg?v=1784097416"
+  },
   "gid://shopify/ProductVariant/49409252983011": {
     "product_title": "Soul Threads Long Earrings",
     "variant_title": "Default Title",
@@ -127682,6 +127664,15 @@
     "url": "https://www.theamethyststore.com/products/stone-ring-79?variant=gid://shopify/ProductVariant/49504539607267",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2257.jpg?v=1786004516"
   },
+  "gid://shopify/ProductVariant/49504839041251": {
+    "product_title": "Charika Diamond Design Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17327",
+    "price": 21400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/diamond-design-short-necklace-8?variant=gid://shopify/ProductVariant/49504839041251",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17327.jpg?v=1786011126"
+  },
   "gid://shopify/ProductVariant/49504850936035": {
     "product_title": "Luxury Diamond Design Short Necklace",
     "variant_title": "Default Title",
@@ -128077,6 +128068,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/bullakku-nose-pin-32?variant=gid://shopify/ProductVariant/49575800471779",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0512.jpg?v=1787384508"
+  },
+  "gid://shopify/ProductVariant/49603866362083": {
+    "product_title": "Amazing Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17747",
+    "price": 11350.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/amazing-nagas-short-necklace-2?variant=gid://shopify/ProductVariant/49603866362083",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17747.jpg?v=1787740677"
   },
   "gid://shopify/ProductVariant/49625381306595": {
     "product_title": "Bhavikaa Nagas Studs",
