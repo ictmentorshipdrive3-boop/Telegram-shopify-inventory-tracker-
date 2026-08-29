@@ -7816,7 +7816,7 @@
     "variant_title": "Default Title",
     "sku": "AC75",
     "price": 787.5,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.kanshijewels.com/products/real-pearls-maatil?variant=gid://shopify/ProductVariant/50955131945260",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0590.jpg?v=1744977123"
   },
@@ -9737,15 +9737,6 @@
     "url": "https://www.kanshijewels.com/products/mossanite-earrings-2?variant=gid://shopify/ProductVariant/52445363372332",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Mossaniteearrings3400_-_1.jpg?v=1766143822"
   },
-  "gid://shopify/ProductVariant/52445369008428": {
-    "product_title": "Mossanite earrings",
-    "variant_title": "Default Title",
-    "sku": "ER98",
-    "price": 1650.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/mossanite-earrings-3?variant=gid://shopify/ProductVariant/52445369008428",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Mossaniteearring1650.jpg?v=1766144034"
-  },
   "gid://shopify/ProductVariant/52445370810668": {
     "product_title": "Jadau bali",
     "variant_title": "Default Title",
@@ -10930,7 +10921,7 @@
     "variant_title": "Default Title",
     "sku": "NK927",
     "price": 2650.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.kanshijewels.com/products/exclusive-eagle-gandaberunda-multipurpose-jadau-kundan-pendant?variant=gid://shopify/ProductVariant/53372200943916",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1_28311c27-b6c8-44c2-88e5-d97548f65fa6.png?v=1782277946"
   },
@@ -13777,6 +13768,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/jadau-studs-7?variant=gid://shopify/ProductVariant/52445361602860",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaustuds490.jpg?v=1766143693"
+  },
+  "gid://shopify/ProductVariant/52445369008428": {
+    "product_title": "Mossanite earrings",
+    "variant_title": "Default Title",
+    "sku": "ER98",
+    "price": 1650.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/mossanite-earrings-3?variant=gid://shopify/ProductVariant/52445369008428",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Mossaniteearring1650.jpg?v=1766144034"
   },
   "gid://shopify/ProductVariant/52445380673836": {
     "product_title": "Jadau jhumkas",
