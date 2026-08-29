@@ -28525,7 +28525,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-117-0242",
     "price": 2100.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/brina-toe-ring?variant=gid://shopify/ProductVariant/47019555389667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0242.jpg?v=1755070518"
   },
@@ -86300,15 +86300,6 @@
     "url": "https://www.theamethyststore.com/products/dual-birds-chain-with-earrings?variant=gid://shopify/ProductVariant/49442359181539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2158.jpg?v=1784877214"
   },
-  "gid://shopify/ProductVariant/49442362163427": {
-    "product_title": "Classics Avikam Chain with Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-2159",
-    "price": 15700.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/classics-avikam-chain-with-earrings?variant=gid://shopify/ProductVariant/49442362163427",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2159.jpg?v=1784877667"
-  },
   "gid://shopify/ProductVariant/49442363408611": {
     "product_title": "Nivanthikaa Mugappu Chain",
     "variant_title": "Default Title",
@@ -126871,6 +126862,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/bridal-heritage-stone-short-necklace?variant=gid://shopify/ProductVariant/49442103361763",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17004.jpg?v=1784869451"
+  },
+  "gid://shopify/ProductVariant/49442362163427": {
+    "product_title": "Classics Avikam Chain with Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2159",
+    "price": 15700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/classics-avikam-chain-with-earrings?variant=gid://shopify/ProductVariant/49442362163427",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2159.jpg?v=1784877667"
   },
   "gid://shopify/ProductVariant/49442431566051": {
     "product_title": "Aarohi Moissanite Short Necklace Set",
