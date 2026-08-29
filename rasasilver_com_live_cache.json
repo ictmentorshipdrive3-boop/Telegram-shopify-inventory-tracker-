@@ -3487,7 +3487,7 @@
     "variant_title": "GREEN",
     "sku": "R17375",
     "price": 2720.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/phool-patra-ring?variant=gid://shopify/ProductVariant/50635383046441",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_b8e63f25-e347-47bc-a5b4-f852ef78fb3c.jpg?v=1754312394"
   },
@@ -21860,15 +21860,6 @@
     "url": "https://www.rasasilver.com/products/stone-gleam-ring?variant=gid://shopify/ProductVariant/53290729341225",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0694_resized.jpg?v=1783590985"
   },
-  "gid://shopify/ProductVariant/53290730422569": {
-    "product_title": "Manika Stone Ring",
-    "variant_title": "Default Title",
-    "sku": "R31973",
-    "price": 3145.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/manika-stone-ring?variant=gid://shopify/ProductVariant/53290730422569",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0683_resized.jpg?v=1783592687"
-  },
   "gid://shopify/ProductVariant/53290731012393": {
     "product_title": "Rose Mist Stone Ring",
     "variant_title": "Default Title",
@@ -22840,15 +22831,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/pear-phool-antique-bangles?variant=gid://shopify/ProductVariant/53324729483561",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41438_resized.jpg?v=1783758279"
-  },
-  "gid://shopify/ProductVariant/53324731121961": {
-    "product_title": "Ganesh Temple Ring",
-    "variant_title": "15",
-    "sku": "R31399",
-    "price": 3655.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/ganesh-temple-ring?variant=gid://shopify/ProductVariant/53324731121961",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41465_resized.jpg?v=1783759638"
   },
   "gid://shopify/ProductVariant/53324737511721": {
     "product_title": "Circle-Greena Antique Ring",
@@ -23848,15 +23830,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/aloka-hertiage-moissanite-ring?variant=gid://shopify/ProductVariant/53350490571049",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0153_resized.jpg?v=1785930505"
-  },
-  "gid://shopify/ProductVariant/53350506332457": {
-    "product_title": "Oval-Amethyst Gemstone Ring",
-    "variant_title": "7",
-    "sku": "R31101",
-    "price": 4845.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/oval-amethyst-gemstone-ring?variant=gid://shopify/ProductVariant/53350506332457",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0900.jpg?v=1786346922"
   },
   "gid://shopify/ProductVariant/53350544638249": {
     "product_title": "Aira Crown Ring",
@@ -45989,6 +45962,15 @@
     "url": "https://www.rasasilver.com/products/spring-blossom-ring?variant=gid://shopify/ProductVariant/53290730389801",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0677_resized.jpg?v=1783591650"
   },
+  "gid://shopify/ProductVariant/53290730422569": {
+    "product_title": "Manika Stone Ring",
+    "variant_title": "Default Title",
+    "sku": "R31973",
+    "price": 3145.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/manika-stone-ring?variant=gid://shopify/ProductVariant/53290730422569",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0683_resized.jpg?v=1783592687"
+  },
   "gid://shopify/ProductVariant/53290795663657": {
     "product_title": "Chakra-Mango Nakshi Studs",
     "variant_title": "Default Title",
@@ -46457,6 +46439,15 @@
     "url": "https://www.rasasilver.com/products/recta-orange-stone-bangles?variant=gid://shopify/ProductVariant/53324630065449",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41417_resized.jpg?v=1783752047"
   },
+  "gid://shopify/ProductVariant/53324731121961": {
+    "product_title": "Ganesh Temple Ring",
+    "variant_title": "15",
+    "sku": "R31399",
+    "price": 3655.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ganesh-temple-ring?variant=gid://shopify/ProductVariant/53324731121961",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41465_resized.jpg?v=1783759638"
+  },
   "gid://shopify/ProductVariant/53329513513257": {
     "product_title": "Chand-Phool Kundan Choker Set",
     "variant_title": "Default Title",
@@ -46744,6 +46735,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/pearshine-cz-necklace?variant=gid://shopify/ProductVariant/53350479528233",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-07-23at1.18.45PM.jpg?v=1784794140"
+  },
+  "gid://shopify/ProductVariant/53350506332457": {
+    "product_title": "Oval-Amethyst Gemstone Ring",
+    "variant_title": "7",
+    "sku": "R31101",
+    "price": 4845.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/oval-amethyst-gemstone-ring?variant=gid://shopify/ProductVariant/53350506332457",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0900.jpg?v=1786346922"
   },
   "gid://shopify/ProductVariant/53350522814761": {
     "product_title": "Trio-Spark Gemstone Ring",
