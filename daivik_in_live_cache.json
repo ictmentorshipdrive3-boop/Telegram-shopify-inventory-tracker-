@@ -4351,7 +4351,7 @@
     "variant_title": "Default Title",
     "sku": "251",
     "price": 699.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/kemp-studs-with-pearl-detailing?variant=gid://shopify/ProductVariant/44284805513438",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_e2072abf-548d-4faa-ad3e-9f72614d160c.heic?v=1690386024"
   },
@@ -8090,15 +8090,6 @@
     "url": "https://www.daivik.in/products/gold-replica-pure-kemp-brass-necklace-with-earrings?variant=gid://shopify/ProductVariant/45933181698270",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9526.heic?v=1727971721"
   },
-  "gid://shopify/ProductVariant/45935496265950": {
-    "product_title": "AD Hasli Necklace Set in 2 Colours",
-    "variant_title": "Green",
-    "sku": "473",
-    "price": 1499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-hasli-necklace-set-in-2-colours?variant=gid://shopify/ProductVariant/45935496265950",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/128187FA-609C-45CE-A298-E5020674B6F0.jpg?v=1728057775"
-  },
   "gid://shopify/ProductVariant/45935496298718": {
     "product_title": "AD Hasli Necklace Set in 2 Colours",
     "variant_title": "Ruby",
@@ -10921,7 +10912,7 @@
     "variant_title": "5",
     "sku": "1569",
     "price": 1299.0,
-    "stock": 20,
+    "stock": 19,
     "url": "https://www.daivik.in/products/kemp-bugadi-side-earrings?variant=gid://shopify/ProductVariant/46340555440350",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/rn-image_picker_lib_temp_bd2bc04d-16de-48d7-ba41-3528d83dfa2a.jpg?v=1741185163"
   },
@@ -12406,7 +12397,7 @@
     "variant_title": "Coral Red",
     "sku": "742",
     "price": 1799.0,
-    "stock": 22,
+    "stock": 21,
     "url": "https://www.daivik.in/products/ad-floral-pendant-hasli-necklace-with-earrings-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/47029482389726",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B7EDD37B-145C-4A95-B9E7-291B4BF90ADF.jpg?v=1750608665"
   },
@@ -18049,7 +18040,7 @@
     "variant_title": "Default Title",
     "sku": "571",
     "price": 1299.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/lakshmi-pendant-beads-choker-with-earrings?variant=gid://shopify/ProductVariant/47950387085534",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/714FE7F9-2484-4B71-87EE-D2E7981905EC.jpg?v=1772728689"
   },
@@ -21166,6 +21157,15 @@
     "stock": 47,
     "url": "https://www.daivik.in/products/ruby-green-floral-elakkathali-choker-with-studs?variant=gid://shopify/ProductVariant/48605611655390",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9BB3FD0D-97BF-49A7-B86C-9B52460569E8.jpg?v=1786875830"
+  },
+  "gid://shopify/ProductVariant/48606013161694": {
+    "product_title": "Antique Lakshmi Kada",
+    "variant_title": "2.8",
+    "sku": "1949",
+    "price": 1699.0,
+    "stock": 5,
+    "url": "https://www.daivik.in/products/antique-lakshmi-kada?variant=gid://shopify/ProductVariant/48606013161694",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C212A11D-8F23-46DE-8894-E34661B11E0C.jpg?v=1786900231"
   },
   "gid://shopify/ProductVariant/48607713263838": {
     "product_title": "Designer Flower Ruby Green Necklace with Earrings",
@@ -26027,6 +26027,15 @@
     "url": "https://www.daivik.in/products/untitled-oct1_21-09?variant=gid://shopify/ProductVariant/45928214724830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/28D70432-6A0C-45D6-9C41-69FD36DC27D7.jpg?v=1727797964"
   },
+  "gid://shopify/ProductVariant/45935496265950": {
+    "product_title": "AD Hasli Necklace Set in 2 Colours",
+    "variant_title": "Green",
+    "sku": "473",
+    "price": 1499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-hasli-necklace-set-in-2-colours?variant=gid://shopify/ProductVariant/45935496265950",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/128187FA-609C-45CE-A298-E5020674B6F0.jpg?v=1728057775"
+  },
   "gid://shopify/ProductVariant/45953337065694": {
     "product_title": "Diwali Sale Necklace D24022",
     "variant_title": "Ruby",
@@ -30642,15 +30651,6 @@
     "price": 1699.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-lakshmi-kada?variant=gid://shopify/ProductVariant/48606013128926",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C212A11D-8F23-46DE-8894-E34661B11E0C.jpg?v=1786900231"
-  },
-  "gid://shopify/ProductVariant/48606013161694": {
-    "product_title": "Antique Lakshmi Kada",
-    "variant_title": "2.8",
-    "sku": "1949",
-    "price": 1699.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/antique-lakshmi-kada?variant=gid://shopify/ProductVariant/48606013161694",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C212A11D-8F23-46DE-8894-E34661B11E0C.jpg?v=1786900231"
   },
   "gid://shopify/ProductVariant/48629356986590": {
