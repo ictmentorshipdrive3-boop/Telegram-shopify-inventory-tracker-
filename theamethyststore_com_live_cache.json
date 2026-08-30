@@ -1084,7 +1084,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-113-0046",
     "price": 1300.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.theamethyststore.com/products/delicate-nose-pin?variant=gid://shopify/ProductVariant/42390688891107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-113-0046.jpg?v=1677480591"
   },
@@ -22351,7 +22351,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-9645",
     "price": 30000.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.theamethyststore.com/products/classy-nagas-necklace?variant=gid://shopify/ProductVariant/46730177085667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9645.jpg?v=1750242854"
   },
@@ -67526,15 +67526,6 @@
     "url": "https://www.theamethyststore.com/products/tavira-stone-short-necklace?variant=gid://shopify/ProductVariant/48903461077219",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15673_3818b383-8cb2-4fc7-9112-3b3a36302f4d.jpg?v=1779002119"
   },
-  "gid://shopify/ProductVariant/48903470973155": {
-    "product_title": "Trishaya Stone Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15672",
-    "price": 22570.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/trishaya-stone-short-necklace?variant=gid://shopify/ProductVariant/48903470973155",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15672.jpg?v=1777811958"
-  },
   "gid://shopify/ProductVariant/48903486931171": {
     "product_title": "Vaishira Stone Short Necklace",
     "variant_title": "Default Title",
@@ -72592,15 +72583,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/liyasri-3d-spl-pendant-1?variant=gid://shopify/ProductVariant/49128891744483",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4234.jpg?v=1780492014"
-  },
-  "gid://shopify/ProductVariant/49150191763683": {
-    "product_title": "Thriskhsa 3D Spl Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-4236",
-    "price": 15576.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/thriskhsa-3d-spl-pendant?variant=gid://shopify/ProductVariant/49150191763683",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4236.jpg?v=1780573706"
   },
   "gid://shopify/ProductVariant/49150310285539": {
     "product_title": "Aavanthika 3D Spl Pendant",
@@ -120050,6 +120032,15 @@
     "url": "https://www.theamethyststore.com/products/stone-pendant-25?variant=gid://shopify/ProductVariant/48903470317795",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4001.jpg?v=1777811938"
   },
+  "gid://shopify/ProductVariant/48903470973155": {
+    "product_title": "Trishaya Stone Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15672",
+    "price": 22570.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/trishaya-stone-short-necklace?variant=gid://shopify/ProductVariant/48903470973155",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15672.jpg?v=1777811958"
+  },
   "gid://shopify/ProductVariant/48903477952739": {
     "product_title": "Avirika Stone Short Necklace",
     "variant_title": "Default Title",
@@ -121957,6 +121948,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/3d-spl-pendant-29?variant=gid://shopify/ProductVariant/49149900488931",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2858_74fbc01e-1e64-4ad1-81e6-ecd3b20bd04e.jpg?v=1780572841"
+  },
+  "gid://shopify/ProductVariant/49150191763683": {
+    "product_title": "Thriskhsa 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4236",
+    "price": 15576.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/thriskhsa-3d-spl-pendant?variant=gid://shopify/ProductVariant/49150191763683",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4236.jpg?v=1780573706"
   },
   "gid://shopify/ProductVariant/49150268637411": {
     "product_title": "Cherishing 3D Spl Pendant",
