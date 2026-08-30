@@ -4531,7 +4531,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-4326",
     "price": 20200.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.theamethyststore.com/products/little-love-victorian-studs?variant=gid://shopify/ProductVariant/43787318132963",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-4326.jpg?v=1687274198"
   },
@@ -5764,7 +5764,7 @@
     "variant_title": "9 Inches",
     "sku": "AMS-119-0001-ML",
     "price": 4800.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/fish-hook-back-chain?variant=gid://shopify/ProductVariant/43970730000611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_21dbdd2e-d30a-4019-816f-52833d641d9a.jpg?v=1693456844"
   },
@@ -14668,15 +14668,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/nivetha-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/45829669028067",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7933.jpg?v=1734951559"
-  },
-  "gid://shopify/ProductVariant/45829682430179": {
-    "product_title": "Vinusha Victorian Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-7934",
-    "price": 41985.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/vinusha-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/45829682430179",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7934.jpg?v=1734951985"
   },
   "gid://shopify/ProductVariant/45829705302243": {
     "product_title": "Manju Beads Long Necklace",
@@ -86768,15 +86759,6 @@
     "url": "https://www.theamethyststore.com/products/mesmerizing-moissanite-pendant-set-1?variant=gid://shopify/ProductVariant/49447381074147",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4737.jpg?v=1784982917"
   },
-  "gid://shopify/ProductVariant/49447381827811": {
-    "product_title": "Shine Charm Moissanite Pendant Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-4738",
-    "price": 27500.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/shine-charm-moissanite-pendant-set?variant=gid://shopify/ProductVariant/49447381827811",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4738.jpg?v=1784983063"
-  },
   "gid://shopify/ProductVariant/49447382515939": {
     "product_title": "Hanitha Moissanite Studs",
     "variant_title": "Default Title",
@@ -107360,6 +107342,15 @@
     "url": "https://www.theamethyststore.com/products/vithya-beads-necklace?variant=gid://shopify/ProductVariant/45829534679267",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/DSC00098.jpg?v=1734947408"
   },
+  "gid://shopify/ProductVariant/45829682430179": {
+    "product_title": "Vinusha Victorian Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-7934",
+    "price": 41985.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vinusha-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/45829682430179",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7934.jpg?v=1734951985"
+  },
   "gid://shopify/ProductVariant/45832643346659": {
     "product_title": "Ashika Long Earrings",
     "variant_title": "Default Title",
@@ -126862,6 +126853,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/moissanite-studs-22?variant=gid://shopify/ProductVariant/49447381696739",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15519.jpg?v=1784983009"
+  },
+  "gid://shopify/ProductVariant/49447381827811": {
+    "product_title": "Shine Charm Moissanite Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4738",
+    "price": 27500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/shine-charm-moissanite-pendant-set?variant=gid://shopify/ProductVariant/49447381827811",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4738.jpg?v=1784983063"
   },
   "gid://shopify/ProductVariant/49447422001379": {
     "product_title": "Ethinika Moissanite Drops",
