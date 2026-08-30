@@ -3698,15 +3698,6 @@
     "url": "https://www.rasasilver.com/products/35?variant=gid://shopify/ProductVariant/50712002330921",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_723b0375-1d76-4ccb-a761-ebd44e7148dd.jpg?v=1754916327"
   },
-  "gid://shopify/ProductVariant/50712099488041": {
-    "product_title": "Chandrika Devi Danglers",
-    "variant_title": "Default Title",
-    "sku": "R7562",
-    "price": 10200.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/chandrika-devi-danglers?variant=gid://shopify/ProductVariant/50712099488041",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-5_43d9f0d8-8700-4f8e-957c-684b9527777e.jpg?v=1754904401"
-  },
   "gid://shopify/ProductVariant/50716403302697": {
     "product_title": "Rubiflora Gemstone Necklace",
     "variant_title": "Default Title",
@@ -4495,7 +4486,7 @@
     "variant_title": "Default Title",
     "sku": "R20381",
     "price": 1955.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/rubora-oval-studs?variant=gid://shopify/ProductVariant/50809700581673",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2508.jpg?v=1756544597"
   },
@@ -4840,15 +4831,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/lakshmi-morni-short-necklace?variant=gid://shopify/ProductVariant/50835365658921",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP327.jpg?v=1756799230"
-  },
-  "gid://shopify/ProductVariant/50835384664361": {
-    "product_title": "Mayil Anugraha Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "R12032",
-    "price": 44600.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/mayil-anugraha-short-necklace?variant=gid://shopify/ProductVariant/50835384664361",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP324.jpg?v=1756803608"
   },
   "gid://shopify/ProductVariant/50835420545321": {
     "product_title": "Padma Sindoori Short Necklace",
@@ -26774,6 +26756,15 @@
     "url": "https://www.rasasilver.com/products/teja-valli-danglers?variant=gid://shopify/ProductVariant/50712093032745",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_4cf438d6-f6c9-47e8-b238-e6f4c95ac07d.jpg?v=1754897589"
   },
+  "gid://shopify/ProductVariant/50712099488041": {
+    "product_title": "Chandrika Devi Danglers",
+    "variant_title": "Default Title",
+    "sku": "R7562",
+    "price": 10200.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/chandrika-devi-danglers?variant=gid://shopify/ProductVariant/50712099488041",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-5_43d9f0d8-8700-4f8e-957c-684b9527777e.jpg?v=1754904401"
+  },
   "gid://shopify/ProductVariant/50712116330793": {
     "product_title": "Shubha Leela Danglers",
     "variant_title": "Default Title",
@@ -27646,6 +27637,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/pushpa-plume-bangles?variant=gid://shopify/ProductVariant/50885309399337",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP408.jpg?v=1756809416"
+  },
+  "gid://shopify/ProductVariant/50835384664361": {
+    "product_title": "Mayil Anugraha Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "R12032",
+    "price": 44600.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/mayil-anugraha-short-necklace?variant=gid://shopify/ProductVariant/50835384664361",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP324.jpg?v=1756803608"
   },
   "gid://shopify/ProductVariant/50835400818985": {
     "product_title": "Mayura Nakshatra Short Necklace",
