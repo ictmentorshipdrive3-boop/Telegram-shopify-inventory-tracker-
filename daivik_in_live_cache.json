@@ -22,7 +22,7 @@
     "variant_title": "Default Title",
     "sku": "42",
     "price": 2499.0,
-    "stock": 23,
+    "stock": 22,
     "url": "https://www.daivik.in/products/42?variant=gid://shopify/ProductVariant/32600742723643",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_ae83b031-205e-453b-8bb4-cd73dcec54c8.jpg?v=1598451549"
   },
@@ -67,7 +67,7 @@
     "variant_title": "Default Title",
     "sku": "58",
     "price": 1799.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.daivik.in/products/58?variant=gid://shopify/ProductVariant/32600841584699",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG-20191220-213907-605.jpg?v=1583699464"
   },
@@ -9719,15 +9719,6 @@
     "url": "https://www.daivik.in/products/1163?variant=gid://shopify/ProductVariant/46113729216734",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F1E4D73C-2E0F-41F6-9842-C17D3CF33730.jpg?v=1732877733"
   },
-  "gid://shopify/ProductVariant/46116471472350": {
-    "product_title": "Pure Kemp Jadau Brass Choker with Balis",
-    "variant_title": "Default Title",
-    "sku": "1166",
-    "price": 7499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/pure-kemp-brass-choker-with-balis?variant=gid://shopify/ProductVariant/46116471472350",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6329890D-A44F-49DD-BCD2-6162A2AFD2A0.jpg?v=1732981577"
-  },
   "gid://shopify/ProductVariant/46117929910494": {
     "product_title": "Microplating Palaka Necklace ( Short , long & Combo )",
     "variant_title": "Short",
@@ -11587,7 +11578,7 @@
     "variant_title": "2",
     "sku": "1596",
     "price": 1299.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/lotus-kemp-jadau-bugadi?variant=gid://shopify/ProductVariant/46641574969566",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A898065E-12E0-47C3-BCB6-CA5281F12C97.jpg?v=1745678801"
   },
@@ -16213,7 +16204,7 @@
     "variant_title": "1 Pc",
     "sku": "3508",
     "price": 249.0,
-    "stock": 26,
+    "stock": 24,
     "url": "https://www.daivik.in/products/a-32?variant=gid://shopify/ProductVariant/48347915288798",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6E16E45C-3BEA-4143-81B8-8D643B95A2BC.jpg?v=1762013592"
   },
@@ -16492,7 +16483,7 @@
     "variant_title": "Default Title",
     "sku": "3511",
     "price": 249.0,
-    "stock": 46,
+    "stock": 44,
     "url": "https://www.daivik.in/products/real-look-alike-foam-handmade-malli-pink-shade-u-pin-price-for-1-pc?variant=gid://shopify/ProductVariant/47686674022622",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7495.heic?v=1763301107"
   },
@@ -21244,7 +21235,7 @@
     "variant_title": "Default Title",
     "sku": "1954",
     "price": 499.0,
-    "stock": 26,
+    "stock": 25,
     "url": "https://www.daivik.in/products/lakshmi-antique-ruby-green-jada-billai-choti-hair-accessory?variant=gid://shopify/ProductVariant/48813673414878",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1764.jpg?v=1788019774"
   },
@@ -26521,6 +26512,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/1165-reversible?variant=gid://shopify/ProductVariant/46113732591838",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/739E0DC5-37F1-4EA5-B251-F40033D6F4AD.jpg?v=1732877812"
+  },
+  "gid://shopify/ProductVariant/46116471472350": {
+    "product_title": "Pure Kemp Jadau Brass Choker with Balis",
+    "variant_title": "Default Title",
+    "sku": "1166",
+    "price": 7499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/pure-kemp-brass-choker-with-balis?variant=gid://shopify/ProductVariant/46116471472350",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6329890D-A44F-49DD-BCD2-6162A2AFD2A0.jpg?v=1732981577"
   },
   "gid://shopify/ProductVariant/46122755948766": {
     "product_title": "AD Purple Bangles",
