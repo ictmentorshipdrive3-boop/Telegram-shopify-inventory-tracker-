@@ -49963,7 +49963,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-1695",
     "price": 12500.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/divine-glow-nagas-tikka?variant=gid://shopify/ProductVariant/47793463787747",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1695.jpg?v=1767605225"
   },
@@ -80485,15 +80485,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/grand-legacy-kundan-maatal?variant=gid://shopify/ProductVariant/49365503017187",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2341.jpg?v=1783236388"
-  },
-  "gid://shopify/ProductVariant/49365516353763": {
-    "product_title": "Gorgeous Kundan Maatal",
-    "variant_title": "Default Title",
-    "sku": "AMS-109-2343",
-    "price": 37520.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/gorgeous-kundan-maatal?variant=gid://shopify/ProductVariant/49365516353763",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2343.jpg?v=1783237404"
   },
   "gid://shopify/ProductVariant/49365537161443": {
     "product_title": "Timeless Royalty Kundan Maangtikka",
@@ -125548,6 +125539,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/royal-memoir-kundan-maatal?variant=gid://shopify/ProductVariant/49365507375331",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2342.jpg?v=1783236541"
+  },
+  "gid://shopify/ProductVariant/49365516353763": {
+    "product_title": "Gorgeous Kundan Maatal",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2343",
+    "price": 37520.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/gorgeous-kundan-maatal?variant=gid://shopify/ProductVariant/49365516353763",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2343.jpg?v=1783237404"
   },
   "gid://shopify/ProductVariant/49365765128419": {
     "product_title": "Elegant Kundan Maangtikka",
