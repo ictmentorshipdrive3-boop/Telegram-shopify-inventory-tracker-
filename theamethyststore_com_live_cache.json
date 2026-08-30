@@ -68125,7 +68125,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-2106",
     "price": 2600.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/nivanthika-stone-ring?variant=gid://shopify/ProductVariant/48911918792931",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2106.jpg?v=1777988315"
   },
@@ -95821,15 +95821,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/anvaya-kundan-drops?variant=gid://shopify/ProductVariant/49538406121699",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15534.jpg?v=1786772885"
-  },
-  "gid://shopify/ProductVariant/49538420244707": {
-    "product_title": "Charming Kundan Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15535",
-    "price": 10500.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/charming-kundan-drops?variant=gid://shopify/ProductVariant/49538420244707",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15535.jpg?v=1786773040"
   },
   "gid://shopify/ProductVariant/49538472247523": {
     "product_title": "Dazzling Kundan Drops",
@@ -127924,6 +127915,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/anvitha-kundan-drops?variant=gid://shopify/ProductVariant/49538115698915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15523.jpg?v=1786771493"
+  },
+  "gid://shopify/ProductVariant/49538420244707": {
+    "product_title": "Charming Kundan Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15535",
+    "price": 10500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/charming-kundan-drops?variant=gid://shopify/ProductVariant/49538420244707",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15535.jpg?v=1786773040"
   },
   "gid://shopify/ProductVariant/49543840956643": {
     "product_title": "Akshara Kundan Jhumkas",
