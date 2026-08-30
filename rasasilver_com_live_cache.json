@@ -6565,7 +6565,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R15342",
     "price": 36000.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/shobhamayur-kaan-karela-copy?variant=gid://shopify/ProductVariant/51397261525289",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0238_1.jpg?v=1762252159"
   },
@@ -14749,6 +14749,24 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/kundan-ring-2?variant=gid://shopify/ProductVariant/52704079708457",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0317copy_1.jpg?v=1771178187"
+  },
+  "gid://shopify/ProductVariant/52681013526825": {
+    "product_title": "Hariyali-Phool Kundan Ring",
+    "variant_title": "Default Title",
+    "sku": "R25176",
+    "price": 3400.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/hariyali-phool-kundan-ring?variant=gid://shopify/ProductVariant/52681013526825",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0290copy.jpg?v=1771088706"
+  },
+  "gid://shopify/ProductVariant/52681019425065": {
+    "product_title": "Pear-Phool Kundan Ring",
+    "variant_title": "Default Title",
+    "sku": "R25177",
+    "price": 3825.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/kundan-ring-3?variant=gid://shopify/ProductVariant/52681019425065",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0294copy_1.jpg?v=1771163423"
   },
   "gid://shopify/ProductVariant/52681023783209": {
     "product_title": "Sitara-Phool Kundan Ring",
@@ -40147,24 +40165,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/kundan-ring-1?variant=gid://shopify/ProductVariant/52704018628905",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0313copy.jpg?v=1771178330"
-  },
-  "gid://shopify/ProductVariant/52681013526825": {
-    "product_title": "Hariyali-Phool Kundan Ring",
-    "variant_title": "Default Title",
-    "sku": "R25176",
-    "price": 3400.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/hariyali-phool-kundan-ring?variant=gid://shopify/ProductVariant/52681013526825",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0290copy.jpg?v=1771088706"
-  },
-  "gid://shopify/ProductVariant/52681019425065": {
-    "product_title": "Pear-Phool Kundan Ring",
-    "variant_title": "Default Title",
-    "sku": "R25177",
-    "price": 3825.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/kundan-ring-3?variant=gid://shopify/ProductVariant/52681019425065",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0294copy_1.jpg?v=1771163423"
   },
   "gid://shopify/ProductVariant/52681029484841": {
     "product_title": "Zarin Petal Kundan Ring",
