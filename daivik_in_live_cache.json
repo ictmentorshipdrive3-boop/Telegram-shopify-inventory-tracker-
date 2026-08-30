@@ -5728,7 +5728,7 @@
     "variant_title": "Default Title",
     "sku": "296",
     "price": 1099.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.daivik.in/products/simple-gold-ad-triangle-necklace-with-studs?variant=gid://shopify/ProductVariant/44642294497502",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3FA6586C-DE59-4B98-B09A-400F2D9424FD.heic?v=1704209470"
   },
@@ -11924,15 +11924,6 @@
     "url": "https://www.daivik.in/products/ad-green-peacock-pendant-long-necklace-with-earrings?variant=gid://shopify/ProductVariant/46790818693342",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B5953DA4-D720-4BD0-B440-3CEC400DDE59.jpg?v=1747842465"
   },
-  "gid://shopify/ProductVariant/46813927243998": {
-    "product_title": "AD Pendant Flower Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "1266",
-    "price": 1699.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-pendant-flower-necklace-with-earrings?variant=gid://shopify/ProductVariant/46813927243998",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C971D71F-3CE6-45A1-B760-CE5864EB1EC7.jpg?v=1747924955"
-  },
   "gid://shopify/ProductVariant/46814082760926": {
     "product_title": "AD Lakshmi Mesh Necklace with Earrings",
     "variant_title": "Default Title",
@@ -12055,7 +12046,7 @@
     "variant_title": "Default Title",
     "sku": "1275",
     "price": 1799.0,
-    "stock": 30,
+    "stock": 29,
     "url": "https://www.daivik.in/products/ghungroo-golden-silver-beads-necklace-with-earrings?variant=gid://shopify/ProductVariant/46970660880606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/33E77DF8-17B6-4E71-B948-442603E2BCE8.jpg?v=1748797933"
   },
@@ -12109,7 +12100,7 @@
     "variant_title": "Default Title",
     "sku": "1613",
     "price": 1199.0,
-    "stock": 22,
+    "stock": 21,
     "url": "https://www.daivik.in/products/pure-kemp-brass-earrings?variant=gid://shopify/ProductVariant/46998527410398",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6CEBF600-33BD-4046-86F4-EBAD49B7B8F3.jpg?v=1749276438"
   },
@@ -12739,7 +12730,7 @@
     "variant_title": "Default Title",
     "sku": "1310",
     "price": 599.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.daivik.in/products/three-layer-lakshmi-coin-necklace-with-earrings?variant=gid://shopify/ProductVariant/47082104094942",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/436FE57D-FA62-46B9-9B4C-BEC4F83954BE.jpg?v=1752658366"
   },
@@ -17374,7 +17365,7 @@
     "variant_title": "Default Title",
     "sku": "1793",
     "price": 699.0,
-    "stock": 21,
+    "stock": 20,
     "url": "https://www.daivik.in/products/simple-leaf-pearl-anklets?variant=gid://shopify/ProductVariant/47849929572574",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3090915D-7A6C-4DB4-B797-78CB1AFEFD7D.jpg?v=1768975925"
   },
@@ -27664,6 +27655,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/designer-jada-billa-in-4-variants-price-for-each?variant=gid://shopify/ProductVariant/46718109548766",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5591B1A7-B8DE-43F9-827E-46405C664F04.jpg?v=1747581595"
+  },
+  "gid://shopify/ProductVariant/46813927243998": {
+    "product_title": "AD Pendant Flower Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "1266",
+    "price": 1699.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-pendant-flower-necklace-with-earrings?variant=gid://shopify/ProductVariant/46813927243998",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C971D71F-3CE6-45A1-B760-CE5864EB1EC7.jpg?v=1747924955"
   },
   "gid://shopify/ProductVariant/46836469432542": {
     "product_title": "Kundan AD Necklace with Earrings in 4 Colors (Price for Each)",
