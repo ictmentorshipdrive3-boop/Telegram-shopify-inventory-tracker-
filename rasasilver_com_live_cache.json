@@ -4468,7 +4468,7 @@
     "variant_title": "Default Title",
     "sku": "R11810",
     "price": 2380.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/crimora-oval-studs?variant=gid://shopify/ProductVariant/50809673810217",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2484.jpg?v=1756543252"
   },
@@ -12805,15 +12805,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/noorika-victorian-studs?variant=gid://shopify/ProductVariant/52527215640873",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0431copy_resized_23c81d1b-2a4c-4052-9082-d62d346bb729.jpg?v=1770097392"
-  },
-  "gid://shopify/ProductVariant/52527224783145": {
-    "product_title": "Forest Bloom Victorian Studs",
-    "variant_title": "Default Title",
-    "sku": "R21451",
-    "price": 9520.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/forest-bloom-victorian-studs?variant=gid://shopify/ProductVariant/52527224783145",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0376copy_resized.jpg?v=1770097461"
   },
   "gid://shopify/ProductVariant/52527231303977": {
     "product_title": "Victoria\u2019s Heart Studs",
@@ -38707,6 +38698,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/plumia-victorian-studs?variant=gid://shopify/ProductVariant/52527192572201",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0437copy_resized.jpg?v=1770097306"
+  },
+  "gid://shopify/ProductVariant/52527224783145": {
+    "product_title": "Forest Bloom Victorian Studs",
+    "variant_title": "Default Title",
+    "sku": "R21451",
+    "price": 9520.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/forest-bloom-victorian-studs?variant=gid://shopify/ProductVariant/52527224783145",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0376copy_resized.jpg?v=1770097461"
   },
   "gid://shopify/ProductVariant/52527244280105": {
     "product_title": "Tri Moiss Victorian Studs",
