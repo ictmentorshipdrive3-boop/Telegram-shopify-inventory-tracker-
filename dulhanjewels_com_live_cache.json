@@ -5444,15 +5444,6 @@
     "url": "https://www.dulhanjewels.com/products/traditional-jadau-kundan-necklace-with-guttapusalu-hangings-1?variant=gid://shopify/ProductVariant/51538788581682",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/9B7F5BA6-2AD2-47AB-BEA3-50A81C624A4E.jpg?v=1785826624"
   },
-  "gid://shopify/ProductVariant/51538825740594": {
-    "product_title": "Floral Design Jadau Kundan Hip Belt With Emerald Hangings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 7500.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/floral-design-jadau-kundan-hip-belt-with-emerald-hangings?variant=gid://shopify/ProductVariant/51538825740594",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9759.jpg?v=1785827667"
-  },
   "gid://shopify/ProductVariant/51539548340530": {
     "product_title": "Royal Choker Necklace Set With Designer Earrings",
     "variant_title": "Default Title",
@@ -6370,15 +6361,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/designer-jadau-kundan-hair-pin-with-strawberry-beads?variant=gid://shopify/ProductVariant/51674382762290",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/8F28C529-C60A-405B-BE74-BDFF1E952BC9.jpg?v=1787999802"
-  },
-  "gid://shopify/ProductVariant/51674397212978": {
-    "product_title": "Bridal Victorian Emerald Necklace With Matching Earrings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 10900.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/bridal-victorian-emerald-necklace-with-matching-earrings?variant=gid://shopify/ProductVariant/51674397212978",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/49B30F4A-899E-44C4-B0FB-A766D75E3062.jpg?v=1788000055"
   },
   "gid://shopify/ProductVariant/51674402685234": {
     "product_title": "Elegant Floral Design Polki Bangles",
@@ -8000,6 +7982,15 @@
     "url": "https://www.dulhanjewels.com/products/fresh-water-pearls-mala-with-matching-earrings?variant=gid://shopify/ProductVariant/51521743388978",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/CEE315FA-8367-4AEE-9E37-7B042A6DC22E.jpg?v=1785758480"
   },
+  "gid://shopify/ProductVariant/51538825740594": {
+    "product_title": "Floral Design Jadau Kundan Hip Belt With Emerald Hangings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 7500.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/floral-design-jadau-kundan-hip-belt-with-emerald-hangings?variant=gid://shopify/ProductVariant/51538825740594",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9759.jpg?v=1785827667"
+  },
   "gid://shopify/ProductVariant/51553601519922": {
     "product_title": "Classic Jadau Kundan Stud Earrings With Pearl Bordering",
     "variant_title": "Default Title",
@@ -8116,5 +8107,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/jadau-kundan-pearl-choker-with-emerald-drops?variant=gid://shopify/ProductVariant/51674333741362",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/50BDABE6-8E20-44EE-B03E-EB30981476E0.jpg?v=1787998242"
+  },
+  "gid://shopify/ProductVariant/51674397212978": {
+    "product_title": "Bridal Victorian Emerald Necklace With Matching Earrings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 10900.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/bridal-victorian-emerald-necklace-with-matching-earrings?variant=gid://shopify/ProductVariant/51674397212978",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/49B30F4A-899E-44C4-B0FB-A766D75E3062.jpg?v=1788000055"
   }
 }
