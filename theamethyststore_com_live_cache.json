@@ -72652,7 +72652,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4216",
     "price": 7920.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/giorgia-avikam-pendant-set?variant=gid://shopify/ProductVariant/49250424750307",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4216.jpg?v=1781167151"
   },
@@ -90395,15 +90395,6 @@
     "url": "https://www.theamethyststore.com/products/stone-ring-23?variant=gid://shopify/ProductVariant/49501676994787",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2214.jpg?v=1785924606"
   },
-  "gid://shopify/ProductVariant/49501699506403": {
-    "product_title": "Amazing Stone Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-2216",
-    "price": 2350.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/stone-ring-24?variant=gid://shopify/ProductVariant/49501699506403",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2216.jpg?v=1785924777"
-  },
   "gid://shopify/ProductVariant/49501711532259": {
     "product_title": "Yahika Stone Ring",
     "variant_title": "Default Title",
@@ -92671,15 +92662,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/mesmerizing-avikam-bracelet?variant=gid://shopify/ProductVariant/49517242122467",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1387.jpg?v=1786355094"
-  },
-  "gid://shopify/ProductVariant/49517244121315": {
-    "product_title": "Trivya Stone Bracelet",
-    "variant_title": "Default Title",
-    "sku": "AMS-103-1422",
-    "price": 9200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/stone-bracelet-36?variant=gid://shopify/ProductVariant/49517244121315",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1422.jpg?v=1786355191"
   },
   "gid://shopify/ProductVariant/49517244252387": {
     "product_title": "Attractive Avikam Bracelet",
@@ -103804,6 +103786,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/extraordinary-nagas-drops?variant=gid://shopify/ProductVariant/49647921856739",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14967.jpg?v=1788176396"
+  },
+  "gid://shopify/ProductVariant/49648172859619": {
+    "product_title": "Charm Nagas Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15355",
+    "price": 2500.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/nagas-studs-29?variant=gid://shopify/ProductVariant/49648172859619",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15355.jpg?v=1788178343"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -127646,6 +127637,15 @@
     "url": "https://www.theamethyststore.com/products/prashitha-stone-ring?variant=gid://shopify/ProductVariant/49501138944227",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2194.jpg?v=1785916338"
   },
+  "gid://shopify/ProductVariant/49501699506403": {
+    "product_title": "Amazing Stone Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2216",
+    "price": 2350.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/stone-ring-24?variant=gid://shopify/ProductVariant/49501699506403",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2216.jpg?v=1785924777"
+  },
   "gid://shopify/ProductVariant/49501725458659": {
     "product_title": "Vithikaa Stone Ring",
     "variant_title": "Default Title",
@@ -127951,6 +127951,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/rope-necklace-4?variant=gid://shopify/ProductVariant/49515014684899",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17404.jpg?v=1786281741"
+  },
+  "gid://shopify/ProductVariant/49517244121315": {
+    "product_title": "Trivya Stone Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1422",
+    "price": 9200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/stone-bracelet-36?variant=gid://shopify/ProductVariant/49517244121315",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1422.jpg?v=1786355191"
   },
   "gid://shopify/ProductVariant/49519840854243": {
     "product_title": "Haritha Nagas Jada Billa",
@@ -128626,5 +128635,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/ams-102-0756?variant=gid://shopify/ProductVariant/49626556334307",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/ams-102-0756.jpg?v=1787903303"
+  },
+  "gid://shopify/ProductVariant/49648178757859": {
+    "product_title": "Nithikaa Nagas Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15354",
+    "price": 3200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-studs-30?variant=gid://shopify/ProductVariant/49648178757859",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15354.jpg?v=1788178470"
   }
 }
