@@ -17097,7 +17097,7 @@
     "price": 17800.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/trendy-blue-long-earrings?variant=gid://shopify/ProductVariant/46139948761315",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-7788_13942fde-5341-47e4-b496-f78477cead5a.jpg?v=1787981216"
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-7788.jpg?v=1788175427"
   },
   "gid://shopify/ProductVariant/46139968684259": {
     "product_title": "Tribal Long Earrings",
@@ -69520,7 +69520,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-13792",
     "price": 11700.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/bhavatya-victorian-studs?variant=gid://shopify/ProductVariant/48927351996643",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13792.jpg?v=1778313818"
   },
@@ -103715,6 +103715,15 @@
     "url": "https://www.theamethyststore.com/products/nagas-drops-35?variant=gid://shopify/ProductVariant/49647840166115",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15338.jpg?v=1788174690"
   },
+  "gid://shopify/ProductVariant/49647842459875": {
+    "product_title": "Epic Nagas Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14960",
+    "price": 5480.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/epic-nagas-drops?variant=gid://shopify/ProductVariant/49647842459875",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14960.jpg?v=1788174890"
+  },
   "gid://shopify/ProductVariant/49647843573987": {
     "product_title": "Dhivashri Nagas Drops",
     "variant_title": "Default Title",
@@ -103723,6 +103732,51 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/nagas-drops-37?variant=gid://shopify/ProductVariant/49647843573987",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15333.jpg?v=1788174847"
+  },
+  "gid://shopify/ProductVariant/49647846654179": {
+    "product_title": "Thara Nagas Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15327",
+    "price": 5100.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nagas-drops-36?variant=gid://shopify/ProductVariant/49647846654179",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15327.jpg?v=1788174995"
+  },
+  "gid://shopify/ProductVariant/49647849865443": {
+    "product_title": "Stunning Nagas Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14962",
+    "price": 5480.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/stunning-nagas-drops?variant=gid://shopify/ProductVariant/49647849865443",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14962.jpg?v=1788175148"
+  },
+  "gid://shopify/ProductVariant/49647862579427": {
+    "product_title": "Glorious Nagas Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14963",
+    "price": 5880.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/glorious-nagas-drops?variant=gid://shopify/ProductVariant/49647862579427",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14963.jpg?v=1788175433"
+  },
+  "gid://shopify/ProductVariant/49647864742115": {
+    "product_title": "Vinthira Nagas Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15317",
+    "price": 4900.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nagas-drops-39?variant=gid://shopify/ProductVariant/49647864742115",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15317.jpg?v=1788175483"
+  },
+  "gid://shopify/ProductVariant/49647868608739": {
+    "product_title": "Anavikaa Nagas Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15313",
+    "price": 5150.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nagas-drops-38?variant=gid://shopify/ProductVariant/49647868608739",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15313.jpg?v=1788175708"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
