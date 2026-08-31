@@ -59665,7 +59665,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-14445",
     "price": 21824.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/golden-beads-long-necklace?variant=gid://shopify/ProductVariant/48275204079843",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14445.jpg?v=1771047226"
   },
@@ -59692,7 +59692,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-14449",
     "price": 26752.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/yashvikha-beads-long-necklace?variant=gid://shopify/ProductVariant/48275227181283",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14449.jpg?v=1771048752"
   },
@@ -85441,7 +85441,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15416",
     "price": 6200.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/kanorra-diamond-stud?variant=gid://shopify/ProductVariant/49439660802275",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15416.jpg?v=1784813535"
   },
@@ -100632,7 +100632,7 @@
     "product_title": "Ghazal 3D Spl Short Necklace Set",
     "variant_title": "Default Title",
     "sku": "AMS-102-17669",
-    "price": 49470.0,
+    "price": 53700.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/ghazal-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49575201145059",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17669.jpg?v=1787374467"
@@ -103975,6 +103975,51 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/nagas-studs-38?variant=gid://shopify/ProductVariant/49648600514787",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15447.jpg?v=1788182996"
+  },
+  "gid://shopify/ProductVariant/49648609460451": {
+    "product_title": "Haritha Nagas Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15452",
+    "price": 6700.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nagas-studs-37?variant=gid://shopify/ProductVariant/49648609460451",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15452.jpg?v=1788183140"
+  },
+  "gid://shopify/ProductVariant/49648609689827": {
+    "product_title": "Sensational Nagas Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15343",
+    "price": 3280.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/sensational-nagas-studs?variant=gid://shopify/ProductVariant/49648609689827",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15343.jpg?v=1788183202"
+  },
+  "gid://shopify/ProductVariant/49648652026083": {
+    "product_title": "Manisha Nagas Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15454",
+    "price": 2700.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nagas-studs-40?variant=gid://shopify/ProductVariant/49648652026083",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15454.jpg?v=1788183263"
+  },
+  "gid://shopify/ProductVariant/49648734961891": {
+    "product_title": "Livintha Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15455",
+    "price": 5600.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/stone-studs-1?variant=gid://shopify/ProductVariant/49648734961891",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15455.jpg?v=1788183617"
+  },
+  "gid://shopify/ProductVariant/49648749674723": {
+    "product_title": "Green Floral Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15458",
+    "price": 5500.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/stone-studs-2?variant=gid://shopify/ProductVariant/49648749674723",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15458.jpg?v=1788183753"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
