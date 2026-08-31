@@ -2218,7 +2218,7 @@
     "variant_title": "Default Title",
     "sku": "670",
     "price": 1099.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/1-4?variant=gid://shopify/ProductVariant/42679325982942",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_0755.heic?v=1649768309"
   },
@@ -7924,7 +7924,7 @@
     "variant_title": "Default Title",
     "sku": "1117",
     "price": 999.0,
-    "stock": 30,
+    "stock": 29,
     "url": "https://www.daivik.in/products/ad-pendant-mangalsutra-with-studs?variant=gid://shopify/ProductVariant/45905761435870",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1BFD7312-DC7F-4913-8069-C828D5725142.jpg?v=1726894974"
   },
@@ -13306,7 +13306,7 @@
     "variant_title": "Combo",
     "sku": "637",
     "price": 6499.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/floral-guttapusalu-short-and-long-necklace-with-earrings-prices-for-combo-short-long?variant=gid://shopify/ProductVariant/47467933139166",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EC33CA76-49ED-4B95-BA5F-F9FA6321FE7A.jpg?v=1756132847"
   },
@@ -21302,6 +21302,15 @@
     "url": "https://www.daivik.in/products/antique-non-idol-carved-green-stone-pendant-choker-with-earrings?variant=gid://shopify/ProductVariant/48895361548510",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1571.jpg?v=1788109099"
   },
+  "gid://shopify/ProductVariant/48965011046622": {
+    "product_title": "Diamond look Alike Premium Jali long chain",
+    "variant_title": "Default Title",
+    "sku": "332",
+    "price": 2499.0,
+    "stock": 14,
+    "url": "https://www.daivik.in/products/diamond-look-alike-premium-mop-long-chain?variant=gid://shopify/ProductVariant/48965011046622",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/ACE010F6-F5B4-45B4-A6C3-FA584C593BF3.jpg?v=1788174488"
+  },
   "gid://shopify/ProductVariant/34430554472601": {
     "product_title": "Regular Use Stone Set Of Four Bangles",
     "variant_title": "2.4",
@@ -23065,15 +23074,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/a-243?variant=gid://shopify/ProductVariant/43265393721566",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_f6fba5d8-9308-4e49-bbbe-b72d68100364.heic?v=1660401124"
-  },
-  "gid://shopify/ProductVariant/43321183863006": {
-    "product_title": "AD Gold Finish Necklace with earrings",
-    "variant_title": "Default Title",
-    "sku": "332",
-    "price": 1499.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/a-257?variant=gid://shopify/ProductVariant/43321183863006",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_c690a8a0-0599-474c-a72d-ddae4d8888ad.heic?v=1661436452"
   },
   "gid://shopify/ProductVariant/43351311876318": {
     "product_title": "Gold Finish AD Necklace with Backchain and earrings",
