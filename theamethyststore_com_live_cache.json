@@ -9813,10 +9813,10 @@
     "product_title": "Yuvan Oxidised Drops",
     "variant_title": "Default Title",
     "sku": "AMS-106-6182",
-    "price": 13822.28,
+    "price": 12912.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/yuvan-oxidised-drops?variant=gid://shopify/ProductVariant/45285861359843",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6182.jpg?v=1721364704"
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6182_4faa77f3-4bb5-4b2e-91c2-7568fb382857.jpg?v=1788179459"
   },
   "gid://shopify/ProductVariant/45285882495203": {
     "product_title": "Thanika Oxidised Drops",
@@ -103787,6 +103787,15 @@
     "url": "https://www.theamethyststore.com/products/extraordinary-nagas-drops?variant=gid://shopify/ProductVariant/49647921856739",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14967.jpg?v=1788176396"
   },
+  "gid://shopify/ProductVariant/49647933358307": {
+    "product_title": "Astonishing Nagas Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14973",
+    "price": 4190.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/astonishing-nagas-drops?variant=gid://shopify/ProductVariant/49647933358307",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14973.jpg?v=1788176721"
+  },
   "gid://shopify/ProductVariant/49648172859619": {
     "product_title": "Charm Nagas Studs",
     "variant_title": "Default Title",
@@ -103795,6 +103804,51 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/nagas-studs-29?variant=gid://shopify/ProductVariant/49648172859619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15355.jpg?v=1788178343"
+  },
+  "gid://shopify/ProductVariant/49648178757859": {
+    "product_title": "Nithikaa Nagas Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15354",
+    "price": 3200.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/nagas-studs-30?variant=gid://shopify/ProductVariant/49648178757859",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15354.jpg?v=1788178470"
+  },
+  "gid://shopify/ProductVariant/49648182264035": {
+    "product_title": "Ruhikaa Nagas Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15348",
+    "price": 5400.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/nagas-studs-31?variant=gid://shopify/ProductVariant/49648182264035",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15348.jpg?v=1788178681"
+  },
+  "gid://shopify/ProductVariant/49648182591715": {
+    "product_title": "Amazing Nagas Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14974",
+    "price": 4200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/amazing-nagas-studs?variant=gid://shopify/ProductVariant/49648182591715",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14974.jpg?v=1788178783"
+  },
+  "gid://shopify/ProductVariant/49648187605219": {
+    "product_title": "Janani Nagas Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15347",
+    "price": 3950.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/nagas-studs-33?variant=gid://shopify/ProductVariant/49648187605219",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15347.jpg?v=1788178846"
+  },
+  "gid://shopify/ProductVariant/49648202547427": {
+    "product_title": "Opulent Nagas Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15092",
+    "price": 2770.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/opulent-nagas-studs?variant=gid://shopify/ProductVariant/49648202547427",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15092.jpg?v=1788179073"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -128635,14 +128689,5 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/ams-102-0756?variant=gid://shopify/ProductVariant/49626556334307",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/ams-102-0756.jpg?v=1787903303"
-  },
-  "gid://shopify/ProductVariant/49648178757859": {
-    "product_title": "Nithikaa Nagas Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15354",
-    "price": 3200.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/nagas-studs-30?variant=gid://shopify/ProductVariant/49648178757859",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15354.jpg?v=1788178470"
   }
 }
