@@ -1714,7 +1714,7 @@
     "variant_title": "2.4",
     "sku": "988",
     "price": 1699.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/set-of-6-kemp-ad-bangles?variant=gid://shopify/ProductVariant/42314249076958",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_02674945-7b6e-4236-9806-2024c9320bd6.jpg?v=1641656256"
   },
@@ -2470,7 +2470,7 @@
     "variant_title": "Default Title",
     "sku": "1024",
     "price": 999.0,
-    "stock": 44,
+    "stock": 43,
     "url": "https://www.daivik.in/products/a-172?variant=gid://shopify/ProductVariant/42975285182686",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_28802aa8-fbcd-458b-8878-6e93ebb9935a.heic?v=1663671344"
   },
@@ -16213,7 +16213,7 @@
     "variant_title": "1 Pc",
     "sku": "3508",
     "price": 249.0,
-    "stock": 18,
+    "stock": 17,
     "url": "https://www.daivik.in/products/a-32?variant=gid://shopify/ProductVariant/48347915288798",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6E16E45C-3BEA-4143-81B8-8D643B95A2BC.jpg?v=1762013592"
   },
@@ -16546,7 +16546,7 @@
     "variant_title": "Default Title",
     "sku": "1340",
     "price": 999.0,
-    "stock": 34,
+    "stock": 33,
     "url": "https://www.daivik.in/products/simple-ad-circle-necklace-with-earrings?variant=gid://shopify/ProductVariant/47693867286750",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1738.heic?v=1763479935"
   },
@@ -18949,7 +18949,7 @@
     "variant_title": "Default Title",
     "sku": "1863",
     "price": 399.0,
-    "stock": 52,
+    "stock": 51,
     "url": "https://www.daivik.in/products/kemp-lakshmi-saree-pin-1?variant=gid://shopify/ProductVariant/48079483896030",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6093_2aee826c-235b-4edb-9d3d-6a671de994c5.jpg?v=1775907173"
   },
@@ -19651,7 +19651,7 @@
     "variant_title": "Default Title",
     "sku": "3540",
     "price": 149.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/kundan-lotus-coin-kasumalai-handmade-hair-pin?variant=gid://shopify/ProductVariant/48279058645214",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/33093669-130A-4A9A-94D1-732ABDF410FB.jpg?v=1779606079"
   },
@@ -19768,7 +19768,7 @@
     "variant_title": "1",
     "sku": "3539",
     "price": 199.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/handmade-lotus-flower-u-pin?variant=gid://shopify/ProductVariant/48294879232222",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6541_901f273f-d515-4509-8c32-1781f48291b7.jpg?v=1780223307"
   },
@@ -21167,6 +21167,15 @@
     "url": "https://www.daivik.in/products/balaji-black-thread-bracelet?variant=gid://shopify/ProductVariant/48629356986590",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0C8C6CF4-59B8-47AB-94C1-9DB2B7F85904.jpg?v=1787399713"
   },
+  "gid://shopify/ProductVariant/48630564880606": {
+    "product_title": "Diamond Look Alike 3 Layer Flower Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "316",
+    "price": 1499.0,
+    "stock": 10,
+    "url": "https://www.daivik.in/products/diamond-look-alike-3-layer-flower-neckalace-with-earrings?variant=gid://shopify/ProductVariant/48630564880606",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1184.jpg?v=1787466208"
+  },
   "gid://shopify/ProductVariant/48630569435358": {
     "product_title": "Diamond Look Alike 2 Layer Flower Necklace with Earrings",
     "variant_title": "Default Title",
@@ -21253,7 +21262,7 @@
     "variant_title": "Default Title",
     "sku": "722",
     "price": 699.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/lakshmi-rashmika-inspired-mangalsutra?variant=gid://shopify/ProductVariant/48801242218718",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1820.jpg?v=1788005030"
   },
@@ -21301,6 +21310,33 @@
     "stock": 14,
     "url": "https://www.daivik.in/products/diamond-look-alike-premium-mop-long-chain?variant=gid://shopify/ProductVariant/48965011046622",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/ACE010F6-F5B4-45B4-A6C3-FA584C593BF3.jpg?v=1788174488"
+  },
+  "gid://shopify/ProductVariant/48965767004382": {
+    "product_title": "Openable AD Kada with Interchangeable Colour Bangles (12 Shades)",
+    "variant_title": "2.4",
+    "sku": "1957",
+    "price": 1799.0,
+    "stock": 29,
+    "url": "https://www.daivik.in/products/openable-ad-kada-with-interchangeable-colour-bangles-12-shades?variant=gid://shopify/ProductVariant/48965767004382",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1886.jpg?v=1788191390"
+  },
+  "gid://shopify/ProductVariant/48965767037150": {
+    "product_title": "Openable AD Kada with Interchangeable Colour Bangles (12 Shades)",
+    "variant_title": "2.6",
+    "sku": "1957",
+    "price": 1799.0,
+    "stock": 26,
+    "url": "https://www.daivik.in/products/openable-ad-kada-with-interchangeable-colour-bangles-12-shades?variant=gid://shopify/ProductVariant/48965767037150",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1886.jpg?v=1788191390"
+  },
+  "gid://shopify/ProductVariant/48965767069918": {
+    "product_title": "Openable AD Kada with Interchangeable Colour Bangles (12 Shades)",
+    "variant_title": "2.8",
+    "sku": "1957",
+    "price": 1799.0,
+    "stock": 31,
+    "url": "https://www.daivik.in/products/openable-ad-kada-with-interchangeable-colour-bangles-12-shades?variant=gid://shopify/ProductVariant/48965767069918",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1886.jpg?v=1788191390"
   },
   "gid://shopify/ProductVariant/34430554472601": {
     "product_title": "Regular Use Stone Set Of Four Bangles",
@@ -30652,15 +30688,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/ad-hanging-pendants-earcuff-in-2-colors-price-for-each?variant=gid://shopify/ProductVariant/48597123268830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1249.jpg?v=1786618747"
-  },
-  "gid://shopify/ProductVariant/48630564880606": {
-    "product_title": "Diamond Look Alike 3 Layer Flower Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "316",
-    "price": 1499.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/diamond-look-alike-3-layer-flower-neckalace-with-earrings?variant=gid://shopify/ProductVariant/48630564880606",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1184.jpg?v=1787466208"
   },
   "gid://shopify/ProductVariant/48645693636830": {
     "product_title": "Black Beads Jali classic Mala / Chain",
