@@ -4882,7 +4882,7 @@
     "variant_title": "Default Title",
     "sku": "R12411",
     "price": 39400.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/pearlesque-bloom-choker?variant=gid://shopify/ProductVariant/50835737510185",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug46870.jpg?v=1756822066"
   },
@@ -5530,7 +5530,7 @@
     "variant_title": "Default Title",
     "sku": "R13903",
     "price": 19550.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/13-2?variant=gid://shopify/ProductVariant/51226624000297",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_58_Pics_22Sep28152.jpg?v=1758960154"
   },
@@ -14723,6 +14723,15 @@
     "url": "https://www.rasasilver.com/products/kiaraani-avaran-bangles?variant=gid://shopify/ProductVariant/52707665117481",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4073_jpg.jpg?v=1771324261"
   },
+  "gid://shopify/ProductVariant/52680815968553": {
+    "product_title": "Avirika CZ Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "R23152",
+    "price": 23715.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/avirika-cz-pendant-set-copy?variant=gid://shopify/ProductVariant/52680815968553",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4479.jpg?v=1771330296"
+  },
   "gid://shopify/ProductVariant/52680930099497": {
     "product_title": "Sri Balaji Temple Pendant",
     "variant_title": "Default Title",
@@ -23359,7 +23368,7 @@
     "variant_title": "Default Title",
     "sku": "R30881",
     "price": 39610.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/enchanted-moissanite-bracelet?variant=gid://shopify/ProductVariant/53346739126569",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July26191_resized.jpg?v=1785241245"
   },
@@ -40147,15 +40156,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/kundan-septum-ring?variant=gid://shopify/ProductVariant/52680819343657",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0101_copy.jpg?v=1771180032"
-  },
-  "gid://shopify/ProductVariant/52680815968553": {
-    "product_title": "Avirika CZ Pendant Set",
-    "variant_title": "Default Title",
-    "sku": "R23152",
-    "price": 23715.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/avirika-cz-pendant-set-copy?variant=gid://shopify/ProductVariant/52680815968553",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4479.jpg?v=1771330296"
   },
   "gid://shopify/ProductVariant/52680924594473": {
     "product_title": "Rivaara Kundan Pendant",
