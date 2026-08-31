@@ -42241,7 +42241,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-11580",
     "price": 20749.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/rehana-attigai-necklace?variant=gid://shopify/ProductVariant/47350428860643",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11580.jpg?v=1760876200"
   },
@@ -89486,15 +89486,6 @@
     "url": "https://www.theamethyststore.com/products/avikam-jhumkas-10?variant=gid://shopify/ProductVariant/49495313678563",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15489.jpg?v=1785764037"
   },
-  "gid://shopify/ProductVariant/49495318135011": {
-    "product_title": "Shine Avikam Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15490",
-    "price": 31600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/avikam-jhumkas-11?variant=gid://shopify/ProductVariant/49495318135011",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15490.jpg?v=1785764187"
-  },
   "gid://shopify/ProductVariant/49495322722531": {
     "product_title": "Madhishi Avikam Jhumkas",
     "variant_title": "Default Title",
@@ -127249,6 +127240,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/unisha-kundan-short-necklace?variant=gid://shopify/ProductVariant/49495247552739",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17155.jpg?v=1785761294"
+  },
+  "gid://shopify/ProductVariant/49495318135011": {
+    "product_title": "Shine Avikam Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15490",
+    "price": 31600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/avikam-jhumkas-11?variant=gid://shopify/ProductVariant/49495318135011",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15490.jpg?v=1785764187"
   },
   "gid://shopify/ProductVariant/49495336452323": {
     "product_title": "Dazzle Avikam Pendant Set",
