@@ -143,15 +143,6 @@
     "url": "https://www.rasasilver.com/products/sharmika-necklace-set?variant=gid://shopify/ProductVariant/49866172268841",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP08810copy.jpg?v=1773127989"
   },
-  "gid://shopify/ProductVariant/49866244686121": {
-    "product_title": "Addige Victorian Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "R1406",
-    "price": 178900.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/addige-victorian-long-necklace?variant=gid://shopify/ProductVariant/49866244686121",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-98.jpg?v=1740992725"
-  },
   "gid://shopify/ProductVariant/49866323034409": {
     "product_title": "Nihali Victorian Short Necklace",
     "variant_title": "Default Title",
@@ -5281,15 +5272,6 @@
     "stock": 2,
     "url": "https://www.rasasilver.com/products/rose-tiara-ring?variant=gid://shopify/ProductVariant/52279530357033",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0100copy_resized.jpg?v=1758177890"
-  },
-  "gid://shopify/ProductVariant/51205136285993": {
-    "product_title": "Floral Cascade Matil",
-    "variant_title": "Default Title",
-    "sku": "R11210",
-    "price": 52800.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/floral-cascade-matil?variant=gid://shopify/ProductVariant/51205136285993",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_83_6Aug24292_resized.jpg?v=1757939638"
   },
   "gid://shopify/ProductVariant/51205341970729": {
     "product_title": "Lush Loop Bangles",
@@ -16973,15 +16955,6 @@
     "url": "https://www.rasasilver.com/products/radha-madhav-temple-danglers?variant=gid://shopify/ProductVariant/52846776221993",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_9Mar0917_resized.jpg?v=1773813298"
   },
-  "gid://shopify/ProductVariant/52855794598185": {
-    "product_title": "Queen\u2019s Heirloom Victorian Tikka",
-    "variant_title": "Default Title",
-    "sku": "R21492",
-    "price": 13090.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/queen-s-heirloom-victorian-tikka?variant=gid://shopify/ProductVariant/52855794598185",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_12_Mar16344.jpg?v=1774006891"
-  },
   "gid://shopify/ProductVariant/52866000814377": {
     "product_title": "Hemakundari Kundan Bracelet",
     "variant_title": "Default Title",
@@ -25982,6 +25955,15 @@
     "url": "https://www.rasasilver.com/products/lily-two-strand-necklace?variant=gid://shopify/ProductVariant/51178838032681",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS_P621.jpg?v=1757402009"
   },
+  "gid://shopify/ProductVariant/49866244686121": {
+    "product_title": "Addige Victorian Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "R1406",
+    "price": 178900.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/addige-victorian-long-necklace?variant=gid://shopify/ProductVariant/49866244686121",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-98.jpg?v=1740992725"
+  },
   "gid://shopify/ProductVariant/49953690026281": {
     "product_title": "Indra Agni Emerald Necklace",
     "variant_title": "Default Title",
@@ -28105,6 +28087,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/snap-n-shine-bracelet?variant=gid://shopify/ProductVariant/51204820468009",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP900.jpg?v=1757935558"
+  },
+  "gid://shopify/ProductVariant/51205136285993": {
+    "product_title": "Floral Cascade Matil",
+    "variant_title": "Default Title",
+    "sku": "R11210",
+    "price": 52800.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/floral-cascade-matil?variant=gid://shopify/ProductVariant/51205136285993",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_83_6Aug24292_resized.jpg?v=1757939638"
   },
   "gid://shopify/ProductVariant/51205308547369": {
     "product_title": "Halo of Hearts Hoops",
@@ -42640,6 +42631,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/noorani-pasalu-stone-danglers?variant=gid://shopify/ProductVariant/52842940858665",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_9Mar0826_1.jpg?v=1773733408"
+  },
+  "gid://shopify/ProductVariant/52855794598185": {
+    "product_title": "Queen\u2019s Heirloom Victorian Tikka",
+    "variant_title": "Default Title",
+    "sku": "R21492",
+    "price": 13090.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/queen-s-heirloom-victorian-tikka?variant=gid://shopify/ProductVariant/52855794598185",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_12_Mar16344.jpg?v=1774006891"
   },
   "gid://shopify/ProductVariant/52866104820009": {
     "product_title": "Kushelia Antique Choker",
