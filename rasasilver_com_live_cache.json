@@ -12694,7 +12694,7 @@
     "variant_title": "Default Title",
     "sku": "R22642",
     "price": 20570.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/rose-dewdrop-gem-necklace?variant=gid://shopify/ProductVariant/52518632292649",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan1112_resized.jpg?v=1769584461"
   },
@@ -23749,15 +23749,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/sea-blue-beads-antique-mala?variant=gid://shopify/ProductVariant/53362364317993",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0439.jpg?v=1786362746"
-  },
-  "gid://shopify/ProductVariant/53362403705129": {
-    "product_title": "Purple Beads Necklace",
-    "variant_title": "Default Title",
-    "sku": "R32768",
-    "price": 7310.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/purple-beads-antique-mala?variant=gid://shopify/ProductVariant/53362403705129",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0423.jpg?v=1786364737"
   },
   "gid://shopify/ProductVariant/53362405048617": {
     "product_title": "Multi-Color Beads Necklace",
@@ -46825,6 +46816,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/grey-beads-antique-mala?variant=gid://shopify/ProductVariant/53362402394409",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0444.jpg?v=1786362456"
+  },
+  "gid://shopify/ProductVariant/53362403705129": {
+    "product_title": "Purple Beads Necklace",
+    "variant_title": "Default Title",
+    "sku": "R32768",
+    "price": 7310.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/purple-beads-antique-mala?variant=gid://shopify/ProductVariant/53362403705129",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0423.jpg?v=1786364737"
   },
   "gid://shopify/ProductVariant/53362408554793": {
     "product_title": "Orange Beads Necklace",
