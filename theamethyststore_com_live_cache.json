@@ -2609,15 +2609,6 @@
     "url": "https://www.theamethyststore.com/products/sakshi-stone-studs?variant=gid://shopify/ProductVariant/43323893285091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3266.jpg?v=1662787360"
   },
-  "gid://shopify/ProductVariant/43324294037731": {
-    "product_title": "Shiviya Stone Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-3458",
-    "price": 21183.56,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/shiviya-stone-earrings?variant=gid://shopify/ProductVariant/43324294037731",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3458.jpg?v=1662818522"
-  },
   "gid://shopify/ProductVariant/43325390061795": {
     "product_title": "Advik Bracelet",
     "variant_title": "Default Title",
@@ -15452,15 +15443,6 @@
     "url": "https://www.theamethyststore.com/products/vidish-deep-nagas-necklace-set?variant=gid://shopify/ProductVariant/45966707458275",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8218_3.jpg?v=1738418341"
   },
-  "gid://shopify/ProductVariant/45968696738019": {
-    "product_title": "Pranita Kundan Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-7513",
-    "price": 32100.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/pranita-kundan-jhumkas?variant=gid://shopify/ProductVariant/45968696738019",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/128-01865.jpg?v=1738566635"
-  },
   "gid://shopify/ProductVariant/45968726458595": {
     "product_title": "Brindha Nagas Pair Bangle",
     "variant_title": "2.5\"",
@@ -22912,15 +22894,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/dhiksha-stone-pair-bangles?variant=gid://shopify/ProductVariant/46749752230115",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2047.jpg?v=1750747126"
-  },
-  "gid://shopify/ProductVariant/47654010912995": {
-    "product_title": "Laravika Stone Pair Bangles",
-    "variant_title": "2.4\"",
-    "sku": "AMS-107-2055-2.4\"",
-    "price": 21350.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/laravika-stone-pair-bangles?variant=gid://shopify/ProductVariant/47654010912995",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2055.jpg?v=1750749130"
   },
   "gid://shopify/ProductVariant/46749886742755": {
     "product_title": "Shriyan Stone Single Bangle",
@@ -62710,15 +62683,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/shivya-stone-short-necklace?variant=gid://shopify/ProductVariant/48411893432547",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14820-_2.jpg?v=1772693512"
-  },
-  "gid://shopify/ProductVariant/48411900084451": {
-    "product_title": "Avanika Stone Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-14821",
-    "price": 31200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/avanika-stone-short-necklace?variant=gid://shopify/ProductVariant/48411900084451",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14821.jpg?v=1772693659"
   },
   "gid://shopify/ProductVariant/48411904639203": {
     "product_title": "Nivika Stone Short Necklace",
@@ -104903,6 +104867,15 @@
     "url": "https://www.theamethyststore.com/products/ramar-pattabisegam-oddiyanam?variant=gid://shopify/ProductVariant/43321088278755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0229_3.jpg?v=1744895816"
   },
+  "gid://shopify/ProductVariant/43324294037731": {
+    "product_title": "Shiviya Stone Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-3458",
+    "price": 21183.56,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/shiviya-stone-earrings?variant=gid://shopify/ProductVariant/43324294037731",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3458.jpg?v=1662818522"
+  },
   "gid://shopify/ProductVariant/43325423059171": {
     "product_title": "Delightful Kundan Sheeshphool",
     "variant_title": "Default Title",
@@ -107828,6 +107801,15 @@
     "url": "https://www.theamethyststore.com/products/rekhashri-deep-nagas-necklace-set?variant=gid://shopify/ProductVariant/45966713553123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8217_1.jpg?v=1738418608"
   },
+  "gid://shopify/ProductVariant/45968696738019": {
+    "product_title": "Pranita Kundan Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-7513",
+    "price": 32100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/pranita-kundan-jhumkas?variant=gid://shopify/ProductVariant/45968696738019",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/128-01865.jpg?v=1738566635"
+  },
   "gid://shopify/ProductVariant/45968932208867": {
     "product_title": "Aalia Toe Ring",
     "variant_title": "Default Title",
@@ -109339,6 +109321,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/dhiksha-stone-pair-bangles?variant=gid://shopify/ProductVariant/46749753868515",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2047.jpg?v=1750747126"
+  },
+  "gid://shopify/ProductVariant/47654010912995": {
+    "product_title": "Laravika Stone Pair Bangles",
+    "variant_title": "2.4\"",
+    "sku": "AMS-107-2055-2.4\"",
+    "price": 21350.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/laravika-stone-pair-bangles?variant=gid://shopify/ProductVariant/47654010912995",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2055.jpg?v=1750749130"
   },
   "gid://shopify/ProductVariant/46875661107427": {
     "product_title": "Vithula Stone Pair Bangles",
@@ -118672,6 +118663,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/inaya-nagas-short-necklace?variant=gid://shopify/ProductVariant/48408085889251",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15066.jpg?v=1772633810"
+  },
+  "gid://shopify/ProductVariant/48411900084451": {
+    "product_title": "Avanika Stone Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-14821",
+    "price": 31200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/avanika-stone-short-necklace?variant=gid://shopify/ProductVariant/48411900084451",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14821.jpg?v=1772693659"
   },
   "gid://shopify/ProductVariant/48412249260259": {
     "product_title": "Shiviya Reversible Stone Necklace",
