@@ -5543,15 +5543,6 @@
     "url": "https://www.dulhanjewels.com/products/traditional-jadau-kundan-choker-with-hangings?variant=gid://shopify/ProductVariant/51548709585202",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9913.jpg?v=1786021610"
   },
-  "gid://shopify/ProductVariant/51553601519922": {
-    "product_title": "Classic Jadau Kundan Stud Earrings With Pearl Bordering",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1000.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/classic-jadau-kundan-stud-earrings-with-pearl-bordering-1?variant=gid://shopify/ProductVariant/51553601519922",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_8711835b-f0c2-46bd-bc08-e289a169a867.jpg?v=1786433788"
-  },
   "gid://shopify/ProductVariant/51553602240818": {
     "product_title": "Floral Design Jadau Kundan Pearl Choker With Green Beads",
     "variant_title": "Default Title",
@@ -6316,15 +6307,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/mango-design-jadau-kundan-bangles?variant=gid://shopify/ProductVariant/51674378600754",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/E8B16080-CB7D-4C32-9714-F771C6B210C1.jpg?v=1787999441"
-  },
-  "gid://shopify/ProductVariant/51674382762290": {
-    "product_title": "Designer Jadau Kundan Hair Pin With Strawberry Beads",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2050.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/designer-jadau-kundan-hair-pin-with-strawberry-beads?variant=gid://shopify/ProductVariant/51674382762290",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0595.jpg?v=1788163817"
   },
   "gid://shopify/ProductVariant/51674397212978": {
     "product_title": "Bridal Victorian Emerald Necklace With Matching Earrings",
@@ -7973,6 +7955,15 @@
     "url": "https://www.dulhanjewels.com/products/floral-studded-jadau-kundan-jhumki-earrings-with-green-beads-1?variant=gid://shopify/ProductVariant/51519042126130",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9554.jpg?v=1785416474"
   },
+  "gid://shopify/ProductVariant/51553601519922": {
+    "product_title": "Classic Jadau Kundan Stud Earrings With Pearl Bordering",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1000.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/classic-jadau-kundan-stud-earrings-with-pearl-bordering-1?variant=gid://shopify/ProductVariant/51553601519922",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_8711835b-f0c2-46bd-bc08-e289a169a867.jpg?v=1786433788"
+  },
   "gid://shopify/ProductVariant/51553607582002": {
     "product_title": "Elegant Jadau Kundan Earchain With Pearl Hangings",
     "variant_title": "Default Title",
@@ -8107,5 +8098,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/designer-jadau-kundan-kasulu-haram-with-pendant?variant=gid://shopify/ProductVariant/51674358710578",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/9D4AB58B-10A5-448C-9472-F29637F795A1.jpg?v=1787999000"
+  },
+  "gid://shopify/ProductVariant/51674382762290": {
+    "product_title": "Designer Jadau Kundan Hair Pin With Strawberry Beads",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2050.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/designer-jadau-kundan-hair-pin-with-strawberry-beads?variant=gid://shopify/ProductVariant/51674382762290",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0595.jpg?v=1788163817"
   }
 }
