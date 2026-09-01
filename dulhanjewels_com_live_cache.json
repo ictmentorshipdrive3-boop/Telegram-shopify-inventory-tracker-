@@ -6155,15 +6155,6 @@
     "url": "https://www.dulhanjewels.com/products/royal-jadau-kundan-choker-with-strawberry-beads?variant=gid://shopify/ProductVariant/51634769101106",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0355.jpg?v=1787560667"
   },
-  "gid://shopify/ProductVariant/51647175622962": {
-    "product_title": "Designer Jadau Kundan Necklace With Strawberry Beads",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2300.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/designer-jadau-kundan-necklace-with-strawberry-beads?variant=gid://shopify/ProductVariant/51647175622962",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/F6CCAD83-08E1-49D7-BF5B-99AABAF98299.jpg?v=1787650009"
-  },
   "gid://shopify/ProductVariant/51647189483826": {
     "product_title": "Kundan Jhumki Earrings With Green Beads And Pearl Drops",
     "variant_title": "Default Title",
@@ -6424,15 +6415,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/peacock-design-victorian-stud-earrings-with-pearl-bordering?variant=gid://shopify/ProductVariant/51674411991346",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/C499D29D-9914-4F43-98EE-56D76E9C6139.jpg?v=1788000700"
-  },
-  "gid://shopify/ProductVariant/51674439582002": {
-    "product_title": "Radiant Victorian Chandbali Earrings With Pearl Drops",
-    "variant_title": "Red",
-    "sku": null,
-    "price": 1500.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/radiant-victorian-chandbali-earrings-with-pearl-drops?variant=gid://shopify/ProductVariant/51674439582002",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0561.jpg?v=1788000912"
   },
   "gid://shopify/ProductVariant/51674439614770": {
     "product_title": "Radiant Victorian Chandbali Earrings With Pearl Drops",
@@ -8036,6 +8018,15 @@
     "url": "https://www.dulhanjewels.com/products/elegant-floral-jadau-kundan-stud-earrings?variant=gid://shopify/ProductVariant/51647153340722",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_1b6b5e9f-98e5-4da4-a831-d91c92eee850.jpg?v=1787649938"
   },
+  "gid://shopify/ProductVariant/51647175622962": {
+    "product_title": "Designer Jadau Kundan Necklace With Strawberry Beads",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2300.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/designer-jadau-kundan-necklace-with-strawberry-beads?variant=gid://shopify/ProductVariant/51647175622962",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/F6CCAD83-08E1-49D7-BF5B-99AABAF98299.jpg?v=1787650009"
+  },
   "gid://shopify/ProductVariant/51674292617522": {
     "product_title": "Regal Jadau Kundan Chandbali Earrings With Emerald Hangings",
     "variant_title": "Default Title",
@@ -8044,6 +8035,15 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/regal-jadau-kundan-chandbali-earrings-with-emerald-hangings-1?variant=gid://shopify/ProductVariant/51674292617522",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/A45834AD-FDA2-4511-9864-760087502FAA.jpg?v=1788246180"
+  },
+  "gid://shopify/ProductVariant/51674439582002": {
+    "product_title": "Radiant Victorian Chandbali Earrings With Pearl Drops",
+    "variant_title": "Red",
+    "sku": null,
+    "price": 1500.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/radiant-victorian-chandbali-earrings-with-pearl-drops?variant=gid://shopify/ProductVariant/51674439582002",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0561.jpg?v=1788000912"
   },
   "gid://shopify/ProductVariant/51682862989618": {
     "product_title": "Ethnic Jadau Kundan Choker With Pearl Drops",
