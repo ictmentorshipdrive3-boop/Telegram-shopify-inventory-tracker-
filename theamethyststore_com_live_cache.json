@@ -80855,15 +80855,6 @@
     "url": "https://www.theamethyststore.com/products/kundan-long-earrings-20?variant=gid://shopify/ProductVariant/49373656187107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14884.jpg?v=1783434273"
   },
-  "gid://shopify/ProductVariant/49375513116899": {
-    "product_title": "Traditional Kundan Jada Billa",
-    "variant_title": "Default Title",
-    "sku": "AMS-112-0846",
-    "price": 31120.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kundan-jada-billa-18?variant=gid://shopify/ProductVariant/49375513116899",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0846.jpg?v=1783494489"
-  },
   "gid://shopify/ProductVariant/49375635636451": {
     "product_title": "Heritage Kundan Jada Billa",
     "variant_title": "Default Title",
@@ -104075,6 +104066,33 @@
     "url": "https://www.theamethyststore.com/products/delightful-nagas-short-necklace-set?variant=gid://shopify/ProductVariant/49653518762211",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17197.jpg?v=1788247991"
   },
+  "gid://shopify/ProductVariant/49653637284067": {
+    "product_title": "Vikasaa Stone Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2281",
+    "price": 4200.0,
+    "stock": 5,
+    "url": "https://www.theamethyststore.com/products/stone-ring?variant=gid://shopify/ProductVariant/49653637284067",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2281.jpg?v=1788250784"
+  },
+  "gid://shopify/ProductVariant/49653648195811": {
+    "product_title": "Hanisha Stone Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2282",
+    "price": 4200.0,
+    "stock": 5,
+    "url": "https://www.theamethyststore.com/products/stone-ring-1?variant=gid://shopify/ProductVariant/49653648195811",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2282.jpg?v=1788251180"
+  },
+  "gid://shopify/ProductVariant/49653655339235": {
+    "product_title": "Vikasha Stone Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2283",
+    "price": 4700.0,
+    "stock": 7,
+    "url": "https://www.theamethyststore.com/products/stone-ring-2?variant=gid://shopify/ProductVariant/49653655339235",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2283.jpg?v=1788251311"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -126296,6 +126314,15 @@
     "url": "https://www.theamethyststore.com/products/ruhika-kundan-jhumkas?variant=gid://shopify/ProductVariant/49373594419427",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14864.jpg?v=1783430589"
   },
+  "gid://shopify/ProductVariant/49375513116899": {
+    "product_title": "Traditional Kundan Jada Billa",
+    "variant_title": "Default Title",
+    "sku": "AMS-112-0846",
+    "price": 31120.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kundan-jada-billa-18?variant=gid://shopify/ProductVariant/49375513116899",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0846.jpg?v=1783494489"
+  },
   "gid://shopify/ProductVariant/49375713132771": {
     "product_title": "Liyasri Kundan Jhumkas",
     "variant_title": "Default Title",
@@ -129112,5 +129139,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/ams-102-0756?variant=gid://shopify/ProductVariant/49626556334307",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/ams-102-0756.jpg?v=1787903303"
+  },
+  "gid://shopify/ProductVariant/49653658452195": {
+    "product_title": "Grace Stone Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2284",
+    "price": 5200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/stone-ring-3?variant=gid://shopify/ProductVariant/49653658452195",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2284.jpg?v=1788251490"
   }
 }
