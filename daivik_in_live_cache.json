@@ -13,7 +13,7 @@
     "variant_title": "Default Title",
     "sku": "29",
     "price": 1999.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/29?variant=gid://shopify/ProductVariant/32600664506427",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG-6786.jpg?v=1583735555"
   },
@@ -10741,7 +10741,7 @@
     "variant_title": "2",
     "sku": "1563",
     "price": 549.0,
-    "stock": 24,
+    "stock": 23,
     "url": "https://www.daivik.in/products/single-pearl-jadabillai?variant=gid://shopify/ProductVariant/46312480342238",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7F0644E6-8FA7-474E-B68E-C1CAECD95E76.jpg?v=1740324438"
   },
@@ -18854,15 +18854,6 @@
     "url": "https://www.daivik.in/products/pure-kemp-brass-peacock-and-lakshmi-necklace-with-jhumkas?variant=gid://shopify/ProductVariant/48079406498014",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9038.jpg?v=1775904055"
   },
-  "gid://shopify/ProductVariant/48079406530782": {
-    "product_title": "Antique Temple Style Short and Long Lakshmi Haram with Earringss",
-    "variant_title": "Short",
-    "sku": "446",
-    "price": 2799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/antique-temple-style-short-and-long-lakshmi-haram-with-earringss?variant=gid://shopify/ProductVariant/48079406530782",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9044.jpg?v=1775904077"
-  },
   "gid://shopify/ProductVariant/48079406563550": {
     "product_title": "Antique Temple Style Short and Long Lakshmi Haram with Earringss",
     "variant_title": "Long",
@@ -20722,7 +20713,7 @@
     "variant_title": "Default Title",
     "sku": "1238",
     "price": 1099.0,
-    "stock": 48,
+    "stock": 47,
     "url": "https://www.daivik.in/products/elakkathali-gold-finish-choker-with-backchain?variant=gid://shopify/ProductVariant/48519024181470",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3F8CA7E3-AF8B-44DE-B3E3-8A92E5E3EC2A.jpg?v=1785339439"
   },
@@ -21091,7 +21082,7 @@
     "variant_title": "2.4",
     "sku": "1949",
     "price": 1699.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/antique-lakshmi-kada?variant=gid://shopify/ProductVariant/48606013096158",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C212A11D-8F23-46DE-8894-E34661B11E0C.jpg?v=1786900231"
   },
@@ -21100,7 +21091,7 @@
     "variant_title": "2.6",
     "sku": "1949",
     "price": 1699.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/antique-lakshmi-kada?variant=gid://shopify/ProductVariant/48606013128926",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C212A11D-8F23-46DE-8894-E34661B11E0C.jpg?v=1786900231"
   },
@@ -21226,7 +21217,7 @@
     "variant_title": "Default Title",
     "sku": "294",
     "price": 499.0,
-    "stock": 51,
+    "stock": 50,
     "url": "https://www.daivik.in/products/simple-flower-pendant-hasli-necklace-with-earrings?variant=gid://shopify/ProductVariant/48649192210654",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1580_83ae5a0b-d197-4578-a296-bbad5f5a2b8a.jpg?v=1787842746"
   },
@@ -21289,7 +21280,7 @@
     "variant_title": "2.4",
     "sku": "1957",
     "price": 1799.0,
-    "stock": 27,
+    "stock": 26,
     "url": "https://www.daivik.in/products/openable-ad-kada-with-interchangeable-colour-bangles-12-shades?variant=gid://shopify/ProductVariant/48965767004382",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1886.jpg?v=1788191390"
   },
@@ -30364,6 +30355,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-designer-watch-bracelet-17?variant=gid://shopify/ProductVariant/48070983483614",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_4577.jpg?v=1775655589"
+  },
+  "gid://shopify/ProductVariant/48079406530782": {
+    "product_title": "Antique Temple Style Short and Long Lakshmi Haram with Earringss",
+    "variant_title": "Short",
+    "sku": "446",
+    "price": 2799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/antique-temple-style-short-and-long-lakshmi-haram-with-earringss?variant=gid://shopify/ProductVariant/48079406530782",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9044.jpg?v=1775904077"
   },
   "gid://shopify/ProductVariant/48082740019422": {
     "product_title": "Triple Foam Handmade Artificial Lotus Buds Kunjalam/Hair Extension",
