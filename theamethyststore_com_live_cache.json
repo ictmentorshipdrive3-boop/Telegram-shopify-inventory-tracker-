@@ -21689,15 +21689,6 @@
     "url": "https://www.theamethyststore.com/products/flawless-chandubaali-earrings?variant=gid://shopify/ProductVariant/46529991475427",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8480.jpg?v=1749532258"
   },
-  "gid://shopify/ProductVariant/46530222096611": {
-    "product_title": "Sharvani Chandubaali Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-8482",
-    "price": 14569.2,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/sharvani-chandubaali-earrings?variant=gid://shopify/ProductVariant/46530222096611",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8482.jpg?v=1749532629"
-  },
   "gid://shopify/ProductVariant/46530680127715": {
     "product_title": "Lakshikha Chandubaali Earrings",
     "variant_title": "Default Title",
@@ -81706,7 +81697,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-1334",
     "price": 4300.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/aashvi-plain-bracelet?variant=gid://shopify/ProductVariant/49390400766179",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1334.jpg?v=1783682086"
   },
@@ -109033,6 +109024,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/shine-floral-short-necklace?variant=gid://shopify/ProductVariant/46495424872675",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9709.jpg?v=1749467220"
+  },
+  "gid://shopify/ProductVariant/46530222096611": {
+    "product_title": "Sharvani Chandubaali Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-8482",
+    "price": 14569.2,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/sharvani-chandubaali-earrings?variant=gid://shopify/ProductVariant/46530222096611",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8482.jpg?v=1749532629"
   },
   "gid://shopify/ProductVariant/46530353168611": {
     "product_title": "Suhanitha Chandubaali Earrings",
