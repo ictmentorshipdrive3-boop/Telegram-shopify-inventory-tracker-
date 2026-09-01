@@ -2211,7 +2211,7 @@
     "price": 4300.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/green-grape-bracelet?variant=gid://shopify/ProductVariant/43278122352867",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-0251_f97fcba8-45aa-41fd-8a10-d6220e578b5a.jpg?v=1787980793"
+    "image_url": null
   },
   "gid://shopify/ProductVariant/43278708703459": {
     "product_title": "Manasi Stone Studs",
@@ -104047,6 +104047,24 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/simply-beautiful-nagas-short-necklace-set?variant=gid://shopify/ProductVariant/49653149434083",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16730.jpg?v=1788243656"
+  },
+  "gid://shopify/ProductVariant/49653247410403": {
+    "product_title": "Sparkling Brilliantly Nagas Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16732",
+    "price": 17920.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/sparkling-brilliantly-nagas-short-necklace-set?variant=gid://shopify/ProductVariant/49653247410403",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16732_a6c07409-1197-45e2-9c96-8680c300d7f7.jpg?v=1788244499"
+  },
+  "gid://shopify/ProductVariant/49653300986083": {
+    "product_title": "Glowing with Beauty Nagas Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16733",
+    "price": 35260.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/glowing-with-beauty-nagas-short-necklace-set?variant=gid://shopify/ProductVariant/49653300986083",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16733.jpg?v=1788244812"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
