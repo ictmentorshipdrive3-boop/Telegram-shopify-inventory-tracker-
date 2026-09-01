@@ -4414,7 +4414,7 @@
     "variant_title": "Default Title",
     "sku": "615",
     "price": 899.0,
-    "stock": 18,
+    "stock": 17,
     "url": "https://www.daivik.in/products/untitled-aug4_17-06?variant=gid://shopify/ProductVariant/44296801288414",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7904516E-E7B4-46B8-B434-889ACD4A5DF5.jpg?v=1691149387"
   },
@@ -10948,7 +10948,7 @@
     "variant_title": "Default Title",
     "sku": "603",
     "price": 1799.0,
-    "stock": 49,
+    "stock": 48,
     "url": "https://www.daivik.in/products/ad-non-idol-pearl-haram-with-balis?variant=gid://shopify/ProductVariant/46343005143262",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3078.heic?v=1741273933"
   },
@@ -12010,7 +12010,7 @@
     "variant_title": "Ruby",
     "sku": "1271",
     "price": 699.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/simple-ad-pendant-chain-with-earrings-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/46846749081822",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B94991DF-1B75-4ED6-98CA-1FC08B361B9C.jpg?v=1748359623"
   },
@@ -16348,7 +16348,7 @@
     "variant_title": "White",
     "sku": "1335",
     "price": 649.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/ad-mesh-necklace-with-studs-in-5-colours-price-for-each?variant=gid://shopify/ProductVariant/47669942157534",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D2F649D9-0CC0-47ED-8F54-DCF4D0222297.jpg?v=1762878208"
   },
@@ -17968,7 +17968,7 @@
     "variant_title": "Default Title",
     "sku": "571",
     "price": 1299.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/lakshmi-pendant-beads-choker-with-earrings?variant=gid://shopify/ProductVariant/47950387085534",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/714FE7F9-2484-4B71-87EE-D2E7981905EC.jpg?v=1772728689"
   },
@@ -18789,15 +18789,6 @@
     "price": 799.0,
     "stock": 1,
     "url": "https://www.daivik.in/products/simple-ad-choker-with-earrings-in-5-colors?variant=gid://shopify/ProductVariant/48078267777246",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_4514.jpg?v=1775884975"
-  },
-  "gid://shopify/ProductVariant/48078267810014": {
-    "product_title": "Simple AD Flower Choker with Earrings in 5 Colors (Price for Each)",
-    "variant_title": "Turquoise",
-    "sku": "880",
-    "price": 799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/simple-ad-choker-with-earrings-in-5-colors?variant=gid://shopify/ProductVariant/48078267810014",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_4514.jpg?v=1775884975"
   },
   "gid://shopify/ProductVariant/48078267842782": {
@@ -21217,7 +21208,7 @@
     "variant_title": "Default Title",
     "sku": "294",
     "price": 499.0,
-    "stock": 49,
+    "stock": 48,
     "url": "https://www.daivik.in/products/simple-flower-pendant-hasli-necklace-with-earrings?variant=gid://shopify/ProductVariant/48649192210654",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1580_83ae5a0b-d197-4578-a296-bbad5f5a2b8a.jpg?v=1787842746"
   },
@@ -30355,6 +30346,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-designer-watch-bracelet-17?variant=gid://shopify/ProductVariant/48070983483614",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_4577.jpg?v=1775655589"
+  },
+  "gid://shopify/ProductVariant/48078267810014": {
+    "product_title": "Simple AD Flower Choker with Earrings in 5 Colors (Price for Each)",
+    "variant_title": "Turquoise",
+    "sku": "880",
+    "price": 799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/simple-ad-choker-with-earrings-in-5-colors?variant=gid://shopify/ProductVariant/48078267810014",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_4514.jpg?v=1775884975"
   },
   "gid://shopify/ProductVariant/48079406530782": {
     "product_title": "Antique Temple Style Short and Long Lakshmi Haram with Earringss",
