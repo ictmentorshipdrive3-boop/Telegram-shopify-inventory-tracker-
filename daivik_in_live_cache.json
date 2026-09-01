@@ -7906,7 +7906,7 @@
     "variant_title": "Default Title",
     "sku": "1117",
     "price": 999.0,
-    "stock": 28,
+    "stock": 27,
     "url": "https://www.daivik.in/products/ad-pendant-mangalsutra-with-studs?variant=gid://shopify/ProductVariant/45905761435870",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1BFD7312-DC7F-4913-8069-C828D5725142.jpg?v=1726894974"
   },
@@ -18854,15 +18854,6 @@
     "url": "https://www.daivik.in/products/antique-temple-style-short-and-long-lakshmi-haram-with-earringss?variant=gid://shopify/ProductVariant/48079406563550",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9044.jpg?v=1775904077"
   },
-  "gid://shopify/ProductVariant/48079406596318": {
-    "product_title": "Antique Temple Style Short and Long Lakshmi Haram with Earringss",
-    "variant_title": "Combo",
-    "sku": "446",
-    "price": 5999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/antique-temple-style-short-and-long-lakshmi-haram-with-earringss?variant=gid://shopify/ProductVariant/48079406596318",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9044.jpg?v=1775904077"
-  },
   "gid://shopify/ProductVariant/48079407087838": {
     "product_title": "Antique Lakshmi Coin Short and Long Necklace with Earrings",
     "variant_title": "Short",
@@ -21082,7 +21073,7 @@
     "variant_title": "2.6",
     "sku": "1949",
     "price": 1699.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/antique-lakshmi-kada?variant=gid://shopify/ProductVariant/48606013128926",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C212A11D-8F23-46DE-8894-E34661B11E0C.jpg?v=1786900231"
   },
@@ -30363,6 +30354,15 @@
     "price": 2799.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-temple-style-short-and-long-lakshmi-haram-with-earringss?variant=gid://shopify/ProductVariant/48079406530782",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9044.jpg?v=1775904077"
+  },
+  "gid://shopify/ProductVariant/48079406596318": {
+    "product_title": "Antique Temple Style Short and Long Lakshmi Haram with Earringss",
+    "variant_title": "Combo",
+    "sku": "446",
+    "price": 5999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/antique-temple-style-short-and-long-lakshmi-haram-with-earringss?variant=gid://shopify/ProductVariant/48079406596318",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9044.jpg?v=1775904077"
   },
   "gid://shopify/ProductVariant/48082740019422": {
