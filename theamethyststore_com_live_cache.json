@@ -3995,15 +3995,6 @@
     "url": "https://www.theamethyststore.com/products/nila-stone-nose-pin?variant=gid://shopify/ProductVariant/43691193336035",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-113-0219.jpg?v=1675150703"
   },
-  "gid://shopify/ProductVariant/43691202117859": {
-    "product_title": "Chandni Nose Pin",
-    "variant_title": "Default Title",
-    "sku": "AMS-113-0221",
-    "price": 1300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/chandni-nose-pin-1?variant=gid://shopify/ProductVariant/43691202117859",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-113-0221.jpg?v=1675151176"
-  },
   "gid://shopify/ProductVariant/43691210506467": {
     "product_title": "Krithi Floryn Nose Pin",
     "variant_title": "Default Title",
@@ -51403,7 +51394,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-113-0392",
     "price": 1300.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/dazzle-bullakku-nose-pin?variant=gid://shopify/ProductVariant/47807882002659",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0392.jpg?v=1767964135"
   },
@@ -51415,15 +51406,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/vamika-stone-studs?variant=gid://shopify/ProductVariant/47807902646499",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12362.jpg?v=1767965620"
-  },
-  "gid://shopify/ProductVariant/47807902908643": {
-    "product_title": "Dakshara Bullakku Nose Pin",
-    "variant_title": "Default Title",
-    "sku": "AMS-113-0415",
-    "price": 1300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/dakshara-bullakku-nose-pin?variant=gid://shopify/ProductVariant/47807902908643",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0415.jpg?v=1767965675"
   },
   "gid://shopify/ProductVariant/47807903891683": {
     "product_title": "Fabulous Bullakku Nose Pin",
@@ -105245,6 +105227,15 @@
     "url": "https://www.theamethyststore.com/products/anita-stone-drops?variant=gid://shopify/ProductVariant/43660155158755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-4026.jpg?v=1673962181"
   },
+  "gid://shopify/ProductVariant/43691202117859": {
+    "product_title": "Chandni Nose Pin",
+    "variant_title": "Default Title",
+    "sku": "AMS-113-0221",
+    "price": 1300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/chandni-nose-pin-1?variant=gid://shopify/ProductVariant/43691202117859",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-113-0221.jpg?v=1675151176"
+  },
   "gid://shopify/ProductVariant/43691519836387": {
     "product_title": "Preetha Nose Pin",
     "variant_title": "Default Title",
@@ -115666,6 +115657,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/rasika-bullakku-nose-pin?variant=gid://shopify/ProductVariant/47807883608291",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0393.jpg?v=1767964283"
+  },
+  "gid://shopify/ProductVariant/47807902908643": {
+    "product_title": "Dakshara Bullakku Nose Pin",
+    "variant_title": "Default Title",
+    "sku": "AMS-113-0415",
+    "price": 1300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/dakshara-bullakku-nose-pin?variant=gid://shopify/ProductVariant/47807902908643",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0415.jpg?v=1767965675"
   },
   "gid://shopify/ProductVariant/47807905136867": {
     "product_title": "Lakshi Bullakku Nose Pin",
