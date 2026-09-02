@@ -6673,7 +6673,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-1509",
     "price": 58200.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/graceful-krishna-victorian-pendant-set?variant=gid://shopify/ProductVariant/44217715720419",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-1509.jpg?v=1702634144"
   },
@@ -83083,7 +83083,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-1337",
     "price": 4000.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/eshvika-plain-bracelet?variant=gid://shopify/ProductVariant/49390397325539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1337.jpg?v=1783681820"
   },
@@ -106531,6 +106531,42 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/sweet-and-endearing-avikam-jhumkas?variant=gid://shopify/ProductVariant/49658968375523",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15939.jpg?v=1788330645"
+  },
+  "gid://shopify/ProductVariant/49658978205923": {
+    "product_title": "Graceful Krishna Victorian Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-1509-Pendant Only",
+    "price": 45800.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/graceful-krishna-victorian-pendant-set-1?variant=gid://shopify/ProductVariant/49658978205923",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-1509_2.jpg?v=1702634144"
+  },
+  "gid://shopify/ProductVariant/49658981810403": {
+    "product_title": "Eternal Charm Avikam Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15940",
+    "price": 6800.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/eternal-charm-avikam-jhumkas?variant=gid://shopify/ProductVariant/49658981810403",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15940.jpg?v=1788330902"
+  },
+  "gid://shopify/ProductVariant/49658988134627": {
+    "product_title": "Shine with Elegance Avikam Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15941",
+    "price": 6700.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/shine-with-elegance-avikam-jhumkas?variant=gid://shopify/ProductVariant/49658988134627",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15941.jpg?v=1788331205"
+  },
+  "gid://shopify/ProductVariant/49659009106147": {
+    "product_title": "Radiant Swing Avikam Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15942",
+    "price": 9800.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/radiant-swing-avikam-jhumkas?variant=gid://shopify/ProductVariant/49659009106147",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15942.jpg?v=1788331458"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
