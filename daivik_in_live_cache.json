@@ -5809,7 +5809,7 @@
     "variant_title": "Default Title",
     "sku": "367",
     "price": 999.0,
-    "stock": 28,
+    "stock": 27,
     "url": "https://www.daivik.in/products/antique-matte-finish-lakshmi-peacock-jhumkas?variant=gid://shopify/ProductVariant/44665226035422",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0140D6CA-AE5E-456B-9707-71FA3598F63A.jpg?v=1705071171"
   },
@@ -15479,6 +15479,24 @@
     "url": "https://www.daivik.in/products/elegant-jasmine-bud-flower-artificial-gajra-16-inches?variant=gid://shopify/ProductVariant/47542601744606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0350.heic?v=1758199837"
   },
+  "gid://shopify/ProductVariant/47542601613534": {
+    "product_title": "Elegant Bloomed Pink Shade Jasmine Flower Artificial Gajra",
+    "variant_title": "8 Inches String - Half Moolam",
+    "sku": "3505",
+    "price": 1499.0,
+    "stock": 10,
+    "url": "https://www.daivik.in/products/elegant-bloomed-pink-shade-jasmine-flower-artificial-gajra-16-inches?variant=gid://shopify/ProductVariant/47542601613534",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0348.heic?v=1758199844"
+  },
+  "gid://shopify/ProductVariant/47542601646302": {
+    "product_title": "Elegant Bloomed Pink Shade Jasmine Flower Artificial Gajra",
+    "variant_title": "16 Inches String - Full Moolam",
+    "sku": "3505",
+    "price": 2999.0,
+    "stock": 10,
+    "url": "https://www.daivik.in/products/elegant-bloomed-pink-shade-jasmine-flower-artificial-gajra-16-inches?variant=gid://shopify/ProductVariant/47542601646302",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0348.heic?v=1758199844"
+  },
   "gid://shopify/ProductVariant/47542602072286": {
     "product_title": "Elegant Artificial Crossandra/Kanakambaram Flower",
     "variant_title": "8 Inches String - Half Moolam",
@@ -16546,7 +16564,7 @@
     "variant_title": "Default Title",
     "sku": "1341",
     "price": 999.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/simple-ad-flower-necklace-with-earrings?variant=gid://shopify/ProductVariant/47693867483358",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1741.heic?v=1763479945"
   },
@@ -17152,6 +17170,15 @@
     "stock": 24,
     "url": "https://www.daivik.in/products/pure-kemp-brass-nose-pin-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/47796909801694",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_c2df2ed2-a369-44c5-8053-26d95c5becfb.jpg?v=1767421638"
+  },
+  "gid://shopify/ProductVariant/47797500575966": {
+    "product_title": "Antique Lakshmi Pearl Hanging Necklace with Balis",
+    "variant_title": "Default Title",
+    "sku": "870",
+    "price": 3599.0,
+    "stock": 5,
+    "url": "https://www.daivik.in/products/antique-lakshmi-pearl-hanging-necklace-with-balis?variant=gid://shopify/ProductVariant/47797500575966",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C263EF27-F38A-4C5B-8B40-09E9FD67CAA1.jpg?v=1767458681"
   },
   "gid://shopify/ProductVariant/47801013633246": {
     "product_title": "White Pearl Kundan Stone Elephant Necklace with Jhumkas",
@@ -29015,24 +29042,6 @@
     "url": "https://www.daivik.in/products/elegant-jasmine-bud-flower-artificial-gajra-16-inches?variant=gid://shopify/ProductVariant/47542601777374",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0350.heic?v=1758199837"
   },
-  "gid://shopify/ProductVariant/47542601613534": {
-    "product_title": "Elegant Bloomed Pink Shade Jasmine Flower Artificial Gajra",
-    "variant_title": "8 Inches String - Half Moolam",
-    "sku": "3505",
-    "price": 1499.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/elegant-bloomed-pink-shade-jasmine-flower-artificial-gajra-16-inches?variant=gid://shopify/ProductVariant/47542601613534",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0348.heic?v=1758199844"
-  },
-  "gid://shopify/ProductVariant/47542601646302": {
-    "product_title": "Elegant Bloomed Pink Shade Jasmine Flower Artificial Gajra",
-    "variant_title": "16 Inches String - Full Moolam",
-    "sku": "3505",
-    "price": 2999.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/elegant-bloomed-pink-shade-jasmine-flower-artificial-gajra-16-inches?variant=gid://shopify/ProductVariant/47542601646302",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0348.heic?v=1758199844"
-  },
   "gid://shopify/ProductVariant/47542602105054": {
     "product_title": "Elegant Artificial Crossandra/Kanakambaram Flower",
     "variant_title": "16 Inches String - Full Moolam",
@@ -29689,15 +29698,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/pure-kemp-brass-nose-pin-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/47796909736158",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_c2df2ed2-a369-44c5-8053-26d95c5becfb.jpg?v=1767421638"
-  },
-  "gid://shopify/ProductVariant/47797500575966": {
-    "product_title": "Antique Lakshmi Pearl Hanging Necklace with Balis",
-    "variant_title": "Default Title",
-    "sku": "870",
-    "price": 3599.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/antique-lakshmi-pearl-hanging-necklace-with-balis?variant=gid://shopify/ProductVariant/47797500575966",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C263EF27-F38A-4C5B-8B40-09E9FD67CAA1.jpg?v=1767458681"
   },
   "gid://shopify/ProductVariant/47800699224286": {
     "product_title": "AD Ruby Green Peacock Jhumkas",
