@@ -2515,7 +2515,7 @@
     "variant_title": "Default Title",
     "sku": "432",
     "price": 899.0,
-    "stock": 41,
+    "stock": 40,
     "url": "https://www.daivik.in/products/a-225?variant=gid://shopify/ProductVariant/43212378439902",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_f6b01fa0-137c-4333-b8ec-463d4542e32a.heic?v=1659180660"
   },
@@ -16910,15 +16910,6 @@
     "url": "https://www.daivik.in/products/simple-flower-ad-pendant-necklace-with-earrings-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/47758175207646",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8484.heic?v=1765891294"
   },
-  "gid://shopify/ProductVariant/47758175240414": {
-    "product_title": "Simple Flower AD Pendant Necklace with Earrings in Two Colors (Price for Each)",
-    "variant_title": "Green",
-    "sku": "511",
-    "price": 799.0,
-    "stock": 2,
-    "url": "https://www.daivik.in/products/simple-flower-ad-pendant-necklace-with-earrings-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/47758175240414",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8484.heic?v=1765891294"
-  },
   "gid://shopify/ProductVariant/47758182514910": {
     "product_title": "Carved Moissanite Necklace with Earrings",
     "variant_title": "Default Title",
@@ -19582,15 +19573,6 @@
     "stock": 56,
     "url": "https://www.daivik.in/products/kids-adult-antique-peacock-jhumkas?variant=gid://shopify/ProductVariant/48276352008414",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A5DF4E17-0F33-41BA-86C5-E4DB5F02B973.jpg?v=1779448562"
-  },
-  "gid://shopify/ProductVariant/48278181413086": {
-    "product_title": "Kundan Ghungroo Adjustable Bracelet Watch",
-    "variant_title": "Default Title",
-    "sku": "1890",
-    "price": 799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/kundan-ghungroo-adjustable-bracelet-watch?variant=gid://shopify/ProductVariant/48278181413086",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3814C154-23B2-45C1-8287-D7064055BEF4.jpg?v=1779536574"
   },
   "gid://shopify/ProductVariant/48279058645214": {
     "product_title": "Kundan Lotus Coin / Kasumalai Handmade Hair Pin",
@@ -29636,6 +29618,15 @@
     "url": "https://www.daivik.in/products/lakshmi-bridal-bangkes-combo-price-for-both-hands?variant=gid://shopify/ProductVariant/47751522517214",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8533.jpg?v=1765689764"
   },
+  "gid://shopify/ProductVariant/47758175240414": {
+    "product_title": "Simple Flower AD Pendant Necklace with Earrings in Two Colors (Price for Each)",
+    "variant_title": "Green",
+    "sku": "511",
+    "price": 799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/simple-flower-ad-pendant-necklace-with-earrings-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/47758175240414",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8484.heic?v=1765891294"
+  },
   "gid://shopify/ProductVariant/47777295696094": {
     "product_title": "Pure Kemp Lotus Jhumka with Mattals",
     "variant_title": "Default Title",
@@ -30481,6 +30472,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/heritage-watch-bracelet-9?variant=gid://shopify/ProductVariant/48266765762782",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0205.jpg?v=1779276345"
+  },
+  "gid://shopify/ProductVariant/48278181413086": {
+    "product_title": "Kundan Ghungroo Adjustable Bracelet Watch",
+    "variant_title": "Default Title",
+    "sku": "1890",
+    "price": 799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/kundan-ghungroo-adjustable-bracelet-watch?variant=gid://shopify/ProductVariant/48278181413086",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3814C154-23B2-45C1-8287-D7064055BEF4.jpg?v=1779536574"
   },
   "gid://shopify/ProductVariant/48282335379678": {
     "product_title": "Lotus Pearl Bugadi/Top Earrings",
