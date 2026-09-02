@@ -31009,7 +31009,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-9820",
     "price": 10300.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/drops-earrings?variant=gid://shopify/ProductVariant/47059050954979",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9820_1.jpg?v=1756016899"
   },
@@ -67876,15 +67876,6 @@
     "stock": 4,
     "url": "https://www.theamethyststore.com/products/thara-moissanite-hair-maatal?variant=gid://shopify/ProductVariant/48903340490979",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2291.jpg?v=1777801315"
-  },
-  "gid://shopify/ProductVariant/48903351664867": {
-    "product_title": "Unique Bugadi Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-13675",
-    "price": 11900.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/bugadi-earrings-3?variant=gid://shopify/ProductVariant/48903351664867",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13675.jpg?v=1777802816"
   },
   "gid://shopify/ProductVariant/48903352484067": {
     "product_title": "Yamini Kundan Studs",
@@ -106532,6 +106523,24 @@
     "url": "https://www.theamethyststore.com/products/timeless-elegance-diamond-design-hair-maatal?variant=gid://shopify/ProductVariant/49659950235875",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2311.jpg?v=1788352341"
   },
+  "gid://shopify/ProductVariant/49660147466467": {
+    "product_title": "Flows with Elegance Avikam Maangtikka",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2503",
+    "price": 6500.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/flows-with-elegance-avikam-maangtikka?variant=gid://shopify/ProductVariant/49660147466467",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2503.jpg?v=1788354968"
+  },
+  "gid://shopify/ProductVariant/49660190654691": {
+    "product_title": "Classic and Glowing Avikam Maangtikka",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2502",
+    "price": 12000.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/classic-and-glowing-avikam-maangtikka?variant=gid://shopify/ProductVariant/49660190654691",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2502.jpg?v=1788355432"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -107148,7 +107157,7 @@
     "product_title": "Vaishnavi Guttapusalu Earrings",
     "variant_title": "Default Title",
     "sku": "AMS-106-3041",
-    "price": 31630.5,
+    "price": 63077.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/vaishnavi-guttapusalu-earrings?variant=gid://shopify/ProductVariant/43298502312163",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3041_e5f8e54b-ca50-4be6-9404-2a1c869b5322.jpg?v=1674311041"
@@ -121930,6 +121939,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/vedhika-kundan-drops?variant=gid://shopify/ProductVariant/48903347896547",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13672.jpg?v=1777802090"
+  },
+  "gid://shopify/ProductVariant/48903351664867": {
+    "product_title": "Unique Bugadi Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-13675",
+    "price": 11900.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/bugadi-earrings-3?variant=gid://shopify/ProductVariant/48903351664867",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13675.jpg?v=1777802816"
   },
   "gid://shopify/ProductVariant/48903355007203": {
     "product_title": "Saishika Choker Necklace Set",
