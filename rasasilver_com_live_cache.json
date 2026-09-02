@@ -1021,7 +1021,7 @@
     "variant_title": "Default Title",
     "sku": "R16995",
     "price": 2550.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.rasasilver.com/products/twinkle-bindu-nath?variant=gid://shopify/ProductVariant/50203857420585",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP00739copy.jpg?v=1750486458"
   },
@@ -1483,15 +1483,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/kamalkriti-jhumka?variant=gid://shopify/ProductVariant/50299554267433",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06422copy.jpg?v=1747118995"
-  },
-  "gid://shopify/ProductVariant/50868870021417": {
-    "product_title": "Mandara Morni Bangles",
-    "variant_title": "Green / 2.4",
-    "sku": "R6527",
-    "price": 74100.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/mandaramorni-bangles?variant=gid://shopify/ProductVariant/50868870021417",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP05813copy_53eec12b-f281-4ab1-a94e-02240a5f6b68.jpg?v=1756533367"
   },
   "gid://shopify/ProductVariant/50299778892073": {
     "product_title": "Kundan Chandrika Pendant",
@@ -17027,15 +17018,6 @@
     "url": "https://www.rasasilver.com/products/gaurika-nakshi-jhumki?variant=gid://shopify/ProductVariant/52871417954601",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_272Pics_19Mar37213_resized.jpg?v=1775044200"
   },
-  "gid://shopify/ProductVariant/52871433191721": {
-    "product_title": "Jalika Kundan Matil",
-    "variant_title": "Swarovski",
-    "sku": "R23824",
-    "price": 9690.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/jalika-kundan-matil?variant=gid://shopify/ProductVariant/52871433191721",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20489_resized.jpg?v=1775459879"
-  },
   "gid://shopify/ProductVariant/52871510327593": {
     "product_title": "Kamali Moissanite Matil",
     "variant_title": "Default Title",
@@ -24983,15 +24965,6 @@
     "url": "https://www.rasasilver.com/products/dhan-lakshmi-temple-necklace?variant=gid://shopify/ProductVariant/53411271180585",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageAug7_2026_01_42_37PM.png?v=1786090421"
   },
-  "gid://shopify/ProductVariant/53411273081129": {
-    "product_title": "Devi Madhulika Temple Necklace",
-    "variant_title": "Default Title",
-    "sku": "R27333",
-    "price": 18100.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/devi-madhulika-temple-necklace?variant=gid://shopify/ProductVariant/53411273081129",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageAug7_2026_01_57_56PM.png?v=1786091296"
-  },
   "gid://shopify/ProductVariant/53411275800873": {
     "product_title": "Dhanmaya Kaasu Temple Necklace",
     "variant_title": "Default Title",
@@ -25800,6 +25773,15 @@
     "price": 62985.0,
     "stock": 0,
     "url": "https://www.rasasilver.com/products/mandaramorni-bangles?variant=gid://shopify/ProductVariant/50868869988649",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP05813copy_53eec12b-f281-4ab1-a94e-02240a5f6b68.jpg?v=1756533367"
+  },
+  "gid://shopify/ProductVariant/50868870021417": {
+    "product_title": "Mandara Morni Bangles",
+    "variant_title": "Green / 2.4",
+    "sku": "R6527",
+    "price": 74100.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/mandaramorni-bangles?variant=gid://shopify/ProductVariant/50868870021417",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP05813copy_53eec12b-f281-4ab1-a94e-02240a5f6b68.jpg?v=1756533367"
   },
   "gid://shopify/ProductVariant/50307187212585": {
@@ -42668,6 +42650,15 @@
     "url": "https://www.rasasilver.com/products/rasikaaya-antique-matil-copy?variant=gid://shopify/ProductVariant/52871379976489",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20500_resized.jpg?v=1775281058"
   },
+  "gid://shopify/ProductVariant/52871433191721": {
+    "product_title": "Jalika Kundan Matil",
+    "variant_title": "Swarovski",
+    "sku": "R23824",
+    "price": 9690.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/jalika-kundan-matil?variant=gid://shopify/ProductVariant/52871433191721",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20489_resized.jpg?v=1775459879"
+  },
   "gid://shopify/ProductVariant/52871433224489": {
     "product_title": "Jalika Kundan Matil",
     "variant_title": "GREEN",
@@ -47239,6 +47230,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/temple-necklace-4?variant=gid://shopify/ProductVariant/53411271541033",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageAug7_2026_01_49_56PM.png?v=1786090812"
+  },
+  "gid://shopify/ProductVariant/53411273081129": {
+    "product_title": "Devi Madhulika Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R27333",
+    "price": 18100.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/devi-madhulika-temple-necklace?variant=gid://shopify/ProductVariant/53411273081129",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageAug7_2026_01_57_56PM.png?v=1786091296"
   },
   "gid://shopify/ProductVariant/53411342647593": {
     "product_title": "Maanga Vilasa Kundan Necklace",
