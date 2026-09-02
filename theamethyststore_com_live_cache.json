@@ -34276,7 +34276,7 @@
     "variant_title": "12",
     "sku": "AMS-101-1550-12'",
     "price": 6248.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/ring-8?variant=gid://shopify/ProductVariant/47128054169827",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1550.jpg?v=1757151465"
   },
@@ -40117,7 +40117,7 @@
     "variant_title": "2.8\"",
     "sku": "AMS-107-2295-2.8\"",
     "price": 46640.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/glitz-avikam-pair-bangles?variant=gid://shopify/ProductVariant/47239310147811",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2295.jpg?v=1759666922"
   },
@@ -48604,7 +48604,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-13223",
     "price": 115000.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/shilva-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/47726130725091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13223.jpg?v=1765446243"
   },
@@ -54049,7 +54049,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-12548",
     "price": 21896.4,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/zara-chandubaali-earrings-1?variant=gid://shopify/ProductVariant/47852178243811",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12548.jpg?v=1768810687"
   },
@@ -63701,15 +63701,6 @@
     "url": "https://www.theamethyststore.com/products/arunika-guttapusalu-long-necklace-set?variant=gid://shopify/ProductVariant/48468732379363",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15139.jpg?v=1773729188"
   },
-  "gid://shopify/ProductVariant/48468927217891": {
-    "product_title": "Vithruka Guttapusalu Long Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15144",
-    "price": 159000.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/vithruka-guttapusalu-long-necklace-set?variant=gid://shopify/ProductVariant/48468927217891",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15144.jpg?v=1773729761"
-  },
   "gid://shopify/ProductVariant/48469352055011": {
     "product_title": "Kashvi Guttapusalu Long Necklace Set",
     "variant_title": "Default Title",
@@ -65317,7 +65308,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-15176",
     "price": 7000.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/aarohi-hasli-necklace?variant=gid://shopify/ProductVariant/48762705412323",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15176.jpg?v=1775820920"
   },
@@ -83218,7 +83209,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-16503",
     "price": 8400.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/hasli-necklace-65?variant=gid://shopify/ProductVariant/49396531167459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16503_1.jpg?v=1783831985"
   },
@@ -120697,6 +120688,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/jivika-oxidised-short-necklace?variant=gid://shopify/ProductVariant/48465314808035",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11400_d2a2fe3e-a203-4ce4-a239-d48c40f5fa58.jpg?v=1774587733"
+  },
+  "gid://shopify/ProductVariant/48468927217891": {
+    "product_title": "Vithruka Guttapusalu Long Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15144",
+    "price": 159000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vithruka-guttapusalu-long-necklace-set?variant=gid://shopify/ProductVariant/48468927217891",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15144.jpg?v=1773729761"
   },
   "gid://shopify/ProductVariant/48469732327651": {
     "product_title": "Frithika Guttapusalu Necklace",
