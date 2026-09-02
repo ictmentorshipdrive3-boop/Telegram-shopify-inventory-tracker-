@@ -11614,7 +11614,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-6506",
     "price": 4000.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/sarahi-stone-studs?variant=gid://shopify/ProductVariant/45465921716451",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6506_9e543286-7d81-4366-a3e5-2fd3febd6015.jpg?v=1771569112"
   },
@@ -30723,15 +30723,6 @@
     "price": 1700.0,
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/ring-4?variant=gid://shopify/ProductVariant/47048943632611",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1053_13b3b4eb-a31b-4844-893a-387a08e55c25.jpg?v=1755856729"
-  },
-  "gid://shopify/ProductVariant/47048943665379": {
-    "product_title": "Sparkling Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1053-14\"",
-    "price": 2500.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/ring-4?variant=gid://shopify/ProductVariant/47048943665379",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1053_13b3b4eb-a31b-4844-893a-387a08e55c25.jpg?v=1755856729"
   },
   "gid://shopify/ProductVariant/47048972796131": {
@@ -106568,6 +106559,15 @@
     "url": "https://www.theamethyststore.com/products/diamond-design-necklace-set-17?variant=gid://shopify/ProductVariant/49660317663459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17875.jpg?v=1788357474"
   },
+  "gid://shopify/ProductVariant/49660321759459": {
+    "product_title": "Charming Avikam Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5045",
+    "price": 18200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/avikam-pendant-set?variant=gid://shopify/ProductVariant/49660321759459",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5045.jpg?v=1788357777"
+  },
   "gid://shopify/ProductVariant/49660327592163": {
     "product_title": "Feyra Avikam Pendant Set",
     "variant_title": "Default Title",
@@ -106603,6 +106603,33 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/avikam-pendant-set-4?variant=gid://shopify/ProductVariant/49660333195491",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5049.jpg?v=1788358521"
+  },
+  "gid://shopify/ProductVariant/49660335259875": {
+    "product_title": "Thrishika Avikam Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5050",
+    "price": 10200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/avikam-pendant-set-5?variant=gid://shopify/ProductVariant/49660335259875",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5050.jpg?v=1788358702"
+  },
+  "gid://shopify/ProductVariant/49660339257571": {
+    "product_title": "Gleaming Avikam Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5051",
+    "price": 11500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/avikam-pendant-set-7?variant=gid://shopify/ProductVariant/49660339257571",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5051.jpg?v=1788358803"
+  },
+  "gid://shopify/ProductVariant/49660358459619": {
+    "product_title": "Most Loved Bridal Diamond Like Oddiyanam",
+    "variant_title": "Default Title",
+    "sku": "AMS-110-0960",
+    "price": 67800.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/diamond-like-oddiyanam?variant=gid://shopify/ProductVariant/49660358459619",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0960.jpg?v=1788359212"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -113362,6 +113389,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/calista-ring-1?variant=gid://shopify/ProductVariant/47048920498403",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1207.jpg?v=1755856124"
+  },
+  "gid://shopify/ProductVariant/47048943665379": {
+    "product_title": "Sparkling Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1053-14\"",
+    "price": 2500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-4?variant=gid://shopify/ProductVariant/47048943665379",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1053_13b3b4eb-a31b-4844-893a-387a08e55c25.jpg?v=1755856729"
   },
   "gid://shopify/ProductVariant/47048953528547": {
     "product_title": "Unique Long Earrings",
@@ -130345,14 +130381,5 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/ams-102-0756?variant=gid://shopify/ProductVariant/49626556334307",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/ams-102-0756.jpg?v=1787903303"
-  },
-  "gid://shopify/ProductVariant/49660321759459": {
-    "product_title": "Charming Avikam Pendant Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-5045",
-    "price": 18200.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/avikam-pendant-set?variant=gid://shopify/ProductVariant/49660321759459",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5045.jpg?v=1788357777"
   }
 }
