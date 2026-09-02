@@ -106442,15 +106442,6 @@
     "url": "https://www.theamethyststore.com/products/sweet-and-endearing-avikam-jhumkas?variant=gid://shopify/ProductVariant/49658968375523",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15939.jpg?v=1788330645"
   },
-  "gid://shopify/ProductVariant/49658978205923": {
-    "product_title": "Graceful Krishna Victorian Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-1509-Pendant Only",
-    "price": 45800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/graceful-krishna-victorian-pendant-set-1?variant=gid://shopify/ProductVariant/49658978205923",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-1509_2.jpg?v=1702634144"
-  },
   "gid://shopify/ProductVariant/49658981810403": {
     "product_title": "Eternal Charm Avikam Jhumkas",
     "variant_title": "Default Title",
@@ -130057,5 +130048,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/ams-102-0756?variant=gid://shopify/ProductVariant/49626556334307",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/ams-102-0756.jpg?v=1787903303"
+  },
+  "gid://shopify/ProductVariant/49658978205923": {
+    "product_title": "Graceful Krishna Victorian Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-1509-Pendant Only",
+    "price": 45800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/graceful-krishna-victorian-pendant-set-1?variant=gid://shopify/ProductVariant/49658978205923",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-1509_2.jpg?v=1702634144"
   }
 }
