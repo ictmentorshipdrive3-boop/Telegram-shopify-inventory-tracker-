@@ -778,7 +778,7 @@
     "variant_title": "Default Title",
     "sku": "R11803",
     "price": 3825.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/ruby-starlight-studs?variant=gid://shopify/ProductVariant/50104251810089",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06324copy.jpg?v=1750668884"
   },
@@ -19114,15 +19114,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/samaira-floral-toe-ring?variant=gid://shopify/ProductVariant/53138066768169",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11741_resized.jpg?v=1781263315"
-  },
-  "gid://shopify/ProductVariant/53263394701609": {
-    "product_title": "Saisha Toe Ring",
-    "variant_title": "GREEN",
-    "sku": "R13090",
-    "price": 1700.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/saisha-toe-ring?variant=gid://shopify/ProductVariant/53263394701609",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11756_resized.jpg?v=1781269259"
   },
   "gid://shopify/ProductVariant/53138163368233": {
     "product_title": "Amara Shine Necklace Set",
@@ -44241,6 +44232,15 @@
     "price": 1700.0,
     "stock": 0,
     "url": "https://www.rasasilver.com/products/saisha-toe-ring?variant=gid://shopify/ProductVariant/53263394668841",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11756_resized.jpg?v=1781269259"
+  },
+  "gid://shopify/ProductVariant/53263394701609": {
+    "product_title": "Saisha Toe Ring",
+    "variant_title": "GREEN",
+    "sku": "R13090",
+    "price": 1700.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/saisha-toe-ring?variant=gid://shopify/ProductVariant/53263394701609",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11756_resized.jpg?v=1781269259"
   },
   "gid://shopify/ProductVariant/53138232312105": {
