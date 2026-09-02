@@ -24439,7 +24439,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-0382-M",
     "price": 6500.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/mangalsutra-chain-double-layer-24?variant=gid://shopify/ProductVariant/46779086012643",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-0382_M.jpg?v=1775371745"
   },
@@ -35809,15 +35809,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/ishanya-short-necklace-set?variant=gid://shopify/ProductVariant/47177350643939",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11184_1.jpg?v=1758008395"
-  },
-  "gid://shopify/ProductVariant/47177718366435": {
-    "product_title": "Swarini Stone Pendant",
-    "variant_title": "Only Pendant",
-    "sku": "AMS-104-3308",
-    "price": 3067.2,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/swarini-stone-pendant?variant=gid://shopify/ProductVariant/47177718366435",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3308.jpg?v=1758014895"
   },
   "gid://shopify/ProductVariant/47177876504803": {
     "product_title": "Anvitha Victorian Drops",
@@ -104102,15 +104093,6 @@
     "url": "https://www.theamethyststore.com/products/glowing-nagas-studs?variant=gid://shopify/ProductVariant/49619054624995",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14911.jpg?v=1787834032"
   },
-  "gid://shopify/ProductVariant/49619062587619": {
-    "product_title": "Thaarikaa Nagas Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15377",
-    "price": 5400.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nagas-drops-14?variant=gid://shopify/ProductVariant/49619062587619",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15377.jpg?v=1787834036"
-  },
   "gid://shopify/ProductVariant/49619092832483": {
     "product_title": "Amaze Nagas Studs",
     "variant_title": "Default Title",
@@ -114379,6 +114361,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/sithara-stone-pendant?variant=gid://shopify/ProductVariant/47177424306403",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3302.jpg?v=1758009672"
+  },
+  "gid://shopify/ProductVariant/47177718366435": {
+    "product_title": "Swarini Stone Pendant",
+    "variant_title": "Only Pendant",
+    "sku": "AMS-104-3308",
+    "price": 3067.2,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/swarini-stone-pendant?variant=gid://shopify/ProductVariant/47177718366435",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3308.jpg?v=1758014895"
   },
   "gid://shopify/ProductVariant/47180290916579": {
     "product_title": "Shalikha Chain With Earrings",
@@ -130111,6 +130102,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/amazing-nagas-short-necklace-2?variant=gid://shopify/ProductVariant/49603866362083",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17747.jpg?v=1787740677"
+  },
+  "gid://shopify/ProductVariant/49619062587619": {
+    "product_title": "Thaarikaa Nagas Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15377",
+    "price": 5400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-drops-14?variant=gid://shopify/ProductVariant/49619062587619",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15377.jpg?v=1787834036"
   },
   "gid://shopify/ProductVariant/49625381306595": {
     "product_title": "Bhavikaa Nagas Studs",
