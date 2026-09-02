@@ -3648,8 +3648,8 @@
     "product_title": "Llisha Studs",
     "variant_title": "Default Title",
     "sku": "AMS-106-3917",
-    "price": 10600.0,
-    "stock": 4,
+    "price": 11907.0,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/llisha-studs?variant=gid://shopify/ProductVariant/43631201812707",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3917.jpg?v=1672644795"
   },
@@ -9393,7 +9393,7 @@
     "price": 62300.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/beyonce-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/45224319353059",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-6257.jpg?v=1720075582"
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-6257_931b75cd-2228-410f-8d88-5928ebb31857.jpg?v=1788354660"
   },
   "gid://shopify/ProductVariant/45225622569187": {
     "product_title": "Colourful Avikam Necklace Set",
@@ -83402,15 +83402,6 @@
     "url": "https://www.theamethyststore.com/products/hasli-necklace-83?variant=gid://shopify/ProductVariant/49396624982243",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2057_9369f4ff-8188-474b-9e06-3a67a8efd2a5.jpg?v=1783863272"
   },
-  "gid://shopify/ProductVariant/49396629307619": {
-    "product_title": "Farzana Hasli Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16619",
-    "price": 4800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/hasli-necklace-84?variant=gid://shopify/ProductVariant/49396629307619",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16619.jpg?v=1783841593"
-  },
   "gid://shopify/ProductVariant/49396629438691": {
     "product_title": "Radiant Hasli Necklace",
     "variant_title": "Default Title",
@@ -107904,7 +107895,7 @@
     "product_title": "Nishtha Necklace",
     "variant_title": "Default Title",
     "sku": "AMS-102-4801",
-    "price": 49266.9,
+    "price": 47611.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nishtha-necklace?variant=gid://shopify/ProductVariant/43964187115747",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-4801.jpg?v=1692965090"
@@ -127780,6 +127771,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/hasli-necklace-80?variant=gid://shopify/ProductVariant/49396620230883",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16528.jpg?v=1783840577"
+  },
+  "gid://shopify/ProductVariant/49396629307619": {
+    "product_title": "Farzana Hasli Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16619",
+    "price": 4800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/hasli-necklace-84?variant=gid://shopify/ProductVariant/49396629307619",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16619.jpg?v=1783841593"
   },
   "gid://shopify/ProductVariant/49396630847715": {
     "product_title": "Catchy Layered Hasli Necklace",
