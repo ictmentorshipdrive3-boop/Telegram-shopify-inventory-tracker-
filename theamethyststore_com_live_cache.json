@@ -30703,7 +30703,7 @@
     "variant_title": "8",
     "sku": "AMS-101-1053-08\"",
     "price": 1300.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/ring-4?variant=gid://shopify/ProductVariant/47048943567075",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1053_13b3b4eb-a31b-4844-893a-387a08e55c25.jpg?v=1755856729"
   },
@@ -30721,7 +30721,7 @@
     "variant_title": "12",
     "sku": "AMS-101-1053-12\"",
     "price": 1700.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/ring-4?variant=gid://shopify/ProductVariant/47048943632611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1053_13b3b4eb-a31b-4844-893a-387a08e55c25.jpg?v=1755856729"
   },
@@ -30730,7 +30730,7 @@
     "variant_title": "14",
     "sku": "AMS-101-1053-14\"",
     "price": 2500.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/ring-4?variant=gid://shopify/ProductVariant/47048943665379",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1053_13b3b4eb-a31b-4844-893a-387a08e55c25.jpg?v=1755856729"
   },
@@ -106568,6 +106568,42 @@
     "url": "https://www.theamethyststore.com/products/diamond-design-necklace-set-17?variant=gid://shopify/ProductVariant/49660317663459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17875.jpg?v=1788357474"
   },
+  "gid://shopify/ProductVariant/49660327592163": {
+    "product_title": "Feyra Avikam Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5046",
+    "price": 15200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/avikam-pendant-set-1?variant=gid://shopify/ProductVariant/49660327592163",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5046.jpg?v=1788358005"
+  },
+  "gid://shopify/ProductVariant/49660330705123": {
+    "product_title": "Janani Avikam Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5047",
+    "price": 15600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/avikam-pendant-set-2?variant=gid://shopify/ProductVariant/49660330705123",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5047.jpg?v=1788358228"
+  },
+  "gid://shopify/ProductVariant/49660332343523": {
+    "product_title": "Freyaa Avikam Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5048",
+    "price": 15900.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/avikam-pendant-set-3?variant=gid://shopify/ProductVariant/49660332343523",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5048.jpg?v=1788358368"
+  },
+  "gid://shopify/ProductVariant/49660333195491": {
+    "product_title": "Lovely Avikam Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5049",
+    "price": 13900.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/avikam-pendant-set-4?variant=gid://shopify/ProductVariant/49660333195491",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5049.jpg?v=1788358521"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -130309,5 +130345,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/ams-102-0756?variant=gid://shopify/ProductVariant/49626556334307",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/ams-102-0756.jpg?v=1787903303"
+  },
+  "gid://shopify/ProductVariant/49660321759459": {
+    "product_title": "Charming Avikam Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5045",
+    "price": 18200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/avikam-pendant-set?variant=gid://shopify/ProductVariant/49660321759459",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5045.jpg?v=1788357777"
   }
 }
