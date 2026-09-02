@@ -19430,15 +19430,6 @@
     "url": "https://www.theamethyststore.com/products/test-sku-10?variant=gid://shopify/ProductVariant/46301345022179",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/pngtree-best-quality-label-with-gold-stripe-png-image_2338284.jpg?v=1721023980"
   },
-  "gid://shopify/ProductVariant/46314799759587": {
-    "product_title": "Jessika Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-9000",
-    "price": 23004.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/jessika-short-necklace?variant=gid://shopify/ProductVariant/46314799759587",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9000.jpg?v=1745752497"
-  },
   "gid://shopify/ProductVariant/46314817650915": {
     "product_title": "Sparkling Red Short Necklace",
     "variant_title": "Default Title",
@@ -21536,15 +21527,6 @@
     "url": "https://www.theamethyststore.com/products/shruthika-short-necklace?variant=gid://shopify/ProductVariant/46474305536227",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9449.jpg?v=1749379075"
   },
-  "gid://shopify/ProductVariant/46474365239523": {
-    "product_title": "Haritha Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-9448",
-    "price": 57049.92,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/haritha-short-necklace-1?variant=gid://shopify/ProductVariant/46474365239523",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9448.jpg?v=1749379213"
-  },
   "gid://shopify/ProductVariant/46474855612643": {
     "product_title": "Puvitha Short Necklace",
     "variant_title": "Default Title",
@@ -21697,15 +21679,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/nishika-stone-maangtikka?variant=gid://shopify/ProductVariant/46479715303651",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1511.jpg?v=1749387806"
-  },
-  "gid://shopify/ProductVariant/46479779102947": {
-    "product_title": "Shri Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-9422",
-    "price": 23579.1,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/shri-short-necklace?variant=gid://shopify/ProductVariant/46479779102947",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9421_ad0ad1ad-096c-47d7-ac78-9b8a700e8830.jpg?v=1749722479"
   },
   "gid://shopify/ProductVariant/46479925969123": {
     "product_title": "Mohana Short Necklace",
@@ -110672,6 +110645,15 @@
     "url": "https://www.theamethyststore.com/products/royal-green-short-necklace?variant=gid://shopify/ProductVariant/46314796974307",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8999.jpg?v=1745752159"
   },
+  "gid://shopify/ProductVariant/46314799759587": {
+    "product_title": "Jessika Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-9000",
+    "price": 23004.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/jessika-short-necklace?variant=gid://shopify/ProductVariant/46314799759587",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9000.jpg?v=1745752497"
+  },
   "gid://shopify/ProductVariant/46315062591715": {
     "product_title": "Yasika Stone Jhumkas",
     "variant_title": "Default Title",
@@ -111122,6 +111104,15 @@
     "url": "https://www.theamethyststore.com/products/dharshi-stone-ring?variant=gid://shopify/ProductVariant/46474251829475",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0910.jpg?v=1749378972"
   },
+  "gid://shopify/ProductVariant/46474365239523": {
+    "product_title": "Haritha Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-9448",
+    "price": 57049.92,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/haritha-short-necklace-1?variant=gid://shopify/ProductVariant/46474365239523",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9448.jpg?v=1749379213"
+  },
   "gid://shopify/ProductVariant/46474629906659": {
     "product_title": "Dharani Short Necklace",
     "variant_title": "Default Title",
@@ -111166,6 +111157,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/ashvini-short-necklace?variant=gid://shopify/ProductVariant/46479521546467",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9383.jpg?v=1749387486"
+  },
+  "gid://shopify/ProductVariant/46479779102947": {
+    "product_title": "Shri Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-9422",
+    "price": 23579.1,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/shri-short-necklace?variant=gid://shopify/ProductVariant/46479779102947",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9421_ad0ad1ad-096c-47d7-ac78-9b8a700e8830.jpg?v=1749722479"
   },
   "gid://shopify/ProductVariant/46479810658531": {
     "product_title": "Manisha Stone Short Necklace",
