@@ -6002,15 +6002,6 @@
     "url": "https://www.dulhanjewels.com/products/elegant-jadau-kundan-necklace-with-rice-pearl-drops?variant=gid://shopify/ProductVariant/51582959321394",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/08CF66BA-3759-43E3-B743-A27FE086F32B.jpg?v=1786962519"
   },
-  "gid://shopify/ProductVariant/51582996971826": {
-    "product_title": "Delicate Jadau Kundan Necklace With Emerald Beads",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2150.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/delicate-jadau-kundan-necklace-with-emerald-beads?variant=gid://shopify/ProductVariant/51582996971826",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/B48E46C2-4938-4E8C-98F9-141599024D9F.jpg?v=1786962519"
-  },
   "gid://shopify/ProductVariant/51583010046258": {
     "product_title": "Adorned Laxmi Devi Jadau Kundan Necklace With Emerald Bead",
     "variant_title": "Default Title",
@@ -6362,15 +6353,6 @@
     "url": "https://www.dulhanjewels.com/products/jadau-kundan-pearl-choker-with-emerald-drops?variant=gid://shopify/ProductVariant/51674333741362",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/50BDABE6-8E20-44EE-B03E-EB30981476E0.jpg?v=1787998242"
   },
-  "gid://shopify/ProductVariant/51674342195506": {
-    "product_title": "Royal Polki Pendant With Green Emerald And Pearl Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1600.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/royal-polki-pendant-with-green-emerald-and-pearl-drops?variant=gid://shopify/ProductVariant/51674342195506",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0594.jpg?v=1788163649"
-  },
   "gid://shopify/ProductVariant/51674353402162": {
     "product_title": "Traditional Jadau Kundan Pendant With Green Hangings",
     "variant_title": "Default Title",
@@ -6460,15 +6442,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/peacock-design-victorian-stud-earrings-with-pearl-bordering?variant=gid://shopify/ProductVariant/51674411991346",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/C499D29D-9914-4F43-98EE-56D76E9C6139.jpg?v=1788000700"
-  },
-  "gid://shopify/ProductVariant/51674439582002": {
-    "product_title": "Radiant Victorian Chandbali Earrings With Pearl Drops",
-    "variant_title": "Red",
-    "sku": null,
-    "price": 1500.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/radiant-victorian-chandbali-earrings-with-pearl-drops?variant=gid://shopify/ProductVariant/51674439582002",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0561.jpg?v=1788000912"
   },
   "gid://shopify/ProductVariant/51674439614770": {
     "product_title": "Radiant Victorian Chandbali Earrings With Pearl Drops",
@@ -7937,6 +7910,15 @@
     "url": "https://www.dulhanjewels.com/products/radiant-victorian-necklace-set-with-matching-earrings?variant=gid://shopify/ProductVariant/51566677754162",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/9D635791-AFE6-4572-B92E-6773900153BA.jpg?v=1786609473"
   },
+  "gid://shopify/ProductVariant/51582996971826": {
+    "product_title": "Delicate Jadau Kundan Necklace With Emerald Beads",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2150.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/delicate-jadau-kundan-necklace-with-emerald-beads?variant=gid://shopify/ProductVariant/51582996971826",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/B48E46C2-4938-4E8C-98F9-141599024D9F.jpg?v=1786962519"
+  },
   "gid://shopify/ProductVariant/51647175622962": {
     "product_title": "Designer Jadau Kundan Necklace With Strawberry Beads",
     "variant_title": "Default Title",
@@ -7954,6 +7936,24 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/ethnic-jadau-kundan-stud-earrings-with-emerald-drops?variant=gid://shopify/ProductVariant/51656196882738",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/25CF55C8-5257-4CB3-9411-2F5105626CBC.jpg?v=1787737028"
+  },
+  "gid://shopify/ProductVariant/51674342195506": {
+    "product_title": "Royal Polki Pendant With Green Emerald And Pearl Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1600.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/royal-polki-pendant-with-green-emerald-and-pearl-drops?variant=gid://shopify/ProductVariant/51674342195506",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0594.jpg?v=1788163649"
+  },
+  "gid://shopify/ProductVariant/51674439582002": {
+    "product_title": "Radiant Victorian Chandbali Earrings With Pearl Drops",
+    "variant_title": "Red",
+    "sku": null,
+    "price": 1500.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/radiant-victorian-chandbali-earrings-with-pearl-drops?variant=gid://shopify/ProductVariant/51674439582002",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0561.jpg?v=1788000912"
   },
   "gid://shopify/ProductVariant/51682858074418": {
     "product_title": "Lotus Design Jadau Kundan Chandbali Earrings With Emerald Drops",
