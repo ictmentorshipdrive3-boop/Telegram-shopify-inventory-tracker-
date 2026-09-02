@@ -310,7 +310,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-1594",
     "price": 48382.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/striking-long-necklace?variant=gid://shopify/ProductVariant/39432976924822",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-1594.jpg?v=1716994602"
   },
@@ -2698,15 +2698,6 @@
     "stock": 3,
     "url": "https://www.theamethyststore.com/products/jiya-divine-earrings?variant=gid://shopify/ProductVariant/43325457039587",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3460_a5c602f2-d6bb-45d3-be68-415858bbff9a.jpg?v=1662873626"
-  },
-  "gid://shopify/ProductVariant/46331174289635": {
-    "product_title": "Yarani Pair Bangles",
-    "variant_title": "2.4\"",
-    "sku": "AMS-107-0651-2.4",
-    "price": 19415.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/yarani-bangles?variant=gid://shopify/ProductVariant/46331174289635",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-0651_94a615d5-0640-4526-988e-c93b073cbb0c.jpg?v=1758451685"
   },
   "gid://shopify/ProductVariant/43335578845411": {
     "product_title": "Varuni Earrings",
@@ -72620,15 +72611,6 @@
     "url": "https://www.theamethyststore.com/products/surya-chandra-jada-billa-6?variant=gid://shopify/ProductVariant/49404200943843",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0807_5.jpg?v=1779365800"
   },
-  "gid://shopify/ProductVariant/49403989688547": {
-    "product_title": "Mythili Jada Billa",
-    "variant_title": "Suryan",
-    "sku": "AMS-112-0810-SURAJ",
-    "price": 6650.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/mythili-surya-chandra-jada-billa?variant=gid://shopify/ProductVariant/49403989688547",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0810_5.jpg?v=1779366589"
-  },
   "gid://shopify/ProductVariant/49403989721315": {
     "product_title": "Mythili Jada Billa",
     "variant_title": "Chandran",
@@ -107324,6 +107306,15 @@
     "url": "https://www.theamethyststore.com/products/roshita-stone-tikka?variant=gid://shopify/ProductVariant/43335551516899",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-109-0550-_2.jpg?v=1663158155"
   },
+  "gid://shopify/ProductVariant/46331174289635": {
+    "product_title": "Yarani Pair Bangles",
+    "variant_title": "2.4\"",
+    "sku": "AMS-107-0651-2.4",
+    "price": 19415.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/yarani-bangles?variant=gid://shopify/ProductVariant/46331174289635",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-0651_94a615d5-0640-4526-988e-c93b073cbb0c.jpg?v=1758451685"
+  },
   "gid://shopify/ProductVariant/43338883727587": {
     "product_title": "Pranith Stone Maangtikka",
     "variant_title": "Default Title",
@@ -123640,6 +123631,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/surya-chandra-jada-billa-7?variant=gid://shopify/ProductVariant/49404001976547",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0809_5.jpg?v=1779366211"
+  },
+  "gid://shopify/ProductVariant/49403989688547": {
+    "product_title": "Mythili Jada Billa",
+    "variant_title": "Suryan",
+    "sku": "AMS-112-0810-SURAJ",
+    "price": 6650.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/mythili-surya-chandra-jada-billa?variant=gid://shopify/ProductVariant/49403989688547",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0810_5.jpg?v=1779366589"
   },
   "gid://shopify/ProductVariant/49403917533411": {
     "product_title": "Rukmani  Jada Billa",
