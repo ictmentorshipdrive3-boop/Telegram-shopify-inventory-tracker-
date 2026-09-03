@@ -4571,15 +4571,6 @@
     "url": "https://www.dulhanjewels.com/products/ethnic-jadau-kundan-necklace-with-green-beads?variant=gid://shopify/ProductVariant/51263319146802",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/1A5DBC67-68BB-490F-A5EA-1E1FB016235E.jpg?v=1780652322"
   },
-  "gid://shopify/ProductVariant/51263334089010": {
-    "product_title": "Temple Style Jadau Kundan Jhumki With Emerald Beads",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2050.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/temple-style-jadau-kundan-jhumki-with-emerald-beads?variant=gid://shopify/ProductVariant/51263334089010",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-7507.jpg?v=1780666574"
-  },
   "gid://shopify/ProductVariant/51269582782770": {
     "product_title": "Designer Victorian Necklace With Elegant Matching Earrings",
     "variant_title": "Default Title",
@@ -6209,15 +6200,6 @@
     "url": "https://www.dulhanjewels.com/products/ethnic-jadau-kundan-stud-earrings-with-emerald-drops?variant=gid://shopify/ProductVariant/51656196882738",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/25CF55C8-5257-4CB3-9411-2F5105626CBC.jpg?v=1787737028"
   },
-  "gid://shopify/ProductVariant/51656227127602": {
-    "product_title": "Stylish Jadau Kundan Chandbali Earrings With Green Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1850.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/stylish-jadau-kundan-chandbali-earrings-with-green-drops?variant=gid://shopify/ProductVariant/51656227127602",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/E14134A2-E330-4C00-8054-6E4394871D72.jpg?v=1788246571"
-  },
   "gid://shopify/ProductVariant/51656264122674": {
     "product_title": "Elegant Jadau Kundan Necklace With Strawberry Hangings",
     "variant_title": "Default Title",
@@ -7802,6 +7784,15 @@
     "url": "https://www.dulhanjewels.com/products/chand-studded-jadau-kundan-chandbali-earrings-1?variant=gid://shopify/ProductVariant/51228571140402",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-1783.jpg?v=1788248261"
   },
+  "gid://shopify/ProductVariant/51263334089010": {
+    "product_title": "Temple Style Jadau Kundan Jhumki With Emerald Beads",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2050.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/temple-style-jadau-kundan-jhumki-with-emerald-beads?variant=gid://shopify/ProductVariant/51263334089010",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-7507.jpg?v=1780666574"
+  },
   "gid://shopify/ProductVariant/51411253854514": {
     "product_title": "Floral Studded Jadau Kundan Jhumki With Pearl Hangings",
     "variant_title": "Red",
@@ -7909,5 +7900,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/radiant-victorian-necklace-set-with-matching-earrings?variant=gid://shopify/ProductVariant/51566677754162",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/9D635791-AFE6-4572-B92E-6773900153BA.jpg?v=1786609473"
+  },
+  "gid://shopify/ProductVariant/51656227127602": {
+    "product_title": "Stylish Jadau Kundan Chandbali Earrings With Green Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1850.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/stylish-jadau-kundan-chandbali-earrings-with-green-drops?variant=gid://shopify/ProductVariant/51656227127602",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/E14134A2-E330-4C00-8054-6E4394871D72.jpg?v=1788246571"
   }
 }
