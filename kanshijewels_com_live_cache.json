@@ -8063,15 +8063,6 @@
     "url": "https://www.kanshijewels.com/products/jadau-necklace-4?variant=gid://shopify/ProductVariant/51119699067180",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaunecklace3200.jpg?v=1747994941"
   },
-  "gid://shopify/ProductVariant/51119705325868": {
-    "product_title": "Jadau Necklace",
-    "variant_title": "Default Title",
-    "sku": "NK146",
-    "price": 2100.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-necklace-5?variant=gid://shopify/ProductVariant/51119705325868",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaunecklace2900.jpg?v=1747995028"
-  },
   "gid://shopify/ProductVariant/51119706538284": {
     "product_title": "Jadau Necklace",
     "variant_title": "Default Title",
@@ -11769,7 +11760,7 @@
     "price": 2650.0,
     "stock": 10,
     "url": "https://www.kanshijewels.com/products/moon-kundan-motives-classic-set-1?variant=gid://shopify/ProductVariant/54005697446188",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/DSC09295.png?v=1788342101"
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Moonkundanmotivesclassicset2650_7c564992-d6de-4572-bcc5-6bb760ee6226.png?v=1788342101"
   },
   "gid://shopify/ProductVariant/54005724873004": {
     "product_title": "Elegant Rice Pearls Intricate Kundan Work Coral Accents",
@@ -11960,13 +11951,13 @@
     "url": "https://www.kanshijewels.com/products/dual-tone-twisted-italian-chain-hasli?variant=gid://shopify/ProductVariant/54010374324524",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1_9b072ccf-8820-4e33-a96b-c56b1db1b06e.png?v=1788419183"
   },
-  "gid://shopify/ProductVariant/54010415415596": {
+  "gid://shopify/ProductVariant/54011304608044": {
     "product_title": "Exclusive gold look kundan nakashi flexible chain chokar",
-    "variant_title": "Default Title",
+    "variant_title": "Pink",
     "sku": "NK976",
     "price": 2205.0,
     "stock": 10,
-    "url": "https://www.kanshijewels.com/products/exclusive-gold-look-kundan-nakashi-flexible-chain-chokar?variant=gid://shopify/ProductVariant/54010415415596",
+    "url": "https://www.kanshijewels.com/products/exclusive-gold-look-kundan-nakashi-flexible-chain-chokar?variant=gid://shopify/ProductVariant/54011304608044",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1_387b0cd8-b64b-4259-babb-290268f393c9.png?v=1788419802"
   },
   "gid://shopify/ProductVariant/54010437599532": {
@@ -12076,6 +12067,15 @@
     "stock": 10,
     "url": "https://www.kanshijewels.com/products/white-kundan-polki-elegant-maangtika?variant=gid://shopify/ProductVariant/54010845069612",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1_80546cf0-39ef-4e96-b23a-109ef5eeb669.png?v=1788429884"
+  },
+  "gid://shopify/ProductVariant/54011377484076": {
+    "product_title": "Classic handwork exclusive pearls maangtika",
+    "variant_title": "Default Title",
+    "sku": "MT79",
+    "price": 1890.0,
+    "stock": 10,
+    "url": "https://www.kanshijewels.com/products/classic-handwork-exclusive-pearls-maangtika-1?variant=gid://shopify/ProductVariant/54011377484076",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1_990aca81-3d79-4c48-b4d2-2d8592023376.png?v=1788442007"
   },
   "gid://shopify/ProductVariant/45425851433260": {
     "product_title": "Jadau Kundan Earrings",
@@ -13760,6 +13760,15 @@
     "url": "https://www.kanshijewels.com/products/nakashi-necklace?variant=gid://shopify/ProductVariant/51119199945004",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Nakashichokarnecklace2200.jpg?v=1747981892"
   },
+  "gid://shopify/ProductVariant/51119705325868": {
+    "product_title": "Jadau Necklace",
+    "variant_title": "Default Title",
+    "sku": "NK146",
+    "price": 2100.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-necklace-5?variant=gid://shopify/ProductVariant/51119705325868",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaunecklace2900.jpg?v=1747995028"
+  },
   "gid://shopify/ProductVariant/51119726395692": {
     "product_title": "Coral Pearl Kundan fusion Rani Haram",
     "variant_title": "Default Title",
@@ -14425,5 +14434,14 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-28?variant=gid://shopify/ProductVariant/53714561499436",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/4599_5.jpg?v=1787036658"
+  },
+  "gid://shopify/ProductVariant/54011304640812": {
+    "product_title": "Exclusive gold look kundan nakashi flexible chain chokar",
+    "variant_title": "White",
+    "sku": "NK977",
+    "price": 2205.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/exclusive-gold-look-kundan-nakashi-flexible-chain-chokar?variant=gid://shopify/ProductVariant/54011304640812",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1_387b0cd8-b64b-4259-babb-290268f393c9.png?v=1788419802"
   }
 }
