@@ -50971,7 +50971,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-1915",
     "price": 9350.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/vaishakha-kundan-ring?variant=gid://shopify/ProductVariant/47798722986211",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1915.jpg?v=1767705456"
   },
@@ -63700,15 +63700,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/nagas-drops-earrings-1?variant=gid://shopify/ProductVariant/48470008266979",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13141.jpg?v=1773745128"
-  },
-  "gid://shopify/ProductVariant/48470121119971": {
-    "product_title": "Magitha Oxidised Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-11407",
-    "price": 54900.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/magitha-oxidised-short-necklace?variant=gid://shopify/ProductVariant/48470121119971",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11407_2_ffef12b8-07fd-40e5-9599-85b607dbd6d4.jpg?v=1774588184"
   },
   "gid://shopify/ProductVariant/48473023316195": {
     "product_title": "Clara Nagas Chain Set",
@@ -77875,15 +77866,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/shashini-3d-spl-pendant?variant=gid://shopify/ProductVariant/49320481095907",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4380.jpg?v=1782563378"
-  },
-  "gid://shopify/ProductVariant/49320483520739": {
-    "product_title": "Arnikha Kundan Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-4342",
-    "price": 38700.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kundan-pendant-54?variant=gid://shopify/ProductVariant/49320483520739",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4342.jpg?v=1782564150"
   },
   "gid://shopify/ProductVariant/49320483979491": {
     "product_title": "Dishitha Kundan Pendant",
@@ -120707,6 +120689,15 @@
     "url": "https://www.theamethyststore.com/products/pranitha-nagas-drops-earrings?variant=gid://shopify/ProductVariant/48469997453539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13140.jpg?v=1773744791"
   },
+  "gid://shopify/ProductVariant/48470121119971": {
+    "product_title": "Magitha Oxidised Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-11407",
+    "price": 54900.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/magitha-oxidised-short-necklace?variant=gid://shopify/ProductVariant/48470121119971",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11407_2_ffef12b8-07fd-40e5-9599-85b607dbd6d4.jpg?v=1774588184"
+  },
   "gid://shopify/ProductVariant/48473024364771": {
     "product_title": "Lakshi Drops Earring",
     "variant_title": "Default Title",
@@ -126187,6 +126178,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/maragathavalli-3d-spl-pendant?variant=gid://shopify/ProductVariant/49320482865379",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4382.jpg?v=1782564223"
+  },
+  "gid://shopify/ProductVariant/49320483520739": {
+    "product_title": "Arnikha Kundan Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4342",
+    "price": 38700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-54?variant=gid://shopify/ProductVariant/49320483520739",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4342.jpg?v=1782564150"
   },
   "gid://shopify/ProductVariant/49320502427875": {
     "product_title": "Timeless Grace Short Necklace",
