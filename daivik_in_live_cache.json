@@ -517,7 +517,7 @@
     "variant_title": "Default Title",
     "sku": "381",
     "price": 1099.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/simple-lakshmi-choker-with-pearl-hangings?variant=gid://shopify/ProductVariant/36398494351513",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/simple-lakshmi-choker-with-pearl-hangings-neckwearnecklace-455.jpg?v=1601103548"
   },
@@ -7100,15 +7100,6 @@
     "url": "https://www.daivik.in/products/victorian-purple-stone-bangles?variant=gid://shopify/ProductVariant/45478432375006",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A2948A63-060F-4461-BABF-F2E9B6955E2A.jpg?v=1717337721"
   },
-  "gid://shopify/ProductVariant/45478432407774": {
-    "product_title": "Victorian purple Stone Bangles",
-    "variant_title": "2.8",
-    "sku": "704",
-    "price": 799.0,
-    "stock": 26,
-    "url": "https://www.daivik.in/products/victorian-purple-stone-bangles?variant=gid://shopify/ProductVariant/45478432407774",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A2948A63-060F-4461-BABF-F2E9B6955E2A.jpg?v=1717337721"
-  },
   "gid://shopify/ProductVariant/45478438273246": {
     "product_title": "Simple Purple Stone Bangles",
     "variant_title": "2.4",
@@ -9355,7 +9346,7 @@
     "variant_title": "Default Title",
     "sku": "1508",
     "price": 1499.0,
-    "stock": 56,
+    "stock": 55,
     "url": "https://www.daivik.in/products/premium-ad-mattal?variant=gid://shopify/ProductVariant/45974972793054",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7184C6A1-C3DA-44CC-A1C8-A4F0542CB634.jpg?v=1729613139"
   },
@@ -17473,7 +17464,7 @@
     "variant_title": "Default Title",
     "sku": "684",
     "price": 5499.0,
-    "stock": 2,
+    "stock": 4,
     "url": "https://www.daivik.in/products/white-pearls-kundan-stone-elephant-necklace-with-jhumkas?variant=gid://shopify/ProductVariant/47801013633246",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/965B8584-65D1-400C-B2C2-319FF946D9F9.jpg?v=1767628458"
   },
@@ -21028,7 +21019,7 @@
     "variant_title": "Default Title",
     "sku": "1936",
     "price": 1199.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/circular-lotus-hanging-pearl-earrings?variant=gid://shopify/ProductVariant/48524779716830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D9923CF1-B064-4BE2-9B55-2456F4A73DE3.jpg?v=1785407541"
   },
@@ -25738,6 +25729,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-3d-peacock-necklace-with-earrings?variant=gid://shopify/ProductVariant/45461992014046",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C9D1F2CB-DC5C-4A24-B88A-7BD9F7A63D59.jpg?v=1717078618"
+  },
+  "gid://shopify/ProductVariant/45478432407774": {
+    "product_title": "Victorian purple Stone Bangles",
+    "variant_title": "2.8",
+    "sku": "704",
+    "price": 799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/victorian-purple-stone-bangles?variant=gid://shopify/ProductVariant/45478432407774",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A2948A63-060F-4461-BABF-F2E9B6955E2A.jpg?v=1717337721"
   },
   "gid://shopify/ProductVariant/45482966974686": {
     "product_title": "Bridal Victorian Combo",
