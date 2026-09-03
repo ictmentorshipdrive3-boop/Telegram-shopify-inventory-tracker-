@@ -562,7 +562,7 @@
     "variant_title": "Default Title",
     "sku": "3",
     "price": 799.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.daivik.in/products/small-tribal-bali-jhumka?variant=gid://shopify/ProductVariant/36547713302681",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/small-tribal-bali-jhumka-earrings-745.jpg?v=1601913641"
   },
@@ -6511,7 +6511,7 @@
     "variant_title": "Green",
     "sku": "121",
     "price": 599.0,
-    "stock": 46,
+    "stock": 45,
     "url": "https://www.daivik.in/products/lotus-kemp-rice-pearl-necklace-with-earrings?variant=gid://shopify/ProductVariant/45036923519198",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7F002057-492D-4547-8497-F0B75AFDF9E1.jpg?v=1711981953"
   },
@@ -13921,15 +13921,6 @@
     "stock": 56,
     "url": "https://www.daivik.in/products/gj-polish-ad-flower-mattals?variant=gid://shopify/ProductVariant/47530113269982",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2138806E-EFC4-48E5-9838-2836EEB3384A.jpg?v=1757653908"
-  },
-  "gid://shopify/ProductVariant/47543948017886": {
-    "product_title": "Diwali Sale Necklace D25003",
-    "variant_title": "Green",
-    "sku": "D25003",
-    "price": 499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-necklace-d250-2?variant=gid://shopify/ProductVariant/47543948017886",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6015_f32dabb6-793b-46c3-945f-6f4df0cc993b.jpg?v=1758266795"
   },
   "gid://shopify/ProductVariant/47543125541086": {
     "product_title": "Diwali Sale Necklace D25004",
@@ -21406,7 +21397,7 @@
     "variant_title": "Default Title",
     "sku": "1950",
     "price": 1799.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/pearl-kemp-floral-droplet-balis?variant=gid://shopify/ProductVariant/48623898886366",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F07B3D62-F7C5-4A9C-AF33-EA3958501861.jpg?v=1787313150"
   },
@@ -21595,7 +21586,7 @@
     "variant_title": "Default Title",
     "sku": "1958",
     "price": 2499.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/pure-kemp-jadau-openable-kada?variant=gid://shopify/ProductVariant/48971742839006",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6B5B5C6D-CFCE-4CCD-80A1-C8B8A2D309A3.jpg?v=1788347364"
   },
@@ -21604,7 +21595,7 @@
     "variant_title": "Default Title",
     "sku": "392",
     "price": 1499.0,
-    "stock": 1,
+    "stock": 25,
     "url": "https://www.daivik.in/products/jadau-pearl-necklace-with-earrings?variant=gid://shopify/ProductVariant/48972143329502",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1305.jpg?v=1788365439"
   },
@@ -28518,6 +28509,15 @@
     "price": 499.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d250-2?variant=gid://shopify/ProductVariant/47543947985118",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6015_f32dabb6-793b-46c3-945f-6f4df0cc993b.jpg?v=1758266795"
+  },
+  "gid://shopify/ProductVariant/47543948017886": {
+    "product_title": "Diwali Sale Necklace D25003",
+    "variant_title": "Green",
+    "sku": "D25003",
+    "price": 499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-necklace-d250-2?variant=gid://shopify/ProductVariant/47543948017886",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6015_f32dabb6-793b-46c3-945f-6f4df0cc993b.jpg?v=1758266795"
   },
   "gid://shopify/ProductVariant/47543076323550": {
