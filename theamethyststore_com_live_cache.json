@@ -25420,7 +25420,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-9196",
     "price": 6600.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/cute-kundan-studs?variant=gid://shopify/ProductVariant/46886582878435",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9196.jpg?v=1752740158"
   },
@@ -38446,15 +38446,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/jashvika-short-necklace?variant=gid://shopify/ProductVariant/47209278800099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11542.jpg?v=1758888236"
-  },
-  "gid://shopify/ProductVariant/47209407742179": {
-    "product_title": "Udvita Beads Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-11478",
-    "price": 42537.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/udvita-beads-long-necklace?variant=gid://shopify/ProductVariant/47209407742179",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11478.jpg?v=1758889123"
   },
   "gid://shopify/ProductVariant/47209415999715": {
     "product_title": "Facinate Short Necklace",
@@ -60051,7 +60042,7 @@
     "product_title": "Chic & Glow Beads Long Necklace",
     "variant_title": "Default Title",
     "sku": "AMS-102-14438",
-    "price": 23320.0,
+    "price": 26512.0,
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/chic-glow-beads-long-necklace?variant=gid://shopify/ProductVariant/48275186385123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14438.jpg?v=1771045326"
@@ -71458,15 +71449,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/chandana-nagas-short-necklace?variant=gid://shopify/ProductVariant/48965880152291",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15773_05338663-149d-4cae-8b10-c7626a88cd8c.jpg?v=1778849921"
-  },
-  "gid://shopify/ProductVariant/48965885690083": {
-    "product_title": "Glitz Stone Pair Bangles",
-    "variant_title": "2.6\"",
-    "sku": "AMS-107-3160-2.6\"",
-    "price": 24930.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/stone-pair-bangles-16?variant=gid://shopify/ProductVariant/48965885690083",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3160.jpg?v=1778849866"
   },
   "gid://shopify/ProductVariant/48965897847011": {
     "product_title": "Charushila Nagas Short Necklace",
@@ -114803,6 +114785,15 @@
     "url": "https://www.theamethyststore.com/products/trendy-glow-long-necklace?variant=gid://shopify/ProductVariant/47209229517027",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11539.jpg?v=1758886840"
   },
+  "gid://shopify/ProductVariant/47209407742179": {
+    "product_title": "Udvita Beads Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-11478",
+    "price": 42537.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/udvita-beads-long-necklace?variant=gid://shopify/ProductVariant/47209407742179",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11478.jpg?v=1758889123"
+  },
   "gid://shopify/ProductVariant/47211255660771": {
     "product_title": "Heritage Crown Long Earrings",
     "variant_title": "Default Title",
@@ -123307,6 +123298,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/bhadra-nagas-short-necklace?variant=gid://shopify/ProductVariant/48965832868067",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15771.jpg?v=1778849287"
+  },
+  "gid://shopify/ProductVariant/48965885690083": {
+    "product_title": "Glitz Stone Pair Bangles",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-3160-2.6\"",
+    "price": 24930.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/stone-pair-bangles-16?variant=gid://shopify/ProductVariant/48965885690083",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3160.jpg?v=1778849866"
   },
   "gid://shopify/ProductVariant/48965901025507": {
     "product_title": "janani Nagas Pair Bangles",
