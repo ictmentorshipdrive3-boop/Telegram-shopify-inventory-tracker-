@@ -4423,7 +4423,7 @@
     "variant_title": "Green",
     "sku": "R11762",
     "price": 1615.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.rasasilver.com/products/emerovia-pendant?variant=gid://shopify/ProductVariant/50809107087657",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2606.jpg?v=1756541009"
   },
@@ -18737,15 +18737,6 @@
     "url": "https://www.rasasilver.com/products/maylora-nakshi-jhumka-copy-1?variant=gid://shopify/ProductVariant/53103774990633",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May0095_resized.jpg?v=1781861628"
   },
-  "gid://shopify/ProductVariant/53103823487273": {
-    "product_title": "Morpriya Nakshi Jhumka",
-    "variant_title": "Default Title",
-    "sku": "R9053",
-    "price": 19125.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/mayuranshi-nakshi-jhumka-copy?variant=gid://shopify/ProductVariant/53103823487273",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May0091_resized.jpg?v=1781862079"
-  },
   "gid://shopify/ProductVariant/53103858123049": {
     "product_title": "Florina Kundan Studs",
     "variant_title": "Default Title",
@@ -23368,7 +23359,7 @@
     "variant_title": "Default Title",
     "sku": "R32950",
     "price": 8160.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.rasasilver.com/products/dusky-dew-nakshi-studs?variant=gid://shopify/ProductVariant/53346882388265",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July02261.jpg?v=1786341750"
   },
@@ -43954,6 +43945,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/vasantika-kundan-studs?variant=gid://shopify/ProductVariant/53103634612521",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May1011_resized.jpg?v=1781865327"
+  },
+  "gid://shopify/ProductVariant/53103823487273": {
+    "product_title": "Morpriya Nakshi Jhumka",
+    "variant_title": "Default Title",
+    "sku": "R9053",
+    "price": 19125.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/mayuranshi-nakshi-jhumka-copy?variant=gid://shopify/ProductVariant/53103823487273",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May0091_resized.jpg?v=1781862079"
   },
   "gid://shopify/ProductVariant/53103876768041": {
     "product_title": "Petaline Kundan Studs",
