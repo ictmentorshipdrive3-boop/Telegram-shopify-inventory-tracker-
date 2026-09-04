@@ -41790,8 +41790,8 @@
     "product_title": "Pretty Look Bugadi Earrings",
     "variant_title": "Default Title",
     "sku": "AMS-106-10807",
-    "price": 4480.0,
-    "stock": 5,
+    "price": 4488.0,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/pretty-look-bugadi-earrings?variant=gid://shopify/ProductVariant/47442174083299",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10807.jpg?v=1762163011"
   },
@@ -47695,7 +47695,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-113-0404",
     "price": 1300.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/gowshikha-nose-pin?variant=gid://shopify/ProductVariant/47797598486755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0404.jpg?v=1767682825"
   },
@@ -48985,15 +48985,6 @@
     "stock": 7,
     "url": "https://www.theamethyststore.com/products/glittering-stone-studs-5?variant=gid://shopify/ProductVariant/47811253797091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12456_de08d92f-3b1f-4e7a-bc9f-b6205295eb1e.jpg?v=1788324634"
-  },
-  "gid://shopify/ProductVariant/47813287805155": {
-    "product_title": "Heritha Kundan Jada Billa",
-    "variant_title": "Default Title",
-    "sku": "AMS-112-0665",
-    "price": 121977.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/heritha-kundan-jada-billa?variant=gid://shopify/ProductVariant/47813287805155",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0665.jpg?v=1768195038"
   },
   "gid://shopify/ProductVariant/47813290033379": {
     "product_title": "Divine Nagas Pendant",
@@ -60424,15 +60415,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/aadhina-nagas-long-necklace?variant=gid://shopify/ProductVariant/48419342614755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15071.jpg?v=1772880945"
-  },
-  "gid://shopify/ProductVariant/48419343302883": {
-    "product_title": "Bridal Nagas Jada",
-    "variant_title": "Default Title",
-    "sku": "AMS-112-0754",
-    "price": 137901.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nagas-jada-2?variant=gid://shopify/ProductVariant/48419343302883",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0754.jpg?v=1772881153"
   },
   "gid://shopify/ProductVariant/48419344449763": {
     "product_title": "Timeless Elegance Nagas Jada",
@@ -114686,6 +114668,15 @@
     "url": "https://www.theamethyststore.com/products/glowing-stone-studs?variant=gid://shopify/ProductVariant/47810151383267",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12385.jpg?v=1768045507"
   },
+  "gid://shopify/ProductVariant/47813287805155": {
+    "product_title": "Heritha Kundan Jada Billa",
+    "variant_title": "Default Title",
+    "sku": "AMS-112-0665",
+    "price": 121977.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/heritha-kundan-jada-billa?variant=gid://shopify/ProductVariant/47813287805155",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0665.jpg?v=1768195038"
+  },
   "gid://shopify/ProductVariant/47813402263779": {
     "product_title": "Samitha Rope Necklace",
     "variant_title": "Default Title",
@@ -117493,6 +117484,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/amazing-red-stone-short-necklace?variant=gid://shopify/ProductVariant/48412421685475",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14860-_2.jpg?v=1772713402"
+  },
+  "gid://shopify/ProductVariant/48419343302883": {
+    "product_title": "Bridal Nagas Jada",
+    "variant_title": "Default Title",
+    "sku": "AMS-112-0754",
+    "price": 137901.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-jada-2?variant=gid://shopify/ProductVariant/48419343302883",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0754.jpg?v=1772881153"
   },
   "gid://shopify/ProductVariant/48423658717411": {
     "product_title": "Nandita Attigai Necklace",
