@@ -1984,7 +1984,7 @@
     "variant_title": "Default Title",
     "sku": "133",
     "price": 8999.0,
-    "stock": 1,
+    "stock": 6,
     "url": "https://www.daivik.in/products/pure-kemp-brass-lakshmi-bridal-hipbelt?variant=gid://shopify/ProductVariant/42484457537758",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_3968fdb5-f776-47f2-940e-6daf19f30205.jpg?v=1645358982"
   },
@@ -2551,7 +2551,7 @@
     "variant_title": "Default Title",
     "sku": "432",
     "price": 899.0,
-    "stock": 40,
+    "stock": 39,
     "url": "https://www.daivik.in/products/a-225?variant=gid://shopify/ProductVariant/43212378439902",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_f6b01fa0-137c-4333-b8ec-463d4542e32a.heic?v=1659180660"
   },
@@ -13171,7 +13171,7 @@
     "variant_title": "Default Title",
     "sku": "1643",
     "price": 599.0,
-    "stock": 34,
+    "stock": 33,
     "url": "https://www.daivik.in/products/kids-ad-jhumkas?variant=gid://shopify/ProductVariant/47392248594654",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4A044DDC-46AA-4066-9C0C-7870BDAEFAF8.jpg?v=1754539480"
   },
@@ -17117,6 +17117,15 @@
     "url": "https://www.daivik.in/products/flower-pearl-ruby-choker-with-earrings?variant=gid://shopify/ProductVariant/47743520768222",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AD9EE618-5575-4F8C-AEA5-A8FEFD5D8C41.jpg?v=1765381835"
   },
+  "gid://shopify/ProductVariant/47745938751710": {
+    "product_title": "Simple Hip-Chains in 3 variants (Price for Each)",
+    "variant_title": "3",
+    "sku": "1755",
+    "price": 399.0,
+    "stock": 28,
+    "url": "https://www.daivik.in/products/simple-hip-chains-in-3-variants-price-for-each?variant=gid://shopify/ProductVariant/47745938751710",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1969_d048f3be-26f6-48fd-ace1-d36106561cb7.jpg?v=1765458461"
+  },
   "gid://shopify/ProductVariant/47748046618846": {
     "product_title": "Simple Palakka Chain",
     "variant_title": "Default Title",
@@ -19961,6 +19970,15 @@
     "url": "https://www.daivik.in/products/ad-temple-style-lakshmi-earrings?variant=gid://shopify/ProductVariant/48292121084126",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG-0962.jpg?v=1780140382"
   },
+  "gid://shopify/ProductVariant/48292340334814": {
+    "product_title": "Antique Lakshmi Hipchain",
+    "variant_title": "Default Title",
+    "sku": "1900",
+    "price": 2799.0,
+    "stock": 30,
+    "url": "https://www.daivik.in/products/antique-lakshmi-hipchain?variant=gid://shopify/ProductVariant/48292340334814",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AB81DC2C-D064-43FC-B287-38F9F45D5FF4.jpg?v=1780150095"
+  },
   "gid://shopify/ProductVariant/48292340924638": {
     "product_title": "Antique Flower Hipchain",
     "variant_title": "Default Title",
@@ -21271,7 +21289,7 @@
     "variant_title": "Ruby",
     "sku": "1948",
     "price": 1399.0,
-    "stock": 3,
+    "stock": 17,
     "url": "https://www.daivik.in/products/ad-hanging-pendants-earcuff-in-2-colors-price-for-each?variant=gid://shopify/ProductVariant/48597123268830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1249.jpg?v=1786618747"
   },
@@ -21280,7 +21298,7 @@
     "variant_title": "Green",
     "sku": "1948",
     "price": 1399.0,
-    "stock": 3,
+    "stock": 20,
     "url": "https://www.daivik.in/products/ad-hanging-pendants-earcuff-in-2-colors-price-for-each?variant=gid://shopify/ProductVariant/48597123301598",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1249.jpg?v=1786618747"
   },
@@ -21320,12 +21338,30 @@
     "url": "https://www.daivik.in/products/ruby-green-floral-elakkathali-choker-with-studs?variant=gid://shopify/ProductVariant/48605611655390",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9BB3FD0D-97BF-49A7-B86C-9B52460569E8.jpg?v=1786875830"
   },
+  "gid://shopify/ProductVariant/48606013096158": {
+    "product_title": "Antique Lakshmi Kada",
+    "variant_title": "2.4",
+    "sku": "1949",
+    "price": 1699.0,
+    "stock": 5,
+    "url": "https://www.daivik.in/products/antique-lakshmi-kada?variant=gid://shopify/ProductVariant/48606013096158",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C212A11D-8F23-46DE-8894-E34661B11E0C.jpg?v=1786900231"
+  },
+  "gid://shopify/ProductVariant/48606013128926": {
+    "product_title": "Antique Lakshmi Kada",
+    "variant_title": "2.6",
+    "sku": "1949",
+    "price": 1699.0,
+    "stock": 19,
+    "url": "https://www.daivik.in/products/antique-lakshmi-kada?variant=gid://shopify/ProductVariant/48606013128926",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C212A11D-8F23-46DE-8894-E34661B11E0C.jpg?v=1786900231"
+  },
   "gid://shopify/ProductVariant/48606013161694": {
     "product_title": "Antique Lakshmi Kada",
     "variant_title": "2.8",
     "sku": "1949",
     "price": 1699.0,
-    "stock": 9,
+    "stock": 38,
     "url": "https://www.daivik.in/products/antique-lakshmi-kada?variant=gid://shopify/ProductVariant/48606013161694",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C212A11D-8F23-46DE-8894-E34661B11E0C.jpg?v=1786900231"
   },
@@ -21388,7 +21424,7 @@
     "variant_title": "1",
     "sku": "1952",
     "price": 599.0,
-    "stock": 42,
+    "stock": 56,
     "url": "https://www.daivik.in/products/simple-thin-hipchain-in-3-variants-price-for-each?variant=gid://shopify/ProductVariant/48632739037406",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1564_23be5796-b199-4b04-937d-77f96fe88e88.jpg?v=1787586721"
   },
@@ -21397,7 +21433,7 @@
     "variant_title": "2",
     "sku": "1952",
     "price": 599.0,
-    "stock": 23,
+    "stock": 49,
     "url": "https://www.daivik.in/products/simple-thin-hipchain-in-3-variants-price-for-each?variant=gid://shopify/ProductVariant/48632739070174",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1564_23be5796-b199-4b04-937d-77f96fe88e88.jpg?v=1787586721"
   },
@@ -21406,7 +21442,7 @@
     "variant_title": "3",
     "sku": "1952",
     "price": 599.0,
-    "stock": 32,
+    "stock": 56,
     "url": "https://www.daivik.in/products/simple-thin-hipchain-in-3-variants-price-for-each?variant=gid://shopify/ProductVariant/48632739102942",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1564_23be5796-b199-4b04-937d-77f96fe88e88.jpg?v=1787586721"
   },
@@ -21523,7 +21559,7 @@
     "variant_title": "2.6",
     "sku": "1957",
     "price": 1799.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.daivik.in/products/openable-ad-kada-with-interchangeable-colour-bangles-12-shades?variant=gid://shopify/ProductVariant/48965767037150",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1886.jpg?v=1788191390"
   },
@@ -29618,15 +29654,6 @@
     "url": "https://www.daivik.in/products/simple-hip-chains-in-3-variants-price-for-each?variant=gid://shopify/ProductVariant/47745938718942",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1969_d048f3be-26f6-48fd-ace1-d36106561cb7.jpg?v=1765458461"
   },
-  "gid://shopify/ProductVariant/47745938751710": {
-    "product_title": "Simple Hip-Chains in 3 variants (Price for Each)",
-    "variant_title": "3",
-    "sku": "1755",
-    "price": 399.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/simple-hip-chains-in-3-variants-price-for-each?variant=gid://shopify/ProductVariant/47745938751710",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1969_d048f3be-26f6-48fd-ace1-d36106561cb7.jpg?v=1765458461"
-  },
   "gid://shopify/ProductVariant/47751522451678": {
     "product_title": "Lakshmi Bridal Bangles Combo (Price for Both Hands)",
     "variant_title": "2.4",
@@ -30545,15 +30572,6 @@
     "url": "https://www.daivik.in/products/flower-pearl-bugadi-top-earrings?variant=gid://shopify/ProductVariant/48282355400926",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FE01AA8D-048A-4E63-A695-C47D7E8E8471.jpg?v=1779727034"
   },
-  "gid://shopify/ProductVariant/48292340334814": {
-    "product_title": "Antique Lakshmi Hipchain",
-    "variant_title": "Default Title",
-    "sku": "1900",
-    "price": 2799.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/antique-lakshmi-hipchain?variant=gid://shopify/ProductVariant/48292340334814",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AB81DC2C-D064-43FC-B287-38F9F45D5FF4.jpg?v=1780150095"
-  },
   "gid://shopify/ProductVariant/48308560658654": {
     "product_title": "Lotus Ruby Green Pure kemp Invisible chain with Earrings",
     "variant_title": "Default Title",
@@ -30706,24 +30724,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/kemp-ruby-green-flower-jhumkas-1?variant=gid://shopify/ProductVariant/48588136022238",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5680.jpg?v=1786368472"
-  },
-  "gid://shopify/ProductVariant/48606013096158": {
-    "product_title": "Antique Lakshmi Kada",
-    "variant_title": "2.4",
-    "sku": "1949",
-    "price": 1699.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/antique-lakshmi-kada?variant=gid://shopify/ProductVariant/48606013096158",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C212A11D-8F23-46DE-8894-E34661B11E0C.jpg?v=1786900231"
-  },
-  "gid://shopify/ProductVariant/48606013128926": {
-    "product_title": "Antique Lakshmi Kada",
-    "variant_title": "2.6",
-    "sku": "1949",
-    "price": 1699.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/antique-lakshmi-kada?variant=gid://shopify/ProductVariant/48606013128926",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C212A11D-8F23-46DE-8894-E34661B11E0C.jpg?v=1786900231"
   },
   "gid://shopify/ProductVariant/48629356986590": {
     "product_title": "Balaji Black Thread Bracelet",
