@@ -12424,7 +12424,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-6867",
     "price": 4648.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/yalika-stone-studs?variant=gid://shopify/ProductVariant/45598094622947",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6867.jpg?v=1728385287"
   },
@@ -29902,7 +29902,7 @@
     "variant_title": "12",
     "sku": "AMS-101-1053-12\"",
     "price": 1700.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/ring-4?variant=gid://shopify/ProductVariant/47048943632611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1053_13b3b4eb-a31b-4844-893a-387a08e55c25.jpg?v=1755856729"
   },
@@ -45619,15 +45619,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/pair-bangle-13?variant=gid://shopify/ProductVariant/47726436548835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2852.jpg?v=1765451740"
-  },
-  "gid://shopify/ProductVariant/47726645018851": {
-    "product_title": "Stylish Avikam Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-13174",
-    "price": 26600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/avikam-short-necklace-set-8?variant=gid://shopify/ProductVariant/47726645018851",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13174_f5c65772-62f4-4c45-8ceb-0ef5ac76bc1b.jpg?v=1783079400"
   },
   "gid://shopify/ProductVariant/47726653178083": {
     "product_title": "Nadhiya Pair Bangle",
@@ -84298,7 +84289,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15505",
     "price": 4800.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/moissanite-studs-11?variant=gid://shopify/ProductVariant/49447323828451",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15505.jpg?v=1784974700"
   },
@@ -103796,6 +103787,15 @@
     "url": "https://www.theamethyststore.com/products/vivid-kundan-maangtikka?variant=gid://shopify/ProductVariant/49668765679843",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2481.jpg?v=1788521099"
   },
+  "gid://shopify/ProductVariant/49668805558499": {
+    "product_title": "Endearing Kundan Maangtikka",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2482",
+    "price": 13080.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/kundan-maangtikka?variant=gid://shopify/ProductVariant/49668805558499",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2482.jpg?v=1788522173"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -113821,6 +113821,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nivashilini-pair-bangle?variant=gid://shopify/ProductVariant/47726537900259",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2855_9d126cbb-b326-41a9-b15e-f92db62d3fb9.jpg?v=1765453734"
+  },
+  "gid://shopify/ProductVariant/47726645018851": {
+    "product_title": "Stylish Avikam Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-13174",
+    "price": 26600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/avikam-short-necklace-set-8?variant=gid://shopify/ProductVariant/47726645018851",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13174_f5c65772-62f4-4c45-8ceb-0ef5ac76bc1b.jpg?v=1783079400"
   },
   "gid://shopify/ProductVariant/47726691746019": {
     "product_title": "Glitz Charm Short Necklace Set",
