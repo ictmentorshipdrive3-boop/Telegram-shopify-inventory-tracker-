@@ -4522,7 +4522,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R11670",
     "price": 21930.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/rose-vaibhavam-short-necklace?variant=gid://shopify/ProductVariant/50809739837737",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug45873.jpg?v=1756964733"
   },
@@ -6730,15 +6730,6 @@
     "stock": 4,
     "url": "https://www.rasasilver.com/products/tejvi-misra-short-necklace?variant=gid://shopify/ProductVariant/51408715677993",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct3176_resized.jpg?v=1762253734"
-  },
-  "gid://shopify/ProductVariant/51408742089001": {
-    "product_title": "Misra Mangalam Tali Necklace",
-    "variant_title": "GREEN",
-    "sku": "R16010",
-    "price": 18955.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/misra-mangalam-tali-necklace?variant=gid://shopify/ProductVariant/51408742089001",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0022_resized.jpg?v=1762260618"
   },
   "gid://shopify/ProductVariant/51408742121769": {
     "product_title": "Misra Mangalam Tali Necklace",
@@ -17918,15 +17909,6 @@
     "url": "https://www.rasasilver.com/products/aishwarya-temple-necklace?variant=gid://shopify/ProductVariant/52885909340457",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0119_resized.jpg?v=1775199552"
   },
-  "gid://shopify/ProductVariant/52885965177129": {
-    "product_title": "Shreenika Temple Necklace",
-    "variant_title": "Default Title",
-    "sku": "R26246",
-    "price": 21845.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/shreenika-temple-necklace-1?variant=gid://shopify/ProductVariant/52885965177129",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar01011_resized.jpg?v=1775200007"
-  },
   "gid://shopify/ProductVariant/52886047686953": {
     "product_title": "Rectina Florina CZ Necklace Set",
     "variant_title": "Default Title",
@@ -21181,18 +21163,9 @@
     "variant_title": "Default Title",
     "sku": "R31537",
     "price": 2040.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/twin-radiance-studs?variant=gid://shopify/ProductVariant/53288426537257",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5574_resized.jpg?v=1782373482"
-  },
-  "gid://shopify/ProductVariant/53288666431785": {
-    "product_title": "Pear-Glow Studs",
-    "variant_title": "Default Title",
-    "sku": "R31545",
-    "price": 765.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/pear-glow-studs?variant=gid://shopify/ProductVariant/53288666431785",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5585_resized.jpg?v=1782375799"
   },
   "gid://shopify/ProductVariant/53288735637801": {
     "product_title": "Lucky Noir Studs",
@@ -30049,6 +30022,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/driti-ratna-short-necklace-copy?variant=gid://shopify/ProductVariant/51408619766057",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0042_resized.jpg?v=1762257872"
+  },
+  "gid://shopify/ProductVariant/51408742089001": {
+    "product_title": "Misra Mangalam Tali Necklace",
+    "variant_title": "GREEN",
+    "sku": "R16010",
+    "price": 18955.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/misra-mangalam-tali-necklace?variant=gid://shopify/ProductVariant/51408742089001",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0022_resized.jpg?v=1762260618"
   },
   "gid://shopify/ProductVariant/51408759488809": {
     "product_title": "Greenora Stone Bangles",
@@ -42866,6 +42848,15 @@
     "url": "https://www.rasasilver.com/products/lakshmi-spark-temple-necklace?variant=gid://shopify/ProductVariant/52885952037161",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_272Pics_19Mar36999_resized.jpg?v=1775199874"
   },
+  "gid://shopify/ProductVariant/52885965177129": {
+    "product_title": "Shreenika Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R26246",
+    "price": 21845.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/shreenika-temple-necklace-1?variant=gid://shopify/ProductVariant/52885965177129",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar01011_resized.jpg?v=1775200007"
+  },
   "gid://shopify/ProductVariant/52886051553577": {
     "product_title": "Verdelia CZ Necklace Set",
     "variant_title": "Default Title",
@@ -45511,6 +45502,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/florisse-studs?variant=gid://shopify/ProductVariant/53288661156137",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5581_resized.jpg?v=1782374261"
+  },
+  "gid://shopify/ProductVariant/53288666431785": {
+    "product_title": "Pear-Glow Studs",
+    "variant_title": "Default Title",
+    "sku": "R31545",
+    "price": 765.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/pear-glow-studs?variant=gid://shopify/ProductVariant/53288666431785",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5585_resized.jpg?v=1782375799"
   },
   "gid://shopify/ProductVariant/53288962851113": {
     "product_title": "Butterfly Glow Studs",
