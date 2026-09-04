@@ -710,15 +710,6 @@
     "url": "https://www.theamethyststore.com/products/pretty-long-earrings?variant=gid://shopify/ProductVariant/40676824350870",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-2052.jpg?v=1630752209"
   },
-  "gid://shopify/ProductVariant/40683063181462": {
-    "product_title": "Delightful Kundan Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-2069",
-    "price": 10430.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/delightful-kundan-studs?variant=gid://shopify/ProductVariant/40683063181462",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-2069_8c6353bc-dcf4-434f-b5b6-e48b8ffa80c8.jpg?v=1785417187"
-  },
   "gid://shopify/ProductVariant/46235826225379": {
     "product_title": "Durjay Pendant",
     "variant_title": "Only Pendant",
@@ -2172,8 +2163,8 @@
     "product_title": "Menaka Stone Studs",
     "variant_title": "Default Title",
     "sku": "AMS-106-3202",
-    "price": 4973.0,
-    "stock": 7,
+    "price": 5125.0,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/menaka-stone-studs?variant=gid://shopify/ProductVariant/43280622092515",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3202.jpg?v=1687274282"
   },
@@ -104696,6 +104687,24 @@
     "url": "https://www.theamethyststore.com/products/eye-catching-diamond-design-pendant?variant=gid://shopify/ProductVariant/49667875766499",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5025.jpg?v=1788504939"
   },
+  "gid://shopify/ProductVariant/49667903029475": {
+    "product_title": "Whimsical Swing Kundan Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15964",
+    "price": 23060.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/whimsical-swing-kundan-jhumkas?variant=gid://shopify/ProductVariant/49667903029475",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15964.jpg?v=1788505706"
+  },
+  "gid://shopify/ProductVariant/49667914105059": {
+    "product_title": "Blossom Flows Kundan Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15965",
+    "price": 22640.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/blossom-flows-kundan-jhumkas?variant=gid://shopify/ProductVariant/49667914105059",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15965.jpg?v=1788506082"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -104947,6 +104956,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/blooming-navarathna?variant=gid://shopify/ProductVariant/40583215480982",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/ams-102-2089.jpg?v=1629784007"
+  },
+  "gid://shopify/ProductVariant/40683063181462": {
+    "product_title": "Delightful Kundan Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-2069",
+    "price": 10481.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/delightful-kundan-studs?variant=gid://shopify/ProductVariant/40683063181462",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-2069_8c6353bc-dcf4-434f-b5b6-e48b8ffa80c8.jpg?v=1785417187"
   },
   "gid://shopify/ProductVariant/41953003372771": {
     "product_title": "Fleur Ring",
