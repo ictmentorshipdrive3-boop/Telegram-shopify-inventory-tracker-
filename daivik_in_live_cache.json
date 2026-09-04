@@ -3127,7 +3127,7 @@
     "variant_title": "Default Title",
     "sku": "719",
     "price": 1999.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/a-357?variant=gid://shopify/ProductVariant/43660006260958",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_9f86dad0-f2f9-4aae-b5a5-0c12691e3f99.heic?v=1668521902"
   },
@@ -7087,7 +7087,7 @@
     "variant_title": "2.6",
     "sku": "704",
     "price": 799.0,
-    "stock": 22,
+    "stock": 21,
     "url": "https://www.daivik.in/products/victorian-purple-stone-bangles?variant=gid://shopify/ProductVariant/45478432375006",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A2948A63-060F-4461-BABF-F2E9B6955E2A.jpg?v=1717337721"
   },
@@ -19592,15 +19592,6 @@
     "url": "https://www.daivik.in/products/simple-leaf-dainty-ad-necklace-with-earrings?variant=gid://shopify/ProductVariant/48186295025886",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/103C9AB2-1EBA-4D38-9803-60B4129098AC.jpg?v=1777563585"
   },
-  "gid://shopify/ProductVariant/48189005037790": {
-    "product_title": "Lakshmi Jadau Antique Kasumalai (Coin Haram) with Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "1387",
-    "price": 6499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/lakshmi-jadau-antique-kasumalai-coin-haram?variant=gid://shopify/ProductVariant/48189005037790",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BBF62C46-76E2-4841-A17E-923D48FBAC5D.jpg?v=1777653189"
-  },
   "gid://shopify/ProductVariant/48204908888286": {
     "product_title": "AD Diamond Setting Bangles/ Kada",
     "variant_title": "2.4",
@@ -20785,7 +20776,7 @@
     "variant_title": "Default Title",
     "sku": "1926",
     "price": 699.0,
-    "stock": 47,
+    "stock": 46,
     "url": "https://www.daivik.in/products/premium-floral-ad-kada-fits-2-2-2-5?variant=gid://shopify/ProductVariant/48429733544158",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0578.jpg?v=1783946880"
   },
@@ -20830,7 +20821,7 @@
     "variant_title": "Default Title",
     "sku": "1928",
     "price": 1299.0,
-    "stock": 42,
+    "stock": 41,
     "url": "https://www.daivik.in/products/pure-kemp-brass-peacock-earrings?variant=gid://shopify/ProductVariant/48437113323742",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/033A8BB0-263B-4247-A31C-E547D26FA86C.jpg?v=1784111034"
   },
@@ -20875,7 +20866,7 @@
     "variant_title": "2.6",
     "sku": "1930",
     "price": 4999.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/ruby-lakshmi-bangle-combo?variant=gid://shopify/ProductVariant/48446047060190",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2A304FC0-6319-4A9F-BEA0-8CDEE8B6F6AE.jpg?v=1784308377"
   },
@@ -30481,6 +30472,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/flexible-kemp-bracelet-kada?variant=gid://shopify/ProductVariant/48161484308702",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AEC07799-A217-4FFB-B965-15CD646D771B.jpg?v=1777201610"
+  },
+  "gid://shopify/ProductVariant/48189005037790": {
+    "product_title": "Lakshmi Jadau Antique Kasumalai (Coin Haram) with Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "1387",
+    "price": 6499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/lakshmi-jadau-antique-kasumalai-coin-haram?variant=gid://shopify/ProductVariant/48189005037790",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BBF62C46-76E2-4841-A17E-923D48FBAC5D.jpg?v=1777653189"
   },
   "gid://shopify/ProductVariant/48238202912990": {
     "product_title": "Mossanite AD Droplets",
