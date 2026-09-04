@@ -4566,8 +4566,8 @@
     "product_title": "Hemakshi Stone Necklace",
     "variant_title": "Default Title",
     "sku": "AMS-102-4309",
-    "price": 23727.0,
-    "stock": 2,
+    "price": 24053.0,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/hemakshi-stone-necklace?variant=gid://shopify/ProductVariant/43827038322915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-4309.jpg?v=1683121413"
   },
@@ -89261,15 +89261,6 @@
     "url": "https://www.theamethyststore.com/products/gorgeous-pakshi-short-necklace-set-1?variant=gid://shopify/ProductVariant/49502195515619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16975.jpg?v=1785929884"
   },
-  "gid://shopify/ProductVariant/49502239555811": {
-    "product_title": "Vernika Stone Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-2259",
-    "price": 2274.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/stone-ring-44?variant=gid://shopify/ProductVariant/49502239555811",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2259.jpg?v=1785930942"
-  },
   "gid://shopify/ProductVariant/49502242504931": {
     "product_title": "Stunning Pakshi Short Necklace Set",
     "variant_title": "Default Title",
@@ -104677,6 +104668,15 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/grand-and-luxurious-diamond-design-pendant?variant=gid://shopify/ProductVariant/49667827400931",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4997.jpg?v=1788503219"
+  },
+  "gid://shopify/ProductVariant/49667838705891": {
+    "product_title": "Royal Diamond Design Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4998",
+    "price": 19700.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/royal-diamond-design-pendant?variant=gid://shopify/ProductVariant/49667838705891",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4998.jpg?v=1788503626"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -126106,6 +126106,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/stone-ring-42?variant=gid://shopify/ProductVariant/49502176215267",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2256.jpg?v=1785929074"
+  },
+  "gid://shopify/ProductVariant/49502239555811": {
+    "product_title": "Vernika Stone Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2259",
+    "price": 2274.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/stone-ring-44?variant=gid://shopify/ProductVariant/49502239555811",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2259.jpg?v=1785930942"
   },
   "gid://shopify/ProductVariant/49502253318371": {
     "product_title": "Attractive Jada Billa",
