@@ -13,7 +13,7 @@
     "variant_title": "Default Title",
     "sku": "29",
     "price": 1999.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/29?variant=gid://shopify/ProductVariant/32600664506427",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG-6786.jpg?v=1583735555"
   },
@@ -11438,15 +11438,6 @@
     "url": "https://www.daivik.in/products/antique-lakshmi-coin-kasumalai-short-and-long-necklace-with-jhumkas-price-for-short-long-and-combo?variant=gid://shopify/ProductVariant/46510768947422",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/48EDBADE-D555-4BDE-B1D0-5EF6D8101CF4.jpg?v=1743347272"
   },
-  "gid://shopify/ProductVariant/46511776989406": {
-    "product_title": "Lotus Ruby Pearl Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "601",
-    "price": 599.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/lotus-ruby-pearl-necklace-with-earrings?variant=gid://shopify/ProductVariant/46511776989406",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1DC5F738-495A-403E-8ABF-3EC8D8BF5505.jpg?v=1743401266"
-  },
   "gid://shopify/ProductVariant/46512599269598": {
     "product_title": "Antique Floral Anklets",
     "variant_title": "Default Title",
@@ -13414,7 +13405,7 @@
     "variant_title": "2.6",
     "sku": "1659",
     "price": 5499.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/temple-lakshmi-bangles?variant=gid://shopify/ProductVariant/47465039855838",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AB87B401-1A93-44BC-93E8-8B3E0CA0325B.jpg?v=1755941048"
   },
@@ -19939,7 +19930,7 @@
     "variant_title": "Default Title",
     "sku": "841",
     "price": 799.0,
-    "stock": 53,
+    "stock": 52,
     "url": "https://www.daivik.in/products/sri-balaji-heritage-choker-with-studs?variant=gid://shopify/ProductVariant/48289643102430",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/84DF6BB0-9447-44E6-8BBB-5D467BC5ACC4.jpg?v=1780066755"
   },
@@ -21127,7 +21118,7 @@
     "variant_title": "Default Title",
     "sku": "1150",
     "price": 799.0,
-    "stock": 25,
+    "stock": 24,
     "url": "https://www.daivik.in/products/simple-ad-green-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48550497583326",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/652C9996-8E2A-40F9-87B5-3C976003D04F.jpg?v=1785942584"
   },
@@ -21478,7 +21469,7 @@
     "variant_title": "Default Title",
     "sku": "294",
     "price": 499.0,
-    "stock": 34,
+    "stock": 32,
     "url": "https://www.daivik.in/products/simple-flower-pendant-hasli-necklace-with-earrings?variant=gid://shopify/ProductVariant/48649192210654",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1580_83ae5a0b-d197-4578-a296-bbad5f5a2b8a.jpg?v=1787842746"
   },
@@ -27457,6 +27448,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-lakshmi-coin-kasumalai-short-and-long-necklace-with-jhumkas-price-for-short-long-and-combo?variant=gid://shopify/ProductVariant/46510769012958",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/48EDBADE-D555-4BDE-B1D0-5EF6D8101CF4.jpg?v=1743347272"
+  },
+  "gid://shopify/ProductVariant/46511776989406": {
+    "product_title": "Lotus Ruby Pearl Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "601",
+    "price": 599.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/lotus-ruby-pearl-necklace-with-earrings?variant=gid://shopify/ProductVariant/46511776989406",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1DC5F738-495A-403E-8ABF-3EC8D8BF5505.jpg?v=1743401266"
   },
   "gid://shopify/ProductVariant/46514641436894": {
     "product_title": "Diamond Look Alike GJ Polish Necklace with Earrings and Backchain",
