@@ -1741,7 +1741,7 @@
     "variant_title": "Default Title",
     "sku": "992",
     "price": 1299.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.daivik.in/products/rosegold-circle-necklace-with-earrings?variant=gid://shopify/ProductVariant/42324428947678",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_b92ba159-b686-4916-a846-70d7b2301136.jpg?v=1641826525"
   },
@@ -12514,7 +12514,7 @@
     "variant_title": "Default Title",
     "sku": "830",
     "price": 1799.0,
-    "stock": 15,
+    "stock": 14,
     "url": "https://www.daivik.in/products/antique-jadau-green-beads-long-chain-with-earrings?variant=gid://shopify/ProductVariant/47047999455454",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0E475015-F86F-46F0-96FB-AB4D57EC6DE1.jpg?v=1751382255"
   },
@@ -20627,15 +20627,6 @@
     "url": "https://www.daivik.in/products/classic-jadau-kemp-earrings-with-five-line-mattal-earchain?variant=gid://shopify/ProductVariant/48413401284830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/DE2F606A-2B2E-4482-AC39-38B7FCE444E9.jpg?v=1783441959"
   },
-  "gid://shopify/ProductVariant/48415688229086": {
-    "product_title": "Premium AD Curve Diamond Look Alike Kada",
-    "variant_title": "Default Title",
-    "sku": "1922",
-    "price": 699.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/premium-ad-curve-design-kada?variant=gid://shopify/ProductVariant/48415688229086",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0580.jpg?v=1783509036"
-  },
   "gid://shopify/ProductVariant/48417440071902": {
     "product_title": "Designer Ballet Butterfly Dancing Girl Necklace with Earrings",
     "variant_title": "Default Title",
@@ -21082,7 +21073,7 @@
     "variant_title": "Default Title",
     "sku": "1150",
     "price": 799.0,
-    "stock": 49,
+    "stock": 48,
     "url": "https://www.daivik.in/products/simple-ad-green-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48550497583326",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/652C9996-8E2A-40F9-87B5-3C976003D04F.jpg?v=1785942584"
   },
@@ -30634,6 +30625,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-lakshmi-jada-billa-price-for-1-pc?variant=gid://shopify/ProductVariant/48378829111518",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/006995CB-6D6A-442B-8D24-B0ECA03F962B.jpg?v=1782648270"
+  },
+  "gid://shopify/ProductVariant/48415688229086": {
+    "product_title": "Premium AD Curve Diamond Look Alike Kada",
+    "variant_title": "Default Title",
+    "sku": "1922",
+    "price": 699.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/premium-ad-curve-design-kada?variant=gid://shopify/ProductVariant/48415688229086",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0580.jpg?v=1783509036"
   },
   "gid://shopify/ProductVariant/48415689113822": {
     "product_title": "Premium AD & Pearl Kada",
