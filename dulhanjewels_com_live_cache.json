@@ -5723,15 +5723,6 @@
     "url": "https://www.dulhanjewels.com/products/bridal-moissanite-polki-rainbow-beads-mala-with-earrings?variant=gid://shopify/ProductVariant/51566239973682",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0129.jpg?v=1786604738"
   },
-  "gid://shopify/ProductVariant/51566269923634": {
-    "product_title": "Stylish Victorian Bangle With Emerald Green Stones And Polki",
-    "variant_title": "2/6",
-    "sku": null,
-    "price": 4300.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/stylish-victorian-bangle-with-emerald-green-stones-and-polki?variant=gid://shopify/ProductVariant/51566269923634",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0181.jpg?v=1786606243"
-  },
   "gid://shopify/ProductVariant/51566269956402": {
     "product_title": "Stylish Victorian Bangle With Emerald Green Stones And Polki",
     "variant_title": "2/8",
@@ -6406,15 +6397,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/mini-jadau-kundan-maang-tikka-with-emerald-beads?variant=gid://shopify/ProductVariant/51723097440562",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0748.jpg?v=1788606518"
-  },
-  "gid://shopify/ProductVariant/51723109171506": {
-    "product_title": "Traditional South Indian Temple Necklace Set With Earrings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 3550.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/traditional-south-indian-temple-necklace-set-with-earrings?variant=gid://shopify/ProductVariant/51723109171506",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/047DEBFB-AB8C-4181-B8FB-CFDC45D9BF5E.jpg?v=1788600717"
   },
   "gid://shopify/ProductVariant/51723168383282": {
     "product_title": "Designer Victorian Polki Kundan Stud Earrings",
@@ -7946,6 +7928,15 @@
     "url": "https://www.dulhanjewels.com/products/stylish-victorian-bangle-with-emerald-green-stones-and-polki?variant=gid://shopify/ProductVariant/51566269890866",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0181.jpg?v=1786606243"
   },
+  "gid://shopify/ProductVariant/51566269923634": {
+    "product_title": "Stylish Victorian Bangle With Emerald Green Stones And Polki",
+    "variant_title": "2/6",
+    "sku": null,
+    "price": 4300.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/stylish-victorian-bangle-with-emerald-green-stones-and-polki?variant=gid://shopify/ProductVariant/51566269923634",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0181.jpg?v=1786606243"
+  },
   "gid://shopify/ProductVariant/51566677688626": {
     "product_title": "Radiant Victorian Necklace Set With Matching Earrings",
     "variant_title": "Green",
@@ -8026,5 +8017,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/ethnic-jadau-kundan-choker-with-pearl-drops?variant=gid://shopify/ProductVariant/51682862989618",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0601.jpg?v=1788166272"
+  },
+  "gid://shopify/ProductVariant/51723109171506": {
+    "product_title": "Traditional South Indian Temple Necklace Set With Earrings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 3550.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/traditional-south-indian-temple-necklace-set-with-earrings?variant=gid://shopify/ProductVariant/51723109171506",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/047DEBFB-AB8C-4181-B8FB-CFDC45D9BF5E.jpg?v=1788600717"
   }
 }
