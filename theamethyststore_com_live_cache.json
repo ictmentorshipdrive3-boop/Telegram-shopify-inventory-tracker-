@@ -49067,15 +49067,6 @@
     "url": "https://www.theamethyststore.com/products/amazing-kundan-jhumkas?variant=gid://shopify/ProductVariant/47807832359139",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11997.jpg?v=1767960580"
   },
-  "gid://shopify/ProductVariant/47807833440483": {
-    "product_title": "Dual Birds Kundan Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-11998",
-    "price": 25758.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/dual-birds-kundan-jhumkas?variant=gid://shopify/ProductVariant/47807833440483",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11998_89023acb-a984-47be-8ee5-999eaa23b529.jpg?v=1779270797"
-  },
   "gid://shopify/ProductVariant/47807836553443": {
     "product_title": "Avisha Nose pin",
     "variant_title": "Default Title",
@@ -85877,15 +85868,6 @@
     "url": "https://www.theamethyststore.com/products/moissanite-bracelet-3?variant=gid://shopify/ProductVariant/49476224254179",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1330.jpg?v=1785414975"
   },
-  "gid://shopify/ProductVariant/49476224450787": {
-    "product_title": "Grandeur Kundan Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17135",
-    "price": 88337.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/grandeur-kundan-short-necklace-3?variant=gid://shopify/ProductVariant/49476224450787",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17135.jpg?v=1785415004"
-  },
   "gid://shopify/ProductVariant/49476227399907": {
     "product_title": "Stunning Stone Bracelet",
     "variant_title": "Default Title",
@@ -89806,7 +89788,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4890",
     "price": 20800.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/diamond-design-pendant-40?variant=gid://shopify/ProductVariant/49508629479651",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4890.jpg?v=1786103876"
   },
@@ -104705,6 +104687,24 @@
     "url": "https://www.theamethyststore.com/products/hasli-necklace-5?variant=gid://shopify/ProductVariant/49674961256675",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17762.jpg?v=1788616728"
   },
+  "gid://shopify/ProductVariant/49674964599011": {
+    "product_title": "Tharikaa Hasli Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17763",
+    "price": 31800.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/hasli-necklace-8?variant=gid://shopify/ProductVariant/49674964599011",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17763.jpg?v=1788616962"
+  },
+  "gid://shopify/ProductVariant/49674972725475": {
+    "product_title": "Dazzle Floral Hasli Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17764",
+    "price": 33400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/hasli-necklace-11?variant=gid://shopify/ProductVariant/49674972725475",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17764.jpg?v=1788617313"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -112026,7 +112026,7 @@
     "product_title": "Elegant Nagas Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-2523-2.6\"",
-    "price": 24896.0,
+    "price": 25446.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/elegant-nagas-pair-bangle?variant=gid://shopify/ProductVariant/49674847486179",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2523.jpg?v=1756189864"
@@ -116701,6 +116701,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/grand-luxe-kundan-jhumkhas?variant=gid://shopify/ProductVariant/47807543476451",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11799.jpg?v=1767957942"
+  },
+  "gid://shopify/ProductVariant/47807833440483": {
+    "product_title": "Dual Birds Kundan Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-11998",
+    "price": 25758.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/dual-birds-kundan-jhumkas?variant=gid://shopify/ProductVariant/47807833440483",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11998_89023acb-a984-47be-8ee5-999eaa23b529.jpg?v=1779270797"
   },
   "gid://shopify/ProductVariant/47807868895459": {
     "product_title": "Majestic Stone Studs",
@@ -128032,6 +128041,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/mesmerizing-moissanite-short-necklace-set-1?variant=gid://shopify/ProductVariant/49476180836579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16383.jpg?v=1785413335"
+  },
+  "gid://shopify/ProductVariant/49476224450787": {
+    "product_title": "Grandeur Kundan Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17135",
+    "price": 88337.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/grandeur-kundan-short-necklace-3?variant=gid://shopify/ProductVariant/49476224450787",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17135.jpg?v=1785415004"
   },
   "gid://shopify/ProductVariant/49476231069923": {
     "product_title": "Grand Luxe Kundan Short Necklace",
