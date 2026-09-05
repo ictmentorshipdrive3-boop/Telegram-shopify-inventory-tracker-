@@ -12703,7 +12703,7 @@
     "variant_title": "Default Title",
     "sku": "R16884",
     "price": 6035.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/flora-ray-moissanite-studs?variant=gid://shopify/ProductVariant/52535039918377",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0221copy_97b8354c-de81-4229-a0cc-1bca8ef80e58.jpg?v=1770101864"
   },
@@ -18332,6 +18332,15 @@
     "url": "https://www.rasasilver.com/products/samaira-floral-toe-ring?variant=gid://shopify/ProductVariant/53138066768169",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11741_resized.jpg?v=1781263315"
   },
+  "gid://shopify/ProductVariant/53138071388457": {
+    "product_title": "Amaya Glow Kada",
+    "variant_title": "Default Title",
+    "sku": "R28385",
+    "price": 12240.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/multimuse-stone-bracelet-copy-1?variant=gid://shopify/ProductVariant/53138071388457",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11852_resized.jpg?v=1781160010"
+  },
   "gid://shopify/ProductVariant/53138163368233": {
     "product_title": "Amara Shine Necklace Set",
     "variant_title": "Default Title",
@@ -20020,7 +20029,7 @@
     "variant_title": "Default Title",
     "sku": "R31633",
     "price": 2975.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/leaf-luxe-chain-pendant?variant=gid://shopify/ProductVariant/53286047482153",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13331_resized.jpg?v=1782286937"
   },
@@ -23632,15 +23641,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/victorian-pendant-set-2?variant=gid://shopify/ProductVariant/53408235553065",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2711_resized.jpg?v=1785926322"
-  },
-  "gid://shopify/ProductVariant/53408288473385": {
-    "product_title": "Halfmoon-Pear Moissanite Ring",
-    "variant_title": "Default Title",
-    "sku": "R30831",
-    "price": 5100.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/halfmoon-moissanite-ring?variant=gid://shopify/ProductVariant/53408288473385",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0196_resized.jpg?v=1785927973"
   },
   "gid://shopify/ProductVariant/53426628002089": {
     "product_title": "Twin Pear Ring",
@@ -43649,15 +43649,6 @@
     "url": "https://www.rasasilver.com/products/multimuse-stone-bracelet-copy?variant=gid://shopify/ProductVariant/53138016043305",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11846_resized.jpg?v=1781159719"
   },
-  "gid://shopify/ProductVariant/53138071388457": {
-    "product_title": "Amaya Glow Kada",
-    "variant_title": "Default Title",
-    "sku": "R28385",
-    "price": 12240.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/multimuse-stone-bracelet-copy-1?variant=gid://shopify/ProductVariant/53138071388457",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11852_resized.jpg?v=1781160010"
-  },
   "gid://shopify/ProductVariant/53263394668841": {
     "product_title": "Saisha Toe Ring",
     "variant_title": "Ruby Pink",
@@ -46933,6 +46924,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/silver-bracelet?variant=gid://shopify/ProductVariant/53403323433257",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-08-04at1.36.52PM_1.jpg?v=1785831273"
+  },
+  "gid://shopify/ProductVariant/53408288473385": {
+    "product_title": "Halfmoon-Pear Moissanite Ring",
+    "variant_title": "Default Title",
+    "sku": "R30831",
+    "price": 5100.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/halfmoon-moissanite-ring?variant=gid://shopify/ProductVariant/53408288473385",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0196_resized.jpg?v=1785927973"
   },
   "gid://shopify/ProductVariant/53410084323625": {
     "product_title": "Infinite Veera Rakhi",
