@@ -2154,7 +2154,7 @@
     "product_title": "Perumal 3D Idol",
     "variant_title": "4\"",
     "sku": "AMS-115-0052-4\"",
-    "price": 37000.0,
+    "price": 52100.0,
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/perumal-3d-idol?variant=gid://shopify/ProductVariant/49674850795747",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-115-0052.jpg?v=1661950546"
@@ -5898,19 +5898,10 @@
     "product_title": "Merin Beads Chain",
     "variant_title": "Default Title",
     "sku": "AMS-105-0398",
-    "price": 12900.0,
+    "price": 13365.0,
     "stock": 3,
     "url": "https://www.theamethyststore.com/products/merin-beads-chain?variant=gid://shopify/ProductVariant/44025656738019",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-0398_132827d8-6ec1-4da5-942e-8e33f704c45b.jpg?v=1758958756"
-  },
-  "gid://shopify/ProductVariant/44029322330339": {
-    "product_title": "Azalea Victorian Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-5064",
-    "price": 142049.7,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/azalea-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/44029322330339",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5064.jpg?v=1696654775"
   },
   "gid://shopify/ProductVariant/44029396615395": {
     "product_title": "Elites Victorian Drops",
@@ -6519,7 +6510,7 @@
     "product_title": "Blue Little Swan Pendant Set",
     "variant_title": "Default Title",
     "sku": "AMS-104-1517",
-    "price": 11200.0,
+    "price": 12700.0,
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/blue-swan-pendant-set?variant=gid://shopify/ProductVariant/44247793828067",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-1517.jpg?v=1703338006"
@@ -6555,7 +6546,7 @@
     "product_title": "Parahal Choker Set",
     "variant_title": "Default Title",
     "sku": "AMS-102-5331",
-    "price": 48500.0,
+    "price": 50000.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/parahal-choker-set?variant=gid://shopify/ProductVariant/44267601035491",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5331.jpg?v=1703758248"
@@ -9318,7 +9309,7 @@
     "product_title": "Unisia Kundan Choker",
     "variant_title": "Default Title",
     "sku": "AMS-102-6467",
-    "price": 54300.0,
+    "price": 61700.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/unisia-kundan-choker?variant=gid://shopify/ProductVariant/45269545615587",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-6467_2.jpg?v=1720957372"
@@ -9498,7 +9489,7 @@
     "product_title": "Amethyst Leafy Pendant",
     "variant_title": "Default Title",
     "sku": "AMS-104-1748",
-    "price": 1800.0,
+    "price": 2100.0,
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/amethyst-leafy-pendant?variant=gid://shopify/ProductVariant/45281021427939",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-1748.jpg?v=1721293649"
@@ -9507,7 +9498,7 @@
     "product_title": "Purple Garnet Long Earrings",
     "variant_title": "Default Title",
     "sku": "AMS-106-6299",
-    "price": 6400.0,
+    "price": 7231.0,
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/purple-garnet-long-earrings?variant=gid://shopify/ProductVariant/45281177403619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6299.jpg?v=1721296931"
@@ -106172,6 +106163,15 @@
     "url": "https://www.theamethyststore.com/products/yashninka-avikam-necklace-set?variant=gid://shopify/ProductVariant/44025924354275",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5063_436b2fd0-7fd2-4b6d-81e8-51cb106097ab.jpg?v=1787223260"
   },
+  "gid://shopify/ProductVariant/44029322330339": {
+    "product_title": "Azalea Victorian Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-5064",
+    "price": 142049.7,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/azalea-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/44029322330339",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5064.jpg?v=1696654775"
+  },
   "gid://shopify/ProductVariant/44029330555107": {
     "product_title": "Cluster Victorian Long Necklace",
     "variant_title": "Default Title",
@@ -106284,7 +106284,7 @@
     "product_title": "Green Swan Pendant Set",
     "variant_title": "Default Title",
     "sku": "AMS-104-1513",
-    "price": 11200.0,
+    "price": 6750.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/green-swan-pendant-set?variant=gid://shopify/ProductVariant/44247761846499",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-1513.jpg?v=1703337385"
@@ -106761,7 +106761,7 @@
     "product_title": "Rosella Beads Necklace",
     "variant_title": "Default Title",
     "sku": "AMS-102-5956",
-    "price": 25800.0,
+    "price": 27400.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/rosella-beads-necklace?variant=gid://shopify/ProductVariant/44992771260643",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5956.jpg?v=1716113067"
@@ -106833,7 +106833,7 @@
     "product_title": "Beauteous Necklace Set",
     "variant_title": "Default Title",
     "sku": "AMS-102-6176",
-    "price": 76600.0,
+    "price": 54600.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/beauteous-necklace-set?variant=gid://shopify/ProductVariant/45092073341155",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-6176_11981b23-f2a0-491f-8daa-4f4fb9b9560f.jpg?v=1723178975"
@@ -106968,7 +106968,7 @@
     "product_title": "Aldora Victorian Long Necklace Set",
     "variant_title": "Default Title",
     "sku": "AMS-102-6294",
-    "price": 85700.0,
+    "price": 59600.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/aldora-victorian-long-necklace-set?variant=gid://shopify/ProductVariant/45208042406115",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-6294.jpg?v=1719733547"
@@ -106977,7 +106977,7 @@
     "product_title": "Sterling Victorian Necklace Set",
     "variant_title": "Default Title",
     "sku": "AMS-102-6303",
-    "price": 84600.0,
+    "price": 56500.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/sterling-victorian-necklace-set?variant=gid://shopify/ProductVariant/45208191336675",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/DSC07772.jpg?v=1729401941"
