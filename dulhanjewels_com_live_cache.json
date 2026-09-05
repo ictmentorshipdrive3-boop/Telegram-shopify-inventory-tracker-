@@ -5471,15 +5471,6 @@
     "url": "https://www.dulhanjewels.com/products/reversible-jadau-kundan-beads-mala-with-emerald-hangings?variant=gid://shopify/ProductVariant/51553607942450",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/7987BE13-A97E-4C75-9483-2DFDCE8EC6DE.jpg?v=1786185439"
   },
-  "gid://shopify/ProductVariant/51553608728882": {
-    "product_title": "Traditional Moissanite Mango Haram With Green Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 17100.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/traditional-moissanite-mango-haram-with-green-drops?variant=gid://shopify/ProductVariant/51553608728882",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/311E86AE-AF61-4E2F-99D8-DFFFDE48922B.jpg?v=1786185585"
-  },
   "gid://shopify/ProductVariant/51553609318706": {
     "product_title": "Ethnic Jadau Kundan Necklace With Green Beads",
     "variant_title": "Default Title",
@@ -6181,15 +6172,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/jadau-kundan-pearl-choker-with-emerald-drops?variant=gid://shopify/ProductVariant/51674333741362",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/50BDABE6-8E20-44EE-B03E-EB30981476E0.jpg?v=1787998242"
-  },
-  "gid://shopify/ProductVariant/51674342195506": {
-    "product_title": "Royal Polki Pendant With Green Emerald And Pearl Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1600.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/royal-polki-pendant-with-green-emerald-and-pearl-drops?variant=gid://shopify/ProductVariant/51674342195506",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0594.jpg?v=1788163649"
   },
   "gid://shopify/ProductVariant/51674353402162": {
     "product_title": "Traditional Jadau Kundan Pendant With Green Hangings",
@@ -7937,6 +7919,15 @@
     "url": "https://www.dulhanjewels.com/products/elegant-victorian-maang-tikka-with-pearl-and-emerald-hangings?variant=gid://shopify/ProductVariant/51582490313010",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/C9DB5662-46F5-42EE-B18A-4D4933FD3120.jpg?v=1783590903"
   },
+  "gid://shopify/ProductVariant/51553608728882": {
+    "product_title": "Traditional Moissanite Mango Haram With Green Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 17100.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/traditional-moissanite-mango-haram-with-green-drops?variant=gid://shopify/ProductVariant/51553608728882",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/311E86AE-AF61-4E2F-99D8-DFFFDE48922B.jpg?v=1786185585"
+  },
   "gid://shopify/ProductVariant/51564485574962": {
     "product_title": "Minimal Jadau Kundan Pendant With Ricepearl Hangings",
     "variant_title": "Default Title",
@@ -7990,6 +7981,15 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/designer-jadau-kundan-necklace-with-strawberry-beads?variant=gid://shopify/ProductVariant/51647175622962",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/F6CCAD83-08E1-49D7-BF5B-99AABAF98299.jpg?v=1787650009"
+  },
+  "gid://shopify/ProductVariant/51674342195506": {
+    "product_title": "Royal Polki Pendant With Green Emerald And Pearl Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1600.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/royal-polki-pendant-with-green-emerald-and-pearl-drops?variant=gid://shopify/ProductVariant/51674342195506",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0594.jpg?v=1788163649"
   },
   "gid://shopify/ProductVariant/51674358710578": {
     "product_title": "Designer Jadau Kundan Kasulu Haram With Pendant",
