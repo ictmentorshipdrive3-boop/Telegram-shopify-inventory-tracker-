@@ -688,7 +688,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 1000.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-studs-with-pearl-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52804998955324",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260225_234839_91f5263f-912b-4fe3-a4f0-f648b2d0dd6e.jpg?v=1772199037"
   },
@@ -1961,15 +1961,6 @@
     "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-necklace-pearls-with-natural-strawberry-beads?variant=gid://shopify/ProductVariant/53826851930428",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260725_100848_c5ef8209-7932-4024-946c-63c04cea3616.jpg?v=1785157083"
   },
-  "gid://shopify/ProductVariant/53828101308732": {
-    "product_title": "Jadau Kundan Floral Pandent Pearls/Beads Mala with Rice Pearls, Onyx and Natural Strawberry Beads",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2850.0,
-    "stock": 1,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-pandent-pearls-beads-mala-with-rice-pearls-onyx-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/53828101308732",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260725_101734_567c24a0-73e0-4a1a-b114-05a18f41f14e_1.jpg?v=1785157139"
-  },
   "gid://shopify/ProductVariant/53829728010556": {
     "product_title": "Jadau Kundan + Temple/Antique Necklace Pearls and Natural Strawberry Beads",
     "variant_title": "Default Title",
@@ -2581,6 +2572,15 @@
     "stock": 0,
     "url": "https://www.muskanjewel.com/products/temple-antique-goddess-laxmi-and-peacock-bangles-pair?variant=gid://shopify/ProductVariant/53016702124348",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260427_121550_b70684a9-e244-4e0f-bfa3-5fc4b9b535b6.webp?v=1777384090"
+  },
+  "gid://shopify/ProductVariant/53828101308732": {
+    "product_title": "Jadau Kundan Floral Pandent Pearls/Beads Mala with Rice Pearls, Onyx and Natural Strawberry Beads",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2850.0,
+    "stock": 0,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-pandent-pearls-beads-mala-with-rice-pearls-onyx-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/53828101308732",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260725_101734_567c24a0-73e0-4a1a-b114-05a18f41f14e_1.jpg?v=1785157139"
   },
   "gid://shopify/ProductVariant/53979941634364": {
     "product_title": "Jadau Kundan Peacock with Pearls and Natural Strawberry Beads",
