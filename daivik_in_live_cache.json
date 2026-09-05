@@ -8,15 +8,6 @@
     "url": "https://www.daivik.in/products/18?variant=gid://shopify/ProductVariant/32600557649979",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_5e6e7a93-bcb3-4c15-a2d3-f871fbf7f3fb.jpg?v=1641477506"
   },
-  "gid://shopify/ProductVariant/32600664506427": {
-    "product_title": "Uncut Kemp Haram with Balis",
-    "variant_title": "Default Title",
-    "sku": "29",
-    "price": 1999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/29?variant=gid://shopify/ProductVariant/32600664506427",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG-6786.jpg?v=1583735555"
-  },
   "gid://shopify/ProductVariant/32600742723643": {
     "product_title": "Matte Gold Finish Uncut Long Haram with Earrings",
     "variant_title": "Default Title",
@@ -31,7 +22,7 @@
     "variant_title": "Default Title",
     "sku": "45",
     "price": 1449.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/45?variant=gid://shopify/ProductVariant/32600770707515",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_ec716232-9924-41f1-819a-8bc18601c00b.jpg?v=1599550627"
   },
@@ -6637,7 +6628,7 @@
     "variant_title": "Green",
     "sku": "285",
     "price": 2999.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/victorian-hipchain-in-2-colors-fits-all-hipsize?variant=gid://shopify/ProductVariant/45227742986462",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4721A4D0-92EA-4606-8C6E-E5F66DFD7BCA.jpg?v=1713545343"
   },
@@ -7213,7 +7204,7 @@
     "variant_title": "Default Title",
     "sku": "512",
     "price": 649.0,
-    "stock": 24,
+    "stock": 23,
     "url": "https://www.daivik.in/products/lakshmi-white-stone-choker-with-earrinbs?variant=gid://shopify/ProductVariant/45569497432286",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B7025D39-5E68-4CE2-997A-A075248DB8EB.jpg?v=1718457274"
   },
@@ -7942,7 +7933,7 @@
     "variant_title": "Green",
     "sku": "1503",
     "price": 1299.0,
-    "stock": 21,
+    "stock": 20,
     "url": "https://www.daivik.in/products/mossanite-kundan-balis-in-2-colours?variant=gid://shopify/ProductVariant/45889343553758",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4D32A516-1DA2-4CD3-AA62-C24EB5B9B866.jpg?v=1726379854"
   },
@@ -12595,7 +12586,7 @@
     "variant_title": "Default Title",
     "sku": "1293",
     "price": 599.0,
-    "stock": 21,
+    "stock": 20,
     "url": "https://www.daivik.in/products/diamond-look-alike-floral-necklace-with-earrings?variant=gid://shopify/ProductVariant/47058250170590",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AE8A8B55-BBFF-4A9C-8164-78581ED7BF0D.jpg?v=1751779972"
   },
@@ -15871,7 +15862,7 @@
     "variant_title": "2.4",
     "sku": "1697",
     "price": 8499.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/bridal-antique-pearl-and-elephant-bangles-combo-price-for-both-hands?variant=gid://shopify/ProductVariant/47554818179294",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D6AFC0ED-2F5C-4137-8D73-C26766B293FB.jpg?v=1758717438"
   },
@@ -21535,6 +21526,15 @@
     "stock": 30,
     "url": "https://www.daivik.in/products/ad-diamond-look-alike-earcuff?variant=gid://shopify/ProductVariant/48983346512094",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5B6C8871-530F-43FD-A422-A16E9C1F313A.jpg?v=1788540176"
+  },
+  "gid://shopify/ProductVariant/32600664506427": {
+    "product_title": "Uncut Kemp Haram with Balis",
+    "variant_title": "Default Title",
+    "sku": "29",
+    "price": 1999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/29?variant=gid://shopify/ProductVariant/32600664506427",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG-6786.jpg?v=1583735555"
   },
   "gid://shopify/ProductVariant/34430554472601": {
     "product_title": "Regular Use Stone Set Of Four Bangles",
