@@ -83641,7 +83641,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-2140",
     "price": 2506.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-ring-12?variant=gid://shopify/ProductVariant/49439371231459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2140.jpg?v=1784804206"
   },
@@ -88321,7 +88321,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4799",
     "price": 22100.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/avikam-pendant-set-31?variant=gid://shopify/ProductVariant/49497800802531",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4799.jpg?v=1785839537"
   },
@@ -88348,7 +88348,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4802",
     "price": 9400.0,
-    "stock": 1,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/avikam-pendant-set-34?variant=gid://shopify/ProductVariant/49497877577955",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4802.jpg?v=1785840463"
   },
@@ -88375,18 +88375,27 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4805",
     "price": 9200.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/avikam-pendant-set-37?variant=gid://shopify/ProductVariant/49497932366051",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4805.jpg?v=1785841019"
   },
-  "gid://shopify/ProductVariant/49668490100963": {
+  "gid://shopify/ProductVariant/49671865663715": {
     "product_title": "Shinning Charm Jada Billa",
-    "variant_title": "SURAJ",
+    "variant_title": "Chandran",
+    "sku": "AMS-112-0875-CHAAND",
+    "price": 6035.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/jada-billa-6?variant=gid://shopify/ProductVariant/49671865663715",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0875_2_664eeb1b-8a1c-4683-b233-89719ac11222.jpg?v=1788590984"
+  },
+  "gid://shopify/ProductVariant/49671865696483": {
+    "product_title": "Shinning Charm Jada Billa",
+    "variant_title": "Suryan",
     "sku": "AMS-112-0875-SURAJ",
     "price": 6035.0,
     "stock": 1,
-    "url": "https://www.theamethyststore.com/products/jada-billa-6?variant=gid://shopify/ProductVariant/49668490100963",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0875_2.jpg?v=1785841056"
+    "url": "https://www.theamethyststore.com/products/jada-billa-6?variant=gid://shopify/ProductVariant/49671865696483",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0875_2_664eeb1b-8a1c-4683-b233-89719ac11222.jpg?v=1788590984"
   },
   "gid://shopify/ProductVariant/49497940361443": {
     "product_title": "Diana Avikam Pendant Set",
@@ -88429,7 +88438,7 @@
     "variant_title": "SURAJ",
     "sku": "AMS-112-0887-SURAJ",
     "price": 6313.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/jada-billa-9?variant=gid://shopify/ProductVariant/49668490395875",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0887_2.jpg?v=1785847202"
   },
@@ -88438,7 +88447,7 @@
     "variant_title": "SURAJ",
     "sku": "AMS-112-0888-SURAJ",
     "price": 7994.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/jada-billa-10?variant=gid://shopify/ProductVariant/49668490428643",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0888_2.jpg?v=1785847960"
   },
@@ -88460,21 +88469,30 @@
     "url": "https://www.theamethyststore.com/products/avikam-pendant-set-40?variant=gid://shopify/ProductVariant/49498807861475",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4808.jpg?v=1785851841"
   },
+  "gid://shopify/ProductVariant/49671880048867": {
+    "product_title": "Classy Jada Billa",
+    "variant_title": "Chandran",
+    "sku": "AMS-112-0871-CHAAND",
+    "price": 5258.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/jada-billa-11?variant=gid://shopify/ProductVariant/49671880048867",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0871_5_bb4c2bc3-0b3c-4630-bb00-11aa93c57b40.jpg?v=1788591375"
+  },
   "gid://shopify/ProductVariant/49671800750307": {
     "product_title": "Classy Jada Billa",
     "variant_title": "Suryan",
     "sku": "AMS-112-0871-SURAJ",
-    "price": 5258.0,
+    "price": 7915.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/jada-billa-11?variant=gid://shopify/ProductVariant/49671800750307",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0871_5.jpg?v=1785852119"
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0871_5_bb4c2bc3-0b3c-4630-bb00-11aa93c57b40.jpg?v=1788591375"
   },
   "gid://shopify/ProductVariant/49500970909923": {
     "product_title": "Amazing Stone Ring",
     "variant_title": "Default Title",
     "sku": "AMS-101-2193",
     "price": 2390.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/stone-ring-21?variant=gid://shopify/ProductVariant/49500970909923",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2193.jpg?v=1785904951"
   },
@@ -88654,7 +88672,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-2200",
     "price": 2629.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/manjari-stone-ring?variant=gid://shopify/ProductVariant/49501155131619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2200.jpg?v=1785917176"
   },
@@ -89086,7 +89104,7 @@
     "variant_title": "SURAJ",
     "sku": "AMS-112-0886-SURAJ",
     "price": 10263.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/jada-billa-21?variant=gid://shopify/ProductVariant/49668490854627",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0886_4.jpg?v=1785936342"
   },
@@ -106035,6 +106053,15 @@
     "price": 4400.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/fish-hook-back-chain?variant=gid://shopify/ProductVariant/49671822147811",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_21dbdd2e-d30a-4019-816f-52833d641d9a.jpg?v=1693456844"
+  },
+  "gid://shopify/ProductVariant/49671858847971": {
+    "product_title": "Fish Hook Back Chain",
+    "variant_title": "9 Inches",
+    "sku": "AMS-119-0001-ML",
+    "price": 4800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/fish-hook-back-chain?variant=gid://shopify/ProductVariant/49671858847971",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_21dbdd2e-d30a-4019-816f-52833d641d9a.jpg?v=1693456844"
   },
   "gid://shopify/ProductVariant/43974366036195": {
