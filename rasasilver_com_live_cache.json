@@ -13184,15 +13184,6 @@
     "url": "https://www.rasasilver.com/products/green-swan-victorian-bangles?variant=gid://shopify/ProductVariant/52553614754089",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_113_Pics_29Jan4125.jpg?v=1770289408"
   },
-  "gid://shopify/ProductVariant/52596604797225": {
-    "product_title": "Tri-Oval Antique Ring",
-    "variant_title": "11",
-    "sku": "R24445",
-    "price": 7990.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/tri-oval-antique-ring?variant=gid://shopify/ProductVariant/52596604797225",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_30_Jan3814.jpg?v=1770357572"
-  },
   "gid://shopify/ProductVariant/52597111849257": {
     "product_title": "Rani Gulab Antique Ring",
     "variant_title": "14",
@@ -17783,15 +17774,6 @@
     "url": "https://www.rasasilver.com/products/sitar-kundan-chandbali?variant=gid://shopify/ProductVariant/53069942489385",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_25April0142_resized_e6d5adb1-6311-4f21-b126-e8e0a6a78239.jpg?v=1785488575"
   },
-  "gid://shopify/ProductVariant/53070075035945": {
-    "product_title": "Divyashree Temple Necklace",
-    "variant_title": "Default Title",
-    "sku": "R28163",
-    "price": 29155.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/rajalakshmi-short-temple-necklace-copy?variant=gid://shopify/ProductVariant/53070075035945",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_25April0009_resized.jpg?v=1778306739"
-  },
   "gid://shopify/ProductVariant/53071057649961": {
     "product_title": "Suvarna Temple Necklace",
     "variant_title": "Default Title",
@@ -18781,15 +18763,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/pankhudi-oxidised-jhumki?variant=gid://shopify/ProductVariant/53150242472233",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11656_resized.jpg?v=1780728247"
-  },
-  "gid://shopify/ProductVariant/53150245552425": {
-    "product_title": "Oxidised Morni Jhumki",
-    "variant_title": "Default Title",
-    "sku": "R27974",
-    "price": 6800.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/gulnaar-oxidised-jhumki-copy-1?variant=gid://shopify/ProductVariant/53150245552425",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11630_resized.jpg?v=1780732390"
   },
   "gid://shopify/ProductVariant/53150291099945": {
     "product_title": "Adiva Oxidised Jhumki",
@@ -37952,6 +37925,15 @@
     "url": "https://www.rasasilver.com/products/janaki-temple-pendant?variant=gid://shopify/ProductVariant/52553643688233",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_30Jan3295_resized.jpg?v=1770382528"
   },
+  "gid://shopify/ProductVariant/52596604797225": {
+    "product_title": "Tri-Oval Antique Ring",
+    "variant_title": "11",
+    "sku": "R24445",
+    "price": 7990.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/tri-oval-antique-ring?variant=gid://shopify/ProductVariant/52596604797225",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_30_Jan3814.jpg?v=1770357572"
+  },
   "gid://shopify/ProductVariant/52596590674217": {
     "product_title": "Pushpika Antique Ring",
     "variant_title": "17",
@@ -43163,6 +43145,15 @@
     "url": "https://www.rasasilver.com/products/rajalakshmi-short-temple-necklace?variant=gid://shopify/ProductVariant/53070029652265",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_25April0019_resized.jpg?v=1778248053"
   },
+  "gid://shopify/ProductVariant/53070075035945": {
+    "product_title": "Divyashree Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R28163",
+    "price": 29155.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/rajalakshmi-short-temple-necklace-copy?variant=gid://shopify/ProductVariant/53070075035945",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_25April0009_resized.jpg?v=1778306739"
+  },
   "gid://shopify/ProductVariant/53070128447785": {
     "product_title": "Kiara Kundan Oddiyanam",
     "variant_title": "Default Title",
@@ -43936,6 +43927,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/vionna-spark-cz-pendant?variant=gid://shopify/ProductVariant/53158352650537",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11439_resized.jpg?v=1780904040"
+  },
+  "gid://shopify/ProductVariant/53150245552425": {
+    "product_title": "Oxidised Morni Jhumki",
+    "variant_title": "Default Title",
+    "sku": "R27974",
+    "price": 6800.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/gulnaar-oxidised-jhumki-copy-1?variant=gid://shopify/ProductVariant/53150245552425",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11630_resized.jpg?v=1780732390"
   },
   "gid://shopify/ProductVariant/53150260134185": {
     "product_title": "Temple Kasu Jhumki",
