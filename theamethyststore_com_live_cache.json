@@ -24034,7 +24034,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-0382-S",
     "price": 7200.0,
-    "stock": 21,
+    "stock": 20,
     "url": "https://www.theamethyststore.com/products/mangalsutra-chain-double-layer?variant=gid://shopify/ProductVariant/46779081195747",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-0382_S.jpg?v=1775372483"
   },
@@ -28960,15 +28960,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/thahirasri-stone-ring?variant=gid://shopify/ProductVariant/47036766191843",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1469.jpg?v=1755585743"
-  },
-  "gid://shopify/ProductVariant/47036785721571": {
-    "product_title": "Aashvi Nagas Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-11119",
-    "price": 70190.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/aashvi-nagas-long-necklace?variant=gid://shopify/ProductVariant/47036785721571",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11119.jpg?v=1755586651"
   },
   "gid://shopify/ProductVariant/47036885991651": {
     "product_title": "Anushkha Stone Pendant",
@@ -56788,15 +56779,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/dhruvi-kundan-ring?variant=gid://shopify/ProductVariant/48009076572387",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1921.jpg?v=1770383306"
-  },
-  "gid://shopify/ProductVariant/48009081520355": {
-    "product_title": "Mathisha Mugappu Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-3800",
-    "price": 7104.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/mathisha-mugappu-pendant?variant=gid://shopify/ProductVariant/48009081520355",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3800.jpg?v=1770383402"
   },
   "gid://shopify/ProductVariant/48009103573219": {
     "product_title": "Vidhya Kundan Ring",
@@ -107387,6 +107369,15 @@
     "url": "https://www.theamethyststore.com/products/nagas-short-necklace-11?variant=gid://shopify/ProductVariant/49695620628707",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17816.jpg?v=1788703341"
   },
+  "gid://shopify/ProductVariant/49695621906659": {
+    "product_title": "Priyanka Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17854",
+    "price": 47000.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nagas-short-necklace-12?variant=gid://shopify/ProductVariant/49695621906659",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17854.jpg?v=1788703616"
+  },
   "gid://shopify/ProductVariant/49695624134883": {
     "product_title": "Ashvikaa Nagas Short Necklace",
     "variant_title": "Default Title",
@@ -107395,6 +107386,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/nagas-short-necklace-14?variant=gid://shopify/ProductVariant/49695624134883",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17873.jpg?v=1788703772"
+  },
+  "gid://shopify/ProductVariant/49695625052387": {
+    "product_title": "Abinkaa Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17865",
+    "price": 45950.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nagas-short-necklace-15?variant=gid://shopify/ProductVariant/49695625052387",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17865.jpg?v=1788704196"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -113894,6 +113894,15 @@
     "url": "https://www.theamethyststore.com/products/avanti-stone-ring?variant=gid://shopify/ProductVariant/47036774088931",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1490.jpg?v=1755586095"
   },
+  "gid://shopify/ProductVariant/47036785721571": {
+    "product_title": "Aashvi Nagas Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-11119",
+    "price": 70190.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/aashvi-nagas-long-necklace?variant=gid://shopify/ProductVariant/47036785721571",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11119.jpg?v=1755586651"
+  },
   "gid://shopify/ProductVariant/47036844310755": {
     "product_title": "Vishlina Nagas Pendant",
     "variant_title": "Default Title",
@@ -119608,6 +119617,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/arvika-kundan-pendant?variant=gid://shopify/ProductVariant/48007128678627",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3778.jpg?v=1770381146"
+  },
+  "gid://shopify/ProductVariant/48009081520355": {
+    "product_title": "Mathisha Mugappu Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-3800",
+    "price": 7104.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/mathisha-mugappu-pendant?variant=gid://shopify/ProductVariant/48009081520355",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3800.jpg?v=1770383402"
   },
   "gid://shopify/ProductVariant/48009131131107": {
     "product_title": "Yashira Mugappu Pendant",
@@ -131128,14 +131146,5 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nagas-earrings-4?variant=gid://shopify/ProductVariant/49669060133091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/WhatsAppImage2026-09-04at6.45.21PM_2b9040f9-cc85-4c1f-844a-769001f990e4.jpg?v=1788528205"
-  },
-  "gid://shopify/ProductVariant/49695621906659": {
-    "product_title": "Priyanka Nagas Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17854",
-    "price": 47000.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/nagas-short-necklace-12?variant=gid://shopify/ProductVariant/49695621906659",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17854.jpg?v=1788703616"
   }
 }
