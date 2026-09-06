@@ -11866,7 +11866,7 @@
     "variant_title": "2.8\"",
     "sku": "AMS-107-1396-2.8\"",
     "price": 27100.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/vikshi-kundan-pair-bangle?variant=gid://shopify/ProductVariant/49681965318371",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1396.jpg?v=1726312622"
   },
@@ -30320,15 +30320,6 @@
     "url": "https://www.theamethyststore.com/products/stunning-ring?variant=gid://shopify/ProductVariant/47047023460579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1094.jpg?v=1755850631"
   },
-  "gid://shopify/ProductVariant/47048702001379": {
-    "product_title": "Saisha Chain",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-1134",
-    "price": 17783.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/saisha-chain-1?variant=gid://shopify/ProductVariant/47048702001379",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1134.jpg?v=1755855382"
-  },
   "gid://shopify/ProductVariant/47048753283299": {
     "product_title": "Saevika Ring",
     "variant_title": "Default Title",
@@ -38446,15 +38437,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/vishaka-nagas-earrings?variant=gid://shopify/ProductVariant/47212292112611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10346.jpg?v=1758976714"
-  },
-  "gid://shopify/ProductVariant/47212430557411": {
-    "product_title": "Sendhura Nagas Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-3365",
-    "price": 55200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/sendhura-nagas-pendant?variant=gid://shopify/ProductVariant/47212430557411",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3365.jpg?v=1758979102"
   },
   "gid://shopify/ProductVariant/47212448415971": {
     "product_title": "Nirali Nagas Nakshi Pendant",
@@ -83641,7 +83623,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-112-0868",
     "price": 25200.0,
-    "stock": 4,
+    "stock": 10,
     "url": "https://www.theamethyststore.com/products/avikam-mini-choker-cum-vanki?variant=gid://shopify/ProductVariant/49410292646115",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0868.jpg?v=1784110549"
   },
@@ -84757,7 +84739,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17085",
     "price": 57900.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/mesmerizing-avikam-necklace-set-4?variant=gid://shopify/ProductVariant/49421441827043",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17085.jpg?v=1784297401"
   },
@@ -113975,6 +113957,15 @@
     "url": "https://www.theamethyststore.com/products/shrinika-chain?variant=gid://shopify/ProductVariant/47046809354467",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1128.jpg?v=1755843476"
   },
+  "gid://shopify/ProductVariant/47048702001379": {
+    "product_title": "Saisha Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-1134",
+    "price": 17783.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/saisha-chain-1?variant=gid://shopify/ProductVariant/47048702001379",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1134.jpg?v=1755855382"
+  },
   "gid://shopify/ProductVariant/47048920498403": {
     "product_title": "Calista Ring",
     "variant_title": "Default Title",
@@ -115594,6 +115585,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/lathisha-nagas-ring?variant=gid://shopify/ProductVariant/47211714085091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1649.jpg?v=1758967410"
+  },
+  "gid://shopify/ProductVariant/47212430557411": {
+    "product_title": "Sendhura Nagas Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-3365",
+    "price": 55200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/sendhura-nagas-pendant?variant=gid://shopify/ProductVariant/47212430557411",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3365.jpg?v=1758979102"
   },
   "gid://shopify/ProductVariant/47212528206051": {
     "product_title": "Praniksha Nagas Pendant",
