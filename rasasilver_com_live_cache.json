@@ -3221,15 +3221,6 @@
     "url": "https://www.rasasilver.com/products/dhwaja-shree-choker?variant=gid://shopify/ProductVariant/50612649034025",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2-4_fe7ef56e-d7eb-41f2-9968-e7c9c18b4469.jpg?v=1753966363"
   },
-  "gid://shopify/ProductVariant/50615516791081": {
-    "product_title": "Rangmayura Kundan Pendant",
-    "variant_title": "Default Title",
-    "sku": "R9632",
-    "price": 48535.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/rangmayura-pendant?variant=gid://shopify/ProductVariant/50615516791081",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_271c24f1-e96b-4041-9b7b-bb4df8c2d25f.jpg?v=1754306127"
-  },
   "gid://shopify/ProductVariant/50615550902569": {
     "product_title": "Mor Sundari Kundan Pendant",
     "variant_title": "Default Title",
@@ -10915,15 +10906,6 @@
     "stock": 2,
     "url": "https://www.rasasilver.com/products/narayani-temple-pendant?variant=gid://shopify/ProductVariant/52397758349609",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0009copy_resized_5ab51556-5247-4828-90ba-d2013b308caa.jpg?v=1767694765"
-  },
-  "gid://shopify/ProductVariant/52398582235433": {
-    "product_title": "Hamsini Nakshi Necklace",
-    "variant_title": "Default Title",
-    "sku": "R22270",
-    "price": 35360.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/hamsini-nakshi-necklace?variant=gid://shopify/ProductVariant/52398582235433",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0027_copy_resized_1.jpg?v=1767699132"
   },
   "gid://shopify/ProductVariant/52398752170281": {
     "product_title": "Tejomaya Nakshi Necklace",
@@ -24848,6 +24830,15 @@
     "url": "https://www.rasasilver.com/products/nagadevi-grace-pendant?variant=gid://shopify/ProductVariant/50612386103593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_292085cb-8317-4d6c-8bcf-e129fe66287a.jpg?v=1754300954"
   },
+  "gid://shopify/ProductVariant/50615516791081": {
+    "product_title": "Rangmayura Kundan Pendant",
+    "variant_title": "Default Title",
+    "sku": "R9632",
+    "price": 48535.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/rangmayura-pendant?variant=gid://shopify/ProductVariant/50615516791081",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_271c24f1-e96b-4041-9b7b-bb4df8c2d25f.jpg?v=1754306127"
+  },
   "gid://shopify/ProductVariant/51412295745833": {
     "product_title": "Rosy Maanga Studs",
     "variant_title": "Green",
@@ -35404,6 +35395,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/moradhwaj-nakshi-necklace?variant=gid://shopify/ProductVariant/52398569619753",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0071_copy_resized.jpg?v=1767698890"
+  },
+  "gid://shopify/ProductVariant/52398582235433": {
+    "product_title": "Hamsini Nakshi Necklace",
+    "variant_title": "Default Title",
+    "sku": "R22270",
+    "price": 35360.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/hamsini-nakshi-necklace?variant=gid://shopify/ProductVariant/52398582235433",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0027_copy_resized_1.jpg?v=1767699132"
   },
   "gid://shopify/ProductVariant/52398614151465": {
     "product_title": "Gajamayura Nakshi Necklace",
