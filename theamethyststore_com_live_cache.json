@@ -18863,15 +18863,6 @@
     "url": "https://www.theamethyststore.com/products/herita-oxidised-drops?variant=gid://shopify/ProductVariant/46291181043939",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8036.jpg?v=1745309713"
   },
-  "gid://shopify/ProductVariant/46291808518371": {
-    "product_title": "Vidya Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-9111",
-    "price": 109900.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/vidya-short-necklace-set?variant=gid://shopify/ProductVariant/46291808518371",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9111_f1beb605-0374-4925-b6f4-de8563cc08d9.jpg?v=1764759979"
-  },
   "gid://shopify/ProductVariant/46291907674339": {
     "product_title": "Srithi Beads Chain",
     "variant_title": "Default Title",
@@ -30329,6 +30320,15 @@
     "url": "https://www.theamethyststore.com/products/stunning-ring?variant=gid://shopify/ProductVariant/47047023460579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1094.jpg?v=1755850631"
   },
+  "gid://shopify/ProductVariant/47048702001379": {
+    "product_title": "Saisha Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-1134",
+    "price": 17783.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/saisha-chain-1?variant=gid://shopify/ProductVariant/47048702001379",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1134.jpg?v=1755855382"
+  },
   "gid://shopify/ProductVariant/47048753283299": {
     "product_title": "Saevika Ring",
     "variant_title": "Default Title",
@@ -38447,6 +38447,15 @@
     "url": "https://www.theamethyststore.com/products/vishaka-nagas-earrings?variant=gid://shopify/ProductVariant/47212292112611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10346.jpg?v=1758976714"
   },
+  "gid://shopify/ProductVariant/47212430557411": {
+    "product_title": "Sendhura Nagas Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-3365",
+    "price": 55200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/sendhura-nagas-pendant?variant=gid://shopify/ProductVariant/47212430557411",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3365.jpg?v=1758979102"
+  },
   "gid://shopify/ProductVariant/47212448415971": {
     "product_title": "Nirali Nagas Nakshi Pendant",
     "variant_title": "Default Title",
@@ -40489,15 +40498,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/nakshatra-nagas-long-necklace?variant=gid://shopify/ProductVariant/47259842347235",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12002.jpg?v=1759912521"
-  },
-  "gid://shopify/ProductVariant/47260956098787": {
-    "product_title": "Glow Nagas Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-12124",
-    "price": 60962.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/glow-nagas-short-necklace-set-1?variant=gid://shopify/ProductVariant/47260956098787",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12124.jpg?v=1759917917"
   },
   "gid://shopify/ProductVariant/47261123805411": {
     "product_title": "Glow Drops Stone Short Necklace Set",
@@ -44707,7 +44707,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-10794",
     "price": 4300.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/studs-16?variant=gid://shopify/ProductVariant/47451280736483",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10794.jpg?v=1762261387"
   },
@@ -111419,6 +111419,15 @@
     "url": "https://www.theamethyststore.com/products/grand-look-oxidised-earrings?variant=gid://shopify/ProductVariant/46291178062051",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8063.jpg?v=1745309236"
   },
+  "gid://shopify/ProductVariant/46291808518371": {
+    "product_title": "Vidya Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-9111",
+    "price": 126228.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vidya-short-necklace-set?variant=gid://shopify/ProductVariant/46291808518371",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9111_f1beb605-0374-4925-b6f4-de8563cc08d9.jpg?v=1764759979"
+  },
   "gid://shopify/ProductVariant/49674851287267": {
     "product_title": "Vanisha Pair Bangle",
     "variant_title": "2.4\"",
@@ -113966,15 +113975,6 @@
     "url": "https://www.theamethyststore.com/products/shrinika-chain?variant=gid://shopify/ProductVariant/47046809354467",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1128.jpg?v=1755843476"
   },
-  "gid://shopify/ProductVariant/47048702001379": {
-    "product_title": "Saisha Chain",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-1134",
-    "price": 17783.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/saisha-chain-1?variant=gid://shopify/ProductVariant/47048702001379",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1134.jpg?v=1755855382"
-  },
   "gid://shopify/ProductVariant/47048920498403": {
     "product_title": "Calista Ring",
     "variant_title": "Default Title",
@@ -115595,15 +115595,6 @@
     "url": "https://www.theamethyststore.com/products/lathisha-nagas-ring?variant=gid://shopify/ProductVariant/47211714085091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1649.jpg?v=1758967410"
   },
-  "gid://shopify/ProductVariant/47212430557411": {
-    "product_title": "Sendhura Nagas Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-3365",
-    "price": 55200.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/sendhura-nagas-pendant?variant=gid://shopify/ProductVariant/47212430557411",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3365.jpg?v=1758979102"
-  },
   "gid://shopify/ProductVariant/47212528206051": {
     "product_title": "Praniksha Nagas Pendant",
     "variant_title": "Default Title",
@@ -116008,6 +115999,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/fabulous-nagas-long-necklace-1?variant=gid://shopify/ProductVariant/47259839889635",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11998.jpg?v=1759912353"
+  },
+  "gid://shopify/ProductVariant/47260956098787": {
+    "product_title": "Glow Nagas Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-12124",
+    "price": 63324.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/glow-nagas-short-necklace-set-1?variant=gid://shopify/ProductVariant/47260956098787",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12124.jpg?v=1759917917"
   },
   "gid://shopify/ProductVariant/47261194453219": {
     "product_title": "Dazzle Stone Short Necklace Set",
