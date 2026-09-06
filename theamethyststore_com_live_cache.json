@@ -3041,6 +3041,15 @@
     "url": "https://www.theamethyststore.com/products/glitter-ring?variant=gid://shopify/ProductVariant/43545851330787",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0362.jpg?v=1754115124"
   },
+  "gid://shopify/ProductVariant/43547335459043": {
+    "product_title": "Glitter Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-0362-14\"",
+    "price": 3600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/glitter-ring?variant=gid://shopify/ProductVariant/43547335459043",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0362.jpg?v=1754115124"
+  },
   "gid://shopify/ProductVariant/43565646315747": {
     "product_title": "Artistic Ring",
     "variant_title": "14",
@@ -3049,15 +3058,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/artistic-ring?variant=gid://shopify/ProductVariant/43565646315747",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-101-0363.jpg?v=1668853750"
-  },
-  "gid://shopify/ProductVariant/49678902100195": {
-    "product_title": "Aadhiya Ring",
-    "variant_title": "10\"",
-    "sku": "AMS-101-0367-10\"",
-    "price": 2200.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/aadhiya-ring?variant=gid://shopify/ProductVariant/49678902100195",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-101-0367.jpg?v=1668935025"
   },
   "gid://shopify/ProductVariant/43547371929827": {
     "product_title": "Vimalciya Ring",
@@ -3072,8 +3072,8 @@
     "product_title": "Vimalciya Ring",
     "variant_title": "14",
     "sku": "AMS-101-0368-14\"",
-    "price": 1400.0,
-    "stock": 5,
+    "price": 1500.0,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/vimalciya-ring?variant=gid://shopify/ProductVariant/43547373371619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-101-0368.jpg?v=1668948041"
   },
@@ -3085,15 +3085,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/vimalciya-ring?variant=gid://shopify/ProductVariant/43548509962467",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-101-0368.jpg?v=1668948041"
-  },
-  "gid://shopify/ProductVariant/43547383693539": {
-    "product_title": "Striking Ring",
-    "variant_title": "10",
-    "sku": "AMS-101-0370-10\"",
-    "price": 3500.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/striking-ring?variant=gid://shopify/ProductVariant/43547383693539",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0370.jpg?v=1754115638"
   },
   "gid://shopify/ProductVariant/43547401158883": {
     "product_title": "Sejal Ring",
@@ -3117,10 +3108,19 @@
     "product_title": "Fetching Ring",
     "variant_title": "12",
     "sku": "AMS-101-0378-12\"",
-    "price": 7128.0,
+    "price": 7100.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/fetching-ring?variant=gid://shopify/ProductVariant/43548389834979",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-101-0378.jpg?v=1669006715"
+  },
+  "gid://shopify/ProductVariant/43564993183971": {
+    "product_title": "Dhanya Ring",
+    "variant_title": "10",
+    "sku": "AMS-101-0379-10\"",
+    "price": 2800.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/dhanya-ring?variant=gid://shopify/ProductVariant/43564993183971",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-101-0379.jpg?v=1669006901"
   },
   "gid://shopify/ProductVariant/43548399534307": {
     "product_title": "Dhanya Ring",
@@ -3140,11 +3140,20 @@
     "url": "https://www.theamethyststore.com/products/dhanya-ring?variant=gid://shopify/ProductVariant/43548399567075",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-101-0379.jpg?v=1669006901"
   },
+  "gid://shopify/ProductVariant/43548422308067": {
+    "product_title": "Classy Ring",
+    "variant_title": "16",
+    "sku": "AMS-101-0380-16\"",
+    "price": 1300.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/classy-ring?variant=gid://shopify/ProductVariant/43548422308067",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-101-0380.jpg?v=1669007907"
+  },
   "gid://shopify/ProductVariant/43548424798435": {
     "product_title": "Unisia Ring",
     "variant_title": "10",
     "sku": "AMS-101-0381-10\"",
-    "price": 2904.0,
+    "price": 2900.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/unisia-ring?variant=gid://shopify/ProductVariant/43548424798435",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-101-0381.jpg?v=1669008243"
@@ -3153,7 +3162,7 @@
     "product_title": "Unisia Ring",
     "variant_title": "12",
     "sku": "AMS-101-0381-12\"",
-    "price": 2904.0,
+    "price": 2900.0,
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/unisia-ring?variant=gid://shopify/ProductVariant/43548426338531",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-101-0381.jpg?v=1669008243"
@@ -3162,7 +3171,7 @@
     "product_title": "Unisia Ring",
     "variant_title": "14",
     "sku": "AMS-101-0381-14\"",
-    "price": 2904.0,
+    "price": 2900.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/unisia-ring?variant=gid://shopify/ProductVariant/43548424765667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-101-0381.jpg?v=1669008243"
@@ -3171,25 +3180,16 @@
     "product_title": "Unisia Ring",
     "variant_title": "16",
     "sku": "AMS-101-0381-16\"",
-    "price": 2904.0,
+    "price": 2900.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/unisia-ring?variant=gid://shopify/ProductVariant/43564989481187",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-101-0381.jpg?v=1669008243"
-  },
-  "gid://shopify/ProductVariant/43564988006627": {
-    "product_title": "Suhanisa Ring",
-    "variant_title": "10",
-    "sku": "AMS-101-0382-10\"",
-    "price": 2200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/suhanisa-ring?variant=gid://shopify/ProductVariant/43564988006627",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0382.jpg?v=1754116630"
   },
   "gid://shopify/ProductVariant/43548541354211": {
     "product_title": "Diana Ring",
     "variant_title": "10",
     "sku": "AMS-101-0386-10\"",
-    "price": 1000.0,
+    "price": 3800.0,
     "stock": 3,
     "url": "https://www.theamethyststore.com/products/diana-ring?variant=gid://shopify/ProductVariant/43548541354211",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-101-0386.jpg?v=1669012671"
@@ -3208,7 +3208,7 @@
     "variant_title": "14",
     "sku": "AMS-101-0386-14\"",
     "price": 1200.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/diana-ring?variant=gid://shopify/ProductVariant/43548541452515",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-101-0386.jpg?v=1669012671"
   },
@@ -3216,7 +3216,7 @@
     "product_title": "Diana Ring",
     "variant_title": "16",
     "sku": "AMS-101-0386-16\"",
-    "price": 1300.0,
+    "price": 1752.0,
     "stock": 3,
     "url": "https://www.theamethyststore.com/products/diana-ring?variant=gid://shopify/ProductVariant/43548541386979",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-101-0386.jpg?v=1669012671"
@@ -24124,7 +24124,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-0382-S",
     "price": 7200.0,
-    "stock": 22,
+    "stock": 21,
     "url": "https://www.theamethyststore.com/products/mangalsutra-chain-double-layer?variant=gid://shopify/ProductVariant/46779081195747",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-0382_S.jpg?v=1775372483"
   },
@@ -29789,15 +29789,6 @@
     "url": "https://www.theamethyststore.com/products/pragya-saree-pin?variant=gid://shopify/ProductVariant/47043940417763",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-121-0043.jpg?v=1755773361"
   },
-  "gid://shopify/ProductVariant/47044176085219": {
-    "product_title": "Cerlin Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1052-14\"",
-    "price": 3300.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/ring-3?variant=gid://shopify/ProductVariant/47044176085219",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1052.jpg?v=1755775339"
-  },
   "gid://shopify/ProductVariant/47044254990563": {
     "product_title": "Classic Studs",
     "variant_title": "Default Title",
@@ -30392,15 +30383,6 @@
     "url": "https://www.theamethyststore.com/products/ring-4?variant=gid://shopify/ProductVariant/49681950671075",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1053_13b3b4eb-a31b-4844-893a-387a08e55c25.jpg?v=1755856729"
   },
-  "gid://shopify/ProductVariant/49681950769379": {
-    "product_title": "Sparkling Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1053-14\"",
-    "price": 2500.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/ring-4?variant=gid://shopify/ProductVariant/49681950769379",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1053_13b3b4eb-a31b-4844-893a-387a08e55c25.jpg?v=1755856729"
-  },
   "gid://shopify/ProductVariant/47048972796131": {
     "product_title": "Liyantha Drops",
     "variant_title": "Default Title",
@@ -30522,8 +30504,8 @@
     "product_title": "Saisha Nagas Jhumkas",
     "variant_title": "Default Title",
     "sku": "AMS-106-10077",
-    "price": 26400.0,
-    "stock": 3,
+    "price": 29991.0,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/saisha-nagas-jhumkas-1?variant=gid://shopify/ProductVariant/47056452845795",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10077.jpg?v=1755956317"
   },
@@ -33803,15 +33785,6 @@
     "url": "https://www.theamethyststore.com/products/ring-7?variant=gid://shopify/ProductVariant/49681952800995",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1593.jpg?v=1757151201"
   },
-  "gid://shopify/ProductVariant/49681952833763": {
-    "product_title": "Swatika Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1593-14\"",
-    "price": 5400.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/ring-7?variant=gid://shopify/ProductVariant/49681952833763",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1593.jpg?v=1757151201"
-  },
   "gid://shopify/ProductVariant/49678771486947": {
     "product_title": "Gigi Ring",
     "variant_title": "10",
@@ -33938,15 +33911,6 @@
     "url": "https://www.theamethyststore.com/products/grandeur-look-ring?variant=gid://shopify/ProductVariant/49681954111715",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1591.jpg?v=1757152042"
   },
-  "gid://shopify/ProductVariant/49681954177251": {
-    "product_title": "Grandeur Look Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1591-14\"",
-    "price": 16700.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/grandeur-look-ring?variant=gid://shopify/ProductVariant/49681954177251",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1591.jpg?v=1757152042"
-  },
   "gid://shopify/ProductVariant/49674858135779": {
     "product_title": "Charm Ring",
     "variant_title": "12",
@@ -33954,15 +33918,6 @@
     "price": 3100.0,
     "stock": 4,
     "url": "https://www.theamethyststore.com/products/charm-ring?variant=gid://shopify/ProductVariant/49674858135779",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1552.jpg?v=1757152095"
-  },
-  "gid://shopify/ProductVariant/49681954242787": {
-    "product_title": "Charm Ring",
-    "variant_title": "8",
-    "sku": "AMS-101-1552-08\"",
-    "price": 3000.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/charm-ring?variant=gid://shopify/ProductVariant/49681954242787",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1552.jpg?v=1757152095"
   },
   "gid://shopify/ProductVariant/49681954275555": {
@@ -34010,51 +33965,6 @@
     "url": "https://www.theamethyststore.com/products/shine-charm-ring?variant=gid://shopify/ProductVariant/47128091820259",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1590.jpg?v=1757152505"
   },
-  "gid://shopify/ProductVariant/49678774960355": {
-    "product_title": "Vikanta Ring",
-    "variant_title": "10",
-    "sku": "AMS-101-1553-10\"",
-    "price": 4000.0,
-    "stock": 3,
-    "url": "https://www.theamethyststore.com/products/vikanta-ring?variant=gid://shopify/ProductVariant/49678774960355",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1553.jpg?v=1757152592"
-  },
-  "gid://shopify/ProductVariant/49681954308323": {
-    "product_title": "Vikanta Ring",
-    "variant_title": "8",
-    "sku": "AMS-101-1553-08\"",
-    "price": 3800.0,
-    "stock": 5,
-    "url": "https://www.theamethyststore.com/products/vikanta-ring?variant=gid://shopify/ProductVariant/49681954308323",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1553.jpg?v=1757152592"
-  },
-  "gid://shopify/ProductVariant/49681954341091": {
-    "product_title": "Vikanta Ring",
-    "variant_title": "12",
-    "sku": "AMS-101-1553-12\"",
-    "price": 4700.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/vikanta-ring?variant=gid://shopify/ProductVariant/49681954341091",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1553.jpg?v=1757152592"
-  },
-  "gid://shopify/ProductVariant/49681954373859": {
-    "product_title": "Vikanta Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1553-14\"",
-    "price": 4900.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/vikanta-ring?variant=gid://shopify/ProductVariant/49681954373859",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1553.jpg?v=1757152592"
-  },
-  "gid://shopify/ProductVariant/49681962598627": {
-    "product_title": "Vikanta Ring",
-    "variant_title": "6",
-    "sku": "AMS-101-1553-06\"",
-    "price": 3600.0,
-    "stock": 3,
-    "url": "https://www.theamethyststore.com/products/vikanta-ring?variant=gid://shopify/ProductVariant/49681962598627",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1553.jpg?v=1757152592"
-  },
   "gid://shopify/ProductVariant/49678775877859": {
     "product_title": "Lovable Ring",
     "variant_title": "8",
@@ -34080,15 +33990,6 @@
     "price": 9300.0,
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/lovable-ring?variant=gid://shopify/ProductVariant/49681954439395",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1554.jpg?v=1757153177"
-  },
-  "gid://shopify/ProductVariant/49681954472163": {
-    "product_title": "Lovable Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1554-14\"",
-    "price": 9600.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/lovable-ring?variant=gid://shopify/ProductVariant/49681954472163",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1554.jpg?v=1757153177"
   },
   "gid://shopify/ProductVariant/47128127570147": {
@@ -34181,15 +34082,6 @@
     "url": "https://www.theamethyststore.com/products/ring-12?variant=gid://shopify/ProductVariant/49681954636003",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1588.jpg?v=1757153721"
   },
-  "gid://shopify/ProductVariant/49681954668771": {
-    "product_title": "Shinning Charm Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1588-14\"",
-    "price": 8100.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/ring-12?variant=gid://shopify/ProductVariant/49681954668771",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1588.jpg?v=1757153721"
-  },
   "gid://shopify/ProductVariant/49678788133091": {
     "product_title": "Shivin Ring",
     "variant_title": "8",
@@ -34215,15 +34107,6 @@
     "price": 3500.0,
     "stock": 3,
     "url": "https://www.theamethyststore.com/products/shivin-ring?variant=gid://shopify/ProductVariant/49681954734307",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1558.jpg?v=1757153835"
-  },
-  "gid://shopify/ProductVariant/49681954767075": {
-    "product_title": "Shivin Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1558-14\"",
-    "price": 3800.0,
-    "stock": 3,
-    "url": "https://www.theamethyststore.com/products/shivin-ring?variant=gid://shopify/ProductVariant/49681954767075",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1558.jpg?v=1757153835"
   },
   "gid://shopify/ProductVariant/49678788755683": {
@@ -34253,15 +34136,6 @@
     "url": "https://www.theamethyststore.com/products/gorgeous-ring?variant=gid://shopify/ProductVariant/49681954832611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1587.jpg?v=1757154451"
   },
-  "gid://shopify/ProductVariant/49681954865379": {
-    "product_title": "Gorgeous Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1587-14\"",
-    "price": 4500.0,
-    "stock": 3,
-    "url": "https://www.theamethyststore.com/products/gorgeous-ring?variant=gid://shopify/ProductVariant/49681954865379",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1587.jpg?v=1757154451"
-  },
   "gid://shopify/ProductVariant/49678788985059": {
     "product_title": "Dazzling Ring",
     "variant_title": "8",
@@ -34287,15 +34161,6 @@
     "price": 13100.0,
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/ring-13?variant=gid://shopify/ProductVariant/49681954963683",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1559.jpg?v=1757154474"
-  },
-  "gid://shopify/ProductVariant/49681954996451": {
-    "product_title": "Dazzling Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1559-14\"",
-    "price": 13400.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/ring-13?variant=gid://shopify/ProductVariant/49681954996451",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1559.jpg?v=1757154474"
   },
   "gid://shopify/ProductVariant/49678789312739": {
@@ -34325,15 +34190,6 @@
     "url": "https://www.theamethyststore.com/products/kylie-ring?variant=gid://shopify/ProductVariant/49681955127523",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1560.jpg?v=1757154781"
   },
-  "gid://shopify/ProductVariant/49681955160291": {
-    "product_title": "Kylie Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1560-14\"",
-    "price": 7400.0,
-    "stock": 3,
-    "url": "https://www.theamethyststore.com/products/kylie-ring?variant=gid://shopify/ProductVariant/49681955160291",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1560.jpg?v=1757154781"
-  },
   "gid://shopify/ProductVariant/49678790885603": {
     "product_title": "Manisha Ring",
     "variant_title": "12",
@@ -34359,15 +34215,6 @@
     "price": 3500.0,
     "stock": 3,
     "url": "https://www.theamethyststore.com/products/ring-14?variant=gid://shopify/ProductVariant/49681955258595",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1561.jpg?v=1757155063"
-  },
-  "gid://shopify/ProductVariant/49681955324131": {
-    "product_title": "Manisha Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1561-14\"",
-    "price": 4000.0,
-    "stock": 3,
-    "url": "https://www.theamethyststore.com/products/ring-14?variant=gid://shopify/ProductVariant/49681955324131",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1561.jpg?v=1757155063"
   },
   "gid://shopify/ProductVariant/49678791114979": {
@@ -34397,15 +34244,6 @@
     "url": "https://www.theamethyststore.com/products/ring-15?variant=gid://shopify/ProductVariant/49681955422435",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1586_396fc23f-d585-4b93-a7ce-a408245634bd.jpg?v=1757155144"
   },
-  "gid://shopify/ProductVariant/49681955455203": {
-    "product_title": "Admirable Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1586-14\"",
-    "price": 3100.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/ring-15?variant=gid://shopify/ProductVariant/49681955455203",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1586_396fc23f-d585-4b93-a7ce-a408245634bd.jpg?v=1757155144"
-  },
   "gid://shopify/ProductVariant/49674861248739": {
     "product_title": "Aamaira Ring",
     "variant_title": "8",
@@ -34433,15 +34271,6 @@
     "url": "https://www.theamethyststore.com/products/aamaira-ring?variant=gid://shopify/ProductVariant/49681955553507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1562.jpg?v=1757156302"
   },
-  "gid://shopify/ProductVariant/49681955586275": {
-    "product_title": "Aamaira Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1562-14\"",
-    "price": 4700.0,
-    "stock": 3,
-    "url": "https://www.theamethyststore.com/products/aamaira-ring?variant=gid://shopify/ProductVariant/49681955586275",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1562.jpg?v=1757156302"
-  },
   "gid://shopify/ProductVariant/49674861412579": {
     "product_title": "Stunning Ring",
     "variant_title": "8",
@@ -34464,7 +34293,7 @@
     "product_title": "Haridhya Ring",
     "variant_title": "14",
     "sku": "AMS-101-1564-14\"",
-    "price": 5808.0,
+    "price": 5800.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/ring-16?variant=gid://shopify/ProductVariant/47128252383459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1564.jpg?v=1757156883"
@@ -34496,15 +34325,6 @@
     "url": "https://www.theamethyststore.com/products/saisha-ring?variant=gid://shopify/ProductVariant/49681956569315",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1584.jpg?v=1757157044"
   },
-  "gid://shopify/ProductVariant/49681956602083": {
-    "product_title": "Saisha Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1584-14\"",
-    "price": 7800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/saisha-ring?variant=gid://shopify/ProductVariant/49681956602083",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1584.jpg?v=1757157044"
-  },
   "gid://shopify/ProductVariant/49678792425699": {
     "product_title": "Vidmaya Ring",
     "variant_title": "12",
@@ -34530,15 +34350,6 @@
     "price": 4000.0,
     "stock": 3,
     "url": "https://www.theamethyststore.com/products/vidmaya-ring?variant=gid://shopify/ProductVariant/49681956667619",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1565_4d7638d1-1f3b-4ba4-b77a-bb74f802a85f.jpg?v=1757158168"
-  },
-  "gid://shopify/ProductVariant/49681957093603": {
-    "product_title": "Vidmaya Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1565-14\"",
-    "price": 4500.0,
-    "stock": 3,
-    "url": "https://www.theamethyststore.com/products/vidmaya-ring?variant=gid://shopify/ProductVariant/49681957093603",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1565_4d7638d1-1f3b-4ba4-b77a-bb74f802a85f.jpg?v=1757158168"
   },
   "gid://shopify/ProductVariant/49674866557155": {
@@ -34568,15 +34379,6 @@
     "url": "https://www.theamethyststore.com/products/shiviyasri-ring?variant=gid://shopify/ProductVariant/49681958174947",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1583.jpg?v=1757157635"
   },
-  "gid://shopify/ProductVariant/49681958207715": {
-    "product_title": "Shiviyasri Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1583-14\"",
-    "price": 4500.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/shiviyasri-ring?variant=gid://shopify/ProductVariant/49681958207715",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1583.jpg?v=1757157635"
-  },
   "gid://shopify/ProductVariant/49674866688227": {
     "product_title": "Ishitha Ring",
     "variant_title": "8",
@@ -34602,15 +34404,6 @@
     "price": 5300.0,
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/ishitha-ring?variant=gid://shopify/ProductVariant/49681958273251",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1582.jpg?v=1757158346"
-  },
-  "gid://shopify/ProductVariant/49681958306019": {
-    "product_title": "Ishitha Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1582-14\"",
-    "price": 4900.0,
-    "stock": 3,
-    "url": "https://www.theamethyststore.com/products/ishitha-ring?variant=gid://shopify/ProductVariant/49681958306019",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1582.jpg?v=1757158346"
   },
   "gid://shopify/ProductVariant/49674866786531": {
@@ -34640,15 +34433,6 @@
     "url": "https://www.theamethyststore.com/products/ring-17?variant=gid://shopify/ProductVariant/49681958437091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1566.jpg?v=1757159079"
   },
-  "gid://shopify/ProductVariant/49681958469859": {
-    "product_title": "Brindha Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1566-14\"",
-    "price": 2300.0,
-    "stock": 3,
-    "url": "https://www.theamethyststore.com/products/ring-17?variant=gid://shopify/ProductVariant/49681958469859",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1566.jpg?v=1757159079"
-  },
   "gid://shopify/ProductVariant/49674866884835": {
     "product_title": "Sparkling Ring",
     "variant_title": "10",
@@ -34658,15 +34442,6 @@
     "url": "https://www.theamethyststore.com/products/ring-18?variant=gid://shopify/ProductVariant/49674866884835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1581.jpg?v=1757159264"
   },
-  "gid://shopify/ProductVariant/49681958502627": {
-    "product_title": "Sparkling Ring",
-    "variant_title": "8",
-    "sku": "AMS-101-1581-08\"",
-    "price": 1800.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/ring-18?variant=gid://shopify/ProductVariant/49681958502627",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1581.jpg?v=1757159264"
-  },
   "gid://shopify/ProductVariant/49681958633699": {
     "product_title": "Sparkling Ring",
     "variant_title": "12",
@@ -34674,15 +34449,6 @@
     "price": 2200.0,
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/ring-18?variant=gid://shopify/ProductVariant/49681958633699",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1581.jpg?v=1757159264"
-  },
-  "gid://shopify/ProductVariant/49681958699235": {
-    "product_title": "Sparkling Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1581-14\"",
-    "price": 2500.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/ring-18?variant=gid://shopify/ProductVariant/49681958699235",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1581.jpg?v=1757159264"
   },
   "gid://shopify/ProductVariant/49674870259939": {
@@ -34701,24 +34467,6 @@
     "price": 5100.0,
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/ring-19?variant=gid://shopify/ProductVariant/49681958732003",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1567.jpg?v=1757159412"
-  },
-  "gid://shopify/ProductVariant/49681958764771": {
-    "product_title": "Dhanvi Ring",
-    "variant_title": "12",
-    "sku": "AMS-101-1567-12\"",
-    "price": 4700.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/ring-19?variant=gid://shopify/ProductVariant/49681958764771",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1567.jpg?v=1757159412"
-  },
-  "gid://shopify/ProductVariant/49681958797539": {
-    "product_title": "Dhanvi Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1567-14\"",
-    "price": 5600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/ring-19?variant=gid://shopify/ProductVariant/49681958797539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1567.jpg?v=1757159412"
   },
   "gid://shopify/ProductVariant/49674870358243": {
@@ -34748,15 +34496,6 @@
     "url": "https://www.theamethyststore.com/products/ring-20?variant=gid://shopify/ProductVariant/49681958863075",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1568.jpg?v=1757159803"
   },
-  "gid://shopify/ProductVariant/49681958895843": {
-    "product_title": "Yarani Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1568-14\"",
-    "price": 2600.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/ring-20?variant=gid://shopify/ProductVariant/49681958895843",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1568.jpg?v=1757159803"
-  },
   "gid://shopify/ProductVariant/49674870489315": {
     "product_title": "Jasvini Ring",
     "variant_title": "8",
@@ -34782,15 +34521,6 @@
     "price": 6700.0,
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/ring-21?variant=gid://shopify/ProductVariant/49681958961379",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1569.jpg?v=1757160200"
-  },
-  "gid://shopify/ProductVariant/49681958994147": {
-    "product_title": "Jasvini Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1569-14\"",
-    "price": 6900.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/ring-21?variant=gid://shopify/ProductVariant/49681958994147",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1569.jpg?v=1757160200"
   },
   "gid://shopify/ProductVariant/49674870587619": {
@@ -34820,15 +34550,6 @@
     "url": "https://www.theamethyststore.com/products/attractive-ring-2?variant=gid://shopify/ProductVariant/49681959059683",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1580.jpg?v=1757160366"
   },
-  "gid://shopify/ProductVariant/49681959092451": {
-    "product_title": "Attractive Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1580-14\"",
-    "price": 4700.0,
-    "stock": 3,
-    "url": "https://www.theamethyststore.com/products/attractive-ring-2?variant=gid://shopify/ProductVariant/49681959092451",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1580.jpg?v=1757160366"
-  },
   "gid://shopify/ProductVariant/49674871079139": {
     "product_title": "Ferika Ring",
     "variant_title": "8",
@@ -34854,15 +34575,6 @@
     "price": 3500.0,
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/ring-23?variant=gid://shopify/ProductVariant/49681959157987",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1570.jpg?v=1757160696"
-  },
-  "gid://shopify/ProductVariant/49681959190755": {
-    "product_title": "Ferika Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1570-14\"",
-    "price": 3800.0,
-    "stock": 3,
-    "url": "https://www.theamethyststore.com/products/ring-23?variant=gid://shopify/ProductVariant/49681959190755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1570.jpg?v=1757160696"
   },
   "gid://shopify/ProductVariant/49674871177443": {
@@ -34892,15 +34604,6 @@
     "url": "https://www.theamethyststore.com/products/vrusni-ring?variant=gid://shopify/ProductVariant/49681959256291",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1571_bc071f58-7ca9-4244-9d87-8a2bfbccabef.jpg?v=1757161159"
   },
-  "gid://shopify/ProductVariant/49681959289059": {
-    "product_title": "Vrusni Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1571-14\"",
-    "price": 5500.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/vrusni-ring?variant=gid://shopify/ProductVariant/49681959289059",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1571_bc071f58-7ca9-4244-9d87-8a2bfbccabef.jpg?v=1757161159"
-  },
   "gid://shopify/ProductVariant/49674871275747": {
     "product_title": "Amazing Ring",
     "variant_title": "8",
@@ -34917,15 +34620,6 @@
     "price": 7400.0,
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/amazing-ring?variant=gid://shopify/ProductVariant/49681959321827",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1579.jpg?v=1757161532"
-  },
-  "gid://shopify/ProductVariant/49681959387363": {
-    "product_title": "Amazing Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1579-14\"",
-    "price": 7800.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/amazing-ring?variant=gid://shopify/ProductVariant/49681959387363",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1579.jpg?v=1757161532"
   },
   "gid://shopify/ProductVariant/49674872553699": {
@@ -34946,15 +34640,6 @@
     "url": "https://www.theamethyststore.com/products/zara-ring?variant=gid://shopify/ProductVariant/49681959420131",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1578.jpg?v=1757161839"
   },
-  "gid://shopify/ProductVariant/49681959452899": {
-    "product_title": "Zara Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1578-14\"",
-    "price": 4500.0,
-    "stock": 3,
-    "url": "https://www.theamethyststore.com/products/zara-ring?variant=gid://shopify/ProductVariant/49681959452899",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1578.jpg?v=1757161839"
-  },
   "gid://shopify/ProductVariant/49674872684771": {
     "product_title": "Tishikha Ring",
     "variant_title": "10",
@@ -34962,24 +34647,6 @@
     "price": 6200.0,
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/tishikha-ring?variant=gid://shopify/ProductVariant/49674872684771",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1576.jpg?v=1757162601"
-  },
-  "gid://shopify/ProductVariant/49681959485667": {
-    "product_title": "Tishikha Ring",
-    "variant_title": "12",
-    "sku": "AMS-101-1576-12\"",
-    "price": 6400.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/tishikha-ring?variant=gid://shopify/ProductVariant/49681959485667",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1576.jpg?v=1757162601"
-  },
-  "gid://shopify/ProductVariant/49681959518435": {
-    "product_title": "Tishikha Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1576-14\"",
-    "price": 6700.0,
-    "stock": 3,
-    "url": "https://www.theamethyststore.com/products/tishikha-ring?variant=gid://shopify/ProductVariant/49681959518435",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1576.jpg?v=1757162601"
   },
   "gid://shopify/ProductVariant/49681959551203": {
@@ -35009,24 +34676,6 @@
     "url": "https://www.theamethyststore.com/products/vivian-ring?variant=gid://shopify/ProductVariant/49681959583971",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1572.jpg?v=1757162860"
   },
-  "gid://shopify/ProductVariant/49681959616739": {
-    "product_title": "Vivian Ring",
-    "variant_title": "12",
-    "sku": "AMS-101-1572-12\"",
-    "price": 4200.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/vivian-ring?variant=gid://shopify/ProductVariant/49681959616739",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1572.jpg?v=1757162860"
-  },
-  "gid://shopify/ProductVariant/49681959715043": {
-    "product_title": "Vivian Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1572-14\"",
-    "price": 4500.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/vivian-ring?variant=gid://shopify/ProductVariant/49681959715043",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1572.jpg?v=1757162860"
-  },
   "gid://shopify/ProductVariant/49674872946915": {
     "product_title": "Nithikha Ring",
     "variant_title": "8",
@@ -35052,15 +34701,6 @@
     "price": 4000.0,
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/ring-22?variant=gid://shopify/ProductVariant/49681959846115",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1575..jpg?v=1757162990"
-  },
-  "gid://shopify/ProductVariant/49681960272099": {
-    "product_title": "Nithikha Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1575-14\"",
-    "price": 4200.0,
-    "stock": 3,
-    "url": "https://www.theamethyststore.com/products/ring-22?variant=gid://shopify/ProductVariant/49681960272099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1575..jpg?v=1757162990"
   },
   "gid://shopify/ProductVariant/49674873045219": {
@@ -35090,15 +34730,6 @@
     "url": "https://www.theamethyststore.com/products/ring-24?variant=gid://shopify/ProductVariant/49681961025763",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1573.jpg?v=1757163171"
   },
-  "gid://shopify/ProductVariant/49681961058531": {
-    "product_title": "Megna Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1573-14\"",
-    "price": 3000.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/ring-24?variant=gid://shopify/ProductVariant/49681961058531",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1573.jpg?v=1757163171"
-  },
   "gid://shopify/ProductVariant/49674873241827": {
     "product_title": "Unique Charm Ring",
     "variant_title": "8",
@@ -35124,15 +34755,6 @@
     "price": 6100.0,
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/unique-charm-ring?variant=gid://shopify/ProductVariant/49681961124067",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1574.jpg?v=1757163378"
-  },
-  "gid://shopify/ProductVariant/49681961156835": {
-    "product_title": "Unique Charm Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1574-14\"",
-    "price": 5500.0,
-    "stock": 3,
-    "url": "https://www.theamethyststore.com/products/unique-charm-ring?variant=gid://shopify/ProductVariant/49681961156835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1574.jpg?v=1757163378"
   },
   "gid://shopify/ProductVariant/47141716197603": {
@@ -43078,7 +42700,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-1633",
     "price": 2933.0,
-    "stock": 8,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/avanthikha-stone-ring?variant=gid://shopify/ProductVariant/47392965132515",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1633_d68ec474-484c-4dd3-a028-e9b1df2e7674.jpg?v=1765882306"
   },
@@ -43585,78 +43207,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/grandeur-victorian-long-necklace-set?variant=gid://shopify/ProductVariant/47436480348387",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12642.jpg?v=1763530255"
-  },
-  "gid://shopify/ProductVariant/47438805893347": {
-    "product_title": "Little Heart Ring",
-    "variant_title": "8",
-    "sku": "AMS-101-1686-08\"",
-    "price": 3300.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/ring-26?variant=gid://shopify/ProductVariant/47438805893347",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1686.jpg?v=1762082485"
-  },
-  "gid://shopify/ProductVariant/47438805926115": {
-    "product_title": "Little Heart Ring",
-    "variant_title": "10",
-    "sku": "AMS-101-1686-10\"",
-    "price": 3500.0,
-    "stock": 3,
-    "url": "https://www.theamethyststore.com/products/ring-26?variant=gid://shopify/ProductVariant/47438805926115",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1686.jpg?v=1762082485"
-  },
-  "gid://shopify/ProductVariant/47438805958883": {
-    "product_title": "Little Heart Ring",
-    "variant_title": "12",
-    "sku": "AMS-101-1686-12\"",
-    "price": 3800.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/ring-26?variant=gid://shopify/ProductVariant/47438805958883",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1686.jpg?v=1762082485"
-  },
-  "gid://shopify/ProductVariant/47438805991651": {
-    "product_title": "Little Heart Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1686-14\"",
-    "price": 4000.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/ring-26?variant=gid://shopify/ProductVariant/47438805991651",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1686.jpg?v=1762082485"
-  },
-  "gid://shopify/ProductVariant/49674875601123": {
-    "product_title": "Majestic Ring",
-    "variant_title": "8",
-    "sku": "AMS-101-1688-08\"",
-    "price": 3800.0,
-    "stock": 3,
-    "url": "https://www.theamethyststore.com/products/ring-27?variant=gid://shopify/ProductVariant/49674875601123",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1688_acce7269-4ac2-43dc-b9ca-c432db332823.jpg?v=1762152740"
-  },
-  "gid://shopify/ProductVariant/49681961320675": {
-    "product_title": "Majestic Ring",
-    "variant_title": "10",
-    "sku": "AMS-101-1688-10\"",
-    "price": 4000.0,
-    "stock": 3,
-    "url": "https://www.theamethyststore.com/products/ring-27?variant=gid://shopify/ProductVariant/49681961320675",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1688_acce7269-4ac2-43dc-b9ca-c432db332823.jpg?v=1762152740"
-  },
-  "gid://shopify/ProductVariant/49681961353443": {
-    "product_title": "Majestic Ring",
-    "variant_title": "12",
-    "sku": "AMS-101-1688-12\"",
-    "price": 3200.0,
-    "stock": 3,
-    "url": "https://www.theamethyststore.com/products/ring-27?variant=gid://shopify/ProductVariant/49681961353443",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1688_acce7269-4ac2-43dc-b9ca-c432db332823.jpg?v=1762152740"
-  },
-  "gid://shopify/ProductVariant/49681961386211": {
-    "product_title": "Majestic Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1688-14\"",
-    "price": 3600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/ring-27?variant=gid://shopify/ProductVariant/49681961386211",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1688_acce7269-4ac2-43dc-b9ca-c432db332823.jpg?v=1762152740"
   },
   "gid://shopify/ProductVariant/47438849769699": {
     "product_title": "Inaaya Bracelet",
@@ -44576,42 +44126,6 @@
     "url": "https://www.theamethyststore.com/products/adorable-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/47448050532579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12279.jpg?v=1762237147"
   },
-  "gid://shopify/ProductVariant/47451262124259": {
-    "product_title": "Hwasa Ring",
-    "variant_title": "8",
-    "sku": "AMS-101-1685-08\"",
-    "price": 6900.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/hwasa-ring?variant=gid://shopify/ProductVariant/47451262124259",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1685_d67fe766-b6ff-48be-bc01-5d3a3ecf768b.jpg?v=1762260756"
-  },
-  "gid://shopify/ProductVariant/47451262157027": {
-    "product_title": "Hwasa Ring",
-    "variant_title": "10",
-    "sku": "AMS-101-1685-10\"",
-    "price": 7100.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/hwasa-ring?variant=gid://shopify/ProductVariant/47451262157027",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1685_d67fe766-b6ff-48be-bc01-5d3a3ecf768b.jpg?v=1762260756"
-  },
-  "gid://shopify/ProductVariant/47451262189795": {
-    "product_title": "Hwasa Ring",
-    "variant_title": "12",
-    "sku": "AMS-101-1685-12\"",
-    "price": 7400.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/hwasa-ring?variant=gid://shopify/ProductVariant/47451262189795",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1685_d67fe766-b6ff-48be-bc01-5d3a3ecf768b.jpg?v=1762260756"
-  },
-  "gid://shopify/ProductVariant/47451262222563": {
-    "product_title": "Hwasa Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1685-14\"",
-    "price": 7600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/hwasa-ring?variant=gid://shopify/ProductVariant/47451262222563",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1685_d67fe766-b6ff-48be-bc01-5d3a3ecf768b.jpg?v=1762260756"
-  },
   "gid://shopify/ProductVariant/49674878583011": {
     "product_title": "Sparkling Pair Bangles",
     "variant_title": "2.4\"",
@@ -44666,24 +44180,6 @@
     "url": "https://www.theamethyststore.com/products/vikshi-ring-1?variant=gid://shopify/ProductVariant/49674878714083",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1687.jpg?v=1762261224"
   },
-  "gid://shopify/ProductVariant/49681963221219": {
-    "product_title": "Vikshi Ring",
-    "variant_title": "8",
-    "sku": "AMS-101-1687-08\"",
-    "price": 1700.0,
-    "stock": 3,
-    "url": "https://www.theamethyststore.com/products/vikshi-ring-1?variant=gid://shopify/ProductVariant/49681963221219",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1687.jpg?v=1762261224"
-  },
-  "gid://shopify/ProductVariant/49681963253987": {
-    "product_title": "Vikshi Ring",
-    "variant_title": "10",
-    "sku": "AMS-101-1687-10\"",
-    "price": 2100.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/vikshi-ring-1?variant=gid://shopify/ProductVariant/49681963253987",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1687.jpg?v=1762261224"
-  },
   "gid://shopify/ProductVariant/47451280736483": {
     "product_title": "Little Cute Studs",
     "variant_title": "Default Title",
@@ -44702,42 +44198,6 @@
     "url": "https://www.theamethyststore.com/products/gleaming-studs-1?variant=gid://shopify/ProductVariant/47451317567715",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10765.jpg?v=1762261512"
   },
-  "gid://shopify/ProductVariant/49674878877923": {
-    "product_title": "Sherin Ring",
-    "variant_title": "8",
-    "sku": "AMS-101-1689-08\"",
-    "price": 3400.0,
-    "stock": 3,
-    "url": "https://www.theamethyststore.com/products/ring-36?variant=gid://shopify/ProductVariant/49674878877923",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1689.jpg?v=1762261724"
-  },
-  "gid://shopify/ProductVariant/49681963286755": {
-    "product_title": "Sherin Ring",
-    "variant_title": "10",
-    "sku": "AMS-101-1689-10\"",
-    "price": 3600.0,
-    "stock": 3,
-    "url": "https://www.theamethyststore.com/products/ring-36?variant=gid://shopify/ProductVariant/49681963286755",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1689.jpg?v=1762261724"
-  },
-  "gid://shopify/ProductVariant/49681963319523": {
-    "product_title": "Sherin Ring",
-    "variant_title": "12",
-    "sku": "AMS-101-1689-12\"",
-    "price": 3800.0,
-    "stock": 3,
-    "url": "https://www.theamethyststore.com/products/ring-36?variant=gid://shopify/ProductVariant/49681963319523",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1689.jpg?v=1762261724"
-  },
-  "gid://shopify/ProductVariant/49681963352291": {
-    "product_title": "Sherin Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-1689-14\"",
-    "price": 4500.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/ring-36?variant=gid://shopify/ProductVariant/49681963352291",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1689.jpg?v=1762261724"
-  },
   "gid://shopify/ProductVariant/47451351613667": {
     "product_title": "Twin Heart Studs",
     "variant_title": "Default Title",
@@ -44755,60 +44215,6 @@
     "stock": 4,
     "url": "https://www.theamethyststore.com/products/glitz-studs-2?variant=gid://shopify/ProductVariant/47451401781475",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10715.jpg?v=1762261972"
-  },
-  "gid://shopify/ProductVariant/47451406860515": {
-    "product_title": "Mehitha Ring",
-    "variant_title": "8",
-    "sku": "AMS-101-1690-08\"",
-    "price": 4300.0,
-    "stock": 3,
-    "url": "https://www.theamethyststore.com/products/ring-37?variant=gid://shopify/ProductVariant/47451406860515",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1690.jpg?v=1762262320"
-  },
-  "gid://shopify/ProductVariant/47451406893283": {
-    "product_title": "Mehitha Ring",
-    "variant_title": "10",
-    "sku": "AMS-101-1690-10\"",
-    "price": 4500.0,
-    "stock": 3,
-    "url": "https://www.theamethyststore.com/products/ring-37?variant=gid://shopify/ProductVariant/47451406893283",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1690.jpg?v=1762262320"
-  },
-  "gid://shopify/ProductVariant/47451406926051": {
-    "product_title": "Mehitha Ring",
-    "variant_title": "12",
-    "sku": "AMS-101-1690-12\"",
-    "price": 4600.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/ring-37?variant=gid://shopify/ProductVariant/47451406926051",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1690.jpg?v=1762262320"
-  },
-  "gid://shopify/ProductVariant/49674879238371": {
-    "product_title": "Smirithi Ring",
-    "variant_title": "8",
-    "sku": "AMS-101-1691-08\"",
-    "price": 4500.0,
-    "stock": 3,
-    "url": "https://www.theamethyststore.com/products/smirithi-ring?variant=gid://shopify/ProductVariant/49674879238371",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1691.jpg?v=1762262594"
-  },
-  "gid://shopify/ProductVariant/49681963385059": {
-    "product_title": "Smirithi Ring",
-    "variant_title": "10",
-    "sku": "AMS-101-1691-10\"",
-    "price": 4600.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/smirithi-ring?variant=gid://shopify/ProductVariant/49681963385059",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1691.jpg?v=1762262594"
-  },
-  "gid://shopify/ProductVariant/49681963417827": {
-    "product_title": "Smirithi Ring",
-    "variant_title": "12",
-    "sku": "AMS-101-1691-12\"",
-    "price": 5400.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/smirithi-ring?variant=gid://shopify/ProductVariant/49681963417827",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1691.jpg?v=1762262594"
   },
   "gid://shopify/ProductVariant/47451425210595": {
     "product_title": "Classic Swarovski Chain",
@@ -82187,15 +81593,6 @@
     "url": "https://www.theamethyststore.com/products/moissanite-studs-1?variant=gid://shopify/ProductVariant/49388892455139",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15170.jpg?v=1783666515"
   },
-  "gid://shopify/ProductVariant/49388895142115": {
-    "product_title": "Dhivashri Hasli Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16270",
-    "price": 11300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/hasli-necklace-24?variant=gid://shopify/ProductVariant/49388895142115",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16270.jpg?v=1783666623"
-  },
   "gid://shopify/ProductVariant/49388896846051": {
     "product_title": "Grishaa Hasli Necklace",
     "variant_title": "Default Title",
@@ -85657,7 +85054,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4726",
     "price": 36500.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/allure-aura-moissanite-pendant-set?variant=gid://shopify/ProductVariant/49436837609699",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4726.jpg?v=1784715657"
   },
@@ -85828,7 +85225,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-2140",
     "price": 2506.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-ring-12?variant=gid://shopify/ProductVariant/49439371231459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2140.jpg?v=1784804206"
   },
@@ -85836,8 +85233,8 @@
     "product_title": "Venisha Stone Ring",
     "variant_title": "Default Title",
     "sku": "AMS-101-2141",
-    "price": 2498.0,
-    "stock": 3,
+    "price": 2348.0,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/stone-ring-13?variant=gid://shopify/ProductVariant/49439408062691",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2141.jpg?v=1784804457"
   },
@@ -85846,7 +85243,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-2142",
     "price": 3030.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/stone-ring-14?variant=gid://shopify/ProductVariant/49439410258147",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2142.jpg?v=1784804636"
   },
@@ -85864,7 +85261,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-2143",
     "price": 2903.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/stone-ring-15?variant=gid://shopify/ProductVariant/49439412256995",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2143.jpg?v=1784804776"
   },
@@ -85873,7 +85270,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-2144",
     "price": 2506.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/stone-ring-16?variant=gid://shopify/ProductVariant/49439413076195",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2144.jpg?v=1784804947"
   },
@@ -85882,7 +85279,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-2145",
     "price": 2467.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/stone-ring-17?variant=gid://shopify/ProductVariant/49439413698787",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2145.jpg?v=1784805054"
   },
@@ -85918,7 +85315,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-2148",
     "price": 2474.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/stone-ring-20?variant=gid://shopify/ProductVariant/49439424282851",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2148.jpg?v=1784805419"
   },
@@ -93235,7 +92632,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-1494",
     "price": 19600.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/gorgeous-avikam-bracelet?variant=gid://shopify/ProductVariant/49517245530339",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1494.jpg?v=1786355368"
   },
@@ -107306,6 +106703,33 @@
     "url": "https://www.theamethyststore.com/products/ring-44?variant=gid://shopify/ProductVariant/49695328076003",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2349.jpg?v=1788691291"
   },
+  "gid://shopify/ProductVariant/49695354585315": {
+    "product_title": "Elegant Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2350",
+    "price": 2600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/ring-45?variant=gid://shopify/ProductVariant/49695354585315",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2350.jpg?v=1788691642"
+  },
+  "gid://shopify/ProductVariant/49695365988579": {
+    "product_title": "Lord Perumal Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2351",
+    "price": 2700.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/ring-46?variant=gid://shopify/ProductVariant/49695365988579",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2351.jpg?v=1788691773"
+  },
+  "gid://shopify/ProductVariant/49695373263075": {
+    "product_title": "Catchy Divine Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2352",
+    "price": 3000.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/ring-49?variant=gid://shopify/ProductVariant/49695373263075",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2352.jpg?v=1788691885"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -108089,15 +107513,6 @@
     "url": "https://www.theamethyststore.com/products/glitter-ring?variant=gid://shopify/ProductVariant/46970959233251",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0362.jpg?v=1754115124"
   },
-  "gid://shopify/ProductVariant/43547335459043": {
-    "product_title": "Glitter Ring",
-    "variant_title": "14",
-    "sku": "AMS-101-0362-14\"",
-    "price": 3600.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/glitter-ring?variant=gid://shopify/ProductVariant/43547335459043",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0362.jpg?v=1754115124"
-  },
   "gid://shopify/ProductVariant/43565646250211": {
     "product_title": "Artistic Ring",
     "variant_title": "10",
@@ -108125,23 +107540,32 @@
     "url": "https://www.theamethyststore.com/products/aadhiya-ring?variant=gid://shopify/ProductVariant/49678718075107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-101-0367.jpg?v=1668935025"
   },
+  "gid://shopify/ProductVariant/49678902100195": {
+    "product_title": "Aadhiya Ring",
+    "variant_title": "10\"",
+    "sku": "AMS-101-0367-10\"",
+    "price": 2200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/aadhiya-ring?variant=gid://shopify/ProductVariant/49678902100195",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-101-0367.jpg?v=1668935025"
+  },
+  "gid://shopify/ProductVariant/43547383693539": {
+    "product_title": "Striking Ring",
+    "variant_title": "10",
+    "sku": "AMS-101-0370-10\"",
+    "price": 3500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/striking-ring?variant=gid://shopify/ProductVariant/43547383693539",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0370.jpg?v=1754115638"
+  },
   "gid://shopify/ProductVariant/43547423834339": {
     "product_title": "Srikaya Ring",
     "variant_title": "14",
     "sku": "AMS-101-0376-14\"",
-    "price": 3155.0,
+    "price": 1350.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/srikaya-ring?variant=gid://shopify/ProductVariant/43547423834339",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-101-0376.jpg?v=1668952224"
-  },
-  "gid://shopify/ProductVariant/43564993183971": {
-    "product_title": "Dhanya Ring",
-    "variant_title": "10",
-    "sku": "AMS-101-0379-10\"",
-    "price": 2800.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/dhanya-ring?variant=gid://shopify/ProductVariant/43564993183971",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-101-0379.jpg?v=1669006901"
   },
   "gid://shopify/ProductVariant/43548423586019": {
     "product_title": "Classy Ring",
@@ -108161,14 +107585,14 @@
     "url": "https://www.theamethyststore.com/products/classy-ring?variant=gid://shopify/ProductVariant/43548422275299",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-101-0380.jpg?v=1669007907"
   },
-  "gid://shopify/ProductVariant/43548422308067": {
-    "product_title": "Classy Ring",
-    "variant_title": "16",
-    "sku": "AMS-101-0380-16\"",
-    "price": 1300.0,
+  "gid://shopify/ProductVariant/43564988006627": {
+    "product_title": "Suhanisa Ring",
+    "variant_title": "10",
+    "sku": "AMS-101-0382-10\"",
+    "price": 2200.0,
     "stock": 0,
-    "url": "https://www.theamethyststore.com/products/classy-ring?variant=gid://shopify/ProductVariant/43548422308067",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-101-0380.jpg?v=1669007907"
+    "url": "https://www.theamethyststore.com/products/suhanisa-ring?variant=gid://shopify/ProductVariant/43564988006627",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0382.jpg?v=1754116630"
   },
   "gid://shopify/ProductVariant/46970867253475": {
     "product_title": "Ivana Ring",
@@ -113849,6 +113273,15 @@
     "url": "https://www.theamethyststore.com/products/henisha-victorian-long-necklace-set?variant=gid://shopify/ProductVariant/47043392831715",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10568.jpg?v=1755764786"
   },
+  "gid://shopify/ProductVariant/47044176085219": {
+    "product_title": "Cerlin Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1052-14\"",
+    "price": 3300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-3?variant=gid://shopify/ProductVariant/47044176085219",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1052.jpg?v=1755775339"
+  },
   "gid://shopify/ProductVariant/47045106172131": {
     "product_title": "Glittering Long Necklace Set",
     "variant_title": "Default Title",
@@ -113938,6 +113371,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/calista-ring-1?variant=gid://shopify/ProductVariant/47048920498403",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1207.jpg?v=1755856124"
+  },
+  "gid://shopify/ProductVariant/49681950769379": {
+    "product_title": "Sparkling Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1053-14\"",
+    "price": 2500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-4?variant=gid://shopify/ProductVariant/49681950769379",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1053_13b3b4eb-a31b-4844-893a-387a08e55c25.jpg?v=1755856729"
   },
   "gid://shopify/ProductVariant/47048953528547": {
     "product_title": "Unique Long Earrings",
@@ -114830,6 +114272,159 @@
     "url": "https://www.theamethyststore.com/products/laavin-stone-studs?variant=gid://shopify/ProductVariant/47112487600355",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9800_1.jpg?v=1757055539"
   },
+  "gid://shopify/ProductVariant/49681952833763": {
+    "product_title": "Swatika Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1593-14\"",
+    "price": 5400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-7?variant=gid://shopify/ProductVariant/49681952833763",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1593.jpg?v=1757151201"
+  },
+  "gid://shopify/ProductVariant/49681954177251": {
+    "product_title": "Grandeur Look Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1591-14\"",
+    "price": 16700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/grandeur-look-ring?variant=gid://shopify/ProductVariant/49681954177251",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1591.jpg?v=1757152042"
+  },
+  "gid://shopify/ProductVariant/49681954242787": {
+    "product_title": "Charm Ring",
+    "variant_title": "8",
+    "sku": "AMS-101-1552-08\"",
+    "price": 3000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/charm-ring?variant=gid://shopify/ProductVariant/49681954242787",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1552.jpg?v=1757152095"
+  },
+  "gid://shopify/ProductVariant/49678774960355": {
+    "product_title": "Vikanta Ring",
+    "variant_title": "10",
+    "sku": "AMS-101-1553-10\"",
+    "price": 4000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vikanta-ring?variant=gid://shopify/ProductVariant/49678774960355",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1553.jpg?v=1757152592"
+  },
+  "gid://shopify/ProductVariant/49681954308323": {
+    "product_title": "Vikanta Ring",
+    "variant_title": "8",
+    "sku": "AMS-101-1553-08\"",
+    "price": 3800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vikanta-ring?variant=gid://shopify/ProductVariant/49681954308323",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1553.jpg?v=1757152592"
+  },
+  "gid://shopify/ProductVariant/49681954341091": {
+    "product_title": "Vikanta Ring",
+    "variant_title": "12",
+    "sku": "AMS-101-1553-12\"",
+    "price": 4700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vikanta-ring?variant=gid://shopify/ProductVariant/49681954341091",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1553.jpg?v=1757152592"
+  },
+  "gid://shopify/ProductVariant/49681954373859": {
+    "product_title": "Vikanta Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1553-14\"",
+    "price": 4900.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vikanta-ring?variant=gid://shopify/ProductVariant/49681954373859",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1553.jpg?v=1757152592"
+  },
+  "gid://shopify/ProductVariant/49681962598627": {
+    "product_title": "Vikanta Ring",
+    "variant_title": "6",
+    "sku": "AMS-101-1553-06\"",
+    "price": 3600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vikanta-ring?variant=gid://shopify/ProductVariant/49681962598627",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1553.jpg?v=1757152592"
+  },
+  "gid://shopify/ProductVariant/49681954472163": {
+    "product_title": "Lovable Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1554-14\"",
+    "price": 9600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/lovable-ring?variant=gid://shopify/ProductVariant/49681954472163",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1554.jpg?v=1757153177"
+  },
+  "gid://shopify/ProductVariant/49681954668771": {
+    "product_title": "Shinning Charm Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1588-14\"",
+    "price": 8100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-12?variant=gid://shopify/ProductVariant/49681954668771",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1588.jpg?v=1757153721"
+  },
+  "gid://shopify/ProductVariant/49681954767075": {
+    "product_title": "Shivin Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1558-14\"",
+    "price": 3800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/shivin-ring?variant=gid://shopify/ProductVariant/49681954767075",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1558.jpg?v=1757153835"
+  },
+  "gid://shopify/ProductVariant/49681954865379": {
+    "product_title": "Gorgeous Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1587-14\"",
+    "price": 4500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/gorgeous-ring?variant=gid://shopify/ProductVariant/49681954865379",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1587.jpg?v=1757154451"
+  },
+  "gid://shopify/ProductVariant/49681954996451": {
+    "product_title": "Dazzling Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1559-14\"",
+    "price": 13400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-13?variant=gid://shopify/ProductVariant/49681954996451",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1559.jpg?v=1757154474"
+  },
+  "gid://shopify/ProductVariant/49681955160291": {
+    "product_title": "Kylie Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1560-14\"",
+    "price": 7400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kylie-ring?variant=gid://shopify/ProductVariant/49681955160291",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1560.jpg?v=1757154781"
+  },
+  "gid://shopify/ProductVariant/49681955324131": {
+    "product_title": "Manisha Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1561-14\"",
+    "price": 4000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-14?variant=gid://shopify/ProductVariant/49681955324131",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1561.jpg?v=1757155063"
+  },
+  "gid://shopify/ProductVariant/49681955455203": {
+    "product_title": "Admirable Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1586-14\"",
+    "price": 3100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-15?variant=gid://shopify/ProductVariant/49681955455203",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1586_396fc23f-d585-4b93-a7ce-a408245634bd.jpg?v=1757155144"
+  },
+  "gid://shopify/ProductVariant/49681955586275": {
+    "product_title": "Aamaira Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1562-14\"",
+    "price": 4700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/aamaira-ring?variant=gid://shopify/ProductVariant/49681955586275",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1562.jpg?v=1757156302"
+  },
   "gid://shopify/ProductVariant/49681955684579": {
     "product_title": "Stunning Ring",
     "variant_title": "14",
@@ -114839,6 +114434,132 @@
     "url": "https://www.theamethyststore.com/products/stunning-ring-1?variant=gid://shopify/ProductVariant/49681955684579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1585.jpg?v=1757156410"
   },
+  "gid://shopify/ProductVariant/49681956602083": {
+    "product_title": "Saisha Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1584-14\"",
+    "price": 7800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/saisha-ring?variant=gid://shopify/ProductVariant/49681956602083",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1584.jpg?v=1757157044"
+  },
+  "gid://shopify/ProductVariant/49681957093603": {
+    "product_title": "Vidmaya Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1565-14\"",
+    "price": 4500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vidmaya-ring?variant=gid://shopify/ProductVariant/49681957093603",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1565_4d7638d1-1f3b-4ba4-b77a-bb74f802a85f.jpg?v=1757158168"
+  },
+  "gid://shopify/ProductVariant/49681958207715": {
+    "product_title": "Shiviyasri Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1583-14\"",
+    "price": 4500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/shiviyasri-ring?variant=gid://shopify/ProductVariant/49681958207715",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1583.jpg?v=1757157635"
+  },
+  "gid://shopify/ProductVariant/49681958306019": {
+    "product_title": "Ishitha Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1582-14\"",
+    "price": 4900.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ishitha-ring?variant=gid://shopify/ProductVariant/49681958306019",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1582.jpg?v=1757158346"
+  },
+  "gid://shopify/ProductVariant/49681958469859": {
+    "product_title": "Brindha Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1566-14\"",
+    "price": 2300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-17?variant=gid://shopify/ProductVariant/49681958469859",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1566.jpg?v=1757159079"
+  },
+  "gid://shopify/ProductVariant/49681958502627": {
+    "product_title": "Sparkling Ring",
+    "variant_title": "8",
+    "sku": "AMS-101-1581-08\"",
+    "price": 1800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-18?variant=gid://shopify/ProductVariant/49681958502627",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1581.jpg?v=1757159264"
+  },
+  "gid://shopify/ProductVariant/49681958699235": {
+    "product_title": "Sparkling Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1581-14\"",
+    "price": 2500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-18?variant=gid://shopify/ProductVariant/49681958699235",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1581.jpg?v=1757159264"
+  },
+  "gid://shopify/ProductVariant/49681958764771": {
+    "product_title": "Dhanvi Ring",
+    "variant_title": "12",
+    "sku": "AMS-101-1567-12\"",
+    "price": 4700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-19?variant=gid://shopify/ProductVariant/49681958764771",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1567.jpg?v=1757159412"
+  },
+  "gid://shopify/ProductVariant/49681958797539": {
+    "product_title": "Dhanvi Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1567-14\"",
+    "price": 5600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-19?variant=gid://shopify/ProductVariant/49681958797539",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1567.jpg?v=1757159412"
+  },
+  "gid://shopify/ProductVariant/49681958895843": {
+    "product_title": "Yarani Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1568-14\"",
+    "price": 2600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-20?variant=gid://shopify/ProductVariant/49681958895843",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1568.jpg?v=1757159803"
+  },
+  "gid://shopify/ProductVariant/49681958994147": {
+    "product_title": "Jasvini Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1569-14\"",
+    "price": 6900.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-21?variant=gid://shopify/ProductVariant/49681958994147",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1569.jpg?v=1757160200"
+  },
+  "gid://shopify/ProductVariant/49681959092451": {
+    "product_title": "Attractive Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1580-14\"",
+    "price": 4700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/attractive-ring-2?variant=gid://shopify/ProductVariant/49681959092451",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1580.jpg?v=1757160366"
+  },
+  "gid://shopify/ProductVariant/49681959190755": {
+    "product_title": "Ferika Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1570-14\"",
+    "price": 3800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-23?variant=gid://shopify/ProductVariant/49681959190755",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1570.jpg?v=1757160696"
+  },
+  "gid://shopify/ProductVariant/49681959289059": {
+    "product_title": "Vrusni Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1571-14\"",
+    "price": 5500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vrusni-ring?variant=gid://shopify/ProductVariant/49681959289059",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1571_bc071f58-7ca9-4244-9d87-8a2bfbccabef.jpg?v=1757161159"
+  },
   "gid://shopify/ProductVariant/49681959354595": {
     "product_title": "Amazing Ring",
     "variant_title": "12",
@@ -114847,6 +114568,87 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/amazing-ring?variant=gid://shopify/ProductVariant/49681959354595",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1579.jpg?v=1757161532"
+  },
+  "gid://shopify/ProductVariant/49681959387363": {
+    "product_title": "Amazing Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1579-14\"",
+    "price": 7800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/amazing-ring?variant=gid://shopify/ProductVariant/49681959387363",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1579.jpg?v=1757161532"
+  },
+  "gid://shopify/ProductVariant/49681959452899": {
+    "product_title": "Zara Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1578-14\"",
+    "price": 4500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/zara-ring?variant=gid://shopify/ProductVariant/49681959452899",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1578.jpg?v=1757161839"
+  },
+  "gid://shopify/ProductVariant/49681959485667": {
+    "product_title": "Tishikha Ring",
+    "variant_title": "12",
+    "sku": "AMS-101-1576-12\"",
+    "price": 6400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/tishikha-ring?variant=gid://shopify/ProductVariant/49681959485667",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1576.jpg?v=1757162601"
+  },
+  "gid://shopify/ProductVariant/49681959518435": {
+    "product_title": "Tishikha Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1576-14\"",
+    "price": 6700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/tishikha-ring?variant=gid://shopify/ProductVariant/49681959518435",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1576.jpg?v=1757162601"
+  },
+  "gid://shopify/ProductVariant/49681959616739": {
+    "product_title": "Vivian Ring",
+    "variant_title": "12",
+    "sku": "AMS-101-1572-12\"",
+    "price": 4200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vivian-ring?variant=gid://shopify/ProductVariant/49681959616739",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1572.jpg?v=1757162860"
+  },
+  "gid://shopify/ProductVariant/49681959715043": {
+    "product_title": "Vivian Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1572-14\"",
+    "price": 4500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vivian-ring?variant=gid://shopify/ProductVariant/49681959715043",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1572.jpg?v=1757162860"
+  },
+  "gid://shopify/ProductVariant/49681960272099": {
+    "product_title": "Nithikha Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1575-14\"",
+    "price": 4200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-22?variant=gid://shopify/ProductVariant/49681960272099",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1575..jpg?v=1757162990"
+  },
+  "gid://shopify/ProductVariant/49681961058531": {
+    "product_title": "Megna Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1573-14\"",
+    "price": 3000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-24?variant=gid://shopify/ProductVariant/49681961058531",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1573.jpg?v=1757163171"
+  },
+  "gid://shopify/ProductVariant/49681961156835": {
+    "product_title": "Unique Charm Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1574-14\"",
+    "price": 5500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/unique-charm-ring?variant=gid://shopify/ProductVariant/49681961156835",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1574.jpg?v=1757163378"
   },
   "gid://shopify/ProductVariant/47142311821539": {
     "product_title": "Aavira Victorian Bracelet",
@@ -116477,6 +116279,78 @@
     "url": "https://www.theamethyststore.com/products/vinisha-victorian-pendant-set?variant=gid://shopify/ProductVariant/47432068432099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/DSC09813.jpg?v=1762001126"
   },
+  "gid://shopify/ProductVariant/47438805893347": {
+    "product_title": "Little Heart Ring",
+    "variant_title": "8",
+    "sku": "AMS-101-1686-08\"",
+    "price": 3300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-26?variant=gid://shopify/ProductVariant/47438805893347",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1686.jpg?v=1762082485"
+  },
+  "gid://shopify/ProductVariant/47438805926115": {
+    "product_title": "Little Heart Ring",
+    "variant_title": "10",
+    "sku": "AMS-101-1686-10\"",
+    "price": 3500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-26?variant=gid://shopify/ProductVariant/47438805926115",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1686.jpg?v=1762082485"
+  },
+  "gid://shopify/ProductVariant/47438805958883": {
+    "product_title": "Little Heart Ring",
+    "variant_title": "12",
+    "sku": "AMS-101-1686-12\"",
+    "price": 3800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-26?variant=gid://shopify/ProductVariant/47438805958883",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1686.jpg?v=1762082485"
+  },
+  "gid://shopify/ProductVariant/47438805991651": {
+    "product_title": "Little Heart Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1686-14\"",
+    "price": 4000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-26?variant=gid://shopify/ProductVariant/47438805991651",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1686.jpg?v=1762082485"
+  },
+  "gid://shopify/ProductVariant/49674875601123": {
+    "product_title": "Majestic Ring",
+    "variant_title": "8",
+    "sku": "AMS-101-1688-08\"",
+    "price": 3800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-27?variant=gid://shopify/ProductVariant/49674875601123",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1688_acce7269-4ac2-43dc-b9ca-c432db332823.jpg?v=1762152740"
+  },
+  "gid://shopify/ProductVariant/49681961320675": {
+    "product_title": "Majestic Ring",
+    "variant_title": "10",
+    "sku": "AMS-101-1688-10\"",
+    "price": 4000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-27?variant=gid://shopify/ProductVariant/49681961320675",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1688_acce7269-4ac2-43dc-b9ca-c432db332823.jpg?v=1762152740"
+  },
+  "gid://shopify/ProductVariant/49681961353443": {
+    "product_title": "Majestic Ring",
+    "variant_title": "12",
+    "sku": "AMS-101-1688-12\"",
+    "price": 3200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-27?variant=gid://shopify/ProductVariant/49681961353443",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1688_acce7269-4ac2-43dc-b9ca-c432db332823.jpg?v=1762152740"
+  },
+  "gid://shopify/ProductVariant/49681961386211": {
+    "product_title": "Majestic Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1688-14\"",
+    "price": 3600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-27?variant=gid://shopify/ProductVariant/49681961386211",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1688_acce7269-4ac2-43dc-b9ca-c432db332823.jpg?v=1762152740"
+  },
   "gid://shopify/ProductVariant/47438864187619": {
     "product_title": "Liora Bracelet",
     "variant_title": "Default Title",
@@ -116549,6 +116423,123 @@
     "url": "https://www.theamethyststore.com/products/chain-with-earrings-4?variant=gid://shopify/ProductVariant/47447809687779",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1353.jpg?v=1762233629"
   },
+  "gid://shopify/ProductVariant/47451262124259": {
+    "product_title": "Hwasa Ring",
+    "variant_title": "8",
+    "sku": "AMS-101-1685-08\"",
+    "price": 6900.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/hwasa-ring?variant=gid://shopify/ProductVariant/47451262124259",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1685_d67fe766-b6ff-48be-bc01-5d3a3ecf768b.jpg?v=1762260756"
+  },
+  "gid://shopify/ProductVariant/47451262157027": {
+    "product_title": "Hwasa Ring",
+    "variant_title": "10",
+    "sku": "AMS-101-1685-10\"",
+    "price": 7100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/hwasa-ring?variant=gid://shopify/ProductVariant/47451262157027",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1685_d67fe766-b6ff-48be-bc01-5d3a3ecf768b.jpg?v=1762260756"
+  },
+  "gid://shopify/ProductVariant/47451262189795": {
+    "product_title": "Hwasa Ring",
+    "variant_title": "12",
+    "sku": "AMS-101-1685-12\"",
+    "price": 7400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/hwasa-ring?variant=gid://shopify/ProductVariant/47451262189795",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1685_d67fe766-b6ff-48be-bc01-5d3a3ecf768b.jpg?v=1762260756"
+  },
+  "gid://shopify/ProductVariant/47451262222563": {
+    "product_title": "Hwasa Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1685-14\"",
+    "price": 7600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/hwasa-ring?variant=gid://shopify/ProductVariant/47451262222563",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1685_d67fe766-b6ff-48be-bc01-5d3a3ecf768b.jpg?v=1762260756"
+  },
+  "gid://shopify/ProductVariant/49681963221219": {
+    "product_title": "Vikshi Ring",
+    "variant_title": "8",
+    "sku": "AMS-101-1687-08\"",
+    "price": 1700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vikshi-ring-1?variant=gid://shopify/ProductVariant/49681963221219",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1687.jpg?v=1762261224"
+  },
+  "gid://shopify/ProductVariant/49681963253987": {
+    "product_title": "Vikshi Ring",
+    "variant_title": "10",
+    "sku": "AMS-101-1687-10\"",
+    "price": 2100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vikshi-ring-1?variant=gid://shopify/ProductVariant/49681963253987",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1687.jpg?v=1762261224"
+  },
+  "gid://shopify/ProductVariant/49674878877923": {
+    "product_title": "Sherin Ring",
+    "variant_title": "8",
+    "sku": "AMS-101-1689-08\"",
+    "price": 3400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-36?variant=gid://shopify/ProductVariant/49674878877923",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1689.jpg?v=1762261724"
+  },
+  "gid://shopify/ProductVariant/49681963286755": {
+    "product_title": "Sherin Ring",
+    "variant_title": "10",
+    "sku": "AMS-101-1689-10\"",
+    "price": 3600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-36?variant=gid://shopify/ProductVariant/49681963286755",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1689.jpg?v=1762261724"
+  },
+  "gid://shopify/ProductVariant/49681963319523": {
+    "product_title": "Sherin Ring",
+    "variant_title": "12",
+    "sku": "AMS-101-1689-12\"",
+    "price": 3800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-36?variant=gid://shopify/ProductVariant/49681963319523",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1689.jpg?v=1762261724"
+  },
+  "gid://shopify/ProductVariant/49681963352291": {
+    "product_title": "Sherin Ring",
+    "variant_title": "14",
+    "sku": "AMS-101-1689-14\"",
+    "price": 4500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-36?variant=gid://shopify/ProductVariant/49681963352291",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1689.jpg?v=1762261724"
+  },
+  "gid://shopify/ProductVariant/47451406860515": {
+    "product_title": "Mehitha Ring",
+    "variant_title": "8",
+    "sku": "AMS-101-1690-08\"",
+    "price": 4300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-37?variant=gid://shopify/ProductVariant/47451406860515",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1690.jpg?v=1762262320"
+  },
+  "gid://shopify/ProductVariant/47451406893283": {
+    "product_title": "Mehitha Ring",
+    "variant_title": "10",
+    "sku": "AMS-101-1690-10\"",
+    "price": 4500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-37?variant=gid://shopify/ProductVariant/47451406893283",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1690.jpg?v=1762262320"
+  },
+  "gid://shopify/ProductVariant/47451406926051": {
+    "product_title": "Mehitha Ring",
+    "variant_title": "12",
+    "sku": "AMS-101-1690-12\"",
+    "price": 4600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ring-37?variant=gid://shopify/ProductVariant/47451406926051",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1690.jpg?v=1762262320"
+  },
   "gid://shopify/ProductVariant/47451410792675": {
     "product_title": "Admirable Chain",
     "variant_title": "Default Title",
@@ -116557,6 +116548,33 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/admirable-chain?variant=gid://shopify/ProductVariant/47451410792675",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1389.jpg?v=1762262522"
+  },
+  "gid://shopify/ProductVariant/49674879238371": {
+    "product_title": "Smirithi Ring",
+    "variant_title": "8",
+    "sku": "AMS-101-1691-08\"",
+    "price": 4500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/smirithi-ring?variant=gid://shopify/ProductVariant/49674879238371",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1691.jpg?v=1762262594"
+  },
+  "gid://shopify/ProductVariant/49681963385059": {
+    "product_title": "Smirithi Ring",
+    "variant_title": "10",
+    "sku": "AMS-101-1691-10\"",
+    "price": 4600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/smirithi-ring?variant=gid://shopify/ProductVariant/49681963385059",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1691.jpg?v=1762262594"
+  },
+  "gid://shopify/ProductVariant/49681963417827": {
+    "product_title": "Smirithi Ring",
+    "variant_title": "12",
+    "sku": "AMS-101-1691-12\"",
+    "price": 5400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/smirithi-ring?variant=gid://shopify/ProductVariant/49681963417827",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1691.jpg?v=1762262594"
   },
   "gid://shopify/ProductVariant/47456260030691": {
     "product_title": "Mary Short Necklace Set",
@@ -128177,6 +128195,15 @@
     "url": "https://www.theamethyststore.com/products/hasli-necklace-21?variant=gid://shopify/ProductVariant/49388885115107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16257.jpg?v=1783665843"
   },
+  "gid://shopify/ProductVariant/49388895142115": {
+    "product_title": "Dhivashri Hasli Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16270",
+    "price": 11300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/hasli-necklace-24?variant=gid://shopify/ProductVariant/49388895142115",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16270.jpg?v=1783666623"
+  },
   "gid://shopify/ProductVariant/49388930236643": {
     "product_title": "Harvikaa Hasli Necklace",
     "variant_title": "Default Title",
@@ -128991,7 +129018,7 @@
     "product_title": "Bride's Legacy Moissanite Long Necklace Set",
     "variant_title": "Default Title",
     "sku": "AMS-102-17056",
-    "price": 119200.0,
+    "price": 17000.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/brides-legacy-moissanite-long-necklace-set?variant=gid://shopify/ProductVariant/49438801985763",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17056.jpg?v=1784782459"
