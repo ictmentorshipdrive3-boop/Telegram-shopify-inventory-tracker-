@@ -4333,7 +4333,7 @@
     "variant_title": "Default Title",
     "sku": "237",
     "price": 599.0,
-    "stock": 52,
+    "stock": 51,
     "url": "https://www.daivik.in/products/navrathna-studs?variant=gid://shopify/ProductVariant/44284788474078",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_574b5078-097b-4908-9d9b-53db6d755c91.heic?v=1690385655"
   },
@@ -7213,7 +7213,7 @@
     "variant_title": "Default Title",
     "sku": "512",
     "price": 649.0,
-    "stock": 21,
+    "stock": 20,
     "url": "https://www.daivik.in/products/lakshmi-white-stone-choker-with-earrinbs?variant=gid://shopify/ProductVariant/45569497432286",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B7025D39-5E68-4CE2-997A-A075248DB8EB.jpg?v=1718457274"
   },
@@ -19808,15 +19808,6 @@
     "url": "https://www.daivik.in/products/heritage-jaipuri-stone-watch-bracelet?variant=gid://shopify/ProductVariant/48266836050142",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6DE2B110-7D97-4C03-AC5B-22E0599925B8.jpg?v=1779277481"
   },
-  "gid://shopify/ProductVariant/48267346772190": {
-    "product_title": "Diamond Look Alike Hasli Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "1388",
-    "price": 1399.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/a-31?variant=gid://shopify/ProductVariant/48267346772190",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CF4CC19F-42B5-4786-BFF0-3476E06D63F1.jpg?v=1779290628"
-  },
   "gid://shopify/ProductVariant/48276351320286": {
     "product_title": "Kids / Adult Antique AD Green Jhumkas",
     "variant_title": "Default Title",
@@ -21091,7 +21082,7 @@
     "variant_title": "Default Title",
     "sku": "1150",
     "price": 799.0,
-    "stock": 26,
+    "stock": 25,
     "url": "https://www.daivik.in/products/simple-ad-green-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48550497583326",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/652C9996-8E2A-40F9-87B5-3C976003D04F.jpg?v=1785942584"
   },
@@ -30526,6 +30517,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/heritage-pearl-watch-bracelet-in-2-colors-price-for-each?variant=gid://shopify/ProductVariant/48266747019486",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0199_c28b24ed-ccb4-45f7-bc4a-30a911c7d135.jpg?v=1779275572"
+  },
+  "gid://shopify/ProductVariant/48267346772190": {
+    "product_title": "Diamond Look Alike Hasli Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "1388",
+    "price": 1399.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/a-31?variant=gid://shopify/ProductVariant/48267346772190",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CF4CC19F-42B5-4786-BFF0-3476E06D63F1.jpg?v=1779290628"
   },
   "gid://shopify/ProductVariant/48278181413086": {
     "product_title": "Kundan Ghungroo Adjustable Bracelet Watch",
