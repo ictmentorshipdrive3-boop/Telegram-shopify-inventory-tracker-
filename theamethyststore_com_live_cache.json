@@ -50809,7 +50809,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-113-0404",
     "price": 1300.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/gowshikha-nose-pin?variant=gid://shopify/ProductVariant/47797598486755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0404.jpg?v=1767682825"
   },
@@ -50836,7 +50836,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-113-0412",
     "price": 1300.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/alonza-bullakku-nose-pin?variant=gid://shopify/ProductVariant/47797612511459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0412.jpg?v=1767683161"
   },
@@ -51907,7 +51907,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-113-0392",
     "price": 1300.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/dazzle-bullakku-nose-pin?variant=gid://shopify/ProductVariant/47807882002659",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0392.jpg?v=1767964135"
   },
@@ -102113,15 +102113,6 @@
     "url": "https://www.theamethyststore.com/products/bullakku-nose-pin-26?variant=gid://shopify/ProductVariant/49575664353507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0506.jpg?v=1787383228"
   },
-  "gid://shopify/ProductVariant/49575672512739": {
-    "product_title": "Vintage Bullakku Nose Pin",
-    "variant_title": "Default Title",
-    "sku": "AMS-113-0507",
-    "price": 1800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/bullakku-nose-pin-27?variant=gid://shopify/ProductVariant/49575672512739",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0507.jpg?v=1787383338"
-  },
   "gid://shopify/ProductVariant/49575758594275": {
     "product_title": "Nethrsa Bullakku Nose Pin",
     "variant_title": "Default Title",
@@ -131506,6 +131497,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/grandeur-3d-spl-long-necklace-set?variant=gid://shopify/ProductVariant/49575207108835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17676.jpg?v=1787375226"
+  },
+  "gid://shopify/ProductVariant/49575672512739": {
+    "product_title": "Vintage Bullakku Nose Pin",
+    "variant_title": "Default Title",
+    "sku": "AMS-113-0507",
+    "price": 1800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/bullakku-nose-pin-27?variant=gid://shopify/ProductVariant/49575672512739",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0507.jpg?v=1787383338"
   },
   "gid://shopify/ProductVariant/49575800471779": {
     "product_title": "Priyaa Bullakku Nose Pin",
