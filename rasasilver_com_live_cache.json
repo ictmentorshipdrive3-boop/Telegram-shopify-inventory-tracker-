@@ -4355,15 +4355,6 @@
     "url": "https://www.rasasilver.com/products/shree-chaturbhuj-short-necklace?variant=gid://shopify/ProductVariant/50816757530921",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug45784.jpg?v=1756814989"
   },
-  "gid://shopify/ProductVariant/50817581023529": {
-    "product_title": "Shree Aabhushan Short Necklace",
-    "variant_title": "Navaratna Colour",
-    "sku": "R11703",
-    "price": 30260.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/shree-aabhushan-short-necklace?variant=gid://shopify/ProductVariant/50817581023529",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug45671.jpg?v=1756818341"
-  },
   "gid://shopify/ProductVariant/50817261338921": {
     "product_title": "Ruby Pushpam Short Necklace",
     "variant_title": "Default Title",
@@ -21221,15 +21212,6 @@
     "url": "https://www.rasasilver.com/products/pink-regalia-kundan-danglers?variant=gid://shopify/ProductVariant/53329631346985",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42402_resized.jpg?v=1784116321"
   },
-  "gid://shopify/ProductVariant/53329635508521": {
-    "product_title": "Rose Imperial Kundan Danglers",
-    "variant_title": "Default Title",
-    "sku": "R32185",
-    "price": 12495.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/rose-imperial-kundan-danglers?variant=gid://shopify/ProductVariant/53329635508521",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42408_resized.jpg?v=1784116420"
-  },
   "gid://shopify/ProductVariant/53329638555945": {
     "product_title": "Ros\u00e9 Spark Kundan Danglers",
     "variant_title": "Default Title",
@@ -23917,7 +23899,7 @@
     "variant_title": "Default Title",
     "sku": "R30484",
     "price": 4300.0,
-    "stock": 36,
+    "stock": 35,
     "url": "https://www.rasasilver.com/products/back-chain?variant=gid://shopify/ProductVariant/53426656870697",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageAug24_2026_12_36_13PM.png?v=1787555201"
   },
@@ -25728,6 +25710,15 @@
     "price": 30260.0,
     "stock": 0,
     "url": "https://www.rasasilver.com/products/shree-aabhushan-short-necklace?variant=gid://shopify/ProductVariant/50817580990761",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug45671.jpg?v=1756818341"
+  },
+  "gid://shopify/ProductVariant/50817581023529": {
+    "product_title": "Shree Aabhushan Short Necklace",
+    "variant_title": "Navaratna Colour",
+    "sku": "R11703",
+    "price": 30260.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/shree-aabhushan-short-necklace?variant=gid://shopify/ProductVariant/50817581023529",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug45671.jpg?v=1756818341"
   },
   "gid://shopify/ProductVariant/50818157248809": {
@@ -46060,6 +46051,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/rajwadi-kundan-choker-set?variant=gid://shopify/ProductVariant/53329546412329",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42321_resized.jpg?v=1784115856"
+  },
+  "gid://shopify/ProductVariant/53329635508521": {
+    "product_title": "Rose Imperial Kundan Danglers",
+    "variant_title": "Default Title",
+    "sku": "R32185",
+    "price": 12495.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/rose-imperial-kundan-danglers?variant=gid://shopify/ProductVariant/53329635508521",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42408_resized.jpg?v=1784116420"
   },
   "gid://shopify/ProductVariant/53329638981929": {
     "product_title": "Gulbahar Kundan Danglers",
