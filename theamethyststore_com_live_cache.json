@@ -796,7 +796,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-2105-MS",
     "price": 6813.0,
-    "stock": 9,
+    "stock": 10,
     "url": "https://www.theamethyststore.com/products/pearl-studs?variant=gid://shopify/ProductVariant/42018690695395",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-2105_0ccb3cf2-e789-4672-8cca-0e61161d5054.jpg?v=1703849566"
   },
@@ -64439,6 +64439,15 @@
     "url": "https://www.theamethyststore.com/products/venisha-short-necklace-set?variant=gid://shopify/ProductVariant/48876308857059",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15449_5e76a671-0413-4504-a6c2-095adec4afac.jpg?v=1777285393"
   },
+  "gid://shopify/ProductVariant/48876327862499": {
+    "product_title": "Luxurious Avikam Long Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-9577",
+    "price": 16200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/avikam-long-earrings-2?variant=gid://shopify/ProductVariant/48876327862499",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9577_acd70e9c-65a6-4635-a51c-20c0ac8b0470.jpg?v=1777287487"
+  },
   "gid://shopify/ProductVariant/48876346736867": {
     "product_title": "Manisha Short Necklace Set",
     "variant_title": "Default Title",
@@ -75099,7 +75108,7 @@
     "product_title": "Meenakshi Sundareswaran 3D Spl Pendant",
     "variant_title": "Default Title",
     "sku": "AMS-104-4376",
-    "price": 2700.0,
+    "price": 4400.0,
     "stock": 5,
     "url": "https://www.theamethyststore.com/products/meenakshi-sundareswaran-3d-spl-pendant?variant=gid://shopify/ProductVariant/49320158953699",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4376.jpg?v=1782547015"
@@ -76236,6 +76245,24 @@
     "price": 2300.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/3d-spl-pendant-60?variant=gid://shopify/ProductVariant/49678702674147",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4388-M.jpg?v=1782800712"
+  },
+  "gid://shopify/ProductVariant/49680861331683": {
+    "product_title": "God Murugan 3D Spl Pendant",
+    "variant_title": "Large",
+    "sku": "AMS-104-4388-L",
+    "price": 3100.0,
+    "stock": 4,
+    "url": "https://www.theamethyststore.com/products/3d-spl-pendant-60?variant=gid://shopify/ProductVariant/49680861331683",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4388-M.jpg?v=1782800712"
+  },
+  "gid://shopify/ProductVariant/49680861364451": {
+    "product_title": "God Murugan 3D Spl Pendant",
+    "variant_title": "Small",
+    "sku": "AMS-104-4388-S",
+    "price": 1400.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/3d-spl-pendant-60?variant=gid://shopify/ProductVariant/49680861364451",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4388-M.jpg?v=1782800712"
   },
   "gid://shopify/ProductVariant/49332546830563": {
@@ -85863,8 +85890,8 @@
     "product_title": "Liyasri Kundan Studs",
     "variant_title": "Default Title",
     "sku": "AMS-106-15126",
-    "price": 6591.0,
-    "stock": 3,
+    "price": 6955.0,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/liyasri-kundan-studs?variant=gid://shopify/ProductVariant/49475840049379",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15126.jpg?v=1785398485"
   },
@@ -99426,7 +99453,7 @@
     "product_title": "Heritage Nagas Pair Bangles",
     "variant_title": "Default Title",
     "sku": "AMS-107-3575-2.6\"",
-    "price": 35900.0,
+    "price": 35057.0,
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/heritage-nagas-pair-bangles?variant=gid://shopify/ProductVariant/49588987625699",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3575_2.jpg?v=1787565600"
@@ -119635,15 +119662,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/beautiful-avikam-pair-bangles?variant=gid://shopify/ProductVariant/49674482909411",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3115.jpg?v=1777278864"
-  },
-  "gid://shopify/ProductVariant/48876327862499": {
-    "product_title": "Luxurious Avikam Long Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-9577",
-    "price": 16200.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/avikam-long-earrings-2?variant=gid://shopify/ProductVariant/48876327862499",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9577_acd70e9c-65a6-4635-a51c-20c0ac8b0470.jpg?v=1777287487"
   },
   "gid://shopify/ProductVariant/48876348244195": {
     "product_title": "Lithisha Short Necklace Set",
