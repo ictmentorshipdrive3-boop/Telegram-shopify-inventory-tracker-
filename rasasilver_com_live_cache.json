@@ -161,15 +161,6 @@
     "url": "https://www.rasasilver.com/products/spiffy-green-victorian-oddiyanam-hip-belt?variant=gid://shopify/ProductVariant/49866560962857",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R1390.jpg?v=1751367155"
   },
-  "gid://shopify/ProductVariant/49867063165225": {
-    "product_title": "Orange Coral Pendant",
-    "variant_title": "Default Title",
-    "sku": "R1713",
-    "price": 6545.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/orange-coral-pendant?variant=gid://shopify/ProductVariant/49867063165225",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP09025copy.jpg?v=1773128226"
-  },
   "gid://shopify/ProductVariant/49889170719017": {
     "product_title": "Emerald Victorian Sheeshphool",
     "variant_title": "Default Title",
@@ -1429,15 +1420,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/gandharaj-kundan-haaram?variant=gid://shopify/ProductVariant/50298747781417",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP05962copy_b6c6127a-6210-4b80-9812-aee8a02abced.jpg?v=1749465462"
-  },
-  "gid://shopify/ProductVariant/50299554267433": {
-    "product_title": "Kamal Kriti Jhumka",
-    "variant_title": "Default Title",
-    "sku": "R7157",
-    "price": 15810.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/kamalkriti-jhumka?variant=gid://shopify/ProductVariant/50299554267433",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06422copy.jpg?v=1747118995"
   },
   "gid://shopify/ProductVariant/50868870021417": {
     "product_title": "Mandara Morni Bangles",
@@ -17630,15 +17612,6 @@
     "url": "https://www.rasasilver.com/products/fleur-glow-hoops?variant=gid://shopify/ProductVariant/53103564554537",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May0971_resized.jpg?v=1781850038"
   },
-  "gid://shopify/ProductVariant/53103597453609": {
-    "product_title": "Gajveer Nakshi Jhumka",
-    "variant_title": "Default Title",
-    "sku": "R11170",
-    "price": 40205.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/maylora-nakshi-jhumka-copy?variant=gid://shopify/ProductVariant/53103597453609",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May0124_resized.jpg?v=1781857216"
-  },
   "gid://shopify/ProductVariant/53103774990633": {
     "product_title": "Mayuranshi Nakshi Jhumka",
     "variant_title": "Default Title",
@@ -24056,6 +24029,15 @@
     "url": "https://www.rasasilver.com/products/addige-victorian-long-necklace?variant=gid://shopify/ProductVariant/49866244686121",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-98.jpg?v=1740992725"
   },
+  "gid://shopify/ProductVariant/49867063165225": {
+    "product_title": "Orange Coral Pendant",
+    "variant_title": "Default Title",
+    "sku": "R1713",
+    "price": 6545.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/orange-coral-pendant?variant=gid://shopify/ProductVariant/49867063165225",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP09025copy.jpg?v=1773128226"
+  },
   "gid://shopify/ProductVariant/49894182027561": {
     "product_title": "Ram Vivah Pendant",
     "variant_title": "Default Title",
@@ -24343,6 +24325,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/mayura-kundan-short-necklace?variant=gid://shopify/ProductVariant/50470117179689",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP05923copy.jpg?v=1752753071"
+  },
+  "gid://shopify/ProductVariant/50299554267433": {
+    "product_title": "Kamal Kriti Jhumka",
+    "variant_title": "Default Title",
+    "sku": "R7157",
+    "price": 15810.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/kamalkriti-jhumka?variant=gid://shopify/ProductVariant/50299554267433",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06422copy.jpg?v=1747118995"
   },
   "gid://shopify/ProductVariant/50868869988649": {
     "product_title": "Mandara Morni Bangles",
@@ -43270,6 +43261,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/petaline-stone-hangings?variant=gid://shopify/ProductVariant/53103287927081",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May0963_resized.jpg?v=1781849626"
+  },
+  "gid://shopify/ProductVariant/53103597453609": {
+    "product_title": "Gajveer Nakshi Jhumka",
+    "variant_title": "Default Title",
+    "sku": "R11170",
+    "price": 40205.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/maylora-nakshi-jhumka-copy?variant=gid://shopify/ProductVariant/53103597453609",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May0124_resized.jpg?v=1781857216"
   },
   "gid://shopify/ProductVariant/53103634612521": {
     "product_title": "Vasantika Kundan Studs",
