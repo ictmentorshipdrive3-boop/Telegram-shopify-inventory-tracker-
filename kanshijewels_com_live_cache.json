@@ -10093,7 +10093,7 @@
     "variant_title": "Default Title",
     "sku": "NK22",
     "price": 2700.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.kanshijewels.com/products/jadau-hasli-necklace?variant=gid://shopify/ProductVariant/52737286144300",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/JADAUHASLI2700.jpg?v=1773122810"
   },
@@ -11731,7 +11731,7 @@
     "variant_title": "Default Title",
     "sku": "NK966",
     "price": 2650.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.kanshijewels.com/products/moon-kundan-motives-classic-set-1?variant=gid://shopify/ProductVariant/54005697446188",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/WhatsApp_Image_2026-09-05_at_2.58.52_PM_1.jpg?v=1788605759"
   },
@@ -12089,11 +12089,47 @@
   "gid://shopify/ProductVariant/54030925758764": {
     "product_title": "Classic rani teenlada necklace earrings set",
     "variant_title": "Default Title",
-    "sku": null,
+    "sku": "NK990",
     "price": 4800.0,
     "stock": 10,
     "url": "https://www.kanshijewels.com/products/classic-rani-teenlada-necklace-earrings-set?variant=gid://shopify/ProductVariant/54030925758764",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/WhatsAppImage2026-09-07at2.31.27PM.jpg?v=1788780502"
+  },
+  "gid://shopify/ProductVariant/54030951645484": {
+    "product_title": "Diamond polki look emerald pearl fusion mossanite set",
+    "variant_title": "Default Title",
+    "sku": "NK991",
+    "price": 7500.0,
+    "stock": 10,
+    "url": "https://www.kanshijewels.com/products/diamond-polki-look-emerald-pearl-fusion-mossanite-set?variant=gid://shopify/ProductVariant/54030951645484",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/WhatsAppImage2026-09-07at2.31.28PM_2.jpg?v=1788782250"
+  },
+  "gid://shopify/ProductVariant/54030963802412": {
+    "product_title": "Exclusive Coral nakashi kundan fusion necklace earrings set",
+    "variant_title": "Default Title",
+    "sku": "NK992",
+    "price": 5100.0,
+    "stock": 10,
+    "url": "https://www.kanshijewels.com/products/exclusive-coral-nakashi-kundan-fusion-necklace-earrings-set?variant=gid://shopify/ProductVariant/54030963802412",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/WhatsAppImage2026-09-07at2.31.28PM.jpg?v=1788782553"
+  },
+  "gid://shopify/ProductVariant/54030968717612": {
+    "product_title": "Sleek kundan emerald pearls set",
+    "variant_title": "Default Title",
+    "sku": "NK993",
+    "price": 1350.0,
+    "stock": 10,
+    "url": "https://www.kanshijewels.com/products/sleek-kundan-emerald-pearls-set?variant=gid://shopify/ProductVariant/54030968717612",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/WhatsAppImage2026-09-07at4.13.34PM.jpg?v=1788782780"
+  },
+  "gid://shopify/ProductVariant/54031089205548": {
+    "product_title": "Mossanite polki sleek chokar",
+    "variant_title": "Default Title",
+    "sku": "NK994",
+    "price": 2799.0,
+    "stock": 10,
+    "url": "https://www.kanshijewels.com/products/mossanite-polki-sleek-chokar?variant=gid://shopify/ProductVariant/54031089205548",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/WhatsAppImage2026-09-07at5.50.10PM.jpg?v=1788784601"
   },
   "gid://shopify/ProductVariant/45425851433260": {
     "product_title": "Jadau Kundan Earrings",
