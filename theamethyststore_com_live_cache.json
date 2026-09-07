@@ -2929,7 +2929,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-3750",
     "price": 15200.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/arini-dual-kind-earrings?variant=gid://shopify/ProductVariant/43491213115619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-3750.jpg?v=1695720525"
   },
@@ -70469,15 +70469,6 @@
     "url": "https://www.theamethyststore.com/products/shubhra-kundan-bracelet?variant=gid://shopify/ProductVariant/48929121796323",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1251_2.jpg?v=1778394659"
   },
-  "gid://shopify/ProductVariant/48929122320611": {
-    "product_title": "Charming Hook Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-13735",
-    "price": 4651.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/charming-hook-earrings?variant=gid://shopify/ProductVariant/48929122320611",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13735.jpg?v=1778396108"
-  },
   "gid://shopify/ProductVariant/48929134215395": {
     "product_title": "Srikala Kundan Bracelet",
     "variant_title": "Default Title",
@@ -124468,6 +124459,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/colourful-charm-hook-earrings?variant=gid://shopify/ProductVariant/48929121370339",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13731.jpg?v=1778394479"
+  },
+  "gid://shopify/ProductVariant/48929122320611": {
+    "product_title": "Charming Hook Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-13735",
+    "price": 4651.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/charming-hook-earrings?variant=gid://shopify/ProductVariant/48929122320611",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13735_207f0f7f-a2fd-41fe-a21e-826c036888ae.jpg?v=1788772721"
   },
   "gid://shopify/ProductVariant/48929175306467": {
     "product_title": "Floral Drops Hook Earrings",
