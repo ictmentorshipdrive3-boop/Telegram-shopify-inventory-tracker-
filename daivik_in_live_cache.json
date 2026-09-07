@@ -10696,7 +10696,7 @@
     "variant_title": "Default Title",
     "sku": "1221",
     "price": 999.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/kemp-pastel-beads-necklace-with-earrings?variant=gid://shopify/ProductVariant/46297625559262",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/85A815FD-178A-42CB-A800-6B78BF024451.jpg?v=1781336593"
   },
@@ -15628,7 +15628,7 @@
     "variant_title": "8 Inches String - Half Moolam",
     "sku": "3507",
     "price": 1299.0,
-    "stock": 24,
+    "stock": 23,
     "url": "https://www.daivik.in/products/elegant-jasmine-mullai-flower-artificial-gajra-16-inches?variant=gid://shopify/ProductVariant/47542601515230",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0344.heic?v=1758199863"
   },
@@ -17167,7 +17167,7 @@
     "variant_title": "Default Title",
     "sku": "1763",
     "price": 1499.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/pure-kemp-lotus-jhumka-with-mattals?variant=gid://shopify/ProductVariant/47777295696094",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E6598837-509B-44AF-9493-4863FC5D5D59.jpg?v=1766485850"
   },
@@ -21212,15 +21212,6 @@
     "url": "https://www.daivik.in/products/ad-hanging-pendants-earcuff-in-2-colors-price-for-each?variant=gid://shopify/ProductVariant/48597123301598",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1249.jpg?v=1786618747"
   },
-  "gid://shopify/ProductVariant/48597722071262": {
-    "product_title": "Kemp Hasli Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "500",
-    "price": 1999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/kemp-hasli-necklace-with-earrings?variant=gid://shopify/ProductVariant/48597722071262",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1276.jpg?v=1786640859"
-  },
   "gid://shopify/ProductVariant/48602139918558": {
     "product_title": "Pure Kemp Brass Kemp Necklace with Earrings",
     "variant_title": "Default Title",
@@ -21388,7 +21379,7 @@
     "variant_title": "Default Title",
     "sku": "294",
     "price": 499.0,
-    "stock": 34,
+    "stock": 33,
     "url": "https://www.daivik.in/products/simple-flower-pendant-hasli-necklace-with-earrings?variant=gid://shopify/ProductVariant/48649192210654",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1580_83ae5a0b-d197-4578-a296-bbad5f5a2b8a.jpg?v=1787842746"
   },
@@ -21532,7 +21523,7 @@
     "variant_title": "Default Title",
     "sku": "1960",
     "price": 999.0,
-    "stock": 30,
+    "stock": 29,
     "url": "https://www.daivik.in/products/ad-diamond-look-alike-earcuff?variant=gid://shopify/ProductVariant/48983346512094",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5B6C8871-530F-43FD-A422-A16E9C1F313A.jpg?v=1788540176"
   },
@@ -30751,6 +30742,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/kemp-ruby-green-flower-jhumkas-1?variant=gid://shopify/ProductVariant/48588136022238",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5680.jpg?v=1786368472"
+  },
+  "gid://shopify/ProductVariant/48597722071262": {
+    "product_title": "Kemp Hasli Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "500",
+    "price": 1999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/kemp-hasli-necklace-with-earrings?variant=gid://shopify/ProductVariant/48597722071262",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1276.jpg?v=1786640859"
   },
   "gid://shopify/ProductVariant/48623898886366": {
     "product_title": "Pearl Kemp Floral Droplet Balis",
