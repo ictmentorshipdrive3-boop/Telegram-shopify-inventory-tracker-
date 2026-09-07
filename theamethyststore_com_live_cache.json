@@ -12937,7 +12937,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-7423",
     "price": 34546.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/white-with-blue-beads-necklace?variant=gid://shopify/ProductVariant/45609370976483",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7423_41a7f4ad-ff00-49c5-b5de-93aaea606d67.jpg?v=1770203745"
   },
@@ -100475,15 +100475,6 @@
     "url": "https://www.theamethyststore.com/products/elegant-victorian-vanki?variant=gid://shopify/ProductVariant/49563450867939",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0921.jpg?v=1787223791"
   },
-  "gid://shopify/ProductVariant/49563451162851": {
-    "product_title": "Dazzling Diamond Design Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17280",
-    "price": 109200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/diamond-design-necklace-set?variant=gid://shopify/ProductVariant/49563451162851",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17280.jpg?v=1787223810"
-  },
   "gid://shopify/ProductVariant/49563454472419": {
     "product_title": "Admirable Victorian Hair Maatal",
     "variant_title": "Default Title",
@@ -131515,6 +131506,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/avikam-bracelet-38?variant=gid://shopify/ProductVariant/49562613186787",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1505.jpg?v=1787209953"
+  },
+  "gid://shopify/ProductVariant/49563451162851": {
+    "product_title": "Dazzling Diamond Design Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17280",
+    "price": 109200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/diamond-design-necklace-set?variant=gid://shopify/ProductVariant/49563451162851",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17280.jpg?v=1787223810"
   },
   "gid://shopify/ProductVariant/49563913388259": {
     "product_title": "Fariyaa Diamond Design Necklace Set",
