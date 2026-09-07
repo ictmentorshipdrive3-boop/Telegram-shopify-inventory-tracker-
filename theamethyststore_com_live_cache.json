@@ -10614,7 +10614,7 @@
     "product_title": "Kranthi Avikam Short Necklace Set",
     "variant_title": "Default Title",
     "sku": "AMS-102-6867",
-    "price": 37600.0,
+    "price": 42700.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/kranthi-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/45349723930851",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-6867.jpg?v=1722407076"
@@ -19326,7 +19326,7 @@
     "product_title": "Jessika Short Necklace",
     "variant_title": "Default Title",
     "sku": "AMS-102-9000",
-    "price": 21929.0,
+    "price": 22850.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/jessika-short-necklace?variant=gid://shopify/ProductVariant/46314799759587",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9000.jpg?v=1745752497"
@@ -68201,15 +68201,6 @@
     "url": "https://www.theamethyststore.com/products/lavina-stone-jada-billa?variant=gid://shopify/ProductVariant/48903547322595",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0799.jpg?v=1777815501"
   },
-  "gid://shopify/ProductVariant/48903559282915": {
-    "product_title": "Yaanvika Stone Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15533",
-    "price": 10358.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/yaanvika-stone-short-necklace?variant=gid://shopify/ProductVariant/48903559282915",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15533.jpg?v=1777816999"
-  },
   "gid://shopify/ProductVariant/48903571734755": {
     "product_title": "Dhishikha Stone Short Necklace",
     "variant_title": "Default Title",
@@ -69847,15 +69838,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/kundan-bracelet-21?variant=gid://shopify/ProductVariant/48926926962915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1280_2.jpg?v=1778303586"
-  },
-  "gid://shopify/ProductVariant/48926930829539": {
-    "product_title": "Attractive Kundan Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15707",
-    "price": 104452.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/attractive-kundan-long-necklace-1?variant=gid://shopify/ProductVariant/48926930829539",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15707.jpg?v=1778303719"
   },
   "gid://shopify/ProductVariant/48926931845347": {
     "product_title": "Avnika  Stone Maatal",
@@ -94057,6 +94039,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/layer-charm-avikam-short-necklace?variant=gid://shopify/ProductVariant/49517853442275",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17330.jpg?v=1786367741"
+  },
+  "gid://shopify/ProductVariant/49517926514915": {
+    "product_title": "Floral Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15569",
+    "price": 5900.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/studs-31?variant=gid://shopify/ProductVariant/49517926514915",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15569.jpg?v=1786369235"
   },
   "gid://shopify/ProductVariant/49517928087779": {
     "product_title": "Pragalya Studs",
@@ -123533,6 +123524,15 @@
     "url": "https://www.theamethyststore.com/products/niyati-nagas-earings?variant=gid://shopify/ProductVariant/48903554662627",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13785.jpg?v=1777816620"
   },
+  "gid://shopify/ProductVariant/48903559282915": {
+    "product_title": "Yaanvika Stone Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15533",
+    "price": 10358.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/yaanvika-stone-short-necklace?variant=gid://shopify/ProductVariant/48903559282915",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15533.jpg?v=1777816999"
+  },
   "gid://shopify/ProductVariant/48903573340387": {
     "product_title": "Gorgeous Stone Short Necklace",
     "variant_title": "Default Title",
@@ -124126,6 +124126,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/stone-maatal-5?variant=gid://shopify/ProductVariant/48926923817187",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2299.jpg?v=1778303103"
+  },
+  "gid://shopify/ProductVariant/48926930829539": {
+    "product_title": "Attractive Kundan Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15707",
+    "price": 104452.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/attractive-kundan-long-necklace-1?variant=gid://shopify/ProductVariant/48926930829539",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15707.jpg?v=1778303719"
   },
   "gid://shopify/ProductVariant/48926935318755": {
     "product_title": "Eshika Stone Maatal",
@@ -131101,15 +131110,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/rope-necklace-4?variant=gid://shopify/ProductVariant/49515014684899",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17404.jpg?v=1786281741"
-  },
-  "gid://shopify/ProductVariant/49517926514915": {
-    "product_title": "Floral Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15569",
-    "price": 5900.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/studs-31?variant=gid://shopify/ProductVariant/49517926514915",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15569.jpg?v=1786369235"
   },
   "gid://shopify/ProductVariant/49519840854243": {
     "product_title": "Haritha Nagas Jada Billa",
