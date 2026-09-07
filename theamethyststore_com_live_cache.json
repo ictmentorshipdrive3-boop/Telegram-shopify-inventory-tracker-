@@ -2306,11 +2306,11 @@
   "gid://shopify/ProductVariant/46463326617827": {
     "product_title": "Merlin Stone Pair Bangles",
     "variant_title": "2.4\"",
-    "sku": "AMS-107-0642-2.4",
-    "price": 12666.0,
-    "stock": 2,
+    "sku": "AMS-107-0642-2.4\"",
+    "price": 25332.0,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/merlin-stone-pair-bangles?variant=gid://shopify/ProductVariant/46463326617827",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-107-0642.jpg?v=1662273609"
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-0642_634148ab-e1c1-4036-be79-cf0601b91553.jpg?v=1788766773"
   },
   "gid://shopify/ProductVariant/43303861813475": {
     "product_title": "Stunning Beads Maangtikka",
@@ -5772,7 +5772,7 @@
     "product_title": "Fish Hook Back Chain",
     "variant_title": "8.5 Inches",
     "sku": "AMS-119-0001",
-    "price": 5000.0,
+    "price": 4700.0,
     "stock": 32,
     "url": "https://www.theamethyststore.com/products/fish-hook-back-chain?variant=gid://shopify/ProductVariant/49696072597731",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_21dbdd2e-d30a-4019-816f-52833d641d9a.jpg?v=1693456844"
@@ -19703,11 +19703,11 @@
   "gid://shopify/ProductVariant/46347996725475": {
     "product_title": "Tanisha Stone Pair Bangle",
     "variant_title": "2.4\"",
-    "sku": "AMS-107-1953-2.4",
-    "price": 14300.0,
-    "stock": 2,
+    "sku": "AMS-107-1953-2.4\"",
+    "price": 28600.0,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/tanisha-stone-pair-bangle?variant=gid://shopify/ProductVariant/46347996725475",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1953.jpg?v=1747975146"
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1953_350b1274-b9fa-4f5e-a383-1f6163e14c75.jpg?v=1788766900"
   },
   "gid://shopify/ProductVariant/46348009144547": {
     "product_title": "Brindhasri Kundan Pair Bangle",
@@ -39440,11 +39440,11 @@
   "gid://shopify/ProductVariant/47216849715427": {
     "product_title": "Rustic Glam Oxidised Pair Bangles",
     "variant_title": "2.6\"",
-    "sku": "AMS-107-2365-2.6\"",
-    "price": 25895.0,
-    "stock": 2,
+    "sku": "AMS-107-2365-2.6",
+    "price": 51789.0,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/rustic-glam-oxidised-pair-bangles?variant=gid://shopify/ProductVariant/47216849715427",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2365.jpg?v=1759124534"
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2365_7fabbf27-c9f4-4ee4-9b98-21878fa32ab8.jpg?v=1788766816"
   },
   "gid://shopify/ProductVariant/47217559240931": {
     "product_title": "Nadhiya Nagas Ring",
@@ -71472,7 +71472,7 @@
     "product_title": "Gleaming Stone Pair Bangles",
     "variant_title": "2.6\"",
     "sku": "AMS-107-3156-2.6\"",
-    "price": 23999.0,
+    "price": 24967.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/gleaming-stone-pair-bangles?variant=gid://shopify/ProductVariant/48965753733347",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3156_2.jpg?v=1778848145"
@@ -108026,6 +108026,33 @@
     "url": "https://www.theamethyststore.com/products/goddess-like-nagas-short-necklace?variant=gid://shopify/ProductVariant/49699843440867",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17837.jpg?v=1788765991"
   },
+  "gid://shopify/ProductVariant/49699860873443": {
+    "product_title": "Richly Decorated Stone Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17838",
+    "price": 26640.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/richly-decorated-stone-short-necklace?variant=gid://shopify/ProductVariant/49699860873443",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17838.jpg?v=1788766326"
+  },
+  "gid://shopify/ProductVariant/49699879125219": {
+    "product_title": "Finely Crafted Stone Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17839",
+    "price": 25360.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/finely-crafted-stone-short-necklace?variant=gid://shopify/ProductVariant/49699879125219",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17839.jpg?v=1788766752"
+  },
+  "gid://shopify/ProductVariant/49699907993827": {
+    "product_title": "Graceful and Warm Stone Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17840",
+    "price": 28530.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/graceful-and-warm-stone-short-necklace?variant=gid://shopify/ProductVariant/49699907993827",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17840.jpg?v=1788767061"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -108772,15 +108799,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nethra-stone-pair-bangles?variant=gid://shopify/ProductVariant/46403395158243",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-0641-_2.jpg?v=1734707194"
-  },
-  "gid://shopify/ProductVariant/44128487375075": {
-    "product_title": "Merlin Stone Pair Bangles",
-    "variant_title": "2.6\"",
-    "sku": "AMS-107-0642-2.6\"",
-    "price": 23616.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/merlin-stone-pair-bangles?variant=gid://shopify/ProductVariant/44128487375075",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-107-0642.jpg?v=1662273609"
   },
   "gid://shopify/ProductVariant/43320604328163": {
     "product_title": "Cristy Studs",
@@ -124860,7 +124878,7 @@
     "product_title": "Shervin Nagas Pair Bangles",
     "variant_title": "2.8\"",
     "sku": "AMS-107-3197-2.8\"",
-    "price": 43334.0,
+    "price": 43434.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nagas-pair-bangles-17?variant=gid://shopify/ProductVariant/48966221725923",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3197_3144c34c-cdc9-493b-b30a-a8e6fb8b1d9f.jpg?v=1778853419"
@@ -127371,7 +127389,7 @@
     "product_title": "Nishanthi Stone Pair Bangles",
     "variant_title": "2.4\"",
     "sku": "AMS-107-3254-2.4\"",
-    "price": 29043.0,
+    "price": 29170.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangles-21?variant=gid://shopify/ProductVariant/49301491253475",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3254_2.jpg?v=1782284393"
