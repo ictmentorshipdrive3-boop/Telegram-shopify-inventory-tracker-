@@ -4004,15 +4004,6 @@
     "url": "https://www.dulhanjewels.com/products/temple-beads-necklace-with-laxmi-devi-center-and-green-drops?variant=gid://shopify/ProductVariant/51071760793906",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/5AFCE4A7-C412-427D-AE22-4D9A0CFF13AA.jpg?v=1776512402"
   },
-  "gid://shopify/ProductVariant/51076769087794": {
-    "product_title": "Floral Jadau Kundan Stud Earrings with Pearl Bordering",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1000.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/floral-jadau-kundan-stud-earrings-with-pearl-bordering?variant=gid://shopify/ProductVariant/51076769087794",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/F04EA3DE-F38E-48C2-A6FF-52E29E180AB9.jpg?v=1776772409"
-  },
   "gid://shopify/ProductVariant/51076770005298": {
     "product_title": "Bridal Lakshmi Haram Necklace With Peacock Design And Emerald Beads",
     "variant_title": "Default Title",
@@ -6236,15 +6227,6 @@
     "url": "https://www.dulhanjewels.com/products/floral-design-moissanite-polki-long-necklace?variant=gid://shopify/ProductVariant/51674323714354",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/F273866F-287B-45FB-8DF1-289C53D2DE08.jpg?v=1787997960"
   },
-  "gid://shopify/ProductVariant/51674333741362": {
-    "product_title": "Jadau Kundan Pearl Choker With Emerald Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1300.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/jadau-kundan-pearl-choker-with-emerald-drops?variant=gid://shopify/ProductVariant/51674333741362",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/50BDABE6-8E20-44EE-B03E-EB30981476E0.jpg?v=1787998242"
-  },
   "gid://shopify/ProductVariant/51674342195506": {
     "product_title": "Royal Polki Pendant With Green Emerald And Pearl Drops",
     "variant_title": "Default Title",
@@ -7937,6 +7919,15 @@
     "url": "https://www.dulhanjewels.com/products/elegant-jadau-kundan-pearl-choker-with-emerald-centerpiece?variant=gid://shopify/ProductVariant/51076488331570",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/C0FF5403-5EC6-4128-AEE5-62DBD710A335.jpg?v=1776768968"
   },
+  "gid://shopify/ProductVariant/51076769087794": {
+    "product_title": "Floral Jadau Kundan Stud Earrings with Pearl Bordering",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1000.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/floral-jadau-kundan-stud-earrings-with-pearl-bordering?variant=gid://shopify/ProductVariant/51076769087794",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/F04EA3DE-F38E-48C2-A6FF-52E29E180AB9.jpg?v=1776772409"
+  },
   "gid://shopify/ProductVariant/51090428789042": {
     "product_title": "Designer Jadau Kundan Bangle With Floral Pattern",
     "variant_title": "2-4",
@@ -8179,5 +8170,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/royal-jadau-kundan-choker-with-strawberry-beads?variant=gid://shopify/ProductVariant/51634769101106",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0355.jpg?v=1787560667"
+  },
+  "gid://shopify/ProductVariant/51674333741362": {
+    "product_title": "Jadau Kundan Pearl Choker With Emerald Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1300.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/jadau-kundan-pearl-choker-with-emerald-drops?variant=gid://shopify/ProductVariant/51674333741362",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/50BDABE6-8E20-44EE-B03E-EB30981476E0.jpg?v=1787998242"
   }
 }
