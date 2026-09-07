@@ -58,7 +58,7 @@
     "variant_title": "Default Title",
     "sku": "58",
     "price": 1799.0,
-    "stock": 15,
+    "stock": 14,
     "url": "https://www.daivik.in/products/58?variant=gid://shopify/ProductVariant/32600841584699",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG-20191220-213907-605.jpg?v=1583699464"
   },
@@ -3946,7 +3946,7 @@
     "variant_title": "Default Title",
     "sku": "580",
     "price": 1299.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/simple-kemp-adigai-in-2-colours?variant=gid://shopify/ProductVariant/46111832441054",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_f0baa76e-b0ec-42e9-9f9c-9245b0e962aa.heic?v=1686235649"
   },
@@ -5773,7 +5773,7 @@
     "variant_title": "Default Title",
     "sku": "535",
     "price": 1499.0,
-    "stock": 44,
+    "stock": 43,
     "url": "https://www.daivik.in/products/simple-pastel-green-premium-beads-choker-with-earrings?variant=gid://shopify/ProductVariant/44648110260446",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BFFDAB1C-F725-4707-B32A-B4A504AF4C09.jpg?v=1704467125"
   },
@@ -11195,15 +11195,6 @@
     "url": "https://www.daivik.in/products/ad-stone-bangles-price-for-a-pair?variant=gid://shopify/ProductVariant/46401150255326",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3679.heic?v=1742104840"
   },
-  "gid://shopify/ProductVariant/46408690467038": {
-    "product_title": "Antique Coral Teeka (Price for Each)",
-    "variant_title": "3",
-    "sku": "1580",
-    "price": 1099.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/antique-coral-teeka-price-for-each?variant=gid://shopify/ProductVariant/46408690467038",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/87AC5702-23D9-46A9-B302-58D097BB6928.jpg?v=1742136772"
-  },
   "gid://shopify/ProductVariant/46451836977374": {
     "product_title": "Lotus Pearl Anklets",
     "variant_title": "Default Title",
@@ -12469,7 +12460,7 @@
     "variant_title": "Default Title",
     "sku": "1286",
     "price": 599.0,
-    "stock": 22,
+    "stock": 21,
     "url": "https://www.daivik.in/products/lakshmi-coin-chain?variant=gid://shopify/ProductVariant/47042689433822",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0076DA59-97D2-403B-B4DE-3FD7466C64AE.jpg?v=1751086512"
   },
@@ -17824,7 +17815,7 @@
     "variant_title": "Default Title",
     "sku": "1808",
     "price": 499.0,
-    "stock": 44,
+    "stock": 43,
     "url": "https://www.daivik.in/products/antique-jadau-heart-earrings?variant=gid://shopify/ProductVariant/47896879890654",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B921DEAD-1985-4F45-9CF0-59102A97E49F.jpg?v=1770982839"
   },
@@ -27420,6 +27411,15 @@
     "price": 1099.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-coral-teeka-price-for-each?variant=gid://shopify/ProductVariant/46408690434270",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/87AC5702-23D9-46A9-B302-58D097BB6928.jpg?v=1742136772"
+  },
+  "gid://shopify/ProductVariant/46408690467038": {
+    "product_title": "Antique Coral Teeka (Price for Each)",
+    "variant_title": "3",
+    "sku": "1580",
+    "price": 1099.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/antique-coral-teeka-price-for-each?variant=gid://shopify/ProductVariant/46408690467038",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/87AC5702-23D9-46A9-B302-58D097BB6928.jpg?v=1742136772"
   },
   "gid://shopify/ProductVariant/46408690499806": {
