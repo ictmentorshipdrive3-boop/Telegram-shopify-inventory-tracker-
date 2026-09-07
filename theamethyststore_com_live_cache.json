@@ -19318,7 +19318,7 @@
     "variant_title": "Default Title",
     "sku": "ams-110-test",
     "price": 9.94,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/test-sku-10?variant=gid://shopify/ProductVariant/46301345022179",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/pngtree-best-quality-label-with-gold-stripe-png-image_2338284.jpg?v=1721023980"
   },
@@ -70505,15 +70505,6 @@
     "url": "https://www.theamethyststore.com/products/shubhra-kundan-bracelet?variant=gid://shopify/ProductVariant/48929121796323",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1251_2.jpg?v=1778394659"
   },
-  "gid://shopify/ProductVariant/48929122320611": {
-    "product_title": "Charming Hook Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-13735",
-    "price": 4651.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/charming-hook-earrings?variant=gid://shopify/ProductVariant/48929122320611",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13735.jpg?v=1778396108"
-  },
   "gid://shopify/ProductVariant/48929134215395": {
     "product_title": "Srikala Kundan Bracelet",
     "variant_title": "Default Title",
@@ -108071,6 +108062,33 @@
     "url": "https://www.theamethyststore.com/products/catches-attention-nagas-short-necklace?variant=gid://shopify/ProductVariant/49699720986851",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17829.jpg?v=1788762302"
   },
+  "gid://shopify/ProductVariant/49699744907491": {
+    "product_title": "Graceful Legacy Stone Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17830",
+    "price": 33150.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/graceful-legacy-stone-short-necklace?variant=gid://shopify/ProductVariant/49699744907491",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17830.jpg?v=1788763510"
+  },
+  "gid://shopify/ProductVariant/49699764207843": {
+    "product_title": "Timeless Radiance Stone Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17831",
+    "price": 25840.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/timeless-radiance-stone-short-necklace?variant=gid://shopify/ProductVariant/49699764207843",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17831.jpg?v=1788763875"
+  },
+  "gid://shopify/ProductVariant/49699770695907": {
+    "product_title": "Immediately Impactful Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17832",
+    "price": 36480.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/immediately-impactful-nagas-short-necklace?variant=gid://shopify/ProductVariant/49699770695907",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17832.jpg?v=1788764213"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -124342,6 +124360,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/colourful-charm-hook-earrings?variant=gid://shopify/ProductVariant/48929121370339",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13731.jpg?v=1778394479"
+  },
+  "gid://shopify/ProductVariant/48929122320611": {
+    "product_title": "Charming Hook Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-13735",
+    "price": 4651.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/charming-hook-earrings?variant=gid://shopify/ProductVariant/48929122320611",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13735.jpg?v=1778396108"
   },
   "gid://shopify/ProductVariant/48929175306467": {
     "product_title": "Floral Drops Hook Earrings",
