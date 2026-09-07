@@ -6169,7 +6169,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-5066",
     "price": 7000.0,
-    "stock": 1,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/charmi-studs?variant=gid://shopify/ProductVariant/44038840254691",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5066.jpg?v=1697006793"
   },
@@ -30760,6 +30760,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/sparkle-charms-drop-earrings?variant=gid://shopify/ProductVariant/47049028796643",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9198.jpg?v=1755859068"
+  },
+  "gid://shopify/ProductVariant/47049063104739": {
+    "product_title": "Cute Floral Drop Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-9194",
+    "price": 9600.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/cute-floral-drop-earrings?variant=gid://shopify/ProductVariant/47049063104739",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9194.jpg?v=1755859186"
   },
   "gid://shopify/ProductVariant/47049067430115": {
     "product_title": "Little Cute Drop Earrings",
@@ -114973,15 +114982,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/floral-drop-earrings?variant=gid://shopify/ProductVariant/47049002156259",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9201.jpg?v=1755858908"
-  },
-  "gid://shopify/ProductVariant/47049063104739": {
-    "product_title": "Cute Floral Drop Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-9194",
-    "price": 9600.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/cute-floral-drop-earrings?variant=gid://shopify/ProductVariant/47049063104739",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9194.jpg?v=1755859186"
   },
   "gid://shopify/ProductVariant/47056160620771": {
     "product_title": "Viashni Kundan Choker",
