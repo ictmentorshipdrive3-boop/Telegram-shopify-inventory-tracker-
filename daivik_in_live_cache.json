@@ -157,7 +157,7 @@
     "variant_title": "Default Title",
     "sku": "159",
     "price": 1799.0,
-    "stock": 13,
+    "stock": 12,
     "url": "https://www.daivik.in/products/159?variant=gid://shopify/ProductVariant/32849495556155",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_0009.jpg?v=1584719871"
   },
@@ -11407,7 +11407,7 @@
     "variant_title": "Green",
     "sku": "1588",
     "price": 999.0,
-    "stock": 48,
+    "stock": 47,
     "url": "https://www.daivik.in/products/simple-ad-pearl-side-chain-in-4-colors-price-for-a-pair?variant=gid://shopify/ProductVariant/46584049795294",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/38BE878C-5CD2-4983-97FA-9910A84E6C49.jpg?v=1744032655"
   },
@@ -11686,7 +11686,7 @@
     "variant_title": "Ruby Green",
     "sku": "1599",
     "price": 1199.0,
-    "stock": 33,
+    "stock": 32,
     "url": "https://www.daivik.in/products/parrot-pure-kemp-jadau-bugadi?variant=gid://shopify/ProductVariant/46641582538974",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/08372EEF-2851-452C-87DE-182BB012BE15.jpg?v=1745679366"
   },
@@ -20977,15 +20977,6 @@
     "stock": 15,
     "url": "https://www.daivik.in/products/manga-pure-kemp-brass-earrings?variant=gid://shopify/ProductVariant/48550210273502",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4891DBA9-A6F9-450D-BAB6-A69C94E80743.jpg?v=1785928507"
-  },
-  "gid://shopify/ProductVariant/48550497583326": {
-    "product_title": "Simple AD Green Pendant Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "1150",
-    "price": 799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/simple-ad-green-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48550497583326",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/652C9996-8E2A-40F9-87B5-3C976003D04F.jpg?v=1785942584"
   },
   "gid://shopify/ProductVariant/48555218370782": {
     "product_title": "Moissanite Simple Droplet Necklace with Studs in 3 colours",
@@ -30706,6 +30697,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/heritage-watch-bracelet-14?variant=gid://shopify/ProductVariant/48547820536030",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5652.jpg?v=1785854130"
+  },
+  "gid://shopify/ProductVariant/48550497583326": {
+    "product_title": "Simple AD Green Pendant Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "1150",
+    "price": 799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/simple-ad-green-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48550497583326",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/652C9996-8E2A-40F9-87B5-3C976003D04F.jpg?v=1785942584"
   },
   "gid://shopify/ProductVariant/48586872553694": {
     "product_title": "Simple Lotus Pendant Necklace with Earrings",
