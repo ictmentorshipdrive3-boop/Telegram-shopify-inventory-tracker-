@@ -5782,7 +5782,7 @@
     "variant_title": "8.5 Inches",
     "sku": "AMS-119-0001",
     "price": 4700.0,
-    "stock": 30,
+    "stock": 29,
     "url": "https://www.theamethyststore.com/products/fish-hook-back-chain?variant=gid://shopify/ProductVariant/49696072597731",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_21dbdd2e-d30a-4019-816f-52833d641d9a.jpg?v=1693456844"
   },
@@ -24772,7 +24772,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-1051",
     "price": 4249.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/attractive-floral-kundan-ring?variant=gid://shopify/ProductVariant/46839568859363",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1051.jpg?v=1752216335"
   },
@@ -29023,15 +29023,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/eshara-stone-jhumkas?variant=gid://shopify/ProductVariant/47032761811171",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9932.jpg?v=1755510575"
-  },
-  "gid://shopify/ProductVariant/47032770265315": {
-    "product_title": "Carolin Stone Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-9948",
-    "price": 10961.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/carolin-stone-jhumkas?variant=gid://shopify/ProductVariant/47032770265315",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9948.jpg?v=1755511030"
   },
   "gid://shopify/ProductVariant/47032772591843": {
     "product_title": "Lishara Stone Jhumkas",
@@ -43636,7 +43627,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-10656",
     "price": 22561.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/catchy-kundan-jhumkas?variant=gid://shopify/ProductVariant/47393148895459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10656.jpg?v=1761384712"
   },
@@ -65362,7 +65353,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-15176",
     "price": 7000.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/aarohi-hasli-necklace?variant=gid://shopify/ProductVariant/48762705412323",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15176.jpg?v=1775820920"
   },
@@ -114676,6 +114667,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/prishika-stone-jhumkas?variant=gid://shopify/ProductVariant/47032763810019",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9936.jpg?v=1755510714"
+  },
+  "gid://shopify/ProductVariant/47032770265315": {
+    "product_title": "Carolin Stone Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-9948",
+    "price": 10961.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/carolin-stone-jhumkas?variant=gid://shopify/ProductVariant/47032770265315",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9948.jpg?v=1755511030"
   },
   "gid://shopify/ProductVariant/47032812798179": {
     "product_title": "Attractive Stone Jhumkas",
