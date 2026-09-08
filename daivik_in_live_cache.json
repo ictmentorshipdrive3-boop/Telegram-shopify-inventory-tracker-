@@ -6556,7 +6556,7 @@
     "variant_title": "Default Title",
     "sku": "855",
     "price": 999.0,
-    "stock": 18,
+    "stock": 3,
     "url": "https://www.daivik.in/products/simple-copper-pearl-necklace-with-earrings?variant=gid://shopify/ProductVariant/45158978093278",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/10FBB2F6-B0C5-408A-BD02-F523E5B50F7E.jpg?v=1713026655"
   },
@@ -6736,7 +6736,7 @@
     "variant_title": "Default Title",
     "sku": "854",
     "price": 2599.0,
-    "stock": 41,
+    "stock": 40,
     "url": "https://www.daivik.in/products/ad-purple-designer-necklace-with-earrings?variant=gid://shopify/ProductVariant/45285782716638",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_c22ddb94-6818-4d70-aa62-f487e6b85907.heic?v=1714230365"
   },
@@ -7168,7 +7168,7 @@
     "variant_title": "Purple",
     "sku": "407",
     "price": 1899.0,
-    "stock": 56,
+    "stock": 1,
     "url": "https://www.daivik.in/products/lakshmi-hasli-necklace-with-balis?variant=gid://shopify/ProductVariant/45553293066462",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7CF7427E-3DF1-45D3-8D5E-580CE49F70A9.jpg?v=1718377093"
   },
@@ -7879,7 +7879,7 @@
     "variant_title": "Default Title",
     "sku": "436",
     "price": 649.0,
-    "stock": 35,
+    "stock": 34,
     "url": "https://www.daivik.in/products/3d-flower-choker-necklace-with-earrings?variant=gid://shopify/ProductVariant/45871027224798",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/63AEDF18-24B0-4B14-A473-2FB07D12F0B1.jpg?v=1725796346"
   },
@@ -10633,7 +10633,7 @@
     "variant_title": "Default Title",
     "sku": "1216",
     "price": 699.0,
-    "stock": 47,
+    "stock": 46,
     "url": "https://www.daivik.in/products/ad-hasli-ruby-green-necklace-with-balis?variant=gid://shopify/ProductVariant/46285166837982",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1BCD5492-A557-4AD2-B765-B7F0B3AF0179.jpg?v=1780728443"
   },
@@ -11401,15 +11401,6 @@
     "stock": 1,
     "url": "https://www.daivik.in/products/simple-pendant-ruby-green-hasli-necklace-with-earrings?variant=gid://shopify/ProductVariant/46583087268062",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1D0A51CF-E619-4607-A99B-7E846F328A70.jpg?v=1744006777"
-  },
-  "gid://shopify/ProductVariant/46584049762526": {
-    "product_title": "Simple Kemp Pearl Side Chain / Mattal in 4 Colors (Price for a Pair)",
-    "variant_title": "Ruby Green",
-    "sku": "1588",
-    "price": 999.0,
-    "stock": 13,
-    "url": "https://www.daivik.in/products/simple-ad-pearl-side-chain-in-4-colors-price-for-a-pair?variant=gid://shopify/ProductVariant/46584049762526",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/38BE878C-5CD2-4983-97FA-9910A84E6C49.jpg?v=1744032655"
   },
   "gid://shopify/ProductVariant/46584049795294": {
     "product_title": "Simple Kemp Pearl Side Chain / Mattal in 4 Colors (Price for a Pair)",
@@ -27474,6 +27465,15 @@
     "price": 999.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/simple-ad-pearl-side-chain-in-4-colors-price-for-a-pair?variant=gid://shopify/ProductVariant/46584049729758",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/38BE878C-5CD2-4983-97FA-9910A84E6C49.jpg?v=1744032655"
+  },
+  "gid://shopify/ProductVariant/46584049762526": {
+    "product_title": "Simple Kemp Pearl Side Chain / Mattal in 4 Colors (Price for a Pair)",
+    "variant_title": "Ruby Green",
+    "sku": "1588",
+    "price": 999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/simple-ad-pearl-side-chain-in-4-colors-price-for-a-pair?variant=gid://shopify/ProductVariant/46584049762526",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/38BE878C-5CD2-4983-97FA-9910A84E6C49.jpg?v=1744032655"
   },
   "gid://shopify/ProductVariant/46592721748190": {
