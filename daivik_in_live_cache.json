@@ -4252,7 +4252,7 @@
     "variant_title": "Default Title",
     "sku": "193",
     "price": 1399.0,
-    "stock": 8,
+    "stock": 10,
     "url": "https://www.daivik.in/products/simple-3d-antique-teeka?variant=gid://shopify/ProductVariant/44265001812190",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_2a84503b-cc90-4d15-8481-2afb5e6fbfdb.heic?v=1689083540"
   },
@@ -6511,7 +6511,7 @@
     "variant_title": "Default Title",
     "sku": "559",
     "price": 499.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/five-layered-pearl-mala?variant=gid://shopify/ProductVariant/45118408720606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0D90D567-5262-4FC7-8E74-83B341E15D3A.jpg?v=1712766577"
   },
@@ -20011,7 +20011,7 @@
     "variant_title": "2.4",
     "sku": "1906",
     "price": 3199.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/ad-ruby-pearl-floral-combo?variant=gid://shopify/ProductVariant/48315170881758",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6BB7EEE1-75CA-4229-8BFB-F555807A583C.jpg?v=1780914224"
   },
@@ -21148,15 +21148,6 @@
     "stock": 19,
     "url": "https://www.daivik.in/products/ad-hanging-pendants-earcuff-in-2-colors-price-for-each?variant=gid://shopify/ProductVariant/48597123301598",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1249.jpg?v=1786618747"
-  },
-  "gid://shopify/ProductVariant/48602139918558": {
-    "product_title": "Pure Kemp Brass Kemp Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "249",
-    "price": 3999.0,
-    "stock": 3,
-    "url": "https://www.daivik.in/products/bridal-pure-kemp-brass-kemp-necklace-with-earrings?variant=gid://shopify/ProductVariant/48602139918558",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1172.jpg?v=1786722333"
   },
   "gid://shopify/ProductVariant/48604346908894": {
     "product_title": "Peacock Real look Alike Foam Hair Accessory/ Hair Clip",
@@ -30742,6 +30733,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/kemp-hasli-necklace-with-earrings?variant=gid://shopify/ProductVariant/48597722071262",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1276.jpg?v=1786640859"
+  },
+  "gid://shopify/ProductVariant/48602139918558": {
+    "product_title": "Pure Kemp Brass Kemp Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "249",
+    "price": 3999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/bridal-pure-kemp-brass-kemp-necklace-with-earrings?variant=gid://shopify/ProductVariant/48602139918558",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1172.jpg?v=1786722333"
   },
   "gid://shopify/ProductVariant/48623898886366": {
     "product_title": "Pearl Kemp Floral Droplet Balis",
