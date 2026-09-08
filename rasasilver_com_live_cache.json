@@ -778,7 +778,7 @@
     "variant_title": "Default Title",
     "sku": "R15799",
     "price": 3060.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/rasi-kala-studs-1?variant=gid://shopify/ProductVariant/50140400288041",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/26_8f0a19db-0ca2-43dc-a019-d6e169d00fbf.jpg?v=1743766326"
   },
@@ -787,7 +787,7 @@
     "variant_title": "Default Title",
     "sku": "R20335",
     "price": 2550.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/aryanath-studs?variant=gid://shopify/ProductVariant/50140457992489",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/28.2.jpg?v=1743767212"
   },
@@ -841,7 +841,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R11812",
     "price": 3655.0,
-    "stock": 4,
+    "stock": 5,
     "url": "https://www.rasasilver.com/products/the-rosary-studs?variant=gid://shopify/ProductVariant/50869167980841",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06486_copy.jpg?v=1744184967"
   },
@@ -2569,7 +2569,7 @@
     "variant_title": "Default Title",
     "sku": "R11729",
     "price": 3485.0,
-    "stock": 26,
+    "stock": 27,
     "url": "https://www.rasasilver.com/products/green-whisper-studs-1?variant=gid://shopify/ProductVariant/50478674411817",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Screenshot2025-04-20145843_119af41a-4086-405f-be19-59f97a7bb520.png?v=1749455078"
   },
@@ -3253,7 +3253,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R17311",
     "price": 3230.0,
-    "stock": 7,
+    "stock": 9,
     "url": "https://www.rasasilver.com/products/ovalor-ring?variant=gid://shopify/ProductVariant/51472177692969",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-4_fa47e820-d992-4a21-9676-4bf4a013aa89.jpg?v=1754311672"
   },
@@ -3289,7 +3289,7 @@
     "variant_title": "GREEN",
     "sku": "R17369",
     "price": 3060.0,
-    "stock": 7,
+    "stock": 8,
     "url": "https://www.rasasilver.com/products/smaragda-spark-ring?variant=gid://shopify/ProductVariant/51471916794153",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_0484a4ff-0b8b-4858-bb16-14d9605b1153.jpg?v=1754311252"
   },
@@ -3298,7 +3298,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R17301",
     "price": 3060.0,
-    "stock": 3,
+    "stock": 5,
     "url": "https://www.rasasilver.com/products/smaragda-spark-ring?variant=gid://shopify/ProductVariant/51471916826921",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_0484a4ff-0b8b-4858-bb16-14d9605b1153.jpg?v=1754311252"
   },
@@ -3391,6 +3391,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/ruce-bangles?variant=gid://shopify/ProductVariant/50711350411561",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2_9f82992a-8ae1-4e3c-a620-d26cc52b5bf3.jpg?v=1754639583"
+  },
+  "gid://shopify/ProductVariant/50711367385385": {
+    "product_title": "Manohari Panna Studs",
+    "variant_title": "Default Title",
+    "sku": "R15910",
+    "price": 2465.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/manohari-panna-studs?variant=gid://shopify/ProductVariant/50711367385385",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-6_8c1371bb-4309-4270-8382-a9ab434bba7c.jpg?v=1754912079"
   },
   "gid://shopify/ProductVariant/50711370498345": {
     "product_title": "Harita Mahalaxmi Mini Choker",
@@ -3496,7 +3505,7 @@
     "variant_title": "Default Title",
     "sku": "R20374",
     "price": 1785.0,
-    "stock": 15,
+    "stock": 17,
     "url": "https://www.rasasilver.com/products/35?variant=gid://shopify/ProductVariant/50712002330921",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_723b0375-1d76-4ccb-a761-ebd44e7148dd.jpg?v=1754916327"
   },
@@ -3509,12 +3518,21 @@
     "url": "https://www.rasasilver.com/products/rubiflora-necklace?variant=gid://shopify/ProductVariant/50716403302697",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_2995700a-cba1-4879-8faa-3b26461db923.jpg?v=1754573198"
   },
+  "gid://shopify/ProductVariant/50777145082153": {
+    "product_title": "Ambar Emerald Bliss Stud Earrings",
+    "variant_title": "Ruby Pink",
+    "sku": "R15986",
+    "price": 2380.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/ambar-emerald-bliss-studs?variant=gid://shopify/ProductVariant/50777145082153",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_3c8b3bc1-8f22-4b8c-aa4b-113cf8f921a0.jpg?v=1754911181"
+  },
   "gid://shopify/ProductVariant/50716648210729": {
     "product_title": "Anvitha Anuraag Studs",
     "variant_title": "Default Title",
     "sku": "R15911",
     "price": 3825.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/anvitha-anuraag-studs?variant=gid://shopify/ProductVariant/50716648210729",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-5_8c18266c-8a8c-4409-adf6-1445f4b3a6b0.jpg?v=1754911795"
   },
@@ -3955,7 +3973,7 @@
     "variant_title": "Default Title",
     "sku": "R17386",
     "price": 3485.0,
-    "stock": 7,
+    "stock": 8,
     "url": "https://www.rasasilver.com/products/devi-chakra-studs?variant=gid://shopify/ProductVariant/50777351586089",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_60.jpg?v=1759214218"
   },
@@ -4099,7 +4117,7 @@
     "variant_title": "Default Title",
     "sku": "R11743",
     "price": 3060.0,
-    "stock": 8,
+    "stock": 9,
     "url": "https://www.rasasilver.com/products/ovalika-danglers?variant=gid://shopify/ProductVariant/50808249778473",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2542.jpg?v=1756538914"
   },
@@ -4162,7 +4180,7 @@
     "variant_title": "Green",
     "sku": "R11762",
     "price": 1615.0,
-    "stock": 6,
+    "stock": 9,
     "url": "https://www.rasasilver.com/products/emerovia-pendant?variant=gid://shopify/ProductVariant/50809107087657",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2606.jpg?v=1756541009"
   },
@@ -4180,7 +4198,7 @@
     "variant_title": "Default Title",
     "sku": "R20505",
     "price": 3570.0,
-    "stock": 8,
+    "stock": 9,
     "url": "https://www.rasasilver.com/products/navarya-ring?variant=gid://shopify/ProductVariant/50809191727401",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2616.jpg?v=1756543638"
   },
@@ -4207,7 +4225,7 @@
     "variant_title": "Default Title",
     "sku": "R11732",
     "price": 3655.0,
-    "stock": 5,
+    "stock": 6,
     "url": "https://www.rasasilver.com/products/emerael-halo-studs?variant=gid://shopify/ProductVariant/50809355796777",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2435.jpg?v=1756538233"
   },
@@ -4687,6 +4705,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/crystal-mehreen-maang-tikka?variant=gid://shopify/ProductVariant/50839509827881",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug46953.jpg?v=1756882964"
+  },
+  "gid://shopify/ProductVariant/50839815356713": {
+    "product_title": "Moissa Rosavive Ring",
+    "variant_title": "Default Title",
+    "sku": "R12342",
+    "price": 5865.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/moissa-rosavive-ring?variant=gid://shopify/ProductVariant/50839815356713",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug47031.jpg?v=1756883526"
   },
   "gid://shopify/ProductVariant/50839924015401": {
     "product_title": "Sapphire Petalia Necklace Set",
@@ -5723,6 +5750,15 @@
     "url": "https://www.rasasilver.com/products/studs-24?variant=gid://shopify/ProductVariant/51350134784297",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS548.jpg?v=1761285388"
   },
+  "gid://shopify/ProductVariant/52291044311337": {
+    "product_title": "Mirvanki Stone Ring",
+    "variant_title": "Default Title",
+    "sku": "R25935",
+    "price": 1700.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/ring-21?variant=gid://shopify/ProductVariant/52291044311337",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0073_copy.jpg?v=1761283433"
+  },
   "gid://shopify/ProductVariant/51350170468649": {
     "product_title": "Ruvanya Stone Ring",
     "variant_title": "Ruby Pink / 12",
@@ -6397,6 +6433,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/samira-kundan-necklace?variant=gid://shopify/ProductVariant/51418462552361",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct3400_resized.jpg?v=1762256672"
+  },
+  "gid://shopify/ProductVariant/51418575667497": {
+    "product_title": "Aurora Leaflets Studs",
+    "variant_title": "Default Title",
+    "sku": "R15899",
+    "price": 2805.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/aurora-leaflets-studs?variant=gid://shopify/ProductVariant/51418575667497",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0155copy_1.jpg?v=1761377378"
   },
   "gid://shopify/ProductVariant/51418895810857": {
     "product_title": "Smera Aam Haar Necklaces",
@@ -7222,7 +7267,7 @@
     "variant_title": "Default Title",
     "sku": "R17408",
     "price": 3145.0,
-    "stock": 5,
+    "stock": 6,
     "url": "https://www.rasasilver.com/products/golden-thread-studs?variant=gid://shopify/ProductVariant/51488627884329",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0105copy_resized_1.jpg?v=1777283594"
   },
@@ -8707,7 +8752,7 @@
     "variant_title": "Default Title",
     "sku": "R18541",
     "price": 39950.0,
-    "stock": 4,
+    "stock": 5,
     "url": "https://www.rasasilver.com/products/ovaliquea-spark-necklace-set-copy-1?variant=gid://shopify/ProductVariant/51871269454121",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2366_resized.jpg?v=1763463920"
   },
@@ -9013,7 +9058,7 @@
     "variant_title": "Swarovski / 12",
     "sku": "R16688",
     "price": 3655.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/blumira-ring?variant=gid://shopify/ProductVariant/52166946292009",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0071copy_resized_8c8e434c-9a73-43b7-8efd-7199dadf4fe2.jpg?v=1763969963"
   },
@@ -9079,6 +9124,15 @@
     "stock": 3,
     "url": "https://www.rasasilver.com/products/rosalya-ring?variant=gid://shopify/ProductVariant/52166987940137",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0045copy_resized.jpg?v=1763971241"
+  },
+  "gid://shopify/ProductVariant/52167125074217": {
+    "product_title": "Ruby Florin Stud Earrings",
+    "variant_title": "Ruby Pink",
+    "sku": "R16523",
+    "price": 9860.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/ruby-florin-studs?variant=gid://shopify/ProductVariant/52167125074217",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0044copy_resized.jpg?v=1763980151"
   },
   "gid://shopify/ProductVariant/52167125106985": {
     "product_title": "Ruby Florin Stud Earrings",
@@ -13840,6 +13894,15 @@
     "stock": 3,
     "url": "https://www.rasasilver.com/products/kiaraani-avaran-bangles?variant=gid://shopify/ProductVariant/52707665117481",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4073_jpg.jpg?v=1771324261"
+  },
+  "gid://shopify/ProductVariant/52680815968553": {
+    "product_title": "Avirika CZ Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "R23152",
+    "price": 23715.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/avirika-cz-pendant-set-copy?variant=gid://shopify/ProductVariant/52680815968553",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4479.jpg?v=1771330296"
   },
   "gid://shopify/ProductVariant/52680930099497": {
     "product_title": "Sri Balaji Temple Pendant",
@@ -19115,6 +19178,15 @@
     "url": "https://www.rasasilver.com/products/crystal-glimmer-cz-necklace?variant=gid://shopify/ProductVariant/53279769100585",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May1586_resized_jpg_06788588-5ebd-45e8-89e4-685c9fdd942a.jpg?v=1785737787"
   },
+  "gid://shopify/ProductVariant/53282509619497": {
+    "product_title": "Bloom Spark Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "R29486",
+    "price": 2125.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/bloom-spark-stone-studs?variant=gid://shopify/ProductVariant/53282509619497",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262369_resized.jpg?v=1782109792"
+  },
   "gid://shopify/ProductVariant/53282511913257": {
     "product_title": "Petal Swirl Stone Studs",
     "variant_title": "Default Title",
@@ -21680,6 +21752,15 @@
     "url": "https://www.rasasilver.com/products/lakshmi-sampat-temple-necklace?variant=gid://shopify/ProductVariant/53336891064617",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42299_resized.jpg?v=1784187314"
   },
+  "gid://shopify/ProductVariant/53336930582825": {
+    "product_title": "Pushpa Kirana Kundan Studs",
+    "variant_title": "Default Title",
+    "sku": "R32216",
+    "price": 9265.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/pushpa-kirana-kundan-studs?variant=gid://shopify/ProductVariant/53336930582825",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42437_resized.jpg?v=1784187858"
+  },
   "gid://shopify/ProductVariant/53336939430185": {
     "product_title": "Pearl Garden Kundan Stud Matil",
     "variant_title": "GREEN",
@@ -23431,7 +23512,7 @@
     "variant_title": "Default Title",
     "sku": "R33500",
     "price": 23000.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/peacock-stone-necklace?variant=gid://shopify/ProductVariant/53410018263337",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_41_107Pics0554.jpg?v=1786702033"
   },
@@ -24929,15 +25010,6 @@
     "url": "https://www.rasasilver.com/products/3-1?variant=gid://shopify/ProductVariant/50711294705961",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-11_76d6905a-e56d-4db1-aefa-0cc5d51f24b2.jpg?v=1754979837"
   },
-  "gid://shopify/ProductVariant/50711367385385": {
-    "product_title": "Manohari Panna Studs",
-    "variant_title": "Default Title",
-    "sku": "R15910",
-    "price": 2465.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/manohari-panna-studs?variant=gid://shopify/ProductVariant/50711367385385",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-6_8c1371bb-4309-4270-8382-a9ab434bba7c.jpg?v=1754912079"
-  },
   "gid://shopify/ProductVariant/50711387996457": {
     "product_title": "Patra Stone Stud Earrings",
     "variant_title": "Default Title",
@@ -25116,15 +25188,6 @@
     "price": 2465.0,
     "stock": 0,
     "url": "https://www.rasasilver.com/products/ambar-emerald-bliss-studs?variant=gid://shopify/ProductVariant/50777145049385",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_3c8b3bc1-8f22-4b8c-aa4b-113cf8f921a0.jpg?v=1754911181"
-  },
-  "gid://shopify/ProductVariant/50777145082153": {
-    "product_title": "Ambar Emerald Bliss Stud Earrings",
-    "variant_title": "Ruby Pink",
-    "sku": "R15986",
-    "price": 2380.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/ambar-emerald-bliss-studs?variant=gid://shopify/ProductVariant/50777145082153",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_3c8b3bc1-8f22-4b8c-aa4b-113cf8f921a0.jpg?v=1754911181"
   },
   "gid://shopify/ProductVariant/50716798976297": {
@@ -26233,15 +26296,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/sparklenite-studs?variant=gid://shopify/ProductVariant/50839814963497",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug47023.jpg?v=1756883785"
-  },
-  "gid://shopify/ProductVariant/50839815356713": {
-    "product_title": "Moissa Rosavive Ring",
-    "variant_title": "Default Title",
-    "sku": "R12342",
-    "price": 5865.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/moissa-rosavive-ring?variant=gid://shopify/ProductVariant/50839815356713",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug47031.jpg?v=1756883526"
   },
   "gid://shopify/ProductVariant/50839838228777": {
     "product_title": "Glowique Cz Short Necklace",
@@ -28070,15 +28124,6 @@
     "url": "https://www.rasasilver.com/products/ring-20?variant=gid://shopify/ProductVariant/52291047686441",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0065_copy.jpg?v=1761283330"
   },
-  "gid://shopify/ProductVariant/52291044311337": {
-    "product_title": "Mirvanki Stone Ring",
-    "variant_title": "Default Title",
-    "sku": "R25935",
-    "price": 1700.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/ring-21?variant=gid://shopify/ProductVariant/52291044311337",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0073_copy.jpg?v=1761283433"
-  },
   "gid://shopify/ProductVariant/51350170435881": {
     "product_title": "Ruvanya Stone Ring",
     "variant_title": "Green / 14",
@@ -29113,15 +29158,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/niraaya-kundan-kaankarela?variant=gid://shopify/ProductVariant/51418511835433",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0248_1.jpg?v=1762248991"
-  },
-  "gid://shopify/ProductVariant/51418575667497": {
-    "product_title": "Aurora Leaflets Studs",
-    "variant_title": "Default Title",
-    "sku": "R15899",
-    "price": 2805.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/aurora-leaflets-studs?variant=gid://shopify/ProductVariant/51418575667497",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0155copy_1.jpg?v=1761377378"
   },
   "gid://shopify/ProductVariant/51418676429097": {
     "product_title": "Devina Pasalu Necklace Set",
@@ -34217,15 +34253,6 @@
     "url": "https://www.rasasilver.com/products/flora-facet-studs?variant=gid://shopify/ProductVariant/52167113212201",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0073copy_resized_bca65352-3394-43c6-91c1-248f0f908648.jpg?v=1763979610"
   },
-  "gid://shopify/ProductVariant/52167125074217": {
-    "product_title": "Ruby Florin Stud Earrings",
-    "variant_title": "Ruby Pink",
-    "sku": "R16523",
-    "price": 9860.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/ruby-florin-studs?variant=gid://shopify/ProductVariant/52167125074217",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0044copy_resized.jpg?v=1763980151"
-  },
   "gid://shopify/ProductVariant/52167222788393": {
     "product_title": "Ruby V-Drape Earrings",
     "variant_title": "Default Title",
@@ -39085,15 +39112,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/kundan-septum-ring?variant=gid://shopify/ProductVariant/52680819343657",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0101_copy.jpg?v=1771180032"
-  },
-  "gid://shopify/ProductVariant/52680815968553": {
-    "product_title": "Avirika CZ Pendant Set",
-    "variant_title": "Default Title",
-    "sku": "R23152",
-    "price": 23715.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/avirika-cz-pendant-set-copy?variant=gid://shopify/ProductVariant/52680815968553",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4479.jpg?v=1771330296"
   },
   "gid://shopify/ProductVariant/52680924594473": {
     "product_title": "Rivaara Kundan Pendant",
@@ -44639,15 +44657,6 @@
     "url": "https://www.rasasilver.com/products/fiora-stone-studs?variant=gid://shopify/ProductVariant/53282509226281",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262378_resized.jpg?v=1782109475"
   },
-  "gid://shopify/ProductVariant/53282509619497": {
-    "product_title": "Bloom Spark Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "R29486",
-    "price": 2125.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/bloom-spark-stone-studs?variant=gid://shopify/ProductVariant/53282509619497",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262369_resized.jpg?v=1782109792"
-  },
   "gid://shopify/ProductVariant/53282512765225": {
     "product_title": "Crystal Flower Stone Studs",
     "variant_title": "Default Title",
@@ -46177,15 +46186,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/lakshmi-kripa-temple-necklace?variant=gid://shopify/ProductVariant/53336898371881",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42303_resized.jpg?v=1784187395"
-  },
-  "gid://shopify/ProductVariant/53336930582825": {
-    "product_title": "Pushpa Kirana Kundan Studs",
-    "variant_title": "Default Title",
-    "sku": "R32216",
-    "price": 9265.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/pushpa-kirana-kundan-studs?variant=gid://shopify/ProductVariant/53336930582825",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42437_resized.jpg?v=1784187858"
   },
   "gid://shopify/ProductVariant/53346351317289": {
     "product_title": "Starlit-Blue Bracelet",
