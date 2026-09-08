@@ -4117,7 +4117,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R11816",
     "price": 2635.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/kesarvi-studs?variant=gid://shopify/ProductVariant/50809295503657",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2579.jpg?v=1756538067"
   },
@@ -8320,7 +8320,7 @@
     "variant_title": "2.6",
     "sku": "R17557",
     "price": 10880.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/kanaka-panna-bangles?variant=gid://shopify/ProductVariant/52263573717289",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa-10Nov_Sann0173_resized.jpg?v=1763377494"
   },
@@ -8329,7 +8329,7 @@
     "variant_title": "2.5",
     "sku": "R17557",
     "price": 12800.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/kanaka-panna-bangles?variant=gid://shopify/ProductVariant/52263726448937",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa-10Nov_Sann0173_resized.jpg?v=1763377494"
   },
@@ -8338,7 +8338,7 @@
     "variant_title": "2.8",
     "sku": "R17557",
     "price": 12800.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/kanaka-panna-bangles?variant=gid://shopify/ProductVariant/52266652991785",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa-10Nov_Sann0173_resized.jpg?v=1763377494"
   },
@@ -19663,6 +19663,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/butterfly-flora-chain-pendant?variant=gid://shopify/ProductVariant/53286086443305",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13374_resized.jpg?v=1782291914"
+  },
+  "gid://shopify/ProductVariant/53286089687337": {
+    "product_title": "Daisy Dream Chain Pendant",
+    "variant_title": "Default Title",
+    "sku": "R31636",
+    "price": 2380.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/daisy-dream-chain-pendant?variant=gid://shopify/ProductVariant/53286089687337",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13320A_resized.jpg?v=1782292197"
   },
   "gid://shopify/ProductVariant/53286091129129": {
     "product_title": "Up-Side Down Danglers",
@@ -45178,15 +45187,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/shinner-chain?variant=gid://shopify/ProductVariant/53286077202729",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13390_resized.jpg?v=1782290496"
-  },
-  "gid://shopify/ProductVariant/53286089687337": {
-    "product_title": "Daisy Dream Chain Pendant",
-    "variant_title": "Default Title",
-    "sku": "R31636",
-    "price": 2380.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/daisy-dream-chain-pendant?variant=gid://shopify/ProductVariant/53286089687337",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13320A_resized.jpg?v=1782292197"
   },
   "gid://shopify/ProductVariant/53286095651113": {
     "product_title": "Triple-Heart Ear Cuff",
