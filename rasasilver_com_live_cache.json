@@ -11168,21 +11168,12 @@
     "url": "https://www.rasasilver.com/products/same-product?variant=gid://shopify/ProductVariant/52450500935977",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0323copy.jpg?v=1768566748"
   },
-  "gid://shopify/ProductVariant/52450532983081": {
-    "product_title": "Soft Loop Necklace",
-    "variant_title": "Default Title",
-    "sku": "R20670",
-    "price": 5780.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/soft-loop-chain?variant=gid://shopify/ProductVariant/52450532983081",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan0909_resized.jpg?v=1768971376"
-  },
   "gid://shopify/ProductVariant/52450533376297": {
     "product_title": "The Arc Necklace",
     "variant_title": "Default Title",
     "sku": "R20674",
     "price": 5185.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/the-arc-chain?variant=gid://shopify/ProductVariant/52450533376297",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan0905_resized.jpg?v=1768971520"
   },
@@ -36493,6 +36484,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/deer-cz-studs?variant=gid://shopify/ProductVariant/52447546442025",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0288copy.jpg?v=1768628496"
+  },
+  "gid://shopify/ProductVariant/52450532983081": {
+    "product_title": "Soft Loop Necklace",
+    "variant_title": "Default Title",
+    "sku": "R20670",
+    "price": 5780.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/soft-loop-chain?variant=gid://shopify/ProductVariant/52450532983081",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan0909_resized.jpg?v=1768971376"
   },
   "gid://shopify/ProductVariant/52450565226793": {
     "product_title": "Antique Ruby Choker",
