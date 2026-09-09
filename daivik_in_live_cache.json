@@ -10354,7 +10354,7 @@
     "variant_title": "Green",
     "sku": "1540",
     "price": 3699.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/pure-kemp-jadau-jhumkas-with-mattal?variant=gid://shopify/ProductVariant/47069494837470",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_a5b21ca3-5546-4aa2-ad44-e75272845a4e.jpg?v=1764743479"
   },
@@ -16168,17 +16168,8 @@
     "variant_title": "Only Long",
     "sku": "788",
     "price": 10499.0,
-    "stock": 3,
+    "stock": 1,
     "url": "https://www.daivik.in/products/pure-kemp-brass-lakshmi-short-and-long-mango-necklace-with-earrings?variant=gid://shopify/ProductVariant/47628177866974",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7253.heic?v=1761312373"
-  },
-  "gid://shopify/ProductVariant/47628177899742": {
-    "product_title": "Pure Kemp Brass Lakshmi Short and Long Mango Necklace with Earrings",
-    "variant_title": "Short and Long",
-    "sku": "788",
-    "price": 15999.0,
-    "stock": 2,
-    "url": "https://www.daivik.in/products/pure-kemp-brass-lakshmi-short-and-long-mango-necklace-with-earrings?variant=gid://shopify/ProductVariant/47628177899742",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7253.heic?v=1761312373"
   },
   "gid://shopify/ProductVariant/47632180412638": {
@@ -29355,6 +29346,15 @@
     "price": 5999.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/pure-kemp-brass-lakshmi-short-and-long-mango-necklace-with-earrings?variant=gid://shopify/ProductVariant/47628177834206",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7253.heic?v=1761312373"
+  },
+  "gid://shopify/ProductVariant/47628177899742": {
+    "product_title": "Pure Kemp Brass Lakshmi Short and Long Mango Necklace with Earrings",
+    "variant_title": "Short and Long",
+    "sku": "788",
+    "price": 15999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/pure-kemp-brass-lakshmi-short-and-long-mango-necklace-with-earrings?variant=gid://shopify/ProductVariant/47628177899742",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7253.heic?v=1761312373"
   },
   "gid://shopify/ProductVariant/47632180347102": {
