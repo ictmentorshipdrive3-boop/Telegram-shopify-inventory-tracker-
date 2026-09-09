@@ -859,7 +859,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R11812",
     "price": 3655.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/the-rosary-studs?variant=gid://shopify/ProductVariant/50869167980841",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06486_copy.jpg?v=1744184967"
   },
@@ -3505,7 +3505,7 @@
     "variant_title": "GREEN",
     "sku": "R20364",
     "price": 4590.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/21-1?variant=gid://shopify/ProductVariant/52279182229801",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-6_57c28a5f-b6b0-4127-98ca-bf2c9cc67662.jpg?v=1754913752"
   },
@@ -3550,7 +3550,7 @@
     "variant_title": "Default Title",
     "sku": "R20374",
     "price": 1785.0,
-    "stock": 18,
+    "stock": 17,
     "url": "https://www.rasasilver.com/products/35?variant=gid://shopify/ProductVariant/50712002330921",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_723b0375-1d76-4ccb-a761-ebd44e7148dd.jpg?v=1754916327"
   },
@@ -4018,7 +4018,7 @@
     "variant_title": "Default Title",
     "sku": "R17386",
     "price": 3485.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.rasasilver.com/products/devi-chakra-studs?variant=gid://shopify/ProductVariant/50777351586089",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_60.jpg?v=1759214218"
   },
@@ -4171,7 +4171,7 @@
     "variant_title": "Default Title",
     "sku": "R11743",
     "price": 3060.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.rasasilver.com/products/ovalika-danglers?variant=gid://shopify/ProductVariant/50808249778473",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2542.jpg?v=1756538914"
   },
@@ -4459,7 +4459,7 @@
     "variant_title": "GREEN",
     "sku": "R17416",
     "price": 3145.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.rasasilver.com/products/gaurangi-phool-studs?variant=gid://shopify/ProductVariant/51472911106345",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP290.jpg?v=1756542039"
   },
@@ -13346,15 +13346,6 @@
     "url": "https://www.rasasilver.com/products/chandrakriti-lakshmi-danglers-copy-1?variant=gid://shopify/ProductVariant/52603209842985",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0222copy_resized_fa34699a-96e2-415a-b4b1-a00bd32333aa.jpg?v=1770875176"
   },
-  "gid://shopify/ProductVariant/52603215413545": {
-    "product_title": "Mogra Valli Victorian Danglers",
-    "variant_title": "Default Title",
-    "sku": "R23009",
-    "price": 11390.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/pear-bloom-victorian-danglers-copy?variant=gid://shopify/ProductVariant/52603215413545",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0102copy_resized_1_80ec25e6-289e-4960-809c-0c31ff5283d3.jpg?v=1770875519"
-  },
   "gid://shopify/ProductVariant/52603248836905": {
     "product_title": "Ketaki Bloom Victorian Danglers",
     "variant_title": "GREEN",
@@ -16027,15 +16018,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/ratnovali-short-temple-necklace-copy?variant=gid://shopify/ProductVariant/52828483813673",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar00161_resized.jpg?v=1774595589"
-  },
-  "gid://shopify/ProductVariant/52828521824553": {
-    "product_title": "Suvalaya Temple Necklace",
-    "variant_title": "GREEN",
-    "sku": "R25868",
-    "price": 29410.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/ratnashri-short-temple-necklace-copy?variant=gid://shopify/ProductVariant/52828521824553",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar0033_resized.jpg?v=1774595713"
   },
   "gid://shopify/ProductVariant/52828521857321": {
     "product_title": "Suvalaya Temple Necklace",
@@ -38771,6 +38753,15 @@
     "url": "https://www.rasasilver.com/products/chandrakriti-lakshmi-danglers-copy?variant=gid://shopify/ProductVariant/52603198832937",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0206copy_resized_78009840-c11c-4240-9a92-59223d0d12d1.jpg?v=1770874872"
   },
+  "gid://shopify/ProductVariant/52603215413545": {
+    "product_title": "Mogra Valli Victorian Danglers",
+    "variant_title": "Default Title",
+    "sku": "R23009",
+    "price": 11390.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/pear-bloom-victorian-danglers-copy?variant=gid://shopify/ProductVariant/52603215413545",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0102copy_resized_1_80ec25e6-289e-4960-809c-0c31ff5283d3.jpg?v=1770875519"
+  },
   "gid://shopify/ProductVariant/52609133904169": {
     "product_title": "Rajsi Ratn Victorian Danglers",
     "variant_title": "Default Title",
@@ -41551,6 +41542,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/yamunika-temple-short-necklace?variant=gid://shopify/ProductVariant/52828492792105",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar01851_resized.jpg?v=1774529946"
+  },
+  "gid://shopify/ProductVariant/52828521824553": {
+    "product_title": "Suvalaya Temple Necklace",
+    "variant_title": "GREEN",
+    "sku": "R25868",
+    "price": 29410.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ratnashri-short-temple-necklace-copy?variant=gid://shopify/ProductVariant/52828521824553",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar0033_resized.jpg?v=1774595713"
   },
   "gid://shopify/ProductVariant/52828576186665": {
     "product_title": "Shrinidhi Temple Necklace",
