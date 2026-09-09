@@ -5930,15 +5930,6 @@
     "url": "https://www.dulhanjewels.com/products/floral-long-necklace-with-strawberry-hangings?variant=gid://shopify/ProductVariant/51564591776050",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_f37102a8-186d-40d9-a8f9-d649ce3da1f8.jpg?v=1786538143"
   },
-  "gid://shopify/ProductVariant/51564598886706": {
-    "product_title": "Designer Jadau Kundan Jhumka Earrings With Green Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2450.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/designer-jadau-kundan-jhumka-earrings-with-green-drops-1?variant=gid://shopify/ProductVariant/51564598886706",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/F7E59350-916A-4A80-8CF5-AC00E73D1880.jpg?v=1786539138"
-  },
   "gid://shopify/ProductVariant/51564604195122": {
     "product_title": "Radiant Jadau Kundan Chandbali Earrings With RicePearl Hangings",
     "variant_title": "Default Title",
@@ -6640,15 +6631,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/royal-victorian-peacock-design-locket-with-matching-earrings?variant=gid://shopify/ProductVariant/51706866630962",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0747.jpg?v=1788606486"
-  },
-  "gid://shopify/ProductVariant/51706908868914": {
-    "product_title": "Stylish Victorian Emerald Pendant With Earrings Matching Earrings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1550.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/stylish-victorian-emerald-pendant-with-earrings-matching-earrings?variant=gid://shopify/ProductVariant/51706908868914",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/718B4909-6DB5-4A7E-ADAB-1B729F46087E.jpg?v=1788606458"
   },
   "gid://shopify/ProductVariant/51707063140658": {
     "product_title": "Dazzling Victorian Ruby Emerald Floral Design Necklace",
@@ -8351,6 +8333,15 @@
     "url": "https://www.dulhanjewels.com/products/fresh-water-pearls-mala-with-matching-earrings?variant=gid://shopify/ProductVariant/51521743388978",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/CEE315FA-8367-4AEE-9E37-7B042A6DC22E.jpg?v=1785758480"
   },
+  "gid://shopify/ProductVariant/51564598886706": {
+    "product_title": "Designer Jadau Kundan Jhumka Earrings With Green Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2450.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/designer-jadau-kundan-jhumka-earrings-with-green-drops-1?variant=gid://shopify/ProductVariant/51564598886706",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/F7E59350-916A-4A80-8CF5-AC00E73D1880.jpg?v=1786539138"
+  },
   "gid://shopify/ProductVariant/51566269923634": {
     "product_title": "Stylish Victorian Bangle With Emerald Green Stones And Polki",
     "variant_title": "2/6",
@@ -8377,5 +8368,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/radiant-victorian-necklace-set-with-matching-earrings?variant=gid://shopify/ProductVariant/51566677754162",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/9D635791-AFE6-4572-B92E-6773900153BA.jpg?v=1786609473"
+  },
+  "gid://shopify/ProductVariant/51706908868914": {
+    "product_title": "Stylish Victorian Emerald Pendant With Earrings Matching Earrings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1550.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/stylish-victorian-emerald-pendant-with-earrings-matching-earrings?variant=gid://shopify/ProductVariant/51706908868914",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/718B4909-6DB5-4A7E-ADAB-1B729F46087E.jpg?v=1788606458"
   }
 }
