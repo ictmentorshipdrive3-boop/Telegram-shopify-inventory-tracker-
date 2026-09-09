@@ -5633,15 +5633,6 @@
     "url": "https://www.dulhanjewels.com/products/regal-jadau-kundan-jhumki-earrings-with-green-danglings?variant=gid://shopify/ProductVariant/51519057887538",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/CDC3F2C6-A594-47FC-B6B5-CEB20E15C1BA.jpg?v=1785412984"
   },
-  "gid://shopify/ProductVariant/51521743356210": {
-    "product_title": "Fresh Water Pearls Mala With Matching Earrings",
-    "variant_title": "Red",
-    "sku": null,
-    "price": 3150.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/fresh-water-pearls-mala-with-matching-earrings?variant=gid://shopify/ProductVariant/51521743356210",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/CEE315FA-8367-4AEE-9E37-7B042A6DC22E.jpg?v=1785758480"
-  },
   "gid://shopify/ProductVariant/51521778680114": {
     "product_title": "Bridal Jadau Kundan Pendant With Emerald Hangings",
     "variant_title": "Default Title",
@@ -6920,15 +6911,6 @@
     "url": "https://www.dulhanjewels.com/products/minimal-jadau-kundan-choker-with-green-hangings?variant=gid://shopify/ProductVariant/51744465649970",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0837.jpg?v=1788856882"
   },
-  "gid://shopify/ProductVariant/51744487342386": {
-    "product_title": "Delicate Jadau Kundan Maang Tikka With Emerald Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1550.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/delicate-jadau-kundan-maang-tikka-with-emerald-drops?variant=gid://shopify/ProductVariant/51744487342386",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/138B4AAB-D1FA-439B-9674-6FF4293E1403.jpg?v=1788940904"
-  },
   "gid://shopify/ProductVariant/46748694446386": {
     "product_title": "Elegant Jadau Long Pearl Mala",
     "variant_title": "Default Title",
@@ -7451,6 +7433,15 @@
     "url": "https://www.dulhanjewels.com/products/traditional-temple-style-peacock-kundan-stud-earrings?variant=gid://shopify/ProductVariant/51443057426738",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-8532.jpg?v=1783580229"
   },
+  "gid://shopify/ProductVariant/51521743356210": {
+    "product_title": "Fresh Water Pearls Mala With Matching Earrings",
+    "variant_title": "Red",
+    "sku": null,
+    "price": 3150.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/fresh-water-pearls-mala-with-matching-earrings?variant=gid://shopify/ProductVariant/51521743356210",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/CEE315FA-8367-4AEE-9E37-7B042A6DC22E.jpg?v=1785758480"
+  },
   "gid://shopify/ProductVariant/51564483051826": {
     "product_title": "Classy Jadau Kundan Pendant With Emerald Drops",
     "variant_title": "Default Title",
@@ -7495,5 +7486,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/stylish-victorian-emerald-pendant-with-earrings-matching-earrings?variant=gid://shopify/ProductVariant/51706908868914",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/718B4909-6DB5-4A7E-ADAB-1B729F46087E.jpg?v=1788606458"
+  },
+  "gid://shopify/ProductVariant/51744487342386": {
+    "product_title": "Delicate Jadau Kundan Maang Tikka With Emerald Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1550.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/delicate-jadau-kundan-maang-tikka-with-emerald-drops?variant=gid://shopify/ProductVariant/51744487342386",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/138B4AAB-D1FA-439B-9674-6FF4293E1403.jpg?v=1788940904"
   }
 }
