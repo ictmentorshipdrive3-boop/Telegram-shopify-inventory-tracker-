@@ -3743,15 +3743,6 @@
     "url": "https://www.rasasilver.com/products/floravie-glitz-danglers?variant=gid://shopify/ProductVariant/50749009658153",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_07Aug0701.jpg?v=1756197059"
   },
-  "gid://shopify/ProductVariant/50749046128937": {
-    "product_title": "Evelline Cz Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "R8124",
-    "price": 29835.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/evelline-short-necklace?variant=gid://shopify/ProductVariant/50749046128937",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_06Aug20436.jpg?v=1756197731"
-  },
   "gid://shopify/ProductVariant/52258554315049": {
     "product_title": "Amoria Short Necklace Set",
     "variant_title": "Purple",
@@ -8995,7 +8986,7 @@
     "variant_title": "Default Title",
     "sku": "R18532",
     "price": 23545.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.rasasilver.com/products/zirnova-pear-necklace-set-copy?variant=gid://shopify/ProductVariant/51872732905769",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2362_resized.jpg?v=1763463065"
   },
@@ -14416,15 +14407,6 @@
     "stock": 2,
     "url": "https://www.rasasilver.com/products/verd-noor-cz-necklace-set?variant=gid://shopify/ProductVariant/52712221999401",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00090copy_resized.jpg?v=1772191103"
-  },
-  "gid://shopify/ProductVariant/52712244281641": {
-    "product_title": "Crimson Flora CZ Set",
-    "variant_title": "Default Title",
-    "sku": "R24966",
-    "price": 44710.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/crimson-flora-cz-set?variant=gid://shopify/ProductVariant/52712244281641",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00165copy_1__resized.jpg?v=1772191718"
   },
   "gid://shopify/ProductVariant/52712526741801": {
     "product_title": "Petalix CZ Necklace",
@@ -25639,6 +25621,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/pearl-de-feuille-danglers?variant=gid://shopify/ProductVariant/50748911255849",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_07Aug0696.jpg?v=1756190961"
+  },
+  "gid://shopify/ProductVariant/50749046128937": {
+    "product_title": "Evelline Cz Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "R8124",
+    "price": 29835.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/evelline-short-necklace?variant=gid://shopify/ProductVariant/50749046128937",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_06Aug20436.jpg?v=1756197731"
   },
   "gid://shopify/ProductVariant/50749064610089": {
     "product_title": "Dewflora Dia Dangle Earrings",
@@ -39617,6 +39608,15 @@
     "url": "https://www.rasasilver.com/products/pear-green-cz-necklace-set?variant=gid://shopify/ProductVariant/52712208695593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00103copy_resized.jpg?v=1772190435"
   },
+  "gid://shopify/ProductVariant/52712244281641": {
+    "product_title": "Crimson Flora CZ Set",
+    "variant_title": "Default Title",
+    "sku": "R24966",
+    "price": 44710.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/crimson-flora-cz-set?variant=gid://shopify/ProductVariant/52712244281641",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00165copy_1__resized.jpg?v=1772191718"
+  },
   "gid://shopify/ProductVariant/52712267940137": {
     "product_title": "Verdant-Layers CZ Necklace Set",
     "variant_title": "Default Title",
@@ -47275,5 +47275,14 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/kiyana-moissanite-necklace?variant=gid://shopify/ProductVariant/53493271527721",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPT_Image_Sep_7_2026_03_38_39_PM.png?v=1788775740"
+  },
+  "gid://shopify/ProductVariant/53612858474793": {
+    "product_title": "Royal Blue Victorian Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R16799",
+    "price": 72400.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/gilded-ivy-victorian-necklace-copy?variant=gid://shopify/ProductVariant/53612858474793",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageSep9_2026at01_58_35PM.png?v=1788943075"
   }
 }
