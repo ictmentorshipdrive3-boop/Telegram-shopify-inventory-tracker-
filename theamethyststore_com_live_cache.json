@@ -4594,7 +4594,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-4341",
     "price": 2596.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/cosmic-stone-studs?variant=gid://shopify/ProductVariant/43797802778851",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-4341.jpg?v=1680960673"
   },
@@ -7320,7 +7320,7 @@
     "product_title": "Alhena Kundan Ring",
     "variant_title": "Default Title",
     "sku": "AMS-101-0511",
-    "price": 12046.0,
+    "price": 10366.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/alhena-kundan-ring?variant=gid://shopify/ProductVariant/44342615015651",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0511_cadc82b9-82b7-4d17-916d-820b9804ffe1.jpg?v=1750854767"
@@ -25216,15 +25216,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/dhekshali-reversible-nagas-short-necklace?variant=gid://shopify/ProductVariant/46844666118371",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10586.jpg?v=1752392044"
-  },
-  "gid://shopify/ProductVariant/46844680405219": {
-    "product_title": "Pavi Nagas Long Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-9302",
-    "price": 9800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/pavi-nagas-long-earrings?variant=gid://shopify/ProductVariant/46844680405219",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9302.jpg?v=1752392695"
   },
   "gid://shopify/ProductVariant/46844682928355": {
     "product_title": "Richitha Nagas Long Necklace",
@@ -57109,7 +57100,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-114-0826",
     "price": 10361.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/arkitha-kundan-ankle?variant=gid://shopify/ProductVariant/47944986296547",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-114-0826.jpg?v=1770295049"
   },
@@ -61396,15 +61387,6 @@
     "stock": 8,
     "url": "https://www.theamethyststore.com/products/vithaska-kundan-chain?variant=gid://shopify/ProductVariant/48287856689379",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1500-_2.jpg?v=1771486177"
-  },
-  "gid://shopify/ProductVariant/48287865143523": {
-    "product_title": "Sherina Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-12705",
-    "price": 3157.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/sherina-stone-studs?variant=gid://shopify/ProductVariant/48287865143523",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12705.jpg?v=1771486809"
   },
   "gid://shopify/ProductVariant/48287879233763": {
     "product_title": "Elegance Kundan Choker",
@@ -114371,6 +114353,15 @@
     "url": "https://www.theamethyststore.com/products/colourful-nagas-pair-bangle?variant=gid://shopify/ProductVariant/46844669853923",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2280.jpg?v=1752392343"
   },
+  "gid://shopify/ProductVariant/46844680405219": {
+    "product_title": "Pavi Nagas Long Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-9302",
+    "price": 9800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/pavi-nagas-long-earrings?variant=gid://shopify/ProductVariant/46844680405219",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9302.jpg?v=1752392695"
+  },
   "gid://shopify/ProductVariant/46859175002339": {
     "product_title": "Glowing Green Single Bangle",
     "variant_title": "2.8\"",
@@ -122065,6 +122056,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/pakshi-drops-earrings-1?variant=gid://shopify/ProductVariant/48287860293859",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12560.jpg?v=1771486351"
+  },
+  "gid://shopify/ProductVariant/48287865143523": {
+    "product_title": "Sherina Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-12705",
+    "price": 3157.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/sherina-stone-studs?variant=gid://shopify/ProductVariant/48287865143523",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12705.jpg?v=1771486809"
   },
   "gid://shopify/ProductVariant/48288216973539": {
     "product_title": "Ahishtiya Stone Jada",
