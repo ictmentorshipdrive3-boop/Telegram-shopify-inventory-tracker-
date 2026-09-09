@@ -3280,7 +3280,7 @@
     "variant_title": "14",
     "sku": "AMS-101-0380-14\"",
     "price": 1200.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/classy-ring?variant=gid://shopify/ProductVariant/43548422275299",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-101-0380.jpg?v=1669007907"
   },
@@ -4463,11 +4463,20 @@
     "url": "https://www.theamethyststore.com/products/sri-varahamurthy-3d-solid-idol?variant=gid://shopify/ProductVariant/45846713598179",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-115-0159a.jpg?v=1678428810"
   },
+  "gid://shopify/ProductVariant/43755440898275": {
+    "product_title": "Sri Varahiamman 3D Solid Idol",
+    "variant_title": "3\"",
+    "sku": "AMS-115-0159-3\"",
+    "price": 105400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/sri-varahamurthy-3d-solid-idol?variant=gid://shopify/ProductVariant/43755440898275",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-115-0159a.jpg?v=1678428810"
+  },
   "gid://shopify/ProductVariant/47815775420643": {
     "product_title": "Venkata Ramana 2D idol",
     "variant_title": "2\"",
     "sku": "AMS-115-0168-2\"",
-    "price": 14300.0,
+    "price": 16200.0,
     "stock": 4,
     "url": "https://www.theamethyststore.com/products/venkata-ramana-2d-idol?variant=gid://shopify/ProductVariant/47815775420643",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-115-0168.jpg?v=1678430488"
@@ -28754,6 +28763,15 @@
     "url": "https://www.theamethyststore.com/products/smiley-anklets?variant=gid://shopify/ProductVariant/47008173359331",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-114-0577_1.jpg?v=1754978864"
   },
+  "gid://shopify/ProductVariant/47008956973283": {
+    "product_title": "Nakchatra Stone Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-1411",
+    "price": 4046.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nakchatra-stone-ring?variant=gid://shopify/ProductVariant/47008956973283",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1411.jpg?v=1754991759"
+  },
   "gid://shopify/ProductVariant/47008972767459": {
     "product_title": "Glitz Stone Ring",
     "variant_title": "Default Title",
@@ -31723,60 +31741,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/shabana-nagas-jhumkas-1?variant=gid://shopify/ProductVariant/47061673050339",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9603.jpg?v=1756119839"
-  },
-  "gid://shopify/ProductVariant/47067941699811": {
-    "product_title": "Chic & Trendy Short Necklace",
-    "variant_title": "Black",
-    "sku": "AMS-102-7255-Black",
-    "price": 14800.0,
-    "stock": 6,
-    "url": "https://www.theamethyststore.com/products/short-necklace-18?variant=gid://shopify/ProductVariant/47067941699811",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7255_6d6a33a3-6cd1-428e-9064-affc4d9dfc22.jpg?v=1756202475"
-  },
-  "gid://shopify/ProductVariant/47063501045987": {
-    "product_title": "Chic & Trendy Short Necklace",
-    "variant_title": "Blue",
-    "sku": "AMS-102-7255-Blue",
-    "price": 14800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/short-necklace-18?variant=gid://shopify/ProductVariant/47063501045987",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7255_6d6a33a3-6cd1-428e-9064-affc4d9dfc22.jpg?v=1756202475"
-  },
-  "gid://shopify/ProductVariant/47063501078755": {
-    "product_title": "Chic & Trendy Short Necklace",
-    "variant_title": "Grey",
-    "sku": "AMS-102-7255-Grey",
-    "price": 11300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/short-necklace-18?variant=gid://shopify/ProductVariant/47063501078755",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7255_6d6a33a3-6cd1-428e-9064-affc4d9dfc22.jpg?v=1756202475"
-  },
-  "gid://shopify/ProductVariant/47063501111523": {
-    "product_title": "Chic & Trendy Short Necklace",
-    "variant_title": "Pink",
-    "sku": "AMS-102-7255-Pink",
-    "price": 11300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/short-necklace-18?variant=gid://shopify/ProductVariant/47063501111523",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7255_6d6a33a3-6cd1-428e-9064-affc4d9dfc22.jpg?v=1756202475"
-  },
-  "gid://shopify/ProductVariant/47201027817699": {
-    "product_title": "Chic & Trendy Short Necklace",
-    "variant_title": "Olive",
-    "sku": "AMS-102-7255-Olive",
-    "price": 11300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/short-necklace-18?variant=gid://shopify/ProductVariant/47201027817699",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7255_6d6a33a3-6cd1-428e-9064-affc4d9dfc22.jpg?v=1756202475"
-  },
-  "gid://shopify/ProductVariant/47201035780323": {
-    "product_title": "Chic & Trendy Short Necklace",
-    "variant_title": "Camel",
-    "sku": "AMS-102-7255-Camel",
-    "price": 11300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/short-necklace-18?variant=gid://shopify/ProductVariant/47201035780323",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7255_6d6a33a3-6cd1-428e-9064-affc4d9dfc22.jpg?v=1756202475"
   },
   "gid://shopify/ProductVariant/49678722367715": {
     "product_title": "Trendy Look Short Necklace",
@@ -79910,15 +79874,6 @@
     "url": "https://www.theamethyststore.com/products/liyasha-mugappu-chain?variant=gid://shopify/ProductVariant/49359224242403",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2151.jpg?v=1783075752"
   },
-  "gid://shopify/ProductVariant/49359443198179": {
-    "product_title": "Uthisha Mugappu Chain",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-2149",
-    "price": 15370.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/uthisha-mugappu-chain?variant=gid://shopify/ProductVariant/49359443198179",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2149.jpg?v=1783076200"
-  },
   "gid://shopify/ProductVariant/49359447621859": {
     "product_title": "Naveena Mugappu Chain",
     "variant_title": "Default Title",
@@ -89400,7 +89355,7 @@
     "product_title": "Dhithikaa Avikam Pair Bangles",
     "variant_title": "2.4\"",
     "sku": "AMS-107-3430-2.4\"",
-    "price": 36300.0,
+    "price": 72600.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-22?variant=gid://shopify/ProductVariant/49664026116323",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3430.jpg?v=1785493625"
@@ -89409,7 +89364,7 @@
     "product_title": "Dhithikaa Avikam Pair Bangles",
     "variant_title": "2.6\"",
     "sku": "AMS-107-3430-2.6\"",
-    "price": 36300.0,
+    "price": 74200.0,
     "stock": 3,
     "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-22?variant=gid://shopify/ProductVariant/49480321302755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3430.jpg?v=1785493625"
@@ -89895,7 +89850,7 @@
     "product_title": "Ziva Avikam Pair Bangles",
     "variant_title": "2.8\"",
     "sku": "AMS-107-3445-2.8\"",
-    "price": 34900.0,
+    "price": 69800.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-23?variant=gid://shopify/ProductVariant/49664019595491",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3445_2.jpg?v=1785572211"
@@ -101195,6 +101150,15 @@
     "url": "https://www.theamethyststore.com/products/kundan-pair-bangles-7?variant=gid://shopify/ProductVariant/49571486892259",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3559_2.jpg?v=1787300276"
   },
+  "gid://shopify/ProductVariant/49571486269667": {
+    "product_title": "Pretty Kundan Pair Bangles",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-3559-2.6\"",
+    "price": 45800.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/kundan-pair-bangles-7?variant=gid://shopify/ProductVariant/49571486269667",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3559_2.jpg?v=1787300276"
+  },
   "gid://shopify/ProductVariant/49571489415395": {
     "product_title": "Luxury Moissanite Long Necklace Set",
     "variant_title": "Default Title",
@@ -105627,7 +105591,7 @@
     "product_title": "Bharvikhaa Stone Pair Bangles",
     "variant_title": "2.6\"",
     "sku": "AMS-107-3582-2.6\"",
-    "price": 12555.0,
+    "price": 25110.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangles?variant=gid://shopify/ProductVariant/49658820002019",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3582.jpg?v=1788325925"
@@ -105672,7 +105636,7 @@
     "product_title": "Aarthi Stone Pair Bangles",
     "variant_title": "2.8\"",
     "sku": "AMS-107-3584-2.8\"",
-    "price": 13705.0,
+    "price": 27410.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangles-2?variant=gid://shopify/ProductVariant/49658847330531",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3584.jpg?v=1788326554"
@@ -105690,7 +105654,7 @@
     "product_title": "Samaira Stone Pair Bangles",
     "variant_title": "2.6\"",
     "sku": "AMS-107-3585-2.6\"",
-    "price": 6781.0,
+    "price": 13562.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangles-4?variant=gid://shopify/ProductVariant/49658851983587",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3585_2.jpg?v=1788326752"
@@ -105699,7 +105663,7 @@
     "product_title": "Samaira Stone Pair Bangles",
     "variant_title": "2.8\"",
     "sku": "AMS-107-3585-2.8\"",
-    "price": 7011.0,
+    "price": 14022.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangles-4?variant=gid://shopify/ProductVariant/49658852016355",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3585_2.jpg?v=1788326752"
@@ -105717,7 +105681,7 @@
     "product_title": "Attractive Stone Pair Bangles",
     "variant_title": "2.4\"",
     "sku": "AMS-107-3586-2.4\"",
-    "price": 13641.0,
+    "price": 27283.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangles-5?variant=gid://shopify/ProductVariant/49658854244579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3586_2.jpg?v=1788327032"
@@ -105726,7 +105690,7 @@
     "product_title": "Attractive Stone Pair Bangles",
     "variant_title": "2.6\"",
     "sku": "AMS-107-3586-2.6\"",
-    "price": 13966.0,
+    "price": 27933.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangles-5?variant=gid://shopify/ProductVariant/49658854179043",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3586_2.jpg?v=1788327032"
@@ -106068,7 +106032,7 @@
     "product_title": "Glowing Avikam Pair Bangles",
     "variant_title": "2.6\"",
     "sku": "AMS-107-3589-2.6\"",
-    "price": 38000.0,
+    "price": 76000.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-3?variant=gid://shopify/ProductVariant/49659728396515",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3589.jpg?v=1788349993"
@@ -106113,7 +106077,7 @@
     "product_title": "Janani Avikam Pair Bangles",
     "variant_title": "2.4\"",
     "sku": "AMS-107-3590-2.4\"",
-    "price": 21000.0,
+    "price": 42000.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-32?variant=gid://shopify/ProductVariant/49659835351267",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3590.jpg?v=1788351052"
@@ -106527,7 +106491,7 @@
     "product_title": "Stunning Kundan Jada Billa",
     "variant_title": "Chaand",
     "sku": "AMS-112-0977-CHAAND",
-    "price": 10951.0,
+    "price": 5386.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-jada-billa?variant=gid://shopify/ProductVariant/49664574292195",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0977_4.jpg?v=1788429684"
@@ -106554,7 +106518,7 @@
     "product_title": "Vanitha Kundan Jada Billa",
     "variant_title": "Chaand",
     "sku": "AMS-112-0978-CHAAND",
-    "price": 7694.0,
+    "price": 7549.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/kundan-jada-billa?variant=gid://shopify/ProductVariant/49664594772195",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0978_2.jpg?v=1788430095"
@@ -109124,6 +109088,33 @@
     "url": "https://www.theamethyststore.com/products/nagas-pair-bangles-68?variant=gid://shopify/ProductVariant/49711018606819",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3526.jpg?v=1788956082"
   },
+  "gid://shopify/ProductVariant/49711035154659": {
+    "product_title": "Mystical Jaipur Kundan Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-6607",
+    "price": 14400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/mystical-jaipur-kundan-studs?variant=gid://shopify/ProductVariant/49711035154659",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6607.jpg?v=1788956684"
+  },
+  "gid://shopify/ProductVariant/49711037120739": {
+    "product_title": "Vintage Nagas Vanki",
+    "variant_title": "Default Title",
+    "sku": "AMS-112-0994",
+    "price": 19600.0,
+    "stock": 4,
+    "url": "https://www.theamethyststore.com/products/nagas-vanki-3?variant=gid://shopify/ProductVariant/49711037120739",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0994.jpg?v=1788956778"
+  },
+  "gid://shopify/ProductVariant/49711038595299": {
+    "product_title": "Lakshmi Nagas Vanki",
+    "variant_title": "Default Title",
+    "sku": "AMS-112-0995",
+    "price": 20000.0,
+    "stock": 4,
+    "url": "https://www.theamethyststore.com/products/nagas-vanki-4?variant=gid://shopify/ProductVariant/49711038595299",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0995.jpg?v=1788957018"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -110046,7 +110037,7 @@
     "product_title": "Nandhi 3D Solid Idol",
     "variant_title": "1.5\"",
     "sku": "AMS-115-0117-1.5\"",
-    "price": 29300.0,
+    "price": 50518.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nandhi-3d-solid-idol?variant=gid://shopify/ProductVariant/49678902132963",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-115-0117.jpg?v=1673180161"
@@ -110154,7 +110145,7 @@
     "product_title": "Jivika Stone Pair Bangles",
     "variant_title": "2.6\"",
     "sku": "AMS-107-0848-2.6\"",
-    "price": 31800.0,
+    "price": 36200.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/jivika-stone-pair-bangles?variant=gid://shopify/ProductVariant/48889689538787",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-0848-_2_1d65dced-1d81-4589-acdc-23e31e2a7b90.jpg?v=1778228801"
@@ -110221,15 +110212,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/copy-of-haaritha-pair-bangles?variant=gid://shopify/ProductVariant/46462374707427",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-107-0858.jpg?v=1678279367"
-  },
-  "gid://shopify/ProductVariant/43755440898275": {
-    "product_title": "Sri Varahiamman 3D Solid Idol",
-    "variant_title": "3\"",
-    "sku": "AMS-115-0159-3\"",
-    "price": 71900.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/sri-varahamurthy-3d-solid-idol?variant=gid://shopify/ProductVariant/43755440898275",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-115-0159a.jpg?v=1678428810"
   },
   "gid://shopify/ProductVariant/49674785882339": {
     "product_title": "Shahira Pair Bangles",
@@ -115109,15 +115091,6 @@
     "url": "https://www.theamethyststore.com/products/zara-baby-anklets?variant=gid://shopify/ProductVariant/47008015286499",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-114-0751_2.jpg?v=1754976364"
   },
-  "gid://shopify/ProductVariant/47008956973283": {
-    "product_title": "Nakchatra Stone Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-1411",
-    "price": 4046.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/nakchatra-stone-ring?variant=gid://shopify/ProductVariant/47008956973283",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1411.jpg?v=1754991759"
-  },
   "gid://shopify/ProductVariant/47008991150307": {
     "product_title": "Trivisha Stone Bracelet",
     "variant_title": "Default Title",
@@ -115766,6 +115739,42 @@
     "url": "https://www.theamethyststore.com/products/nagas-tikka-7?variant=gid://shopify/ProductVariant/47061564260579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1781.jpg?v=1756116674"
   },
+  "gid://shopify/ProductVariant/47067941699811": {
+    "product_title": "Chic & Trendy Short Necklace",
+    "variant_title": "Black",
+    "sku": "AMS-102-7255-Black",
+    "price": 14800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/short-necklace-18?variant=gid://shopify/ProductVariant/47067941699811",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7255_6d6a33a3-6cd1-428e-9064-affc4d9dfc22.jpg?v=1756202475"
+  },
+  "gid://shopify/ProductVariant/47063501045987": {
+    "product_title": "Chic & Trendy Short Necklace",
+    "variant_title": "Blue",
+    "sku": "AMS-102-7255-Blue",
+    "price": 14800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/short-necklace-18?variant=gid://shopify/ProductVariant/47063501045987",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7255_6d6a33a3-6cd1-428e-9064-affc4d9dfc22.jpg?v=1756202475"
+  },
+  "gid://shopify/ProductVariant/47063501078755": {
+    "product_title": "Chic & Trendy Short Necklace",
+    "variant_title": "Grey",
+    "sku": "AMS-102-7255-Grey",
+    "price": 11300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/short-necklace-18?variant=gid://shopify/ProductVariant/47063501078755",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7255_6d6a33a3-6cd1-428e-9064-affc4d9dfc22.jpg?v=1756202475"
+  },
+  "gid://shopify/ProductVariant/47063501111523": {
+    "product_title": "Chic & Trendy Short Necklace",
+    "variant_title": "Pink",
+    "sku": "AMS-102-7255-Pink",
+    "price": 11300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/short-necklace-18?variant=gid://shopify/ProductVariant/47063501111523",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7255_6d6a33a3-6cd1-428e-9064-affc4d9dfc22.jpg?v=1756202475"
+  },
   "gid://shopify/ProductVariant/47063501144291": {
     "product_title": "Chic & Trendy Short Necklace",
     "variant_title": "Purple",
@@ -115784,6 +115793,15 @@
     "url": "https://www.theamethyststore.com/products/short-necklace-18?variant=gid://shopify/ProductVariant/47201020805347",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7255_6d6a33a3-6cd1-428e-9064-affc4d9dfc22.jpg?v=1756202475"
   },
+  "gid://shopify/ProductVariant/47201027817699": {
+    "product_title": "Chic & Trendy Short Necklace",
+    "variant_title": "Olive",
+    "sku": "AMS-102-7255-Olive",
+    "price": 11300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/short-necklace-18?variant=gid://shopify/ProductVariant/47201027817699",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7255_6d6a33a3-6cd1-428e-9064-affc4d9dfc22.jpg?v=1756202475"
+  },
   "gid://shopify/ProductVariant/47201032569059": {
     "product_title": "Chic & Trendy Short Necklace",
     "variant_title": "Turquoise",
@@ -115791,6 +115809,15 @@
     "price": 11300.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/short-necklace-18?variant=gid://shopify/ProductVariant/47201032569059",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7255_6d6a33a3-6cd1-428e-9064-affc4d9dfc22.jpg?v=1756202475"
+  },
+  "gid://shopify/ProductVariant/47201035780323": {
+    "product_title": "Chic & Trendy Short Necklace",
+    "variant_title": "Camel",
+    "sku": "AMS-102-7255-Camel",
+    "price": 11300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/short-necklace-18?variant=gid://shopify/ProductVariant/47201035780323",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7255_6d6a33a3-6cd1-428e-9064-affc4d9dfc22.jpg?v=1756202475"
   },
   "gid://shopify/ProductVariant/47246694187235": {
@@ -129311,6 +129338,15 @@
     "url": "https://www.theamethyststore.com/products/manisha-mugappu-chain-1?variant=gid://shopify/ProductVariant/49359433236707",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2150.jpg?v=1783076025"
   },
+  "gid://shopify/ProductVariant/49359443198179": {
+    "product_title": "Uthisha Mugappu Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2149",
+    "price": 15370.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/uthisha-mugappu-chain?variant=gid://shopify/ProductVariant/49359443198179",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2149.jpg?v=1783076200"
+  },
   "gid://shopify/ProductVariant/49359453552867": {
     "product_title": "Dhanisha Mugappu Chain",
     "variant_title": "Default Title",
@@ -132649,15 +132685,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/mesmerizing-moissanite-short-necklace-set-2?variant=gid://shopify/ProductVariant/49571372433635",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17709.jpg?v=1787298596"
-  },
-  "gid://shopify/ProductVariant/49571486269667": {
-    "product_title": "Pretty Kundan Pair Bangles",
-    "variant_title": "2.6\"",
-    "sku": "AMS-107-3559-2.6\"",
-    "price": 44200.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/kundan-pair-bangles-7?variant=gid://shopify/ProductVariant/49571486269667",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3559_2.jpg?v=1787300276"
   },
   "gid://shopify/ProductVariant/49575201898723": {
     "product_title": "Dhananya 3D Spl Short Necklace Set",
