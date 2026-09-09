@@ -37524,7 +37524,7 @@
     "product_title": "Little Heart Toe Ring",
     "variant_title": "Default Title",
     "sku": "AMS-117-0418",
-    "price": 1800.0,
+    "price": 2025.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/little-heart-toe-ring?variant=gid://shopify/ProductVariant/47201929003235",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0418.jpg?v=1758703594"
@@ -37641,7 +37641,7 @@
     "product_title": "Ziya Toe Ring",
     "variant_title": "Default Title",
     "sku": "AMS-117-0414",
-    "price": 2700.0,
+    "price": 3105.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/ziya-toe-ring-1?variant=gid://shopify/ProductVariant/47201994670307",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0414.jpg?v=1758705743"
@@ -38631,7 +38631,7 @@
     "product_title": "Spark Apple Toe Ring",
     "variant_title": "Default Title",
     "sku": "AMS-117-0420",
-    "price": 2100.0,
+    "price": 2430.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/spark-apple-toe-ring?variant=gid://shopify/ProductVariant/47208675836131",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0420.jpg?v=1758872260"
@@ -51672,7 +51672,7 @@
     "product_title": "Rushanika Toe Ring",
     "variant_title": "Default Title",
     "sku": "AMS-117-0633",
-    "price": 3831.0,
+    "price": 4194.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/rushanika-toe-ring?variant=gid://shopify/ProductVariant/47805004644579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0633.jpg?v=1767877795"
@@ -59641,6 +59641,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/zunaira-nagas-ring?variant=gid://shopify/ProductVariant/48170555834595",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1999.jpg?v=1770807738"
+  },
+  "gid://shopify/ProductVariant/48170556752099": {
+    "product_title": "Marigold Toe Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-117-0690",
+    "price": 4084.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/marigold-toe-ring?variant=gid://shopify/ProductVariant/48170556752099",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0690.jpg?v=1770808163"
   },
   "gid://shopify/ProductVariant/48170565501155": {
     "product_title": "Dhrithi Nagas Ring",
@@ -108899,6 +108908,33 @@
     "url": "https://www.theamethyststore.com/products/kundan-pendant-20?variant=gid://shopify/ProductVariant/49710780842211",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4886.jpg?v=1788952101"
   },
+  "gid://shopify/ProductVariant/49710800928995": {
+    "product_title": "Catchy Stone Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5023",
+    "price": 16700.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/stone-pendant-set?variant=gid://shopify/ProductVariant/49710800928995",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5023.jpg?v=1788952984"
+  },
+  "gid://shopify/ProductVariant/49710808137955": {
+    "product_title": "Vivid and Vibrant Diamond Design Hair Maatal",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2479",
+    "price": 34700.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/vivid-and-vibrant-diamond-design-hair-maatal?variant=gid://shopify/ProductVariant/49710808137955",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2479.jpg?v=1788953146"
+  },
+  "gid://shopify/ProductVariant/49710832451811": {
+    "product_title": "Vibrant Anikaa Avikam Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5024",
+    "price": 42000.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/avikam-pendant-set-10?variant=gid://shopify/ProductVariant/49710832451811",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5024.jpg?v=1788953246"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -121445,15 +121481,6 @@
     "url": "https://www.theamethyststore.com/products/ruhani-reversible-short-necklace?variant=gid://shopify/ProductVariant/48170484170979",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14624-_3.jpg?v=1770806832"
   },
-  "gid://shopify/ProductVariant/48170556752099": {
-    "product_title": "Marigold Toe Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-117-0690",
-    "price": 4084.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/marigold-toe-ring?variant=gid://shopify/ProductVariant/48170556752099",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0690.jpg?v=1770808163"
-  },
   "gid://shopify/ProductVariant/48176255500515": {
     "product_title": "Elegant Nagas Kaasu Maalai Necklace",
     "variant_title": "Default Title",
@@ -132775,5 +132802,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nagas-earrings-4?variant=gid://shopify/ProductVariant/49669060133091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/WhatsAppImage2026-09-04at6.45.21PM_2b9040f9-cc85-4c1f-844a-769001f990e4.jpg?v=1788528205"
+  },
+  "gid://shopify/ProductVariant/49710854013155": {
+    "product_title": "Authentic Zara Victorian Pendant set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5026",
+    "price": 45700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/victorian-pendant-set-2?variant=gid://shopify/ProductVariant/49710854013155",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5026.jpg?v=1788953482"
   }
 }
