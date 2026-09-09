@@ -5201,15 +5201,6 @@
     "url": "https://www.rasasilver.com/products/s3?variant=gid://shopify/ProductVariant/51226557907241",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS274.jpg?v=1759993371"
   },
-  "gid://shopify/ProductVariant/51226567409961": {
-    "product_title": "Fernlight Fine Bracelet",
-    "variant_title": "Default Title",
-    "sku": "R12940",
-    "price": 7225.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/s4?variant=gid://shopify/ProductVariant/51226567409961",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS291.jpg?v=1759989825"
-  },
   "gid://shopify/ProductVariant/51226571964713": {
     "product_title": "Fernara Bracelet",
     "variant_title": "Default Title",
@@ -11005,15 +10996,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/2-2?variant=gid://shopify/ProductVariant/52446448845097",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0491copy.jpg?v=1768645819"
-  },
-  "gid://shopify/ProductVariant/52446451892521": {
-    "product_title": "The Link Bracelet",
-    "variant_title": "Default Title",
-    "sku": "R20654",
-    "price": 4675.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/lotus-bracelet?variant=gid://shopify/ProductVariant/52446451892521",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0515copy.jpg?v=1768645375"
   },
   "gid://shopify/ProductVariant/52446507008297": {
     "product_title": "Pearla Bracelet",
@@ -27161,6 +27143,15 @@
     "url": "https://www.rasasilver.com/products/s2?variant=gid://shopify/ProductVariant/51226553876777",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0508copy.jpg?v=1768641835"
   },
+  "gid://shopify/ProductVariant/51226567409961": {
+    "product_title": "Fernlight Fine Bracelet",
+    "variant_title": "Default Title",
+    "sku": "R12940",
+    "price": 7225.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/s4?variant=gid://shopify/ProductVariant/51226567409961",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS291.jpg?v=1759989825"
+  },
   "gid://shopify/ProductVariant/51226574881065": {
     "product_title": "Glitzelle Fine Bracelet",
     "variant_title": "Default Title",
@@ -36304,6 +36295,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/peacock-kundan-ring?variant=gid://shopify/ProductVariant/52430470807849",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0097copy_resized_24d45539-50f2-46fd-a251-59ab32e0cd0a.jpg?v=1768199685"
+  },
+  "gid://shopify/ProductVariant/52446451892521": {
+    "product_title": "The Link Bracelet",
+    "variant_title": "Default Title",
+    "sku": "R20654",
+    "price": 4675.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/lotus-bracelet?variant=gid://shopify/ProductVariant/52446451892521",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0515copy.jpg?v=1768645375"
   },
   "gid://shopify/ProductVariant/52446511694121": {
     "product_title": "Eterna Multishine Bracelet",
