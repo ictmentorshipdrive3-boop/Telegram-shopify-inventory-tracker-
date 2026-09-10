@@ -5917,7 +5917,7 @@
     "variant_title": "Small",
     "sku": "AMS-119-0001-S",
     "price": 5000.0,
-    "stock": 5,
+    "stock": 15,
     "url": "https://www.theamethyststore.com/products/fish-hook-back-chain?variant=gid://shopify/ProductVariant/49674885333219",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_21dbdd2e-d30a-4019-816f-52833d641d9a.jpg?v=1693456844"
   },
@@ -101168,15 +101168,6 @@
     "url": "https://www.theamethyststore.com/products/kundan-pair-bangles-7?variant=gid://shopify/ProductVariant/49571486892259",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3559_2.jpg?v=1787300276"
   },
-  "gid://shopify/ProductVariant/49571486269667": {
-    "product_title": "Pretty Kundan Pair Bangles",
-    "variant_title": "2.6\"",
-    "sku": "AMS-107-3559-2.6\"",
-    "price": 45800.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/kundan-pair-bangles-7?variant=gid://shopify/ProductVariant/49571486269667",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3559_2.jpg?v=1787300276"
-  },
   "gid://shopify/ProductVariant/49571489415395": {
     "product_title": "Luxury Moissanite Long Necklace Set",
     "variant_title": "Default Title",
@@ -107095,7 +107086,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17681",
     "price": 78200.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/3d-spl-short-necklace-set-10?variant=gid://shopify/ProductVariant/49668620255459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17681.jpg?v=1788517416"
   },
@@ -132685,6 +132676,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/mesmerizing-moissanite-short-necklace-set-2?variant=gid://shopify/ProductVariant/49571372433635",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17709.jpg?v=1787298596"
+  },
+  "gid://shopify/ProductVariant/49571486269667": {
+    "product_title": "Pretty Kundan Pair Bangles",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-3559-2.6\"",
+    "price": 45800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kundan-pair-bangles-7?variant=gid://shopify/ProductVariant/49571486269667",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3559_2.jpg?v=1787300276"
   },
   "gid://shopify/ProductVariant/49572481040611": {
     "product_title": "Kenisha Bullakku Nose Pin",
