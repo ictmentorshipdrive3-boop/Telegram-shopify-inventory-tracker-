@@ -22508,15 +22508,6 @@
     "url": "https://www.theamethyststore.com/products/dhaksha-short-necklace?variant=gid://shopify/ProductVariant/46602120167651",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9738.jpg?v=1749799379"
   },
-  "gid://shopify/ProductVariant/46602673914083": {
-    "product_title": "Tharavi Stone Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-9779",
-    "price": 106117.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/tharavi-stone-long-necklace?variant=gid://shopify/ProductVariant/46602673914083",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9779.jpg?v=1749801126"
-  },
   "gid://shopify/ProductVariant/46606675509475": {
     "product_title": "Anushka Stone Long Necklace",
     "variant_title": "Default Title",
@@ -29496,8 +29487,8 @@
     "product_title": "Krishitha Nagas Long Earrings",
     "variant_title": "Default Title",
     "sku": "AMS-106-9439",
-    "price": 23800.0,
-    "stock": 1,
+    "price": 24000.0,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/krishitha-nagas-long-earrings?variant=gid://shopify/ProductVariant/47033033588963",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9439.jpg?v=1755519151"
   },
@@ -32272,15 +32263,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/karunya-nagas-pair-bangle?variant=gid://shopify/ProductVariant/49681951293667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2530.jpg?v=1756192352"
-  },
-  "gid://shopify/ProductVariant/49674848633059": {
-    "product_title": "Dhivara Nagas Pair Bangle",
-    "variant_title": "2.6\"",
-    "sku": "AMS-107-2529-2.6\"",
-    "price": 28867.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/dhivara-nagas-pair-bangle?variant=gid://shopify/ProductVariant/49674848633059",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2529.jpg?v=1756193221"
   },
   "gid://shopify/ProductVariant/49681951326435": {
     "product_title": "Dhivara Nagas Pair Bangle",
@@ -49705,15 +49687,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/blissful-long-necklace?variant=gid://shopify/ProductVariant/47739696578787",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13487.jpg?v=1765885562"
-  },
-  "gid://shopify/ProductVariant/47739706736867": {
-    "product_title": "Yarani Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-13489",
-    "price": 61719.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/yarani-short-necklace-1?variant=gid://shopify/ProductVariant/47739706736867",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13489.jpg?v=1765886188"
   },
   "gid://shopify/ProductVariant/47739763032291": {
     "product_title": "Nethra Jhumkas",
@@ -113606,6 +113579,15 @@
     "url": "https://www.theamethyststore.com/products/dazzling-white-short-necklace?variant=gid://shopify/ProductVariant/46601169010915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9353.jpg?v=1749796800"
   },
+  "gid://shopify/ProductVariant/46602673914083": {
+    "product_title": "Tharavi Stone Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-9779",
+    "price": 106117.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/tharavi-stone-long-necklace?variant=gid://shopify/ProductVariant/46602673914083",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9779.jpg?v=1749801126"
+  },
   "gid://shopify/ProductVariant/46681137184995": {
     "product_title": "Bhuva Hair Maatal",
     "variant_title": "Default Title",
@@ -116143,6 +116125,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/ananya-stone-pair-bangles?variant=gid://shopify/ProductVariant/49674807541987",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2531.jpg?v=1756191812"
+  },
+  "gid://shopify/ProductVariant/49674848633059": {
+    "product_title": "Dhivara Nagas Pair Bangle",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-2529-2.6\"",
+    "price": 28867.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/dhivara-nagas-pair-bangle?variant=gid://shopify/ProductVariant/49674848633059",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2529.jpg?v=1756193221"
   },
   "gid://shopify/ProductVariant/49671805370595": {
     "product_title": "Iranya Nagas Pair Bangle",
@@ -119149,6 +119140,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/janani-nagas-short-necklace?variant=gid://shopify/ProductVariant/47739638907107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13476.jpg?v=1765883693"
+  },
+  "gid://shopify/ProductVariant/47739706736867": {
+    "product_title": "Yarani Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-13489",
+    "price": 61719.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/yarani-short-necklace-1?variant=gid://shopify/ProductVariant/47739706736867",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13489.jpg?v=1765886188"
   },
   "gid://shopify/ProductVariant/47739711717603": {
     "product_title": "Unique Jhumkas",
