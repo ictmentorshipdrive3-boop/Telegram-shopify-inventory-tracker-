@@ -4477,7 +4477,7 @@
     "variant_title": "GREEN",
     "sku": "R20369",
     "price": 5695.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/pushpmani-danglers?variant=gid://shopify/ProductVariant/52279154049321",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP213.jpg?v=1756542102"
   },
@@ -19591,6 +19591,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/oval-floral-cz-danglers?variant=gid://shopify/ProductVariant/53283020046633",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1794_resized.jpg?v=1782136088"
+  },
+  "gid://shopify/ProductVariant/53283847274793": {
+    "product_title": "Srija CZ Bangles",
+    "variant_title": "2.8",
+    "sku": "R29510",
+    "price": 28815.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/srija-cz-bangles?variant=gid://shopify/ProductVariant/53283847274793",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May1727_resized.jpg?v=1782194206"
   },
   "gid://shopify/ProductVariant/53283855073577": {
     "product_title": "Infinite Spark Stone Bangles",
@@ -45080,15 +45089,6 @@
     "url": "https://www.rasasilver.com/products/svara-cz-danglers?variant=gid://shopify/ProductVariant/53283808936233",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1763_resized.jpg?v=1782193581"
   },
-  "gid://shopify/ProductVariant/53283847274793": {
-    "product_title": "Srija CZ Bangles",
-    "variant_title": "2.8",
-    "sku": "R29510",
-    "price": 28815.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/srija-cz-bangles?variant=gid://shopify/ProductVariant/53283847274793",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May1727_resized.jpg?v=1782194206"
-  },
   "gid://shopify/ProductVariant/53283846488361": {
     "product_title": "Viridia CZ Kada",
     "variant_title": "Default Title",
@@ -47302,6 +47302,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/shubhira-temple-hair-brooch?variant=gid://shopify/ProductVariant/53475651748137",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__1Sep13521.jpg?v=1789041332"
+  },
+  "gid://shopify/ProductVariant/53475669770537": {
+    "product_title": "Mor-Ananta Temple Hair Brooch",
+    "variant_title": "Default Title",
+    "sku": "R34816",
+    "price": 10795.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/mor-ananta-temple-hair-brooch?variant=gid://shopify/ProductVariant/53475669770537",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__1Sep1360.jpg?v=1789042228"
   },
   "gid://shopify/ProductVariant/53475677143337": {
     "product_title": "Padmavarnaa Temple Hair Brooch",
