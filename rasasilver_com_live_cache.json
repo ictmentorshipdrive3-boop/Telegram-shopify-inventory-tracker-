@@ -9283,7 +9283,7 @@
     "variant_title": "Ruby Pink / 5.4",
     "sku": "R16685",
     "price": 3230.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/rosalya-ring?variant=gid://shopify/ProductVariant/52166987907369",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0045copy_resized.jpg?v=1763971241"
   },
@@ -15767,15 +15767,6 @@
     "url": "https://www.rasasilver.com/products/manjari-temple-bangles?variant=gid://shopify/ProductVariant/52881454399785",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_12_Mar16075_resized.jpg?v=1774518355"
   },
-  "gid://shopify/ProductVariant/52881465409833": {
-    "product_title": "Svarnika Temple Bangles",
-    "variant_title": "2.4",
-    "sku": "R26343",
-    "price": 46325.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/svarnika-temple-bangles?variant=gid://shopify/ProductVariant/52881465409833",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_12_Mar16070_resized.jpg?v=1774518639"
-  },
   "gid://shopify/ProductVariant/52827708784937": {
     "product_title": "Kamalashree Temple Necklace",
     "variant_title": "Default Title",
@@ -18088,15 +18079,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/leaflina-hoops?variant=gid://shopify/ProductVariant/53129741402409",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0278_resized.jpg?v=1781007051"
-  },
-  "gid://shopify/ProductVariant/53129747595561": {
-    "product_title": "Kamakshi Temple Ring",
-    "variant_title": "Default Title",
-    "sku": "R28216",
-    "price": 2975.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/kamakshi-temple-ring?variant=gid://shopify/ProductVariant/53129747595561",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11837_resized.jpg?v=1781176872"
   },
   "gid://shopify/ProductVariant/53130067804457": {
     "product_title": "Twist Necklace",
@@ -41372,6 +41354,15 @@
     "url": "https://www.rasasilver.com/products/shreevatsa-long-temple-necklace?variant=gid://shopify/ProductVariant/52827708555561",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar01211_resized.jpg?v=1774443425"
   },
+  "gid://shopify/ProductVariant/52881465409833": {
+    "product_title": "Svarnika Temple Bangles",
+    "variant_title": "2.4",
+    "sku": "R26343",
+    "price": 46325.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/svarnika-temple-bangles?variant=gid://shopify/ProductVariant/52881465409833",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_12_Mar16070_resized.jpg?v=1774518639"
+  },
   "gid://shopify/ProductVariant/52880715546921": {
     "product_title": "Vainika Antique Mala",
     "variant_title": "Purple",
@@ -43639,6 +43630,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/vainika-stone-ring?variant=gid://shopify/ProductVariant/53129729802537",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11840_resized.jpg?v=1781176678"
+  },
+  "gid://shopify/ProductVariant/53129747595561": {
+    "product_title": "Kamakshi Temple Ring",
+    "variant_title": "Default Title",
+    "sku": "R28216",
+    "price": 2975.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/kamakshi-temple-ring?variant=gid://shopify/ProductVariant/53129747595561",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11837_resized.jpg?v=1781176872"
   },
   "gid://shopify/ProductVariant/53129834823977": {
     "product_title": "Dual Aura Necklace",
