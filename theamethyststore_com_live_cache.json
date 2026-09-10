@@ -14057,15 +14057,6 @@
     "url": "https://www.theamethyststore.com/products/drusilla-long-earrings?variant=gid://shopify/ProductVariant/45731368927459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-7082.jpg?v=1732097167"
   },
-  "gid://shopify/ProductVariant/45731385966819": {
-    "product_title": "Nandhika Long Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-7084",
-    "price": 23800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nandhika-long-earrings?variant=gid://shopify/ProductVariant/45731385966819",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-7084.jpg?v=1732097702"
-  },
   "gid://shopify/ProductVariant/45731397271779": {
     "product_title": "Namratha Long Earrings",
     "variant_title": "Default Title",
@@ -105691,7 +105682,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15930",
     "price": 6100.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/elegant-avikam-jhumkas?variant=gid://shopify/ProductVariant/49658868105443",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15930.jpg?v=1788327983"
   },
@@ -111904,6 +111895,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/kendra-avikam-pendant-set?variant=gid://shopify/ProductVariant/45699964764387",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2034.jpg?v=1731406131"
+  },
+  "gid://shopify/ProductVariant/45731385966819": {
+    "product_title": "Nandhika Long Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-7084",
+    "price": 23800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nandhika-long-earrings?variant=gid://shopify/ProductVariant/45731385966819",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-7084.jpg?v=1732097702"
   },
   "gid://shopify/ProductVariant/45744860070115": {
     "product_title": "Shakshini Studs",
