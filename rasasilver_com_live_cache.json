@@ -1493,6 +1493,15 @@
     "url": "https://www.rasasilver.com/products/nilohaar-necklace?variant=gid://shopify/ProductVariant/51441089741097",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0117_copy_resized.jpg?v=1761723467"
   },
+  "gid://shopify/ProductVariant/50307404923177": {
+    "product_title": "Desi Featherfall Chain",
+    "variant_title": "Pink",
+    "sku": "R6538",
+    "price": 10625.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/desi-featherfall-chain-pendant?variant=gid://shopify/ProductVariant/50307404923177",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06909copy.jpg?v=1747132855"
+  },
   "gid://shopify/ProductVariant/50308034887977": {
     "product_title": "Kundan Shringar Earrings",
     "variant_title": "Default Title",
@@ -22067,6 +22076,15 @@
     "url": "https://www.rasasilver.com/products/burgundy-crown-bracelet?variant=gid://shopify/ProductVariant/53346683355433",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0411_resized.jpg?v=1785919177"
   },
+  "gid://shopify/ProductVariant/53346717892905": {
+    "product_title": "Imperial Multigem Gemstone Bracelet",
+    "variant_title": "Default Title",
+    "sku": "R31067",
+    "price": 10795.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/imperial-multigem-gemstone-bracelet?variant=gid://shopify/ProductVariant/53346717892905",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July09221.jpg?v=1786345500"
+  },
   "gid://shopify/ProductVariant/53346722513193": {
     "product_title": "Navaratna Garden Necklace",
     "variant_title": "Default Title",
@@ -23836,7 +23854,7 @@
     "variant_title": "Default Title",
     "sku": "R32241",
     "price": 14600.0,
-    "stock": 4,
+    "stock": 5,
     "url": "https://www.rasasilver.com/products/aurora-lariat-necklace?variant=gid://shopify/ProductVariant/53410022424873",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19546.jpg?v=1786703210"
   },
@@ -23863,7 +23881,7 @@
     "variant_title": "Default Title",
     "sku": "R32253",
     "price": 2650.0,
-    "stock": 4,
+    "stock": 5,
     "url": "https://www.rasasilver.com/products/isabelle-necklace?variant=gid://shopify/ProductVariant/53410042872105",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19520.jpg?v=1786704542"
   },
@@ -23872,7 +23890,7 @@
     "variant_title": "Silver",
     "sku": "R32258",
     "price": 2800.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/aurora-collar-necklace?variant=gid://shopify/ProductVariant/53410983346473",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19516.jpg?v=1786707912"
   },
@@ -24909,15 +24927,6 @@
     "price": 5950.0,
     "stock": 0,
     "url": "https://www.rasasilver.com/products/desi-featherfall-chain-pendant?variant=gid://shopify/ProductVariant/50307404890409",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06909copy.jpg?v=1747132855"
-  },
-  "gid://shopify/ProductVariant/50307404923177": {
-    "product_title": "Desi Featherfall Chain",
-    "variant_title": "Pink",
-    "sku": "R6538",
-    "price": 10625.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/desi-featherfall-chain-pendant?variant=gid://shopify/ProductVariant/50307404923177",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06909copy.jpg?v=1747132855"
   },
   "gid://shopify/ProductVariant/50313068904745": {
@@ -46367,15 +46376,6 @@
     "url": "https://www.rasasilver.com/products/luxe-waterfall-cuff-bracelet?variant=gid://shopify/ProductVariant/53346704064809",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0970.jpg?v=1786104096"
   },
-  "gid://shopify/ProductVariant/53346717892905": {
-    "product_title": "Imperial Multigem Gemstone Bracelet",
-    "variant_title": "Default Title",
-    "sku": "R31067",
-    "price": 10795.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/imperial-multigem-gemstone-bracelet?variant=gid://shopify/ProductVariant/53346717892905",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July09221.jpg?v=1786345500"
-  },
   "gid://shopify/ProductVariant/53346857681193": {
     "product_title": "The Rose Hour Watch",
     "variant_title": "Default Title",
@@ -47338,6 +47338,24 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/avira-plain-chain?variant=gid://shopify/ProductVariant/53475729375529",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459394.jpg?v=1789044574"
+  },
+  "gid://shopify/ProductVariant/53476294820137": {
+    "product_title": "Navira Kundan Danglers",
+    "variant_title": "Default Title",
+    "sku": "R33670",
+    "price": 20825.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/navira-kundan-danglers?variant=gid://shopify/ProductVariant/53476294820137",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459134.jpg?v=1789045921"
+  },
+  "gid://shopify/ProductVariant/53476300423465": {
+    "product_title": "Patta Kundan Buggadi",
+    "variant_title": "Default Title",
+    "sku": "R33929",
+    "price": 2295.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/patta-kundan-buggadi?variant=gid://shopify/ProductVariant/53476300423465",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459181.jpg?v=1789046764"
   },
   "gid://shopify/ProductVariant/53493262483753": {
     "product_title": "Kamalarchi Temple Choker",
