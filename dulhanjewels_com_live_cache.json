@@ -4778,15 +4778,6 @@
     "url": "https://www.dulhanjewels.com/products/traditional-jalebi-jadau-kundan-necklace-with-emerald-beads?variant=gid://shopify/ProductVariant/51178694508850",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/2673D6C0-69D1-4A5D-BB3A-C2F05193775F.jpg?v=1788439672"
   },
-  "gid://shopify/ProductVariant/51178694476082": {
-    "product_title": "Traditional Jalebi Jadau Kundan Necklace With Emerald Beads",
-    "variant_title": "White",
-    "sku": null,
-    "price": 3400.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/traditional-jalebi-jadau-kundan-necklace-with-emerald-beads?variant=gid://shopify/ProductVariant/51178694476082",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/2673D6C0-69D1-4A5D-BB3A-C2F05193775F.jpg?v=1788439672"
-  },
   "gid://shopify/ProductVariant/51178755227954": {
     "product_title": "Elegant Floral Design Jadau Kundan Necklace With Pearl Hangings",
     "variant_title": "Default Title",
@@ -6713,15 +6704,6 @@
     "url": "https://www.dulhanjewels.com/products/radiant-victorian-chandbali-earrings-with-pearl-drops?variant=gid://shopify/ProductVariant/51674439614770",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0561.jpg?v=1788000912"
   },
-  "gid://shopify/ProductVariant/51682858074418": {
-    "product_title": "Lotus Design Jadau Kundan Chandbali Earrings With Emerald Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1550.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/lotus-design-jadau-kundan-chandbali-earrings-with-emerald-drops?variant=gid://shopify/ProductVariant/51682858074418",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-1762.jpg?v=1788246125"
-  },
   "gid://shopify/ProductVariant/51682869444914": {
     "product_title": "Elegant Jadau Kundan Pearl Mala",
     "variant_title": "Default Title",
@@ -7559,6 +7541,15 @@
     "url": "https://www.dulhanjewels.com/products/classic-jadau-kundan-peacock-design-stud-earrings?variant=gid://shopify/ProductVariant/51135870239026",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/E9877559-3CD2-47C6-80A5-7A66ADED8F86.jpg?v=1778154640"
   },
+  "gid://shopify/ProductVariant/51178694476082": {
+    "product_title": "Traditional Jalebi Jadau Kundan Necklace With Emerald Beads",
+    "variant_title": "White",
+    "sku": null,
+    "price": 3400.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/traditional-jalebi-jadau-kundan-necklace-with-emerald-beads?variant=gid://shopify/ProductVariant/51178694476082",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/2673D6C0-69D1-4A5D-BB3A-C2F05193775F.jpg?v=1788439672"
+  },
   "gid://shopify/ProductVariant/51234785362226": {
     "product_title": "Designer Jadau Kundan Chandbali Earrings With Emerald Beads",
     "variant_title": "Red",
@@ -7693,5 +7684,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/elegant-floral-design-polki-bangles?variant=gid://shopify/ProductVariant/51703639212338",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/DC202F11-82F5-4A99-8EB2-E317FE34F70A.jpg?v=1788000449"
+  },
+  "gid://shopify/ProductVariant/51682858074418": {
+    "product_title": "Lotus Design Jadau Kundan Chandbali Earrings With Emerald Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1550.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/lotus-design-jadau-kundan-chandbali-earrings-with-emerald-drops?variant=gid://shopify/ProductVariant/51682858074418",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-1762.jpg?v=1788246125"
   }
 }
