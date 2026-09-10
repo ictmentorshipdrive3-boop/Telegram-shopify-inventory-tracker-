@@ -3568,7 +3568,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 3400.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.dulhanjewels.com/products/stunning-jadau-kundan-statement-necklace-with-ruby-stones-and-emerald-drops?variant=gid://shopify/ProductVariant/50969113821490",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/64F48626-C3B9-4E00-8DBD-47618E2AC2DA.jpg?v=1773320172"
   },
@@ -6713,15 +6713,6 @@
     "url": "https://www.dulhanjewels.com/products/victorian-polki-stud-earrings-with-ruby-and-emerald?variant=gid://shopify/ProductVariant/51723057299762",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0726.jpg?v=1788599823"
   },
-  "gid://shopify/ProductVariant/51723082137906": {
-    "product_title": "Royal Victorian Polki Stud Earrings With Ruby Accents",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1000.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/royal-victorian-polki-stud-earrings-with-ruby-accents?variant=gid://shopify/ProductVariant/51723082137906",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/595891B2-ED23-43A4-8E59-ACC51F89908F.jpg?v=1788600361"
-  },
   "gid://shopify/ProductVariant/51723097440562": {
     "product_title": "Mini Jadau Kundan Maang Tikka With Emerald Beads",
     "variant_title": "Default Title",
@@ -7486,6 +7477,15 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/stylish-victorian-emerald-pendant-with-earrings-matching-earrings?variant=gid://shopify/ProductVariant/51706908868914",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/718B4909-6DB5-4A7E-ADAB-1B729F46087E.jpg?v=1788606458"
+  },
+  "gid://shopify/ProductVariant/51723082137906": {
+    "product_title": "Royal Victorian Polki Stud Earrings With Ruby Accents",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1000.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/royal-victorian-polki-stud-earrings-with-ruby-accents?variant=gid://shopify/ProductVariant/51723082137906",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/595891B2-ED23-43A4-8E59-ACC51F89908F.jpg?v=1788600361"
   },
   "gid://shopify/ProductVariant/51744487342386": {
     "product_title": "Delicate Jadau Kundan Maang Tikka With Emerald Drops",
