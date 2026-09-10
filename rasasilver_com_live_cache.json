@@ -3851,15 +3851,6 @@
     "url": "https://www.rasasilver.com/products/emerlure-short-necklace?variant=gid://shopify/ProductVariant/50749837771049",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_06Aug20379.jpg?v=1756193136"
   },
-  "gid://shopify/ProductVariant/50756969070889": {
-    "product_title": "Peacock Duet Choker Set",
-    "variant_title": "Default Title",
-    "sku": "R11507",
-    "price": 63155.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/peacock-duet-choker-set?variant=gid://shopify/ProductVariant/50756969070889",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_0e177427-3778-4916-a091-f11e6fa6b1b0.jpg?v=1755605876"
-  },
   "gid://shopify/ProductVariant/50757007180073": {
     "product_title": "Jodhaa Zircon Hip Belt",
     "variant_title": "Default Title",
@@ -16834,7 +16825,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R26774",
     "price": 56185.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/tearovia-cz-necklace-set?variant=gid://shopify/ProductVariant/52881483202857",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0075_resized.jpg?v=1775288039"
   },
@@ -24331,7 +24322,7 @@
     "variant_title": "Default Title",
     "sku": "R30484",
     "price": 4300.0,
-    "stock": 34,
+    "stock": 33,
     "url": "https://www.rasasilver.com/products/back-chain?variant=gid://shopify/ProductVariant/53426656870697",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageAug24_2026_12_36_13PM.png?v=1787555201"
   },
@@ -25567,6 +25558,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/emerald-elixir-choker-set?variant=gid://shopify/ProductVariant/50756934041897",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-9_674f25a4-599c-489c-9007-1790d1f89427.jpg?v=1755601812"
+  },
+  "gid://shopify/ProductVariant/50756969070889": {
+    "product_title": "Peacock Duet Choker Set",
+    "variant_title": "Default Title",
+    "sku": "R11507",
+    "price": 63155.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/peacock-duet-choker-set?variant=gid://shopify/ProductVariant/50756969070889",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_0e177427-3778-4916-a091-f11e6fa6b1b0.jpg?v=1755605876"
   },
   "gid://shopify/ProductVariant/50815892128041": {
     "product_title": "Trinity Bloom Bangles",
