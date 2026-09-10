@@ -71837,15 +71837,6 @@
     "url": "https://www.theamethyststore.com/products/hisha-hook-earrings?variant=gid://shopify/ProductVariant/48968548745443",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13849.jpg?v=1778912788"
   },
-  "gid://shopify/ProductVariant/48968549728483": {
-    "product_title": "Krishikha Kundan Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15781",
-    "price": 53252.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/krishikha-kundan-short-necklace?variant=gid://shopify/ProductVariant/48968549728483",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15781_f058b858-1e96-495a-8fa7-b7b83011f69f.jpg?v=1778912995"
-  },
   "gid://shopify/ProductVariant/48968564080867": {
     "product_title": "Trendy Look Long Earrings",
     "variant_title": "Default Title",
@@ -78136,15 +78127,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/nagas-pair-bangles-47?variant=gid://shopify/ProductVariant/49320503541987",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3298_2.jpg?v=1782566924"
-  },
-  "gid://shopify/ProductVariant/49320508522723": {
-    "product_title": "Vivera Nagas Pair Bangles",
-    "variant_title": "2.6\"",
-    "sku": "AMS-107-3291-2.6\"",
-    "price": 23477.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nagas-pair-bangles-49?variant=gid://shopify/ProductVariant/49320508522723",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3291_2.jpg?v=1782567403"
   },
   "gid://shopify/ProductVariant/49320512651491": {
     "product_title": "Luxe charm Nagas Pair Bangles",
@@ -105682,7 +105664,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15930",
     "price": 6100.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/elegant-avikam-jhumkas?variant=gid://shopify/ProductVariant/49658868105443",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15930.jpg?v=1788327983"
   },
@@ -125774,6 +125756,15 @@
     "url": "https://www.theamethyststore.com/products/jashvitha-reversible-short-necklace?variant=gid://shopify/ProductVariant/48968538554595",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15779_3.jpg?v=1778911685"
   },
+  "gid://shopify/ProductVariant/48968549728483": {
+    "product_title": "Krishikha Kundan Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15781",
+    "price": 53252.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/krishikha-kundan-short-necklace?variant=gid://shopify/ProductVariant/48968549728483",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15781_f058b858-1e96-495a-8fa7-b7b83011f69f.jpg?v=1778912995"
+  },
   "gid://shopify/ProductVariant/48970427564259": {
     "product_title": "Lakshmi Nagas Long Necklace",
     "variant_title": "Default Title",
@@ -128536,6 +128527,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/eternal-elegance-short-necklace?variant=gid://shopify/ProductVariant/49320505213155",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16351.jpg?v=1782567556"
+  },
+  "gid://shopify/ProductVariant/49320508522723": {
+    "product_title": "Vivera Nagas Pair Bangles",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-3291-2.6\"",
+    "price": 23477.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-pair-bangles-49?variant=gid://shopify/ProductVariant/49320508522723",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3291_2.jpg?v=1782567403"
   },
   "gid://shopify/ProductVariant/49320520909027": {
     "product_title": "Classic Charm Short Necklace",
