@@ -10093,7 +10093,7 @@
     "variant_title": "Default Title",
     "sku": "R20945",
     "price": 104805.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.rasasilver.com/products/gajessa-pallais-necklace-set?variant=gid://shopify/ProductVariant/52279411081513",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_16Dec36210.jpg?v=1766137579"
   },
@@ -10381,7 +10381,7 @@
     "variant_title": "Default Title",
     "sku": "R22079",
     "price": 8415.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/navrisa-navaratna-pendant?variant=gid://shopify/ProductVariant/52331044700457",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0723copy.jpg?v=1766733173"
   },
@@ -14035,7 +14035,7 @@
     "variant_title": "Default Title",
     "sku": "R24793",
     "price": 21760.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/two-layers-antique-mala?variant=gid://shopify/ProductVariant/52668091892009",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4200.jpg?v=1771089792"
   },
@@ -14071,7 +14071,7 @@
     "variant_title": "Default Title",
     "sku": "R22955",
     "price": 15640.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/visheshika-temple-chudi?variant=gid://shopify/ProductVariant/52668215394601",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP02075copy_1.jpg?v=1746173733"
   },
@@ -15286,7 +15286,7 @@
     "variant_title": "Default Title",
     "sku": "R26060",
     "price": 9945.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/kundan-tikka-4?variant=gid://shopify/ProductVariant/52779778933033",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00217copy_resized.jpg?v=1772518987"
   },
@@ -16567,15 +16567,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/ratnalika-temple-necklace?variant=gid://shopify/ProductVariant/52831910527273",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar0138_resized.jpg?v=1774533823"
-  },
-  "gid://shopify/ProductVariant/52832121159977": {
-    "product_title": "Lumivara Moissanite Bangles",
-    "variant_title": "Default Title",
-    "sku": "R23930",
-    "price": 55080.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/maniratna-moissanite-bangles?variant=gid://shopify/ProductVariant/52832121159977",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_12_Mar16159_resized.jpg?v=1774334387"
   },
   "gid://shopify/ProductVariant/52832229556521": {
     "product_title": "Aurelina Moissanite Bangles",
@@ -41965,6 +41956,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/madhulata-temple-necklace?variant=gid://shopify/ProductVariant/52831978422569",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar0306_resized.jpg?v=1774534228"
+  },
+  "gid://shopify/ProductVariant/52832121159977": {
+    "product_title": "Lumivara Moissanite Bangles",
+    "variant_title": "Default Title",
+    "sku": "R23930",
+    "price": 55080.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/maniratna-moissanite-bangles?variant=gid://shopify/ProductVariant/52832121159977",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_12_Mar16159_resized.jpg?v=1774334387"
   },
   "gid://shopify/ProductVariant/52832177717545": {
     "product_title": "Auravina Moissanite Bangles",
