@@ -2159,15 +2159,6 @@
     "url": "https://www.theamethyststore.com/products/green-grape-bracelet?variant=gid://shopify/ProductVariant/43278122352867",
     "image_url": null
   },
-  "gid://shopify/ProductVariant/43278708703459": {
-    "product_title": "Manasi Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-3201",
-    "price": 8982.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/manasi-stone-studs?variant=gid://shopify/ProductVariant/43278708703459",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3201.jpg?v=1661606008"
-  },
   "gid://shopify/ProductVariant/43280622092515": {
     "product_title": "Menaka Stone Studs",
     "variant_title": "Default Title",
@@ -6028,15 +6019,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/kaayal-layer-long-necklace?variant=gid://shopify/ProductVariant/44009791783139",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-4983.jpg?v=1695736620"
-  },
-  "gid://shopify/ProductVariant/44013468254435": {
-    "product_title": "Swathika Chain Bracelet",
-    "variant_title": "Default Title",
-    "sku": "AMS-103-0396",
-    "price": 11200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/swathika-chain-bracelet?variant=gid://shopify/ProductVariant/44013468254435",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-0396.jpg?v=1695992608"
   },
   "gid://shopify/ProductVariant/44016680272099": {
     "product_title": "Firoz Short Necklace",
@@ -16999,6 +16981,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/akshya-avikam-long-necklace-set?variant=gid://shopify/ProductVariant/46140415639779",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8633.jpg?v=1742295503"
+  },
+  "gid://shopify/ProductVariant/46140434317539": {
+    "product_title": "Daisiya Diamond Design Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-8637",
+    "price": 52400.0,
+    "stock": 6,
+    "url": "https://www.theamethyststore.com/products/daisiya-diamond-design-necklace?variant=gid://shopify/ProductVariant/46140434317539",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8637.jpg?v=1742295959"
   },
   "gid://shopify/ProductVariant/46140497789155": {
     "product_title": "Facinate Long Earrings",
@@ -39505,7 +39496,7 @@
     "variant_title": "2.4\"",
     "sku": "AMS-107-2296-2.4\"",
     "price": 33000.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/nithrasha-avikam-pair-bangles?variant=gid://shopify/ProductVariant/49681965056227",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2296_1.jpg?v=1759668546"
   },
@@ -60547,7 +60538,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-12754",
     "price": 4691.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/glittering-diamond-stud?variant=gid://shopify/ProductVariant/48294517014755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12754.jpg?v=1771592068"
   },
@@ -107468,6 +107459,15 @@
     "url": "https://www.theamethyststore.com/products/temple-worthy-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49719148052707",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18054.jpg?v=1789127083"
   },
+  "gid://shopify/ProductVariant/49719169614051": {
+    "product_title": "Uniquely Fabulous 3D Spl Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18065",
+    "price": 61400.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/uniquely-fabulous-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49719169614051",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18065.jpg?v=1789128437"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -108124,6 +108124,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/lisha-oxidised-anklets?variant=gid://shopify/ProductVariant/43249673404643",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/ams-114-0181.jpg?v=1660901074"
+  },
+  "gid://shopify/ProductVariant/43278708703459": {
+    "product_title": "Manasi Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-3201",
+    "price": 8982.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/manasi-stone-studs?variant=gid://shopify/ProductVariant/43278708703459",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3201.jpg?v=1661606008"
   },
   "gid://shopify/ProductVariant/43278731772131": {
     "product_title": "Fiyama Stone Studs",
@@ -108979,6 +108988,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/chandra-nagas-pendant-1?variant=gid://shopify/ProductVariant/44009438052579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-1384.jpg?v=1695716295"
+  },
+  "gid://shopify/ProductVariant/44013468254435": {
+    "product_title": "Swathika Chain Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-0396",
+    "price": 11200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/swathika-chain-bracelet?variant=gid://shopify/ProductVariant/44013468254435",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-0396.jpg?v=1695992608"
   },
   "gid://shopify/ProductVariant/44016981442787": {
     "product_title": "Nisira Kundan Studs",
@@ -111625,15 +111643,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/lara-beads-chain-with-pendant?variant=gid://shopify/ProductVariant/46139758149859",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-0730_1.jpg?v=1744365393"
-  },
-  "gid://shopify/ProductVariant/46140434317539": {
-    "product_title": "Daisiya Diamond Design Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-8637",
-    "price": 41900.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/daisiya-diamond-design-necklace?variant=gid://shopify/ProductVariant/46140434317539",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8637.jpg?v=1742295959"
   },
   "gid://shopify/ProductVariant/46140824846563": {
     "product_title": "Priyashri Stone Jhumkas",
