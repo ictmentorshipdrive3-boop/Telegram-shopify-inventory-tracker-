@@ -67,7 +67,7 @@
     "variant_title": "Default Title",
     "sku": "R26053",
     "price": 25160.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/peacock-kundan-pendant?variant=gid://shopify/ProductVariant/49837202932009",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2-21.jpg?v=1771916275"
   },
@@ -19394,6 +19394,15 @@
     "url": "https://www.rasasilver.com/products/veer-beruda-kundan-pendant?variant=gid://shopify/ProductVariant/53266593546537",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262028_resized.jpg?v=1781518933"
   },
+  "gid://shopify/ProductVariant/53266597937449": {
+    "product_title": "Reversible Kundan Necklace",
+    "variant_title": "Default Title",
+    "sku": "R28440",
+    "price": 26265.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/reversible-kundan-necklace?variant=gid://shopify/ProductVariant/53266597937449",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262172_resized.jpg?v=1781519608"
+  },
   "gid://shopify/ProductVariant/53266663571753": {
     "product_title": "Padmalaya Temple Necklace",
     "variant_title": "Default Title",
@@ -21004,15 +21013,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/ratna-pushpam-stone-studs?variant=gid://shopify/ProductVariant/53292365021481",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2267_resized.jpg?v=1782893261"
-  },
-  "gid://shopify/ProductVariant/53296567877929": {
-    "product_title": "Petal Sparkle Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "R31924",
-    "price": 2040.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/petal-sparkle-stone-studs?variant=gid://shopify/ProductVariant/53296567877929",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2197_resized.jpg?v=1782893595"
   },
   "gid://shopify/ProductVariant/53296571449641": {
     "product_title": "Ganesh-Glow Temple Studs",
@@ -44675,15 +44675,6 @@
     "url": "https://www.rasasilver.com/products/aadhira-stone-jhumkis?variant=gid://shopify/ProductVariant/53266589909289",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_261833_resized.jpg?v=1781517960"
   },
-  "gid://shopify/ProductVariant/53266597937449": {
-    "product_title": "Reversible Kundan Necklace",
-    "variant_title": "Default Title",
-    "sku": "R28440",
-    "price": 26265.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/reversible-kundan-necklace?variant=gid://shopify/ProductVariant/53266597937449",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262172_resized.jpg?v=1781519608"
-  },
   "gid://shopify/ProductVariant/53266623201577": {
     "product_title": "Morpankh Nakshi Necklace",
     "variant_title": "Default Title",
@@ -45925,6 +45916,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/mangora-stone-studs?variant=gid://shopify/ProductVariant/53292357779753",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2124_resized.jpg?v=1782803549"
+  },
+  "gid://shopify/ProductVariant/53296567877929": {
+    "product_title": "Petal Sparkle Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "R31924",
+    "price": 2040.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/petal-sparkle-stone-studs?variant=gid://shopify/ProductVariant/53296567877929",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2197_resized.jpg?v=1782893595"
   },
   "gid://shopify/ProductVariant/53296568140073": {
     "product_title": "Parijata Luxe Stone Studs",
