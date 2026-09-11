@@ -20245,7 +20245,7 @@
     "variant_title": "Default Title",
     "sku": "R31528",
     "price": 2380.0,
-    "stock": 6,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/silver-chain?variant=gid://shopify/ProductVariant/53286012879145",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13362_resized.jpg?v=1782284552"
   },
@@ -23488,15 +23488,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/celestial-arc-kundan-ear-cuff?variant=gid://shopify/ProductVariant/53370159169833",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0259.jpg?v=1786108075"
-  },
-  "gid://shopify/ProductVariant/53370161856809": {
-    "product_title": "Stellar Kundan Ear Cuff",
-    "variant_title": "Default Title",
-    "sku": "R32152",
-    "price": 5200.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/stellar-kundan-ear-cuff?variant=gid://shopify/ProductVariant/53370161856809",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0268.jpg?v=1786107621"
   },
   "gid://shopify/ProductVariant/53370163364137": {
     "product_title": "Orchid Kundan Ear Cuff",
@@ -46816,6 +46807,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/azure-drop-moissanite-danglers?variant=gid://shopify/ProductVariant/53370117947689",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0013.jpg?v=1786358037"
+  },
+  "gid://shopify/ProductVariant/53370161856809": {
+    "product_title": "Stellar Kundan Ear Cuff",
+    "variant_title": "Default Title",
+    "sku": "R32152",
+    "price": 5200.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/stellar-kundan-ear-cuff?variant=gid://shopify/ProductVariant/53370161856809",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0268.jpg?v=1786107621"
   },
   "gid://shopify/ProductVariant/53370250297641": {
     "product_title": "Laurel Arc Kundan Ear Cuff",
