@@ -41044,7 +41044,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-120-0109",
     "price": 4400.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/glitz-shirt-button-clip-1?variant=gid://shopify/ProductVariant/47276514181347",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-120-0109.jpg?v=1760007046"
   },
@@ -41065,15 +41065,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/raymond-shirt-button-clip?variant=gid://shopify/ProductVariant/47276621758691",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-120-0065.jpg?v=1760007268"
-  },
-  "gid://shopify/ProductVariant/47276662718691": {
-    "product_title": "Roman Shirt Button Clip",
-    "variant_title": "Default Title",
-    "sku": "AMS-120-0067",
-    "price": 6200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/roman-shirt-button-clip?variant=gid://shopify/ProductVariant/47276662718691",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-120-0067.jpg?v=1760007388"
   },
   "gid://shopify/ProductVariant/47276760170723": {
     "product_title": "James Shirt Button Clip",
@@ -52555,7 +52546,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-1929",
     "price": 5000.0,
-    "stock": 1,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/swarna-diamond-design-ring?variant=gid://shopify/ProductVariant/47848881717475",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1929.jpg?v=1768654008"
   },
@@ -107432,6 +107423,15 @@
     "url": "https://www.theamethyststore.com/products/extraordinary-stone-short-necklace-set?variant=gid://shopify/ProductVariant/49719034806499",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18041.jpg?v=1789121680"
   },
+  "gid://shopify/ProductVariant/49719062397155": {
+    "product_title": "Goddess-Like Nagas Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18043",
+    "price": 52600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/goddess-like-nagas-short-necklace-set?variant=gid://shopify/ProductVariant/49719062397155",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18043.jpg?v=1789122799"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -116917,6 +116917,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/rupini-nagas-nakshi-pendant?variant=gid://shopify/ProductVariant/47270526222563",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3569.jpg?v=1759990517"
+  },
+  "gid://shopify/ProductVariant/47276662718691": {
+    "product_title": "Roman Shirt Button Clip",
+    "variant_title": "Default Title",
+    "sku": "AMS-120-0067",
+    "price": 6200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/roman-shirt-button-clip?variant=gid://shopify/ProductVariant/47276662718691",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-120-0067.jpg?v=1760007388"
   },
   "gid://shopify/ProductVariant/47278041268451": {
     "product_title": "Nitharshana Stone Pair Bangle",
