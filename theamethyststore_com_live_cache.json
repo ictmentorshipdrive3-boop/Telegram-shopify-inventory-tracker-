@@ -5737,7 +5737,7 @@
     "variant_title": "8.5 Inches",
     "sku": "AMS-119-0001",
     "price": 4700.0,
-    "stock": 29,
+    "stock": 28,
     "url": "https://www.theamethyststore.com/products/fish-hook-back-chain?variant=gid://shopify/ProductVariant/49696072597731",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_21dbdd2e-d30a-4019-816f-52833d641d9a.jpg?v=1693456844"
   },
@@ -47617,15 +47617,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/natasha-nagas-short-necklace?variant=gid://shopify/ProductVariant/47718720241891",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13211.jpg?v=1765277624"
-  },
-  "gid://shopify/ProductVariant/47718727123171": {
-    "product_title": "Nerina Nagas Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-13216",
-    "price": 53445.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nerina-nagas-short-necklace?variant=gid://shopify/ProductVariant/47718727123171",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13216.jpg?v=1765278910"
   },
   "gid://shopify/ProductVariant/47718970949859": {
     "product_title": "Dhanya Stone Long Earrings",
@@ -118123,6 +118114,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/golden-bloom-attigai-necklace?variant=gid://shopify/ProductVariant/47718711099619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12721.jpg?v=1765276651"
+  },
+  "gid://shopify/ProductVariant/47718727123171": {
+    "product_title": "Nerina Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-13216",
+    "price": 53445.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nerina-nagas-short-necklace?variant=gid://shopify/ProductVariant/47718727123171",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13216.jpg?v=1765278910"
   },
   "gid://shopify/ProductVariant/47718738034915": {
     "product_title": "Madhurima Nose Pin",
