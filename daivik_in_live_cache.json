@@ -746,13 +746,13 @@
     "url": "https://www.daivik.in/products/lakshmi-nagasi-teeka?variant=gid://shopify/ProductVariant/37826167636121",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_93adf55e-51ba-4f64-9ca2-fcade8ca86a5.jpg?v=1610893048"
   },
-  "gid://shopify/ProductVariant/47804491661534": {
+  "gid://shopify/ProductVariant/43923929923806": {
     "product_title": "Screw openable Coin Lakshmi kada",
-    "variant_title": "2.8",
+    "variant_title": "2.4",
     "sku": "561",
     "price": 2099.0,
-    "stock": 5,
-    "url": "https://www.daivik.in/products/screw-openable-coin-lakshmi-kada?variant=gid://shopify/ProductVariant/47804491661534",
+    "stock": 6,
+    "url": "https://www.daivik.in/products/screw-openable-coin-lakshmi-kada?variant=gid://shopify/ProductVariant/43923929923806",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_8e59ca43-3551-4b76-92e2-736bcc965a6f.jpg?v=1611501198"
   },
   "gid://shopify/ProductVariant/38058936402073": {
@@ -1545,6 +1545,24 @@
     "price": 999.0,
     "stock": 35,
     "url": "https://www.daivik.in/products/white-stone-bangles-4-bangles?variant=gid://shopify/ProductVariant/42060601163998",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_2a6687dc-c1be-4dfd-9d83-e59b62d8f05f.jpg?v=1636992035"
+  },
+  "gid://shopify/ProductVariant/42060609159390": {
+    "product_title": "White stone bangles (4 bangles)",
+    "variant_title": "2.6",
+    "sku": "951",
+    "price": 999.0,
+    "stock": 10,
+    "url": "https://www.daivik.in/products/white-stone-bangles-4-bangles?variant=gid://shopify/ProductVariant/42060609159390",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_2a6687dc-c1be-4dfd-9d83-e59b62d8f05f.jpg?v=1636992035"
+  },
+  "gid://shopify/ProductVariant/42060609192158": {
+    "product_title": "White stone bangles (4 bangles)",
+    "variant_title": "2.8",
+    "sku": "951",
+    "price": 999.0,
+    "stock": 15,
+    "url": "https://www.daivik.in/products/white-stone-bangles-4-bangles?variant=gid://shopify/ProductVariant/42060609192158",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_2a6687dc-c1be-4dfd-9d83-e59b62d8f05f.jpg?v=1636992035"
   },
   "gid://shopify/ProductVariant/42098229051614": {
@@ -12379,7 +12397,7 @@
     "variant_title": "Default Title",
     "sku": "830",
     "price": 1799.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/antique-jadau-green-beads-long-chain-with-earrings?variant=gid://shopify/ProductVariant/47047999455454",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0E475015-F86F-46F0-96FB-AB4D57EC6DE1.jpg?v=1751382255"
   },
@@ -20506,7 +20524,7 @@
     "variant_title": "Default Title",
     "sku": "283",
     "price": 3499.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/victorian-flower-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48423947796702",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9002.jpg?v=1783748787"
   },
@@ -21599,15 +21617,6 @@
     "url": "https://www.daivik.in/products/guttaspusalu-kemp-choker-with-earrings?variant=gid://shopify/ProductVariant/37547684331673",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/guttaspusalu-kemp-choker-with-earrings-neckwearnecklace-981.jpg?v=1608566555"
   },
-  "gid://shopify/ProductVariant/43923929923806": {
-    "product_title": "Screw openable Coin Lakshmi kada",
-    "variant_title": "2.4",
-    "sku": "561",
-    "price": 2099.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/screw-openable-coin-lakshmi-kada?variant=gid://shopify/ProductVariant/43923929923806",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_8e59ca43-3551-4b76-92e2-736bcc965a6f.jpg?v=1611501198"
-  },
   "gid://shopify/ProductVariant/43923929956574": {
     "product_title": "Screw openable Coin Lakshmi kada",
     "variant_title": "2.6",
@@ -21615,6 +21624,15 @@
     "price": 2099.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/screw-openable-coin-lakshmi-kada?variant=gid://shopify/ProductVariant/43923929956574",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_8e59ca43-3551-4b76-92e2-736bcc965a6f.jpg?v=1611501198"
+  },
+  "gid://shopify/ProductVariant/47804491661534": {
+    "product_title": "Screw openable Coin Lakshmi kada",
+    "variant_title": "2.8",
+    "sku": "561",
+    "price": 2099.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/screw-openable-coin-lakshmi-kada?variant=gid://shopify/ProductVariant/47804491661534",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_8e59ca43-3551-4b76-92e2-736bcc965a6f.jpg?v=1611501198"
   },
   "gid://shopify/ProductVariant/38030605975705": {
@@ -22084,24 +22102,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/2-layered-necklace-with-earrings-in-2-colours?variant=gid://shopify/ProductVariant/42306974613726",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/2-layered-necklace-with-earrings-in-colours-272.jpg?v=1636639946"
-  },
-  "gid://shopify/ProductVariant/42060609159390": {
-    "product_title": "White stone bangles (4 bangles)",
-    "variant_title": "2.6",
-    "sku": "951",
-    "price": 999.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/white-stone-bangles-4-bangles?variant=gid://shopify/ProductVariant/42060609159390",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_2a6687dc-c1be-4dfd-9d83-e59b62d8f05f.jpg?v=1636992035"
-  },
-  "gid://shopify/ProductVariant/42060609192158": {
-    "product_title": "White stone bangles (4 bangles)",
-    "variant_title": "2.8",
-    "sku": "951",
-    "price": 999.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/white-stone-bangles-4-bangles?variant=gid://shopify/ProductVariant/42060609192158",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_2a6687dc-c1be-4dfd-9d83-e59b62d8f05f.jpg?v=1636992035"
   },
   "gid://shopify/ProductVariant/42115149824222": {
     "product_title": "Peacock Pure Kemp Balis",
