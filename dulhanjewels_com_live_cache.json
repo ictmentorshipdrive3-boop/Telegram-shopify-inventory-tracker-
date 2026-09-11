@@ -6929,15 +6929,6 @@
     "url": "https://www.dulhanjewels.com/products/moissanite-polki-stud-earrings-with-green-beads-bordering?variant=gid://shopify/ProductVariant/51744431014194",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0932.jpg?v=1788871223"
   },
-  "gid://shopify/ProductVariant/51744465649970": {
-    "product_title": "Minimal Jadau Kundan Choker With Green Hangings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1050.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/minimal-jadau-kundan-choker-with-green-hangings?variant=gid://shopify/ProductVariant/51744465649970",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0837.jpg?v=1788856882"
-  },
   "gid://shopify/ProductVariant/51744487342386": {
     "product_title": "Delicate Jadau Kundan Maang Tikka With Emerald Drops",
     "variant_title": "Default Title",
@@ -7657,5 +7648,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/radiant-victorian-emerald-necklace-set-with-pearl-drops-and-matching-earrings?variant=gid://shopify/ProductVariant/51736822120754",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/8AE3956F-FCE9-40C3-8DB6-F61A9B462285.jpg?v=1788780742"
+  },
+  "gid://shopify/ProductVariant/51744465649970": {
+    "product_title": "Minimal Jadau Kundan Choker With Green Hangings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1050.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/minimal-jadau-kundan-choker-with-green-hangings?variant=gid://shopify/ProductVariant/51744465649970",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0837.jpg?v=1788856882"
   }
 }
