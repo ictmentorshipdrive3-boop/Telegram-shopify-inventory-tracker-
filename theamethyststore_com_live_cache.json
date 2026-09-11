@@ -79330,7 +79330,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-14295",
     "price": 5400.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/erisha-avikam-earrings?variant=gid://shopify/ProductVariant/49363420414179",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14295.jpg?v=1783165032"
   },
@@ -86173,15 +86173,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/gleaming-moissanite-pendant-set?variant=gid://shopify/ProductVariant/49447385661667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4740.jpg?v=1784984319"
-  },
-  "gid://shopify/ProductVariant/49447419936995": {
-    "product_title": "Attractive Moissanite Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15512",
-    "price": 6100.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/moissanite-drops-1?variant=gid://shopify/ProductVariant/49447419936995",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15512.jpg?v=1784984476"
   },
   "gid://shopify/ProductVariant/49447419969763": {
     "product_title": "Glittering Moissanite Pendant Set",
@@ -94543,15 +94534,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/anvaya-kundan-drops?variant=gid://shopify/ProductVariant/49538406121699",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15534.jpg?v=1786772885"
-  },
-  "gid://shopify/ProductVariant/49538420244707": {
-    "product_title": "Charming Kundan Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15535",
-    "price": 10438.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/charming-kundan-drops?variant=gid://shopify/ProductVariant/49538420244707",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15535.jpg?v=1786773040"
   },
   "gid://shopify/ProductVariant/49538472247523": {
     "product_title": "Dazzling Kundan Drops",
@@ -107458,6 +107440,24 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/grand-and-dazzling-diamond-design-pendant?variant=gid://shopify/ProductVariant/49718199681251",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5124.jpg?v=1789104041"
+  },
+  "gid://shopify/ProductVariant/49718220095715": {
+    "product_title": "Divine and Delicate 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5134",
+    "price": 7700.0,
+    "stock": 5,
+    "url": "https://www.theamethyststore.com/products/divine-and-delicate-3d-spl-pendant?variant=gid://shopify/ProductVariant/49718220095715",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5134.jpg?v=1789105160"
+  },
+  "gid://shopify/ProductVariant/49718246441187": {
+    "product_title": "Glowing Divine 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5133",
+    "price": 7600.0,
+    "stock": 5,
+    "url": "https://www.theamethyststore.com/products/glowing-divine-3d-spl-pendant?variant=gid://shopify/ProductVariant/49718246441187",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5133.jpg?v=1789107100"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -131021,6 +131021,15 @@
     "url": "https://www.theamethyststore.com/products/shine-charm-moissanite-pendant-set?variant=gid://shopify/ProductVariant/49447381827811",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4738.jpg?v=1784983063"
   },
+  "gid://shopify/ProductVariant/49447419936995": {
+    "product_title": "Attractive Moissanite Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15512",
+    "price": 6100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/moissanite-drops-1?variant=gid://shopify/ProductVariant/49447419936995",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15512.jpg?v=1784984476"
+  },
   "gid://shopify/ProductVariant/49447422001379": {
     "product_title": "Ethinika Moissanite Drops",
     "variant_title": "Default Title",
@@ -132595,6 +132604,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/anvitha-kundan-drops?variant=gid://shopify/ProductVariant/49538115698915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15523.jpg?v=1786771493"
+  },
+  "gid://shopify/ProductVariant/49538420244707": {
+    "product_title": "Charming Kundan Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15535",
+    "price": 10438.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/charming-kundan-drops?variant=gid://shopify/ProductVariant/49538420244707",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15535.jpg?v=1786773040"
   },
   "gid://shopify/ProductVariant/49538660499683": {
     "product_title": "Dhvani Kundan Drops",
