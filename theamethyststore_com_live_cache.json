@@ -2816,15 +2816,6 @@
     "url": "https://www.theamethyststore.com/products/anusha-beads-kundan-choker?variant=gid://shopify/ProductVariant/43487199232227",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-102-3748.jpg?v=1667219173"
   },
-  "gid://shopify/ProductVariant/43487400853731": {
-    "product_title": "Dazzle Victorian Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-3657",
-    "price": 154500.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/dazzle-victorian-necklace-set?variant=gid://shopify/ProductVariant/43487400853731",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-102-3657_2.jpg?v=1686728753"
-  },
   "gid://shopify/ProductVariant/45163308220643": {
     "product_title": "Venkateswara 3D Idol",
     "variant_title": "10\"",
@@ -86169,8 +86160,8 @@
     "product_title": "Gleaming Moissanite Pendant Set",
     "variant_title": "Default Title",
     "sku": "AMS-104-4740",
-    "price": 16800.0,
-    "stock": 1,
+    "price": 16900.0,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/gleaming-moissanite-pendant-set?variant=gid://shopify/ProductVariant/49447385661667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4740.jpg?v=1784984319"
   },
@@ -107459,6 +107450,15 @@
     "url": "https://www.theamethyststore.com/products/glowing-divine-3d-spl-pendant?variant=gid://shopify/ProductVariant/49718246441187",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5133.jpg?v=1789107100"
   },
+  "gid://shopify/ProductVariant/49718255157475": {
+    "product_title": "Ethereal Legacy 3D Spl  Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5128",
+    "price": 7600.0,
+    "stock": 5,
+    "url": "https://www.theamethyststore.com/products/ethereal-legacy-3d-spl-pendant?variant=gid://shopify/ProductVariant/49718255157475",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5128.jpg?v=1789107805"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -108322,6 +108322,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/vilasa-navarathna-stone-pair-bangles?variant=gid://shopify/ProductVariant/49674826776803",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-107-0677.jpg?v=1665388468"
+  },
+  "gid://shopify/ProductVariant/43487400853731": {
+    "product_title": "Dazzle Victorian Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-3657",
+    "price": 154500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/dazzle-victorian-necklace-set?variant=gid://shopify/ProductVariant/43487400853731",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-102-3657_2.jpg?v=1686728753"
   },
   "gid://shopify/ProductVariant/43495123845347": {
     "product_title": "Lovely Kundan Maangtikka",
