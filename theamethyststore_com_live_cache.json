@@ -90796,7 +90796,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15560",
     "price": 7100.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/elegance-diamond-design-studs?variant=gid://shopify/ProductVariant/49508135403747",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15560.jpg?v=1786090687"
   },
@@ -107494,6 +107494,24 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/divine-glow-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49719401152739",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17917.jpg?v=1789134165"
+  },
+  "gid://shopify/ProductVariant/49719428546787": {
+    "product_title": "Temple Worthy 3D Spl Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17925",
+    "price": 78800.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/temple-worthy-3d-spl-short-necklace-set-1?variant=gid://shopify/ProductVariant/49719428546787",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17925.jpg?v=1789134588"
+  },
+  "gid://shopify/ProductVariant/49719459021027": {
+    "product_title": "Delicate Divine 3D Spl Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17927",
+    "price": 71700.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/delicate-divine-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49719459021027",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17927.jpg?v=1789134903"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
