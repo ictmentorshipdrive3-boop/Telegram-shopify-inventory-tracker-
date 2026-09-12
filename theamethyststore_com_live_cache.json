@@ -33097,7 +33097,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-1594",
     "price": 2579.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/rishikha-stone-ring?variant=gid://shopify/ProductVariant/47089417388259",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1594.jpg?v=1756903175"
   },
@@ -78047,15 +78047,6 @@
     "url": "https://www.theamethyststore.com/products/avikam-bracelet-10?variant=gid://shopify/ProductVariant/49359495823587",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1353.jpg?v=1783077559"
   },
-  "gid://shopify/ProductVariant/49359503032547": {
-    "product_title": "Celestia Avikam Bracelet",
-    "variant_title": "Default Title",
-    "sku": "AMS-103-1354",
-    "price": 9200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/avikam-bracelet-11?variant=gid://shopify/ProductVariant/49359503032547",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1354.jpg?v=1783077736"
-  },
   "gid://shopify/ProductVariant/49359509487843": {
     "product_title": "Anisha Mugappu Chain",
     "variant_title": "Default Title",
@@ -96772,7 +96763,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15146",
     "price": 3339.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/sarisha-stone-studs?variant=gid://shopify/ProductVariant/49553311334627",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15146.jpg?v=1787036793"
   },
@@ -129661,6 +129652,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/avikam-bracelet-9?variant=gid://shopify/ProductVariant/49359487303907",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1351.jpg?v=1783077326"
+  },
+  "gid://shopify/ProductVariant/49359503032547": {
+    "product_title": "Celestia Avikam Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1354",
+    "price": 9200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/avikam-bracelet-11?variant=gid://shopify/ProductVariant/49359503032547",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1354.jpg?v=1783077736"
   },
   "gid://shopify/ProductVariant/49359516205283": {
     "product_title": "Dhanushi Mugappu Chain",
