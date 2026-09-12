@@ -16654,7 +16654,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-7538",
     "price": 5811.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/nithikha-stone-drops?variant=gid://shopify/ProductVariant/46117250007267",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-7538.jpg?v=1741782112"
   },
@@ -20182,7 +20182,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-2383",
     "price": 1730.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/mango-designed-stone-pendant?variant=gid://shopify/ProductVariant/46417565712611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2383.jpg?v=1748872698"
   },
@@ -33385,7 +33385,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-9579",
     "price": 11200.0,
-    "stock": 8,
+    "stock": 11,
     "url": "https://www.theamethyststore.com/products/pretty-look-avikam-jhumkas?variant=gid://shopify/ProductVariant/47102823825635",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9579.jpg?v=1756989366"
   },
@@ -52654,7 +52654,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-12077",
     "price": 6107.0,
-    "stock": 6,
+    "stock": 8,
     "url": "https://www.theamethyststore.com/products/ziva-avikam-earrings?variant=gid://shopify/ProductVariant/47850403823843",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12077.jpg?v=1768720407"
   },
@@ -69790,7 +69790,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-13872",
     "price": 5900.0,
-    "stock": 6,
+    "stock": 8,
     "url": "https://www.theamethyststore.com/products/tanisha-diamond-design-studs-1?variant=gid://shopify/ProductVariant/48945363517667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13872.jpg?v=1778676736"
   },
@@ -92002,7 +92002,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15553",
     "price": 6700.0,
-    "stock": 1,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/diamond-design-studs-46?variant=gid://shopify/ProductVariant/49517415530723",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15553.jpg?v=1786358950"
   },
@@ -102355,15 +102355,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/nagas-studs-30?variant=gid://shopify/ProductVariant/49648178757859",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15354.jpg?v=1788178470"
-  },
-  "gid://shopify/ProductVariant/49648182264035": {
-    "product_title": "Ruhikaa Nagas Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15348",
-    "price": 5323.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nagas-studs-31?variant=gid://shopify/ProductVariant/49648182264035",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15348.jpg?v=1788178681"
   },
   "gid://shopify/ProductVariant/49648182591715": {
     "product_title": "Amazing Nagas Studs",
@@ -133549,6 +133540,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/ams-102-0756?variant=gid://shopify/ProductVariant/49626556334307",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/ams-102-0756.jpg?v=1787903303"
+  },
+  "gid://shopify/ProductVariant/49648182264035": {
+    "product_title": "Ruhikaa Nagas Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15348",
+    "price": 5323.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-studs-31?variant=gid://shopify/ProductVariant/49648182264035",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15348.jpg?v=1788178681"
   },
   "gid://shopify/ProductVariant/49664565215459": {
     "product_title": "Beautifully crafted Kundan Pair Bangles",
