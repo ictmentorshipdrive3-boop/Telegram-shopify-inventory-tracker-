@@ -16653,8 +16653,8 @@
     "product_title": "Nithikha Stone Drops",
     "variant_title": "Default Title",
     "sku": "AMS-106-7538",
-    "price": 5811.0,
-    "stock": 1,
+    "price": 5447.0,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/nithikha-stone-drops?variant=gid://shopify/ProductVariant/46117250007267",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-7538.jpg?v=1741782112"
   },
@@ -20182,7 +20182,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-2383",
     "price": 1730.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/mango-designed-stone-pendant?variant=gid://shopify/ProductVariant/46417565712611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2383.jpg?v=1748872698"
   },
@@ -23881,7 +23881,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-0382-M",
     "price": 7400.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/mangalsutra-chain-double-layer-24?variant=gid://shopify/ProductVariant/46779086012643",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-0382_M.jpg?v=1775371745"
   },
@@ -81202,7 +81202,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-1337",
     "price": 4000.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/eshvika-plain-bracelet?variant=gid://shopify/ProductVariant/49390397325539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1337.jpg?v=1783681820"
   },
@@ -102356,6 +102356,15 @@
     "url": "https://www.theamethyststore.com/products/nagas-studs-30?variant=gid://shopify/ProductVariant/49648178757859",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15354.jpg?v=1788178470"
   },
+  "gid://shopify/ProductVariant/49648182264035": {
+    "product_title": "Ruhikaa Nagas Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15348",
+    "price": 5323.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/nagas-studs-31?variant=gid://shopify/ProductVariant/49648182264035",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15348.jpg?v=1788178681"
+  },
   "gid://shopify/ProductVariant/49648182591715": {
     "product_title": "Amazing Nagas Studs",
     "variant_title": "Default Title",
@@ -107557,6 +107566,24 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/finely-crafted-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49721726992611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17935.jpg?v=1789192186"
+  },
+  "gid://shopify/ProductVariant/49721893945571": {
+    "product_title": "Artisanal 3D Spl Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17936",
+    "price": 118400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/artisanal-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49721893945571",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17936.jpg?v=1789193680"
+  },
+  "gid://shopify/ProductVariant/49721937854691": {
+    "product_title": "Authentic Shine 3D Spl Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17937",
+    "price": 68100.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/authentic-shine-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49721937854691",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17937.jpg?v=1789194121"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -133549,15 +133576,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/ams-102-0756?variant=gid://shopify/ProductVariant/49626556334307",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/ams-102-0756.jpg?v=1787903303"
-  },
-  "gid://shopify/ProductVariant/49648182264035": {
-    "product_title": "Ruhikaa Nagas Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15348",
-    "price": 5323.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/nagas-studs-31?variant=gid://shopify/ProductVariant/49648182264035",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15348.jpg?v=1788178681"
   },
   "gid://shopify/ProductVariant/49664565215459": {
     "product_title": "Beautifully crafted Kundan Pair Bangles",
