@@ -18746,6 +18746,15 @@
     "url": "https://www.rasasilver.com/products/eira-sparkle-cz-ring-copy-1?variant=gid://shopify/ProductVariant/53263567454505",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_11May0338_resized_1.jpg?v=1781344419"
   },
+  "gid://shopify/ProductVariant/53149212148009": {
+    "product_title": "Mayurakshi Kundan Vanki",
+    "variant_title": "Default Title",
+    "sku": "R28470",
+    "price": 37400.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/mayurakshi-kundan-vanki?variant=gid://shopify/ProductVariant/53149212148009",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May116211_resized.jpg?v=1780380728"
+  },
   "gid://shopify/ProductVariant/53149212475689": {
     "product_title": "Morni Floral Nakshi Bangles",
     "variant_title": "Default Title",
@@ -23633,15 +23642,6 @@
     "url": "https://www.rasasilver.com/products/half-moon-veera-rakhi?variant=gid://shopify/ProductVariant/53394184732969",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19591.jpg?v=1786000775"
   },
-  "gid://shopify/ProductVariant/53394202067241": {
-    "product_title": "Circle of Spark Bracelet",
-    "variant_title": "Default Title",
-    "sku": "R32901",
-    "price": 5530.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/circle-of-spark-bracelet?variant=gid://shopify/ProductVariant/53394202067241",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19310.jpg?v=1786604322"
-  },
   "gid://shopify/ProductVariant/53396598260009": {
     "product_title": "Halo Disc Bracelet",
     "variant_title": "Default Title",
@@ -24070,7 +24070,7 @@
     "variant_title": "8",
     "sku": "R32321",
     "price": 6650.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/rosalie-ring?variant=gid://shopify/ProductVariant/53426533138729",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19443.jpg?v=1786689389"
   },
@@ -25063,6 +25063,24 @@
     "stock": 2,
     "url": "https://www.rasasilver.com/products/navodita-ring?variant=gid://shopify/ProductVariant/53900467470633",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459234.jpg?v=1789201201"
+  },
+  "gid://shopify/ProductVariant/53486460141865": {
+    "product_title": "Pushara Stone Ring",
+    "variant_title": "Ruby Pink",
+    "sku": "R18816",
+    "price": 2975.0,
+    "stock": 8,
+    "url": "https://www.rasasilver.com/products/pushara-stone-ring?variant=gid://shopify/ProductVariant/53486460141865",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459241.jpg?v=1789201456"
+  },
+  "gid://shopify/ProductVariant/53486460174633": {
+    "product_title": "Pushara Stone Ring",
+    "variant_title": "GREEN",
+    "sku": "R18819",
+    "price": 2975.0,
+    "stock": 2,
+    "url": "https://www.rasasilver.com/products/pushara-stone-ring?variant=gid://shopify/ProductVariant/53486460174633",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459241.jpg?v=1789201456"
   },
   "gid://shopify/ProductVariant/53493378679081": {
     "product_title": "Mahira Kundan Studs",
@@ -44198,15 +44216,6 @@
     "url": "https://www.rasasilver.com/products/shriyati-peacock-temple-danglers?variant=gid://shopify/ProductVariant/53149210050857",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0015_resized.jpg?v=1780491539"
   },
-  "gid://shopify/ProductVariant/53149212148009": {
-    "product_title": "Mayurakshi Kundan Vanki",
-    "variant_title": "Default Title",
-    "sku": "R28470",
-    "price": 37400.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/mayurakshi-kundan-vanki?variant=gid://shopify/ProductVariant/53149212148009",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May116211_resized.jpg?v=1780380728"
-  },
   "gid://shopify/ProductVariant/53149229646121": {
     "product_title": "Opulent Circle Hoops",
     "variant_title": "Default Title",
@@ -46987,6 +46996,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/five-circle-bracelet?variant=gid://shopify/ProductVariant/53394192662825",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19328.jpg?v=1786602091"
+  },
+  "gid://shopify/ProductVariant/53394202067241": {
+    "product_title": "Circle of Spark Bracelet",
+    "variant_title": "Default Title",
+    "sku": "R32901",
+    "price": 5530.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/circle-of-spark-bracelet?variant=gid://shopify/ProductVariant/53394202067241",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19310.jpg?v=1786604322"
   },
   "gid://shopify/ProductVariant/53398244786473": {
     "product_title": "Nakshi Alankara Chandbali",
