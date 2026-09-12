@@ -4738,7 +4738,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-4448",
     "price": 5155.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/conito-navarathna-studs?variant=gid://shopify/ProductVariant/43852694651107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-4448.jpg?v=1684393728"
   },
@@ -22282,15 +22282,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/samaya-hair-maatal?variant=gid://shopify/ProductVariant/46743960420579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1569.jpg?v=1750589699"
-  },
-  "gid://shopify/ProductVariant/46743963566307": {
-    "product_title": "Cutest Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-9643",
-    "price": 24943.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/cutest-short-necklace-3?variant=gid://shopify/ProductVariant/46743963566307",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9643.jpg?v=1750590229"
   },
   "gid://shopify/ProductVariant/46743965368547": {
     "product_title": "Jashitha Short Necklace",
@@ -107432,6 +107423,15 @@
     "url": "https://www.theamethyststore.com/products/exceptionallly-beautiful-3d-spl-long-necklace-set?variant=gid://shopify/ProductVariant/49723936964835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17945.jpg?v=1789217240"
   },
+  "gid://shopify/ProductVariant/49723977007331": {
+    "product_title": "Petite 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5056",
+    "price": 2400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/petite-3d-spl-pendant?variant=gid://shopify/ProductVariant/49723977007331",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5056.jpg?v=1789218598"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -112948,6 +112948,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/elegant-diamond-design-hair-maatal?variant=gid://shopify/ProductVariant/46743933812963",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1484.jpg?v=1750587049"
+  },
+  "gid://shopify/ProductVariant/46743963566307": {
+    "product_title": "Cutest Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-9643",
+    "price": 24943.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/cutest-short-necklace-3?variant=gid://shopify/ProductVariant/46743963566307",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9643.jpg?v=1750590229"
   },
   "gid://shopify/ProductVariant/46744003772643": {
     "product_title": "Yalikha Kundan Necklace Set",
