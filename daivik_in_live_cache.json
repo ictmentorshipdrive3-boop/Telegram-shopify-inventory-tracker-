@@ -5755,7 +5755,7 @@
     "variant_title": "2.4",
     "sku": "579",
     "price": 1499.0,
-    "stock": 49,
+    "stock": 48,
     "url": "https://www.daivik.in/products/star-bangles-in-two-variants-gold-finish-and-rosegold-finish-price-for-4-bangles?variant=gid://shopify/ProductVariant/44629001273566",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BC52BA9B-30A9-4054-8F5F-8F7452E3AC53.heic?v=1703606129"
   },
@@ -11527,15 +11527,6 @@
     "stock": 23,
     "url": "https://www.daivik.in/products/pure-kemp-brass-premium-stones-hasli?variant=gid://shopify/ProductVariant/46582018506974",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EA756AF5-FE5C-4286-83B2-EFF98D2532AE.jpg?v=1743943378"
-  },
-  "gid://shopify/ProductVariant/46583087268062": {
-    "product_title": "Simple Pendant Ruby Green Hasli Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "744",
-    "price": 799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/simple-pendant-ruby-green-hasli-necklace-with-earrings?variant=gid://shopify/ProductVariant/46583087268062",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1D0A51CF-E619-4607-A99B-7E846F328A70.jpg?v=1744006777"
   },
   "gid://shopify/ProductVariant/46584049795294": {
     "product_title": "Simple Kemp Pearl Side Chain / Mattal in 4 Colors (Price for a Pair)",
@@ -21415,7 +21406,7 @@
     "variant_title": "Default Title",
     "sku": "316",
     "price": 1499.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/diamond-look-alike-3-layer-flower-neckalace-with-earrings?variant=gid://shopify/ProductVariant/48630564880606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1184.jpg?v=1787466208"
   },
@@ -27556,6 +27547,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diamond-look-alike-gj-polish-necklace-with-earrings-and-backchain?variant=gid://shopify/ProductVariant/46514641436894",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1FB094AE-48A3-4418-9F4D-4DF0F8102F34.jpg?v=1743512065"
+  },
+  "gid://shopify/ProductVariant/46583087268062": {
+    "product_title": "Simple Pendant Ruby Green Hasli Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "744",
+    "price": 799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/simple-pendant-ruby-green-hasli-necklace-with-earrings?variant=gid://shopify/ProductVariant/46583087268062",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1D0A51CF-E619-4607-A99B-7E846F328A70.jpg?v=1744006777"
   },
   "gid://shopify/ProductVariant/46584049729758": {
     "product_title": "Simple Kemp Pearl Side Chain / Mattal in 4 Colors (Price for a Pair)",
