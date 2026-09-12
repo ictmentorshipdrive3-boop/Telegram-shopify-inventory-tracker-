@@ -13261,7 +13261,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-2018",
     "price": 5899.0,
-    "stock": 4,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/likhita-kundan-pendant?variant=gid://shopify/ProductVariant/45671698661603",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2018.jpg?v=1730627696"
   },
@@ -18016,15 +18016,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-16?variant=gid://shopify/ProductVariant/49678901903587",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1867.jpg?v=1743775445"
-  },
-  "gid://shopify/ProductVariant/49695949324515": {
-    "product_title": "Sundarika Stone Pair Bangle",
-    "variant_title": "2.8\"",
-    "sku": "AMS-107-1868-2.8\"",
-    "price": 29800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/49695949324515",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
   },
   "gid://shopify/ProductVariant/46217497772259": {
     "product_title": "Zumithra Stone Pair Bangle",
@@ -61532,15 +61523,6 @@
     "url": "https://www.theamethyststore.com/products/badra-nagas-tikka?variant=gid://shopify/ProductVariant/48324128473315",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2205-_2.jpg?v=1772365887"
   },
-  "gid://shopify/ProductVariant/48324129652963": {
-    "product_title": "Liayana Stone Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-14836",
-    "price": 22643.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/liayana-stone-short-necklace?variant=gid://shopify/ProductVariant/48324129652963",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14836_70e16350-528a-4832-99a9-b9c813a3ef64.jpg?v=1772366376"
-  },
   "gid://shopify/ProductVariant/48324133454051": {
     "product_title": "Aswaki Stone Short Necklace",
     "variant_title": "Default Title",
@@ -62878,7 +62860,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-13146",
     "price": 11400.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/floral-charm-diamond-stud?variant=gid://shopify/ProductVariant/48532936392931",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13146.jpg?v=1774271121"
   },
@@ -92861,6 +92843,15 @@
     "url": "https://www.theamethyststore.com/products/anushiya-nagas-chain?variant=gid://shopify/ProductVariant/49524589789411",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2196.jpg?v=1786531901"
   },
+  "gid://shopify/ProductVariant/49524596113635": {
+    "product_title": "Anushi Nagas Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2170",
+    "price": 36109.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nagas-chain-14?variant=gid://shopify/ProductVariant/49524596113635",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2170.jpg?v=1786532603"
+  },
   "gid://shopify/ProductVariant/49524605681891": {
     "product_title": "Shivya Nagas Chain",
     "variant_title": "Default Title",
@@ -107540,6 +107531,15 @@
     "url": "https://www.theamethyststore.com/products/artisan-and-elegant-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49722045399267",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17941.jpg?v=1789196156"
   },
+  "gid://shopify/ProductVariant/49722050511075": {
+    "product_title": "Godly Motif 3D Spl Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17942",
+    "price": 89100.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/godly-motif-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49722050511075",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17942.jpg?v=1789196623"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -111903,6 +111903,15 @@
     "price": 15400.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
+  },
+  "gid://shopify/ProductVariant/49695949324515": {
+    "product_title": "Sundarika Stone Pair Bangle",
+    "variant_title": "2.8\"",
+    "sku": "AMS-107-1868-2.8\"",
+    "price": 29800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/49695949324515",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
   },
   "gid://shopify/ProductVariant/46239911313635": {
@@ -122327,6 +122336,15 @@
     "url": "https://www.theamethyststore.com/products/kashnika-stone-short-necklace?variant=gid://shopify/ProductVariant/48324093837539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14834.jpg?v=1772365510"
   },
+  "gid://shopify/ProductVariant/48324129652963": {
+    "product_title": "Liayana Stone Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-14836",
+    "price": 22643.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/liayana-stone-short-necklace?variant=gid://shopify/ProductVariant/48324129652963",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14836_70e16350-528a-4832-99a9-b9c813a3ef64.jpg?v=1772366376"
+  },
   "gid://shopify/ProductVariant/48324168581347": {
     "product_title": "Bhuvi Nagas Tikka",
     "variant_title": "Default Title",
@@ -132685,15 +132703,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nagas-chain-15?variant=gid://shopify/ProductVariant/49524583563491",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2169.jpg?v=1786531714"
-  },
-  "gid://shopify/ProductVariant/49524596113635": {
-    "product_title": "Anushi Nagas Chain",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-2170",
-    "price": 36109.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/nagas-chain-14?variant=gid://shopify/ProductVariant/49524596113635",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2170.jpg?v=1786532603"
   },
   "gid://shopify/ProductVariant/49524604272867": {
     "product_title": "Nasiya Nagas Chain",
