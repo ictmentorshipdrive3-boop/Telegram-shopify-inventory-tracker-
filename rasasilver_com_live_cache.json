@@ -4621,7 +4621,7 @@
     "variant_title": "Default Title",
     "sku": "R20350",
     "price": 2295.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/pervida-studs?variant=gid://shopify/ProductVariant/50828932940073",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP296.jpg?v=1756541884"
   },
@@ -14471,15 +14471,6 @@
     "url": "https://www.rasasilver.com/products/hariyali-phool-kundan-ring?variant=gid://shopify/ProductVariant/52681013526825",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0290copy.jpg?v=1771088706"
   },
-  "gid://shopify/ProductVariant/52681019425065": {
-    "product_title": "Pear-Phool Kundan Ring",
-    "variant_title": "Default Title",
-    "sku": "R25177",
-    "price": 3825.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/kundan-ring-3?variant=gid://shopify/ProductVariant/52681019425065",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0294copy_1.jpg?v=1771163423"
-  },
   "gid://shopify/ProductVariant/52681023783209": {
     "product_title": "Sitara-Phool Kundan Ring",
     "variant_title": "Default Title",
@@ -20960,15 +20951,6 @@
     "url": "https://www.rasasilver.com/products/kusumika-kundan-kada?variant=gid://shopify/ProductVariant/53336905777449",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42546_resized.jpg?v=1784187518"
   },
-  "gid://shopify/ProductVariant/53290551574825": {
-    "product_title": "Florisa Stone Pendant Set",
-    "variant_title": "Default Title",
-    "sku": "R31513",
-    "price": 3230.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/florisa-stone-pendant-set?variant=gid://shopify/ProductVariant/53290551574825",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2411_resized.jpg?v=1783580562"
-  },
   "gid://shopify/ProductVariant/53290566582569": {
     "product_title": "Rosy Bloom Stone Pendant Set",
     "variant_title": "Default Title",
@@ -24640,15 +24622,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/pakshi-veera-moissanite-pendant?variant=gid://shopify/ProductVariant/53411270983977",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_42_51Pics0678.jpg?v=1786967950"
-  },
-  "gid://shopify/ProductVariant/53411271180585": {
-    "product_title": "Dhan-Lakshmi Temple Necklace",
-    "variant_title": "Default Title",
-    "sku": "R28183",
-    "price": 9500.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/dhan-lakshmi-temple-necklace?variant=gid://shopify/ProductVariant/53411271180585",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageAug7_2026_01_42_37PM.png?v=1786090421"
   },
   "gid://shopify/ProductVariant/53411275800873": {
     "product_title": "Dhanmaya Kaasu Temple Necklace",
@@ -39860,6 +39833,15 @@
     "url": "https://www.rasasilver.com/products/kundan-ring-1?variant=gid://shopify/ProductVariant/52704018628905",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0313copy.jpg?v=1771178330"
   },
+  "gid://shopify/ProductVariant/52681019425065": {
+    "product_title": "Pear-Phool Kundan Ring",
+    "variant_title": "Default Title",
+    "sku": "R25177",
+    "price": 3825.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/kundan-ring-3?variant=gid://shopify/ProductVariant/52681019425065",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0294copy_1.jpg?v=1771163423"
+  },
   "gid://shopify/ProductVariant/52681029484841": {
     "product_title": "Zarin Petal Kundan Ring",
     "variant_title": "Default Title",
@@ -45998,6 +45980,15 @@
     "url": "https://www.rasasilver.com/products/pushkara-stone-pendant-set?variant=gid://shopify/ProductVariant/53290550821161",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0596_resized.jpg?v=1783578253"
   },
+  "gid://shopify/ProductVariant/53290551574825": {
+    "product_title": "Florisa Stone Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "R31513",
+    "price": 3230.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/florisa-stone-pendant-set?variant=gid://shopify/ProductVariant/53290551574825",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2411_resized.jpg?v=1783580562"
+  },
   "gid://shopify/ProductVariant/53290680385833": {
     "product_title": "Siri-Blossom Stone Pendant Set",
     "variant_title": "Default Title",
@@ -47428,6 +47419,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/moti-panna-kundan-studs?variant=gid://shopify/ProductVariant/53411242049833",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38629.jpg?v=1786705254"
+  },
+  "gid://shopify/ProductVariant/53411271180585": {
+    "product_title": "Dhan-Lakshmi Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R28183",
+    "price": 9500.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/dhan-lakshmi-temple-necklace?variant=gid://shopify/ProductVariant/53411271180585",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageAug7_2026_01_42_37PM.png?v=1786090421"
   },
   "gid://shopify/ProductVariant/53411271541033": {
     "product_title": "Kamalika Devi Temple Necklace",
