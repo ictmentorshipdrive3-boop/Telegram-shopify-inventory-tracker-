@@ -832,7 +832,7 @@
     "variant_title": "Default Title",
     "sku": "639",
     "price": 999.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.daivik.in/products/simple-floral-necklace-with-earrings?variant=gid://shopify/ProductVariant/39308000329881",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_72bbcae9-1bcf-4e71-ae4c-9c8d512ab7a4.jpg?v=1614447067"
   },
@@ -2236,7 +2236,7 @@
     "variant_title": "2.8",
     "sku": "220",
     "price": 999.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/floral-kemp-bangles-1?variant=gid://shopify/ProductVariant/42576998629598",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_22ba0319-7904-4892-bac7-bfdc8ae1981c.jpg?v=1647441956"
   },
@@ -3676,7 +3676,7 @@
     "variant_title": "2.8",
     "sku": "384",
     "price": 999.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/ad-regular-wear-floral-bangles?variant=gid://shopify/ProductVariant/44051453444318",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_4fbbabed-95b5-4787-b8cb-55bd7e5ae9e6.heic?v=1678262190"
   },
@@ -6259,7 +6259,7 @@
     "variant_title": "Default Title",
     "sku": "825",
     "price": 999.0,
-    "stock": 15,
+    "stock": 14,
     "url": "https://www.daivik.in/products/two-line-kids-adult-pearl-choker-with-studs?variant=gid://shopify/ProductVariant/44815359410398",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG-2713.heic?v=1708876092"
   },
@@ -15623,15 +15623,6 @@
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d25727?variant=gid://shopify/ProductVariant/47542916022494",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6837.jpg?v=1758141411"
   },
-  "gid://shopify/ProductVariant/47542916055262": {
-    "product_title": "Diwali Sale Bangles D25727",
-    "variant_title": "2.8",
-    "sku": "D25727",
-    "price": 799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-bangles-d25727?variant=gid://shopify/ProductVariant/47542916055262",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6837.jpg?v=1758141411"
-  },
   "gid://shopify/ProductVariant/47541970927838": {
     "product_title": "Simple Flower Pearl Anklets",
     "variant_title": "Default Title",
@@ -16645,7 +16636,7 @@
     "variant_title": "White",
     "sku": "1335",
     "price": 649.0,
-    "stock": 15,
+    "stock": 14,
     "url": "https://www.daivik.in/products/ad-mesh-necklace-with-studs-in-5-colours-price-for-each?variant=gid://shopify/ProductVariant/47669942157534",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D2F649D9-0CC0-47ED-8F54-DCF4D0222297.jpg?v=1762878208"
   },
@@ -29238,6 +29229,15 @@
     "price": 799.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d25727?variant=gid://shopify/ProductVariant/47542915989726",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6837.jpg?v=1758141411"
+  },
+  "gid://shopify/ProductVariant/47542916055262": {
+    "product_title": "Diwali Sale Bangles D25727",
+    "variant_title": "2.8",
+    "sku": "D25727",
+    "price": 799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-bangles-d25727?variant=gid://shopify/ProductVariant/47542916055262",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6837.jpg?v=1758141411"
   },
   "gid://shopify/ProductVariant/47541952708830": {
