@@ -73034,15 +73034,6 @@
     "url": "https://www.theamethyststore.com/products/nagas-short-necklace-47?variant=gid://shopify/ProductVariant/49275699691747",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16022.jpg?v=1781766769"
   },
-  "gid://shopify/ProductVariant/49275753726179": {
-    "product_title": "Trishya Nagas Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16170",
-    "price": 35533.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/trishya-nagas-short-necklace?variant=gid://shopify/ProductVariant/49275753726179",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16170.jpg?v=1781767410"
-  },
   "gid://shopify/ProductVariant/49275837841635": {
     "product_title": "Vibha Nagas Short Necklace",
     "variant_title": "Default Title",
@@ -77975,15 +77966,6 @@
     "url": "https://www.theamethyststore.com/products/sparkle-mugappu-chain?variant=gid://shopify/ProductVariant/49358928675043",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2152.jpg?v=1783075392"
   },
-  "gid://shopify/ProductVariant/49359224242403": {
-    "product_title": "Liyasha Mugappu Chain",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-2151",
-    "price": 14006.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/liyasha-mugappu-chain?variant=gid://shopify/ProductVariant/49359224242403",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2151.jpg?v=1783075752"
-  },
   "gid://shopify/ProductVariant/49359447621859": {
     "product_title": "Naveena Mugappu Chain",
     "variant_title": "Default Title",
@@ -78028,15 +78010,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/avikam-bracelet-8?variant=gid://shopify/ProductVariant/49359484518627",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1348.jpg?v=1783077191"
-  },
-  "gid://shopify/ProductVariant/49359487566051": {
-    "product_title": "Mahitha Mugappu Chain",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-2144",
-    "price": 13919.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/mahitha-mugappu-chain-1?variant=gid://shopify/ProductVariant/49359487566051",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2144_2.jpg?v=1783077467"
   },
   "gid://shopify/ProductVariant/49359495823587": {
     "product_title": "Trishikaa Avikam Bracelet",
@@ -127331,6 +127304,15 @@
     "url": "https://www.theamethyststore.com/products/nagas-short-necklace-46?variant=gid://shopify/ProductVariant/49275686158563",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16021.jpg?v=1781766460"
   },
+  "gid://shopify/ProductVariant/49275753726179": {
+    "product_title": "Trishya Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16170",
+    "price": 35533.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/trishya-nagas-short-necklace?variant=gid://shopify/ProductVariant/49275753726179",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16170.jpg?v=1781767410"
+  },
   "gid://shopify/ProductVariant/49275860353251": {
     "product_title": "Dhiksha Nagas Short Necklace",
     "variant_title": "Default Title",
@@ -129590,6 +129572,15 @@
     "url": "https://www.theamethyststore.com/products/dhanvikha-mugappu-chain?variant=gid://shopify/ProductVariant/49358850916579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2154.jpg?v=1783073334"
   },
+  "gid://shopify/ProductVariant/49359224242403": {
+    "product_title": "Liyasha Mugappu Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2151",
+    "price": 14006.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/liyasha-mugappu-chain?variant=gid://shopify/ProductVariant/49359224242403",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2151.jpg?v=1783075752"
+  },
   "gid://shopify/ProductVariant/49359433236707": {
     "product_title": "Manisha Mugappu Chain",
     "variant_title": "Default Title",
@@ -129652,6 +129643,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/avikam-bracelet-9?variant=gid://shopify/ProductVariant/49359487303907",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1351.jpg?v=1783077326"
+  },
+  "gid://shopify/ProductVariant/49359487566051": {
+    "product_title": "Mahitha Mugappu Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2144",
+    "price": 13919.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/mahitha-mugappu-chain-1?variant=gid://shopify/ProductVariant/49359487566051",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2144_2.jpg?v=1783077467"
   },
   "gid://shopify/ProductVariant/49359503032547": {
     "product_title": "Celestia Avikam Bracelet",
