@@ -46165,7 +46165,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-12957",
     "price": 29600.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/luxury-short-necklace-set?variant=gid://shopify/ProductVariant/47624166113507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12957.jpg?v=1763969911"
   },
@@ -62400,7 +62400,7 @@
     "product_title": "Vithruka Guttapusalu Long Necklace Set",
     "variant_title": "Default Title",
     "sku": "AMS-102-15144",
-    "price": 141457.0,
+    "price": 152997.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/vithruka-guttapusalu-long-necklace-set?variant=gid://shopify/ProductVariant/48468927217891",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15144.jpg?v=1773729761"
@@ -107963,6 +107963,51 @@
     "url": "https://www.theamethyststore.com/products/3d-spl-bracelet-1?variant=gid://shopify/ProductVariant/49728043679971",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1529.jpg?v=1789303449"
   },
+  "gid://shopify/ProductVariant/49728050692323": {
+    "product_title": "Precious 3D Spl Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16052",
+    "price": 17200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/precious-3d-spl-drops?variant=gid://shopify/ProductVariant/49728050692323",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16052.jpg?v=1789303248"
+  },
+  "gid://shopify/ProductVariant/49728057114851": {
+    "product_title": "Verde Heritage 3D Spl Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16051",
+    "price": 17800.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/3d-spl-drops?variant=gid://shopify/ProductVariant/49728057114851",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16051.jpg?v=1789303583"
+  },
+  "gid://shopify/ProductVariant/49728065470691": {
+    "product_title": "Arishaa 3D Spl Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1531",
+    "price": 5300.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/3d-spl-bracelet-2?variant=gid://shopify/ProductVariant/49728065470691",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1531.jpg?v=1789303665"
+  },
+  "gid://shopify/ProductVariant/49728074875107": {
+    "product_title": "Mystically Shines 3D Spl Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16049",
+    "price": 15600.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/mystically-shines-3d-spl-drops?variant=gid://shopify/ProductVariant/49728074875107",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16049.jpg?v=1789304005"
+  },
+  "gid://shopify/ProductVariant/49728092405987": {
+    "product_title": "Stands-Out 3D Spl Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16048",
+    "price": 18000.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/standing-out-3d-spl-drops?variant=gid://shopify/ProductVariant/49728092405987",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16048.jpg?v=1789304410"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -134422,14 +134467,5 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/kundan-pair-bangles-9?variant=gid://shopify/ProductVariant/49664565215459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3602.jpg?v=1788429430"
-  },
-  "gid://shopify/ProductVariant/49728050692323": {
-    "product_title": "Precious 3D Spl Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-16052",
-    "price": 17200.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/precious-3d-spl-drops?variant=gid://shopify/ProductVariant/49728050692323",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16052.jpg?v=1789303248"
   }
 }
