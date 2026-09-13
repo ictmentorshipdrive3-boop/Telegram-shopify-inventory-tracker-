@@ -7289,15 +7289,6 @@
     "url": "https://www.kanshijewels.com/products/swaroski-emerald-chain?variant=gid://shopify/ProductVariant/50490387136812",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_9585.jpg?v=1737462553"
   },
-  "gid://shopify/ProductVariant/50490389037356": {
-    "product_title": "Jadau peacock pendant",
-    "variant_title": "Default Title",
-    "sku": "NK218",
-    "price": 2730.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-peacock-pendant?variant=gid://shopify/ProductVariant/50490389037356",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_9381.jpg?v=1737462629"
-  },
   "gid://shopify/ProductVariant/50490398671148": {
     "product_title": "Peacock studs",
     "variant_title": "Default Title",
@@ -8572,7 +8563,7 @@
     "variant_title": "Default Title",
     "sku": "NK109",
     "price": 1785.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.kanshijewels.com/products/swaroski-pearl-haram?variant=gid://shopify/ProductVariant/51378812518700",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Swaroskipearlsharam1700.jpg?v=1752750592"
   },
@@ -13786,6 +13777,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/mango?variant=gid://shopify/ProductVariant/50490320486700",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/4900mangoreversibleset.jpg?v=1737461617"
+  },
+  "gid://shopify/ProductVariant/50490389037356": {
+    "product_title": "Jadau peacock pendant",
+    "variant_title": "Default Title",
+    "sku": "NK218",
+    "price": 2730.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-peacock-pendant?variant=gid://shopify/ProductVariant/50490389037356",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_9381.jpg?v=1737462629"
   },
   "gid://shopify/ProductVariant/50490408206636": {
     "product_title": "Jadau jhumki",
