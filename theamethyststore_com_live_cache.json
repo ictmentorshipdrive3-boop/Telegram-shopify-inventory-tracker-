@@ -21892,7 +21892,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-9645",
     "price": 29367.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.theamethyststore.com/products/classy-nagas-necklace?variant=gid://shopify/ProductVariant/46730177085667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9645.jpg?v=1750242854"
   },
@@ -33079,7 +33079,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-1594",
     "price": 2579.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/rishikha-stone-ring?variant=gid://shopify/ProductVariant/47089417388259",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1594.jpg?v=1756903175"
   },
@@ -81134,15 +81134,6 @@
     "url": "https://www.theamethyststore.com/products/hasli-with-pendant-set-13?variant=gid://shopify/ProductVariant/49394502271203",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16595.jpg?v=1783774697"
   },
-  "gid://shopify/ProductVariant/49394591138019": {
-    "product_title": "Liyanikaa Hasli with Pendant Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16612",
-    "price": 19200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/hasli-with-pendant-set-15?variant=gid://shopify/ProductVariant/49394591138019",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16612.jpg?v=1783775194"
-  },
   "gid://shopify/ProductVariant/49394688688355": {
     "product_title": "Shine Hasli Necklace",
     "variant_title": "Default Title",
@@ -99268,15 +99259,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/3d-spl-pair-bangle?variant=gid://shopify/ProductVariant/49575602880739",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3576.jpg?v=1787381376"
-  },
-  "gid://shopify/ProductVariant/49575583547619": {
-    "product_title": "Prithikaa Bullakku Nose Pin",
-    "variant_title": "Default Title",
-    "sku": "AMS-113-0501",
-    "price": 1800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/bullakku-nose-pin-20?variant=gid://shopify/ProductVariant/49575583547619",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0501.jpg?v=1787382141"
   },
   "gid://shopify/ProductVariant/49575612940515": {
     "product_title": "Nivetha Bullakku Nose Pin",
@@ -131291,6 +131273,15 @@
     "url": "https://www.theamethyststore.com/products/hasli-with-pendant-set-14?variant=gid://shopify/ProductVariant/49394506924259",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16599.jpg?v=1783774916"
   },
+  "gid://shopify/ProductVariant/49394591138019": {
+    "product_title": "Liyanikaa Hasli with Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16612",
+    "price": 19200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/hasli-with-pendant-set-15?variant=gid://shopify/ProductVariant/49394591138019",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16612.jpg?v=1783775194"
+  },
   "gid://shopify/ProductVariant/49394707136739": {
     "product_title": "Pranchikaa Hasli Necklace",
     "variant_title": "Default Title",
@@ -134314,6 +134305,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/bullakku-nose-pin-9?variant=gid://shopify/ProductVariant/49575258390755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0465.jpg?v=1787378701"
+  },
+  "gid://shopify/ProductVariant/49575583547619": {
+    "product_title": "Prithikaa Bullakku Nose Pin",
+    "variant_title": "Default Title",
+    "sku": "AMS-113-0501",
+    "price": 1800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/bullakku-nose-pin-20?variant=gid://shopify/ProductVariant/49575583547619",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0501.jpg?v=1787382141"
   },
   "gid://shopify/ProductVariant/49575664353507": {
     "product_title": "Vimisha Bullakku Nose Pin",
