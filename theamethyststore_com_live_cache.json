@@ -82741,7 +82741,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15021",
     "price": 12800.0,
-    "stock": 1,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/diamond-design-studs-27?variant=gid://shopify/ProductVariant/49420703006947",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15021.jpg?v=1784270957"
   },
@@ -107548,6 +107548,15 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/3d-spl-pendant-1?variant=gid://shopify/ProductVariant/49727517163747",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5109.jpg?v=1789282644"
+  },
+  "gid://shopify/ProductVariant/49727521095907": {
+    "product_title": "Eternal Faith 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5073",
+    "price": 1800.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/eternal-faith-3d-spl-pendant?variant=gid://shopify/ProductVariant/49727521095907",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5073.jpg?v=1789283198"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -133936,5 +133945,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/kundan-pair-bangles-9?variant=gid://shopify/ProductVariant/49664565215459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3602.jpg?v=1788429430"
+  },
+  "gid://shopify/ProductVariant/49727531057379": {
+    "product_title": "Blessed Divine 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5108",
+    "price": 2700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/3d-spl-pendant?variant=gid://shopify/ProductVariant/49727531057379",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5108.jpg?v=1789283371"
   }
 }
