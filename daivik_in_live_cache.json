@@ -211,7 +211,7 @@
     "variant_title": "Default Title",
     "sku": "215",
     "price": 3499.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/215?variant=gid://shopify/ProductVariant/34432330399897",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_3672.jpg?v=1590311277"
   },
@@ -6043,7 +6043,7 @@
     "variant_title": "Default Title",
     "sku": "874",
     "price": 1999.0,
-    "stock": 47,
+    "stock": 46,
     "url": "https://www.daivik.in/products/ad-lakshmi-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/45756425830622",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4A9D8CBB-41EC-4051-ACF2-F155CDF8CA24.jpg?v=1705937525"
   },
@@ -7681,7 +7681,7 @@
     "variant_title": "Default Title",
     "sku": "706",
     "price": 2799.0,
-    "stock": 47,
+    "stock": 46,
     "url": "https://www.daivik.in/products/embossed-ad-lakshmi-hipbelt?variant=gid://shopify/ProductVariant/45777368711390",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A707E57B-3CC8-4401-9DF9-9230502E73D6.jpg?v=1722434235"
   },
@@ -9940,7 +9940,7 @@
     "variant_title": "Default Title",
     "sku": "1168",
     "price": 2199.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/coral-lakshmi-necklace-with-earrings?variant=gid://shopify/ProductVariant/46120641265886",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C35D0A38-407F-42A5-A8B7-54CA699BE40C.jpg?v=1733154441"
   },
@@ -17243,15 +17243,6 @@
     "url": "https://www.daivik.in/products/simple-ad-box-necklace-with-earrings?variant=gid://shopify/ProductVariant/47758159872222",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8479.heic?v=1765891156"
   },
-  "gid://shopify/ProductVariant/47758182514910": {
-    "product_title": "Carved Moissanite Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "282",
-    "price": 1299.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/carved-moissanite-necklace-with-earrings?variant=gid://shopify/ProductVariant/47758182514910",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8481.heic?v=1765891457"
-  },
   "gid://shopify/ProductVariant/47761421730014": {
     "product_title": "Flower Pearl AD Bugadi/Top Earrings in Two Colors (Price for Each)",
     "variant_title": "Green",
@@ -20182,7 +20173,7 @@
     "variant_title": "Default Title",
     "sku": "877",
     "price": 2199.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/ad-multi-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48312504844510",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7C3E679D-9CDF-4C8E-8C0C-6A70DEB76DD5.jpg?v=1780826841"
   },
@@ -29752,6 +29743,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/simple-flower-ad-pendant-necklace-with-earrings-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/47758175240414",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8484.heic?v=1765891294"
+  },
+  "gid://shopify/ProductVariant/47758182514910": {
+    "product_title": "Carved Moissanite Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "282",
+    "price": 1299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/carved-moissanite-necklace-with-earrings?variant=gid://shopify/ProductVariant/47758182514910",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8481.heic?v=1765891457"
   },
   "gid://shopify/ProductVariant/47787813404894": {
     "product_title": "Elegant Artificial Crossandra/Kanakambaram Flower - 5 Inch",
