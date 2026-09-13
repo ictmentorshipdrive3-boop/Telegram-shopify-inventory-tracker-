@@ -161,15 +161,6 @@
     "url": "https://www.kanshijewels.com/products/jadau-kundan-earrings-15?variant=gid://shopify/ProductVariant/45425828987180",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0099.jpg?v=1686913303"
   },
-  "gid://shopify/ProductVariant/45425832624428": {
-    "product_title": "Jadau Kundan Stud Earrings",
-    "variant_title": "Default Title",
-    "sku": "ER498",
-    "price": 451.5,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-kundan-stud-earrings-2?variant=gid://shopify/ProductVariant/45425832624428",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0100.jpg?v=1686913361"
-  },
   "gid://shopify/ProductVariant/45425834819884": {
     "product_title": "Jadau Kundan Earrings",
     "variant_title": "Default Title",
@@ -6079,7 +6070,7 @@
     "variant_title": "Default Title",
     "sku": "NK386",
     "price": 4777.5,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-chokar-38?variant=gid://shopify/ProductVariant/50047813714220",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_1190.jpg?v=1729764213"
   },
@@ -7519,7 +7510,7 @@
     "variant_title": "Default Title",
     "sku": "NK197",
     "price": 546.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.kanshijewels.com/products/multipurpose-chain?variant=gid://shopify/ProductVariant/50702819459372",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Multipurposechain490.heic?v=1741258068"
   },
@@ -10912,7 +10903,7 @@
     "variant_title": "Default Title",
     "sku": "NK909",
     "price": 1990.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.kanshijewels.com/products/elegant-kundan-work-swaroski-pearls-necklace?variant=gid://shopify/ProductVariant/53368863424812",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/DSC08352.jpg?v=1782214177"
   },
@@ -12256,6 +12247,15 @@
     "stock": 25,
     "url": "https://www.kanshijewels.com/products/classic-handwork-gold-look-kundan-nakashi-maangtika?variant=gid://shopify/ProductVariant/54055230865708",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/282342c7-203e-49be-b61d-a336c11fcdb4.jpg?v=1789110343"
+  },
+  "gid://shopify/ProductVariant/45425832624428": {
+    "product_title": "Jadau Kundan Stud Earrings",
+    "variant_title": "Default Title",
+    "sku": "ER498",
+    "price": 451.5,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-kundan-stud-earrings-2?variant=gid://shopify/ProductVariant/45425832624428",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0100.jpg?v=1686913361"
   },
   "gid://shopify/ProductVariant/45425851433260": {
     "product_title": "Jadau Kundan Earrings",
