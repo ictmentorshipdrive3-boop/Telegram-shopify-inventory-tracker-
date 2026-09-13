@@ -4009,7 +4009,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-113-0246",
     "price": 1620.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/glitzy-stone-nose-pin?variant=gid://shopify/ProductVariant/43691550245091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-113-0246.jpg?v=1675166535"
   },
@@ -4018,7 +4018,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-113-0247",
     "price": 1620.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/haritha-nose-pin?variant=gid://shopify/ProductVariant/43691552735459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-113-0247.jpg?v=1675166892"
   },
@@ -4774,7 +4774,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-1235",
     "price": 2357.0,
-    "stock": 19,
+    "stock": 20,
     "url": "https://www.theamethyststore.com/products/baruna-stone-pendant?variant=gid://shopify/ProductVariant/43855526920419",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-1235.jpg?v=1684565465"
   },
@@ -40153,7 +40153,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-12128",
     "price": 55335.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/royal-stone-short-necklace-set?variant=gid://shopify/ProductVariant/47261159882979",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12128-_4.jpg?v=1759919814"
   },
@@ -82228,7 +82228,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-16721",
     "price": 85100.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/avikam-short-necklace-set-27?variant=gid://shopify/ProductVariant/49410629271779",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16721.jpg?v=1784114644"
   },
@@ -107557,6 +107557,51 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/eternal-faith-3d-spl-pendant?variant=gid://shopify/ProductVariant/49727521095907",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5073.jpg?v=1789283198"
+  },
+  "gid://shopify/ProductVariant/49727531057379": {
+    "product_title": "Blessed Divine 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5108",
+    "price": 2700.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/3d-spl-pendant?variant=gid://shopify/ProductVariant/49727531057379",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5108.jpg?v=1789283371"
+  },
+  "gid://shopify/ProductVariant/49727533416675": {
+    "product_title": "Soulful 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5074",
+    "price": 2500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/soulful-3d-spl-pendant?variant=gid://shopify/ProductVariant/49727533416675",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5074.jpg?v=1789283872"
+  },
+  "gid://shopify/ProductVariant/49727536398563": {
+    "product_title": "Sanctum 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5077",
+    "price": 3000.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/sanctum-3d-spl-pendant?variant=gid://shopify/ProductVariant/49727536398563",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5077.jpg?v=1789284217"
+  },
+  "gid://shopify/ProductVariant/49727543902435": {
+    "product_title": "Murugar 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5107",
+    "price": 2600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/3d-spl-pendant-3?variant=gid://shopify/ProductVariant/49727543902435",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5107.jpg?v=1789284468"
+  },
+  "gid://shopify/ProductVariant/49727545835747": {
+    "product_title": "Divine 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5106",
+    "price": 2900.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/3d-spl-pendant-5?variant=gid://shopify/ProductVariant/49727545835747",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5106.jpg?v=1789284582"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -133945,14 +133990,5 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/kundan-pair-bangles-9?variant=gid://shopify/ProductVariant/49664565215459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3602.jpg?v=1788429430"
-  },
-  "gid://shopify/ProductVariant/49727531057379": {
-    "product_title": "Blessed Divine 3D Spl Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-5108",
-    "price": 2700.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/3d-spl-pendant?variant=gid://shopify/ProductVariant/49727531057379",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5108.jpg?v=1789283371"
   }
 }
