@@ -83812,7 +83812,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-14989",
     "price": 11900.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/victorian-studs-20?variant=gid://shopify/ProductVariant/49429892825315",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14989.jpg?v=1784524460"
   },
@@ -92190,8 +92190,8 @@
     "product_title": "Trendy Glow Victorian Bracelet",
     "variant_title": "Default Title",
     "sku": "AMS-103-1386",
-    "price": 22900.0,
-    "stock": 2,
+    "price": 23300.0,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/trendy-glow-victorian-bracelet?variant=gid://shopify/ProductVariant/49520084943075",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1386.jpg?v=1786435898"
   },
@@ -107800,6 +107800,33 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/3d-spl-pendant-76?variant=gid://shopify/ProductVariant/49727572508899",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5094.jpg?v=1789286255"
+  },
+  "gid://shopify/ProductVariant/49727577096419": {
+    "product_title": "lakshmi 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5093",
+    "price": 2000.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/3d-spl-pendant-75?variant=gid://shopify/ProductVariant/49727577096419",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5093.jpg?v=1789287102"
+  },
+  "gid://shopify/ProductVariant/49727585878243": {
+    "product_title": "Sacred 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5083",
+    "price": 5500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/sacred-3d-spl-pendant?variant=gid://shopify/ProductVariant/49727585878243",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5083.jpg?v=1789287187"
+  },
+  "gid://shopify/ProductVariant/49727591874787": {
+    "product_title": "Lakshmi Blessed 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5092",
+    "price": 7000.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/3d-spl-pendant-77?variant=gid://shopify/ProductVariant/49727591874787",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5092.jpg?v=1789287276"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
