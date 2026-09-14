@@ -688,7 +688,7 @@
     "variant_title": "Default Title",
     "sku": "R2023",
     "price": 18360.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.rasasilver.com/products/emerald-dhanyalakshmi-short-necklace?variant=gid://shopify/ProductVariant/50063302721833",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/19.jpg?v=1743503521"
   },
@@ -889,15 +889,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/jagaddhatri-short-necklace?variant=gid://shopify/ProductVariant/50123855757609",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP05192copy.jpg?v=1743501935"
-  },
-  "gid://shopify/ProductVariant/50134047654185": {
-    "product_title": "Krishna\u2019s Leaf Earrings",
-    "variant_title": "Default Title",
-    "sku": "R11738",
-    "price": 3655.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/krishna-s-leaf-earrings?variant=gid://shopify/ProductVariant/50134047654185",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2.3.jpg?v=1743673015"
   },
   "gid://shopify/ProductVariant/50134598353193": {
     "product_title": "Ruby Snippets Stud Earrings",
@@ -21446,15 +21437,6 @@
     "url": "https://www.rasasilver.com/products/panna-sitara-stone-matil?variant=gid://shopify/ProductVariant/53307088470313",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40328_resized.jpg?v=1783682614"
   },
-  "gid://shopify/ProductVariant/53307160953129": {
-    "product_title": "Manikya-Harita Stone Matil",
-    "variant_title": "Default Title",
-    "sku": "R30428",
-    "price": 22525.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/manikya-harita-stone-matil?variant=gid://shopify/ProductVariant/53307160953129",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40323_resized.jpg?v=1783683736"
-  },
   "gid://shopify/ProductVariant/53307229339945": {
     "product_title": "Blooming Stone Mangalsutra",
     "variant_title": "Default Title",
@@ -25243,6 +25225,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/vishwa-ratna-earrings?variant=gid://shopify/ProductVariant/50133672263977",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1_2_4022f6bd-85c0-4d26-a575-de9bab2ba3ee.jpg?v=1743665704"
+  },
+  "gid://shopify/ProductVariant/50134047654185": {
+    "product_title": "Krishna\u2019s Leaf Earrings",
+    "variant_title": "Default Title",
+    "sku": "R11738",
+    "price": 3655.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/krishna-s-leaf-earrings?variant=gid://shopify/ProductVariant/50134047654185",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2.3.jpg?v=1743673015"
   },
   "gid://shopify/ProductVariant/50140679602473": {
     "product_title": "Cherry Dot Studs",
@@ -46375,6 +46366,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/twin-plume-victorian-set-copy?variant=gid://shopify/ProductVariant/53306763903273",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-07-02at4.53.57PM_5242ad3b-d80e-4577-9f20-9916814dc96e.jpg?v=1783061567"
+  },
+  "gid://shopify/ProductVariant/53307160953129": {
+    "product_title": "Manikya-Harita Stone Matil",
+    "variant_title": "Default Title",
+    "sku": "R30428",
+    "price": 22525.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/manikya-harita-stone-matil?variant=gid://shopify/ProductVariant/53307160953129",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40323_resized.jpg?v=1783683736"
   },
   "gid://shopify/ProductVariant/53307246051625": {
     "product_title": "Kasu Temple Mangalsutra",
