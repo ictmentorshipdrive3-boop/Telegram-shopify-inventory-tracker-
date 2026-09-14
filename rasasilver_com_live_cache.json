@@ -1277,15 +1277,6 @@
     "url": "https://www.rasasilver.com/products/gajamayuri-lakshmi?variant=gid://shopify/ProductVariant/50279537246505",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP01426copy.jpg?v=1746101560"
   },
-  "gid://shopify/ProductVariant/50869312520489": {
-    "product_title": "Kundan Kalakriti Jhumki",
-    "variant_title": "GREEN",
-    "sku": "R10170",
-    "price": 16830.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/by?variant=gid://shopify/ProductVariant/50869312520489",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2-7_d42916bf-a2cd-4d7b-a1c3-166329203433.jpg?v=1754310059"
-  },
   "gid://shopify/ProductVariant/50869312553257": {
     "product_title": "Kundan Kalakriti Jhumki",
     "variant_title": "Ruby Pink",
@@ -18481,7 +18472,7 @@
     "variant_title": "Default Title",
     "sku": "R1384",
     "price": 3825.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/mrinala-stone-studs?variant=gid://shopify/ProductVariant/53108478705961",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May0922_resized.jpg?v=1781869227"
   },
@@ -25360,6 +25351,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/gajamayuri-lakshmi?variant=gid://shopify/ProductVariant/50279537279273",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP01426copy.jpg?v=1746101560"
+  },
+  "gid://shopify/ProductVariant/50869312520489": {
+    "product_title": "Kundan Kalakriti Jhumki",
+    "variant_title": "GREEN",
+    "sku": "R10170",
+    "price": 16830.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/by?variant=gid://shopify/ProductVariant/50869312520489",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2-7_d42916bf-a2cd-4d7b-a1c3-166329203433.jpg?v=1754310059"
   },
   "gid://shopify/ProductVariant/50355787759913": {
     "product_title": "Zamormud Victorian Necklace",
