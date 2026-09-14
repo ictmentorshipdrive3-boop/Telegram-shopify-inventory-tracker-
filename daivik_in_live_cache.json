@@ -4621,7 +4621,7 @@
     "variant_title": "Default Title",
     "sku": "910",
     "price": 1099.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/untitled-sep7_21-09?variant=gid://shopify/ProductVariant/44338668208350",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D54EFA73-AB4B-4A50-8663-86F80E2924BA.jpg?v=1694101215"
   },
@@ -13463,15 +13463,6 @@
     "url": "https://www.daivik.in/products/kemp-pearl-ruby-green-necklace?variant=gid://shopify/ProductVariant/47470276247774",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A2B8EDAB-97EA-47E1-8E16-0EF8008A90B3.jpg?v=1756226468"
   },
-  "gid://shopify/ProductVariant/47471681765598": {
-    "product_title": "AD Flower Layer Jhumkas",
-    "variant_title": "Ruby",
-    "sku": "1663",
-    "price": 599.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-flower-layer-jhumkas?variant=gid://shopify/ProductVariant/47471681765598",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3227D9E3-A3F4-463A-AF86-3E59E3A480DF.jpg?v=1756278736"
-  },
   "gid://shopify/ProductVariant/47472096641246": {
     "product_title": "Antique Lakshmi Jhumkas with Green Beads Mattal",
     "variant_title": "Default Title",
@@ -20905,15 +20896,6 @@
     "stock": 1,
     "url": "https://www.daivik.in/products/jhanvi-kapoor-inspired-manga-antique-hipchain?variant=gid://shopify/ProductVariant/48457336094942",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D78B74C5-3AD3-461C-B83B-078F0B07B753.jpg?v=1784653799"
-  },
-  "gid://shopify/ProductVariant/48465634394334": {
-    "product_title": "Classic AD Droplet Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "1933",
-    "price": 699.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/classic-ad-droplet-jhumkas?variant=gid://shopify/ProductVariant/48465634394334",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A7E532E8-4F0C-461F-9465-21E24379CF0A.jpg?v=1784825467"
   },
   "gid://shopify/ProductVariant/48479526060254": {
     "product_title": "Ganesha Small Antique 3D Kukum Box",
@@ -28529,6 +28511,15 @@
     "url": "https://www.daivik.in/products/ad-flower-layer-jhumkas?variant=gid://shopify/ProductVariant/47471681732830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3227D9E3-A3F4-463A-AF86-3E59E3A480DF.jpg?v=1756278736"
   },
+  "gid://shopify/ProductVariant/47471681765598": {
+    "product_title": "AD Flower Layer Jhumkas",
+    "variant_title": "Ruby",
+    "sku": "1663",
+    "price": 599.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-flower-layer-jhumkas?variant=gid://shopify/ProductVariant/47471681765598",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3227D9E3-A3F4-463A-AF86-3E59E3A480DF.jpg?v=1756278736"
+  },
   "gid://shopify/ProductVariant/47489215627486": {
     "product_title": "Traditional Ruby Green Anklets (Price for a Pair)",
     "variant_title": "Flower",
@@ -30742,6 +30733,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/elakkathali-coin-ruby-green-choker-with-earrings?variant=gid://shopify/ProductVariant/48437245870302",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0685_e29c3fd8-04de-410a-8bc8-116c2569aa96.jpg?v=1784117072"
+  },
+  "gid://shopify/ProductVariant/48465634394334": {
+    "product_title": "Classic AD Droplet Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "1933",
+    "price": 699.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/classic-ad-droplet-jhumkas?variant=gid://shopify/ProductVariant/48465634394334",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A7E532E8-4F0C-461F-9465-21E24379CF0A.jpg?v=1784825467"
   },
   "gid://shopify/ProductVariant/48513202520286": {
     "product_title": "Three layered Pearl Necklace with Earrings",
