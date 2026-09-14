@@ -4922,15 +4922,6 @@
     "url": "https://www.rasasilver.com/products/crystal-mehreen-maang-tikka?variant=gid://shopify/ProductVariant/50839509827881",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug46953.jpg?v=1756882964"
   },
-  "gid://shopify/ProductVariant/50905980600617": {
-    "product_title": "Dazzlonite Cz Bangles",
-    "variant_title": "2.6",
-    "sku": "R12341",
-    "price": 16320.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/dazzlonite-bangles?variant=gid://shopify/ProductVariant/50905980600617",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug47002.jpg?v=1756817920"
-  },
   "gid://shopify/ProductVariant/51412278772009": {
     "product_title": "Moissivine Ring",
     "variant_title": "Default Title",
@@ -5710,7 +5701,7 @@
     "variant_title": "Default Title",
     "sku": "R14368",
     "price": 16915.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/kada-3?variant=gid://shopify/ProductVariant/51274420945193",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS59.jpg?v=1759819798"
   },
@@ -27106,6 +27097,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/moissan-myst-matil?variant=gid://shopify/ProductVariant/50839616094505",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug46977.jpg?v=1756817719"
+  },
+  "gid://shopify/ProductVariant/50905980600617": {
+    "product_title": "Dazzlonite Cz Bangles",
+    "variant_title": "2.6",
+    "sku": "R12341",
+    "price": 16320.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/dazzlonite-bangles?variant=gid://shopify/ProductVariant/50905980600617",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug47002.jpg?v=1756817920"
   },
   "gid://shopify/ProductVariant/50839814963497": {
     "product_title": "Sparklenite Stud Earrings",
