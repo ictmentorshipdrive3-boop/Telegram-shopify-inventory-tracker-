@@ -10471,7 +10471,7 @@
     "variant_title": "Default Title",
     "sku": "R20934",
     "price": 17170.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/florema-cz-pendant?variant=gid://shopify/ProductVariant/52330976313641",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0545-2copy.jpg?v=1766989868"
   },
@@ -19150,15 +19150,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/phoolika-oxidized-payal?variant=gid://shopify/ProductVariant/53150239129897",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0643_resized.jpg?v=1780941368"
-  },
-  "gid://shopify/ProductVariant/53150242472233": {
-    "product_title": "Nritya Oxidised Jhumki",
-    "variant_title": "Default Title",
-    "sku": "R27970",
-    "price": 6630.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/pankhudi-oxidised-jhumki?variant=gid://shopify/ProductVariant/53150242472233",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11656_resized.jpg?v=1780728247"
   },
   "gid://shopify/ProductVariant/53150291099945": {
     "product_title": "Adiva Oxidised Jhumki",
@@ -44431,6 +44422,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/vionna-spark-cz-pendant?variant=gid://shopify/ProductVariant/53158352650537",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11439_resized.jpg?v=1780904040"
+  },
+  "gid://shopify/ProductVariant/53150242472233": {
+    "product_title": "Nritya Oxidised Jhumki",
+    "variant_title": "Default Title",
+    "sku": "R27970",
+    "price": 6630.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/pankhudi-oxidised-jhumki?variant=gid://shopify/ProductVariant/53150242472233",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11656_resized.jpg?v=1780728247"
   },
   "gid://shopify/ProductVariant/53150245552425": {
     "product_title": "Oxidised Morni Jhumki",
