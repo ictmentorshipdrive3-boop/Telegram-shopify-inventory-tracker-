@@ -50431,7 +50431,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-3744",
     "price": 11651.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/vedhikha-stone-pendant-1?variant=gid://shopify/ProductVariant/47806507745507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3744.jpg?v=1767938732"
   },
@@ -77318,15 +77318,6 @@
     "url": "https://www.theamethyststore.com/products/dhanshikha-nagas-jhumkas?variant=gid://shopify/ProductVariant/49333913387235",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14562.jpg?v=1782812257"
   },
-  "gid://shopify/ProductVariant/49334295691491": {
-    "product_title": "Renisha Nagas Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14556",
-    "price": 10020.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/renisha-nagas-jhumkas?variant=gid://shopify/ProductVariant/49334295691491",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14556.jpg?v=1782812498"
-  },
   "gid://shopify/ProductVariant/49334311485667": {
     "product_title": "Shrisha Nagas Jhumkas",
     "variant_title": "Default Title",
@@ -81286,15 +81277,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/hasli-necklace-82?variant=gid://shopify/ProductVariant/49396624818403",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16531.jpg?v=1783841358"
-  },
-  "gid://shopify/ProductVariant/49396624982243": {
-    "product_title": "Glowing Hasli Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-2057",
-    "price": 9200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/hasli-necklace-83?variant=gid://shopify/ProductVariant/49396624982243",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2057_9369f4ff-8188-474b-9e06-3a67a8efd2a5.jpg?v=1783863272"
   },
   "gid://shopify/ProductVariant/49396629307619": {
     "product_title": "Farzana Hasli Necklace",
@@ -130040,6 +130022,15 @@
     "url": "https://www.theamethyststore.com/products/nagas-short-necklace-set-52?variant=gid://shopify/ProductVariant/49333788541155",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16153.jpg?v=1782807204"
   },
+  "gid://shopify/ProductVariant/49334295691491": {
+    "product_title": "Renisha Nagas Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14556",
+    "price": 10020.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/renisha-nagas-jhumkas?variant=gid://shopify/ProductVariant/49334295691491",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14556.jpg?v=1782812498"
+  },
   "gid://shopify/ProductVariant/49334318072035": {
     "product_title": "Nithisha Nagas Jhumkas",
     "variant_title": "Default Title",
@@ -131398,6 +131389,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/hasli-necklace-80?variant=gid://shopify/ProductVariant/49396620230883",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16528.jpg?v=1783840577"
+  },
+  "gid://shopify/ProductVariant/49396624982243": {
+    "product_title": "Glowing Hasli Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2057",
+    "price": 9200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/hasli-necklace-83?variant=gid://shopify/ProductVariant/49396624982243",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2057_9369f4ff-8188-474b-9e06-3a67a8efd2a5.jpg?v=1783863272"
   },
   "gid://shopify/ProductVariant/49396630847715": {
     "product_title": "Catchy Layered Hasli Necklace",
