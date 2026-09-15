@@ -8572,7 +8572,7 @@
     "variant_title": "2.6",
     "sku": "R17557",
     "price": 10880.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/kanaka-panna-bangles?variant=gid://shopify/ProductVariant/52263573717289",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa-10Nov_Sann0173_resized.jpg?v=1763377494"
   },
@@ -8581,7 +8581,7 @@
     "variant_title": "2.5",
     "sku": "R17557",
     "price": 12800.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/kanaka-panna-bangles?variant=gid://shopify/ProductVariant/52263726448937",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa-10Nov_Sann0173_resized.jpg?v=1763377494"
   },
@@ -8590,7 +8590,7 @@
     "variant_title": "2.8",
     "sku": "R17557",
     "price": 12800.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/kanaka-panna-bangles?variant=gid://shopify/ProductVariant/52266652991785",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa-10Nov_Sann0173_resized.jpg?v=1763377494"
   },
@@ -19105,6 +19105,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/sharvani-temple-danglers?variant=gid://shopify/ProductVariant/53266342379817",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_261841_resized.jpg?v=1781505251"
+  },
+  "gid://shopify/ProductVariant/53266346901801": {
+    "product_title": "Mahashri Temple Danglers",
+    "variant_title": "Default Title",
+    "sku": "R28626",
+    "price": 3655.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/mahashri-temple-danglers?variant=gid://shopify/ProductVariant/53266346901801",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_261867_resized.jpg?v=1781505697"
   },
   "gid://shopify/ProductVariant/53266355126569": {
     "product_title": "Lotus Grace Kundan Jhumki",
@@ -44603,15 +44612,6 @@
     "url": "https://www.rasasilver.com/products/padmashree-temple-oddiyanam?variant=gid://shopify/ProductVariant/53266337825065",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262199_resized.jpg?v=1781504784"
   },
-  "gid://shopify/ProductVariant/53266346901801": {
-    "product_title": "Mahashri Temple Danglers",
-    "variant_title": "Default Title",
-    "sku": "R28626",
-    "price": 3655.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/mahashri-temple-danglers?variant=gid://shopify/ProductVariant/53266346901801",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_261867_resized.jpg?v=1781505697"
-  },
   "gid://shopify/ProductVariant/53266362302761": {
     "product_title": "Noorika Kundan Jhumki",
     "variant_title": "Default Title",
@@ -48058,6 +48058,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/nirvisha-stone-necklace?variant=gid://shopify/ProductVariant/53493155397929",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__1Sep1260.jpg?v=1789464026"
+  },
+  "gid://shopify/ProductVariant/53493168701737": {
+    "product_title": "Navarini Necklace",
+    "variant_title": "Default Title",
+    "sku": "R34596",
+    "price": 15300.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/navarini-necklace?variant=gid://shopify/ProductVariant/53493168701737",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__1Sep1177.jpg?v=1789472359"
   },
   "gid://shopify/ProductVariant/53493262483753": {
     "product_title": "Kamalarchi Temple Choker",
