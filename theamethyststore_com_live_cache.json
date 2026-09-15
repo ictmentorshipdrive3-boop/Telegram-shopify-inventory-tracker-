@@ -4432,7 +4432,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-0684",
     "price": 35400.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/garnet-victorian-maangtikka?variant=gid://shopify/ProductVariant/43794222678243",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-0684-_2_f3bf5d0f-2642-4ee8-8570-1c3de4143e01.jpg?v=1738578615"
   },
@@ -6052,7 +6052,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-4994",
     "price": 23700.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/elites-victorian-drops?variant=gid://shopify/ProductVariant/44029396615395",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-4994_c6941080-bd29-4dc7-a098-16e104aff95c.jpg?v=1737261476"
   },
@@ -40400,6 +40400,15 @@
     "url": "https://www.theamethyststore.com/products/cutest-cufflinks?variant=gid://shopify/ProductVariant/47262356996323",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-120-0139.jpg?v=1759931590"
   },
+  "gid://shopify/ProductVariant/47262380622051": {
+    "product_title": "Lord Mahalakshmi Nagas Nakshi Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-3567",
+    "price": 25100.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/lord-mahalakshmi-nagas-nakshi-pendant?variant=gid://shopify/ProductVariant/47262380622051",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3567.jpg?v=1759931097"
+  },
   "gid://shopify/ProductVariant/47262541676771": {
     "product_title": "Chic Cufflinks",
     "variant_title": "Default Title",
@@ -42820,6 +42829,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/shivya-nagas-chain?variant=gid://shopify/ProductVariant/47393229701347",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1394.jpg?v=1761390122"
+  },
+  "gid://shopify/ProductVariant/47393241235683": {
+    "product_title": "Anisha Nagas Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-1396",
+    "price": 14592.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/anisha-nagas-chain-1?variant=gid://shopify/ProductVariant/47393241235683",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1396.jpg?v=1761390409"
   },
   "gid://shopify/ProductVariant/47393263714531": {
     "product_title": "Nethra Bugadi",
@@ -47410,6 +47428,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/dhanya-stone-long-earrings?variant=gid://shopify/ProductVariant/47718970949859",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11460.jpg?v=1765283631"
+  },
+  "gid://shopify/ProductVariant/47721367339235": {
+    "product_title": "Trendy & Glow Victorian Choker Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-13234",
+    "price": 127400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/trendy-glow-victorian-choker-set?variant=gid://shopify/ProductVariant/47721367339235",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13234.jpg?v=1765340691"
   },
   "gid://shopify/ProductVariant/47721455157475": {
     "product_title": "Glittering Stud",
@@ -53782,6 +53809,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/mystic-short-necklace-set?variant=gid://shopify/ProductVariant/47859661996259",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14527_b7f38d44-b2ac-472a-ac63-b9195d2941ae.jpg?v=1768997603"
+  },
+  "gid://shopify/ProductVariant/47859818463459": {
+    "product_title": "Cutest Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-12374",
+    "price": 3141.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/cutest-stone-studs-6?variant=gid://shopify/ProductVariant/47859818463459",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12374.jpg?v=1768998379"
   },
   "gid://shopify/ProductVariant/47859831505123": {
     "product_title": "Shine Heart Stone Studs",
@@ -75922,6 +75958,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/mystic-aura-nagas-short-necklace?variant=gid://shopify/ProductVariant/49320149090531",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16338.jpg?v=1782545374"
+  },
+  "gid://shopify/ProductVariant/49320152695011": {
+    "product_title": "Bhavinkha Kundan Pair Bangle",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-3316-2.6\"",
+    "price": 38590.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/kundan-pair-bangle-13?variant=gid://shopify/ProductVariant/49320152695011",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3316_2.jpg?v=1782545537"
   },
   "gid://shopify/ProductVariant/49320158822627": {
     "product_title": "Elovia Kundan Short Necklace",
@@ -104741,15 +104786,6 @@
     "url": "https://www.theamethyststore.com/products/kundan-choker-3?variant=gid://shopify/ProductVariant/49674694033635",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17773.jpg?v=1788612474"
   },
-  "gid://shopify/ProductVariant/49674851320035": {
-    "product_title": "Yuthikaa Hasli Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17756",
-    "price": 24048.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/hasli-necklace-1?variant=gid://shopify/ProductVariant/49674851320035",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17756.jpg?v=1788613516"
-  },
   "gid://shopify/ProductVariant/49674887528675": {
     "product_title": "Sahanaa Hasli Reversible Necklace",
     "variant_title": "Default Title",
@@ -117818,15 +117854,6 @@
     "url": "https://www.theamethyststore.com/products/divine-krishna-nagas-nakshi-pendant?variant=gid://shopify/ProductVariant/47262102028515",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3563.jpg?v=1759930378"
   },
-  "gid://shopify/ProductVariant/47262380622051": {
-    "product_title": "Lord Mahalakshmi Nagas Nakshi Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-3567",
-    "price": 25100.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/lord-mahalakshmi-nagas-nakshi-pendant?variant=gid://shopify/ProductVariant/47262380622051",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3567.jpg?v=1759931097"
-  },
   "gid://shopify/ProductVariant/47270526222563": {
     "product_title": "Rupini Nagas Nakshi Pendant",
     "variant_title": "Default Title",
@@ -118186,15 +118213,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/diana-stone-long-earrings?variant=gid://shopify/ProductVariant/47393223180515",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10696.jpg?v=1761389528"
-  },
-  "gid://shopify/ProductVariant/47393241235683": {
-    "product_title": "Anisha Nagas Chain",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-1396",
-    "price": 14592.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/anisha-nagas-chain-1?variant=gid://shopify/ProductVariant/47393241235683",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1396.jpg?v=1761390409"
   },
   "gid://shopify/ProductVariant/47393241694435": {
     "product_title": "Sinthya Nagas Chain",
@@ -119194,15 +119212,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/mirella-nose-pin?variant=gid://shopify/ProductVariant/47719037337827",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0354.jpg?v=1765284986"
-  },
-  "gid://shopify/ProductVariant/47721367339235": {
-    "product_title": "Trendy & Glow Victorian Choker Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-13234",
-    "price": 127400.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/trendy-glow-victorian-choker-set?variant=gid://shopify/ProductVariant/47721367339235",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13234.jpg?v=1765340691"
   },
   "gid://shopify/ProductVariant/47721463021795": {
     "product_title": "Pranisha Nagas Chain",
@@ -121102,15 +121111,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/dainty-boho-short-necklace-set?variant=gid://shopify/ProductVariant/47859636437219",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14512_71b9bce7-de4f-42c1-a7ae-74e207d762f2.jpg?v=1768996153"
-  },
-  "gid://shopify/ProductVariant/47859818463459": {
-    "product_title": "Cutest Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-12374",
-    "price": 3141.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/cutest-stone-studs-6?variant=gid://shopify/ProductVariant/47859818463459",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12374.jpg?v=1768998379"
   },
   "gid://shopify/ProductVariant/47859848904931": {
     "product_title": "Rubina Stone Studs",
@@ -129401,15 +129401,6 @@
     "url": "https://www.theamethyststore.com/products/gajakarna-3d-spl-pendant?variant=gid://shopify/ProductVariant/49320137916643",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4375.jpg?v=1782545331"
   },
-  "gid://shopify/ProductVariant/49320152695011": {
-    "product_title": "Bhavinkha Kundan Pair Bangle",
-    "variant_title": "2.6\"",
-    "sku": "AMS-107-3316-2.6\"",
-    "price": 38590.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/kundan-pair-bangle-13?variant=gid://shopify/ProductVariant/49320152695011",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3316_2.jpg?v=1782545537"
-  },
   "gid://shopify/ProductVariant/49320160133347": {
     "product_title": "Lunora Kundan Short Necklace",
     "variant_title": "Default Title",
@@ -134746,6 +134737,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/kundan-pair-bangles-9?variant=gid://shopify/ProductVariant/49664565215459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3602.jpg?v=1788429430"
+  },
+  "gid://shopify/ProductVariant/49674851320035": {
+    "product_title": "Yuthikaa Hasli Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17756",
+    "price": 24048.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/hasli-necklace-1?variant=gid://shopify/ProductVariant/49674851320035",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17756.jpg?v=1788613516"
   },
   "gid://shopify/ProductVariant/49708495864035": {
     "product_title": "Auspicious Nagas Choker",
