@@ -5057,15 +5057,6 @@
     "url": "https://www.rasasilver.com/products/rose-tiara-ring?variant=gid://shopify/ProductVariant/52279530357033",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0100copy_resized.jpg?v=1758177890"
   },
-  "gid://shopify/ProductVariant/51205136285993": {
-    "product_title": "Floral Cascade Matil",
-    "variant_title": "Default Title",
-    "sku": "R11210",
-    "price": 44880.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/floral-cascade-matil?variant=gid://shopify/ProductVariant/51205136285993",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_83_6Aug24292_resized.jpg?v=1757939638"
-  },
   "gid://shopify/ProductVariant/51205341970729": {
     "product_title": "Lush Loop Bangles",
     "variant_title": "2.8",
@@ -5224,7 +5215,7 @@
     "variant_title": "12",
     "sku": "R13445",
     "price": 22950.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/ring?variant=gid://shopify/ProductVariant/52279496016169",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17_Sept0147_resized.jpg?v=1758612899"
   },
@@ -27133,6 +27124,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/snap-n-shine-bracelet?variant=gid://shopify/ProductVariant/51204820468009",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP900.jpg?v=1757935558"
+  },
+  "gid://shopify/ProductVariant/51205136285993": {
+    "product_title": "Floral Cascade Matil",
+    "variant_title": "Default Title",
+    "sku": "R11210",
+    "price": 44880.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/floral-cascade-matil?variant=gid://shopify/ProductVariant/51205136285993",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_83_6Aug24292_resized.jpg?v=1757939638"
   },
   "gid://shopify/ProductVariant/51205308547369": {
     "product_title": "Halo of Hearts Hoops",
