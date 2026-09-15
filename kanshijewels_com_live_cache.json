@@ -584,15 +584,6 @@
     "url": "https://www.kanshijewels.com/products/jadau-kundan-necklace-37?variant=gid://shopify/ProductVariant/45426490507564",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0238.jpg?v=1686919607"
   },
-  "gid://shopify/ProductVariant/45432861524268": {
-    "product_title": "Jadau Kundan Heavy Necklace",
-    "variant_title": "Default Title",
-    "sku": "NK854",
-    "price": 9345.0,
-    "stock": 10,
-    "url": "https://www.kanshijewels.com/products/jadau-kundan-heavy-necklace-2?variant=gid://shopify/ProductVariant/45432861524268",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/jew1.jpg?v=1687249142"
-  },
   "gid://shopify/ProductVariant/45432861557036": {
     "product_title": "Jadau Kundan Mango Necklace",
     "variant_title": "Default Title",
@@ -8320,7 +8311,7 @@
     "variant_title": "Default Title",
     "sku": "NK124",
     "price": 3990.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.kanshijewels.com/products/rani-haram-6?variant=gid://shopify/ProductVariant/51119758737708",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0578.jpg?v=1747997207"
   },
@@ -10921,7 +10912,7 @@
     "variant_title": "Default Title",
     "sku": "NK909",
     "price": 1990.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.kanshijewels.com/products/elegant-kundan-work-swaroski-pearls-necklace?variant=gid://shopify/ProductVariant/53368863424812",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/DSC08352.jpg?v=1782214177"
   },
@@ -12346,6 +12337,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-heavy-necklace-1?variant=gid://shopify/ProductVariant/45432861360428",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/jew2.jpg?v=1687249159"
+  },
+  "gid://shopify/ProductVariant/45432861524268": {
+    "product_title": "Jadau Kundan Heavy Necklace",
+    "variant_title": "Default Title",
+    "sku": "NK854",
+    "price": 9345.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-kundan-heavy-necklace-2?variant=gid://shopify/ProductVariant/45432861524268",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/jew1.jpg?v=1687249142"
   },
   "gid://shopify/ProductVariant/45432861950252": {
     "product_title": "Jadau Kundan mango necklace set",
