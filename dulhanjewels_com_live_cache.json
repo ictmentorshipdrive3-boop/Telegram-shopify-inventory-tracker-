@@ -4625,15 +4625,6 @@
     "url": "https://www.dulhanjewels.com/products/traditional-jalebi-jadau-kundan-necklace-with-emerald-beads?variant=gid://shopify/ProductVariant/51178694508850",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/2673D6C0-69D1-4A5D-BB3A-C2F05193775F.jpg?v=1788439672"
   },
-  "gid://shopify/ProductVariant/51178694476082": {
-    "product_title": "Traditional Jalebi Jadau Kundan Necklace With Emerald Beads",
-    "variant_title": "White",
-    "sku": null,
-    "price": 3400.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/traditional-jalebi-jadau-kundan-necklace-with-emerald-beads?variant=gid://shopify/ProductVariant/51178694476082",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/2673D6C0-69D1-4A5D-BB3A-C2F05193775F.jpg?v=1788439672"
-  },
   "gid://shopify/ProductVariant/51178755227954": {
     "product_title": "Elegant Floral Design Jadau Kundan Necklace With Pearl Hangings",
     "variant_title": "Default Title",
@@ -5962,7 +5953,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 2450.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.dulhanjewels.com/products/designer-jadau-kundan-jhumka-earrings-with-green-drops-1?variant=gid://shopify/ProductVariant/51564598886706",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/F7E59350-916A-4A80-8CF5-AC00E73D1880.jpg?v=1786539138"
   },
@@ -6632,15 +6623,6 @@
     "url": "https://www.dulhanjewels.com/products/opulent-victorian-style-emerald-pendant-with-green-drops?variant=gid://shopify/ProductVariant/51736882676018",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/BC5EDD8E-E480-4960-98B1-F657A100CCCE.jpg?v=1788857802"
   },
-  "gid://shopify/ProductVariant/51744357450034": {
-    "product_title": "Ethnic Jadau Kundan Maang Tikka With Green Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1350.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/ethnic-jadau-kundan-maang-tikka-with-green-drops?variant=gid://shopify/ProductVariant/51744357450034",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/64E6251B-0286-48CF-9584-5B24164F6983.jpg?v=1788857681"
-  },
   "gid://shopify/ProductVariant/51744386777394": {
     "product_title": "Classy Jadau Kundan Maang Tikka With Emerald Beads",
     "variant_title": "Default Title",
@@ -7199,6 +7181,15 @@
     "url": "https://www.dulhanjewels.com/products/unique-jadau-kundan-sleek-bangles?variant=gid://shopify/ProductVariant/51132598288690",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/8757ADD4-B52C-4290-B0D1-454771A1D78A.jpg?v=1778071158"
   },
+  "gid://shopify/ProductVariant/51178694476082": {
+    "product_title": "Traditional Jalebi Jadau Kundan Necklace With Emerald Beads",
+    "variant_title": "White",
+    "sku": null,
+    "price": 3400.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/traditional-jalebi-jadau-kundan-necklace-with-emerald-beads?variant=gid://shopify/ProductVariant/51178694476082",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/2673D6C0-69D1-4A5D-BB3A-C2F05193775F.jpg?v=1788439672"
+  },
   "gid://shopify/ProductVariant/51234785362226": {
     "product_title": "Designer Jadau Kundan Chandbali Earrings With Emerald Beads",
     "variant_title": "Red",
@@ -7324,5 +7315,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/royal-victorian-peacock-design-locket-with-matching-earrings?variant=gid://shopify/ProductVariant/51706866630962",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0747.jpg?v=1788606486"
+  },
+  "gid://shopify/ProductVariant/51744357450034": {
+    "product_title": "Ethnic Jadau Kundan Maang Tikka With Green Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1350.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/ethnic-jadau-kundan-maang-tikka-with-green-drops?variant=gid://shopify/ProductVariant/51744357450034",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/64E6251B-0286-48CF-9584-5B24164F6983.jpg?v=1788857681"
   }
 }
