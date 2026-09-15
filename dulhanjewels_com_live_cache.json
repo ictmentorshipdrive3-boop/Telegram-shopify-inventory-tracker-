@@ -6515,15 +6515,6 @@
     "url": "https://www.dulhanjewels.com/products/elegant-floral-studded-jadau-kundan-chandbali-earrings-with-strawberry-beads?variant=gid://shopify/ProductVariant/51706454933810",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FE69D818-73D3-414D-8A08-A364BAE210C6.jpg?v=1788606342"
   },
-  "gid://shopify/ProductVariant/51706866630962": {
-    "product_title": "Royal Victorian Peacock Design Locket With Matching Earrings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1750.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/royal-victorian-peacock-design-locket-with-matching-earrings?variant=gid://shopify/ProductVariant/51706866630962",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0747.jpg?v=1788606486"
-  },
   "gid://shopify/ProductVariant/51706908868914": {
     "product_title": "Stylish Victorian Emerald Pendant With Earrings Matching Earrings",
     "variant_title": "Default Title",
@@ -7333,5 +7324,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/stylish-victorian-bangle-with-emerald-green-stones-and-polki?variant=gid://shopify/ProductVariant/51566269956402",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0181.jpg?v=1786606243"
+  },
+  "gid://shopify/ProductVariant/51706866630962": {
+    "product_title": "Royal Victorian Peacock Design Locket With Matching Earrings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1750.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/royal-victorian-peacock-design-locket-with-matching-earrings?variant=gid://shopify/ProductVariant/51706866630962",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0747.jpg?v=1788606486"
   }
 }
