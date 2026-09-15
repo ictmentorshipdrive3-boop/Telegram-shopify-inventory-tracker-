@@ -5215,7 +5215,7 @@
     "variant_title": "Default Title",
     "sku": "NK455",
     "price": 3885.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-choker-necklace-set?variant=gid://shopify/ProductVariant/48667721236780",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/3700_cda956eb-a232-4ae0-bc3d-f666fcce387f.jpg?v=1713789007"
   },
@@ -10754,15 +10754,6 @@
     "url": "https://www.kanshijewels.com/products/mossanite-emeralds-polki-necklace-earrings-set?variant=gid://shopify/ProductVariant/53255991755052",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1_823ea1c4-69ff-479f-8abc-5772406cba1b.png?v=1780318559"
   },
-  "gid://shopify/ProductVariant/53255992475948": {
-    "product_title": "Multipurpose hasli",
-    "variant_title": "Default Title",
-    "sku": "NK893",
-    "price": 850.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/multipurpose-hasli?variant=gid://shopify/ProductVariant/53255992475948",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1_84eff012-156b-4858-9b46-bc7354fe2b8c.png?v=1780318803"
-  },
   "gid://shopify/ProductVariant/53256110768428": {
     "product_title": "Gold look dulhan chokar",
     "variant_title": "Default Title",
@@ -12100,7 +12091,7 @@
     "variant_title": "Default Title",
     "sku": "NK983",
     "price": 999.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.kanshijewels.com/products/multipurpose-classic-gold-italian-hasli?variant=gid://shopify/ProductVariant/54010758463788",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/WhatsApp_Image_2026-09-05_at_2.58.38_PM.jpg?v=1788601671"
   },
@@ -14380,6 +14371,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/bridal-polki-necklace-set?variant=gid://shopify/ProductVariant/53180531802412",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Polkifusionset3800.jpg?v=1778132880"
+  },
+  "gid://shopify/ProductVariant/53255992475948": {
+    "product_title": "Multipurpose hasli",
+    "variant_title": "Default Title",
+    "sku": "NK893",
+    "price": 850.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/multipurpose-hasli?variant=gid://shopify/ProductVariant/53255992475948",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1_84eff012-156b-4858-9b46-bc7354fe2b8c.png?v=1780318803"
   },
   "gid://shopify/ProductVariant/53331903611180": {
     "product_title": "Classic Victorian Polki Studs",
