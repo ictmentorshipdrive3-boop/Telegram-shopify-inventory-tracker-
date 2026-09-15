@@ -6506,15 +6506,6 @@
     "url": "https://www.dulhanjewels.com/products/victorian-polki-stud-earrings-with-ruby-and-emerald?variant=gid://shopify/ProductVariant/51723057299762",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0726.jpg?v=1788599823"
   },
-  "gid://shopify/ProductVariant/51723082137906": {
-    "product_title": "Royal Victorian Polki Stud Earrings With Ruby Accents",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1000.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/royal-victorian-polki-stud-earrings-with-ruby-accents?variant=gid://shopify/ProductVariant/51723082137906",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/595891B2-ED23-43A4-8E59-ACC51F89908F.jpg?v=1788600361"
-  },
   "gid://shopify/ProductVariant/51723097440562": {
     "product_title": "Mini Jadau Kundan Maang Tikka With Emerald Beads",
     "variant_title": "Default Title",
@@ -6604,15 +6595,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/classy-jadau-kundan-maang-tikka-with-emerald-beads?variant=gid://shopify/ProductVariant/51744386777394",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/150B714B-9934-4026-A16D-03518DF73237.jpg?v=1788857635"
-  },
-  "gid://shopify/ProductVariant/51744465649970": {
-    "product_title": "Minimal Jadau Kundan Choker With Green Hangings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1050.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/minimal-jadau-kundan-choker-with-green-hangings?variant=gid://shopify/ProductVariant/51744465649970",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0837.jpg?v=1788856882"
   },
   "gid://shopify/ProductVariant/51744487342386": {
     "product_title": "Delicate Jadau Kundan Maang Tikka With Emerald Drops",
@@ -7307,6 +7289,15 @@
     "url": "https://www.dulhanjewels.com/products/royal-victorian-peacock-design-locket-with-matching-earrings?variant=gid://shopify/ProductVariant/51706866630962",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0747.jpg?v=1788606486"
   },
+  "gid://shopify/ProductVariant/51723082137906": {
+    "product_title": "Royal Victorian Polki Stud Earrings With Ruby Accents",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1000.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/royal-victorian-polki-stud-earrings-with-ruby-accents?variant=gid://shopify/ProductVariant/51723082137906",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/595891B2-ED23-43A4-8E59-ACC51F89908F.jpg?v=1788600361"
+  },
   "gid://shopify/ProductVariant/51744357450034": {
     "product_title": "Ethnic Jadau Kundan Maang Tikka With Green Drops",
     "variant_title": "Default Title",
@@ -7324,5 +7315,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/moissanite-polki-stud-earrings-with-green-beads-bordering?variant=gid://shopify/ProductVariant/51744431014194",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0932.jpg?v=1788871223"
+  },
+  "gid://shopify/ProductVariant/51744465649970": {
+    "product_title": "Minimal Jadau Kundan Choker With Green Hangings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1050.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/minimal-jadau-kundan-choker-with-green-hangings?variant=gid://shopify/ProductVariant/51744465649970",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0837.jpg?v=1788856882"
   }
 }
