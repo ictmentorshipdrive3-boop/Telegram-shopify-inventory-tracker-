@@ -19957,7 +19957,7 @@
     "variant_title": "2.6\"",
     "sku": "AMS-107-1972-2.6\"",
     "price": 43000.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/fancy-pair-bangle?variant=gid://shopify/ProductVariant/49098846339299",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1972-_2.jpg?v=1748610328"
   },
@@ -35788,7 +35788,7 @@
     "variant_title": "2.4\"",
     "sku": "AMS-107-2407-2.4\"",
     "price": 28200.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/ahalya-stone-pair-bangle?variant=gid://shopify/ProductVariant/49678793769187",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2407.jpg?v=1758455630"
   },
@@ -35797,7 +35797,7 @@
     "variant_title": "2.8\"",
     "sku": "AMS-107-2407-2.8\"",
     "price": 33600.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/ahalya-stone-pair-bangle?variant=gid://shopify/ProductVariant/49681941397731",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2407.jpg?v=1758455630"
   },
@@ -67598,15 +67598,6 @@
     "url": "https://www.theamethyststore.com/products/pair-bangle-32?variant=gid://shopify/ProductVariant/48914093998307",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3131.jpg?v=1778066863"
   },
-  "gid://shopify/ProductVariant/48914094129379": {
-    "product_title": "Lakshmi Nagas Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-4024",
-    "price": 16845.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/lakshmi-nagas-pendant-8?variant=gid://shopify/ProductVariant/48914094129379",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4024.jpg?v=1778066922"
-  },
   "gid://shopify/ProductVariant/48914101534947": {
     "product_title": "Bindhu Pair Bangle",
     "variant_title": "2.6\"",
@@ -83938,7 +83929,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17094",
     "price": 86500.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/dazzle-divine-3d-spl-short-necklace?variant=gid://shopify/ProductVariant/49430274769123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17094_2a1a0305-a04d-47b0-9a22-e8ec0e09bbdf.jpg?v=1789296482"
   },
@@ -125359,6 +125350,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/pair-bangle-30?variant=gid://shopify/ProductVariant/48914064703715",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3129_06eb6b3d-a8ba-4db4-982f-47c26f60a9d1.jpg?v=1778063952"
+  },
+  "gid://shopify/ProductVariant/48914094129379": {
+    "product_title": "Lakshmi Nagas Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4024",
+    "price": 16845.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/lakshmi-nagas-pendant-8?variant=gid://shopify/ProductVariant/48914094129379",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4024.jpg?v=1778066922"
   },
   "gid://shopify/ProductVariant/48914102386915": {
     "product_title": "Sithika Pair Bangle",
