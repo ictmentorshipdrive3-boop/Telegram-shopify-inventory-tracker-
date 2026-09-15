@@ -3635,15 +3635,6 @@
     "url": "https://www.rasasilver.com/products/florakanti-necklace?variant=gid://shopify/ProductVariant/50717141303593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_359b2567-735f-4b2a-ad18-31e9cdd3baf0.jpg?v=1754573245"
   },
-  "gid://shopify/ProductVariant/50717284434217": {
-    "product_title": "Phoolmoru Stone Necklace",
-    "variant_title": "Default Title",
-    "sku": "R2940",
-    "price": 53210.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/phoolmoru-necklace?variant=gid://shopify/ProductVariant/50717284434217",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-7_bc11ea68-143f-4b9f-8910-bb610f29accd.jpg?v=1754638571"
-  },
   "gid://shopify/ProductVariant/50717394698537": {
     "product_title": "Petalvaali Stone Necklace",
     "variant_title": "Default Title",
@@ -25946,6 +25937,15 @@
     "url": "https://www.rasasilver.com/products/botani-glow-studs?variant=gid://shopify/ProductVariant/50716798976297",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-9_037167dd-29df-4172-b73e-22d34d4309f4.jpg?v=1754912671"
   },
+  "gid://shopify/ProductVariant/50717284434217": {
+    "product_title": "Phoolmoru Stone Necklace",
+    "variant_title": "Default Title",
+    "sku": "R2940",
+    "price": 53210.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/phoolmoru-necklace?variant=gid://shopify/ProductVariant/50717284434217",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-7_bc11ea68-143f-4b9f-8910-bb610f29accd.jpg?v=1754638571"
+  },
   "gid://shopify/ProductVariant/52273353195817": {
     "product_title": "Rupali CZ Bangle",
     "variant_title": "2.4",
@@ -42002,6 +42002,15 @@
     "url": "https://www.rasasilver.com/products/varnishi-short-temple-necklace?variant=gid://shopify/ProductVariant/52831720177961",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar0061_resized.jpg?v=1774531786"
   },
+  "gid://shopify/ProductVariant/52831722799401": {
+    "product_title": "Suvarnabindu Kundan Necklace",
+    "variant_title": "Default Title",
+    "sku": "R23893",
+    "price": 115090.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/suvarnabindu-short-kundan-necklace?variant=gid://shopify/ProductVariant/52831722799401",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_158Pics_12Mar36944_resized.jpg?v=1774338826"
+  },
   "gid://shopify/ProductVariant/52831873335593": {
     "product_title": "Kusumjyoti Victorian Ring",
     "variant_title": "Default Title",
@@ -48040,5 +48049,14 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/fleur-pearl-cz-choker-set?variant=gid://shopify/ProductVariant/54118619250985",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageSep15_2026_12_27_53PM.png?v=1789455498"
+  },
+  "gid://shopify/ProductVariant/54120016281897": {
+    "product_title": "Aam-Kamal Kundan Necklace",
+    "variant_title": "Default Title",
+    "sku": "R12804",
+    "price": 177310.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/aam-kamal-kundan-necklace?variant=gid://shopify/ProductVariant/54120016281897",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageSep15_2026_12_57_03PM.png?v=1789457370"
   }
 }
