@@ -3320,15 +3320,6 @@
     "url": "https://www.rasasilver.com/products/chamak-phool-studs?variant=gid://shopify/ProductVariant/50624958300457",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_2acd5072-a658-4bc0-b34b-45ff48b6d557.jpg?v=1754052805"
   },
-  "gid://shopify/ProductVariant/50635184406825": {
-    "product_title": "Pannika Glow Studs",
-    "variant_title": "Default Title",
-    "sku": "R2442",
-    "price": 3145.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/pannika-glow-studs?variant=gid://shopify/ProductVariant/50635184406825",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_4323ca21-3eae-4af3-b3e1-b2673a52a4f5.jpg?v=1754033262"
-  },
   "gid://shopify/ProductVariant/50635203215657": {
     "product_title": "Valli Vasundhara Studs",
     "variant_title": "Default Title",
@@ -4504,7 +4495,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R17363",
     "price": 3145.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/gaurangi-phool-studs?variant=gid://shopify/ProductVariant/51472911139113",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP290.jpg?v=1756542039"
   },
@@ -22742,6 +22733,15 @@
     "url": "https://www.rasasilver.com/products/veloura-heritage-victorian-pendant-set?variant=gid://shopify/ProductVariant/53350877561129",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2716_resized.jpg?v=1785921751"
   },
+  "gid://shopify/ProductVariant/53350877724969": {
+    "product_title": "Windsor Green Victorian Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "R32653",
+    "price": 5865.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/windsor-green-victorian-pendant-set?variant=gid://shopify/ProductVariant/53350877724969",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2728_resized.jpg?v=1785926131"
+  },
   "gid://shopify/ProductVariant/53350931956009": {
     "product_title": "Forest Fern Victorian Pendant Set",
     "variant_title": "Default Title",
@@ -25648,6 +25648,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/rosy-maanga-studs?variant=gid://shopify/ProductVariant/51412295745833",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/12_74840e26-1173-40c3-a6cc-a88adee07ffb.jpg?v=1754033520"
+  },
+  "gid://shopify/ProductVariant/50635184406825": {
+    "product_title": "Pannika Glow Studs",
+    "variant_title": "Default Title",
+    "sku": "R2442",
+    "price": 3145.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/pannika-glow-studs?variant=gid://shopify/ProductVariant/50635184406825",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_4323ca21-3eae-4af3-b3e1-b2673a52a4f5.jpg?v=1754033262"
   },
   "gid://shopify/ProductVariant/50635190305065": {
     "product_title": "Trillia Drops Jhumki",
@@ -46844,15 +46853,6 @@
     "url": "https://www.rasasilver.com/products/oval-sparsh-gemstone-ring?variant=gid://shopify/ProductVariant/53350533857577",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0883.jpg?v=1786347558"
   },
-  "gid://shopify/ProductVariant/53350877724969": {
-    "product_title": "Windsor Green Victorian Pendant Set",
-    "variant_title": "Default Title",
-    "sku": "R32653",
-    "price": 5865.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/windsor-green-victorian-pendant-set?variant=gid://shopify/ProductVariant/53350877724969",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2728_resized.jpg?v=1785926131"
-  },
   "gid://shopify/ProductVariant/53362364317993": {
     "product_title": "Sea-Blue Beads Necklace",
     "variant_title": "Default Title",
@@ -48067,5 +48067,14 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/mor-gajraj-kundan-necklace?variant=gid://shopify/ProductVariant/54120913305897",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageSep15_2026_01_13_35PM.png?v=1789458297"
+  },
+  "gid://shopify/ProductVariant/54121891103017": {
+    "product_title": "Peacock Kasu Kundan Necklace",
+    "variant_title": "Default Title",
+    "sku": "R22745",
+    "price": 134045.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/peacock-kasu-kundan-necklace?variant=gid://shopify/ProductVariant/54121891103017",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageSep15_2026_01_27_22PM.png?v=1789459059"
   }
 }
