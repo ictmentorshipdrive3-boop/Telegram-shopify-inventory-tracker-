@@ -6155,15 +6155,6 @@
     "url": "https://www.theamethyststore.com/products/advika-kundan-maangtikka?variant=gid://shopify/ProductVariant/44060899639523",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-0818.jpg?v=1697711834"
   },
-  "gid://shopify/ProductVariant/44061140943075": {
-    "product_title": "Jiana Nagas Maangtikka",
-    "variant_title": "Default Title",
-    "sku": "AMS-109-0846",
-    "price": 12965.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/jiana-nagas-maangtikka?variant=gid://shopify/ProductVariant/44061140943075",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-0846.jpg?v=1697714403"
-  },
   "gid://shopify/ProductVariant/44071281000675": {
     "product_title": "Delcin Stone Short Necklace",
     "variant_title": "Default Title",
@@ -18048,7 +18039,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 26600.0,
+    "price": 25000.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -59686,15 +59677,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/charm-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/48279577460963",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12477.jpg?v=1771251029"
-  },
-  "gid://shopify/ProductVariant/48281536921827": {
-    "product_title": "Varisha Nagas Oddiyanam",
-    "variant_title": "Default Title",
-    "sku": "AMS-110-0853",
-    "price": 123100.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/varisha-nagas-oddiyanam?variant=gid://shopify/ProductVariant/48281536921827",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0853.jpg?v=1771312502"
   },
   "gid://shopify/ProductVariant/48282324173027": {
     "product_title": "Jaznitha Pakshi Short Necklace",
@@ -110699,6 +110681,15 @@
     "url": "https://www.theamethyststore.com/products/vanisha-studs?variant=gid://shopify/ProductVariant/44038843302115",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5068.jpg?v=1697006928"
   },
+  "gid://shopify/ProductVariant/44061140943075": {
+    "product_title": "Jiana Nagas Maangtikka",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-0846",
+    "price": 12965.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/jiana-nagas-maangtikka?variant=gid://shopify/ProductVariant/44061140943075",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-0846.jpg?v=1697714403"
+  },
   "gid://shopify/ProductVariant/44071529611491": {
     "product_title": "Lithinan Nagas Necklace",
     "variant_title": "Default Title",
@@ -123271,6 +123262,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/pakshi-short-necklace-set-1?variant=gid://shopify/ProductVariant/48279574413539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12411.jpg?v=1771250831"
+  },
+  "gid://shopify/ProductVariant/48281536921827": {
+    "product_title": "Varisha Nagas Oddiyanam",
+    "variant_title": "Default Title",
+    "sku": "AMS-110-0853",
+    "price": 123100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/varisha-nagas-oddiyanam?variant=gid://shopify/ProductVariant/48281536921827",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0853.jpg?v=1771312502"
   },
   "gid://shopify/ProductVariant/48282122191075": {
     "product_title": "Yalini Pakshi Long Necklace",
