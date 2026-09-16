@@ -9647,15 +9647,6 @@
     "url": "https://www.theamethyststore.com/products/olivia-diamond-design-tikka?variant=gid://shopify/ProductVariant/45281358971107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1136.jpg?v=1721300685"
   },
-  "gid://shopify/ProductVariant/45281380401379": {
-    "product_title": "Shiny Avikam Maangtikka",
-    "variant_title": "Default Title",
-    "sku": "AMS-109-1145",
-    "price": 8500.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/shiny-avikam-maangtikka?variant=gid://shopify/ProductVariant/45281380401379",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1145.jpg?v=1721301149"
-  },
   "gid://shopify/ProductVariant/45281421754595": {
     "product_title": "Dymtrus Avikam Hair Maatal",
     "variant_title": "Default Title",
@@ -18075,7 +18066,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 26600.0,
+    "price": 25000.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -109088,6 +109079,33 @@
     "url": "https://www.theamethyststore.com/products/vibrant-and-rich-kundan-earrings?variant=gid://shopify/ProductVariant/49749543452899",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16118.jpg?v=1789564237"
   },
+  "gid://shopify/ProductVariant/49749565735139": {
+    "product_title": "Timeless Kundan Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16119",
+    "price": 28900.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/timeless-kundan-earrings?variant=gid://shopify/ProductVariant/49749565735139",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16119.jpg?v=1789564574"
+  },
+  "gid://shopify/ProductVariant/49749583626467": {
+    "product_title": "Nivethaa Kundan Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16123",
+    "price": 21600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nivethaa-kundan-jhumkas?variant=gid://shopify/ProductVariant/49749583626467",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16123.jpg?v=1789564937"
+  },
+  "gid://shopify/ProductVariant/49749605384419": {
+    "product_title": "Grand Bridal Kundan Bangles",
+    "variant_title": "2.6",
+    "sku": "AMS-107-3538-2.6\"",
+    "price": 150200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/grand-bridal-kundan-bangles?variant=gid://shopify/ProductVariant/49749605384419",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3538-2.6.jpg?v=1789565336"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -111679,6 +111697,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/aureate-diamond-look-maangtikka?variant=gid://shopify/ProductVariant/45281328070883",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1129.jpg?v=1721300051"
+  },
+  "gid://shopify/ProductVariant/45281380401379": {
+    "product_title": "Shiny Avikam Maangtikka",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-1145",
+    "price": 8500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/shiny-avikam-maangtikka?variant=gid://shopify/ProductVariant/45281380401379",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1145.jpg?v=1721301149"
   },
   "gid://shopify/ProductVariant/45281382891747": {
     "product_title": "Evoke Avikam Maangtikka",
