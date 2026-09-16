@@ -16725,8 +16725,8 @@
     "product_title": "Nithikha Stone Drops",
     "variant_title": "Default Title",
     "sku": "AMS-106-7538",
-    "price": 5447.0,
-    "stock": 2,
+    "price": 5234.0,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/nithikha-stone-drops?variant=gid://shopify/ProductVariant/46117250007267",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-7538.jpg?v=1741782112"
   },
@@ -20208,8 +20208,8 @@
     "product_title": "Mango Designed Stone Pendant",
     "variant_title": "Default Title",
     "sku": "AMS-104-2383",
-    "price": 1730.0,
-    "stock": 4,
+    "price": 1713.0,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/mango-designed-stone-pendant?variant=gid://shopify/ProductVariant/46417565712611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2383.jpg?v=1748872698"
   },
@@ -81017,15 +81017,6 @@
     "url": "https://www.theamethyststore.com/products/trendy-plain-bracelet?variant=gid://shopify/ProductVariant/49390387003619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1338.jpg?v=1783681592"
   },
-  "gid://shopify/ProductVariant/49390397325539": {
-    "product_title": "Eshvika Plain Bracelet",
-    "variant_title": "Default Title",
-    "sku": "AMS-103-1337",
-    "price": 4000.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/eshvika-plain-bracelet?variant=gid://shopify/ProductVariant/49390397325539",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1337.jpg?v=1783681820"
-  },
   "gid://shopify/ProductVariant/49390399783139": {
     "product_title": "Brinaya Plain Bracelet",
     "variant_title": "Default Title",
@@ -108881,6 +108872,15 @@
     "url": "https://www.theamethyststore.com/products/amara-diamond-design-hair-maatal?variant=gid://shopify/ProductVariant/49746578014435",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1262_35b1b4f9-62fb-4ebe-9e48-ab8227b97cda.jpg?v=1789535303"
   },
+  "gid://shopify/ProductVariant/49747485327587": {
+    "product_title": "Vinithaa Kundan Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18072",
+    "price": 92900.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/vinithaa-kundan-short-necklace?variant=gid://shopify/ProductVariant/49747485327587",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18072.jpg?v=1789546064"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -131668,6 +131668,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/hasli-with-pendant-7?variant=gid://shopify/ProductVariant/49390276116707",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16614.jpg?v=1783680241"
+  },
+  "gid://shopify/ProductVariant/49390397325539": {
+    "product_title": "Eshvika Plain Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1337",
+    "price": 4000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/eshvika-plain-bracelet?variant=gid://shopify/ProductVariant/49390397325539",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1337.jpg?v=1783681820"
   },
   "gid://shopify/ProductVariant/49390405189859": {
     "product_title": "Glowing Hasli with Pendant Set",
