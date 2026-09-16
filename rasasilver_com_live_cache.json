@@ -4063,7 +4063,7 @@
     "variant_title": "Default Title",
     "sku": "R10582",
     "price": 3400.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/studs-1?variant=gid://shopify/ProductVariant/50777406243113",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_62.jpg?v=1754984023"
   },
@@ -24028,15 +24028,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/aarvya-kundan-studs?variant=gid://shopify/ProductVariant/53411230155049",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38655.jpg?v=1786704846"
-  },
-  "gid://shopify/ProductVariant/53411231498537": {
-    "product_title": "Flora Royale Kundan Studs",
-    "variant_title": "Default Title",
-    "sku": "R32200",
-    "price": 4700.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/flora-royale-kundan-studs?variant=gid://shopify/ProductVariant/53411231498537",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38651.jpg?v=1786705003"
   },
   "gid://shopify/ProductVariant/53411232579881": {
     "product_title": "Gaja Shri Temple Necklace",
@@ -47419,6 +47410,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/shree-samriddhi-temple-necklace?variant=gid://shopify/ProductVariant/53411227369769",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_10Aug56782F.jpg?v=1787385274"
+  },
+  "gid://shopify/ProductVariant/53411231498537": {
+    "product_title": "Flora Royale Kundan Studs",
+    "variant_title": "Default Title",
+    "sku": "R32200",
+    "price": 4700.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/flora-royale-kundan-studs?variant=gid://shopify/ProductVariant/53411231498537",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38651.jpg?v=1786705003"
   },
   "gid://shopify/ProductVariant/53411232743721": {
     "product_title": "Mohini-Mor Kundan Studs",
