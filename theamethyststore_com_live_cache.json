@@ -7033,7 +7033,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-1543",
     "price": 7100.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/mayuric-diamond-design-pendant?variant=gid://shopify/ProductVariant/44321563410659",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-1543.jpg?v=1705838306"
   },
@@ -18075,7 +18075,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 26600.0,
+    "price": 25000.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -77930,15 +77930,6 @@
     "url": "https://www.theamethyststore.com/products/cute-charm-avikam-earrings-1?variant=gid://shopify/ProductVariant/49334860185827",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14369.jpg?v=1782826599"
   },
-  "gid://shopify/ProductVariant/49334904291555": {
-    "product_title": "Cutest Diamond Design Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14330",
-    "price": 4400.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/cutest-diamond-design-studs?variant=gid://shopify/ProductVariant/49334904291555",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14330.jpg?v=1782826916"
-  },
   "gid://shopify/ProductVariant/49339947647203": {
     "product_title": "Vannamayil 3D Spl Pendant",
     "variant_title": "Default Title",
@@ -130804,6 +130795,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/diamond-design-studs-20?variant=gid://shopify/ProductVariant/49334830432483",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14308.jpg?v=1782826272"
+  },
+  "gid://shopify/ProductVariant/49334904291555": {
+    "product_title": "Cutest Diamond Design Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14330",
+    "price": 4400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/cutest-diamond-design-studs?variant=gid://shopify/ProductVariant/49334904291555",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14330.jpg?v=1782826916"
   },
   "gid://shopify/ProductVariant/49339954888931": {
     "product_title": "Ghanapriya 3D Spl Pendant",
