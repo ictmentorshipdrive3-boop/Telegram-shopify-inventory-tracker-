@@ -724,7 +724,7 @@
     "variant_title": "Default Title",
     "sku": "549",
     "price": 1499.0,
-    "stock": 24,
+    "stock": 23,
     "url": "https://www.daivik.in/products/pure-kemp-antique-teeka?variant=gid://shopify/ProductVariant/37826102591641",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/pure-kemp-antique-teeka-other-essentials-516.jpg?v=1610892151"
   },
@@ -1129,7 +1129,7 @@
     "variant_title": "Default Title",
     "sku": "780",
     "price": 2799.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/ad-short-haram-with-earrings?variant=gid://shopify/ProductVariant/40591824093337",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_e1727bec-c36a-44dd-a14d-4d43574316b4.jpg?v=1626534532"
   },
@@ -1294,15 +1294,6 @@
     "stock": 16,
     "url": "https://www.daivik.in/products/mini-version-of-cluster-pearl-lakshmi-jhumkas?variant=gid://shopify/ProductVariant/41004873908377",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_fbd1bd67-656d-4321-b63b-6f983c6ed98f.jpg?v=1630765358"
-  },
-  "gid://shopify/ProductVariant/41025901461657": {
-    "product_title": "Bridal  kemp silver replica Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "850",
-    "price": 2199.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/bridal-pure-kemp-silver-replica-jhumkas?variant=gid://shopify/ProductVariant/41025901461657",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_a7b07b1f-cf95-45e4-9de1-d191b9541511.jpg?v=1631025441"
   },
   "gid://shopify/ProductVariant/41048379490457": {
     "product_title": "2 way Useable Balis + Jhumkas",
@@ -20758,7 +20749,7 @@
     "variant_title": "Default Title",
     "sku": "1929",
     "price": 2199.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.daivik.in/products/pure-kemp-pearl-jadabillai-chotti-hair-accessories-copy?variant=gid://shopify/ProductVariant/48442470236382",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D26A5422-CF81-4E9A-BE49-D67375096243.jpg?v=1784200735"
   },
@@ -22075,6 +22066,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/designer-ad-necklace-with-earrings-in-3-colours?variant=gid://shopify/ProductVariant/40979176554649",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_6beceb91-2af5-43b7-a4fa-9b4aa405b88f.jpg?v=1630505234"
+  },
+  "gid://shopify/ProductVariant/41025901461657": {
+    "product_title": "Bridal  kemp silver replica Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "850",
+    "price": 2199.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/bridal-pure-kemp-silver-replica-jhumkas?variant=gid://shopify/ProductVariant/41025901461657",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_a7b07b1f-cf95-45e4-9de1-d191b9541511.jpg?v=1631025441"
   },
   "gid://shopify/ProductVariant/41103436185753": {
     "product_title": "AD Bridal Peacock Hipbelt",
