@@ -5480,6 +5480,15 @@
     "url": "https://www.rasasilver.com/products/danglers-5?variant=gid://shopify/ProductVariant/51247280718121",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17_Sept0275_resized_c28fcf16-af1e-4041-8327-ea71db794afe.jpg?v=1758613788"
   },
+  "gid://shopify/ProductVariant/51256411095337": {
+    "product_title": "Shree Nayika Bangles",
+    "variant_title": "Default Title",
+    "sku": "R13905",
+    "price": 31195.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/bangles-6?variant=gid://shopify/ProductVariant/51256411095337",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_58_Pics_22Sep28042.jpg?v=1758963164"
+  },
   "gid://shopify/ProductVariant/51256872337705": {
     "product_title": "Balaji Vilasita Necklace",
     "variant_title": "Default Title",
@@ -23215,7 +23224,7 @@
     "variant_title": "Default Title",
     "sku": "R29153",
     "price": 1190.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/flower-stone-buggadi?variant=gid://shopify/ProductVariant/53396621394217",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38659.jpg?v=1786606465"
   },
@@ -27763,15 +27772,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/ring-8?variant=gid://shopify/ProductVariant/52279519641897",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS220.jpg?v=1759905279"
-  },
-  "gid://shopify/ProductVariant/51256411095337": {
-    "product_title": "Shree Nayika Bangles",
-    "variant_title": "Default Title",
-    "sku": "R13905",
-    "price": 31195.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/bangles-6?variant=gid://shopify/ProductVariant/51256411095337",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_58_Pics_22Sep28042.jpg?v=1758963164"
   },
   "gid://shopify/ProductVariant/51256493441321": {
     "product_title": "Gaj Rekha Jhumki",
@@ -48544,5 +48544,14 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/regal-elysia-cz-necklace-set?variant=gid://shopify/ProductVariant/54175458394409",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1582.jpg?v=1789561266"
+  },
+  "gid://shopify/ProductVariant/54176466010409": {
+    "product_title": "Veehana Kundan Studs",
+    "variant_title": "Default Title",
+    "sku": "R35188",
+    "price": 2550.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/veehana-kundan-studs?variant=gid://shopify/ProductVariant/54176466010409",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1600.jpg?v=1789562034"
   }
 }
