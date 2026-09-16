@@ -16356,8 +16356,8 @@
     "product_title": "Rejina Stone Pendant",
     "variant_title": "Default Title",
     "sku": "AMS-104-2147",
-    "price": 2200.0,
-    "stock": 1,
+    "price": 2110.0,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/rejina-stone-pendant?variant=gid://shopify/ProductVariant/46039201284323",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2147.jpg?v=1740113154"
   },
@@ -18075,7 +18075,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 25000.0,
+    "price": 26600.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -71503,15 +71503,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/traditional-3d-spl-pendant?variant=gid://shopify/ProductVariant/49123600433379",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4097.jpg?v=1780472011"
-  },
-  "gid://shopify/ProductVariant/49124025893091": {
-    "product_title": "Radha Krishna 3D Spl Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-4099",
-    "price": 11800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/radha-krishna-3d-spl-pendant-2?variant=gid://shopify/ProductVariant/49124025893091",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4099.jpg?v=1780473576"
   },
   "gid://shopify/ProductVariant/49124132192483": {
     "product_title": "Navisha Nagas Pair Bangles",
@@ -127573,6 +127564,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/vinayaga-3d-spl-pendant?variant=gid://shopify/ProductVariant/49123765977315",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4098.jpg?v=1780472635"
+  },
+  "gid://shopify/ProductVariant/49124025893091": {
+    "product_title": "Radha Krishna 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4099",
+    "price": 11800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/radha-krishna-3d-spl-pendant-2?variant=gid://shopify/ProductVariant/49124025893091",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4099.jpg?v=1780473576"
   },
   "gid://shopify/ProductVariant/49124158669027": {
     "product_title": "Lakshmi 3D Spl Pendant",
