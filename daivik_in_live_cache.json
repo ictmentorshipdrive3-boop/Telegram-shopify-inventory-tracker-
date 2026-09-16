@@ -2272,7 +2272,7 @@
     "variant_title": "White Pearl",
     "sku": "257",
     "price": 1499.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/a-2?variant=gid://shopify/ProductVariant/44437456519390",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/68FF1A61-8929-4A32-BE23-F96919FFDAD0.jpg?v=1697904336"
   },
@@ -4621,7 +4621,7 @@
     "variant_title": "Default Title",
     "sku": "910",
     "price": 1099.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/untitled-sep7_21-09?variant=gid://shopify/ProductVariant/44338668208350",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D54EFA73-AB4B-4A50-8663-86F80E2924BA.jpg?v=1694101215"
   },
@@ -8050,7 +8050,7 @@
     "variant_title": "Default Title",
     "sku": "1117",
     "price": 999.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.daivik.in/products/ad-pendant-mangalsutra-with-studs?variant=gid://shopify/ProductVariant/45905761435870",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1BFD7312-DC7F-4913-8069-C828D5725142.jpg?v=1726894974"
   },
@@ -16388,15 +16388,6 @@
     "url": "https://www.daivik.in/products/pure-kemp-brass-jadau-peacock-necklace?variant=gid://shopify/ProductVariant/47647070126302",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C2DCF21E-9B08-431B-A2B3-01B6892AEA47.jpg?v=1761924533"
   },
-  "gid://shopify/ProductVariant/48347915288798": {
-    "product_title": "Real Look alike Foam Handmade Jasmine U Pin ( Price for 1 pc )",
-    "variant_title": "1 Pc",
-    "sku": "3508",
-    "price": 249.0,
-    "stock": 2,
-    "url": "https://www.daivik.in/products/a-32?variant=gid://shopify/ProductVariant/48347915288798",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6E16E45C-3BEA-4143-81B8-8D643B95A2BC.jpg?v=1762013592"
-  },
   "gid://shopify/ProductVariant/48347915321566": {
     "product_title": "Real Look alike Foam Handmade Jasmine U Pin ( Price for 1 pc )",
     "variant_title": "5 Pc",
@@ -20920,7 +20911,7 @@
     "variant_title": "Default Title",
     "sku": "1238",
     "price": 1099.0,
-    "stock": 43,
+    "stock": 42,
     "url": "https://www.daivik.in/products/elakkathali-gold-finish-choker-with-backchain?variant=gid://shopify/ProductVariant/48519024181470",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3F8CA7E3-AF8B-44DE-B3E3-8A92E5E3EC2A.jpg?v=1785339439"
   },
@@ -21649,7 +21640,7 @@
     "variant_title": "2",
     "sku": "1963",
     "price": 799.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/kids-lakshmi-ruby-green-bangles?variant=gid://shopify/ProductVariant/49008807739614",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1968.jpg?v=1789041386"
   },
@@ -29419,6 +29410,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/a-29?variant=gid://shopify/ProductVariant/47832187076830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A6A7F594-2AB9-4FC5-99D1-8352BB019F7E.jpg?v=1768495477"
+  },
+  "gid://shopify/ProductVariant/48347915288798": {
+    "product_title": "Real Look alike Foam Handmade Jasmine U Pin ( Price for 1 pc )",
+    "variant_title": "1 Pc",
+    "sku": "3508",
+    "price": 249.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/a-32?variant=gid://shopify/ProductVariant/48347915288798",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6E16E45C-3BEA-4143-81B8-8D643B95A2BC.jpg?v=1762013592"
   },
   "gid://shopify/ProductVariant/47658960584926": {
     "product_title": "Evergreen Traditional Kemp Finger Ring ( Price for each)",
