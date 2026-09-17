@@ -5831,15 +5831,6 @@
     "url": "https://www.dulhanjewels.com/products/gold-style-jadau-kundan-necklace-with-strawberry-beads?variant=gid://shopify/ProductVariant/51564586467634",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0097.jpg?v=1786537778"
   },
-  "gid://shopify/ProductVariant/51564591776050": {
-    "product_title": "Floral Long Necklace With Strawberry Hangings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2200.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/floral-long-necklace-with-strawberry-hangings?variant=gid://shopify/ProductVariant/51564591776050",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_f37102a8-186d-40d9-a8f9-d649ce3da1f8.jpg?v=1786538143"
-  },
   "gid://shopify/ProductVariant/51564604195122": {
     "product_title": "Radiant Jadau Kundan Chandbali Earrings With RicePearl Hangings",
     "variant_title": "Default Title",
@@ -7163,6 +7154,15 @@
     "url": "https://www.dulhanjewels.com/products/classy-jadau-kundan-bangle-with-floral-center?variant=gid://shopify/ProductVariant/51505705222450",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/931A7235-4B54-4A95-8BE3-840DFCCD2E56.jpg?v=1784887061"
   },
+  "gid://shopify/ProductVariant/51564591776050": {
+    "product_title": "Floral Long Necklace With Strawberry Hangings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2200.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/floral-long-necklace-with-strawberry-hangings?variant=gid://shopify/ProductVariant/51564591776050",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_f37102a8-186d-40d9-a8f9-d649ce3da1f8.jpg?v=1786538143"
+  },
   "gid://shopify/ProductVariant/51566269890866": {
     "product_title": "Stylish Victorian Bangle With Emerald Green Stones And Polki",
     "variant_title": "2/4",
@@ -7225,5 +7225,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/opulent-victorian-style-emerald-pendant-with-green-drops?variant=gid://shopify/ProductVariant/51736882676018",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/BC5EDD8E-E480-4960-98B1-F657A100CCCE.jpg?v=1788857802"
+  },
+  "gid://shopify/ProductVariant/51832492982578": {
+    "product_title": "Elegant Kundan Necklace With Pearl Chain And Green Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2050.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/elegant-kundan-necklace-with-pearl-chain-and-green-drops?variant=gid://shopify/ProductVariant/51832492982578",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/604E6DBE-6B9C-4BBD-A01E-A92ADF417B9D.jpg?v=1789634833"
   }
 }
