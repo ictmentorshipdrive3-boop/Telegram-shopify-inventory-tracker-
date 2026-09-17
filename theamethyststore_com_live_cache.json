@@ -18039,7 +18039,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 26600.0,
+    "price": 25000.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -51398,15 +51398,6 @@
     "url": "https://www.theamethyststore.com/products/swara-nagas-ring?variant=gid://shopify/ProductVariant/47816839430371",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1793.jpg?v=1768302213"
   },
-  "gid://shopify/ProductVariant/47816849883363": {
-    "product_title": "Jivikha Toe Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-117-0716",
-    "price": 3926.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/jivikha-toe-ring?variant=gid://shopify/ProductVariant/47816849883363",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0716.jpg?v=1768302279"
-  },
   "gid://shopify/ProductVariant/47816877408483": {
     "product_title": "Alluring Nagas Ring",
     "variant_title": "Default Title",
@@ -72355,7 +72346,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-1984",
     "price": 13100.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/pavani-diamond-design-chain-with-earrings?variant=gid://shopify/ProductVariant/49262350336227",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1984.jpg?v=1781442418"
   },
@@ -80801,15 +80792,6 @@
     "url": "https://www.theamethyststore.com/products/glow-charm-moissanite-studs?variant=gid://shopify/ProductVariant/49388901925091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15167.jpg?v=1783667287"
   },
-  "gid://shopify/ProductVariant/49388904939747": {
-    "product_title": "Lakrishkaa Hasli Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16502",
-    "price": 5100.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/hasli-necklace-26?variant=gid://shopify/ProductVariant/49388904939747",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16502.jpg?v=1783668351"
-  },
   "gid://shopify/ProductVariant/49388929450211": {
     "product_title": "Glittering Moissanite Drops",
     "variant_title": "Default Title",
@@ -80860,7 +80842,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15168",
     "price": 4700.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/arohi-bugadi-earrings?variant=gid://shopify/ProductVariant/49389061603555",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15168.jpg?v=1783669439"
   },
@@ -121256,6 +121238,15 @@
     "url": "https://www.theamethyststore.com/products/shithara-toe-ring?variant=gid://shopify/ProductVariant/47816768749795",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0669.jpg?v=1768301113"
   },
+  "gid://shopify/ProductVariant/47816849883363": {
+    "product_title": "Jivikha Toe Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-117-0716",
+    "price": 3926.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/jivikha-toe-ring?variant=gid://shopify/ProductVariant/47816849883363",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0716.jpg?v=1768302279"
+  },
   "gid://shopify/ProductVariant/47823372058851": {
     "product_title": "Janvikha Stone Studs",
     "variant_title": "Default Title",
@@ -131866,6 +131857,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/hasli-necklace-24?variant=gid://shopify/ProductVariant/49388895142115",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16270.jpg?v=1783666623"
+  },
+  "gid://shopify/ProductVariant/49388904939747": {
+    "product_title": "Lakrishkaa Hasli Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16502",
+    "price": 5100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/hasli-necklace-26?variant=gid://shopify/ProductVariant/49388904939747",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16502.jpg?v=1783668351"
   },
   "gid://shopify/ProductVariant/49388930236643": {
     "product_title": "Harvikaa Hasli Necklace",
