@@ -166,7 +166,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 800.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-tika-with-pearls-drops-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52628688765244",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/b68b96c4-5c24-4dce-8bbb-4733137eb9ff.webp?v=1768471013"
   },
@@ -472,7 +472,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 3700.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-necklace-with-pearl-and-natural-strawberry-beads-no-earrings?variant=gid://shopify/ProductVariant/52737592197436",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260128_193959_6c1de434-96f4-4e78-b6fa-ccc97530ef91.webp?v=1770900038"
   },
@@ -1898,15 +1898,6 @@
     "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-jhumkas-pearls-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/53839961227580",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/102.webp?v=1785328580"
   },
-  "gid://shopify/ProductVariant/53840822599996": {
-    "product_title": "Jadau Kundan Floral Jhumkas Pearls and Natural Strawberry Beads",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1300.0,
-    "stock": 1,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-jhumkas-pearls-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/53840822599996",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/image.webp?v=1785328627"
-  },
   "gid://shopify/ProductVariant/53841717264700": {
     "product_title": "Jadau Kundan Bridal Peacock Tika with Pearls and Natural Strawberry Beads",
     "variant_title": "Default Title",
@@ -2563,6 +2554,15 @@
     "stock": 0,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-bottu-mala-necklace?variant=gid://shopify/ProductVariant/53660326854972",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260725_101544_c6cc89ee-bafd-4d04-a6ba-8f2dd440d15d.png?v=1785154518"
+  },
+  "gid://shopify/ProductVariant/53840822599996": {
+    "product_title": "Jadau Kundan Floral Jhumkas Pearls and Natural Strawberry Beads",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1300.0,
+    "stock": 0,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-jhumkas-pearls-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/53840822599996",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/image.webp?v=1785328627"
   },
   "gid://shopify/ProductVariant/53979961786684": {
     "product_title": "Jadau Kundan Leaf Tika with Pearls and Natural Strawberry Beads",
