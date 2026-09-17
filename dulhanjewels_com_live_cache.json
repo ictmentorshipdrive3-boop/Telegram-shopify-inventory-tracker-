@@ -2931,7 +2931,7 @@
     "price": 4950.0,
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/modern-victorian-necklace-set-with-matching-earrings?variant=gid://shopify/ProductVariant/50904817074482",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/2886F4ED-3F8E-4A7B-B60C-81977842D6BF.jpg?v=1780991872"
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/05621312-D49F-4012-A8F9-9264CFA4D7C6.jpg?v=1770804887"
   },
   "gid://shopify/ProductVariant/50904818090290": {
     "product_title": "Designer Victorian Polki Fusion Chokers With Matching Earrings",
@@ -6623,15 +6623,6 @@
     "url": "https://www.dulhanjewels.com/products/bridal-moissanite-mango-haram-with-strawberry-beads?variant=gid://shopify/ProductVariant/51822692204850",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/9BB93A0C-AB65-49DF-B972-4E3E1359B78E.jpg?v=1789554272"
   },
-  "gid://shopify/ProductVariant/51822707835186": {
-    "product_title": "Ethnic Jadau Kundan Choker With Pearl And Bead Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1600.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/ethnic-jadau-kundan-choker-with-pearl-and-bead-drops?variant=gid://shopify/ProductVariant/51822707835186",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/7170B639-64AC-4DA3-A929-44F339FEF1F6.jpg?v=1789554529"
-  },
   "gid://shopify/ProductVariant/51822726086962": {
     "product_title": "Royal Emerald Green Victorian Polki Necklace Set With Matching Earrings",
     "variant_title": "Default Title",
@@ -7055,15 +7046,6 @@
     "url": "https://www.dulhanjewels.com/products/mehandi-victorian-polki-kundan-bangles?variant=gid://shopify/ProductVariant/50820460151090",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/12D3211A-DE5E-403F-83A1-79B87A5DA8BD.jpg?v=1768652763"
   },
-  "gid://shopify/ProductVariant/50904817041714": {
-    "product_title": "Modern Victorian Necklace Set With Matching Earrings",
-    "variant_title": "Green",
-    "sku": null,
-    "price": 4950.0,
-    "stock": 0,
-    "url": "https://www.dulhanjewels.com/products/modern-victorian-necklace-set-with-matching-earrings?variant=gid://shopify/ProductVariant/50904817041714",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/2886F4ED-3F8E-4A7B-B60C-81977842D6BF.jpg?v=1780991872"
-  },
   "gid://shopify/ProductVariant/51132593209650": {
     "product_title": "Unique Jadau Kundan Sleek Bangles",
     "variant_title": "Red / 2.4",
@@ -7189,5 +7171,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/jadau-kundan-polki-earrings-with-pearl-detailing?variant=gid://shopify/ProductVariant/51566627127602",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_5da3aa30-0f78-41e2-9bf7-41012598ae88.jpg?v=1789630250"
+  },
+  "gid://shopify/ProductVariant/51822707835186": {
+    "product_title": "Ethnic Jadau Kundan Choker With Pearl And Bead Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1600.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/ethnic-jadau-kundan-choker-with-pearl-and-bead-drops?variant=gid://shopify/ProductVariant/51822707835186",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/7170B639-64AC-4DA3-A929-44F339FEF1F6.jpg?v=1789554529"
   }
 }
