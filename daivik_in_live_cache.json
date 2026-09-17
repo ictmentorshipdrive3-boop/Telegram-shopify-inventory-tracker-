@@ -12496,7 +12496,7 @@
     "variant_title": "Default Title",
     "sku": "1286",
     "price": 599.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.daivik.in/products/lakshmi-coin-chain?variant=gid://shopify/ProductVariant/47042689433822",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0076DA59-97D2-403B-B4DE-3FD7466C64AE.jpg?v=1751086512"
   },
@@ -21275,15 +21275,6 @@
     "url": "https://www.daivik.in/products/balaji-black-thread-bracelet?variant=gid://shopify/ProductVariant/48629356986590",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0C8C6CF4-59B8-47AB-94C1-9DB2B7F85904.jpg?v=1787399713"
   },
-  "gid://shopify/ProductVariant/48630564880606": {
-    "product_title": "Diamond Look Alike 3 Layer Flower Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "316",
-    "price": 1499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diamond-look-alike-3-layer-flower-neckalace-with-earrings?variant=gid://shopify/ProductVariant/48630564880606",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1184.jpg?v=1787466208"
-  },
   "gid://shopify/ProductVariant/48630569435358": {
     "product_title": "Diamond Look Alike 2 Layer Flower Necklace with Earrings",
     "variant_title": "Default Title",
@@ -21370,7 +21361,7 @@
     "variant_title": "Default Title",
     "sku": "722",
     "price": 699.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.daivik.in/products/lakshmi-rashmika-inspired-mangalsutra?variant=gid://shopify/ProductVariant/48801242218718",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1820.jpg?v=1788005030"
   },
@@ -30841,6 +30832,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/pearl-kemp-floral-droplet-balis?variant=gid://shopify/ProductVariant/48623898886366",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F07B3D62-F7C5-4A9C-AF33-EA3958501861.jpg?v=1787313150"
+  },
+  "gid://shopify/ProductVariant/48630564880606": {
+    "product_title": "Diamond Look Alike 3 Layer Flower Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "316",
+    "price": 1499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diamond-look-alike-3-layer-flower-neckalace-with-earrings?variant=gid://shopify/ProductVariant/48630564880606",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1184.jpg?v=1787466208"
   },
   "gid://shopify/ProductVariant/48645693636830": {
     "product_title": "Black Beads Jali classic Mala / Chain",
