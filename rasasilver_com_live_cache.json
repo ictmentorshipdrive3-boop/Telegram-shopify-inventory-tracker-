@@ -5372,15 +5372,6 @@
     "url": "https://www.rasasilver.com/products/s5?variant=gid://shopify/ProductVariant/51226571964713",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS267.jpg?v=1759990089"
   },
-  "gid://shopify/ProductVariant/51226601652521": {
-    "product_title": "Lustre Bolt Bracelet",
-    "variant_title": "Default Title",
-    "sku": "R13548",
-    "price": 16915.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/s9?variant=gid://shopify/ProductVariant/51226601652521",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS255.jpg?v=1759993721"
-  },
   "gid://shopify/ProductVariant/51226615316777": {
     "product_title": "Emeralis Polki Kada",
     "variant_title": "Default Title",
@@ -5840,15 +5831,6 @@
     "url": "https://www.rasasilver.com/products/chain-pendant-1?variant=gid://shopify/ProductVariant/51317412462889",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS413_3c68c642-86a2-4f43-8b7f-a5652a809567.jpg?v=1760350945"
   },
-  "gid://shopify/ProductVariant/51317532852521": {
-    "product_title": "Fish Tail Chain Pendant",
-    "variant_title": "Default Title",
-    "sku": "R14149",
-    "price": 2040.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/error-1?variant=gid://shopify/ProductVariant/51317532852521",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS419.jpg?v=1760351502"
-  },
   "gid://shopify/ProductVariant/51317619261737": {
     "product_title": "Prakriti Garuda Pendant",
     "variant_title": "Default Title",
@@ -5872,7 +5854,7 @@
     "variant_title": "Default Title",
     "sku": "R14150",
     "price": 1700.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/chain-pendant-10?variant=gid://shopify/ProductVariant/51345625153833",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS488.jpg?v=1760361136"
   },
@@ -8639,15 +8621,6 @@
     "url": "https://www.rasasilver.com/products/emeravia-necklace-set?variant=gid://shopify/ProductVariant/51526753747241",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Box01_12Nov0615_resized.jpg?v=1763456062"
   },
-  "gid://shopify/ProductVariant/51526515491113": {
-    "product_title": "Rosmeryl Necklace",
-    "variant_title": "Default Title",
-    "sku": "R18575",
-    "price": 45815.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/rosmeryl-necklace?variant=gid://shopify/ProductVariant/51526515491113",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Box01_12Nov0522_resized.jpg?v=1763465861"
-  },
   "gid://shopify/ProductVariant/51526536790313": {
     "product_title": "Mayur Tanvi Necklace Set",
     "variant_title": "Default Title",
@@ -8899,15 +8872,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/kundan-garudesh-necklace?variant=gid://shopify/ProductVariant/51527321583913",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2481_resized.jpg?v=1763457752"
-  },
-  "gid://shopify/ProductVariant/51527331807529": {
-    "product_title": "Ratnmayur Moti Necklace",
-    "variant_title": "Default Title",
-    "sku": "R18434",
-    "price": 113645.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/ratnmayur-moti-necklace?variant=gid://shopify/ProductVariant/51527331807529",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2529_resized.jpg?v=1763458014"
   },
   "gid://shopify/ProductVariant/51527338950953": {
     "product_title": "Queen\u2019s Navaratna Bangles",
@@ -23341,7 +23305,7 @@
     "variant_title": "Default Title",
     "sku": "R33382",
     "price": 810.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/veera-rakhi?variant=gid://shopify/ProductVariant/53394183651625",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19576.jpg?v=1785999460"
   },
@@ -28196,6 +28160,15 @@
     "url": "https://www.rasasilver.com/products/s8?variant=gid://shopify/ProductVariant/51226585399593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS266.jpg?v=1759993634"
   },
+  "gid://shopify/ProductVariant/51226601652521": {
+    "product_title": "Lustre Bolt Bracelet",
+    "variant_title": "Default Title",
+    "sku": "R13548",
+    "price": 16915.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/s9?variant=gid://shopify/ProductVariant/51226601652521",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS255.jpg?v=1759993721"
+  },
   "gid://shopify/ProductVariant/51226608861481": {
     "product_title": "Leafcrest Emerald Danglers",
     "variant_title": "Default Title",
@@ -28942,6 +28915,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/chain-pendant-8?variant=gid://shopify/ProductVariant/51317517353257",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS417.jpg?v=1760351445"
+  },
+  "gid://shopify/ProductVariant/51317532852521": {
+    "product_title": "Fish Tail Chain Pendant",
+    "variant_title": "Default Title",
+    "sku": "R14149",
+    "price": 2040.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/error-1?variant=gid://shopify/ProductVariant/51317532852521",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS419.jpg?v=1760351502"
   },
   "gid://shopify/ProductVariant/51317542158633": {
     "product_title": "Rosalita Chain Pendant",
@@ -34010,6 +33992,15 @@
     "url": "https://www.rasasilver.com/products/bloomastra-necklace-set?variant=gid://shopify/ProductVariant/51526499500329",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Box01_12Nov0516_resized.jpg?v=1763450685"
   },
+  "gid://shopify/ProductVariant/51526515491113": {
+    "product_title": "Rosmeryl Necklace",
+    "variant_title": "Default Title",
+    "sku": "R18575",
+    "price": 45815.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/rosmeryl-necklace?variant=gid://shopify/ProductVariant/51526515491113",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Box01_12Nov0522_resized.jpg?v=1763465861"
+  },
   "gid://shopify/ProductVariant/51526526009641": {
     "product_title": "Elvoria Necklace Set",
     "variant_title": "Default Title",
@@ -34306,6 +34297,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/queen-s-garden-bangles?variant=gid://shopify/ProductVariant/52263531446569",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_10Nov0178_resized.jpg?v=1763375335"
+  },
+  "gid://shopify/ProductVariant/51527331807529": {
+    "product_title": "Ratnmayur Moti Necklace",
+    "variant_title": "Default Title",
+    "sku": "R18434",
+    "price": 113645.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ratnmayur-moti-necklace?variant=gid://shopify/ProductVariant/51527331807529",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2529_resized.jpg?v=1763458014"
   },
   "gid://shopify/ProductVariant/51527341605161": {
     "product_title": "Rangila Mayur Necklace",
