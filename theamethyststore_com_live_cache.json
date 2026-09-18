@@ -1065,8 +1065,8 @@
     "product_title": "Delicate Nose Pin",
     "variant_title": "Default Title",
     "sku": "AMS-113-0046",
-    "price": 1500.0,
-    "stock": 7,
+    "price": 1300.0,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/delicate-nose-pin?variant=gid://shopify/ProductVariant/42390688891107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-113-0046.jpg?v=1677480591"
   },
@@ -18030,7 +18030,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 26600.0,
+    "price": 25000.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -33852,7 +33852,7 @@
     "product_title": "Khloe Ring",
     "variant_title": "14",
     "sku": "AMS-101-1555-14\"",
-    "price": 4600.0,
+    "price": 4000.0,
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/ring-11?variant=gid://shopify/ProductVariant/49695949586659",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1555.jpg?v=1757153516"
@@ -42685,15 +42685,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/lakkesh-stone-ring?variant=gid://shopify/ProductVariant/47392959496419",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1632.jpg?v=1761375972"
-  },
-  "gid://shopify/ProductVariant/47392964280547": {
-    "product_title": "Viveka Stone Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-10682",
-    "price": 11278.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/viveka-stone-jhumkas?variant=gid://shopify/ProductVariant/47392964280547",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10682.jpg?v=1761376311"
   },
   "gid://shopify/ProductVariant/47392965132515": {
     "product_title": "Avanthikha Stone Ring",
@@ -66527,21 +66518,12 @@
     "url": "https://www.theamethyststore.com/products/aryvika-choker-necklace-set?variant=gid://shopify/ProductVariant/48903355924707",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15428.jpg?v=1777804670"
   },
-  "gid://shopify/ProductVariant/48903356186851": {
-    "product_title": "Cute Choker Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15430",
-    "price": 38900.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/cute-choker-necklace-set?variant=gid://shopify/ProductVariant/48903356186851",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15430.jpg?v=1777804923"
-  },
   "gid://shopify/ProductVariant/48903359529187": {
     "product_title": "Dhanvikha Long Necklace Set",
     "variant_title": "Default Title",
     "sku": "AMS-102-15426",
     "price": 51500.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/dhanvikha-long-necklace-set?variant=gid://shopify/ProductVariant/48903359529187",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15426.jpg?v=1777805289"
   },
@@ -108989,6 +108971,15 @@
     "url": "https://www.theamethyststore.com/products/gracefully-glowing-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/49768974057699",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18127.jpg?v=1789715224"
   },
+  "gid://shopify/ProductVariant/49768998830307": {
+    "product_title": "Timeless Elegance Diamond Design Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18128",
+    "price": 43600.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/timeless-elegance-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/49768998830307",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18128.jpg?v=1789715931"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -118898,6 +118889,15 @@
     "url": "https://www.theamethyststore.com/products/saisha-stone-jhumkas-1?variant=gid://shopify/ProductVariant/47392932692195",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10672.jpg?v=1761374314"
   },
+  "gid://shopify/ProductVariant/47392964280547": {
+    "product_title": "Viveka Stone Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-10682",
+    "price": 11278.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/viveka-stone-jhumkas?variant=gid://shopify/ProductVariant/47392964280547",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10682.jpg?v=1761376311"
+  },
   "gid://shopify/ProductVariant/47393151385827": {
     "product_title": "Dhanya Hook Jhumkas",
     "variant_title": "Default Title",
@@ -125674,6 +125674,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/choker-necklace-set-1?variant=gid://shopify/ProductVariant/48903355334883",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15427.jpg?v=1777804405"
+  },
+  "gid://shopify/ProductVariant/48903356186851": {
+    "product_title": "Cute Choker Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15430",
+    "price": 38900.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/cute-choker-necklace-set?variant=gid://shopify/ProductVariant/48903356186851",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15430.jpg?v=1777804923"
   },
   "gid://shopify/ProductVariant/48903364640995": {
     "product_title": "Gorgeous Lakshmi 3D Spl Pendant",
