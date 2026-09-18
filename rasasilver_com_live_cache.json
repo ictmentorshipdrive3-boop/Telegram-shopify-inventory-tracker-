@@ -1300,7 +1300,7 @@
     "variant_title": "Default Title",
     "sku": "R2459",
     "price": 60520.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/cc?variant=gid://shopify/ProductVariant/50282935583017",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP03978copy.jpg?v=1764074025"
   },
@@ -3454,15 +3454,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/phool-patra-ring?variant=gid://shopify/ProductVariant/50635383079209",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_b8e63f25-e347-47bc-a5b4-f852ef78fb3c.jpg?v=1754312394"
-  },
-  "gid://shopify/ProductVariant/51412229292329": {
-    "product_title": "Zirconika Stone Ring",
-    "variant_title": "Green",
-    "sku": "R16032",
-    "price": 2125.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/zirconika-ring?variant=gid://shopify/ProductVariant/51412229292329",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/3-2_a9ca0497-e6ce-4202-a821-dcefc58b6d3c.jpg?v=1754312006"
   },
   "gid://shopify/ProductVariant/50648371462441": {
     "product_title": "Kamala Manjari Short Necklace",
@@ -26333,6 +26324,15 @@
     "url": "https://www.rasasilver.com/products/zirconika-ring?variant=gid://shopify/ProductVariant/51412229259561",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/3-2_a9ca0497-e6ce-4202-a821-dcefc58b6d3c.jpg?v=1754312006"
   },
+  "gid://shopify/ProductVariant/51412229292329": {
+    "product_title": "Zirconika Stone Ring",
+    "variant_title": "Green",
+    "sku": "R16032",
+    "price": 2125.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/zirconika-ring?variant=gid://shopify/ProductVariant/51412229292329",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/3-2_a9ca0497-e6ce-4202-a821-dcefc58b6d3c.jpg?v=1754312006"
+  },
   "gid://shopify/ProductVariant/52263695188265": {
     "product_title": "Devi Darshanam Bangles",
     "variant_title": "2.6",
@@ -48877,5 +48877,14 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/nakshi-jhumki?variant=gid://shopify/ProductVariant/54205933682985",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__12Sep2280.jpg?v=1789722122"
+  },
+  "gid://shopify/ProductVariant/54206051156265": {
+    "product_title": "Pushpa-Mor Nakshi Jhumki",
+    "variant_title": "Default Title",
+    "sku": "R35130",
+    "price": 27370.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/pushpa-mor-nakshi-jhumki?variant=gid://shopify/ProductVariant/54206051156265",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__12Sep22861.jpg?v=1789730206"
   }
 }
