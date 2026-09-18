@@ -1844,15 +1844,6 @@
     "url": "https://www.daivik.in/products/rosegold-circle-necklace-with-earrings?variant=gid://shopify/ProductVariant/42324428947678",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_b92ba159-b686-4916-a846-70d7b2301136.jpg?v=1641826525"
   },
-  "gid://shopify/ProductVariant/42328076943582": {
-    "product_title": "Pure premium Kemp Brass Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "993",
-    "price": 1499.0,
-    "stock": 21,
-    "url": "https://www.daivik.in/products/pure-premium-kemp-brass-jhumkas?variant=gid://shopify/ProductVariant/42328076943582",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_74936a48-543b-44d1-9e17-d0a6d6bfc150.jpg?v=1641913514"
-  },
   "gid://shopify/ProductVariant/42331638989022": {
     "product_title": "Simple Floral AD Kemp Necklace with earrings",
     "variant_title": "Default Title",
@@ -9634,7 +9625,7 @@
     "variant_title": "Ruby Green",
     "sku": "1133",
     "price": 2599.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/ad-ruby-green-pendant-long-haram?variant=gid://shopify/ProductVariant/46264545280222",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0A564539-7321-42FF-8391-5FEC27583520.jpg?v=1730993718"
   },
@@ -22471,6 +22462,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/ad-star-necklace-choker-with-earrings?variant=gid://shopify/ProductVariant/42268876439774",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_3231edac-4903-4b41-9332-79257de92038.jpg?v=1640618091"
+  },
+  "gid://shopify/ProductVariant/42328076943582": {
+    "product_title": "Pure premium Kemp Brass Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "993",
+    "price": 1499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/pure-premium-kemp-brass-jhumkas?variant=gid://shopify/ProductVariant/42328076943582",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_74936a48-543b-44d1-9e17-d0a6d6bfc150.jpg?v=1641913514"
   },
   "gid://shopify/ProductVariant/42331658387678": {
     "product_title": "Pure Brass Kundan necklace with earrings",
