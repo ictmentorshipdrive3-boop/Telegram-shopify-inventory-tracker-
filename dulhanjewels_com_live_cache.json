@@ -1493,15 +1493,6 @@
     "url": "https://www.dulhanjewels.com/products/surya-studded-jadau-kundan-jhumki-earrings?variant=gid://shopify/ProductVariant/50115831660850",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/236F62D5-40BC-4E63-86FD-C3F868496687.jpg?v=1780656123"
   },
-  "gid://shopify/ProductVariant/50115847684402": {
-    "product_title": "Exquisite Floral Studded Jadau Kundan Jhumka Earrings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1950.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/exquisite-jadau-kundan-jhumka-tilak-design-with-swarovski-hanging?variant=gid://shopify/ProductVariant/50115847684402",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/87DF7F10-2D35-413E-8DC7-BC0F2F20B564.jpg?v=1765872344"
-  },
   "gid://shopify/ProductVariant/50116044685618": {
     "product_title": "Dazzling Tilak Studded Jadau Kundan Chandbali Earrings",
     "variant_title": "Default Title",
@@ -6497,15 +6488,6 @@
     "url": "https://www.dulhanjewels.com/products/delicate-jadau-kundan-maang-tikka-with-emerald-drops?variant=gid://shopify/ProductVariant/51744487342386",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/138B4AAB-D1FA-439B-9674-6FF4293E1403.jpg?v=1788940904"
   },
-  "gid://shopify/ProductVariant/51761003594034": {
-    "product_title": "Bridal Jadau Kundan Chandbali Earrings With Emerald Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2300.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/untitled-sep10_16-22-33?variant=gid://shopify/ProductVariant/51761003594034",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_6dbf24f1-d68b-4331-a2cc-ee1e56ed65ad.jpg?v=1789626786"
-  },
   "gid://shopify/ProductVariant/51761593647410": {
     "product_title": "Designer Necklace With Emerald Beads And Earrings",
     "variant_title": "Default Title",
@@ -6820,6 +6802,15 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/traditional-floral-design-jadau-kundan-bangles-1?variant=gid://shopify/ProductVariant/50127666643250",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6145432206227215690.jpg?v=1781094465"
+  },
+  "gid://shopify/ProductVariant/50115847684402": {
+    "product_title": "Exquisite Floral Studded Jadau Kundan Jhumka Earrings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1950.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/exquisite-jadau-kundan-jhumka-tilak-design-with-swarovski-hanging?variant=gid://shopify/ProductVariant/50115847684402",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/87DF7F10-2D35-413E-8DC7-BC0F2F20B564.jpg?v=1765872344"
   },
   "gid://shopify/ProductVariant/50180614062386": {
     "product_title": "Majestic Jadau Kundan Mango Design Bangles",
@@ -7144,5 +7135,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/radiant-victorian-emerald-necklace-set-with-pearl-drops-and-matching-earrings?variant=gid://shopify/ProductVariant/51736822120754",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/8AE3956F-FCE9-40C3-8DB6-F61A9B462285.jpg?v=1788780742"
+  },
+  "gid://shopify/ProductVariant/51761003594034": {
+    "product_title": "Bridal Jadau Kundan Chandbali Earrings With Emerald Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2300.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/untitled-sep10_16-22-33?variant=gid://shopify/ProductVariant/51761003594034",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_6dbf24f1-d68b-4331-a2cc-ee1e56ed65ad.jpg?v=1789626786"
   }
 }
