@@ -949,7 +949,7 @@
     "variant_title": "Default Title",
     "sku": "R17286",
     "price": 4080.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/kiranaratna-studs?variant=gid://shopify/ProductVariant/50152979005737",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06339_copy.jpg?v=1744182993"
   },
@@ -7492,7 +7492,7 @@
     "variant_title": "Default Title",
     "sku": "R17484",
     "price": 3315.0,
-    "stock": 4,
+    "stock": 5,
     "url": "https://www.rasasilver.com/products/divine-bells-studs?variant=gid://shopify/ProductVariant/51488529056041",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0081copy_resized_1.jpg?v=1762931541"
   },
@@ -8545,7 +8545,7 @@
     "variant_title": "5",
     "sku": "R17388",
     "price": 2805.0,
-    "stock": 4,
+    "stock": 5,
     "url": "https://www.rasasilver.com/products/navaratna-petal-ring?variant=gid://shopify/ProductVariant/52291033399593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0201copy_resized_e7247351-ac67-4af7-bee1-9248d889004e.jpg?v=1763636587"
   },
@@ -9940,7 +9940,7 @@
     "variant_title": "2.5",
     "sku": "R19952",
     "price": 26435.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/gemsphere-bangles?variant=gid://shopify/ProductVariant/52210356945193",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0057copy_resized_022a595c-083a-41a5-be06-bd4afecf5217.jpg?v=1764669737"
   },
@@ -9949,7 +9949,7 @@
     "variant_title": "2.6",
     "sku": "R19952",
     "price": 26435.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/gemsphere-bangles?variant=gid://shopify/ProductVariant/52210356977961",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0057copy_resized_022a595c-083a-41a5-be06-bd4afecf5217.jpg?v=1764669737"
   },
@@ -9958,7 +9958,7 @@
     "variant_title": "2.4",
     "sku": "R19952",
     "price": 26435.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/gemsphere-bangles?variant=gid://shopify/ProductVariant/52273340645673",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0057copy_resized_022a595c-083a-41a5-be06-bd4afecf5217.jpg?v=1764669737"
   },
@@ -18728,6 +18728,15 @@
     "url": "https://www.rasasilver.com/products/legacy-shine-victorian-danglers?variant=gid://shopify/ProductVariant/53149261201705",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0034_resized.jpg?v=1780491880"
   },
+  "gid://shopify/ProductVariant/53149276733737": {
+    "product_title": "Flora-Pink Oxidized Payal",
+    "variant_title": "Default Title",
+    "sku": "R21880",
+    "price": 4356.25,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/flora-pink-oxidized-payal?variant=gid://shopify/ProductVariant/53149276733737",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0718_resized.jpg?v=1780925424"
+  },
   "gid://shopify/ProductVariant/53149351313705": {
     "product_title": "Pallavi Antique Haath Phool",
     "variant_title": "Default Title",
@@ -19429,6 +19438,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/chakra-berunda-kundan-pendant?variant=gid://shopify/ProductVariant/53266957140265",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262020_resized.jpg?v=1781532275"
+  },
+  "gid://shopify/ProductVariant/53267624984873": {
+    "product_title": "Narayani Temple Bangles",
+    "variant_title": "Default Title",
+    "sku": "R28504",
+    "price": 38080.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/narayani-temple-bangles?variant=gid://shopify/ProductVariant/53267624984873",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262014_resized.jpg?v=1781543676"
   },
   "gid://shopify/ProductVariant/53267643859241": {
     "product_title": "Gulnaar Nakshi Choker",
@@ -20257,6 +20275,15 @@
     "stock": 3,
     "url": "https://www.rasasilver.com/products/rajwadi-kada?variant=gid://shopify/ProductVariant/53286148735273",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5767_resized.jpg?v=1782295210"
+  },
+  "gid://shopify/ProductVariant/53286160138537": {
+    "product_title": "Beaded Heart Oxidized Payal",
+    "variant_title": "Default Title",
+    "sku": "R31647",
+    "price": 3315.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/beaded-heart-oxidized-payal?variant=gid://shopify/ProductVariant/53286160138537",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13394_resized.jpg?v=1782297119"
   },
   "gid://shopify/ProductVariant/53286180323625": {
     "product_title": "Solitaire Spark Ring",
@@ -25451,24 +25478,6 @@
     "url": "https://www.rasasilver.com/products/ridhanya-kundan-jhumki?variant=gid://shopify/ProductVariant/54118466683177",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Ridhanya_Kundan_Jhumki.jpg?v=1789554692"
   },
-  "gid://shopify/ProductVariant/54118501024041": {
-    "product_title": "Vamisha Nakshi Jhumki",
-    "variant_title": "Default Title",
-    "sku": "R35181",
-    "price": 14365.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/vamisha-kundan-jhumki?variant=gid://shopify/ProductVariant/54118501024041",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1643.jpg?v=1789453132"
-  },
-  "gid://shopify/ProductVariant/54118525632809": {
-    "product_title": "Yuvrisha Nakshi Jhumki",
-    "variant_title": "Default Title",
-    "sku": "R35017",
-    "price": 21590.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/yuvrisha-kundan-jhumki?variant=gid://shopify/ProductVariant/54118525632809",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1664.jpg?v=1789453690"
-  },
   "gid://shopify/ProductVariant/54118609912105": {
     "product_title": "Aavrita Antique Kada",
     "variant_title": "Default Title",
@@ -25567,6 +25576,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/veehana-kundan-studs?variant=gid://shopify/ProductVariant/54176466010409",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1600.jpg?v=1789562034"
+  },
+  "gid://shopify/ProductVariant/49810382946601": {
+    "product_title": "Semi Stiff Mango Necklace",
+    "variant_title": "Default Title",
+    "sku": "R1664",
+    "price": 40545.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/semi-stiff-mango-necklace?variant=gid://shopify/ProductVariant/49810382946601",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP03630_copy.jpg?v=1750077274"
   },
   "gid://shopify/ProductVariant/51178838032681": {
     "product_title": "Lily Two Strand Necklace Set",
@@ -44954,15 +44972,6 @@
     "url": "https://www.rasasilver.com/products/eternal-link-bracelet?variant=gid://shopify/ProductVariant/53149272277289",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0737_resized_134be3cf-0873-4171-9d83-5e0af2f11846.jpg?v=1785753222"
   },
-  "gid://shopify/ProductVariant/53149276733737": {
-    "product_title": "Flora-Pink Oxidized Payal",
-    "variant_title": "Default Title",
-    "sku": "R21880",
-    "price": 4356.25,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/flora-pink-oxidized-payal?variant=gid://shopify/ProductVariant/53149276733737",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0718_resized.jpg?v=1780925424"
-  },
   "gid://shopify/ProductVariant/53149330932009": {
     "product_title": "Aarna Bracelet",
     "variant_title": "Default Title",
@@ -45520,15 +45529,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/arka-chandra-kundan-set?variant=gid://shopify/ProductVariant/53266936070441",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262068_resized.jpg?v=1781530644"
-  },
-  "gid://shopify/ProductVariant/53267624984873": {
-    "product_title": "Narayani Temple Bangles",
-    "variant_title": "Default Title",
-    "sku": "R28504",
-    "price": 38080.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/narayani-temple-bangles?variant=gid://shopify/ProductVariant/53267624984873",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262014_resized.jpg?v=1781543676"
   },
   "gid://shopify/ProductVariant/53267698614569": {
     "product_title": "Kanakshri Matil",
@@ -46411,15 +46411,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/coil-shine-kada?variant=gid://shopify/ProductVariant/53286102073641",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5773_resized.jpg?v=1782294818"
-  },
-  "gid://shopify/ProductVariant/53286160138537": {
-    "product_title": "Beaded Heart Oxidized Payal",
-    "variant_title": "Default Title",
-    "sku": "R31647",
-    "price": 3315.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/beaded-heart-oxidized-payal?variant=gid://shopify/ProductVariant/53286160138537",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13394_resized.jpg?v=1782297119"
   },
   "gid://shopify/ProductVariant/53286167675177": {
     "product_title": "Mystic Snake Ring",
@@ -48526,6 +48517,24 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/rehanshi-cz-jhumki?variant=gid://shopify/ProductVariant/53804939346217",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1680.jpg?v=1789129239"
+  },
+  "gid://shopify/ProductVariant/54118501024041": {
+    "product_title": "Vamisha Nakshi Jhumki",
+    "variant_title": "Default Title",
+    "sku": "R35181",
+    "price": 14365.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/vamisha-kundan-jhumki?variant=gid://shopify/ProductVariant/54118501024041",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1643.jpg?v=1789453132"
+  },
+  "gid://shopify/ProductVariant/54118525632809": {
+    "product_title": "Yuvrisha Nakshi Jhumki",
+    "variant_title": "Default Title",
+    "sku": "R35017",
+    "price": 21590.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/yuvrisha-kundan-jhumki?variant=gid://shopify/ProductVariant/54118525632809",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1664.jpg?v=1789453690"
   },
   "gid://shopify/ProductVariant/54118619250985": {
     "product_title": "Fleur-Pearl CZ Choker Set",
