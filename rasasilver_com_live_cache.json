@@ -1030,7 +1030,7 @@
     "variant_title": "Green",
     "sku": "R17124",
     "price": 19465.0,
-    "stock": 18,
+    "stock": 17,
     "url": "https://www.rasasilver.com/products/meadow-muse-pendant?variant=gid://shopify/ProductVariant/52485476843817",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R2675.jpg?v=1769672524"
   },
@@ -23422,7 +23422,7 @@
     "variant_title": "Default Title",
     "sku": "R33382",
     "price": 810.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/veera-rakhi?variant=gid://shopify/ProductVariant/53394183651625",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19576.jpg?v=1785999460"
   },
@@ -23431,7 +23431,7 @@
     "variant_title": "Default Title",
     "sku": "R33383",
     "price": 810.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/half-moon-veera-rakhi?variant=gid://shopify/ProductVariant/53394184732969",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19591.jpg?v=1786000775"
   },
@@ -24070,7 +24070,7 @@
     "variant_title": "Default Title",
     "sku": "R33571",
     "price": 1080.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/raksha-bhai-rakhi?variant=gid://shopify/ProductVariant/53409742586153",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19649.jpg?v=1786022885"
   },
@@ -24703,15 +24703,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/ishira-kundan-kanti-copy-3?variant=gid://shopify/ProductVariant/53429223489833",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0784.jpg?v=1787058564"
-  },
-  "gid://shopify/ProductVariant/53437052846377": {
-    "product_title": "Sheervana Temple Bangles",
-    "variant_title": "2.6",
-    "sku": "R33655",
-    "price": 57200.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/narayani-temple-bangles-copy?variant=gid://shopify/ProductVariant/53437052846377",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0868.jpg?v=1787119443"
   },
   "gid://shopify/ProductVariant/53430273671465": {
     "product_title": "Shreeja Temple Necklace",
@@ -48284,6 +48275,15 @@
     "url": "https://www.rasasilver.com/products/kundan-berunda-necklace-copy?variant=gid://shopify/ProductVariant/53429712683305",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0858.jpg?v=1787059024"
   },
+  "gid://shopify/ProductVariant/53437052846377": {
+    "product_title": "Sheervana Temple Bangles",
+    "variant_title": "2.6",
+    "sku": "R33655",
+    "price": 57200.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/narayani-temple-bangles-copy?variant=gid://shopify/ProductVariant/53437052846377",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0868.jpg?v=1787119443"
+  },
   "gid://shopify/ProductVariant/53430611771689": {
     "product_title": "Vilasini Kundan Necklace",
     "variant_title": "Default Title",
@@ -48778,5 +48778,14 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/blush-pear-cz-necklace-set?variant=gid://shopify/ProductVariant/54203882144041",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__10Sep2078.jpg?v=1789647459"
+  },
+  "gid://shopify/ProductVariant/54205864935721": {
+    "product_title": "Mor Raj Nakshi Jhumki",
+    "variant_title": "Default Title",
+    "sku": "R34951",
+    "price": 20230.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/mor-raj-nakshi-jhumki?variant=gid://shopify/ProductVariant/54205864935721",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Tast_12Set20938.jpg?v=1789716175"
   }
 }
