@@ -670,7 +670,7 @@
     "variant_title": "Default Title",
     "sku": "R2023",
     "price": 18360.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/emerald-dhanyalakshmi-short-necklace?variant=gid://shopify/ProductVariant/50063302721833",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/19.jpg?v=1743503521"
   },
@@ -4093,15 +4093,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/blossomique-necklace-set?variant=gid://shopify/ProductVariant/50773858484521",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_35417a1f-b62d-4973-8542-809d9e426c02.jpg?v=1755690137"
-  },
-  "gid://shopify/ProductVariant/50774156181801": {
-    "product_title": "Pearcella Aurora Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R11575",
-    "price": 20740.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/pearcella-aurora-necklace-set?variant=gid://shopify/ProductVariant/50774156181801",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_07Aug0668.jpg?v=1756191805"
   },
   "gid://shopify/ProductVariant/50777351586089": {
     "product_title": "Devi Chakra Stud Earrings",
@@ -26746,6 +26737,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/royal-feather-halo-necklace-set?variant=gid://shopify/ProductVariant/50773704311081",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-5_16069a7c-4efd-4b0e-b409-811e86a88b1e.jpg?v=1755691138"
+  },
+  "gid://shopify/ProductVariant/50774156181801": {
+    "product_title": "Pearcella Aurora Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R11575",
+    "price": 20740.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/pearcella-aurora-necklace-set?variant=gid://shopify/ProductVariant/50774156181801",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_07Aug0668.jpg?v=1756191805"
   },
   "gid://shopify/ProductVariant/50774231908649": {
     "product_title": "Triple Row Dazzle Necklace Set",
