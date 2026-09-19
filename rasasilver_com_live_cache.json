@@ -787,7 +787,7 @@
     "variant_title": "Default Title",
     "sku": "R18885",
     "price": 16235.0,
-    "stock": 7,
+    "stock": 8,
     "url": "https://www.rasasilver.com/products/stellar-nine-short-necklace?variant=gid://shopify/ProductVariant/50083435872553",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/22_26864588-0f79-45e3-9e00-abb12fcedf8b.jpg?v=1743842365"
   },
@@ -15812,15 +15812,6 @@
     "url": "https://www.rasasilver.com/products/lakshmi-valli-temple-jada?variant=gid://shopify/ProductVariant/52818613764393",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_10_Mar15933.jpg?v=1773471668"
   },
-  "gid://shopify/ProductVariant/52818873680169": {
-    "product_title": "Temple Bottu Necklace",
-    "variant_title": "Default Title",
-    "sku": "R26114",
-    "price": 81260.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/temple-bottu-necklace?variant=gid://shopify/ProductVariant/52818873680169",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/RasaSiver_115_Pics_6Mar36716_resized.jpg?v=1773729064"
-  },
   "gid://shopify/ProductVariant/52818916081961": {
     "product_title": "Divya Lakshmi Bottu Necklace",
     "variant_title": "GREEN",
@@ -24100,15 +24091,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/moti-panna-kundan-studs?variant=gid://shopify/ProductVariant/53411242017065",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38629.jpg?v=1786705254"
-  },
-  "gid://shopify/ProductVariant/53411250372905": {
-    "product_title": "Shrivara Temple Kasu Necklace",
-    "variant_title": "Default Title",
-    "sku": "R28752",
-    "price": 78800.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/shrivara-temple-necklace?variant=gid://shopify/ProductVariant/53411250372905",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__12Aug0335.jpg?v=1786965166"
   },
   "gid://shopify/ProductVariant/53411268591913": {
     "product_title": "Padmaraaga Temple Necklace",
@@ -41867,6 +41849,15 @@
     "url": "https://www.rasasilver.com/products/rajmayuri-nakshi-studs?variant=gid://shopify/ProductVariant/52809960882473",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_9Mar1027_resized.jpg?v=1773837247"
   },
+  "gid://shopify/ProductVariant/52818873680169": {
+    "product_title": "Temple Bottu Necklace",
+    "variant_title": "Default Title",
+    "sku": "R26114",
+    "price": 81260.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/temple-bottu-necklace?variant=gid://shopify/ProductVariant/52818873680169",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/RasaSiver_115_Pics_6Mar36716_resized.jpg?v=1773729064"
+  },
   "gid://shopify/ProductVariant/52818916049193": {
     "product_title": "Divya Lakshmi Bottu Necklace",
     "variant_title": "Ruby Pink",
@@ -48022,6 +48013,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/moti-panna-kundan-studs?variant=gid://shopify/ProductVariant/53411242049833",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38629.jpg?v=1786705254"
+  },
+  "gid://shopify/ProductVariant/53411250372905": {
+    "product_title": "Shrivara Temple Kasu Necklace",
+    "variant_title": "Default Title",
+    "sku": "R28752",
+    "price": 78800.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/shrivara-temple-necklace?variant=gid://shopify/ProductVariant/53411250372905",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__12Aug0335.jpg?v=1786965166"
   },
   "gid://shopify/ProductVariant/53411271180585": {
     "product_title": "Dhan-Lakshmi Temple Necklace",
