@@ -787,7 +787,7 @@
     "variant_title": "Default Title",
     "sku": "R18885",
     "price": 16235.0,
-    "stock": 8,
+    "stock": 9,
     "url": "https://www.rasasilver.com/products/stellar-nine-short-necklace?variant=gid://shopify/ProductVariant/50083435872553",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/22_26864588-0f79-45e3-9e00-abb12fcedf8b.jpg?v=1743842365"
   },
@@ -3433,7 +3433,7 @@
     "variant_title": "GREEN",
     "sku": "R17375",
     "price": 2720.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/phool-patra-ring?variant=gid://shopify/ProductVariant/50635383046441",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_b8e63f25-e347-47bc-a5b4-f852ef78fb3c.jpg?v=1754312394"
   },
@@ -8527,7 +8527,7 @@
     "variant_title": "5",
     "sku": "R17388",
     "price": 2805.0,
-    "stock": 5,
+    "stock": 6,
     "url": "https://www.rasasilver.com/products/navaratna-petal-ring?variant=gid://shopify/ProductVariant/52291033399593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0201copy_resized_e7247351-ac67-4af7-bee1-9248d889004e.jpg?v=1763636587"
   },
@@ -9580,7 +9580,7 @@
     "variant_title": "7.25",
     "sku": "R16496",
     "price": 6035.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/frost-bloom-ring?variant=gid://shopify/ProductVariant/52290959966505",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0007copy_resized.jpg?v=1764062037"
   },
@@ -12775,7 +12775,7 @@
     "variant_title": "2.4",
     "sku": "R24452",
     "price": 46495.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/victorian-bloom-bangles?variant=gid://shopify/ProductVariant/52535408427305",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_113_Pics_29Jan4103.jpg?v=1770287270"
   },
@@ -24682,7 +24682,7 @@
     "variant_title": "Default Title",
     "sku": "R28070",
     "price": 700.0,
-    "stock": 15,
+    "stock": 14,
     "url": "https://www.rasasilver.com/products/sitara-stone-septum-ring?variant=gid://shopify/ProductVariant/53479381303593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459261.jpg?v=1789192720"
   },
@@ -25162,6 +25162,24 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/ridhanya-kundan-jhumki?variant=gid://shopify/ProductVariant/54118466683177",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Ridhanya_Kundan_Jhumki.jpg?v=1789554692"
+  },
+  "gid://shopify/ProductVariant/54118501024041": {
+    "product_title": "Vamisha Nakshi Jhumki",
+    "variant_title": "Default Title",
+    "sku": "R35181",
+    "price": 14365.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/vamisha-kundan-jhumki?variant=gid://shopify/ProductVariant/54118501024041",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1643.jpg?v=1789453132"
+  },
+  "gid://shopify/ProductVariant/54118525632809": {
+    "product_title": "Yuvrisha Nakshi Jhumki",
+    "variant_title": "Default Title",
+    "sku": "R35017",
+    "price": 21590.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/yuvrisha-kundan-jhumki?variant=gid://shopify/ProductVariant/54118525632809",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1664.jpg?v=1789453690"
   },
   "gid://shopify/ProductVariant/54118609912105": {
     "product_title": "Aavrita Antique Kada",
@@ -48490,24 +48508,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/aarnisha-kundan-jhumki?variant=gid://shopify/ProductVariant/54118445351209",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1659.jpg?v=1789448541"
-  },
-  "gid://shopify/ProductVariant/54118501024041": {
-    "product_title": "Vamisha Nakshi Jhumki",
-    "variant_title": "Default Title",
-    "sku": "R35181",
-    "price": 14365.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/vamisha-kundan-jhumki?variant=gid://shopify/ProductVariant/54118501024041",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1643.jpg?v=1789453132"
-  },
-  "gid://shopify/ProductVariant/54118525632809": {
-    "product_title": "Yuvrisha Nakshi Jhumki",
-    "variant_title": "Default Title",
-    "sku": "R35017",
-    "price": 21590.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/yuvrisha-kundan-jhumki?variant=gid://shopify/ProductVariant/54118525632809",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1664.jpg?v=1789453690"
   },
   "gid://shopify/ProductVariant/54118619250985": {
     "product_title": "Fleur-Pearl CZ Choker Set",
