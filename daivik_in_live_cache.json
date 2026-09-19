@@ -2668,7 +2668,7 @@
     "variant_title": "Default Title",
     "sku": "432",
     "price": 899.0,
-    "stock": 29,
+    "stock": 28,
     "url": "https://www.daivik.in/products/a-225?variant=gid://shopify/ProductVariant/43212378439902",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_f6b01fa0-137c-4333-b8ec-463d4542e32a.heic?v=1659180660"
   },
@@ -9796,7 +9796,7 @@
     "variant_title": "Default Title",
     "sku": "1156",
     "price": 2299.0,
-    "stock": 25,
+    "stock": 24,
     "url": "https://www.daivik.in/products/ad-peacock-long-chain-with-earrings?variant=gid://shopify/ProductVariant/46076856860894",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8C7E15C9-63A6-4A20-8657-D3A449369CE5.jpg?v=1732033047"
   },
@@ -16312,7 +16312,7 @@
     "variant_title": "Default Title",
     "sku": "1327",
     "price": 999.0,
-    "stock": 44,
+    "stock": 43,
     "url": "https://www.daivik.in/products/two-line-swarovski-pearl-mala?variant=gid://shopify/ProductVariant/47621545787614",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/DE3E4BB4-C77A-4AE1-95B1-70F2092C9895.jpg?v=1761045210"
   },
@@ -21777,15 +21777,6 @@
     "price": 799.0,
     "stock": 6,
     "url": "https://www.daivik.in/products/kids-lakshmi-ruby-green-bangles?variant=gid://shopify/ProductVariant/49008807674078",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1968.jpg?v=1789041386"
-  },
-  "gid://shopify/ProductVariant/49008807706846": {
-    "product_title": "Kid's Lakshmi Ruby Green Bangles in 4 Sizes",
-    "variant_title": "1/14",
-    "sku": "1963",
-    "price": 799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/kids-lakshmi-ruby-green-bangles?variant=gid://shopify/ProductVariant/49008807706846",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1968.jpg?v=1789041386"
   },
   "gid://shopify/ProductVariant/49008807739614": {
@@ -30877,5 +30868,14 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-non-idol-carved-green-stone-pendant-choker-with-earrings?variant=gid://shopify/ProductVariant/48895361548510",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1571.jpg?v=1788109099"
+  },
+  "gid://shopify/ProductVariant/49008807706846": {
+    "product_title": "Kid's Lakshmi Ruby Green Bangles in 4 Sizes",
+    "variant_title": "1/14",
+    "sku": "1963",
+    "price": 799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/kids-lakshmi-ruby-green-bangles?variant=gid://shopify/ProductVariant/49008807706846",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1968.jpg?v=1789041386"
   }
 }
