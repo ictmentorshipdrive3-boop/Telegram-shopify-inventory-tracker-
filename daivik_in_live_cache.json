@@ -1345,7 +1345,7 @@
     "variant_title": "Default Title",
     "sku": "858",
     "price": 1099.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.daivik.in/products/kemp-medium-sized-studs?variant=gid://shopify/ProductVariant/41081654018201",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_163af6c2-7c8e-4cca-95b9-e4f4443efe8e.jpg?v=1631458684"
   },
@@ -19925,15 +19925,6 @@
     "url": "https://www.daivik.in/products/heritage-watch-bracelet-10?variant=gid://shopify/ProductVariant/48266768056542",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0207.jpg?v=1779276471"
   },
-  "gid://shopify/ProductVariant/48266836050142": {
-    "product_title": "Heritage Jaipuri Stone Watch Bracelet",
-    "variant_title": "Default Title",
-    "sku": "4037",
-    "price": 1999.0,
-    "stock": 2,
-    "url": "https://www.daivik.in/products/heritage-jaipuri-stone-watch-bracelet?variant=gid://shopify/ProductVariant/48266836050142",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6DE2B110-7D97-4C03-AC5B-22E0599925B8.jpg?v=1779277481"
-  },
   "gid://shopify/ProductVariant/48267346772190": {
     "product_title": "Diamond Look Alike Hasli Necklace with Earrings",
     "variant_title": "Default Title",
@@ -20857,7 +20848,7 @@
     "variant_title": "Default Title",
     "sku": "1925",
     "price": 699.0,
-    "stock": 35,
+    "stock": 34,
     "url": "https://www.daivik.in/products/premium-floral-ad-kada-fits-2-2-2-4?variant=gid://shopify/ProductVariant/48429714374878",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0576.jpg?v=1783946500"
   },
@@ -30652,6 +30643,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/heritage-pearl-watch-bracelet-in-2-colors-price-for-each?variant=gid://shopify/ProductVariant/48266747019486",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0199_c28b24ed-ccb4-45f7-bc4a-30a911c7d135.jpg?v=1779275572"
+  },
+  "gid://shopify/ProductVariant/48266836050142": {
+    "product_title": "Heritage Jaipuri Stone Watch Bracelet",
+    "variant_title": "Default Title",
+    "sku": "4037",
+    "price": 1999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/heritage-jaipuri-stone-watch-bracelet?variant=gid://shopify/ProductVariant/48266836050142",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6DE2B110-7D97-4C03-AC5B-22E0599925B8.jpg?v=1779277481"
   },
   "gid://shopify/ProductVariant/48278181413086": {
     "product_title": "Kundan Ghungroo Adjustable Bracelet Watch",
