@@ -4261,7 +4261,7 @@
     "variant_title": "Default Title",
     "sku": "R20408",
     "price": 2295.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.rasasilver.com/products/rudravya-studs?variant=gid://shopify/ProductVariant/50808567595305",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2585.jpg?v=1756543345"
   },
@@ -10177,15 +10177,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/hamsa-morika-choker?variant=gid://shopify/ProductVariant/52795442069801",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_16Dec36204.jpg?v=1766138232"
-  },
-  "gid://shopify/ProductVariant/52279496343849": {
-    "product_title": "Emerveil Victorian Bangles",
-    "variant_title": "Default Title",
-    "sku": "R21416",
-    "price": 34255.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/emerveil-emerald-bangles?variant=gid://shopify/ProductVariant/52279496343849",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_16Dec36279.jpg?v=1766127609"
   },
   "gid://shopify/ProductVariant/52279503814953": {
     "product_title": "Victorian Indra Necklace Set",
@@ -35791,6 +35782,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/florya-bangles?variant=gid://shopify/ProductVariant/52279481794857",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_16Dec36283.jpg?v=1766127746"
+  },
+  "gid://shopify/ProductVariant/52279496343849": {
+    "product_title": "Emerveil Victorian Bangles",
+    "variant_title": "Default Title",
+    "sku": "R21416",
+    "price": 34255.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/emerveil-emerald-bangles?variant=gid://shopify/ProductVariant/52279496343849",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_16Dec36279.jpg?v=1766127609"
   },
   "gid://shopify/ProductVariant/52279518167337": {
     "product_title": "Hexa-Flora Antique Necklace Set",
