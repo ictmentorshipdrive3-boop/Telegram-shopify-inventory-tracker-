@@ -10318,7 +10318,7 @@
     "variant_title": "2.6",
     "sku": "1524",
     "price": 4499.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/a-3?variant=gid://shopify/ProductVariant/46169605538014",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D4A3F33F-5DB6-41F4-B8F8-CE21DA8FEFF4.jpg?v=1734874969"
   },
@@ -10591,15 +10591,6 @@
     "stock": 3,
     "url": "https://www.daivik.in/products/copy-pure-kemp-jadau-peacock-jhumkas?variant=gid://shopify/ProductVariant/46247806632158",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8F42F14E-95B4-4670-A424-A612835AD4BF.jpg?v=1737991731"
-  },
-  "gid://shopify/ProductVariant/46247808205022": {
-    "product_title": "Pure kemp Jadau Flower Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "1551",
-    "price": 6499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/copy-pure-kemp-jadau-half-moon-balis?variant=gid://shopify/ProductVariant/46247808205022",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9905CEDB-A56D-4130-A082-704EE0D7F7BF.jpg?v=1737991937"
   },
   "gid://shopify/ProductVariant/46254270906590": {
     "product_title": "AD Peacock Ruby Green Choker with Earrings",
@@ -12055,7 +12046,7 @@
     "variant_title": "Default Title",
     "sku": "1609",
     "price": 3999.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.daivik.in/products/pure-kemp-brass-ruby-green-earcuff?variant=gid://shopify/ProductVariant/46716739911902",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C259A5D9-C2EF-4EBC-8F26-137E79A38396.jpg?v=1747495799"
   },
@@ -16573,7 +16564,7 @@
     "variant_title": "Long",
     "sku": "867",
     "price": 5699.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/kemp-flower-coin-short-and-long-haram-with-jhumkas?variant=gid://shopify/ProductVariant/47660596166878",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/355FAC94-FEA9-4D69-8129-C823EDA8C19B.jpg?v=1762446325"
   },
@@ -21748,7 +21739,7 @@
     "variant_title": "Default Title",
     "sku": "984",
     "price": 2999.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/hasli-set?variant=gid://shopify/ProductVariant/49008672866526",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4B0A9718-CDFD-486D-B689-97CCB794B7A7.jpg?v=1788935380"
   },
@@ -27160,6 +27151,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/copy-pure-kemp-jadau-chand-balis?variant=gid://shopify/ProductVariant/46247807779038",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8BE71CA7-9755-4175-9277-DBE362A058E7.jpg?v=1737991804"
+  },
+  "gid://shopify/ProductVariant/46247808205022": {
+    "product_title": "Pure kemp Jadau Flower Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "1551",
+    "price": 6499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/copy-pure-kemp-jadau-half-moon-balis?variant=gid://shopify/ProductVariant/46247808205022",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9905CEDB-A56D-4130-A082-704EE0D7F7BF.jpg?v=1737991937"
   },
   "gid://shopify/ProductVariant/46247809908958": {
     "product_title": "Pure kemp Jadau Multi Pearl Jhumkas",
