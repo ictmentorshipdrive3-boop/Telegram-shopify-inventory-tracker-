@@ -7388,15 +7388,6 @@
     "url": "https://www.kanshijewels.com/products/jadau-kundan-choker-25?variant=gid://shopify/ProductVariant/50702716240172",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2100_5b0552a6-5584-4d79-abab-a56c987a1e98.jpg?v=1741257194"
   },
-  "gid://shopify/ProductVariant/50702722761004": {
-    "product_title": "Jadau Kundan Choker",
-    "variant_title": "Default Title",
-    "sku": "NK211",
-    "price": 2310.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-kundan-choker-26?variant=gid://shopify/ProductVariant/50702722761004",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2200_1f32b3b1-215a-439e-a23b-4a7ff6aeb7a6.jpg?v=1741257302"
-  },
   "gid://shopify/ProductVariant/50702732788012": {
     "product_title": "Pearl Necklace",
     "variant_title": "Default Title",
@@ -11015,15 +11006,6 @@
     "url": "https://www.kanshijewels.com/products/elegant-diamond-look-earrings?variant=gid://shopify/ProductVariant/53369017139500",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Elegantdiamondlookearrings759.jpg?v=1782218155"
   },
-  "gid://shopify/ProductVariant/53369020023084": {
-    "product_title": "Elegant jadau dulhan jhumkas",
-    "variant_title": "Default Title",
-    "sku": "ER526",
-    "price": 2600.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/elegant-jadau-dulhan-jhumkas?variant=gid://shopify/ProductVariant/53369020023084",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Elegantjadaudulhanjhumkas2600.jpg?v=1782218251"
-  },
   "gid://shopify/ProductVariant/53369027428652": {
     "product_title": "Elegant mossanite dulhan chandbali",
     "variant_title": "Default Title",
@@ -13778,6 +13760,15 @@
     "url": "https://www.kanshijewels.com/products/peacock-jhumki?variant=gid://shopify/ProductVariant/50490433896748",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Peacockjhumki1990.jpg?v=1737463112"
   },
+  "gid://shopify/ProductVariant/50702722761004": {
+    "product_title": "Jadau Kundan Choker",
+    "variant_title": "Default Title",
+    "sku": "NK211",
+    "price": 2310.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-kundan-choker-26?variant=gid://shopify/ProductVariant/50702722761004",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2200_1f32b3b1-215a-439e-a23b-4a7ff6aeb7a6.jpg?v=1741257302"
+  },
   "gid://shopify/ProductVariant/50702824309036": {
     "product_title": "Multipurpose Flexible Gold Look Chain",
     "variant_title": "Default Title",
@@ -14389,6 +14380,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/elegant-dual-tone-gold-silver-chain?variant=gid://shopify/ProductVariant/53368843338028",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Elegantdualtonegoldsilverchain620.jpg?v=1782213813"
+  },
+  "gid://shopify/ProductVariant/53369020023084": {
+    "product_title": "Elegant jadau dulhan jhumkas",
+    "variant_title": "Default Title",
+    "sku": "ER526",
+    "price": 2600.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/elegant-jadau-dulhan-jhumkas?variant=gid://shopify/ProductVariant/53369020023084",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Elegantjadaudulhanjhumkas2600.jpg?v=1782218251"
   },
   "gid://shopify/ProductVariant/53369132024108": {
     "product_title": "Designer coral cz danglers",
