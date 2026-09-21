@@ -67,7 +67,7 @@
     "variant_title": "Default Title",
     "sku": "R15179",
     "price": 11900.0,
-    "stock": 7,
+    "stock": 8,
     "url": "https://www.rasasilver.com/products/daisy-emerald-necklace?variant=gid://shopify/ProductVariant/49810565038377",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-44_3c348a4d-d5da-458b-8db5-7e116fdfa192.jpg?v=1740814119"
   },
@@ -20402,6 +20402,15 @@
     "url": "https://www.rasasilver.com/products/green-flora-stone-studs?variant=gid://shopify/ProductVariant/53292141805865",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2194_resized.jpg?v=1782811360"
   },
+  "gid://shopify/ProductVariant/53292155797801": {
+    "product_title": "Avira Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "R31453",
+    "price": 2125.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/avira-stone-studs?variant=gid://shopify/ProductVariant/53292155797801",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2203_resized.jpg?v=1782812338"
+  },
   "gid://shopify/ProductVariant/53292161990953": {
     "product_title": "Pachai-Phool Stone Studs",
     "variant_title": "Default Title",
@@ -22552,6 +22561,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/neela-panna-antique-kanti?variant=gid://shopify/ProductVariant/53365580726569",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0348.jpg?v=1786367462"
+  },
+  "gid://shopify/ProductVariant/53365584101673": {
+    "product_title": "Seraphine Nakshi Kanti",
+    "variant_title": "Default Title",
+    "sku": "R32775",
+    "price": 5015.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/seraphine-nakshi-kanti?variant=gid://shopify/ProductVariant/53365584101673",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0381.jpg?v=1786366150"
   },
   "gid://shopify/ProductVariant/53365593243945": {
     "product_title": "Blue-Kala Kanti",
@@ -46556,15 +46574,6 @@
     "url": "https://www.rasasilver.com/products/panna-kamal-stone-studs?variant=gid://shopify/ProductVariant/53292139053353",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2384_resized.jpg?v=1784354085"
   },
-  "gid://shopify/ProductVariant/53292155797801": {
-    "product_title": "Avira Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "R31453",
-    "price": 2125.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/avira-stone-studs?variant=gid://shopify/ProductVariant/53292155797801",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2203_resized.jpg?v=1782812338"
-  },
   "gid://shopify/ProductVariant/53292205048105": {
     "product_title": "Chakra-Beads Stone Studs",
     "variant_title": "Default Title",
@@ -47446,15 +47455,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/orange-beads-antique-mala?variant=gid://shopify/ProductVariant/53362408554793",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July04481.jpg?v=1786362285"
-  },
-  "gid://shopify/ProductVariant/53365584101673": {
-    "product_title": "Seraphine Nakshi Kanti",
-    "variant_title": "Default Title",
-    "sku": "R32775",
-    "price": 5015.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/seraphine-nakshi-kanti?variant=gid://shopify/ProductVariant/53365584101673",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0381.jpg?v=1786366150"
   },
   "gid://shopify/ProductVariant/53365601927465": {
     "product_title": "Yellow-Shapes Kanti",
