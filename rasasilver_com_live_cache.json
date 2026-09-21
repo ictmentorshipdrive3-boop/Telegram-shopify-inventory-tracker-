@@ -1066,7 +1066,7 @@
     "variant_title": "Default Title",
     "sku": "R2580",
     "price": 31875.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/hallow-gleam-chandbali?variant=gid://shopify/ProductVariant/50203141112105",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R2580.jpg?v=1751290244"
   },
@@ -7045,15 +7045,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/elan-marakata-chandbali?variant=gid://shopify/ProductVariant/51469080527145",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0358copy_resized_320df867-1202-4e38-bb06-33416e5665b7.jpg?v=1762175851"
-  },
-  "gid://shopify/ProductVariant/51469173817641": {
-    "product_title": "Ishika Ruby Chanbali",
-    "variant_title": "Ruby Pink",
-    "sku": "R15470",
-    "price": 12665.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/ishika-ruby-chanbali?variant=gid://shopify/ProductVariant/51469173817641",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0374copy_resized.jpg?v=1762176881"
   },
   "gid://shopify/ProductVariant/51469185483049": {
     "product_title": "Surabhi Shine Chandbali",
@@ -24277,7 +24268,7 @@
     "variant_title": "Default Title",
     "sku": "R16896",
     "price": 33200.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/kairavya-kundan-danglers?variant=gid://shopify/ProductVariant/53413324587305",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_42_51Pics0600.jpg?v=1786954758"
   },
@@ -30985,6 +30976,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/vruksha-chandbali?variant=gid://shopify/ProductVariant/51469023674665",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0379copy_resized.jpg?v=1762243114"
+  },
+  "gid://shopify/ProductVariant/51469173817641": {
+    "product_title": "Ishika Ruby Chanbali",
+    "variant_title": "Ruby Pink",
+    "sku": "R15470",
+    "price": 12665.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ishika-ruby-chanbali?variant=gid://shopify/ProductVariant/51469173817641",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0374copy_resized.jpg?v=1762176881"
   },
   "gid://shopify/ProductVariant/51469246529833": {
     "product_title": "Nakshikaa Beaded Mala",
