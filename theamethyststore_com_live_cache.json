@@ -82939,7 +82939,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17094",
     "price": 86500.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/dazzle-divine-3d-spl-short-necklace?variant=gid://shopify/ProductVariant/49430274769123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17094_2a1a0305-a04d-47b0-9a22-e8ec0e09bbdf.jpg?v=1789296482"
   },
@@ -89252,15 +89252,6 @@
     "url": "https://www.theamethyststore.com/products/elinikha-avikam-bracelet?variant=gid://shopify/ProductVariant/49507859792099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1443.jpg?v=1786086991"
   },
-  "gid://shopify/ProductVariant/49507866149091": {
-    "product_title": "Nivara Avikam Bracelet",
-    "variant_title": "Default Title",
-    "sku": "AMS-103-1444",
-    "price": 11700.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nivara-avikam-bracelet?variant=gid://shopify/ProductVariant/49507866149091",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1444.jpg?v=1786087230"
-  },
   "gid://shopify/ProductVariant/49507871621347": {
     "product_title": "Lavya Avikam Bracelet",
     "variant_title": "Default Title",
@@ -95521,7 +95512,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15790",
     "price": 8669.0,
-    "stock": 1,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/bugadi-earrings-14?variant=gid://shopify/ProductVariant/49553358651619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15790.jpg?v=1787038032"
   },
@@ -96007,7 +95998,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15787",
     "price": 5907.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/bugadi-earrings-34?variant=gid://shopify/ProductVariant/49560005312739",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15787.jpg?v=1787146381"
   },
@@ -97600,7 +97591,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-113-0457",
     "price": 1800.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/nithya-bullakku-nose-pin?variant=gid://shopify/ProductVariant/49572572496099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0457.jpg?v=1787320876"
   },
@@ -101254,7 +101245,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15879",
     "price": 6075.0,
-    "stock": 5,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/charming-stone-studs?variant=gid://shopify/ProductVariant/49654359556323",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15879.jpg?v=1788264753"
   },
@@ -102424,7 +102415,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-2019",
     "price": 11400.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/mangalsutra-chain-with-earrings-5?variant=gid://shopify/ProductVariant/49664686129379",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2019.jpg?v=1788431791"
   },
@@ -105232,7 +105223,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18065",
     "price": 61400.0,
-    "stock": 1,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/uniquely-fabulous-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49719169614051",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18065.jpg?v=1789128437"
   },
@@ -106798,7 +106789,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16083",
     "price": 5608.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/kundan-drops-9?variant=gid://shopify/ProductVariant/49741135511779",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16083.jpg?v=1789473869"
   },
@@ -134458,6 +134449,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/avikam-pendant-set-43?variant=gid://shopify/ProductVariant/49507850518755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4865.jpg?v=1786086620"
+  },
+  "gid://shopify/ProductVariant/49507866149091": {
+    "product_title": "Nivara Avikam Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1444",
+    "price": 11700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nivara-avikam-bracelet?variant=gid://shopify/ProductVariant/49507866149091",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1444.jpg?v=1786087230"
   },
   "gid://shopify/ProductVariant/49507874865379": {
     "product_title": "Briziya Avikam Bracelet",
