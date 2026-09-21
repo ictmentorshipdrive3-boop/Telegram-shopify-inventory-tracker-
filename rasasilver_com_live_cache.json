@@ -23260,7 +23260,7 @@
     "variant_title": "Default Title",
     "sku": "R33383",
     "price": 810.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/half-moon-veera-rakhi?variant=gid://shopify/ProductVariant/53394184732969",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19591.jpg?v=1786000775"
   },
@@ -23867,12 +23867,21 @@
     "url": "https://www.rasasilver.com/products/duchess-pink-victorian-ring?variant=gid://shopify/ProductVariant/53426674237737",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38737.jpg?v=1786696070"
   },
+  "gid://shopify/ProductVariant/53409733935401": {
+    "product_title": "Cool Bro Rakhi",
+    "variant_title": "Default Title",
+    "sku": "R33575",
+    "price": 1080.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/cool-bro-rakhi?variant=gid://shopify/ProductVariant/53409733935401",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19650.jpg?v=1786023083"
+  },
   "gid://shopify/ProductVariant/53409742586153": {
     "product_title": "Raksha Bhai Rakhi",
     "variant_title": "Default Title",
     "sku": "R33571",
     "price": 1080.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/raksha-bhai-rakhi?variant=gid://shopify/ProductVariant/53409742586153",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19649.jpg?v=1786022885"
   },
@@ -47915,15 +47924,6 @@
     "url": "https://www.rasasilver.com/products/rudra-trishul-rakhi?variant=gid://shopify/ProductVariant/53409731379497",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19647.jpg?v=1786022574"
   },
-  "gid://shopify/ProductVariant/53409733935401": {
-    "product_title": "Cool Bro Rakhi",
-    "variant_title": "Default Title",
-    "sku": "R33575",
-    "price": 1080.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/cool-bro-rakhi?variant=gid://shopify/ProductVariant/53409733935401",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19650.jpg?v=1786023083"
-  },
   "gid://shopify/ProductVariant/53409740456233": {
     "product_title": "Rudra Om Rakhi",
     "variant_title": "Default Title",
@@ -48922,5 +48922,14 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/mor-angana-nakshi-necklace?variant=gid://shopify/ProductVariant/54207873319209",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Tast_12Set20806.jpg?v=1789813632"
+  },
+  "gid://shopify/ProductVariant/54210032238889": {
+    "product_title": "Jyotirmayi Stone Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R36381",
+    "price": 77945.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/jyotirmayi-stone-necklace-set?variant=gid://shopify/ProductVariant/54210032238889",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Tast_12Set20819.jpg?v=1789973158"
   }
 }
