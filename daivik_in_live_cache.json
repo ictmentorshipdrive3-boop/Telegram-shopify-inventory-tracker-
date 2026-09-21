@@ -6403,7 +6403,7 @@
     "variant_title": "Default Title",
     "sku": "227",
     "price": 1299.0,
-    "stock": 34,
+    "stock": 33,
     "url": "https://www.daivik.in/products/ruby-green-kemp-choker-with-earrings?variant=gid://shopify/ProductVariant/44913188077790",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9D159F52-02AB-4D3F-915F-5A8818AF4BB4.jpg?v=1710518560"
   },
@@ -20785,7 +20785,7 @@
     "variant_title": "Default Title",
     "sku": "968",
     "price": 2499.0,
-    "stock": 25,
+    "stock": 24,
     "url": "https://www.daivik.in/products/antique-gold-lakshmi-temple-necklace-with-earrings?variant=gid://shopify/ProductVariant/48422274859230",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0548.jpg?v=1783693151"
   },
@@ -21742,15 +21742,6 @@
     "stock": 2,
     "url": "https://www.daivik.in/products/hasli-set?variant=gid://shopify/ProductVariant/49008672866526",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4B0A9718-CDFD-486D-B689-97CCB794B7A7.jpg?v=1788935380"
-  },
-  "gid://shopify/ProductVariant/49008807641310": {
-    "product_title": "Kid's Lakshmi Ruby Green Bangles in 4 Sizes",
-    "variant_title": "1/10",
-    "sku": "1963",
-    "price": 799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/kids-lakshmi-ruby-green-bangles?variant=gid://shopify/ProductVariant/49008807641310",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1968.jpg?v=1789041386"
   },
   "gid://shopify/ProductVariant/49008807674078": {
     "product_title": "Kid's Lakshmi Ruby Green Bangles in 4 Sizes",
@@ -30544,5 +30535,14 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/black-beads-jalli-classic-mala-chain?variant=gid://shopify/ProductVariant/48645693636830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5F282C96-F264-4289-A54D-B92E77D91465.jpg?v=1787762150"
+  },
+  "gid://shopify/ProductVariant/49008807641310": {
+    "product_title": "Kid's Lakshmi Ruby Green Bangles in 4 Sizes",
+    "variant_title": "1/10",
+    "sku": "1963",
+    "price": 799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/kids-lakshmi-ruby-green-bangles?variant=gid://shopify/ProductVariant/49008807641310",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1968.jpg?v=1789041386"
   }
 }
