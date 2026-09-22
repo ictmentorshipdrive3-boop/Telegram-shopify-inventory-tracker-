@@ -18800,15 +18800,6 @@
     "url": "https://www.rasasilver.com/products/shri-kasu-temple-necklace?variant=gid://shopify/ProductVariant/53266668388649",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262166_resized_e16d3cf7-f5b1-4e5c-b402-8e71a2751725.jpg?v=1781523598"
   },
-  "gid://shopify/ProductVariant/53266936103209": {
-    "product_title": "Arka Chandra Kundan Set",
-    "variant_title": "Swarovski",
-    "sku": "R28619",
-    "price": 7905.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/arka-chandra-kundan-set?variant=gid://shopify/ProductVariant/53266936103209",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262068_resized.jpg?v=1781530644"
-  },
   "gid://shopify/ProductVariant/53266941116713": {
     "product_title": "Morpankhi Kundan Pendant",
     "variant_title": "Default Title",
@@ -24200,15 +24191,6 @@
     "url": "https://www.rasasilver.com/products/hara-phool-stone-nose-pin?variant=gid://shopify/ProductVariant/53479059718441",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459349.jpg?v=1789111078"
   },
-  "gid://shopify/ProductVariant/53479070925097": {
-    "product_title": "Nivara Stone Septum Ring",
-    "variant_title": "Default Title",
-    "sku": "R27923",
-    "price": 600.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/nivara-stone-nath?variant=gid://shopify/ProductVariant/53479070925097",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459270.jpg?v=1789111254"
-  },
   "gid://shopify/ProductVariant/53479123157289": {
     "product_title": "Pranika Stone Nose Pin",
     "variant_title": "Default Title",
@@ -24241,18 +24223,9 @@
     "variant_title": "Default Title",
     "sku": "R28070",
     "price": 700.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.rasasilver.com/products/sitara-stone-septum-ring?variant=gid://shopify/ProductVariant/53479381303593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459261.jpg?v=1789192720"
-  },
-  "gid://shopify/ProductVariant/53479441695017": {
-    "product_title": "Sitara-Hari Stone Septum Ring",
-    "variant_title": "Default Title",
-    "sku": "R33835",
-    "price": 600.0,
-    "stock": 2,
-    "url": "https://www.rasasilver.com/products/sitara-hari-stone-septum-ring?variant=gid://shopify/ProductVariant/53479441695017",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459317.jpg?v=1789124059"
   },
   "gid://shopify/ProductVariant/53479814791465": {
     "product_title": "Phool-Pearl Stone Nath",
@@ -45458,6 +45431,15 @@
     "url": "https://www.rasasilver.com/products/arka-chandra-kundan-set?variant=gid://shopify/ProductVariant/53266936070441",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262068_resized.jpg?v=1781530644"
   },
+  "gid://shopify/ProductVariant/53266936103209": {
+    "product_title": "Arka Chandra Kundan Set",
+    "variant_title": "Swarovski",
+    "sku": "R28619",
+    "price": 7905.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/arka-chandra-kundan-set?variant=gid://shopify/ProductVariant/53266936103209",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262068_resized.jpg?v=1781530644"
+  },
   "gid://shopify/ProductVariant/53266957140265": {
     "product_title": "Chakra-Berunda Kundan Pendant",
     "variant_title": "Default Title",
@@ -48419,6 +48401,15 @@
     "url": "https://www.rasasilver.com/products/yutika-kundan-septum-ring?variant=gid://shopify/ProductVariant/53479005487401",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459303.jpg?v=1789110397"
   },
+  "gid://shopify/ProductVariant/53479070925097": {
+    "product_title": "Nivara Stone Septum Ring",
+    "variant_title": "Default Title",
+    "sku": "R27923",
+    "price": 600.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/nivara-stone-nath?variant=gid://shopify/ProductVariant/53479070925097",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459270.jpg?v=1789111254"
+  },
   "gid://shopify/ProductVariant/53479075938601": {
     "product_title": "Verdant Bloom Stone Nose Pin",
     "variant_title": "Default Title",
@@ -48427,6 +48418,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/verdant-bloom-stone-nose-pin?variant=gid://shopify/ProductVariant/53479075938601",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459367.jpg?v=1789111830"
+  },
+  "gid://shopify/ProductVariant/53479441695017": {
+    "product_title": "Sitara-Hari Stone Septum Ring",
+    "variant_title": "Default Title",
+    "sku": "R33835",
+    "price": 600.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/sitara-hari-stone-septum-ring?variant=gid://shopify/ProductVariant/53479441695017",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459317.jpg?v=1789124059"
   },
   "gid://shopify/ProductVariant/53479562871081": {
     "product_title": "Pearl-Gul Stone Nath",
