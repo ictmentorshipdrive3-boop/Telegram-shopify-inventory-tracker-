@@ -4773,8 +4773,8 @@
     "product_title": "Haritha Stone Pendant",
     "variant_title": "Default Title",
     "sku": "AMS-104-1234",
-    "price": 8248.0,
-    "stock": 3,
+    "price": 8161.0,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/haritha-stone-pendant?variant=gid://shopify/ProductVariant/43855564144867",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-1234.jpg?v=1684565585"
   },
@@ -17949,7 +17949,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 26600.0,
+    "price": 25000.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -27340,15 +27340,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/raveena-anklets?variant=gid://shopify/ProductVariant/46997286912227",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-114-0597.jpg?v=1754650290"
-  },
-  "gid://shopify/ProductVariant/46997322825955": {
-    "product_title": "Triyona Anklets",
-    "variant_title": "Default Title",
-    "sku": "AMS-114-0617",
-    "price": 11000.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/triyona-anklets?variant=gid://shopify/ProductVariant/46997322825955",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-114-0617.jpg?v=1754652587"
   },
   "gid://shopify/ProductVariant/46997346812131": {
     "product_title": "Yalina Anklets",
@@ -89981,15 +89972,6 @@
     "url": "https://www.theamethyststore.com/products/layer-charm-avikam-short-necklace?variant=gid://shopify/ProductVariant/49517853442275",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17330.jpg?v=1786367741"
   },
-  "gid://shopify/ProductVariant/49517929857251": {
-    "product_title": "Ziyan Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15571",
-    "price": 6200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/studs-33?variant=gid://shopify/ProductVariant/49517929857251",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15571.jpg?v=1786369668"
-  },
   "gid://shopify/ProductVariant/49517932970211": {
     "product_title": "Dheeksha Studs",
     "variant_title": "Default Title",
@@ -100574,15 +100556,6 @@
     "url": "https://www.theamethyststore.com/products/stone-drops-64?variant=gid://shopify/ProductVariant/49658812530915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15192.jpg?v=1788324969"
   },
-  "gid://shopify/ProductVariant/49658816102627": {
-    "product_title": "Vinitha Nagas Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15393",
-    "price": 7158.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nagas-earrings?variant=gid://shopify/ProductVariant/49658816102627",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15393.jpg?v=1788325516"
-  },
   "gid://shopify/ProductVariant/49658817249507": {
     "product_title": "Impressively Beautiful Avikam Jhumkas",
     "variant_title": "Default Title",
@@ -105019,15 +104992,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/3d-spl-pendant-79?variant=gid://shopify/ProductVariant/49727606522083",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5089.jpg?v=1789287696"
-  },
-  "gid://shopify/ProductVariant/49727615467747": {
-    "product_title": "Graceful 3D Spl Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-5085",
-    "price": 2000.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/graceful-3d-spl-pendant?variant=gid://shopify/ProductVariant/49727615467747",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5085.jpg?v=1789287881"
   },
   "gid://shopify/ProductVariant/49727633096931": {
     "product_title": "Eternal Reverence 3D Spl Pendant",
@@ -115117,6 +115081,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/ishmita-bracelet?variant=gid://shopify/ProductVariant/46997086830819",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-0873_1.jpg?v=1754645811"
+  },
+  "gid://shopify/ProductVariant/46997322825955": {
+    "product_title": "Triyona Anklets",
+    "variant_title": "Default Title",
+    "sku": "AMS-114-0617",
+    "price": 11000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/triyona-anklets?variant=gid://shopify/ProductVariant/46997322825955",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-114-0617.jpg?v=1754652587"
   },
   "gid://shopify/ProductVariant/47000643567843": {
     "product_title": "Shithara Anklets",
@@ -135008,6 +134981,15 @@
     "url": "https://www.theamethyststore.com/products/studs-32?variant=gid://shopify/ProductVariant/49517928087779",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15570.jpg?v=1786369505"
   },
+  "gid://shopify/ProductVariant/49517929857251": {
+    "product_title": "Ziyan Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15571",
+    "price": 6200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/studs-33?variant=gid://shopify/ProductVariant/49517929857251",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15571.jpg?v=1786369668"
+  },
   "gid://shopify/ProductVariant/49519757132003": {
     "product_title": "Trending Nagas Pair Bangles",
     "variant_title": "2.6\"",
@@ -136709,6 +136691,15 @@
     "url": "https://www.theamethyststore.com/products/stone-studs-12?variant=gid://shopify/ProductVariant/49654861037795",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15382.jpg?v=1788272093"
   },
+  "gid://shopify/ProductVariant/49658816102627": {
+    "product_title": "Vinitha Nagas Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15393",
+    "price": 7158.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-earrings?variant=gid://shopify/ProductVariant/49658816102627",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15393.jpg?v=1788325516"
+  },
   "gid://shopify/ProductVariant/49658823049443": {
     "product_title": "Green Stone Pair Bangles",
     "variant_title": "2.4\"",
@@ -137077,6 +137068,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/exquisite-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49723572617443",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17947.jpg?v=1789209853"
+  },
+  "gid://shopify/ProductVariant/49727615467747": {
+    "product_title": "Graceful 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5085",
+    "price": 2000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/graceful-3d-spl-pendant?variant=gid://shopify/ProductVariant/49727615467747",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5085.jpg?v=1789287881"
   },
   "gid://shopify/ProductVariant/49727961399523": {
     "product_title": "Minthikaa 3D Spl Short Necklace Set",
