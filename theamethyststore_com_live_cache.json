@@ -16339,7 +16339,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-8268",
     "price": 79300.0,
-    "stock": 4,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/tanvikha-long-necklace?variant=gid://shopify/ProductVariant/46043003748579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8268.jpg?v=1740491921"
   },
@@ -17958,7 +17958,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 25000.0,
+    "price": 26600.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -37507,7 +37507,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-11539",
     "price": 53800.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/trendy-glow-long-necklace?variant=gid://shopify/ProductVariant/47209229517027",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11539.jpg?v=1758886840"
   },
@@ -79055,15 +79055,6 @@
     "url": "https://www.theamethyststore.com/products/kundan-studs-18?variant=gid://shopify/ProductVariant/49383192297699",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15218.jpg?v=1783591853"
   },
-  "gid://shopify/ProductVariant/49383192559843": {
-    "product_title": "Wania Kundan Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16761",
-    "price": 35100.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/wania-kundan-short-necklace-set?variant=gid://shopify/ProductVariant/49383192559843",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16761.jpg?v=1783591890"
-  },
   "gid://shopify/ProductVariant/49383203897571": {
     "product_title": "Jeevikaa Kundan Studs",
     "variant_title": "Default Title",
@@ -108098,6 +108089,24 @@
     "url": "https://www.theamethyststore.com/products/floral-like-nagas-studs?variant=gid://shopify/ProductVariant/49796193747171",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16196.jpg?v=1790083413"
   },
+  "gid://shopify/ProductVariant/49796233199843": {
+    "product_title": "Demands Attention Nagas Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16195",
+    "price": 2620.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/demands-attention-nagas-studs?variant=gid://shopify/ProductVariant/49796233199843",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16195.jpg?v=1790083917"
+  },
+  "gid://shopify/ProductVariant/49796299817187": {
+    "product_title": "Tiny Treasure Nagas Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16194",
+    "price": 2336.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/tiny-treasure-nagas-studs?variant=gid://shopify/ProductVariant/49796299817187",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16194.jpg?v=1790084441"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -132127,6 +132136,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/navyra-kundan-short-necklace-set?variant=gid://shopify/ProductVariant/49383184924899",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16764.jpg?v=1783591477"
+  },
+  "gid://shopify/ProductVariant/49383192559843": {
+    "product_title": "Wania Kundan Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16761",
+    "price": 35100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/wania-kundan-short-necklace-set?variant=gid://shopify/ProductVariant/49383192559843",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16761.jpg?v=1783591890"
   },
   "gid://shopify/ProductVariant/49383601209571": {
     "product_title": "Floral Kundan Drops",
