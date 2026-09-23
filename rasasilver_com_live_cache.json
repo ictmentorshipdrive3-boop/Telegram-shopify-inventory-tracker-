@@ -733,7 +733,7 @@
     "variant_title": "Default Title",
     "sku": "R15884",
     "price": 2210.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/pachai-ratnam-studs?variant=gid://shopify/ProductVariant/50074586120489",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP05605_copy.jpg?v=1743660656"
   },
@@ -751,7 +751,7 @@
     "variant_title": "Default Title",
     "sku": "R20419",
     "price": 3060.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.rasasilver.com/products/flowery-ruby-studs?variant=gid://shopify/ProductVariant/50082055651625",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP05460_copy.jpg?v=1743511206"
   },
@@ -3343,7 +3343,7 @@
     "variant_title": "Default Title",
     "sku": "R17386",
     "price": 3485.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.rasasilver.com/products/devi-chakra-studs?variant=gid://shopify/ProductVariant/50777351586089",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_60.jpg?v=1759214218"
   },
@@ -11231,15 +11231,6 @@
     "url": "https://www.rasasilver.com/products/navara-bloom-earrings?variant=gid://shopify/ProductVariant/52524922831145",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0149_copy.jpg?v=1761373192"
   },
-  "gid://shopify/ProductVariant/52526677295401": {
-    "product_title": "Veralune Jadau Danglers",
-    "variant_title": "Default Title",
-    "sku": "R23263",
-    "price": 10965.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/veralune-jadau-danglers?variant=gid://shopify/ProductVariant/52526677295401",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0380copy_resized.jpg?v=1770096460"
-  },
   "gid://shopify/ProductVariant/52526679851305": {
     "product_title": "Bloomelle Studs",
     "variant_title": "Default Title",
@@ -11290,7 +11281,7 @@
     "variant_title": "Default Title",
     "sku": "R20931",
     "price": 11815.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/lady-wini-victorian-studs?variant=gid://shopify/ProductVariant/52527154790697",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0413copy_resized_1198b9e7-2ac8-44e1-ac08-a08f08b7021b.jpg?v=1770097138"
   },
@@ -11353,7 +11344,7 @@
     "variant_title": "Default Title",
     "sku": "R22661",
     "price": 10795.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/florelle-victorian-studs?variant=gid://shopify/ProductVariant/52527338193193",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0406copy_resized_1fd27f86-d01b-4337-9008-ce00e15b3f43.jpg?v=1770098980"
   },
@@ -16753,7 +16744,7 @@
     "variant_title": "Default Title",
     "sku": "R26128",
     "price": 9605.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/chandramayura-nakshi-studs?variant=gid://shopify/ProductVariant/52920477483305",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00148copy_resized_cdf7d3a8-eec1-47b2-a444-26c39df08da4.jpg?v=1775715900"
   },
@@ -21028,7 +21019,7 @@
     "variant_title": "Default Title",
     "sku": "R32944",
     "price": 7735.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.rasasilver.com/products/shanka-nakshi-studs?variant=gid://shopify/ProductVariant/53346880520489",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0235.jpg?v=1786341463"
   },
@@ -38384,6 +38375,15 @@
     "url": "https://www.rasasilver.com/products/starlight-curve-studs?variant=gid://shopify/ProductVariant/52526663663913",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0112copy_resized_2d89baff-24ed-4060-aee8-6e393834d44c.jpg?v=1769672718"
   },
+  "gid://shopify/ProductVariant/52526677295401": {
+    "product_title": "Veralune Jadau Danglers",
+    "variant_title": "Default Title",
+    "sku": "R23263",
+    "price": 10965.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/veralune-jadau-danglers?variant=gid://shopify/ProductVariant/52526677295401",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0380copy_resized.jpg?v=1770096460"
+  },
   "gid://shopify/ProductVariant/52526705541417": {
     "product_title": "Daisy Glow Studs",
     "variant_title": "Silver",
@@ -49138,5 +49138,14 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/mayur-gaja-nakshi-necklace?variant=gid://shopify/ProductVariant/54220132319529",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Tast_12Set20844.jpg?v=1790158550"
+  },
+  "gid://shopify/ProductVariant/54220207817001": {
+    "product_title": "Floramira Victorian Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R31214",
+    "price": 129285.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/floramira-victorian-necklace-set?variant=gid://shopify/ProductVariant/54220207817001",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Tast_12Set20872.jpg?v=1790162524"
   }
 }
