@@ -3936,8 +3936,8 @@
     "product_title": "Little Flower Nose Pin",
     "variant_title": "Default Title",
     "sku": "AMS-113-0233",
-    "price": 1500.0,
-    "stock": 6,
+    "price": 1300.0,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/little-flower-nose-pin?variant=gid://shopify/ProductVariant/43691519082723",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-113-0233.jpg?v=1675163242"
   },
@@ -15511,7 +15511,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-8260",
     "price": 51800.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/varshi-choker-set?variant=gid://shopify/ProductVariant/45993666674915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8260_7ee8bc02-c62d-43b9-81f5-8080fe16dd65.jpg?v=1756719719"
   },
@@ -17940,7 +17940,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 25000.0,
+    "price": 26600.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -35629,15 +35629,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/joshika-stone-pair-bangle?variant=gid://shopify/ProductVariant/49678902690019",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2415.jpg?v=1758460052"
-  },
-  "gid://shopify/ProductVariant/47192490639587": {
-    "product_title": "Lekisha Diamond Design Pair Bangle",
-    "variant_title": "2.4\"",
-    "sku": "AMS-107-2558-2.4\"",
-    "price": 30400.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/stone-pair-bangle-38?variant=gid://shopify/ProductVariant/47192490639587",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2558.jpg?v=1758461108"
   },
   "gid://shopify/ProductVariant/47192512561379": {
     "product_title": "Nerissa Diamond Design Pair Bangle",
@@ -73709,6 +73700,15 @@
     "url": "https://www.theamethyststore.com/products/dhanisha-stone-drops?variant=gid://shopify/ProductVariant/49295113060579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14386.jpg?v=1782199774"
   },
+  "gid://shopify/ProductVariant/49295141535971": {
+    "product_title": "Kanisha Stone Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14160",
+    "price": 5417.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/stone-drops-45?variant=gid://shopify/ProductVariant/49295141535971",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14160.jpg?v=1782200159"
+  },
   "gid://shopify/ProductVariant/49295141667043": {
     "product_title": "Ishitha Stone Drops",
     "variant_title": "Default Title",
@@ -78307,15 +78307,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/kundan-jada-hair-pin-2?variant=gid://shopify/ProductVariant/49366107717859",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0864.jpg?v=1783256031"
-  },
-  "gid://shopify/ProductVariant/49366108078307": {
-    "product_title": "Eravati Kundan Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-2137",
-    "price": 3693.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/eravati-kundan-ring?variant=gid://shopify/ProductVariant/49366108078307",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2137.jpg?v=1783256065"
   },
   "gid://shopify/ProductVariant/49366117023971": {
     "product_title": "Ekisha Kundan Ring",
@@ -116945,6 +116936,15 @@
     "url": "https://www.theamethyststore.com/products/kavisha-stone-pair-bangle?variant=gid://shopify/ProductVariant/47192477892835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2416.jpg?v=1758460822"
   },
+  "gid://shopify/ProductVariant/47192490639587": {
+    "product_title": "Lekisha Diamond Design Pair Bangle",
+    "variant_title": "2.4\"",
+    "sku": "AMS-107-2558-2.4\"",
+    "price": 30400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/stone-pair-bangle-38?variant=gid://shopify/ProductVariant/47192490639587",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2558.jpg?v=1758461108"
+  },
   "gid://shopify/ProductVariant/47192505811171": {
     "product_title": "Mithila Diamond Design Pair Bangle",
     "variant_title": "2.8\"",
@@ -130031,15 +130031,6 @@
     "url": "https://www.theamethyststore.com/products/layana-stone-drops?variant=gid://shopify/ProductVariant/49295082291427",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14416.jpg?v=1782199465"
   },
-  "gid://shopify/ProductVariant/49295141535971": {
-    "product_title": "Kanisha Stone Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14160",
-    "price": 5417.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/stone-drops-45?variant=gid://shopify/ProductVariant/49295141535971",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14160.jpg?v=1782200159"
-  },
   "gid://shopify/ProductVariant/49295148155107": {
     "product_title": "Thrishya Stone Drops",
     "variant_title": "Default Title",
@@ -131956,6 +131947,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/kundan-maangtikka-8?variant=gid://shopify/ProductVariant/49365878079715",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2364.jpg?v=1783246611"
+  },
+  "gid://shopify/ProductVariant/49366108078307": {
+    "product_title": "Eravati Kundan Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2137",
+    "price": 3693.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/eravati-kundan-ring?variant=gid://shopify/ProductVariant/49366108078307",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2137.jpg?v=1783256065"
   },
   "gid://shopify/ProductVariant/49366162571491": {
     "product_title": "Himani Kundan Pendant",
