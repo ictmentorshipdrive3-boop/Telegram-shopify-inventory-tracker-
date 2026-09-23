@@ -553,7 +553,7 @@
     "variant_title": "Default Title",
     "sku": "3",
     "price": 799.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/small-tribal-bali-jhumka?variant=gid://shopify/ProductVariant/36547713302681",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/small-tribal-bali-jhumka-earrings-745.jpg?v=1601913641"
   },
@@ -2227,7 +2227,7 @@
     "variant_title": "Default Title",
     "sku": "441",
     "price": 1299.0,
-    "stock": 22,
+    "stock": 21,
     "url": "https://www.daivik.in/products/pearl-kemp-pendant-short-haram-with-earrings?variant=gid://shopify/ProductVariant/42596492411102",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_43306862-9c20-4c2f-8de0-0710b7926c4f.heic?v=1647966185"
   },
@@ -4405,7 +4405,7 @@
     "variant_title": "Default Title",
     "sku": "237",
     "price": 599.0,
-    "stock": 37,
+    "stock": 36,
     "url": "https://www.daivik.in/products/navrathna-studs?variant=gid://shopify/ProductVariant/44284788474078",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_574b5078-097b-4908-9d9b-53db6d755c91.heic?v=1690385655"
   },
@@ -21778,6 +21778,33 @@
     "stock": 10,
     "url": "https://www.daivik.in/products/diamond-look-alike-star-studs-earrings?variant=gid://shopify/ProductVariant/49099691720926",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1527.heic?v=1790164782"
+  },
+  "gid://shopify/ProductVariant/49099901763806": {
+    "product_title": "AD Pearl Antique Ruby Bangle Combo",
+    "variant_title": "2.4",
+    "sku": "1971",
+    "price": 3499.0,
+    "stock": 4,
+    "url": "https://www.daivik.in/products/ad-pearl-antique-ruby-bangle-combo?variant=gid://shopify/ProductVariant/49099901763806",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/06B2F590-5FE6-4FAA-98FE-5F1586897C02.jpg?v=1790180007"
+  },
+  "gid://shopify/ProductVariant/49099901796574": {
+    "product_title": "AD Pearl Antique Ruby Bangle Combo",
+    "variant_title": "2.6",
+    "sku": "1971",
+    "price": 3499.0,
+    "stock": 5,
+    "url": "https://www.daivik.in/products/ad-pearl-antique-ruby-bangle-combo?variant=gid://shopify/ProductVariant/49099901796574",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/06B2F590-5FE6-4FAA-98FE-5F1586897C02.jpg?v=1790180007"
+  },
+  "gid://shopify/ProductVariant/49099901829342": {
+    "product_title": "AD Pearl Antique Ruby Bangle Combo",
+    "variant_title": "2.8",
+    "sku": "1971",
+    "price": 3499.0,
+    "stock": 5,
+    "url": "https://www.daivik.in/products/ad-pearl-antique-ruby-bangle-combo?variant=gid://shopify/ProductVariant/49099901829342",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/06B2F590-5FE6-4FAA-98FE-5F1586897C02.jpg?v=1790180007"
   },
   "gid://shopify/ProductVariant/34430554472601": {
     "product_title": "Regular Use Stone Set Of Four Bangles",
