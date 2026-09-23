@@ -1347,7 +1347,7 @@
     "price": 3050.0,
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/peacock-design-studded-jadau-kundan-jhumki-with-beads?variant=gid://shopify/ProductVariant/49998873887026",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/982095D5-7AA1-45D9-8CAF-5853F6C26EEF.jpg?v=1767175498"
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-1241.jpg?v=1790154120"
   },
   "gid://shopify/ProductVariant/50007673733426": {
     "product_title": "Sleek Mango Design Fusion Kundan & Polki Victorian Necklace Set",
@@ -6542,15 +6542,6 @@
     "url": "https://www.dulhanjewels.com/products/bridal-victorian-emerald-necklace-with-matching-earrings?variant=gid://shopify/ProductVariant/51674397212978",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/49B30F4A-899E-44C4-B0FB-A766D75E3062.jpg?v=1788000055"
   },
-  "gid://shopify/ProductVariant/51674411991346": {
-    "product_title": "Peacock Design Victorian Stud Earrings With Pearl Bordering",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1650.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/peacock-design-victorian-stud-earrings-with-pearl-bordering?variant=gid://shopify/ProductVariant/51674411991346",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/C499D29D-9914-4F43-98EE-56D76E9C6139.jpg?v=1788000700"
-  },
   "gid://shopify/ProductVariant/51674439582002": {
     "product_title": "Radiant Victorian Chandbali Earrings With Pearl Drops",
     "variant_title": "Red",
@@ -7225,5 +7216,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/gold-style-jadau-kundan-hip-belt-with-green-hangings?variant=gid://shopify/ProductVariant/51661467189554",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/507749E4-C0BC-42BB-9022-11BA6B340643.jpg?v=1787817019"
+  },
+  "gid://shopify/ProductVariant/51674411991346": {
+    "product_title": "Peacock Design Victorian Stud Earrings With Pearl Bordering",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1650.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/peacock-design-victorian-stud-earrings-with-pearl-bordering?variant=gid://shopify/ProductVariant/51674411991346",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/C499D29D-9914-4F43-98EE-56D76E9C6139.jpg?v=1788000700"
   }
 }
