@@ -8140,7 +8140,7 @@
     "variant_title": "Default Title",
     "sku": "R18541",
     "price": 39950.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/ovaliquea-spark-necklace-set-copy-1?variant=gid://shopify/ProductVariant/51871269454121",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2366_resized.jpg?v=1763463920"
   },
@@ -21658,7 +21658,7 @@
     "variant_title": "Default Title",
     "sku": "R33198",
     "price": 53000.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/petal-radiance-cz-choker-set?variant=gid://shopify/ProductVariant/53374174265641",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0271_resized.jpg?v=1786516886"
   },
@@ -21685,7 +21685,7 @@
     "variant_title": "Default Title",
     "sku": "R33284",
     "price": 75480.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/mango-royale-cz-choker-set?variant=gid://shopify/ProductVariant/53374196154665",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0294_resized.jpg?v=1785920498"
   },
@@ -21967,15 +21967,6 @@
     "stock": 3,
     "url": "https://www.rasasilver.com/products/heart-stone-buggadi?variant=gid://shopify/ProductVariant/53398610116905",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38665.jpg?v=1786712936"
-  },
-  "gid://shopify/ProductVariant/53398628270377": {
-    "product_title": "Rosabelle CZ Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R28708",
-    "price": 46750.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/rosabelle-cz-necklace-set?variant=gid://shopify/ProductVariant/53398628270377",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__7Aug1800.jpg?v=1786702712"
   },
   "gid://shopify/ProductVariant/53398630400297": {
     "product_title": "Rose Garden Spark CZ Necklace Set",
@@ -23326,15 +23317,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/vamshika-cz-jhumki?variant=gid://shopify/ProductVariant/53889625555241",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1669.jpg?v=1789192390"
-  },
-  "gid://shopify/ProductVariant/53891215556905": {
-    "product_title": "Kavyanshi CZ Jhumki",
-    "variant_title": "Default Title",
-    "sku": "R35458",
-    "price": 16065.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/kavyanshi-cz-jhumki?variant=gid://shopify/ProductVariant/53891215556905",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep16861.jpg?v=1789193150"
   },
   "gid://shopify/ProductVariant/54118244090153": {
     "product_title": "Vayomi Kundan Jhumki",
@@ -47519,6 +47501,15 @@
     "url": "https://www.rasasilver.com/products/kundan-kalgi-studs-1?variant=gid://shopify/ProductVariant/53398259335465",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38634.jpg?v=1786620026"
   },
+  "gid://shopify/ProductVariant/53398628270377": {
+    "product_title": "Rosabelle CZ Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R28708",
+    "price": 46750.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/rosabelle-cz-necklace-set?variant=gid://shopify/ProductVariant/53398628270377",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__7Aug1800.jpg?v=1786702712"
+  },
   "gid://shopify/ProductVariant/53398915186985": {
     "product_title": "Navarasa Peacock Nakshi Necklace Set",
     "variant_title": "Default Title",
@@ -48545,6 +48536,15 @@
     "url": "https://www.rasasilver.com/products/vritika-cz-jhumki?variant=gid://shopify/ProductVariant/53805813236009",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1694.jpg?v=1789129752"
   },
+  "gid://shopify/ProductVariant/53891215556905": {
+    "product_title": "Kavyanshi CZ Jhumki",
+    "variant_title": "Default Title",
+    "sku": "R35458",
+    "price": 16065.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/kavyanshi-cz-jhumki?variant=gid://shopify/ProductVariant/53891215556905",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep16861.jpg?v=1789193150"
+  },
   "gid://shopify/ProductVariant/53896273166633": {
     "product_title": "Padmanjali Nakshi Jhumki",
     "variant_title": "Default Title",
@@ -49174,5 +49174,23 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/temple-necklace-6?variant=gid://shopify/ProductVariant/54220257100073",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Tast_12Set20853.jpg?v=1790170920"
+  },
+  "gid://shopify/ProductVariant/54220327026985": {
+    "product_title": "Shree Phooldan Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R35138",
+    "price": 45900.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/shree-phooldan-temple-necklace?variant=gid://shopify/ProductVariant/54220327026985",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Tast_12Set20833.jpg?v=1790171572"
+  },
+  "gid://shopify/ProductVariant/54220343312681": {
+    "product_title": "Lakshmiya-Gaja Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R35140",
+    "price": 45560.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/lakshmiya-gaja-temple-necklace?variant=gid://shopify/ProductVariant/54220343312681",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Tast_12Set20837.jpg?v=1790172626"
   }
 }
