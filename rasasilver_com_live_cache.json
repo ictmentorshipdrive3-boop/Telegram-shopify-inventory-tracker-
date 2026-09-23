@@ -1583,15 +1583,6 @@
     "url": "https://www.rasasilver.com/products/drishtiknot-manglsutra-set?variant=gid://shopify/ProductVariant/50313488728361",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/wfer3g.jpg?v=1747983533"
   },
-  "gid://shopify/ProductVariant/50313677472041": {
-    "product_title": "Prem Manglsutra Set",
-    "variant_title": "Default Title",
-    "sku": "R7364",
-    "price": 12665.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/prem-manglsutra-set?variant=gid://shopify/ProductVariant/50313677472041",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP08088copy2_1.jpg?v=1747920856"
-  },
   "gid://shopify/ProductVariant/50316621480233": {
     "product_title": "Ovalia Spark Bracelet",
     "variant_title": "Default Title",
@@ -1654,24 +1645,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/velisia-pendant-set?variant=gid://shopify/ProductVariant/50337061404969",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP08828copy.jpg?v=1757583705"
-  },
-  "gid://shopify/ProductVariant/50337803501865": {
-    "product_title": "Azure Sparkle Pendant Set",
-    "variant_title": "Default Title",
-    "sku": "R5302",
-    "price": 8330.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/pendant-set-2?variant=gid://shopify/ProductVariant/50337803501865",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP07784copy.jpg?v=1747914974"
-  },
-  "gid://shopify/ProductVariant/50338290139433": {
-    "product_title": "Solcushion Pendant Set",
-    "variant_title": "Default Title",
-    "sku": "R5297",
-    "price": 7565.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/pendant-set-3?variant=gid://shopify/ProductVariant/50338290139433",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP07754copy.jpg?v=1747914709"
   },
   "gid://shopify/ProductVariant/50345380249897": {
     "product_title": "Ellys\u00e9e Oval Pendant Set",
@@ -24605,6 +24578,15 @@
     "url": "https://www.rasasilver.com/products/rudra-rekha-mangalsutra?variant=gid://shopify/ProductVariant/50313594274089",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP08350copy_1.jpg?v=1747919693"
   },
+  "gid://shopify/ProductVariant/50313677472041": {
+    "product_title": "Prem Manglsutra Set",
+    "variant_title": "Default Title",
+    "sku": "R7364",
+    "price": 12665.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/prem-manglsutra-set?variant=gid://shopify/ProductVariant/50313677472041",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP08088copy2_1.jpg?v=1747920856"
+  },
   "gid://shopify/ProductVariant/50313735340329": {
     "product_title": "Kalyani Kriti Mangalsutra Set",
     "variant_title": "Default Title",
@@ -25055,6 +25037,15 @@
     "url": "https://www.rasasilver.com/products/crystelle-heart-pendant-set?variant=gid://shopify/ProductVariant/50337800913193",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP08634copy.jpg?v=1747898107"
   },
+  "gid://shopify/ProductVariant/50337803501865": {
+    "product_title": "Azure Sparkle Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "R5302",
+    "price": 8330.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/pendant-set-2?variant=gid://shopify/ProductVariant/50337803501865",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP07784copy.jpg?v=1747914974"
+  },
   "gid://shopify/ProductVariant/50338282307881": {
     "product_title": "Quadra Shimmer Pendant Set",
     "variant_title": "Default Title",
@@ -25063,6 +25054,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/quadra-shimmer-pendant-set?variant=gid://shopify/ProductVariant/50338282307881",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP07717copy.jpg?v=1747916462"
+  },
+  "gid://shopify/ProductVariant/50338290139433": {
+    "product_title": "Solcushion Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "R5297",
+    "price": 7565.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/pendant-set-3?variant=gid://shopify/ProductVariant/50338290139433",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP07754copy.jpg?v=1747914709"
   },
   "gid://shopify/ProductVariant/50345389162793": {
     "product_title": "Florenza Pendant Set",
