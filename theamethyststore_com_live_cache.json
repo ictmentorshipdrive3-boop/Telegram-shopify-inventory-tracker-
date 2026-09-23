@@ -9004,7 +9004,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-6058",
     "price": 4045.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/yuthrn-stone-studs?variant=gid://shopify/ProductVariant/45198060126435",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6058.jpg?v=1719498971"
   },
@@ -17922,7 +17922,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 25000.0,
+    "price": 26600.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -88082,6 +88082,15 @@
     "url": "https://www.theamethyststore.com/products/stone-ring-56?variant=gid://shopify/ProductVariant/49504333332707",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2213.jpg?v=1785998181"
   },
+  "gid://shopify/ProductVariant/49504333758691": {
+    "product_title": "Aashin Stone Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2215",
+    "price": 2431.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/stone-ring-57?variant=gid://shopify/ProductVariant/49504333758691",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2215.jpg?v=1785998309"
+  },
   "gid://shopify/ProductVariant/49504336085219": {
     "product_title": "Sheskila Stone Ring",
     "variant_title": "Default Title",
@@ -108043,6 +108052,33 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/enchanting-kundan-maangtikka?variant=gid://shopify/ProductVariant/49799117373667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2514.jpg?v=1790151501"
+  },
+  "gid://shopify/ProductVariant/49799912685795": {
+    "product_title": "Heritage Verde Kundan Maangtikka",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2513",
+    "price": 13978.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/heritage-verde-kundan-maangtikka?variant=gid://shopify/ProductVariant/49799912685795",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2513.jpg?v=1790157378"
+  },
+  "gid://shopify/ProductVariant/49800056799459": {
+    "product_title": "Dazzling  Diamond Design Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18119",
+    "price": 116400.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/dazzling-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/49800056799459",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18119.jpg?v=1790160335"
+  },
+  "gid://shopify/ProductVariant/49800184660195": {
+    "product_title": "Vinithaa Diamond Design Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18121",
+    "price": 71100.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/vinithaa-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/49800184660195",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18121.jpg?v=1790160849"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -134638,15 +134674,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/stone-ring-51?variant=gid://shopify/ProductVariant/49504320815331",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2205.jpg?v=1785997385"
-  },
-  "gid://shopify/ProductVariant/49504333758691": {
-    "product_title": "Aashin Stone Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-2215",
-    "price": 2431.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/stone-ring-57?variant=gid://shopify/ProductVariant/49504333758691",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2215.jpg?v=1785998309"
   },
   "gid://shopify/ProductVariant/49504403488995": {
     "product_title": "Vintage Stone Ring",
