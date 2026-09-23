@@ -17913,7 +17913,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 26600.0,
+    "price": 25000.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -90602,15 +90602,6 @@
     "url": "https://www.theamethyststore.com/products/ganisha-nagas-chain-1?variant=gid://shopify/ProductVariant/49524625834211",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2192.jpg?v=1786533059"
   },
-  "gid://shopify/ProductVariant/49524633665763": {
-    "product_title": "Sharvikaa Nagas Chain",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-2173",
-    "price": 27557.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nagas-chain-18?variant=gid://shopify/ProductVariant/49524633665763",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2173.jpg?v=1786533313"
-  },
   "gid://shopify/ProductVariant/49524633927907": {
     "product_title": "Vithusha Nagas Chain",
     "variant_title": "Default Title",
@@ -99413,15 +99404,6 @@
     "url": "https://www.theamethyststore.com/products/extraordinary-nagas-drops?variant=gid://shopify/ProductVariant/49647921856739",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14967.jpg?v=1788176396"
   },
-  "gid://shopify/ProductVariant/49647933358307": {
-    "product_title": "Astonishing Nagas Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14973",
-    "price": 4188.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/astonishing-nagas-drops?variant=gid://shopify/ProductVariant/49647933358307",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14973.jpg?v=1788176721"
-  },
   "gid://shopify/ProductVariant/49648172859619": {
     "product_title": "Charm Nagas Studs",
     "variant_title": "Default Title",
@@ -108088,6 +108070,33 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/elegance-nagas-chain?variant=gid://shopify/ProductVariant/49800742273251",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2243.jpg?v=1790166310"
+  },
+  "gid://shopify/ProductVariant/49800748302563": {
+    "product_title": "Deekshikaa 3D Spl Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16126",
+    "price": 27700.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/deekshikaa-3d-spl-earrings?variant=gid://shopify/ProductVariant/49800748302563",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16126.jpg?v=1790166629"
+  },
+  "gid://shopify/ProductVariant/49800755740899": {
+    "product_title": "Warm Glow Kundan Maangtikka",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2506",
+    "price": 10661.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/warm-glow-kundan-maangtikka?variant=gid://shopify/ProductVariant/49800755740899",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2506.jpg?v=1790166861"
+  },
+  "gid://shopify/ProductVariant/49800857649379": {
+    "product_title": "Fiery Brilliance Kundan Maangtikka",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2505",
+    "price": 14072.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/fiery-brilliance-kundan-maangtikka?variant=gid://shopify/ProductVariant/49800857649379",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2505.jpg?v=1790167311"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -135467,6 +135476,15 @@
     "url": "https://www.theamethyststore.com/products/anisha-nagas-chain-2?variant=gid://shopify/ProductVariant/49524630683875",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2191.jpg?v=1786533246"
   },
+  "gid://shopify/ProductVariant/49524633665763": {
+    "product_title": "Sharvikaa Nagas Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2173",
+    "price": 27557.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-chain-18?variant=gid://shopify/ProductVariant/49524633665763",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2173.jpg?v=1786533313"
+  },
   "gid://shopify/ProductVariant/49524636385507": {
     "product_title": "Srisha Nagas Chain",
     "variant_title": "Default Title",
@@ -136861,6 +136879,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nagas-studs-27?variant=gid://shopify/ProductVariant/49647908585699",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15366.jpg?v=1788176459"
+  },
+  "gid://shopify/ProductVariant/49647933358307": {
+    "product_title": "Astonishing Nagas Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14973",
+    "price": 4188.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/astonishing-nagas-drops?variant=gid://shopify/ProductVariant/49647933358307",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14973.jpg?v=1788176721"
   },
   "gid://shopify/ProductVariant/49648609460451": {
     "product_title": "Haritha Nagas Studs",
