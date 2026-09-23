@@ -17913,7 +17913,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 26600.0,
+    "price": 25000.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -22738,7 +22738,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-8679",
     "price": 9061.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/cute-elephant-nagas-earings?variant=gid://shopify/ProductVariant/46761506603235",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8679.jpg?v=1751172120"
   },
@@ -57941,15 +57941,6 @@
     "url": "https://www.theamethyststore.com/products/mesmerizing-hook-jhumkas?variant=gid://shopify/ProductVariant/48272085680355",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-7722.jpg?v=1770963786"
   },
-  "gid://shopify/ProductVariant/48272088793315": {
-    "product_title": "Mythili  Diamond Design Pair Bangle",
-    "variant_title": "2.6\"",
-    "sku": "AMS-107-2909-2.6\"",
-    "price": 24158.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/mythili-stone-pair-bangle?variant=gid://shopify/ProductVariant/48272088793315",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2909.jpg?v=1770963954"
-  },
   "gid://shopify/ProductVariant/48272088957155": {
     "product_title": "Aradhya Hook Jhumkas",
     "variant_title": "Default Title",
@@ -91916,15 +91907,6 @@
     "url": "https://www.theamethyststore.com/products/anvaya-kundan-drops?variant=gid://shopify/ProductVariant/49538406121699",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15534.jpg?v=1786772885"
   },
-  "gid://shopify/ProductVariant/49538420244707": {
-    "product_title": "Charming Kundan Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15535",
-    "price": 10438.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/charming-kundan-drops?variant=gid://shopify/ProductVariant/49538420244707",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15535.jpg?v=1786773040"
-  },
   "gid://shopify/ProductVariant/49538472247523": {
     "product_title": "Dazzling Kundan Drops",
     "variant_title": "Default Title",
@@ -122750,6 +122732,15 @@
     "url": "https://www.theamethyststore.com/products/ekanshi-kundan-long-necklace?variant=gid://shopify/ProductVariant/48272054223075",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13819-_2.jpg?v=1770960647"
   },
+  "gid://shopify/ProductVariant/48272088793315": {
+    "product_title": "Mythili  Diamond Design Pair Bangle",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-2909-2.6\"",
+    "price": 24158.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/mythili-stone-pair-bangle?variant=gid://shopify/ProductVariant/48272088793315",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2909.jpg?v=1770963954"
+  },
   "gid://shopify/ProductVariant/49671820214499": {
     "product_title": "Mythili  Diamond Design Pair Bangle",
     "variant_title": "2.8\"",
@@ -135727,6 +135718,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/anvitha-kundan-drops?variant=gid://shopify/ProductVariant/49538115698915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15523.jpg?v=1786771493"
+  },
+  "gid://shopify/ProductVariant/49538420244707": {
+    "product_title": "Charming Kundan Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15535",
+    "price": 10438.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/charming-kundan-drops?variant=gid://shopify/ProductVariant/49538420244707",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15535.jpg?v=1786773040"
   },
   "gid://shopify/ProductVariant/49538660499683": {
     "product_title": "Dhvani Kundan Drops",
