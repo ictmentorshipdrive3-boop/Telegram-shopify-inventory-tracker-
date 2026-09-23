@@ -14368,7 +14368,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-2076",
     "price": 36400.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/prajitha-stone-pendant?variant=gid://shopify/ProductVariant/45821841408227",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2076.jpg?v=1734695617"
   },
@@ -17913,7 +17913,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 26600.0,
+    "price": 25000.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -65213,15 +65213,6 @@
     "url": "https://www.theamethyststore.com/products/saraswathi-nagas-short-necklace?variant=gid://shopify/ProductVariant/48889850560739",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15508.jpg?v=1777527381"
   },
-  "gid://shopify/ProductVariant/48889985204451": {
-    "product_title": "Mithra Nagas Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15505",
-    "price": 68104.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/mithra-nagas-long-necklace-2?variant=gid://shopify/ProductVariant/48889985204451",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15505_2.jpg?v=1777527798"
-  },
   "gid://shopify/ProductVariant/48890171261155": {
     "product_title": "Sindhu Nagas Long Necklace",
     "variant_title": "Default Title",
@@ -104057,15 +104048,6 @@
     "url": "https://www.theamethyststore.com/products/auspicious-heritage-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49721707659491",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17933.jpg?v=1789191319"
   },
-  "gid://shopify/ProductVariant/49721726992611": {
-    "product_title": "Finely Crafted 3D Spl Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17935",
-    "price": 66000.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/finely-crafted-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49721726992611",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17935.jpg?v=1789192186"
-  },
   "gid://shopify/ProductVariant/49721893945571": {
     "product_title": "Artisanal 3D Spl Short Necklace Set",
     "variant_title": "Default Title",
@@ -125459,6 +125441,15 @@
     "url": "https://www.theamethyststore.com/products/jothika-nagas-short-necklace?variant=gid://shopify/ProductVariant/48889791971555",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15507.jpg?v=1777527018"
   },
+  "gid://shopify/ProductVariant/48889985204451": {
+    "product_title": "Mithra Nagas Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15505",
+    "price": 68104.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/mithra-nagas-long-necklace-2?variant=gid://shopify/ProductVariant/48889985204451",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15505_2.jpg?v=1777527798"
+  },
   "gid://shopify/ProductVariant/48890213597411": {
     "product_title": "Vimala Nagas Long Necklace",
     "variant_title": "Default Title",
@@ -137410,6 +137401,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/gracefully-crafted-3d-spl-choker-necklace-set?variant=gid://shopify/ProductVariant/49719369564387",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17914.jpg?v=1789133236"
+  },
+  "gid://shopify/ProductVariant/49721726992611": {
+    "product_title": "Finely Crafted 3D Spl Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17935",
+    "price": 66000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/finely-crafted-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49721726992611",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17935.jpg?v=1789192186"
   },
   "gid://shopify/ProductVariant/49722050511075": {
     "product_title": "Godly Motif 3D Spl Short Necklace Set",
