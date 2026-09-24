@@ -3644,15 +3644,6 @@
     "url": "https://www.rasasilver.com/products/alankrita-kamal-bangles?variant=gid://shopify/ProductVariant/50968455184681",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/DSC05915copy.jpg?v=1756979436"
   },
-  "gid://shopify/ProductVariant/50968062689577": {
-    "product_title": "Crimson \u00c9clat Bangles",
-    "variant_title": "2.8",
-    "sku": "R12135",
-    "price": 24100.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/crimson-eclat-bangles?variant=gid://shopify/ProductVariant/50968062689577",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/DSC05865_copy.jpg?v=1756979164"
-  },
   "gid://shopify/ProductVariant/50824678375721": {
     "product_title": "Floramira CZ Necklace Set",
     "variant_title": "Default Title",
@@ -6865,15 +6856,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/triovya-necklace-set?variant=gid://shopify/ProductVariant/51500257575209",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_297Pics_07Oct34896_resized.jpg?v=1763554564"
-  },
-  "gid://shopify/ProductVariant/51500289294633": {
-    "product_title": "Phool Layyara Oxidised Payal",
-    "variant_title": "GREEN",
-    "sku": "R16560",
-    "price": 63900.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/phool-layyara-payal?variant=gid://shopify/ProductVariant/51500289294633",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0059_copy_2.jpg?v=1763455965"
   },
   "gid://shopify/ProductVariant/51500298469673": {
     "product_title": "Rectarya Victorian Necklace Set",
@@ -22144,7 +22126,7 @@
     "variant_title": "Default Title",
     "sku": "R32750",
     "price": 2300.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/blushish-sparkle-ring?variant=gid://shopify/ProductVariant/53408381534505",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19431.jpg?v=1786694667"
   },
@@ -25864,6 +25846,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/roshanara-bangles?variant=gid://shopify/ProductVariant/50968607555881",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/DSC05909copy.jpg?v=1756979598"
+  },
+  "gid://shopify/ProductVariant/50968062689577": {
+    "product_title": "Crimson \u00c9clat Bangles",
+    "variant_title": "2.8",
+    "sku": "R12135",
+    "price": 24100.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/crimson-eclat-bangles?variant=gid://shopify/ProductVariant/50968062689577",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/DSC05865_copy.jpg?v=1756979164"
   },
   "gid://shopify/ProductVariant/52279154082089": {
     "product_title": "Pushpmani Dangle Earrings",
@@ -31272,6 +31263,15 @@
     "price": 63900.0,
     "stock": 0,
     "url": "https://www.rasasilver.com/products/phool-layyara-payal?variant=gid://shopify/ProductVariant/51500289261865",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0059_copy_2.jpg?v=1763455965"
+  },
+  "gid://shopify/ProductVariant/51500289294633": {
+    "product_title": "Phool Layyara Oxidised Payal",
+    "variant_title": "GREEN",
+    "sku": "R16560",
+    "price": 63900.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/phool-layyara-payal?variant=gid://shopify/ProductVariant/51500289294633",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0059_copy_2.jpg?v=1763455965"
   },
   "gid://shopify/ProductVariant/51500304728361": {
