@@ -2767,7 +2767,7 @@
     "variant_title": "Default Title",
     "sku": "R10506",
     "price": 2720.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/22?variant=gid://shopify/ProductVariant/50711518380329",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_1e8e1de6-aa7a-49e7-bc3d-3f8c5e7d73f4.jpg?v=1754911344"
   },
@@ -9367,6 +9367,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/celest-pear-victorian-ring?variant=gid://shopify/ProductVariant/52333734199593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0027copy_5c21919d-706b-49db-a307-52ac43ce5edd.jpg?v=1766995152"
+  },
+  "gid://shopify/ProductVariant/52333761462569": {
+    "product_title": "Fresina Victorian Studs",
+    "variant_title": "Default Title",
+    "sku": "R22018",
+    "price": 7735.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/fresina-victorian-studs?variant=gid://shopify/ProductVariant/52333761462569",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0785copy.jpg?v=1766993198"
   },
   "gid://shopify/ProductVariant/52334272610601": {
     "product_title": "Indraya Victorian Studs",
@@ -21604,7 +21613,7 @@
     "variant_title": "Default Title",
     "sku": "R32821",
     "price": 52900.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/madhur-milan-choker-set?variant=gid://shopify/ProductVariant/53374254776617",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0388.jpg?v=1786365810"
   },
@@ -22270,7 +22279,7 @@
     "variant_title": "Default Title",
     "sku": "R33500",
     "price": 23000.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/peacock-stone-necklace?variant=gid://shopify/ProductVariant/53410018263337",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_41_107Pics0554.jpg?v=1786702033"
   },
@@ -23026,7 +23035,7 @@
     "variant_title": "Default Title",
     "sku": "R29475",
     "price": 19720.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/hari-pushpini-stone-necklace?variant=gid://shopify/ProductVariant/53487203877161",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__1Sep1241.jpg?v=1789204158"
   },
@@ -35170,15 +35179,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/florisix-victorian-studs?variant=gid://shopify/ProductVariant/52333739704617",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0693copy.jpg?v=1766733862"
-  },
-  "gid://shopify/ProductVariant/52333761462569": {
-    "product_title": "Fresina Victorian Studs",
-    "variant_title": "Default Title",
-    "sku": "R22018",
-    "price": 7735.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/fresina-victorian-studs?variant=gid://shopify/ProductVariant/52333761462569",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0785copy.jpg?v=1766993198"
   },
   "gid://shopify/ProductVariant/52333763428649": {
     "product_title": "Marigolda Victorian Studs",
@@ -49219,5 +49219,14 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/krishna-mayur-temple-matil?variant=gid://shopify/ProductVariant/54224831054121",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_48_108Pics_10Sep21022.jpg?v=1790247993"
+  },
+  "gid://shopify/ProductVariant/54224853369129": {
+    "product_title": "Lakshmiya Mandir Temple Bangles",
+    "variant_title": "Default Title",
+    "sku": "R37237",
+    "price": 37740.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/lakshmiya-mandir-temple-bangles?variant=gid://shopify/ProductVariant/54224853369129",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_48_108Pics_10Sep21027.jpg?v=1790249107"
   }
 }
