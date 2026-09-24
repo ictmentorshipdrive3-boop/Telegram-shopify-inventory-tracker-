@@ -14224,7 +14224,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-7816",
     "price": 44136.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/saanvika-short-necklace?variant=gid://shopify/ProductVariant/45781997715683",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7816_2.jpg?v=1733570273"
   },
@@ -17904,7 +17904,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 26600.0,
+    "price": 25000.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -86399,15 +86399,6 @@
     "url": "https://www.theamethyststore.com/products/fabulous-pakshi-short-necklace-set-2?variant=gid://shopify/ProductVariant/49483684806883",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16963.jpg?v=1785587768"
   },
-  "gid://shopify/ProductVariant/49483703288035": {
-    "product_title": "Ishitha Pakshi Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16980",
-    "price": 37900.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/ishitha-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49483703288035",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16980.jpg?v=1785588237"
-  },
   "gid://shopify/ProductVariant/49483706302691": {
     "product_title": "Catchy Diamond Design Short Necklace",
     "variant_title": "Default Title",
@@ -98386,15 +98377,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/pakshi-short-necklace-set-10?variant=gid://shopify/ProductVariant/49615397781731",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16913.jpg?v=1787811122"
-  },
-  "gid://shopify/ProductVariant/49615406858467": {
-    "product_title": "Vinitha Pakshi Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16914",
-    "price": 29200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/pakshi-short-necklace-set-11?variant=gid://shopify/ProductVariant/49615406858467",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16914.jpg?v=1787811317"
   },
   "gid://shopify/ProductVariant/49615430680803": {
     "product_title": "Hanitha Pakshi Short Necklace Set",
@@ -134648,6 +134630,15 @@
     "url": "https://www.theamethyststore.com/products/stunning-pakshi-short-necklace-set-2?variant=gid://shopify/ProductVariant/49483687657699",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16977.jpg?v=1785588086"
   },
+  "gid://shopify/ProductVariant/49483703288035": {
+    "product_title": "Ishitha Pakshi Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16980",
+    "price": 37900.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ishitha-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49483703288035",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16980.jpg?v=1785588237"
+  },
   "gid://shopify/ProductVariant/49483739463907": {
     "product_title": "Beautiful Pakshi Short Necklace Set",
     "variant_title": "Default Title",
@@ -137005,6 +136996,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/pakshi-short-necklace-set-5?variant=gid://shopify/ProductVariant/49615005941987",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16876.jpg?v=1787809953"
+  },
+  "gid://shopify/ProductVariant/49615406858467": {
+    "product_title": "Vinitha Pakshi Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16914",
+    "price": 29200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/pakshi-short-necklace-set-11?variant=gid://shopify/ProductVariant/49615406858467",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16914.jpg?v=1787811317"
   },
   "gid://shopify/ProductVariant/49615417344227": {
     "product_title": "Dhivinkaa Pakshi Short Necklace Set",
