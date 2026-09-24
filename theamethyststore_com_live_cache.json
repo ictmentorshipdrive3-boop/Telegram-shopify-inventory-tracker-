@@ -15781,7 +15781,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-8532",
     "price": 19812.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/akshaya-short-necklace?variant=gid://shopify/ProductVariant/46006249881827",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8532.jpg?v=1739367103"
   },
@@ -17895,7 +17895,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 26600.0,
+    "price": 25000.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -59178,8 +59178,8 @@
     "product_title": "Vithaska  Kundan Chain",
     "variant_title": "Default Title",
     "sku": "AMS-105-1500",
-    "price": 10934.0,
-    "stock": 7,
+    "price": 11179.0,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/vithaska-kundan-chain?variant=gid://shopify/ProductVariant/48287856689379",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1500-_2.jpg?v=1771486177"
   },
@@ -98027,15 +98027,6 @@
     "url": "https://www.theamethyststore.com/products/mesmerizing-pachi-short-necklace?variant=gid://shopify/ProductVariant/49601247346915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16970.jpg?v=1787725388"
   },
-  "gid://shopify/ProductVariant/49601250361571": {
-    "product_title": "Divine Nagas Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17740",
-    "price": 13190.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/divine-nagas-short-necklace-1?variant=gid://shopify/ProductVariant/49601250361571",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17740.jpg?v=1787725507"
-  },
   "gid://shopify/ProductVariant/49601253572835": {
     "product_title": "Gorgeous Pachi Short Necklace",
     "variant_title": "Default Title",
@@ -103315,7 +103306,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15566",
     "price": 7856.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/bugadi-earrings-1?variant=gid://shopify/ProductVariant/49711070052579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15566.jpg?v=1788957746"
   },
@@ -104578,15 +104569,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/divine-glow-3d-spl-studs?variant=gid://shopify/ProductVariant/49727995904227",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16073.jpg?v=1789300637"
-  },
-  "gid://shopify/ProductVariant/49727997706467": {
-    "product_title": "Narmatha 3D Spl Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17913",
-    "price": 30100.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/3d-spl-short-necklace-set-29?variant=gid://shopify/ProductVariant/49727997706467",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17913.jpg?v=1789300687"
   },
   "gid://shopify/ProductVariant/49728001900771": {
     "product_title": "Vibrant Nagas Choker",
@@ -108385,6 +108367,42 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/radiantly-beautiful-stone-short-necklace?variant=gid://shopify/ProductVariant/50284572967139",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18286_16b76b16-fe15-4231-bac1-a64b66487e29.jpg?v=1790255352"
+  },
+  "gid://shopify/ProductVariant/50284589351139": {
+    "product_title": "Manisha Diamond Design Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18254",
+    "price": 48100.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/manisha-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/50284589351139",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18254.jpg?v=1790255785"
+  },
+  "gid://shopify/ProductVariant/50284592988387": {
+    "product_title": "Glows with Beauty Stone Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18285",
+    "price": 21366.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/glows-with-beauty-stone-short-necklace?variant=gid://shopify/ProductVariant/50284592988387",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18285.jpg?v=1790256064"
+  },
+  "gid://shopify/ProductVariant/50284594725091": {
+    "product_title": "Shabithaa Diamond Design Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18268",
+    "price": 41900.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/shabithaa-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/50284594725091",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18268.jpg?v=1790256195"
+  },
+  "gid://shopify/ProductVariant/50284602982627": {
+    "product_title": "Elegant Flow Stone Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18284",
+    "price": 29138.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/elegant-flow-stone-short-necklace?variant=gid://shopify/ProductVariant/50284602982627",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18284.jpg?v=1790256465"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -136961,6 +136979,15 @@
     "url": "https://www.theamethyststore.com/products/legendary-nagas-short-necklace?variant=gid://shopify/ProductVariant/49601023869155",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17736.jpg?v=1787723945"
   },
+  "gid://shopify/ProductVariant/49601250361571": {
+    "product_title": "Divine Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17740",
+    "price": 13190.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/divine-nagas-short-necklace-1?variant=gid://shopify/ProductVariant/49601250361571",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17740.jpg?v=1787725507"
+  },
   "gid://shopify/ProductVariant/49601349484771": {
     "product_title": "Splendid Nagas Short Necklace",
     "variant_title": "Default Title",
@@ -137977,6 +138004,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/3d-spl-short-necklace-set-25?variant=gid://shopify/ProductVariant/49727961399523",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17905.jpg?v=1789298753"
+  },
+  "gid://shopify/ProductVariant/49727997706467": {
+    "product_title": "Narmatha 3D Spl Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17913",
+    "price": 30100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/3d-spl-short-necklace-set-29?variant=gid://shopify/ProductVariant/49727997706467",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17913.jpg?v=1789300687"
   },
   "gid://shopify/ProductVariant/49728267059427": {
     "product_title": "Fusion Vouge 3D Spl Drops",
