@@ -4288,7 +4288,7 @@
     "variant_title": "Default Title",
     "sku": "AC112",
     "price": 1890.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.kanshijewels.com/products/jadau-accessories-1?variant=gid://shopify/ProductVariant/47854162149676",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1800-min.jpg?v=1706268694"
   },
@@ -6010,15 +6010,6 @@
     "stock": 8,
     "url": "https://www.kanshijewels.com/products/jadau-pendant?variant=gid://shopify/ProductVariant/49987452338476",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaupendant1450_-_1.jpg?v=1728889237"
-  },
-  "gid://shopify/ProductVariant/50042223067436": {
-    "product_title": "Jadau Kundan Chain",
-    "variant_title": "Default Title",
-    "sku": "AC111",
-    "price": 1890.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-kundan-chain?variant=gid://shopify/ProductVariant/50042223067436",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaukundanchain1800_-_1.jpg?v=1729689762"
   },
   "gid://shopify/ProductVariant/50042261504300": {
     "product_title": "Jadau Hair pin",
@@ -13507,6 +13498,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/jadau-pearl-drop-jhumkas?variant=gid://shopify/ProductVariant/49987449422124",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaupearldropjhumkas1990.jpg?v=1728889125"
+  },
+  "gid://shopify/ProductVariant/50042223067436": {
+    "product_title": "Jadau Kundan Chain",
+    "variant_title": "Default Title",
+    "sku": "AC111",
+    "price": 1890.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-kundan-chain?variant=gid://shopify/ProductVariant/50042223067436",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaukundanchain1800_-_1.jpg?v=1729689762"
   },
   "gid://shopify/ProductVariant/50042272448812": {
     "product_title": "Jadau Bangle",
