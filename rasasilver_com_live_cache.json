@@ -2533,7 +2533,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R17311",
     "price": 3230.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/ovalor-ring?variant=gid://shopify/ProductVariant/51472177692969",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-4_fa47e820-d992-4a21-9676-4bf4a013aa89.jpg?v=1754311672"
   },
@@ -2578,7 +2578,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R17301",
     "price": 3060.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/smaragda-spark-ring?variant=gid://shopify/ProductVariant/51471916826921",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_0484a4ff-0b8b-4858-bb16-14d9605b1153.jpg?v=1754311252"
   },
@@ -22283,6 +22283,15 @@
     "url": "https://www.rasasilver.com/products/isabelle-necklace?variant=gid://shopify/ProductVariant/53410042872105",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19520.jpg?v=1786704542"
   },
+  "gid://shopify/ProductVariant/53410983313705": {
+    "product_title": "Aurora Collar Necklace",
+    "variant_title": "Gold",
+    "sku": "R32256",
+    "price": 2550.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/aurora-collar-necklace?variant=gid://shopify/ProductVariant/53410983313705",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19516.jpg?v=1786707912"
+  },
   "gid://shopify/ProductVariant/53410983346473": {
     "product_title": "Aurora Collar Necklace",
     "variant_title": "Silver",
@@ -23012,6 +23021,15 @@
     "url": "https://www.rasasilver.com/products/leherika-plain-chain?variant=gid://shopify/ProductVariant/53701039030569",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459389.jpg?v=1789045035"
   },
+  "gid://shopify/ProductVariant/53805813236009": {
+    "product_title": "Vritika CZ Jhumki",
+    "variant_title": "Default Title",
+    "sku": "R35437",
+    "price": 27965.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/vritika-cz-jhumki?variant=gid://shopify/ProductVariant/53805813236009",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1694.jpg?v=1789129752"
+  },
   "gid://shopify/ProductVariant/53888436863273": {
     "product_title": "Nivriti CZ Jhumki",
     "variant_title": "Default Title",
@@ -23083,6 +23101,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/aam-kamal-kundan-necklace?variant=gid://shopify/ProductVariant/54120016281897",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageSep15_2026_12_57_03PM.png?v=1789457370"
+  },
+  "gid://shopify/ProductVariant/54169750372649": {
+    "product_title": "Shakti Kasu Temple Bangles",
+    "variant_title": "2.7",
+    "sku": "R34947",
+    "price": 35530.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/shakti-kasu-temple-bangles?variant=gid://shopify/ProductVariant/54169750372649",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1562.jpg?v=1789557117"
   },
   "gid://shopify/ProductVariant/54170821263657": {
     "product_title": "Shree Ahalya Temple Bangles",
@@ -47591,15 +47618,6 @@
     "url": "https://www.rasasilver.com/products/victorian-prisma-ring?variant=gid://shopify/ProductVariant/53426846073129",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38733.jpg?v=1786701173"
   },
-  "gid://shopify/ProductVariant/53410983313705": {
-    "product_title": "Aurora Collar Necklace",
-    "variant_title": "Gold",
-    "sku": "R32256",
-    "price": 2550.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/aurora-collar-necklace?variant=gid://shopify/ProductVariant/53410983313705",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19516.jpg?v=1786707912"
-  },
   "gid://shopify/ProductVariant/53411171959081": {
     "product_title": "Kalapi-Gaja Temple Necklace",
     "variant_title": "Default Title",
@@ -48527,15 +48545,6 @@
     "url": "https://www.rasasilver.com/products/rehanshi-cz-jhumki?variant=gid://shopify/ProductVariant/53804939346217",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1680.jpg?v=1789129239"
   },
-  "gid://shopify/ProductVariant/53805813236009": {
-    "product_title": "Vritika CZ Jhumki",
-    "variant_title": "Default Title",
-    "sku": "R35437",
-    "price": 27965.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/vritika-cz-jhumki?variant=gid://shopify/ProductVariant/53805813236009",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1694.jpg?v=1789129752"
-  },
   "gid://shopify/ProductVariant/53891215556905": {
     "product_title": "Kavyanshi CZ Jhumki",
     "variant_title": "Default Title",
@@ -48634,15 +48643,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/sannidhika-temple-bangles?variant=gid://shopify/ProductVariant/54168457216297",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1566.jpg?v=1789458116"
-  },
-  "gid://shopify/ProductVariant/54169750372649": {
-    "product_title": "Shakti Kasu Temple Bangles",
-    "variant_title": "2.7",
-    "sku": "R34947",
-    "price": 35530.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/shakti-kasu-temple-bangles?variant=gid://shopify/ProductVariant/54169750372649",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1562.jpg?v=1789557117"
   },
   "gid://shopify/ProductVariant/54171641905449": {
     "product_title": "Dhan-Lakshmi Temple Bangles",
