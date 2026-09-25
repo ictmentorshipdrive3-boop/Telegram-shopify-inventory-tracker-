@@ -1817,15 +1817,6 @@
     "url": "https://www.rasasilver.com/products/sakhi?variant=gid://shopify/ProductVariant/50435448602921",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP00417copy.jpg?v=1748936380"
   },
-  "gid://shopify/ProductVariant/50443665899817": {
-    "product_title": "Gul Roha Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R5010",
-    "price": 45000.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/gul-roha-necklace-set?variant=gid://shopify/ProductVariant/50443665899817",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/wsqwed32.jpg?v=1749288482"
-  },
   "gid://shopify/ProductVariant/50443791925545": {
     "product_title": "Sri Harini Bangles",
     "variant_title": "Green / 2.8",
@@ -2032,15 +2023,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/victorian-orchid-necklace?variant=gid://shopify/ProductVariant/50544585736489",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-3_655264ca-2de3-43b1-b557-b839bec50d47.jpg?v=1751278386"
-  },
-  "gid://shopify/ProductVariant/50544722608425": {
-    "product_title": "Vanamala Layers Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R7455",
-    "price": 100100.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/vanamala-layers-necklace-set?variant=gid://shopify/ProductVariant/50544722608425",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2_1341d631-e973-4be4-ab90-84730725f1a4.jpg?v=1751448767"
   },
   "gid://shopify/ProductVariant/50544835068201": {
     "product_title": "Harita Rani Necklace Set",
@@ -6694,15 +6676,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/trivira-beads-payal?variant=gid://shopify/ProductVariant/51500334907689",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0118copy.jpg?v=1763450008"
-  },
-  "gid://shopify/ProductVariant/51500339593513": {
-    "product_title": "Floraphera Polki Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R17923",
-    "price": 46800.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/floraphera-necklace-set?variant=gid://shopify/ProductVariant/51500339593513",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_297Pics_07Oct34918_resized.jpg?v=1763552430"
   },
   "gid://shopify/ProductVariant/51500360171817": {
     "product_title": "Ovalora Necklace Set",
@@ -24092,6 +24065,15 @@
     "url": "https://www.rasasilver.com/products/fkoral?variant=gid://shopify/ProductVariant/52985237143849",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP00266-Enhanced-NRcopy.jpg?v=1748937073"
   },
+  "gid://shopify/ProductVariant/50443665899817": {
+    "product_title": "Gul Roha Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R5010",
+    "price": 45000.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/gul-roha-necklace-set?variant=gid://shopify/ProductVariant/50443665899817",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/wsqwed32.jpg?v=1749288482"
+  },
   "gid://shopify/ProductVariant/50443791958313": {
     "product_title": "Sri Harini Bangles",
     "variant_title": "Mint Green / 2.8",
@@ -24154,6 +24136,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/20?variant=gid://shopify/ProductVariant/52247507206441",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2we23.jpg?v=1750761848"
+  },
+  "gid://shopify/ProductVariant/50544722608425": {
+    "product_title": "Vanamala Layers Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R7455",
+    "price": 100100.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/vanamala-layers-necklace-set?variant=gid://shopify/ProductVariant/50544722608425",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2_1341d631-e973-4be4-ab90-84730725f1a4.jpg?v=1751448767"
   },
   "gid://shopify/ProductVariant/50549122957609": {
     "product_title": "Shinebelle Cz Necklace",
@@ -31030,6 +31021,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/rajayura-necklace-set?variant=gid://shopify/ProductVariant/51500325339433",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_297Pics_07Oct34966_resized.jpg?v=1763551912"
+  },
+  "gid://shopify/ProductVariant/51500339593513": {
+    "product_title": "Floraphera Polki Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R17923",
+    "price": 46800.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/floraphera-necklace-set?variant=gid://shopify/ProductVariant/51500339593513",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_297Pics_07Oct34918_resized.jpg?v=1763552430"
   },
   "gid://shopify/ProductVariant/51500344934697": {
     "product_title": "Pari-Pankh Oxidised Payal",
