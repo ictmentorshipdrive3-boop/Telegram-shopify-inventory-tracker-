@@ -3811,7 +3811,7 @@
     "variant_title": "Default Title",
     "sku": "75",
     "price": 4199.0,
-    "stock": 32,
+    "stock": 31,
     "url": "https://www.daivik.in/products/a-75?variant=gid://shopify/ProductVariant/44172631015646",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_f7a47cfe-1883-48be-8296-aaee6e2b6303.heic?v=1683038660"
   },
@@ -4288,7 +4288,7 @@
     "variant_title": "White",
     "sku": "192",
     "price": 1099.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.daivik.in/products/ad-gold-finish-necklace-in-2-colours-with-earrings?variant=gid://shopify/ProductVariant/44264192442590",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_c580459d-3e6a-4c23-aa59-5b1a242f8584.heic?v=1689004254"
   },
@@ -4561,15 +4561,6 @@
     "stock": 36,
     "url": "https://www.daivik.in/products/untitled-sep7_16-11?variant=gid://shopify/ProductVariant/44338342297822",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C673A1E7-EAB8-41C6-BD70-C32F51B0EE26.jpg?v=1694083732"
-  },
-  "gid://shopify/ProductVariant/44338668208350": {
-    "product_title": "Gold Finish Motif necklace with earrings",
-    "variant_title": "Default Title",
-    "sku": "910",
-    "price": 1099.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/untitled-sep7_21-09?variant=gid://shopify/ProductVariant/44338668208350",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D54EFA73-AB4B-4A50-8663-86F80E2924BA.jpg?v=1694101215"
   },
   "gid://shopify/ProductVariant/44348886843614": {
     "product_title": "Premium Gold Plated Rice pearl Jadau Brass Haram with Earrings",
@@ -9292,7 +9283,7 @@
     "variant_title": "Default Title",
     "sku": "1131",
     "price": 2799.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/premium-ad-necklace-combo-with-mattal?variant=gid://shopify/ProductVariant/45974965715166",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/153EA23B-B103-42A1-8B99-6978095B4E77.jpg?v=1729612991"
   },
@@ -10345,7 +10336,7 @@
     "variant_title": "Default Title",
     "sku": "812",
     "price": 1899.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/multi-color-ad-pattern-necklace-with-earrings?variant=gid://shopify/ProductVariant/46211734667486",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/54D5EEC3-F4EE-4ED4-9208-69B25E51DBDC.jpg?v=1736713873"
   },
@@ -10768,7 +10759,7 @@
     "variant_title": "Default Title",
     "sku": "1228",
     "price": 2799.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/designer-ad-pearl-pastel-necklace-with-earrings?variant=gid://shopify/ProductVariant/46302297489630",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1829.heic?v=1740074820"
   },
@@ -24901,6 +24892,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/untitled-sep6_21-03?variant=gid://shopify/ProductVariant/44337321148638",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7FA6F2C0-FDB2-4F24-83F4-16D5BD45DBDA.jpg?v=1694014716"
+  },
+  "gid://shopify/ProductVariant/44338668208350": {
+    "product_title": "Gold Finish Motif necklace with earrings",
+    "variant_title": "Default Title",
+    "sku": "910",
+    "price": 1099.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/untitled-sep7_21-09?variant=gid://shopify/ProductVariant/44338668208350",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D54EFA73-AB4B-4A50-8663-86F80E2924BA.jpg?v=1694101215"
   },
   "gid://shopify/ProductVariant/44338671747294": {
     "product_title": "Simple Gold finish necklace with earrings",
