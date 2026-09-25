@@ -12545,15 +12545,6 @@
     "url": "https://www.rasasilver.com/products/niraaya-temple-sheeshphool?variant=gid://shopify/ProductVariant/52682015572265",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4029.jpg?v=1771665877"
   },
-  "gid://shopify/ProductVariant/52682036347177": {
-    "product_title": "Gold Courtyard Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R25005",
-    "price": 34850.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/gold-courtyard-necklace-set?variant=gid://shopify/ProductVariant/52682036347177",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4539_resized.jpg?v=1771585030"
-  },
   "gid://shopify/ProductVariant/52682036707625": {
     "product_title": "Regal Trinket Necklace Set",
     "variant_title": "Default Title",
@@ -15307,15 +15298,6 @@
     "stock": 2,
     "url": "https://www.rasasilver.com/products/tearique-luxe-cz-necklace-set?variant=gid://shopify/ProductVariant/52881415831849",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0659_resized_cb522e23-2a10-410c-8090-1e57cfd9f11e.jpg?v=1775563947"
-  },
-  "gid://shopify/ProductVariant/52881483202857": {
-    "product_title": "Glitzora-Pear CZ Necklace Set",
-    "variant_title": "Ruby Pink",
-    "sku": "R26774",
-    "price": 56185.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/tearovia-cz-necklace-set?variant=gid://shopify/ProductVariant/52881483202857",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0075_resized.jpg?v=1775288039"
   },
   "gid://shopify/ProductVariant/52881523605801": {
     "product_title": "Hiranya Stone Pendant",
@@ -18457,15 +18439,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/flutter-grace-toe-ring?variant=gid://shopify/ProductVariant/53289183969577",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5817_resized.jpg?v=1782388692"
-  },
-  "gid://shopify/ProductVariant/53290333864233": {
-    "product_title": "Mugilu Mist Stone Danglers",
-    "variant_title": "Default Title",
-    "sku": "R31493",
-    "price": 3910.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/mugilu-mist-danglers?variant=gid://shopify/ProductVariant/53290333864233",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2335_resized.jpg?v=1784352810"
   },
   "gid://shopify/ProductVariant/53290354442537": {
     "product_title": "Aakruthi Drops Stone Danglers",
@@ -39599,6 +39572,15 @@
     "url": "https://www.rasasilver.com/products/saumyaa-shine-short-necklace-set?variant=gid://shopify/ProductVariant/52682035364137",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4563_resized.jpg?v=1771584821"
   },
+  "gid://shopify/ProductVariant/52682036347177": {
+    "product_title": "Gold Courtyard Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R25005",
+    "price": 34850.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/gold-courtyard-necklace-set?variant=gid://shopify/ProductVariant/52682036347177",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4539_resized.jpg?v=1771585030"
+  },
   "gid://shopify/ProductVariant/52682087727401": {
     "product_title": "Carat Culture CZ Necklace Set",
     "variant_title": "Default Title",
@@ -42433,6 +42415,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/florentine-cz-necklace-set-copy-1?variant=gid://shopify/ProductVariant/52881188749609",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar00292_resized.jpg?v=1775287741"
+  },
+  "gid://shopify/ProductVariant/52881483202857": {
+    "product_title": "Glitzora-Pear CZ Necklace Set",
+    "variant_title": "Ruby Pink",
+    "sku": "R26774",
+    "price": 56185.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/tearovia-cz-necklace-set?variant=gid://shopify/ProductVariant/52881483202857",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0075_resized.jpg?v=1775288039"
   },
   "gid://shopify/ProductVariant/52881483235625": {
     "product_title": "Glitzora-Pear CZ Necklace Set",
@@ -45961,6 +45952,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/heart-halo-toe-ring?variant=gid://shopify/ProductVariant/53289149301033",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5793_resized.jpg?v=1782388037"
+  },
+  "gid://shopify/ProductVariant/53290333864233": {
+    "product_title": "Mugilu Mist Stone Danglers",
+    "variant_title": "Default Title",
+    "sku": "R31493",
+    "price": 3910.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/mugilu-mist-danglers?variant=gid://shopify/ProductVariant/53290333864233",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2335_resized.jpg?v=1784352810"
   },
   "gid://shopify/ProductVariant/53290441408809": {
     "product_title": "Zariya Stone Danglers",
