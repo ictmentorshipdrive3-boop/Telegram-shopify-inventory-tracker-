@@ -11029,7 +11029,7 @@
     "variant_title": "2.4",
     "sku": "R24455",
     "price": 45305.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/garden-pear-victorian-bangles?variant=gid://shopify/ProductVariant/52535424123177",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_113_Pics_29Jan4111_7119562b-42d1-4468-8fc4-c75af1e81c79.jpg?v=1770286970"
   },
@@ -11038,7 +11038,7 @@
     "variant_title": "2.6",
     "sku": "R24455",
     "price": 53300.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/garden-pear-victorian-bangles?variant=gid://shopify/ProductVariant/52535424155945",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_113_Pics_29Jan4111_7119562b-42d1-4468-8fc4-c75af1e81c79.jpg?v=1770286970"
   },
@@ -14965,15 +14965,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/lunara-danglers-earrings?variant=gid://shopify/ProductVariant/52871143555369",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_272Pics_19Mar37205_resized.jpg?v=1775041642"
-  },
-  "gid://shopify/ProductVariant/52871342457129": {
-    "product_title": "Ketakini CZ Matil",
-    "variant_title": "Default Title",
-    "sku": "R23606",
-    "price": 25670.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/ketakini-cz-matil?variant=gid://shopify/ProductVariant/52871342457129",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20592_resized.jpg?v=1775280861"
   },
   "gid://shopify/ProductVariant/52871396196649": {
     "product_title": "Mohanika Nakshi Jhumki",
@@ -42073,6 +42064,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/harinika-nakshi-jhumki?variant=gid://shopify/ProductVariant/52871213547817",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_272Pics_19Mar37249_resized.jpg?v=1775042213"
+  },
+  "gid://shopify/ProductVariant/52871342457129": {
+    "product_title": "Ketakini CZ Matil",
+    "variant_title": "Default Title",
+    "sku": "R23606",
+    "price": 25670.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ketakini-cz-matil?variant=gid://shopify/ProductVariant/52871342457129",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20592_resized.jpg?v=1775280861"
   },
   "gid://shopify/ProductVariant/52871379026217": {
     "product_title": "Varnikaa Nakshi Jhumki",
