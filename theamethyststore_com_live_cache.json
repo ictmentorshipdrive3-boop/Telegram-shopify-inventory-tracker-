@@ -1353,8 +1353,8 @@
     "product_title": "Pramitha Pendant",
     "variant_title": "Default Title",
     "sku": "AMS-104-0777",
-    "price": 3069.0,
-    "stock": 6,
+    "price": 3345.0,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/pramitha-pendant?variant=gid://shopify/ProductVariant/42672588751075",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-104-0777.jpg?v=1648529101"
   },
@@ -17913,7 +17913,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 25000.0,
+    "price": 26600.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -87947,15 +87947,6 @@
     "url": "https://www.theamethyststore.com/products/stone-ring-66?variant=gid://shopify/ProductVariant/49504479838435",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2233.jpg?v=1786001324"
   },
-  "gid://shopify/ProductVariant/49504483279075": {
-    "product_title": "Sherin Stone Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-2234",
-    "price": 2093.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/stone-ring-67?variant=gid://shopify/ProductVariant/49504483279075",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2234.jpg?v=1786001459"
-  },
   "gid://shopify/ProductVariant/49504492257507": {
     "product_title": "Rashi Stone Ring",
     "variant_title": "Default Title",
@@ -108556,6 +108547,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/santhiyaa-stone-short-necklace?variant=gid://shopify/ProductVariant/50288054993123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18278.jpg?v=1790314466"
+  },
+  "gid://shopify/ProductVariant/50288174235875": {
+    "product_title": "Nethraa Stone Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18279",
+    "price": 20137.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nethraa-stone-short-necklace?variant=gid://shopify/ProductVariant/50288174235875",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18279.jpg?v=1790316791"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -135367,6 +135367,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/stone-ring-65?variant=gid://shopify/ProductVariant/49504478200035",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2232.jpg?v=1786001179"
+  },
+  "gid://shopify/ProductVariant/49504483279075": {
+    "product_title": "Sherin Stone Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2234",
+    "price": 2093.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/stone-ring-67?variant=gid://shopify/ProductVariant/49504483279075",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2234.jpg?v=1786001459"
   },
   "gid://shopify/ProductVariant/49504488653027": {
     "product_title": "Elinika Stone Ring",
