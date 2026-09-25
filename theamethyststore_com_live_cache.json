@@ -10714,7 +10714,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-6957",
     "price": 12038.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/plain-hasli-necklace?variant=gid://shopify/ProductVariant/45421170262243",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-6957_4d1d6e5d-68b4-463d-a32e-6734e6da6640.jpg?v=1776162607"
   },
@@ -17913,7 +17913,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 26600.0,
+    "price": 25000.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -71981,15 +71981,6 @@
     "url": "https://www.theamethyststore.com/products/divine-look-nagas-pendant-3?variant=gid://shopify/ProductVariant/49276468723939",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4267_563a94b3-828e-41fd-b042-5900767616a9.jpg?v=1782719425"
   },
-  "gid://shopify/ProductVariant/49276471279843": {
-    "product_title": "Majestic Stone Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-4177",
-    "price": 14688.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/stone-pendant-32?variant=gid://shopify/ProductVariant/49276471279843",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4177.jpg?v=1781781683"
-  },
   "gid://shopify/ProductVariant/49276475637987": {
     "product_title": "Pranita Nagas Pendant",
     "variant_title": "Default Title",
@@ -84514,7 +84505,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17174",
     "price": 176800.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/grandeur-avikam-choker-set-1?variant=gid://shopify/ProductVariant/49448242774243",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17174.jpg?v=1785065874"
   },
@@ -129787,6 +129778,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/stone-pendant-31?variant=gid://shopify/ProductVariant/49276463841507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4176.jpg?v=1781781259"
+  },
+  "gid://shopify/ProductVariant/49276471279843": {
+    "product_title": "Majestic Stone Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4177",
+    "price": 14688.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/stone-pendant-32?variant=gid://shopify/ProductVariant/49276471279843",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4177.jpg?v=1781781683"
   },
   "gid://shopify/ProductVariant/49276488646883": {
     "product_title": "Selena Stone Drops",
