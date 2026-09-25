@@ -1804,7 +1804,7 @@
     "variant_title": "2.6",
     "sku": "988",
     "price": 1699.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/set-of-6-kemp-ad-bangles?variant=gid://shopify/ProductVariant/42314254418142",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_02674945-7b6e-4236-9806-2024c9320bd6.jpg?v=1641656256"
   },
@@ -9511,15 +9511,6 @@
     "stock": 13,
     "url": "https://www.daivik.in/products/untitled-nov6_21-01?variant=gid://shopify/ProductVariant/46015087608030",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6150E15F-1268-4A99-B95C-EBECBF4DBD44.jpg?v=1730964493"
-  },
-  "gid://shopify/ProductVariant/46264545280222": {
-    "product_title": "AD Ruby Green Pendant Long Haram",
-    "variant_title": "Ruby Green",
-    "sku": "1133",
-    "price": 2599.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-ruby-green-pendant-long-haram?variant=gid://shopify/ProductVariant/46264545280222",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0A564539-7321-42FF-8391-5FEC27583520.jpg?v=1730993718"
   },
   "gid://shopify/ProductVariant/46264545312990": {
     "product_title": "AD Ruby Green Pendant Long Haram",
@@ -20443,7 +20434,7 @@
     "variant_title": "Default Title",
     "sku": "1918",
     "price": 499.0,
-    "stock": 34,
+    "stock": 33,
     "url": "https://www.daivik.in/products/antique-lakshmi-jada-billa-price-for-1-pc?variant=gid://shopify/ProductVariant/48378829111518",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/006995CB-6D6A-442B-8D24-B0ECA03F962B.jpg?v=1782648270"
   },
@@ -26584,6 +26575,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/untitled-nov6_21-01?variant=gid://shopify/ProductVariant/46015087640798",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6150E15F-1268-4A99-B95C-EBECBF4DBD44.jpg?v=1730964493"
+  },
+  "gid://shopify/ProductVariant/46264545280222": {
+    "product_title": "AD Ruby Green Pendant Long Haram",
+    "variant_title": "Ruby Green",
+    "sku": "1133",
+    "price": 2599.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-ruby-green-pendant-long-haram?variant=gid://shopify/ProductVariant/46264545280222",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0A564539-7321-42FF-8391-5FEC27583520.jpg?v=1730993718"
   },
   "gid://shopify/ProductVariant/46021522686174": {
     "product_title": "Designer Doublet Mossanite stone Necklace with Earrings",
