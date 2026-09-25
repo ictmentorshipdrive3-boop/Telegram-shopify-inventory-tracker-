@@ -9580,7 +9580,7 @@
     "variant_title": "Default Title",
     "sku": "MT10",
     "price": 1500.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.kanshijewels.com/products/mossanite-tika-5?variant=gid://shopify/ProductVariant/52445288104236",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadautika1500.jpg?v=1766141053"
   },
@@ -10961,6 +10961,15 @@
     "url": "https://www.kanshijewels.com/products/elegant-diamond-look-earrings?variant=gid://shopify/ProductVariant/53369017139500",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Elegantdiamondlookearrings759.jpg?v=1782218155"
   },
+  "gid://shopify/ProductVariant/53369020023084": {
+    "product_title": "Elegant jadau dulhan jhumkas",
+    "variant_title": "Default Title",
+    "sku": "ER526",
+    "price": 2600.0,
+    "stock": 9,
+    "url": "https://www.kanshijewels.com/products/elegant-jadau-dulhan-jhumkas?variant=gid://shopify/ProductVariant/53369020023084",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Elegantjadaudulhanjhumkas2600.jpg?v=1782218251"
+  },
   "gid://shopify/ProductVariant/53369027428652": {
     "product_title": "Elegant mossanite dulhan chandbali",
     "variant_title": "Default Title",
@@ -11752,6 +11761,15 @@
     "stock": 6,
     "url": "https://www.kanshijewels.com/products/moon-kundan-motives-classic-set-1?variant=gid://shopify/ProductVariant/54005697446188",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/WhatsApp_Image_2026-09-05_at_2.58.52_PM_1.jpg?v=1788605759"
+  },
+  "gid://shopify/ProductVariant/54005724873004": {
+    "product_title": "Elegant Rice Pearls Intricate Kundan Work Coral Accents",
+    "variant_title": "Default Title",
+    "sku": "NK967",
+    "price": 2100.0,
+    "stock": 10,
+    "url": "https://www.kanshijewels.com/products/elegant-rice-pearls-intricate-kundan-work-coral-accents?variant=gid://shopify/ProductVariant/54005724873004",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/WhatsApp_Image_2026-09-05_at_2.58.44_PM.jpg?v=1788604346"
   },
   "gid://shopify/ProductVariant/54005762457900": {
     "product_title": "Handwork Kundan Balls With Swaroski Kundan Fusion Necklace",
@@ -14399,15 +14417,6 @@
     "url": "https://www.kanshijewels.com/products/elegant-dual-tone-gold-silver-chain?variant=gid://shopify/ProductVariant/53368843338028",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Elegantdualtonegoldsilverchain620.jpg?v=1782213813"
   },
-  "gid://shopify/ProductVariant/53369020023084": {
-    "product_title": "Elegant jadau dulhan jhumkas",
-    "variant_title": "Default Title",
-    "sku": "ER526",
-    "price": 2600.0,
-    "stock": 0,
-    "url": "https://www.kanshijewels.com/products/elegant-jadau-dulhan-jhumkas?variant=gid://shopify/ProductVariant/53369020023084",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Elegantjadaudulhanjhumkas2600.jpg?v=1782218251"
-  },
   "gid://shopify/ProductVariant/53369132024108": {
     "product_title": "Designer coral cz danglers",
     "variant_title": "Default Title",
@@ -14443,14 +14452,5 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/exclusive-jadau-western-fusion-danglers?variant=gid://shopify/ProductVariant/53420803129644",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Exclusivejadauwesternfusiondanglers999.jpg?v=1783582119"
-  },
-  "gid://shopify/ProductVariant/54005724873004": {
-    "product_title": "Elegant Rice Pearls Intricate Kundan Work Coral Accents",
-    "variant_title": "Default Title",
-    "sku": "NK967",
-    "price": 2100.0,
-    "stock": 0,
-    "url": "https://www.kanshijewels.com/products/elegant-rice-pearls-intricate-kundan-work-coral-accents?variant=gid://shopify/ProductVariant/54005724873004",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/WhatsApp_Image_2026-09-05_at_2.58.44_PM.jpg?v=1788604346"
   }
 }
