@@ -5296,7 +5296,7 @@
     "variant_title": "Default Title",
     "sku": "386",
     "price": 1999.0,
-    "stock": 15,
+    "stock": 14,
     "url": "https://www.daivik.in/products/ad-uncut-necklace-with-earrings?variant=gid://shopify/ProductVariant/44440279449822",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9A15156A-F2F5-401E-964A-288A2AA9824C.jpg?v=1697989253"
   },
@@ -10768,7 +10768,7 @@
     "variant_title": "Default Title",
     "sku": "1561",
     "price": 1499.0,
-    "stock": 24,
+    "stock": 23,
     "url": "https://www.daivik.in/products/cz-antique-real-kemp-hair-clip?variant=gid://shopify/ProductVariant/46307458285790",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6ECC8D85-1210-4B83-A73D-BB6DA5DCC42F.jpg?v=1740203749"
   },
@@ -19402,15 +19402,6 @@
     "stock": 4,
     "url": "https://www.daivik.in/products/manga-kemp-bridal-combo?variant=gid://shopify/ProductVariant/48135850721502",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A4B79477-1E05-489D-BF83-848ADAF50502.jpg?v=1776786791"
-  },
-  "gid://shopify/ProductVariant/48143141667038": {
-    "product_title": "Kemp Jhumkas with kemp Mattal",
-    "variant_title": "Default Title",
-    "sku": "1874",
-    "price": 1499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/kemp-jhumkas-with-kemp-mattal?variant=gid://shopify/ProductVariant/48143141667038",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2049B20A-0E46-4E07-B91C-71BFC1D59A54.jpg?v=1776858167"
   },
   "gid://shopify/ProductVariant/48149264629982": {
     "product_title": "Moissanite Flower Necklace with Earrings",
@@ -30328,6 +30319,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/manga-kemp-bridal-combo?variant=gid://shopify/ProductVariant/48135850655966",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A4B79477-1E05-489D-BF83-848ADAF50502.jpg?v=1776786791"
+  },
+  "gid://shopify/ProductVariant/48143141667038": {
+    "product_title": "Kemp Jhumkas with kemp Mattal",
+    "variant_title": "Default Title",
+    "sku": "1874",
+    "price": 1499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/kemp-jhumkas-with-kemp-mattal?variant=gid://shopify/ProductVariant/48143141667038",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2049B20A-0E46-4E07-B91C-71BFC1D59A54.jpg?v=1776858167"
   },
   "gid://shopify/ProductVariant/48161483948254": {
     "product_title": "Pure kemp Jadau Half Moon Necklace with Balis",
