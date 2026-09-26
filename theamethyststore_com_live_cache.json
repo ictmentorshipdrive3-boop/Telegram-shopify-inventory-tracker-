@@ -5930,15 +5930,6 @@
     "url": "https://www.theamethyststore.com/products/kaayal-layer-long-necklace?variant=gid://shopify/ProductVariant/44009791783139",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-4983.jpg?v=1695736620"
   },
-  "gid://shopify/ProductVariant/44013468254435": {
-    "product_title": "Swathika Chain Bracelet",
-    "variant_title": "Default Title",
-    "sku": "AMS-103-0396",
-    "price": 11200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/swathika-chain-bracelet?variant=gid://shopify/ProductVariant/44013468254435",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-0396.jpg?v=1695992608"
-  },
   "gid://shopify/ProductVariant/44016680272099": {
     "product_title": "Firoz Short Necklace",
     "variant_title": "Default Title",
@@ -17922,7 +17913,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 26600.0,
+    "price": 25000.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -59692,7 +59683,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-12754",
     "price": 4691.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/glittering-diamond-stud?variant=gid://shopify/ProductVariant/48294517014755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12754.jpg?v=1771592068"
   },
@@ -90561,7 +90552,7 @@
     "product_title": "Gleaming Moissanite Pair Bangles",
     "variant_title": "2.4\"",
     "sku": "AMS-107-3469-2.4\"",
-    "price": 84400.0,
+    "price": 85400.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/moissanite-pair-bangles-3?variant=gid://shopify/ProductVariant/49524696482019",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3469.jpg?v=1786537168"
@@ -101285,15 +101276,6 @@
     "url": "https://www.theamethyststore.com/products/nagas-ring-5?variant=gid://shopify/ProductVariant/49667542876387",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2343.jpg?v=1788496441"
   },
-  "gid://shopify/ProductVariant/49667551035619": {
-    "product_title": "Divine Lakshmi Nagas Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-2344",
-    "price": 4021.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nagas-ring-6?variant=gid://shopify/ProductVariant/49667551035619",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2344_2172ab54-e2ba-4dd7-8178-64ccb9d000bd.jpg?v=1788496861"
-  },
   "gid://shopify/ProductVariant/49667713663203": {
     "product_title": "Catches the Light Diamond Design Pendant",
     "variant_title": "Default Title",
@@ -101383,15 +101365,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/blossom-flows-kundan-jhumkas?variant=gid://shopify/ProductVariant/49667914105059",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15965.jpg?v=1788506082"
-  },
-  "gid://shopify/ProductVariant/49667980067043": {
-    "product_title": "Glowing Kundan Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15968",
-    "price": 22133.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/glowing-kundan-jhumkas?variant=gid://shopify/ProductVariant/49667980067043",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15968.jpg?v=1788507350"
   },
   "gid://shopify/ProductVariant/49668019355875": {
     "product_title": "Timeless Swing Kundan Jhumkas",
@@ -108854,6 +108827,33 @@
     "url": "https://www.theamethyststore.com/products/traditional-swing-nagas-jhumkas?variant=gid://shopify/ProductVariant/67581585752291",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16383.jpg?v=1790409194"
   },
+  "gid://shopify/ProductVariant/67581604692195": {
+    "product_title": "Shervikaa Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18385",
+    "price": 8777.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/shervikaa-nagas-short-necklace?variant=gid://shopify/ProductVariant/67581604692195",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18385.jpg?v=1790409825"
+  },
+  "gid://shopify/ProductVariant/67581622550755": {
+    "product_title": "Amala Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18386",
+    "price": 9244.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/amala-nagas-short-necklace?variant=gid://shopify/ProductVariant/67581622550755",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18386.jpg?v=1790409964"
+  },
+  "gid://shopify/ProductVariant/67581626974435": {
+    "product_title": "Glowing Swing Nagas Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16382",
+    "price": 8260.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/glowing-swing-nagas-jhumkas?variant=gid://shopify/ProductVariant/67581626974435",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16382.jpg?v=1790410184"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -110437,6 +110437,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/chandra-nagas-pendant-1?variant=gid://shopify/ProductVariant/44009438052579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-1384.jpg?v=1695716295"
+  },
+  "gid://shopify/ProductVariant/44013468254435": {
+    "product_title": "Swathika Chain Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-0396",
+    "price": 11200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/swathika-chain-bracelet?variant=gid://shopify/ProductVariant/44013468254435",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-0396.jpg?v=1695992608"
   },
   "gid://shopify/ProductVariant/44016981442787": {
     "product_title": "Nisira Kundan Studs",
@@ -138122,6 +138131,15 @@
     "url": "https://www.theamethyststore.com/products/simply-beautiful-kundan-jhumkas?variant=gid://shopify/ProductVariant/49664901284067",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15916.jpg?v=1788440923"
   },
+  "gid://shopify/ProductVariant/49667551035619": {
+    "product_title": "Divine Lakshmi Nagas Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2344",
+    "price": 4021.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-ring-6?variant=gid://shopify/ProductVariant/49667551035619",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2344_2172ab54-e2ba-4dd7-8178-64ccb9d000bd.jpg?v=1788496861"
+  },
   "gid://shopify/ProductVariant/49667782836451": {
     "product_title": "Queenly Diamond Design Pendant",
     "variant_title": "Default Title",
@@ -138139,6 +138157,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/flower-inspired-kundan-jhumkas?variant=gid://shopify/ProductVariant/49667926261987",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15966.jpg?v=1788506336"
+  },
+  "gid://shopify/ProductVariant/49667980067043": {
+    "product_title": "Glowing Kundan Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15968",
+    "price": 22133.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/glowing-kundan-jhumkas?variant=gid://shopify/ProductVariant/49667980067043",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15968.jpg?v=1788507350"
   },
   "gid://shopify/ProductVariant/49668004413667": {
     "product_title": "Swings Elegantly Kundan Jhumkas",
