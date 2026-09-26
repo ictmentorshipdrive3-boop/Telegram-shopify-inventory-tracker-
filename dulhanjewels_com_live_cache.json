@@ -3892,7 +3892,7 @@
     "variant_title": "Red",
     "sku": null,
     "price": 1750.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.dulhanjewels.com/products/jadau-kundan-jalebi-necklace-with-pearls-and-green-bead-hangings?variant=gid://shopify/ProductVariant/51841283490098",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/2F5F7120-C634-433B-8EA7-A412792C17D1.jpg?v=1788614328"
   },
@@ -4270,7 +4270,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 1450.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.dulhanjewels.com/products/elegant-jadau-kundan-pearl-choker-with-emerald-centerpiece?variant=gid://shopify/ProductVariant/51076488331570",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/C0FF5403-5EC6-4128-AEE5-62DBD710A335.jpg?v=1776768968"
   },
@@ -5866,15 +5866,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/elegant-gold-style-hipbelt-in-1gramgold?variant=gid://shopify/ProductVariant/51552462242098",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6319042614056915739.jpg?v=1786106673"
-  },
-  "gid://shopify/ProductVariant/51553603092786": {
-    "product_title": "Elegant Jadau Kundan Beads Choker With Pearl Hangings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1650.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/elegant-jadau-kundan-beads-choker-with-pearl-hangings?variant=gid://shopify/ProductVariant/51553603092786",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0008.jpg?v=1786184733"
   },
   "gid://shopify/ProductVariant/51553606304050": {
     "product_title": "Radiant Jadau Kundan Chandbali Earrings With Hangings",
@@ -7549,6 +7540,15 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/bridal-jadau-kundan-champasaralu-with-green-hangings?variant=gid://shopify/ProductVariant/51539907019058",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/647E0C20-2B87-4445-9184-37C07C78943E.jpg?v=1785845007"
+  },
+  "gid://shopify/ProductVariant/51553603092786": {
+    "product_title": "Elegant Jadau Kundan Beads Choker With Pearl Hangings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1650.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/elegant-jadau-kundan-beads-choker-with-pearl-hangings?variant=gid://shopify/ProductVariant/51553603092786",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0008.jpg?v=1786184733"
   },
   "gid://shopify/ProductVariant/51723057299762": {
     "product_title": "Victorian Polki Stud Earrings With Ruby And Emerald",
