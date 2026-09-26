@@ -4139,15 +4139,6 @@
     "url": "https://www.rasasilver.com/products/vilasika-moti-danglers?variant=gid://shopify/ProductVariant/51205552242985",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17_Sept01991.jpg?v=1759147678"
   },
-  "gid://shopify/ProductVariant/51205608177961": {
-    "product_title": "Raj-Kusum Kundan Jhumki",
-    "variant_title": "Default Title",
-    "sku": "R13494",
-    "price": 25200.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/raj-kusum-jhumkis?variant=gid://shopify/ProductVariant/51205608177961",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17_Sept0261_870daf8f-9e70-4093-b2b8-b3c60dd93889.jpg?v=1759150587"
-  },
   "gid://shopify/ProductVariant/51205652250921": {
     "product_title": "Aurevia Ruby Danglers",
     "variant_title": "Default Title",
@@ -17536,7 +17527,7 @@
     "variant_title": "GREEN",
     "sku": "R29533",
     "price": 5440.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/shiner-cz-pendant-set?variant=gid://shopify/ProductVariant/53282879242537",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262318_resized.jpg?v=1782125755"
   },
@@ -26098,6 +26089,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/dewy-petal-necklace?variant=gid://shopify/ProductVariant/51205567545641",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_83_6Aug24211_resized.jpg?v=1757931915"
+  },
+  "gid://shopify/ProductVariant/51205608177961": {
+    "product_title": "Raj-Kusum Kundan Jhumki",
+    "variant_title": "Default Title",
+    "sku": "R13494",
+    "price": 25200.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/raj-kusum-jhumkis?variant=gid://shopify/ProductVariant/51205608177961",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17_Sept0261_870daf8f-9e70-4093-b2b8-b3c60dd93889.jpg?v=1759150587"
   },
   "gid://shopify/ProductVariant/52279930552617": {
     "product_title": "Queen's Verdant Glow Bangles",
