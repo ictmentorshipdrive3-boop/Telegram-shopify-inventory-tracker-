@@ -886,7 +886,7 @@
     "variant_title": "Default Title",
     "sku": "661",
     "price": 1499.0,
-    "stock": 23,
+    "stock": 22,
     "url": "https://www.daivik.in/products/kemp-ad-necklace-with-earrings?variant=gid://shopify/ProductVariant/39476421460121",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_d7354f8b-afb9-4897-a577-4986a73512b0.jpg?v=1615818786"
   },
@@ -1363,7 +1363,7 @@
     "variant_title": "Default Title",
     "sku": "865",
     "price": 1499.0,
-    "stock": 48,
+    "stock": 47,
     "url": "https://www.daivik.in/products/floral-uncut-kemp-jhumkas?variant=gid://shopify/ProductVariant/41139968311449",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_bf75e49f-dbc7-46c6-9a5d-ad9467a5a3af.jpg?v=1631804689"
   },
@@ -7168,7 +7168,7 @@
     "variant_title": "Purple",
     "sku": "407",
     "price": 1899.0,
-    "stock": 37,
+    "stock": 36,
     "url": "https://www.daivik.in/products/lakshmi-hasli-necklace-with-balis?variant=gid://shopify/ProductVariant/45553293066462",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7CF7427E-3DF1-45D3-8D5E-580CE49F70A9.jpg?v=1718377093"
   },
@@ -7942,7 +7942,7 @@
     "variant_title": "Default Title",
     "sku": "815",
     "price": 2199.0,
-    "stock": 36,
+    "stock": 35,
     "url": "https://www.daivik.in/products/antique-lakshmi-green-stone-choker-with-balis?variant=gid://shopify/ProductVariant/45894061031646",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8AF439E5-A0E5-4842-88F8-26F577FD6BE5.jpg?v=1726586198"
   },
@@ -8053,15 +8053,6 @@
     "stock": 6,
     "url": "https://www.daivik.in/products/c?variant=gid://shopify/ProductVariant/45908646887646",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_a65ea7d9-3428-4630-ac3c-113d8e2c52c3.jpg?v=1727018763"
-  },
-  "gid://shopify/ProductVariant/45915404501214": {
-    "product_title": "Coral AD Green Stone Necklace with Studs",
-    "variant_title": "Default Title",
-    "sku": "1119",
-    "price": 1799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/coral-ad-green-stone-necklace-with-studs?variant=gid://shopify/ProductVariant/45915404501214",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F88CAC1A-BAC3-4FF6-9796-B0F957142D9D.jpg?v=1727277842"
   },
   "gid://shopify/ProductVariant/45921812742366": {
     "product_title": "Two Layered Golden Balls Lakshmi Coin Necklace with Jhumkas",
@@ -21743,6 +21734,42 @@
     "url": "https://www.daivik.in/products/stylish-ganesha-bling-pendant-set-with-chain?variant=gid://shopify/ProductVariant/49110971121886",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/551252BD-4AD0-4971-BC79-C6AE3A512D2B.jpg?v=1790354302"
   },
+  "gid://shopify/ProductVariant/49114246250718": {
+    "product_title": "2 line Kanagamaram Go Clip 16\" Artificial Flower Gajra",
+    "variant_title": "Default Title",
+    "sku": "3544",
+    "price": 3199.0,
+    "stock": 56,
+    "url": "https://www.daivik.in/products/2-line-kanagamaram-go-clip-16-artificial-flower-gajra?variant=gid://shopify/ProductVariant/49114246250718",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5835.jpg?v=1790429087"
+  },
+  "gid://shopify/ProductVariant/49114268041438": {
+    "product_title": "2 line Mullai Go Clip 16\" Artificial Flower Gajra",
+    "variant_title": "Default Title",
+    "sku": "3545",
+    "price": 3199.0,
+    "stock": 56,
+    "url": "https://www.daivik.in/products/2-line-mullai-go-clip-16-artificial-flower-gajra?variant=gid://shopify/ProductVariant/49114268041438",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5833.jpg?v=1790429413"
+  },
+  "gid://shopify/ProductVariant/49114275676382": {
+    "product_title": "2 line Jaathi Mullai Go Clip 16\" Artificial Flower Gajra",
+    "variant_title": "Default Title",
+    "sku": "3546",
+    "price": 3199.0,
+    "stock": 56,
+    "url": "https://www.daivik.in/products/2-line-jaathi-mullai-go-clip-16-artificial-flower-gajra?variant=gid://shopify/ProductVariant/49114275676382",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5837.jpg?v=1790429532"
+  },
+  "gid://shopify/ProductVariant/49114279084254": {
+    "product_title": "2 line malli Go Clip 16\" Artificial Flower Gajra",
+    "variant_title": "Default Title",
+    "sku": "3547",
+    "price": 3299.0,
+    "stock": 56,
+    "url": "https://www.daivik.in/products/2-line-malli-go-clip-16-artificial-flower-gajra?variant=gid://shopify/ProductVariant/49114279084254",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5839.jpg?v=1790429614"
+  },
   "gid://shopify/ProductVariant/34430554472601": {
     "product_title": "Regular Use Stone Set Of Four Bangles",
     "variant_title": "2.4",
@@ -26188,6 +26215,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/bridal-combo?variant=gid://shopify/ProductVariant/45890065236190",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3CD1A221-61AE-4B56-BB78-B4514AE0E08B.jpg?v=1726400342"
+  },
+  "gid://shopify/ProductVariant/45915404501214": {
+    "product_title": "Coral AD Green Stone Necklace with Studs",
+    "variant_title": "Default Title",
+    "sku": "1119",
+    "price": 1799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/coral-ad-green-stone-necklace-with-studs?variant=gid://shopify/ProductVariant/45915404501214",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F88CAC1A-BAC3-4FF6-9796-B0F957142D9D.jpg?v=1727277842"
   },
   "gid://shopify/ProductVariant/45928214724830": {
     "product_title": "Green & Golden Beads Lakshmi Motif Choker , Long Haram",
