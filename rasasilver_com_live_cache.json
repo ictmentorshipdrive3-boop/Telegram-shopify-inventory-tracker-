@@ -620,15 +620,6 @@
     "url": "https://www.rasasilver.com/products/kesar-chameli-pendant?variant=gid://shopify/ProductVariant/50062067204393",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/8_1.jpg?v=1742995812"
   },
-  "gid://shopify/ProductVariant/50062342521129": {
-    "product_title": "Surya Prabha Navaratna Necklace",
-    "variant_title": "Default Title",
-    "sku": "R36986",
-    "price": 20910.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/surya-prabha-navaratna-necklace?variant=gid://shopify/ProductVariant/50062342521129",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/28.jpg?v=1743503375"
-  },
   "gid://shopify/ProductVariant/50063302721833": {
     "product_title": "DhanyaLakshmi Short Necklace",
     "variant_title": "Default Title",
@@ -14705,15 +14696,6 @@
     "url": "https://www.rasasilver.com/products/shringari-daab?variant=gid://shopify/ProductVariant/52866200142121",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_26_Mar20683_resized.jpg?v=1775028522"
   },
-  "gid://shopify/ProductVariant/52866225275177": {
-    "product_title": "Ciravelle Kundan Choker",
-    "variant_title": "Default Title",
-    "sku": "R24937",
-    "price": 33065.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/kamalora-kundan-choker-copy?variant=gid://shopify/ProductVariant/52866225275177",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar00431_resized.jpg?v=1775219344"
-  },
   "gid://shopify/ProductVariant/52866252112169": {
     "product_title": "Vasanthika Stone Choker",
     "variant_title": "Default Title",
@@ -15380,15 +15362,6 @@
     "url": "https://www.rasasilver.com/products/pearvanshi-cz-necklace-set?variant=gid://shopify/ProductVariant/52885629600041",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0606_resized.jpg?v=1775566411"
   },
-  "gid://shopify/ProductVariant/52885644280105": {
-    "product_title": "Rosinika CZ Choker Set",
-    "variant_title": "Default Title",
-    "sku": "R26904",
-    "price": 44540.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/tearikaaya-cz-necklace-set-copy?variant=gid://shopify/ProductVariant/52885644280105",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0125_resized.jpg?v=1775567420"
-  },
   "gid://shopify/ProductVariant/52885683372329": {
     "product_title": "Elegant Spark CZ Necklace Set",
     "variant_title": "Default Title",
@@ -15403,7 +15376,7 @@
     "variant_title": "Default Title",
     "sku": "R26707",
     "price": 34255.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/ratna-cz-necklace?variant=gid://shopify/ProductVariant/52885692776745",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0067_resized.jpg?v=1775137148"
   },
@@ -22723,6 +22696,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/kashi-padmini-short-necklace?variant=gid://shopify/ProductVariant/51407841919273",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0296_resized.jpg?v=1762255331"
+  },
+  "gid://shopify/ProductVariant/50062342521129": {
+    "product_title": "Surya Prabha Navaratna Necklace",
+    "variant_title": "Default Title",
+    "sku": "R36986",
+    "price": 20910.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/surya-prabha-navaratna-necklace?variant=gid://shopify/ProductVariant/50062342521129",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/28.jpg?v=1743503375"
   },
   "gid://shopify/ProductVariant/50869189083433": {
     "product_title": "Raghukul Ratnaraj Studs",
@@ -41840,6 +41822,15 @@
     "url": "https://www.rasasilver.com/products/rosavira-antique-choker-copy?variant=gid://shopify/ProductVariant/52866174681385",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0293_resized.jpg?v=1775218097"
   },
+  "gid://shopify/ProductVariant/52866225275177": {
+    "product_title": "Ciravelle Kundan Choker",
+    "variant_title": "Default Title",
+    "sku": "R24937",
+    "price": 33065.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/kamalora-kundan-choker-copy?variant=gid://shopify/ProductVariant/52866225275177",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar00431_resized.jpg?v=1775219344"
+  },
   "gid://shopify/ProductVariant/52866227667241": {
     "product_title": "Varna-Gowri Temple Oddiyanam",
     "variant_title": "Default Title",
@@ -42442,6 +42433,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/crystal-shine-cz-necklace?variant=gid://shopify/ProductVariant/52885509144873",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0004_resized.jpg?v=1775132328"
+  },
+  "gid://shopify/ProductVariant/52885644280105": {
+    "product_title": "Rosinika CZ Choker Set",
+    "variant_title": "Default Title",
+    "sku": "R26904",
+    "price": 44540.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/tearikaaya-cz-necklace-set-copy?variant=gid://shopify/ProductVariant/52885644280105",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0125_resized.jpg?v=1775567420"
   },
   "gid://shopify/ProductVariant/52885649522985": {
     "product_title": "Rectoriae CZ Necklace Set",
