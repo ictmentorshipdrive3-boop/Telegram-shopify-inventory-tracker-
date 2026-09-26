@@ -1516,7 +1516,7 @@
     "variant_title": "Default Title",
     "sku": "909",
     "price": 1099.0,
-    "stock": 20,
+    "stock": 19,
     "url": "https://www.daivik.in/products/simple-kemp-studs-in-2-variants?variant=gid://shopify/ProductVariant/41359794864281",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_858e6c74-1aac-4152-b929-262cb3e584d2.jpg?v=1634309760"
   },
@@ -8944,15 +8944,6 @@
     "stock": 7,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d24353?variant=gid://shopify/ProductVariant/45947694743774",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1450.jpg?v=1728594691"
-  },
-  "gid://shopify/ProductVariant/45948739944670": {
-    "product_title": "AD Designer Mangalsutra (Prices for Each)",
-    "variant_title": "Ruby",
-    "sku": "1123",
-    "price": 649.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-designer-mangalsutra-prices-for-each?variant=gid://shopify/ProductVariant/45948739944670",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4561EA22-5E5D-4C06-8C1E-576C8A8FCDA2.jpg?v=1728493290"
   },
   "gid://shopify/ProductVariant/45948739977438": {
     "product_title": "AD Designer Mangalsutra (Prices for Each)",
@@ -20551,7 +20542,7 @@
     "variant_title": "2.6",
     "sku": "1924",
     "price": 2299.0,
-    "stock": 19,
+    "stock": 17,
     "url": "https://www.daivik.in/products/10-in-1-changeable-bangles?variant=gid://shopify/ProductVariant/48422119506142",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/JPEGimage-43A4-8F99-E6-0.jpg?v=1783684450"
   },
@@ -20560,7 +20551,7 @@
     "variant_title": "2.8",
     "sku": "1924",
     "price": 2299.0,
-    "stock": 30,
+    "stock": 29,
     "url": "https://www.daivik.in/products/10-in-1-changeable-bangles?variant=gid://shopify/ProductVariant/48422119538910",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/JPEGimage-43A4-8F99-E6-0.jpg?v=1783684450"
   },
@@ -26413,6 +26404,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d24348?variant=gid://shopify/ProductVariant/45952025133278",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1397.jpg?v=1728594578"
+  },
+  "gid://shopify/ProductVariant/45948739944670": {
+    "product_title": "AD Designer Mangalsutra (Prices for Each)",
+    "variant_title": "Ruby",
+    "sku": "1123",
+    "price": 649.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-designer-mangalsutra-prices-for-each?variant=gid://shopify/ProductVariant/45948739944670",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4561EA22-5E5D-4C06-8C1E-576C8A8FCDA2.jpg?v=1728493290"
   },
   "gid://shopify/ProductVariant/45950543331550": {
     "product_title": "Diwali Sale Bangles D24403",
