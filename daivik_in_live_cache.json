@@ -6475,7 +6475,7 @@
     "variant_title": "2.4",
     "sku": "542",
     "price": 1099.0,
-    "stock": 13,
+    "stock": 12,
     "url": "https://www.daivik.in/products/lakshmi-ad-rubygreen-bangles?variant=gid://shopify/ProductVariant/45058364440798",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/20F3EC4C-9A6D-47FB-8DC7-060885742334.jpg?v=1712162963"
   },
@@ -6484,7 +6484,7 @@
     "variant_title": "2.6",
     "sku": "542",
     "price": 1099.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/lakshmi-ad-rubygreen-bangles?variant=gid://shopify/ProductVariant/45058364473566",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/20F3EC4C-9A6D-47FB-8DC7-060885742334.jpg?v=1712162963"
   },
@@ -6853,7 +6853,7 @@
     "variant_title": "2.6",
     "sku": "908",
     "price": 1299.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/lakshmi-rubygreen-bangles-set-of-4?variant=gid://shopify/ProductVariant/45355639931102",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3DF6E6AF-2D3C-44C8-8AC2-FD37770A7F84.jpg?v=1715354017"
   },
@@ -8440,15 +8440,6 @@
     "stock": 1,
     "url": "https://www.daivik.in/products/heavy-bridal-ad-stone-necklace-with-earrings-and-teeka?variant=gid://shopify/ProductVariant/45937488429278",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9571.heic?v=1728143729"
-  },
-  "gid://shopify/ProductVariant/45939774456030": {
-    "product_title": "AD Ruby Green Lakshmi Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "723",
-    "price": 1599.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-ruby-green-lakshmi-necklace-with-earrings?variant=gid://shopify/ProductVariant/45939774456030",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/67556D0D-3FB7-4B15-B3F2-F6C4C370B9BE.jpg?v=1728246059"
   },
   "gid://shopify/ProductVariant/45941953593566": {
     "product_title": "AD Ruby Green Long Haram with Jhumkas",
@@ -16672,7 +16663,7 @@
     "variant_title": "Default Title",
     "sku": "567",
     "price": 2799.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/green-and-golden-beads-lakshmi-coin-mala-with-jhumkas?variant=gid://shopify/ProductVariant/47703677010142",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7645.heic?v=1763816192"
   },
@@ -17554,7 +17545,7 @@
     "variant_title": "Default Title",
     "sku": "941",
     "price": 1099.0,
-    "stock": 23,
+    "stock": 22,
     "url": "https://www.daivik.in/products/adults-kids-peacock-pendant-choker-with-earrings?variant=gid://shopify/ProductVariant/47864510644446",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/73D648A1-7323-42C8-B987-0483534F1836.jpg?v=1769616072"
   },
@@ -26269,6 +26260,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/heavy-bridal-ad-stone-necklace-with-earrings-and-teeka?variant=gid://shopify/ProductVariant/45937488396510",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9571.heic?v=1728143729"
+  },
+  "gid://shopify/ProductVariant/45939774456030": {
+    "product_title": "AD Ruby Green Lakshmi Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "723",
+    "price": 1599.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-ruby-green-lakshmi-necklace-with-earrings?variant=gid://shopify/ProductVariant/45939774456030",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/67556D0D-3FB7-4B15-B3F2-F6C4C370B9BE.jpg?v=1728246059"
   },
   "gid://shopify/ProductVariant/45953797980382": {
     "product_title": "Diwali Sale Necklace D24177",
