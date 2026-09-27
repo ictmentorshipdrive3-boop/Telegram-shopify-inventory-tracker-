@@ -805,7 +805,7 @@
     "variant_title": "Default Title",
     "sku": "R1941",
     "price": 15725.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/saubhagya-lakshmi-pendant?variant=gid://shopify/ProductVariant/50108983607593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP08110_copy.jpg?v=1744463196"
   },
@@ -12050,15 +12050,6 @@
     "url": "https://www.rasasilver.com/products/keshira-crecent-moon-studs?variant=gid://shopify/ProductVariant/52623173976361",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0144copy_resized_1.jpg?v=1770881266"
   },
-  "gid://shopify/ProductVariant/52623181906217": {
-    "product_title": "Gulika Antique Jhumki",
-    "variant_title": "Ruby Pink",
-    "sku": "R23370",
-    "price": 9300.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/gulika-antique-jhumki?variant=gid://shopify/ProductVariant/52623181906217",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0053_copy_resized_3.jpg?v=1770960789"
-  },
   "gid://shopify/ProductVariant/52667271184681": {
     "product_title": "Floweret Antique Ring",
     "variant_title": "6",
@@ -18998,15 +18989,6 @@
     "url": "https://www.rasasilver.com/products/kasu-temple-mangalsutra?variant=gid://shopify/ProductVariant/53307246117161",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41301_resized.jpg?v=1783684252"
   },
-  "gid://shopify/ProductVariant/53307255390505": {
-    "product_title": "Lakshmi Temple Mangalsutra",
-    "variant_title": "Swarovski",
-    "sku": "R31248",
-    "price": 8755.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/lakshmi-temple-mangalsutra?variant=gid://shopify/ProductVariant/53307255390505",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41304_resized.jpg?v=1783687353"
-  },
   "gid://shopify/ProductVariant/53307255423273": {
     "product_title": "Lakshmi Temple Mangalsutra",
     "variant_title": "Orange",
@@ -19033,15 +19015,6 @@
     "stock": 2,
     "url": "https://www.rasasilver.com/products/muralidhara-temple-pendant?variant=gid://shopify/ProductVariant/53307676885289",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40250_resized.jpg?v=1783680048"
-  },
-  "gid://shopify/ProductVariant/53308711633193": {
-    "product_title": "Kasu Temple Pendant",
-    "variant_title": "Default Title",
-    "sku": "R31331",
-    "price": 5865.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/kasu-temple-pendant?variant=gid://shopify/ProductVariant/53308711633193",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40247_resized.jpg?v=1783680556"
   },
   "gid://shopify/ProductVariant/53308726083881": {
     "product_title": "Queen's Green CZ Necklace Set",
@@ -19417,7 +19390,7 @@
     "variant_title": "Default Title",
     "sku": "R31985",
     "price": 1445.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.rasasilver.com/products/minimal-plain-chain?variant=gid://shopify/ProductVariant/53329485431081",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0841_resized.jpg?v=1784115244"
   },
@@ -22063,7 +22036,7 @@
     "variant_title": "Default Title",
     "sku": "R30484",
     "price": 4300.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.rasasilver.com/products/back-chain?variant=gid://shopify/ProductVariant/53426656870697",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageAug24_2026_12_36_13PM.png?v=1787555201"
   },
@@ -38951,6 +38924,15 @@
     "url": "https://www.rasasilver.com/products/pranika-oval-cz-studs?variant=gid://shopify/ProductVariant/52623157330217",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0025copy_resized_1.jpg?v=1770888001"
   },
+  "gid://shopify/ProductVariant/52623181906217": {
+    "product_title": "Gulika Antique Jhumki",
+    "variant_title": "Ruby Pink",
+    "sku": "R23370",
+    "price": 9300.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/gulika-antique-jhumki?variant=gid://shopify/ProductVariant/52623181906217",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0053_copy_resized_3.jpg?v=1770960789"
+  },
   "gid://shopify/ProductVariant/52623181938985": {
     "product_title": "Gulika Antique Jhumki",
     "variant_title": "Gold",
@@ -46628,6 +46610,15 @@
     "url": "https://www.rasasilver.com/products/kasu-temple-mangalsutra?variant=gid://shopify/ProductVariant/53307246084393",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41301_resized.jpg?v=1783684252"
   },
+  "gid://shopify/ProductVariant/53307255390505": {
+    "product_title": "Lakshmi Temple Mangalsutra",
+    "variant_title": "Swarovski",
+    "sku": "R31248",
+    "price": 8755.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/lakshmi-temple-mangalsutra?variant=gid://shopify/ProductVariant/53307255390505",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41304_resized.jpg?v=1783687353"
+  },
   "gid://shopify/ProductVariant/53307532083497": {
     "product_title": "Swarna-Harita Stone Pendant",
     "variant_title": "Default Title",
@@ -46645,6 +46636,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/divine-temple-pendant?variant=gid://shopify/ProductVariant/53308704063785",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40238_resized.jpg?v=1783689668"
+  },
+  "gid://shopify/ProductVariant/53308711633193": {
+    "product_title": "Kasu Temple Pendant",
+    "variant_title": "Default Title",
+    "sku": "R31331",
+    "price": 5865.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/kasu-temple-pendant?variant=gid://shopify/ProductVariant/53308711633193",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40247_resized.jpg?v=1783680556"
   },
   "gid://shopify/ProductVariant/53308713992489": {
     "product_title": "Mayuri Stone Necklace",
