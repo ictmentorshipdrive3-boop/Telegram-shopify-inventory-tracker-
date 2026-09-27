@@ -1219,7 +1219,7 @@
     "variant_title": "2.4",
     "sku": "R14974",
     "price": 21400.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.rasasilver.com/products/mani-bandha-bangles?variant=gid://shopify/ProductVariant/52263721697577",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP02168copy.jpg?v=1746169054"
   },
@@ -10763,15 +10763,6 @@
     "url": "https://www.rasasilver.com/products/ruhani-moissanite-danglers?variant=gid://shopify/ProductVariant/52527769878825",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0149copy_1.jpg?v=1770100479"
   },
-  "gid://shopify/ProductVariant/52528012591401": {
-    "product_title": "Rosy Ruby Victorian Danglers",
-    "variant_title": "Default Title",
-    "sku": "R22132",
-    "price": 11600.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/rosy-ruby-victorian-danglers?variant=gid://shopify/ProductVariant/52528012591401",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0274copy.jpg?v=1770104867"
-  },
   "gid://shopify/ProductVariant/52528055124265": {
     "product_title": "Pear-Bloom Victorian Danglers",
     "variant_title": "Default Title",
@@ -11536,15 +11527,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/redora-green-victorian-necklace?variant=gid://shopify/ProductVariant/52554339746089",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_113_Pics_29Jan4140.jpg?v=1770296801"
-  },
-  "gid://shopify/ProductVariant/52554371334441": {
-    "product_title": "Pear of Fire Victorian Kanti",
-    "variant_title": "Default Title",
-    "sku": "R24289",
-    "price": 19040.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/pear-of-fire-victorian-kanti?variant=gid://shopify/ProductVariant/52554371334441",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_30Jan2435_resized.jpg?v=1770477158"
   },
   "gid://shopify/ProductVariant/52554382475561": {
     "product_title": "Pear Leaf Victorian Kanti",
@@ -37844,6 +37826,15 @@
     "url": "https://www.rasasilver.com/products/rose-victorian-danglers-1?variant=gid://shopify/ProductVariant/52527783084329",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0248copy_03f79bcb-d334-4d39-998e-188d8a1d8933.jpg?v=1770100971"
   },
+  "gid://shopify/ProductVariant/52528012591401": {
+    "product_title": "Rosy Ruby Victorian Danglers",
+    "variant_title": "Default Title",
+    "sku": "R22132",
+    "price": 11600.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/rosy-ruby-victorian-danglers?variant=gid://shopify/ProductVariant/52528012591401",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0274copy.jpg?v=1770104867"
+  },
   "gid://shopify/ProductVariant/52528018915625": {
     "product_title": "Riyana Victorian Danglers",
     "variant_title": "Default Title",
@@ -38329,6 +38320,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/pear-fleur-victorian-kanti?variant=gid://shopify/ProductVariant/52554364682537",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_30Jan2494_resized.jpg?v=1770477018"
+  },
+  "gid://shopify/ProductVariant/52554371334441": {
+    "product_title": "Pear of Fire Victorian Kanti",
+    "variant_title": "Default Title",
+    "sku": "R24289",
+    "price": 19040.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/pear-of-fire-victorian-kanti?variant=gid://shopify/ProductVariant/52554371334441",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_30Jan2435_resized.jpg?v=1770477158"
   },
   "gid://shopify/ProductVariant/52559344304425": {
     "product_title": "Trikosha Nakshi Necklace",
