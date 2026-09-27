@@ -3068,15 +3068,6 @@
     "url": "https://www.kanshijewels.com/products/jadau-kundan-earrings-91?variant=gid://shopify/ProductVariant/46477848871212",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/4500_23f68caa-f99b-4d5a-baf3-f90cfc144a5d.jpg?v=1692616802"
   },
-  "gid://shopify/ProductVariant/47162033766700": {
-    "product_title": "Jadau Kundan Stud Earrings",
-    "variant_title": "Default Title",
-    "sku": "ER373",
-    "price": 1890.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-kundan-stud-earrings-38?variant=gid://shopify/ProductVariant/47162033766700",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1800_c06ae68d-f228-4413-b1b3-fd7b5a1dbfc1.jpg?v=1696586868"
-  },
   "gid://shopify/ProductVariant/47162039107884": {
     "product_title": "Jadau Kundan Earrings",
     "variant_title": "Default Title",
@@ -3667,7 +3658,7 @@
     "variant_title": "Default Title",
     "sku": "ER346",
     "price": 2415.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-stud-earrings-47?variant=gid://shopify/ProductVariant/47387005550892",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/3_3fb4d714-fb11-4c7a-b7c0-7e2e8279486e.png?v=1699261450"
   },
@@ -3685,7 +3676,7 @@
     "variant_title": "Default Title",
     "sku": "ER344",
     "price": 2310.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-stud-earrings-49?variant=gid://shopify/ProductVariant/47387025342764",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1_e5d24a14-5b3c-4faf-b801-3c1f6873d0e5.png?v=1699261531"
   },
@@ -12958,6 +12949,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-heavy-necklace-116?variant=gid://shopify/ProductVariant/46477815054636",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/17000.jpg?v=1692616153"
+  },
+  "gid://shopify/ProductVariant/47162033766700": {
+    "product_title": "Jadau Kundan Stud Earrings",
+    "variant_title": "Default Title",
+    "sku": "ER373",
+    "price": 1890.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-kundan-stud-earrings-38?variant=gid://shopify/ProductVariant/47162033766700",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1800_c06ae68d-f228-4413-b1b3-fd7b5a1dbfc1.jpg?v=1696586868"
   },
   "gid://shopify/ProductVariant/47162139246892": {
     "product_title": "Jadau Kundan Pendant",
