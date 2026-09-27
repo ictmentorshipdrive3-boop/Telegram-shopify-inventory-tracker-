@@ -22,7 +22,7 @@
     "variant_title": "Default Title",
     "sku": "42",
     "price": 2499.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.daivik.in/products/42?variant=gid://shopify/ProductVariant/32600742723643",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_ae83b031-205e-453b-8bb4-cd73dcec54c8.jpg?v=1598451549"
   },
@@ -112,7 +112,7 @@
     "variant_title": "Default Title",
     "sku": "84",
     "price": 1799.0,
-    "stock": 27,
+    "stock": 26,
     "url": "https://www.daivik.in/products/84?variant=gid://shopify/ProductVariant/32623635398715",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_7793.jpg?v=1583856367"
   },
@@ -211,7 +211,7 @@
     "variant_title": "Default Title",
     "sku": "215",
     "price": 3499.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/215?variant=gid://shopify/ProductVariant/34432330399897",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_3672.jpg?v=1590311277"
   },
@@ -2308,7 +2308,7 @@
     "variant_title": "Default Title",
     "sku": "277",
     "price": 599.0,
-    "stock": 25,
+    "stock": 24,
     "url": "https://www.daivik.in/products/ad-white-gold-teeka?variant=gid://shopify/ProductVariant/42641179345118",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_cab7af53-ce70-4200-8b35-a70dcb200b07.heic?v=1648999204"
   },
@@ -2623,7 +2623,7 @@
     "variant_title": "Default Title",
     "sku": "94",
     "price": 1399.0,
-    "stock": 44,
+    "stock": 42,
     "url": "https://www.daivik.in/products/a-215?variant=gid://shopify/ProductVariant/43157328003294",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_f61ca97d-154c-44ba-bf5b-967d10a629f9.heic?v=1658503148"
   },
@@ -12442,7 +12442,7 @@
     "variant_title": "Combo",
     "sku": "1295",
     "price": 1999.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/jyothika-mam-inspired-ad-green-pendant-necklace?variant=gid://shopify/ProductVariant/47092708638942",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6D306FEB-C930-4743-A32A-FBEB4ECF8E48.jpg?v=1752941521"
   },
@@ -12721,7 +12721,7 @@
     "variant_title": "2.8",
     "sku": "1628",
     "price": 999.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/lotus-ruby-necklace-and-bangles-combo?variant=gid://shopify/ProductVariant/47087215116510",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2CBB1143-243C-46DB-BC5F-DF31AF3B5087.jpg?v=1752755144"
   },
@@ -13408,15 +13408,6 @@
     "stock": 55,
     "url": "https://www.daivik.in/products/kemp-bangles-in-2-variants?variant=gid://shopify/ProductVariant/47490361589982",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/28E11D59-774C-4D87-BE30-A43AD663C4E2.jpg?v=1756623515"
-  },
-  "gid://shopify/ProductVariant/47494541639902": {
-    "product_title": "Kemp Floral Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "1320",
-    "price": 1599.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/kemp-floral-necklace-with-earrings?variant=gid://shopify/ProductVariant/47494541639902",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/738B2E54-6B15-430C-ACDE-44463D2F90B3.jpg?v=1756829155"
   },
   "gid://shopify/ProductVariant/47496591704286": {
     "product_title": "Kemp Pearl Jadau Nose Pin/Nath in 5 Colors (Price for Each)",
@@ -28618,6 +28609,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/ad-floral-jhumkas-with-mattals?variant=gid://shopify/ProductVariant/47494054445278",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A948C879-0505-406C-B6D6-CD3E64A7A0C0.jpg?v=1756811813"
+  },
+  "gid://shopify/ProductVariant/47494541639902": {
+    "product_title": "Kemp Floral Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "1320",
+    "price": 1599.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/kemp-floral-necklace-with-earrings?variant=gid://shopify/ProductVariant/47494541639902",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/738B2E54-6B15-430C-ACDE-44463D2F90B3.jpg?v=1756829155"
   },
   "gid://shopify/ProductVariant/47500939493598": {
     "product_title": "Radhe Krishna KumKum Box",
