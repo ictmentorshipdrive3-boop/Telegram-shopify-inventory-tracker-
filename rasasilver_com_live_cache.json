@@ -44,15 +44,6 @@
     "url": "https://www.rasasilver.com/products/sunflower-emerald-necklace?variant=gid://shopify/ProductVariant/49810115264809",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-33_64c79fd9-9182-4462-bf5b-7be7fc554e68.jpg?v=1740812666"
   },
-  "gid://shopify/ProductVariant/49810382946601": {
-    "product_title": "Semi Stiff Mango Necklace",
-    "variant_title": "Default Title",
-    "sku": "R1664",
-    "price": 40545.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/semi-stiff-mango-necklace?variant=gid://shopify/ProductVariant/49810382946601",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP03630_copy.jpg?v=1750077274"
-  },
   "gid://shopify/ProductVariant/49810493538601": {
     "product_title": "Ramrajya Single Line Necklace",
     "variant_title": "Default Title",
@@ -619,15 +610,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/kesar-chameli-pendant?variant=gid://shopify/ProductVariant/50062067204393",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/8_1.jpg?v=1742995812"
-  },
-  "gid://shopify/ProductVariant/50062342521129": {
-    "product_title": "Surya Prabha Navaratna Necklace",
-    "variant_title": "Default Title",
-    "sku": "R36986",
-    "price": 20910.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/surya-prabha-navaratna-necklace?variant=gid://shopify/ProductVariant/50062342521129",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/28.jpg?v=1743503375"
   },
   "gid://shopify/ProductVariant/50063302721833": {
     "product_title": "DhanyaLakshmi Short Necklace",
@@ -22589,6 +22571,15 @@
     "url": "https://www.rasasilver.com/products/gajamukha-lakshmi-pendant?variant=gid://shopify/ProductVariant/49809691246889",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-3_9b800783-ae32-4778-8fd7-a4da6383a019.jpg?v=1740807105"
   },
+  "gid://shopify/ProductVariant/49810382946601": {
+    "product_title": "Semi Stiff Mango Necklace",
+    "variant_title": "Default Title",
+    "sku": "R1664",
+    "price": 40545.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/semi-stiff-mango-necklace?variant=gid://shopify/ProductVariant/49810382946601",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP03630_copy.jpg?v=1750077274"
+  },
   "gid://shopify/ProductVariant/49856597590313": {
     "product_title": "Mirnali Victorian Danglers",
     "variant_title": "Default Title",
@@ -22714,6 +22705,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/kashi-padmini-short-necklace?variant=gid://shopify/ProductVariant/51407841919273",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0296_resized.jpg?v=1762255331"
+  },
+  "gid://shopify/ProductVariant/50062342521129": {
+    "product_title": "Surya Prabha Navaratna Necklace",
+    "variant_title": "Default Title",
+    "sku": "R36986",
+    "price": 20910.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/surya-prabha-navaratna-necklace?variant=gid://shopify/ProductVariant/50062342521129",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/28.jpg?v=1743503375"
   },
   "gid://shopify/ProductVariant/50869189083433": {
     "product_title": "Raghukul Ratnaraj Studs",
