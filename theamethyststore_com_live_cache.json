@@ -17868,7 +17868,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 26600.0,
+    "price": 25000.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -60542,15 +60542,6 @@
     "url": "https://www.theamethyststore.com/products/rukmani-nagas-tikka?variant=gid://shopify/ProductVariant/48324065558755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2203-_2.jpg?v=1772365310"
   },
-  "gid://shopify/ProductVariant/48324133454051": {
-    "product_title": "Aswaki Stone Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-14837",
-    "price": 22056.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/aswaki-stone-short-necklace?variant=gid://shopify/ProductVariant/48324133454051",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14837.jpg?v=1772367268"
-  },
   "gid://shopify/ProductVariant/48324136829155": {
     "product_title": "Vidhya Nagas Tikka",
     "variant_title": "Default Title",
@@ -79982,15 +79973,6 @@
     "url": "https://www.theamethyststore.com/products/boho-earrings-8?variant=gid://shopify/ProductVariant/49409158512867",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14937.jpg?v=1784096284"
   },
-  "gid://shopify/ProductVariant/49409174208739": {
-    "product_title": "Sharvya Boho Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14940",
-    "price": 6100.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/boho-earrings-10?variant=gid://shopify/ProductVariant/49409174208739",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14940.jpg?v=1784096677"
-  },
   "gid://shopify/ProductVariant/49409174241507": {
     "product_title": "Luxurious Boho Short Necklace",
     "variant_title": "Default Title",
@@ -94282,15 +94264,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/divine-look-stone-jhumkas?variant=gid://shopify/ProductVariant/49553524621539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15142.jpg?v=1787040594"
-  },
-  "gid://shopify/ProductVariant/49553533403363": {
-    "product_title": "Janani Stone Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15144",
-    "price": 18170.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/janani-stone-jhumkas-1?variant=gid://shopify/ProductVariant/49553533403363",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15144.jpg?v=1787040708"
   },
   "gid://shopify/ProductVariant/49553607491811": {
     "product_title": "Dhanvitha Stone Jhumkas",
@@ -124658,6 +124631,15 @@
     "url": "https://www.theamethyststore.com/products/liayana-stone-short-necklace?variant=gid://shopify/ProductVariant/48324129652963",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14836_70e16350-528a-4832-99a9-b9c813a3ef64.jpg?v=1772366376"
   },
+  "gid://shopify/ProductVariant/48324133454051": {
+    "product_title": "Aswaki Stone Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-14837",
+    "price": 22056.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/aswaki-stone-short-necklace?variant=gid://shopify/ProductVariant/48324133454051",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14837.jpg?v=1772367268"
+  },
   "gid://shopify/ProductVariant/48324168581347": {
     "product_title": "Bhuvi Nagas Tikka",
     "variant_title": "Default Title",
@@ -134081,6 +134063,15 @@
     "url": "https://www.theamethyststore.com/products/boho-earrings-9?variant=gid://shopify/ProductVariant/49409161068771",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14931.jpg?v=1784096466"
   },
+  "gid://shopify/ProductVariant/49409174208739": {
+    "product_title": "Sharvya Boho Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14940",
+    "price": 6100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/boho-earrings-10?variant=gid://shopify/ProductVariant/49409174208739",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14940.jpg?v=1784096677"
+  },
   "gid://shopify/ProductVariant/49409185448163": {
     "product_title": "Vintage Art Boho Long Earrings",
     "variant_title": "Default Title",
@@ -137311,6 +137302,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/livisha-kundan-long-earrings?variant=gid://shopify/ProductVariant/49553383588067",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15757.jpg?v=1787039178"
+  },
+  "gid://shopify/ProductVariant/49553533403363": {
+    "product_title": "Janani Stone Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15144",
+    "price": 18170.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/janani-stone-jhumkas-1?variant=gid://shopify/ProductVariant/49553533403363",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15144.jpg?v=1787040708"
   },
   "gid://shopify/ProductVariant/49554367381731": {
     "product_title": "Anita Kundan Pair Bangles",
