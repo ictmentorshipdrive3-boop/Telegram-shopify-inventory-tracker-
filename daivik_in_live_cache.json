@@ -11425,7 +11425,7 @@
     "variant_title": "Ruby Green",
     "sku": "982",
     "price": 699.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/invisible-ad-leaf-necklace-with-earrings-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/46601934045406",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1BC5AE9E-3283-41C7-AE2B-A526038DB48D.jpg?v=1744559542"
   },
@@ -15790,7 +15790,7 @@
     "variant_title": "Green",
     "sku": "711",
     "price": 3199.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/ad-pearl-mala-set-with-earrings?variant=gid://shopify/ProductVariant/47564628525278",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B39AF4BE-97D6-41F8-BEF0-DC096CF7AB91.jpg?v=1758992132"
   },
@@ -16249,7 +16249,7 @@
     "variant_title": "Default Title",
     "sku": "3509",
     "price": 299.0,
-    "stock": 20,
+    "stock": 19,
     "url": "https://www.daivik.in/products/b-2?variant=gid://shopify/ProductVariant/47648715538654",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/965E7C72-A319-4666-8B5A-09D882379028.jpg?v=1762013720"
   },
@@ -16942,7 +16942,7 @@
     "variant_title": "3",
     "sku": "1755",
     "price": 399.0,
-    "stock": 42,
+    "stock": 41,
     "url": "https://www.daivik.in/products/simple-hip-chains-in-3-variants-price-for-each?variant=gid://shopify/ProductVariant/47745938751710",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1969_d048f3be-26f6-48fd-ace1-d36106561cb7.jpg?v=1765458461"
   },
@@ -19997,15 +19997,6 @@
     "url": "https://www.daivik.in/products/lakshmi-cluster-golden-pearl-necklace-with-jhumkas?variant=gid://shopify/ProductVariant/48320060719326",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A816433E-EBB3-4EFC-9946-1EDDCA9AC743.jpg?v=1781020199"
   },
-  "gid://shopify/ProductVariant/48328321532126": {
-    "product_title": "Premium Traditional Pure Kemp Brass Garudan Long Necklace with Lakshmi Coin Drops",
-    "variant_title": "Default Title",
-    "sku": "276",
-    "price": 9999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/premium-traditional-pure-kemp-brass-phoenix-long-necklace-with-lakshmi-coin-drops?variant=gid://shopify/ProductVariant/48328321532126",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5559BE28-C131-43FE-95A7-2AD11F666379.jpg?v=1781190679"
-  },
   "gid://shopify/ProductVariant/48332857704670": {
     "product_title": "Peacock Style Hair Clip",
     "variant_title": "Default Title",
@@ -20335,7 +20326,7 @@
     "variant_title": "Default Title",
     "sku": "959",
     "price": 4999.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/antique-kemp-lakshmi-pearl-choker-with-earrings?variant=gid://shopify/ProductVariant/48383619760350",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5412.jpg?v=1782748252"
   },
@@ -30472,6 +30463,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/premium-ad-jada-billa-with-mattal?variant=gid://shopify/ProductVariant/48309064794334",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/29615296-F9D7-4848-A680-A6B169A5C3BD.jpg?v=1780676900"
+  },
+  "gid://shopify/ProductVariant/48328321532126": {
+    "product_title": "Premium Traditional Pure Kemp Brass Garudan Long Necklace with Lakshmi Coin Drops",
+    "variant_title": "Default Title",
+    "sku": "276",
+    "price": 9999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/premium-traditional-pure-kemp-brass-phoenix-long-necklace-with-lakshmi-coin-drops?variant=gid://shopify/ProductVariant/48328321532126",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5559BE28-C131-43FE-95A7-2AD11F666379.jpg?v=1781190679"
   },
   "gid://shopify/ProductVariant/48332854886622": {
     "product_title": "Kemp Flower Rice Pearl Hair Clip",
