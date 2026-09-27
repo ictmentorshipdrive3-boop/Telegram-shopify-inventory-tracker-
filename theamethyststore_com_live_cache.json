@@ -17859,7 +17859,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 26600.0,
+    "price": 25000.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -74834,15 +74834,6 @@
     "url": "https://www.theamethyststore.com/products/genisha-nagas-drops-earrings?variant=gid://shopify/ProductVariant/49323166564579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14495.jpg?v=1782645836"
   },
-  "gid://shopify/ProductVariant/49323315101923": {
-    "product_title": "Traditional Nagas Drops Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14492",
-    "price": 4405.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/traditional-nagas-drops-earrings-1?variant=gid://shopify/ProductVariant/49323315101923",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14492.jpg?v=1782649451"
-  },
   "gid://shopify/ProductVariant/49323330797795": {
     "product_title": "Mahitha Nagas Drops Earrings",
     "variant_title": "Default Title",
@@ -85948,15 +85939,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/avikam-earrings-14?variant=gid://shopify/ProductVariant/49483593646307",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15085.jpg?v=1785583889"
-  },
-  "gid://shopify/ProductVariant/49483629822179": {
-    "product_title": "Erisha Avikam Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15086",
-    "price": 5800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/avikam-earrings-15?variant=gid://shopify/ProductVariant/49483629822179",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15086.jpg?v=1785585250"
   },
   "gid://shopify/ProductVariant/49483633852643": {
     "product_title": "Charming Pakshi Short Necklace Set",
@@ -131741,6 +131723,15 @@
     "url": "https://www.theamethyststore.com/products/heritage-nagas-drops-earrings?variant=gid://shopify/ProductVariant/49322889150691",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14501.jpg?v=1782643676"
   },
+  "gid://shopify/ProductVariant/49323315101923": {
+    "product_title": "Traditional Nagas Drops Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14492",
+    "price": 4405.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/traditional-nagas-drops-earrings-1?variant=gid://shopify/ProductVariant/49323315101923",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14492.jpg?v=1782649451"
+  },
   "gid://shopify/ProductVariant/49323326243043": {
     "product_title": "Nithisha Nagas Drops Earrings",
     "variant_title": "Default Title",
@@ -135439,6 +135430,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/avikam-earrings-13?variant=gid://shopify/ProductVariant/49483589976291",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15084.jpg?v=1785583721"
+  },
+  "gid://shopify/ProductVariant/49483629822179": {
+    "product_title": "Erisha Avikam Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15086",
+    "price": 5800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/avikam-earrings-15?variant=gid://shopify/ProductVariant/49483629822179",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15086.jpg?v=1785585250"
   },
   "gid://shopify/ProductVariant/49483638341859": {
     "product_title": "Shinning Pakshi Short Necklace Set",
