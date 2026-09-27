@@ -2632,7 +2632,7 @@
     "variant_title": "Default Title",
     "sku": "432",
     "price": 899.0,
-    "stock": 23,
+    "stock": 22,
     "url": "https://www.daivik.in/products/a-225?variant=gid://shopify/ProductVariant/43212378439902",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_f6b01fa0-137c-4333-b8ec-463d4542e32a.heic?v=1659180660"
   },
@@ -5812,15 +5812,6 @@
     "stock": 24,
     "url": "https://www.daivik.in/products/matte-gold-finish-uncut-long-haram-with-earrings?variant=gid://shopify/ProductVariant/44656979050718",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/81A8AA1C-8D5C-4BB1-A674-F9A086EB385A.jpg?v=1704816121"
-  },
-  "gid://shopify/ProductVariant/44659167101150": {
-    "product_title": "2 Line AD Droplet Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "337",
-    "price": 1499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/2-line-ad-droplet-necklace-with-earrings?variant=gid://shopify/ProductVariant/44659167101150",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CDF01663-3E25-4D34-985D-84EF924E2F26.jpg?v=1704901396"
   },
   "gid://shopify/ProductVariant/44661107065054": {
     "product_title": "Simple Pearl Kemp choker with Earrings in 2 variants",
@@ -21019,7 +21010,7 @@
     "variant_title": "Default Title",
     "sku": "717",
     "price": 1299.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.daivik.in/products/gj-polish-ad-designer-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48593586782430",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1314.jpg?v=1786535105"
   },
@@ -21298,7 +21289,7 @@
     "variant_title": "Default Title",
     "sku": "1956",
     "price": 499.0,
-    "stock": 45,
+    "stock": 44,
     "url": "https://www.daivik.in/products/simple-flower-studs?variant=gid://shopify/ProductVariant/48836480336094",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1568.jpg?v=1788072533"
   },
@@ -21415,7 +21406,7 @@
     "variant_title": "Default Title",
     "sku": "488",
     "price": 799.0,
-    "stock": 23,
+    "stock": 22,
     "url": "https://www.daivik.in/products/simple-floral-ad-necklace-with-earrings?variant=gid://shopify/ProductVariant/48985131319518",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/53910C78-C962-46D8-BB1C-E44040AFBD78.jpg?v=1788616543"
   },
@@ -21667,7 +21658,7 @@
     "variant_title": "2.8",
     "sku": "1971",
     "price": 3499.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/ad-pearl-antique-ruby-bangle-combo?variant=gid://shopify/ProductVariant/49099901829342",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/06B2F590-5FE6-4FAA-98FE-5F1586897C02.jpg?v=1790180007"
   },
@@ -25360,6 +25351,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/green-pendant-in-three-line-star-necklace-with-earrings?variant=gid://shopify/ProductVariant/44793924649182",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0FDA31D2-E645-4797-A9F0-A75EAEAD3F5F.heic?v=1703516890"
+  },
+  "gid://shopify/ProductVariant/44659167101150": {
+    "product_title": "2 Line AD Droplet Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "337",
+    "price": 1499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/2-line-ad-droplet-necklace-with-earrings?variant=gid://shopify/ProductVariant/44659167101150",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CDF01663-3E25-4D34-985D-84EF924E2F26.jpg?v=1704901396"
   },
   "gid://shopify/ProductVariant/44661107032286": {
     "product_title": "Simple Pearl Kemp choker with Earrings in 2 variants",
