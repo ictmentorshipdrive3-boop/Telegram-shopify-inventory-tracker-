@@ -13841,15 +13841,6 @@
     "url": "https://www.rasasilver.com/products/mayurajit-kundan-short-necklace-copy?variant=gid://shopify/ProductVariant/52855024877865",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/RasaSiver_115_Pics_6Mar36699_resized.jpg?v=1773833997"
   },
-  "gid://shopify/ProductVariant/52855024910633": {
-    "product_title": "Surabhipushpa Kundan Necklace",
-    "variant_title": "GREEN",
-    "sku": "R26450",
-    "price": 23290.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/mayurajit-kundan-short-necklace-copy?variant=gid://shopify/ProductVariant/52855024910633",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/RasaSiver_115_Pics_6Mar36699_resized.jpg?v=1773833997"
-  },
   "gid://shopify/ProductVariant/52809496690985": {
     "product_title": "Indumati Stone Pendant",
     "variant_title": "Default Title",
@@ -21976,15 +21967,6 @@
     "stock": 2,
     "url": "https://www.rasasilver.com/products/aarvini-cz-danglers?variant=gid://shopify/ProductVariant/53419078811945",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_42_51Pics0709.jpg?v=1786953988"
-  },
-  "gid://shopify/ProductVariant/53419103519017": {
-    "product_title": "Ruvayika Antique Danglers",
-    "variant_title": "Default Title",
-    "sku": "R26935",
-    "price": 5450.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/ruvayika-antique-danglers?variant=gid://shopify/ProductVariant/53419103519017",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_42_51Pics0627.jpg?v=1786953440"
   },
   "gid://shopify/ProductVariant/53419106173225": {
     "product_title": "Bhargavi Temple Danglers",
@@ -41147,6 +41129,15 @@
     "url": "https://www.rasasilver.com/products/swarnarekha-jadau-bangles?variant=gid://shopify/ProductVariant/52808948941097",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/RasaSiver_115_Pics_6Mar36846_resized.jpg?v=1773830471"
   },
+  "gid://shopify/ProductVariant/52855024910633": {
+    "product_title": "Surabhipushpa Kundan Necklace",
+    "variant_title": "GREEN",
+    "sku": "R26450",
+    "price": 23290.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/mayurajit-kundan-short-necklace-copy?variant=gid://shopify/ProductVariant/52855024910633",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/RasaSiver_115_Pics_6Mar36699_resized.jpg?v=1773833997"
+  },
   "gid://shopify/ProductVariant/52809442230569": {
     "product_title": "Kamalini Kundan Necklace",
     "variant_title": "Default Title",
@@ -48076,6 +48067,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/iravanshi-cz-danglers?variant=gid://shopify/ProductVariant/53419089264937",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_42_51Pics0718.jpg?v=1786954127"
+  },
+  "gid://shopify/ProductVariant/53419103519017": {
+    "product_title": "Ruvayika Antique Danglers",
+    "variant_title": "Default Title",
+    "sku": "R26935",
+    "price": 5450.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ruvayika-antique-danglers?variant=gid://shopify/ProductVariant/53419103519017",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_42_51Pics0627.jpg?v=1786953440"
   },
   "gid://shopify/ProductVariant/53419107090729": {
     "product_title": "Ruhanya CZ Danglers",
