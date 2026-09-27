@@ -9517,7 +9517,7 @@
     "variant_title": "Default Title",
     "sku": "R22648",
     "price": 29920.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/emova-cz-necklace-set?variant=gid://shopify/ProductVariant/52390669582633",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0180copy_resized_cf773686-9e84-469c-88ef-7225d52739b3.jpg?v=1767686297"
   },
@@ -17719,15 +17719,6 @@
     "stock": 3,
     "url": "https://www.rasasilver.com/products/swril-stone-bangles?variant=gid://shopify/ProductVariant/53283871883561",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May1703_resized.jpg?v=1782198531"
-  },
-  "gid://shopify/ProductVariant/53283964125481": {
-    "product_title": "Lustre Stone Bangles",
-    "variant_title": "2.7",
-    "sku": "R29449",
-    "price": 18190.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/lustre-stone-bangles?variant=gid://shopify/ProductVariant/53283964125481",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May1656_resized.jpg?v=1782200601"
   },
   "gid://shopify/ProductVariant/53283968745769": {
     "product_title": "Lustrelle Stone Bangles",
@@ -45592,6 +45583,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/curve-stone-bangles?variant=gid://shopify/ProductVariant/53283925917993",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May1696_resized.jpg?v=1782199769"
+  },
+  "gid://shopify/ProductVariant/53283964125481": {
+    "product_title": "Lustre Stone Bangles",
+    "variant_title": "2.7",
+    "sku": "R29449",
+    "price": 18190.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/lustre-stone-bangles?variant=gid://shopify/ProductVariant/53283964125481",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May1656_resized.jpg?v=1782200601"
   },
   "gid://shopify/ProductVariant/53284283547945": {
     "product_title": "Pear-Line Stone Bangles",
