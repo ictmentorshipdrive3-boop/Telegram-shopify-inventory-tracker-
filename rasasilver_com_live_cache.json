@@ -1583,15 +1583,6 @@
     "url": "https://www.rasasilver.com/products/om?variant=gid://shopify/ProductVariant/50346061922601",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP669.jpg?v=1757398506"
   },
-  "gid://shopify/ProductVariant/50346100359465": {
-    "product_title": "Gemspire Stud Earrings",
-    "variant_title": "Default Title",
-    "sku": "R4739",
-    "price": 4505.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/gemspire-studs?variant=gid://shopify/ProductVariant/50346100359465",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP707_1_9e89e7f1-16ad-4584-a20f-3a6c88a1a996.jpg?v=1757426934"
-  },
   "gid://shopify/ProductVariant/50355976798505": {
     "product_title": "Sunova Chain Pendant",
     "variant_title": "Default Title",
@@ -21410,15 +21401,6 @@
     "url": "https://www.rasasilver.com/products/ring-11?variant=gid://shopify/ProductVariant/53426636685609",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19385.jpg?v=1786694488"
   },
-  "gid://shopify/ProductVariant/53408381534505": {
-    "product_title": "Blushish Sparkle Ring",
-    "variant_title": "Default Title",
-    "sku": "R32750",
-    "price": 2300.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/blushish-sparkle-ring?variant=gid://shopify/ProductVariant/53408381534505",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19431.jpg?v=1786694667"
-  },
   "gid://shopify/ProductVariant/53408382681385": {
     "product_title": "Blue-Flore Ring",
     "variant_title": "Default Title",
@@ -23767,6 +23749,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/enachic-studs?variant=gid://shopify/ProductVariant/50346094199081",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP737_1.jpg?v=1757426695"
+  },
+  "gid://shopify/ProductVariant/50346100359465": {
+    "product_title": "Gemspire Stud Earrings",
+    "variant_title": "Default Title",
+    "sku": "R4739",
+    "price": 4505.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/gemspire-studs?variant=gid://shopify/ProductVariant/50346100359465",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP707_1_9e89e7f1-16ad-4584-a20f-3a6c88a1a996.jpg?v=1757426934"
   },
   "gid://shopify/ProductVariant/50346102817065": {
     "product_title": "Velmira Pearl Studs",
@@ -47599,6 +47590,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/halfmoon-moissanite-ring?variant=gid://shopify/ProductVariant/53408288473385",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0196_resized.jpg?v=1785927973"
+  },
+  "gid://shopify/ProductVariant/53408381534505": {
+    "product_title": "Blushish Sparkle Ring",
+    "variant_title": "Default Title",
+    "sku": "R32750",
+    "price": 2300.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/blushish-sparkle-ring?variant=gid://shopify/ProductVariant/53408381534505",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19431.jpg?v=1786694667"
   },
   "gid://shopify/ProductVariant/53408394117417": {
     "product_title": "Moonveil Moissanite Ring",
