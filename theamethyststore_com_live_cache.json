@@ -15295,7 +15295,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-0696",
     "price": 6728.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/malish-kundan-ring?variant=gid://shopify/ProductVariant/45972152549603",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0696.jpg?v=1738654690"
   },
@@ -17868,7 +17868,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 26600.0,
+    "price": 25000.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -79568,15 +79568,6 @@
     "url": "https://www.theamethyststore.com/products/hasli-necklace-99?variant=gid://shopify/ProductVariant/49396909506787",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16564.jpg?v=1783853003"
   },
-  "gid://shopify/ProductVariant/49396943847651": {
-    "product_title": "Arunikaa Hasli Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16568",
-    "price": 5300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/hasli-necklace-102?variant=gid://shopify/ProductVariant/49396943847651",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16568.jpg?v=1783855335"
-  },
   "gid://shopify/ProductVariant/49396987527395": {
     "product_title": "Bindhu Hasli Necklace",
     "variant_title": "Default Title",
@@ -109241,6 +109232,51 @@
     "url": "https://www.theamethyststore.com/products/zarelle-stone-studs?variant=gid://shopify/ProductVariant/67594325426403",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16265.jpg?v=1790583083"
   },
+  "gid://shopify/ProductVariant/67594359963875": {
+    "product_title": "Meticulous Diamond Design Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18251",
+    "price": 53900.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/meticulous-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/67594359963875",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18251.jpg?v=1790583308"
+  },
+  "gid://shopify/ProductVariant/67594363207907": {
+    "product_title": "Marovia Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16266",
+    "price": 3862.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/marovia-stone-studs?variant=gid://shopify/ProductVariant/67594363207907",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16266.jpg?v=1790583373"
+  },
+  "gid://shopify/ProductVariant/67594400891107": {
+    "product_title": "Artisan Adornment Avikam Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18248",
+    "price": 56900.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/artisan-adornment-avikam-necklace-set?variant=gid://shopify/ProductVariant/67594400891107",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18248.jpg?v=1790583688"
+  },
+  "gid://shopify/ProductVariant/67594409967843": {
+    "product_title": "Exquisite Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16267",
+    "price": 4901.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/exquisite-stone-studs?variant=gid://shopify/ProductVariant/67594409967843",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16267.jpg?v=1790583887"
+  },
+  "gid://shopify/ProductVariant/67594430185699": {
+    "product_title": "Radiant Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16268",
+    "price": 4100.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/radiant-stone-studs-2?variant=gid://shopify/ProductVariant/67594430185699",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16268.jpg?v=1790584160"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -134269,6 +134305,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/layered-hasli-necklace?variant=gid://shopify/ProductVariant/49396940800227",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16567.jpg?v=1783855149"
+  },
+  "gid://shopify/ProductVariant/49396943847651": {
+    "product_title": "Arunikaa Hasli Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16568",
+    "price": 5300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/hasli-necklace-102?variant=gid://shopify/ProductVariant/49396943847651",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16568.jpg?v=1783855335"
   },
   "gid://shopify/ProductVariant/49396980252899": {
     "product_title": "Vivith Layered Hasli Necklace",
