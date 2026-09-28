@@ -1075,7 +1075,7 @@
     "variant_title": "Default Title",
     "sku": "749",
     "price": 1899.0,
-    "stock": 45,
+    "stock": 44,
     "url": "https://www.daivik.in/products/set-of-pearl-balis-and-mattals?variant=gid://shopify/ProductVariant/40353148895385",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_591bb99a-07cd-4a22-9333-68692e46aa53.jpg?v=1623942454"
   },
@@ -6929,6 +6929,15 @@
     "url": "https://www.daivik.in/products/ad-temple-lakshmi-necklace-with-earrings?variant=gid://shopify/ProductVariant/45427117064414",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BA43D898-4F9B-4C32-8313-59A3EE24078A.jpg?v=1716631808"
   },
+  "gid://shopify/ProductVariant/47292618735838": {
+    "product_title": "Ruby Guttapusalu Necklace with earrings (Price for Combo, Short and Long)",
+    "variant_title": "Combo",
+    "sku": "962",
+    "price": 4199.0,
+    "stock": 20,
+    "url": "https://www.daivik.in/products/ruby-guttapusalu-necklace-with-earrings?variant=gid://shopify/ProductVariant/47292618735838",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EA754F23-6813-4092-8B15-2B97F15CE4C2.jpg?v=1754321906"
+  },
   "gid://shopify/ProductVariant/47292618768606": {
     "product_title": "Ruby Guttapusalu Necklace with earrings (Price for Combo, Short and Long)",
     "variant_title": "Short",
@@ -12535,15 +12544,6 @@
     "stock": 1,
     "url": "https://www.daivik.in/products/gj-polish-designer-bracelets-price-for-each?variant=gid://shopify/ProductVariant/47075079422174",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/rn-image_picker_lib_temp_fcdcddfc-71c9-4d5f-a449-d911656f23d2.jpg?v=1752387061"
-  },
-  "gid://shopify/ProductVariant/47076626759902": {
-    "product_title": "Kemp Chand Balis",
-    "variant_title": "Default Title",
-    "sku": "1626",
-    "price": 1499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/kemp-chand-balis?variant=gid://shopify/ProductVariant/47076626759902",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/267FC0D6-5C2C-4FAB-B8ED-D220544563F7.jpg?v=1752468061"
   },
   "gid://shopify/ProductVariant/47077373378782": {
     "product_title": "Pearl Stone Beads AD Mala with Earrings in 3 Colors (Price for Each)",
@@ -19615,7 +19615,7 @@
     "variant_title": "Default Title",
     "sku": "4033",
     "price": 1499.0,
-    "stock": 22,
+    "stock": 21,
     "url": "https://www.daivik.in/products/heritage-golden-beads-watch-bracelet?variant=gid://shopify/ProductVariant/48266751574238",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0201.jpg?v=1779275747"
   },
@@ -25721,15 +25721,6 @@
     "url": "https://www.daivik.in/products/untitled-may26_18-32?variant=gid://shopify/ProductVariant/45429015445726",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E9778EB0-EEE1-448C-A5BB-2F8C93C70B74.jpg?v=1716729186"
   },
-  "gid://shopify/ProductVariant/47292618735838": {
-    "product_title": "Ruby Guttapusalu Necklace with earrings (Price for Combo, Short and Long)",
-    "variant_title": "Combo",
-    "sku": "962",
-    "price": 4199.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/ruby-guttapusalu-necklace-with-earrings?variant=gid://shopify/ProductVariant/47292618735838",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EA754F23-6813-4092-8B15-2B97F15CE4C2.jpg?v=1754321906"
-  },
   "gid://shopify/ProductVariant/45482966974686": {
     "product_title": "Bridal Victorian Combo",
     "variant_title": "Default Title",
@@ -28132,6 +28123,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/gold-finish-ad-moap-chain-26-inches?variant=gid://shopify/ProductVariant/47034436813022",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/190B2160-65EB-478B-9ECF-446EAEC98716.jpg?v=1750780236"
+  },
+  "gid://shopify/ProductVariant/47076626759902": {
+    "product_title": "Kemp Chand Balis",
+    "variant_title": "Default Title",
+    "sku": "1626",
+    "price": 1499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/kemp-chand-balis?variant=gid://shopify/ProductVariant/47076626759902",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/267FC0D6-5C2C-4FAB-B8ED-D220544563F7.jpg?v=1752468061"
   },
   "gid://shopify/ProductVariant/47077373346014": {
     "product_title": "Pearl Stone Beads AD Mala with Earrings in 3 Colors (Price for Each)",
