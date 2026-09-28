@@ -3851,15 +3851,6 @@
     "url": "https://www.daivik.in/products/regular-wear-simple-pearl-bangles?variant=gid://shopify/ProductVariant/44191571345630",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_c56667e7-0c62-4734-8e8d-edd549a4d917.heic?v=1684248500"
   },
-  "gid://shopify/ProductVariant/44192837632222": {
-    "product_title": "AD changeable studs",
-    "variant_title": "Default Title",
-    "sku": "106",
-    "price": 799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-changeable-studs?variant=gid://shopify/ProductVariant/44192837632222",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_08e4ed6b-ba61-47e9-b771-865e36387862.heic?v=1684327210"
-  },
   "gid://shopify/ProductVariant/44195427713246": {
     "product_title": "Multicolour Pearl chain",
     "variant_title": "Default Title",
@@ -11794,7 +11785,7 @@
     "variant_title": "Default Title",
     "sku": "1262",
     "price": 799.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/invisible-kemp-ruby-chain-with-earrings?variant=gid://shopify/ProductVariant/46685345841374",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4EB246FF-FAA7-43D0-9CBC-1B0E0DB80847.jpg?v=1746978159"
   },
@@ -12523,7 +12514,7 @@
     "variant_title": "1",
     "sku": "1625",
     "price": 999.0,
-    "stock": 33,
+    "stock": 32,
     "url": "https://www.daivik.in/products/gj-polish-designer-bracelets-price-for-each?variant=gid://shopify/ProductVariant/47075079356638",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/rn-image_picker_lib_temp_fcdcddfc-71c9-4d5f-a449-d911656f23d2.jpg?v=1752387061"
   },
@@ -19732,7 +19723,7 @@
     "variant_title": "Default Title",
     "sku": "1897",
     "price": 499.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/antique-flexible-free-size-kada?variant=gid://shopify/ProductVariant/48287951978718",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/536EE4FD-651C-460E-AACD-2EF8BB2BAE4A.jpg?v=1779985680"
   },
@@ -21280,7 +21271,7 @@
     "variant_title": "2.6",
     "sku": "1957",
     "price": 1799.0,
-    "stock": 28,
+    "stock": 27,
     "url": "https://www.daivik.in/products/openable-ad-kada-with-interchangeable-colour-bangles-12-shades?variant=gid://shopify/ProductVariant/48965767037150",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1886.jpg?v=1788191390"
   },
@@ -24208,6 +24199,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-lakshmi-jadabilla?variant=gid://shopify/ProductVariant/44190416634078",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_113fd9bf-6c0c-41f4-9249-b4d0a196d42e.heic?v=1684150401"
+  },
+  "gid://shopify/ProductVariant/44192837632222": {
+    "product_title": "AD changeable studs",
+    "variant_title": "Default Title",
+    "sku": "106",
+    "price": 799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-changeable-studs?variant=gid://shopify/ProductVariant/44192837632222",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_08e4ed6b-ba61-47e9-b771-865e36387862.heic?v=1684327210"
   },
   "gid://shopify/ProductVariant/44196925898974": {
     "product_title": "Antique Lakshmi bangles",
