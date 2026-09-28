@@ -15295,7 +15295,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-0696",
     "price": 6728.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/malish-kundan-ring?variant=gid://shopify/ProductVariant/45972152549603",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0696.jpg?v=1738654690"
   },
@@ -17868,7 +17868,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 25000.0,
+    "price": 26600.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -89252,15 +89252,6 @@
     "url": "https://www.theamethyststore.com/products/nagas-pair-bangles-62?variant=gid://shopify/ProductVariant/49519776366819",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3558_2.jpg?v=1786423854"
   },
-  "gid://shopify/ProductVariant/49519776268515": {
-    "product_title": "Jashvikaa Nagas Pair Bangles",
-    "variant_title": "2.6\"",
-    "sku": "AMS-107-3558-2.6\"",
-    "price": 56800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nagas-pair-bangles-62?variant=gid://shopify/ProductVariant/49519776268515",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3558_2.jpg?v=1786423854"
-  },
   "gid://shopify/ProductVariant/49519781249251": {
     "product_title": "Jhansikha Stone Pair Bangles",
     "variant_title": "2.6\"",
@@ -109213,6 +109204,42 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/crafted-brilliance-avikam-necklace-set?variant=gid://shopify/ProductVariant/67594143760611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18263.jpg?v=1790581733"
+  },
+  "gid://shopify/ProductVariant/67594216538339": {
+    "product_title": "Gleaming Diamond Design Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18258",
+    "price": 55500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/gleaming-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/67594216538339",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18258.jpg?v=1790582489"
+  },
+  "gid://shopify/ProductVariant/67594244817123": {
+    "product_title": "Vinthisha  Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16264",
+    "price": 4402.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/vinthisha-stone-studs?variant=gid://shopify/ProductVariant/67594244817123",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16264.jpg?v=1790582691"
+  },
+  "gid://shopify/ProductVariant/67594299015395": {
+    "product_title": "Artfully Crafted Avikam Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18253",
+    "price": 48500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/artfully-crafted-avikam-necklace-set?variant=gid://shopify/ProductVariant/67594299015395",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18253.jpg?v=1790582941"
+  },
+  "gid://shopify/ProductVariant/67594325426403": {
+    "product_title": "Zarelle Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16265",
+    "price": 6940.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/zarelle-stone-studs?variant=gid://shopify/ProductVariant/67594325426403",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16265.jpg?v=1790583083"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -136933,6 +136960,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nagas-pair-bangles-60?variant=gid://shopify/ProductVariant/49519757132003",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3556_2.jpg?v=1786423180"
+  },
+  "gid://shopify/ProductVariant/49519776268515": {
+    "product_title": "Jashvikaa Nagas Pair Bangles",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-3558-2.6\"",
+    "price": 56800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-pair-bangles-62?variant=gid://shopify/ProductVariant/49519776268515",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3558_2.jpg?v=1786423854"
   },
   "gid://shopify/ProductVariant/49519810511075": {
     "product_title": "Miraya Kundan Short Necklace",
