@@ -3712,7 +3712,7 @@
     "variant_title": "1.",
     "sku": "596",
     "price": 999.0,
-    "stock": 36,
+    "stock": 35,
     "url": "https://www.daivik.in/products/a-44?variant=gid://shopify/ProductVariant/44131700048094",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_091bb76a-2a60-4347-9eeb-5949c7a4d549.heic?v=1680874629"
   },
@@ -21505,7 +21505,7 @@
     "variant_title": "Default Title",
     "sku": "1968",
     "price": 1299.0,
-    "stock": 34,
+    "stock": 33,
     "url": "https://www.daivik.in/products/ad-diamond-look-alike-earcuff-1?variant=gid://shopify/ProductVariant/49082393362654",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/Earcuff.png?v=1789885572"
   },
@@ -21697,6 +21697,15 @@
     "stock": 9,
     "url": "https://www.daivik.in/products/premium-brass-lakshmi-kasumalai?variant=gid://shopify/ProductVariant/49116404809950",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/309F5249-1E49-456F-8EA3-5BEA54B97388.jpg?v=1790521525"
+  },
+  "gid://shopify/ProductVariant/49118521032926": {
+    "product_title": "Simple AD Small Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "1974",
+    "price": 399.0,
+    "stock": 50,
+    "url": "https://www.daivik.in/products/simple-ad-small-jhumkas?variant=gid://shopify/ProductVariant/49118521032926",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FD5CA177-93E7-4ADE-B6F1-6218218BD53F.jpg?v=1790593662"
   },
   "gid://shopify/ProductVariant/34430554472601": {
     "product_title": "Regular Use Stone Set Of Four Bangles",
@@ -30706,14 +30715,5 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/kids-lakshmi-ruby-green-bangles?variant=gid://shopify/ProductVariant/49008807706846",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1968.jpg?v=1789041386"
-  },
-  "gid://shopify/ProductVariant/49118521032926": {
-    "product_title": "Simple AD Small Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "1974",
-    "price": 399.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/simple-ad-small-jhumkas?variant=gid://shopify/ProductVariant/49118521032926",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_2264.jpg?v=1790593106"
   }
 }
