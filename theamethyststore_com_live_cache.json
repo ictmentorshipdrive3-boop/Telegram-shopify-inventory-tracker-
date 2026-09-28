@@ -5602,7 +5602,7 @@
     "variant_title": "Small",
     "sku": "AMS-119-0001-S",
     "price": 5000.0,
-    "stock": 26,
+    "stock": 25,
     "url": "https://www.theamethyststore.com/products/fish-hook-back-chain?variant=gid://shopify/ProductVariant/49674885333219",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_21dbdd2e-d30a-4019-816f-52833d641d9a.jpg?v=1693456844"
   },
@@ -17868,7 +17868,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 26600.0,
+    "price": 25000.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -97586,15 +97586,6 @@
     "url": "https://www.theamethyststore.com/products/heritage-nagas-short-necklace?variant=gid://shopify/ProductVariant/49600951156963",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17733.jpg?v=1787723112"
   },
-  "gid://shopify/ProductVariant/49600974061795": {
-    "product_title": "Mythical Nagas Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17735",
-    "price": 15001.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/mythical-nagas-short-necklace?variant=gid://shopify/ProductVariant/49600974061795",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17735.jpg?v=1787723492"
-  },
   "gid://shopify/ProductVariant/49601063780579": {
     "product_title": "Epic Nagas Short Necklace",
     "variant_title": "Default Title",
@@ -109024,6 +109015,51 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/auralis-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/67593213870307",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18250.jpg?v=1790576140"
+  },
+  "gid://shopify/ProductVariant/67593261351139": {
+    "product_title": "Vibrant Craft Nagas Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18298",
+    "price": 55389.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/vibrant-craft-nagas-long-necklace?variant=gid://shopify/ProductVariant/67593261351139",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18298.jpg?v=1790576343"
+  },
+  "gid://shopify/ProductVariant/67593268560099": {
+    "product_title": "Amelora Diamond Design Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18252",
+    "price": 49400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/amelora-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/67593268560099",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18252.jpg?v=1790576377"
+  },
+  "gid://shopify/ProductVariant/67593323610339": {
+    "product_title": "Zelavelle Diamond Design Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18255",
+    "price": 60300.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/zelavelle-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/67593323610339",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18255.jpg?v=1790576579"
+  },
+  "gid://shopify/ProductVariant/67593343041763": {
+    "product_title": "Elegant Divine Nagas Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18297",
+    "price": 79551.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/elegant-divine-nagas-long-necklace?variant=gid://shopify/ProductVariant/67593343041763",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18297.jpg?v=1790576676"
+  },
+  "gid://shopify/ProductVariant/67593410347235": {
+    "product_title": "Vershikaa Diamond Design Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18269",
+    "price": 81100.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/vershikaa-diamond-design-necklace-set-2?variant=gid://shopify/ProductVariant/67593410347235",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18269.jpg?v=1790576877"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -137950,6 +137986,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/ethereal-bugadi-earrings?variant=gid://shopify/ProductVariant/49598442602723",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15899.jpg?v=1787660716"
+  },
+  "gid://shopify/ProductVariant/49600974061795": {
+    "product_title": "Mythical Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17735",
+    "price": 15001.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/mythical-nagas-short-necklace?variant=gid://shopify/ProductVariant/49600974061795",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17735.jpg?v=1787723492"
   },
   "gid://shopify/ProductVariant/49601023869155": {
     "product_title": "Legendary Nagas Short Necklace",
