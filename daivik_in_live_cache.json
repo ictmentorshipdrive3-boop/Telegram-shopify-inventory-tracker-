@@ -1210,7 +1210,7 @@
     "variant_title": "Default Title",
     "sku": "796",
     "price": 1299.0,
-    "stock": 22,
+    "stock": 21,
     "url": "https://www.daivik.in/products/designer-leaf-stone-necklace-with-earrings?variant=gid://shopify/ProductVariant/40700565422233",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_6ce7ab60-a27b-456b-a94e-8aaeb1065e57.jpg?v=1640157469"
   },
@@ -1228,7 +1228,7 @@
     "variant_title": "Default Title",
     "sku": "810",
     "price": 1499.0,
-    "stock": 40,
+    "stock": 39,
     "url": "https://www.daivik.in/products/simple-rose-gold-choker-necklace-with-studs?variant=gid://shopify/ProductVariant/40796864315545",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_4bcdf42b-350c-4ced-9ac5-5b7a9dcde5de.jpg?v=1628695375"
   },
@@ -1825,15 +1825,6 @@
     "stock": 7,
     "url": "https://www.daivik.in/products/rosegold-circle-necklace-with-earrings?variant=gid://shopify/ProductVariant/42324428947678",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_b92ba159-b686-4916-a846-70d7b2301136.jpg?v=1641826525"
-  },
-  "gid://shopify/ProductVariant/42331638989022": {
-    "product_title": "Simple Floral AD Kemp Necklace with earrings",
-    "variant_title": "Default Title",
-    "sku": "402",
-    "price": 1599.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/simple-floral-ad-kemp-necklace-with-earrings?variant=gid://shopify/ProductVariant/42331638989022",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_425e3745-a388-46dc-bd87-3b3b6eee7169.jpg?v=1641996550"
   },
   "gid://shopify/ProductVariant/42350496121054": {
     "product_title": "Set of 4 green bangles",
@@ -2632,7 +2623,7 @@
     "variant_title": "Default Title",
     "sku": "432",
     "price": 899.0,
-    "stock": 21,
+    "stock": 20,
     "url": "https://www.daivik.in/products/a-225?variant=gid://shopify/ProductVariant/43212378439902",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_f6b01fa0-137c-4333-b8ec-463d4542e32a.heic?v=1659180660"
   },
@@ -4684,7 +4675,7 @@
     "variant_title": "2.8",
     "sku": "73",
     "price": 699.0,
-    "stock": 32,
+    "stock": 31,
     "url": "https://www.daivik.in/products/antique-lakshmi-white-stone-bangles?variant=gid://shopify/ProductVariant/44369095033054",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/77947BBF-DB6F-4632-B632-B2DBC4C85B6D.jpg?v=1696002712"
   },
@@ -6853,7 +6844,7 @@
     "variant_title": "2.8",
     "sku": "908",
     "price": 1299.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/lakshmi-rubygreen-bangles-set-of-4?variant=gid://shopify/ProductVariant/45355639963870",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3DF6E6AF-2D3C-44C8-8AC2-FD37770A7F84.jpg?v=1715354017"
   },
@@ -22336,6 +22327,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/pure-premium-kemp-brass-jhumkas?variant=gid://shopify/ProductVariant/42328076943582",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_74936a48-543b-44d1-9e17-d0a6d6bfc150.jpg?v=1641913514"
+  },
+  "gid://shopify/ProductVariant/42331638989022": {
+    "product_title": "Simple Floral AD Kemp Necklace with earrings",
+    "variant_title": "Default Title",
+    "sku": "402",
+    "price": 1599.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/simple-floral-ad-kemp-necklace-with-earrings?variant=gid://shopify/ProductVariant/42331638989022",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_425e3745-a388-46dc-bd87-3b3b6eee7169.jpg?v=1641996550"
   },
   "gid://shopify/ProductVariant/42331658387678": {
     "product_title": "Pure Brass Kundan necklace with earrings",
