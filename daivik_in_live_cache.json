@@ -16753,7 +16753,7 @@
     "variant_title": "Default Title",
     "sku": "1750",
     "price": 999.0,
-    "stock": 22,
+    "stock": 21,
     "url": "https://www.daivik.in/products/ad-floral-anklets?variant=gid://shopify/ProductVariant/47722057924830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/50A6EDA6-5F20-4F1F-A47C-E4551A147A1C.jpg?v=1764602160"
   },
@@ -21247,6 +21247,15 @@
     "stock": 44,
     "url": "https://www.daivik.in/products/simple-flower-studs?variant=gid://shopify/ProductVariant/48836480336094",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1568.jpg?v=1788072533"
+  },
+  "gid://shopify/ProductVariant/48895361548510": {
+    "product_title": "Antique Non Idol Carved Green Stone Pendant Choker with Earrings",
+    "variant_title": "Default Title",
+    "sku": "228",
+    "price": 5499.0,
+    "stock": 2,
+    "url": "https://www.daivik.in/products/antique-non-idol-carved-green-stone-pendant-choker-with-earrings?variant=gid://shopify/ProductVariant/48895361548510",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1571.jpg?v=1788109099"
   },
   "gid://shopify/ProductVariant/48965011046622": {
     "product_title": "Diamond look Alike Premium Jali long chain",
@@ -30671,15 +30680,6 @@
     "url": "https://www.daivik.in/products/black-beads-jalli-classic-mala-chain?variant=gid://shopify/ProductVariant/48645693636830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5F282C96-F264-4289-A54D-B92E77D91465.jpg?v=1787762150"
   },
-  "gid://shopify/ProductVariant/48895361548510": {
-    "product_title": "Antique Non Idol Carved Green Stone Pendant Choker with Earrings",
-    "variant_title": "Default Title",
-    "sku": "228",
-    "price": 5499.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/antique-non-idol-carved-green-stone-pendant-choker-with-earrings?variant=gid://shopify/ProductVariant/48895361548510",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1571.jpg?v=1788109099"
-  },
   "gid://shopify/ProductVariant/49008672866526": {
     "product_title": "Twin Peacock Ruby Green Hasli Necklace with Earrings",
     "variant_title": "Default Title",
@@ -30706,5 +30706,14 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/kids-lakshmi-ruby-green-bangles?variant=gid://shopify/ProductVariant/49008807706846",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1968.jpg?v=1789041386"
+  },
+  "gid://shopify/ProductVariant/49118521032926": {
+    "product_title": "Simple AD Small Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "1974",
+    "price": 399.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/simple-ad-small-jhumkas?variant=gid://shopify/ProductVariant/49118521032926",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_2264.jpg?v=1790593106"
   }
 }
