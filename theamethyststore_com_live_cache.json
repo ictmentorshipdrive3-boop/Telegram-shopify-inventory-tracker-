@@ -17814,7 +17814,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 26600.0,
+    "price": 25000.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -70888,7 +70888,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-1902",
     "price": 14517.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/plain-chain-2?variant=gid://shopify/ProductVariant/49268010123491",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1902.jpg?v=1781609150"
   },
@@ -98378,15 +98378,6 @@
     "url": "https://www.theamethyststore.com/products/nagas-drops-32?variant=gid://shopify/ProductVariant/49647837315299",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15340.jpg?v=1788174439"
   },
-  "gid://shopify/ProductVariant/49647838724323": {
-    "product_title": "Fab Nagas Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14956",
-    "price": 4205.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/fab-nagas-drops?variant=gid://shopify/ProductVariant/49647838724323",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14956.jpg?v=1788174612"
-  },
   "gid://shopify/ProductVariant/49647840166115": {
     "product_title": "Nandhikaa Nagas Drops",
     "variant_title": "Default Title",
@@ -109573,6 +109564,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/sensational-stone-drops?variant=gid://shopify/ProductVariant/67598013104355",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16308.jpg?v=1790663580"
+  },
+  "gid://shopify/ProductVariant/67598126219491": {
+    "product_title": "Classic Charm Stone Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18317",
+    "price": 33017.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/classic-charm-stone-short-necklace?variant=gid://shopify/ProductVariant/67598126219491",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18317.jpg?v=1790664622"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -139219,6 +139219,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/effortlessly-wearable-nagas-drops?variant=gid://shopify/ProductVariant/49647819686115",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14954.jpg?v=1788174330"
+  },
+  "gid://shopify/ProductVariant/49647838724323": {
+    "product_title": "Fab Nagas Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14956",
+    "price": 4205.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/fab-nagas-drops?variant=gid://shopify/ProductVariant/49647838724323",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14956.jpg?v=1788174612"
   },
   "gid://shopify/ProductVariant/49647842459875": {
     "product_title": "Epic Nagas Drops",
