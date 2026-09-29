@@ -2015,15 +2015,6 @@
     "url": "https://www.rasasilver.com/products/crown-of-eden-necklace-set?variant=gid://shopify/ProductVariant/50532959191337",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R7404.jpg?v=1751365055"
   },
-  "gid://shopify/ProductVariant/50543681306921": {
-    "product_title": "Carv\u00e9ra MoisEmer\u00e9 Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "R7438",
-    "price": 49600.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/carvera-moisemere-long-necklace?variant=gid://shopify/ProductVariant/50543681306921",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_58822b0f-d6c7-4004-8b91-5a10f807f507.jpg?v=1751282885"
-  },
   "gid://shopify/ProductVariant/50544585736489": {
     "product_title": "Victorian Orchid Necklace",
     "variant_title": "Default Title",
@@ -3894,15 +3885,6 @@
     "price": 78700.0,
     "stock": 1,
     "url": "https://www.rasasilver.com/products/jewels-of-miranova?variant=gid://shopify/ProductVariant/50835833749801",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug46596.jpg?v=1756880717"
-  },
-  "gid://shopify/ProductVariant/50835833782569": {
-    "product_title": "Jewels Of Polki Miranova",
-    "variant_title": "GREEN",
-    "sku": "R12503",
-    "price": 130600.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/jewels-of-miranova?variant=gid://shopify/ProductVariant/50835833782569",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug46596.jpg?v=1756880717"
   },
   "gid://shopify/ProductVariant/50835858227497": {
@@ -24443,6 +24425,15 @@
     "url": "https://www.rasasilver.com/products/20?variant=gid://shopify/ProductVariant/52247507206441",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2we23.jpg?v=1750761848"
   },
+  "gid://shopify/ProductVariant/50543681306921": {
+    "product_title": "Carv\u00e9ra MoisEmer\u00e9 Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "R7438",
+    "price": 49600.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/carvera-moisemere-long-necklace?variant=gid://shopify/ProductVariant/50543681306921",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_58822b0f-d6c7-4004-8b91-5a10f807f507.jpg?v=1751282885"
+  },
   "gid://shopify/ProductVariant/50544722608425": {
     "product_title": "Vanamala Layers Necklace Set",
     "variant_title": "Default Title",
@@ -25900,6 +25891,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/jewel-of-eloria-choker-set?variant=gid://shopify/ProductVariant/50835805405481",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug46618.jpg?v=1756880419"
+  },
+  "gid://shopify/ProductVariant/50835833782569": {
+    "product_title": "Jewels Of Polki Miranova",
+    "variant_title": "GREEN",
+    "sku": "R12503",
+    "price": 130600.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/jewels-of-miranova?variant=gid://shopify/ProductVariant/50835833782569",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug46596.jpg?v=1756880717"
   },
   "gid://shopify/ProductVariant/50835969933609": {
     "product_title": "Moissa Viridessa Choker Set",
