@@ -5602,7 +5602,7 @@
     "variant_title": "Small",
     "sku": "AMS-119-0001-S",
     "price": 5000.0,
-    "stock": 25,
+    "stock": 22,
     "url": "https://www.theamethyststore.com/products/fish-hook-back-chain?variant=gid://shopify/ProductVariant/49674885333219",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_21dbdd2e-d30a-4019-816f-52833d641d9a.jpg?v=1693456844"
   },
@@ -17814,7 +17814,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 25000.0,
+    "price": 26600.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -47041,15 +47041,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/vikasha-pair-bangle?variant=gid://shopify/ProductVariant/47726688076003",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2859.jpg?v=1765457452"
-  },
-  "gid://shopify/ProductVariant/49668487053539": {
-    "product_title": "Glitz Charm Short Necklace Set",
-    "variant_title": "Rose",
-    "sku": "AMS-102-13189-Rose",
-    "price": 37700.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/short-necklace-set-24?variant=gid://shopify/ProductVariant/49668487053539",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13189.jpg?v=1765457392"
   },
   "gid://shopify/ProductVariant/47726733066467": {
     "product_title": "Tanuja Short Necklace Set",
@@ -102136,7 +102127,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15996",
     "price": 29800.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/lush-green-3d-spl-jhumkas?variant=gid://shopify/ProductVariant/49708861260003",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15996.jpg?v=1788940251"
   },
@@ -109573,6 +109564,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/gleaning-stone-mini-choker?variant=gid://shopify/ProductVariant/67598836072675",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18372.jpg?v=1790668654"
+  },
+  "gid://shopify/ProductVariant/67598857437411": {
+    "product_title": "Glowing Heritage Stone Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18410",
+    "price": 94641.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/glowing-heritage-stone-short-necklace?variant=gid://shopify/ProductVariant/67598857437411",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18410.jpg?v=1790669155"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -121350,9 +121350,18 @@
     "product_title": "Glitz Charm Short Necklace Set",
     "variant_title": "Green",
     "sku": "AMS-102-13189-Green",
-    "price": 45000.0,
+    "price": 46400.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/short-necklace-set-24?variant=gid://shopify/ProductVariant/47726691746019",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13189.jpg?v=1765457392"
+  },
+  "gid://shopify/ProductVariant/49668487053539": {
+    "product_title": "Glitz Charm Short Necklace Set",
+    "variant_title": "Rose",
+    "sku": "AMS-102-13189-Rose",
+    "price": 37700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/short-necklace-set-24?variant=gid://shopify/ProductVariant/49668487053539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13189.jpg?v=1765457392"
   },
   "gid://shopify/ProductVariant/47729342447843": {
