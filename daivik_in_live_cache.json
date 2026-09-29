@@ -1318,7 +1318,7 @@
     "variant_title": "Default Title",
     "sku": "847",
     "price": 1199.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/mini-version-of-cluster-pearl-lakshmi-jhumkas?variant=gid://shopify/ProductVariant/41004873908377",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_fbd1bd67-656d-4321-b63b-6f983c6ed98f.jpg?v=1630765358"
   },
@@ -15448,7 +15448,7 @@
     "variant_title": "Default Title",
     "sku": "1694",
     "price": 999.0,
-    "stock": 13,
+    "stock": 12,
     "url": "https://www.daivik.in/products/simple-flower-pearl-anklets?variant=gid://shopify/ProductVariant/47541970927838",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0956E801-13B8-4A8B-94FD-51A98ECC9250.jpg?v=1758170880"
   },
@@ -16816,7 +16816,7 @@
     "variant_title": "Default Title",
     "sku": "1750",
     "price": 999.0,
-    "stock": 20,
+    "stock": 19,
     "url": "https://www.daivik.in/products/ad-floral-anklets?variant=gid://shopify/ProductVariant/47722057924830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/50A6EDA6-5F20-4F1F-A47C-E4551A147A1C.jpg?v=1764602160"
   },
@@ -21811,9 +21811,18 @@
     "variant_title": "Default Title",
     "sku": "1974",
     "price": 399.0,
-    "stock": 42,
+    "stock": 41,
     "url": "https://www.daivik.in/products/simple-ad-small-jhumkas?variant=gid://shopify/ProductVariant/49118521032926",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FD5CA177-93E7-4ADE-B6F1-6218218BD53F.jpg?v=1790593662"
+  },
+  "gid://shopify/ProductVariant/49125769871582": {
+    "product_title": "Simple 3 line Pearl Kemp Choker with Earrings",
+    "variant_title": "Default Title",
+    "sku": "315",
+    "price": 1999.0,
+    "stock": 5,
+    "url": "https://www.daivik.in/products/simple-3-line-pearl-kemp-choker-with-earrings?variant=gid://shopify/ProductVariant/49125769871582",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/76AFF6F2-77B9-4216-BC5C-4CA29B8E29C4.jpg?v=1790691880"
   },
   "gid://shopify/ProductVariant/34430554472601": {
     "product_title": "Regular Use Stone Set Of Four Bangles",
@@ -21841,15 +21850,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/238?variant=gid://shopify/ProductVariant/43956896530654",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_3720.jpg?v=1590312208"
-  },
-  "gid://shopify/ProductVariant/35158253633689": {
-    "product_title": "Lakshmi Semi Bridal Combo",
-    "variant_title": "Default Title",
-    "sku": "315",
-    "price": 4499.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/lakshmi-semi-bridal-combo?variant=gid://shopify/ProductVariant/35158253633689",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/lakshmi-semi-bridal-combo-collections-870.jpg?v=1595088806"
   },
   "gid://shopify/ProductVariant/35380334592153": {
     "product_title": "Pure Kemp Peacock Jhumkas With Mattals",
