@@ -7361,15 +7361,6 @@
     "url": "https://www.dulhanjewels.com/products/untitled-sep28_18-50-49?variant=gid://shopify/ProductVariant/67820821840178",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/56242734-0581-4047-8056-28BB8C312773.jpg?v=1790601233"
   },
-  "gid://shopify/ProductVariant/67821010649394": {
-    "product_title": "Floral Design Moissanite Polki Earrings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1050.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/floral-design-moissanite-polki-earrings?variant=gid://shopify/ProductVariant/67821010649394",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/AAADA55F-2548-4A8E-88B0-B0F1685CA514.jpg?v=1790601556"
-  },
   "gid://shopify/ProductVariant/67821363429682": {
     "product_title": "Traditional Victorian Chandbali Earrings With Pearl Drops",
     "variant_title": "Default Title",
@@ -7837,5 +7828,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/unique-victorian-polki-pendant-set-with-matching-earrings?variant=gid://shopify/ProductVariant/67804171796786",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/09B0427D-92BE-480D-B512-17FB04642D37.jpg?v=1790589641"
+  },
+  "gid://shopify/ProductVariant/67821010649394": {
+    "product_title": "Floral Design Moissanite Polki Earrings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1050.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/floral-design-moissanite-polki-earrings?variant=gid://shopify/ProductVariant/67821010649394",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/AAADA55F-2548-4A8E-88B0-B0F1685CA514.jpg?v=1790601556"
   }
 }
