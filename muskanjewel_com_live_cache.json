@@ -112,7 +112,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 1800.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-jhumkas-with-pearl-drop-and-natural-strawberry-beads-2?variant=gid://shopify/ProductVariant/52628407648572",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/9bd60668-1245-4ce7-a7a9-87342c50805f.webp?v=1768465197"
   },
@@ -499,7 +499,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 1100.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-sun-moon-hair-accessories?variant=gid://shopify/ProductVariant/52801987084604",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260226_035747_2a55559c-43a6-4b44-aa16-69df10e5f230.jpg?v=1772108256"
   },
@@ -1060,15 +1060,6 @@
     "stock": 10,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-round-tika-with-pearl-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52974914961724",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260407_200827_7045936c-9964-495f-8824-a0788e762f9e.webp?v=1775912078"
-  },
-  "gid://shopify/ProductVariant/52979685327164": {
-    "product_title": "Jadau kundan chand shape bridal tika with pearls",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1500.0,
-    "stock": 1,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-chand-shape-bridal-tika-with-pearls?variant=gid://shopify/ProductVariant/52979685327164",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260407_201231_f0ad392b-4d70-4341-8e94-216bf754238a.webp?v=1775915541"
   },
   "gid://shopify/ProductVariant/52979733266748": {
     "product_title": "Jadau kundan goddess laxmi necklace with pearl and natural strawberry beads drop(No Earrings)",
@@ -1804,7 +1795,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 2850.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-pandent-pearls-beads-mala-with-rice-pearls-onyx-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/53828101308732",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260725_101734_567c24a0-73e0-4a1a-b114-05a18f41f14e_1.jpg?v=1785157139"
   },
@@ -2608,6 +2599,15 @@
     "stock": 0,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-chand-bali-with-pearl-drops-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52626391531836",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/f890edad-412d-4c64-8e93-2b0b29348644.webp?v=1768395751"
+  },
+  "gid://shopify/ProductVariant/52979685327164": {
+    "product_title": "Jadau kundan chand shape bridal tika with pearls",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1500.0,
+    "stock": 0,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-chand-shape-bridal-tika-with-pearls?variant=gid://shopify/ProductVariant/52979685327164",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260407_201231_f0ad392b-4d70-4341-8e94-216bf754238a.webp?v=1775915541"
   },
   "gid://shopify/ProductVariant/53016663294268": {
     "product_title": "Temple/Antique goddess laxmi peacock bangles (pair)",
