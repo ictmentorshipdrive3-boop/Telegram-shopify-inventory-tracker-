@@ -17814,7 +17814,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 26600.0,
+    "price": 25000.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -20023,15 +20023,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/vrindha-stone-jhumkas?variant=gid://shopify/ProductVariant/46422894936291",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8421.jpg?v=1749015854"
-  },
-  "gid://shopify/ProductVariant/46422927180003": {
-    "product_title": "Elevating Nagas Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-8433",
-    "price": 5798.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/elevating-nagas-studs?variant=gid://shopify/ProductVariant/46422927180003",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8433.jpg?v=1749017443"
   },
   "gid://shopify/ProductVariant/46422941204707": {
     "product_title": "Isha Nagas Studs",
@@ -34504,15 +34495,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/riyana-bracelet?variant=gid://shopify/ProductVariant/47142294814947",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-0886_3.jpg?v=1757229646"
-  },
-  "gid://shopify/ProductVariant/47145448210659": {
-    "product_title": "Priscilla Chain With Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-1064",
-    "price": 18594.9,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/priscilla-chain-with-earrings?variant=gid://shopify/ProductVariant/47145448210659",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1064_1.jpg?v=1757239034"
   },
   "gid://shopify/ProductVariant/47168417988835": {
     "product_title": "Shinning Green Chain with Earrings",
@@ -84748,7 +84730,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17168",
     "price": 36700.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/trendy-glow-avikam-necklace-set-1?variant=gid://shopify/ProductVariant/49479322796259",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17168.jpg?v=1785482401"
   },
@@ -102055,7 +102037,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5110",
     "price": 37400.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/radiant-and-fresh-3d-spl-pendant-with-earrings?variant=gid://shopify/ProductVariant/49708696469731",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5110.jpg?v=1788937897"
   },
@@ -109574,6 +109556,24 @@
     "url": "https://www.theamethyststore.com/products/classic-charm-stone-short-necklace?variant=gid://shopify/ProductVariant/67598126219491",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18317.jpg?v=1790664622"
   },
+  "gid://shopify/ProductVariant/67598334492899": {
+    "product_title": "Verde Heritage Stone Choker",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18371",
+    "price": 23262.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/verde-heritage-stone-choker?variant=gid://shopify/ProductVariant/67598334492899",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18371.jpg?v=1790668121"
+  },
+  "gid://shopify/ProductVariant/67598836072675": {
+    "product_title": "Gleaning Stone Mini Choker",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18372",
+    "price": 15529.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/gleaning-stone-mini-choker?variant=gid://shopify/ProductVariant/67598836072675",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18372.jpg?v=1790668654"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -114748,6 +114748,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/shri-nagas-jhumkas?variant=gid://shopify/ProductVariant/46420269334755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8423.jpg?v=1748949367"
+  },
+  "gid://shopify/ProductVariant/46422927180003": {
+    "product_title": "Elevating Nagas Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-8433",
+    "price": 5798.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/elevating-nagas-studs?variant=gid://shopify/ProductVariant/46422927180003",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8433.jpg?v=1749017443"
   },
   "gid://shopify/ProductVariant/46423038361827": {
     "product_title": "Vinitha Stone Pendant",
