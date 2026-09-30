@@ -148,7 +148,7 @@
     "variant_title": "Default Title",
     "sku": "146",
     "price": 1499.0,
-    "stock": 39,
+    "stock": 38,
     "url": "https://www.daivik.in/products/146?variant=gid://shopify/ProductVariant/44177048076510",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_487e8ae0-73cf-4ff5-beab-6c67acc607b2.jpg?v=1601119672"
   },
@@ -1516,7 +1516,7 @@
     "variant_title": "Default Title",
     "sku": "909",
     "price": 1099.0,
-    "stock": 15,
+    "stock": 30,
     "url": "https://www.daivik.in/products/simple-kemp-studs-in-2-variants?variant=gid://shopify/ProductVariant/41359794864281",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_858e6c74-1aac-4152-b929-262cb3e584d2.jpg?v=1634309760"
   },
@@ -5404,7 +5404,7 @@
     "variant_title": "Default Title",
     "sku": "655",
     "price": 1999.0,
-    "stock": 31,
+    "stock": 30,
     "url": "https://www.daivik.in/products/white-ad-simple-stone-necklace-with-jhumkas?variant=gid://shopify/ProductVariant/44494989983966",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FE6808C7-99AD-403E-82D2-05823B84B801.jpg?v=1699372275"
   },
@@ -12091,7 +12091,7 @@
     "variant_title": "Default Title",
     "sku": "1614",
     "price": 2699.0,
-    "stock": 6,
+    "stock": 56,
     "url": "https://www.daivik.in/products/ad-hipbelt?variant=gid://shopify/ProductVariant/46998726443230",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F8958784-714D-4D25-ABA8-23502DCE510A.jpg?v=1749294688"
   },
@@ -12210,6 +12210,15 @@
     "price": 1999.0,
     "stock": 2,
     "url": "https://www.daivik.in/products/ad-multi-layered-big-balis-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/47018651091166",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AE3F6C15-E9A3-4326-9619-2EACCAB855B5.jpg?v=1750138385"
+  },
+  "gid://shopify/ProductVariant/47018651123934": {
+    "product_title": "AD Multi Layered Big Balis in 3 Colors (Price for Each)",
+    "variant_title": "White",
+    "sku": "1619",
+    "price": 1999.0,
+    "stock": 32,
+    "url": "https://www.daivik.in/products/ad-multi-layered-big-balis-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/47018651123934",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AE3F6C15-E9A3-4326-9619-2EACCAB855B5.jpg?v=1750138385"
   },
   "gid://shopify/ProductVariant/47019205001438": {
@@ -20911,7 +20920,7 @@
     "variant_title": "Default Title",
     "sku": "1940",
     "price": 1499.0,
-    "stock": 7,
+    "stock": 37,
     "url": "https://www.daivik.in/products/manga-pure-kemp-brass-earrings?variant=gid://shopify/ProductVariant/48550210273502",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4891DBA9-A6F9-450D-BAB6-A69C94E80743.jpg?v=1785928507"
   },
@@ -21478,7 +21487,7 @@
     "variant_title": "Default Title",
     "sku": "984",
     "price": 2999.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.daivik.in/products/hasli-set?variant=gid://shopify/ProductVariant/49008672866526",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4B0A9718-CDFD-486D-B689-97CCB794B7A7.jpg?v=1788935380"
   },
@@ -28140,15 +28149,6 @@
     "price": 1999.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/ad-multi-layered-big-balis-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/47018651058398",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AE3F6C15-E9A3-4326-9619-2EACCAB855B5.jpg?v=1750138385"
-  },
-  "gid://shopify/ProductVariant/47018651123934": {
-    "product_title": "AD Multi Layered Big Balis in 3 Colors (Price for Each)",
-    "variant_title": "White",
-    "sku": "1619",
-    "price": 1999.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/ad-multi-layered-big-balis-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/47018651123934",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AE3F6C15-E9A3-4326-9619-2EACCAB855B5.jpg?v=1750138385"
   },
   "gid://shopify/ProductVariant/47024405151966": {
