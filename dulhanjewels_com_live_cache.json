@@ -3923,15 +3923,6 @@
     "url": "https://www.dulhanjewels.com/products/jadau-kundan-short-necklace-with-floral-pendant-and-green-hangings?variant=gid://shopify/ProductVariant/51013840634162",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/DA041C56-88FA-4BDE-A0B9-8F3A85D4A147.jpg?v=1774532447"
   },
-  "gid://shopify/ProductVariant/51016377205042": {
-    "product_title": "Jadau kundan Jalebi Necklace With Pearls And Green Bead Hangings",
-    "variant_title": "White",
-    "sku": null,
-    "price": 1750.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/jadau-kundan-jalebi-necklace-with-pearls-and-green-bead-hangings?variant=gid://shopify/ProductVariant/51016377205042",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/2F5F7120-C634-433B-8EA7-A412792C17D1.jpg?v=1788614328"
-  },
   "gid://shopify/ProductVariant/51016377270578": {
     "product_title": "Jadau kundan Jalebi Necklace With Pearls And Green Bead Hangings",
     "variant_title": "Green",
@@ -7685,15 +7676,6 @@
     "url": "https://www.dulhanjewels.com/products/classic-victorian-jhumki-earrings-with-white-drops?variant=gid://shopify/ProductVariant/67821985202482",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/1EBF5C7D-FC4E-4A7C-B7B6-F13F4F39CE31.jpg?v=1790602244"
   },
-  "gid://shopify/ProductVariant/67869827137842": {
-    "product_title": "Polki Victorian Earcuff / Fullkaan Earrings With Emerald Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2750.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/polki-victorian-earcuff-fullkaan-earrings-with-emerald-drops?variant=gid://shopify/ProductVariant/67869827137842",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/9FC489E2-8487-4E4B-893A-DE93BD462C47.jpg?v=1790675859"
-  },
   "gid://shopify/ProductVariant/67869952180530": {
     "product_title": "Stylish Droplet Victorian Hanging Earrings",
     "variant_title": "Default Title",
@@ -8072,6 +8054,15 @@
     "url": "https://www.dulhanjewels.com/products/victorian-emerald-polki-statement-choker-necklace-set-with-drop-earrings?variant=gid://shopify/ProductVariant/50963335348530",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-7674.jpg?v=1781005740"
   },
+  "gid://shopify/ProductVariant/51016377205042": {
+    "product_title": "Jadau kundan Jalebi Necklace With Pearls And Green Bead Hangings",
+    "variant_title": "White",
+    "sku": null,
+    "price": 1750.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/jadau-kundan-jalebi-necklace-with-pearls-and-green-bead-hangings?variant=gid://shopify/ProductVariant/51016377205042",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/2F5F7120-C634-433B-8EA7-A412792C17D1.jpg?v=1788614328"
+  },
   "gid://shopify/ProductVariant/51411253854514": {
     "product_title": "Floral Studded Jadau Kundan Jhumki With Pearl Hangings",
     "variant_title": "Red",
@@ -8134,5 +8125,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/floral-design-moissanite-polki-earrings?variant=gid://shopify/ProductVariant/67868779643186",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/AAADA55F-2548-4A8E-88B0-B0F1685CA514.jpg?v=1790601556"
+  },
+  "gid://shopify/ProductVariant/67869827137842": {
+    "product_title": "Polki Victorian Earcuff / Fullkaan Earrings With Emerald Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2750.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/polki-victorian-earcuff-fullkaan-earrings-with-emerald-drops?variant=gid://shopify/ProductVariant/67869827137842",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/9FC489E2-8487-4E4B-893A-DE93BD462C47.jpg?v=1790675859"
   }
 }
