@@ -8,15 +8,6 @@
     "url": "https://www.rasasilver.com/products/gaja-lakshmi-pendant?variant=gid://shopify/ProductVariant/49802519511337",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-15_4a0e2eda-4acf-4aa3-b94b-c39113735fb9.jpg?v=1740808986"
   },
-  "gid://shopify/ProductVariant/49802583408937": {
-    "product_title": "Lakshmi Peacock Temple Pendant",
-    "variant_title": "Default Title",
-    "sku": "R1732",
-    "price": 13700.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/lakshmi-peacock-pendant?variant=gid://shopify/ProductVariant/49802583408937",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-13_fb06ef05-665b-464d-8728-7dd1a586cfaa.jpg?v=1740808476"
-  },
   "gid://shopify/ProductVariant/49802622828841": {
     "product_title": "Vidya Lakshmi Pendant",
     "variant_title": "Default Title",
@@ -592,15 +583,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/kashi-padmini-short-necklace?variant=gid://shopify/ProductVariant/51408072507689",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0296_resized.jpg?v=1762255331"
-  },
-  "gid://shopify/ProductVariant/50058911482153": {
-    "product_title": "Bherunda Matsya Pendant",
-    "variant_title": "Default Title",
-    "sku": "R1952",
-    "price": 17000.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/bherunda-matsya-pendant?variant=gid://shopify/ProductVariant/50058911482153",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/17_1.jpg?v=1742992986"
   },
   "gid://shopify/ProductVariant/50062067204393": {
     "product_title": "Kesar & Chameli Pendant",
@@ -2236,7 +2218,7 @@
     "variant_title": "Default Title",
     "sku": "R2491",
     "price": 37100.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/octa-scroll-shine-necklace-set?variant=gid://shopify/ProductVariant/50568825405737",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R2491.jpg?v=1762342792"
   },
@@ -3496,7 +3478,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R20381",
     "price": 1955.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/rubora-oval-studs?variant=gid://shopify/ProductVariant/53523360153897",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2508.jpg?v=1756544597"
   },
@@ -5291,15 +5273,6 @@
     "url": "https://www.rasasilver.com/products/nayra-mango-short-necklace?variant=gid://shopify/ProductVariant/51396111958313",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0111_resized.jpg?v=1762240360"
   },
-  "gid://shopify/ProductVariant/51396241686825": {
-    "product_title": "Iraja Manika Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "R14864",
-    "price": 41900.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/iraja-manika-short-necklace?variant=gid://shopify/ProductVariant/51396241686825",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0394_resized.jpg?v=1762240921"
-  },
   "gid://shopify/ProductVariant/51396513825065": {
     "product_title": "Saura Lakshmi Short Necklace",
     "variant_title": "Default Title",
@@ -6043,7 +6016,7 @@
     "variant_title": "Navaratna Colour",
     "sku": "R15263",
     "price": 91800.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/bloom-of-nine-necklace?variant=gid://shopify/ProductVariant/51483562770729",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_5_Nov1141_resized.jpg?v=1762587499"
   },
@@ -23687,6 +23660,15 @@
     "url": "https://www.rasasilver.com/products/chandelier-gemstone-earrings?variant=gid://shopify/ProductVariant/49789747855657",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R1494.jpg?v=1751364070"
   },
+  "gid://shopify/ProductVariant/49802583408937": {
+    "product_title": "Lakshmi Peacock Temple Pendant",
+    "variant_title": "Default Title",
+    "sku": "R1732",
+    "price": 13700.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/lakshmi-peacock-pendant?variant=gid://shopify/ProductVariant/49802583408937",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-13_fb06ef05-665b-464d-8728-7dd1a586cfaa.jpg?v=1740808476"
+  },
   "gid://shopify/ProductVariant/49809691246889": {
     "product_title": "Gajamukha Lakshmi Pendant",
     "variant_title": "Default Title",
@@ -23821,6 +23803,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/kashi-padmini-short-necklace?variant=gid://shopify/ProductVariant/51407841919273",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0296_resized.jpg?v=1762255331"
+  },
+  "gid://shopify/ProductVariant/50058911482153": {
+    "product_title": "Bherunda Matsya Pendant",
+    "variant_title": "Default Title",
+    "sku": "R1952",
+    "price": 17000.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/bherunda-matsya-pendant?variant=gid://shopify/ProductVariant/50058911482153",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/17_1.jpg?v=1742992986"
   },
   "gid://shopify/ProductVariant/50869189083433": {
     "product_title": "Raghukul Ratnaraj Studs",
@@ -29446,6 +29437,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/aarika-stone-short-necklace?variant=gid://shopify/ProductVariant/51396077224233",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0119_resized.jpg?v=1762165230"
+  },
+  "gid://shopify/ProductVariant/51396241686825": {
+    "product_title": "Iraja Manika Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "R14864",
+    "price": 41900.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/iraja-manika-short-necklace?variant=gid://shopify/ProductVariant/51396241686825",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0394_resized.jpg?v=1762240921"
   },
   "gid://shopify/ProductVariant/51396455727401": {
     "product_title": "Ruhani Short Necklace",
