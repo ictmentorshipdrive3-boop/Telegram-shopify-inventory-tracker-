@@ -17715,7 +17715,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 26600.0,
+    "price": 25000.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -35432,24 +35432,6 @@
     "url": "https://www.theamethyststore.com/products/leona-toe-ring?variant=gid://shopify/ProductVariant/47198220320995",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0422.jpg?v=1758621261"
   },
-  "gid://shopify/ProductVariant/47198224220387": {
-    "product_title": "Minerva Toe Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-117-0429",
-    "price": 2400.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/minerva-toe-ring?variant=gid://shopify/ProductVariant/47198224220387",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0429.jpg?v=1758621383"
-  },
-  "gid://shopify/ProductVariant/47198249648355": {
-    "product_title": "Amalia Toe Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-117-0430",
-    "price": 2400.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/amalia-toe-ring?variant=gid://shopify/ProductVariant/47198249648355",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0430.jpg?v=1758621546"
-  },
   "gid://shopify/ProductVariant/47198409883875": {
     "product_title": "Olivia Toe Ring",
     "variant_title": "Default Title",
@@ -36124,15 +36106,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/ferikha-stone-pair-bangle?variant=gid://shopify/ProductVariant/49681961287907",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2410-_2.jpg?v=1758711892"
-  },
-  "gid://shopify/ProductVariant/47202179285219": {
-    "product_title": "Keshvi Toe Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-117-0274",
-    "price": 1500.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/keshvi-toe-ring?variant=gid://shopify/ProductVariant/47202179285219",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0274.jpg?v=1758712733"
   },
   "gid://shopify/ProductVariant/47202187870435": {
     "product_title": "Evil Eye Toe Ring",
@@ -118682,6 +118655,24 @@
     "url": "https://www.theamethyststore.com/products/delia-toe-ring?variant=gid://shopify/ProductVariant/47197895131363",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0350.jpg?v=1758613818"
   },
+  "gid://shopify/ProductVariant/47198224220387": {
+    "product_title": "Minerva Toe Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-117-0429",
+    "price": 2400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/minerva-toe-ring?variant=gid://shopify/ProductVariant/47198224220387",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0429.jpg?v=1758621383"
+  },
+  "gid://shopify/ProductVariant/47198249648355": {
+    "product_title": "Amalia Toe Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-117-0430",
+    "price": 2400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/amalia-toe-ring?variant=gid://shopify/ProductVariant/47198249648355",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0430.jpg?v=1758621546"
+  },
   "gid://shopify/ProductVariant/47198306992355": {
     "product_title": "Blanca Toe Ring",
     "variant_title": "Default Title",
@@ -118780,6 +118771,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/facinate-stone-drops?variant=gid://shopify/ProductVariant/47202068234467",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10353.jpg?v=1758708616"
+  },
+  "gid://shopify/ProductVariant/47202179285219": {
+    "product_title": "Keshvi Toe Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-117-0274",
+    "price": 1500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/keshvi-toe-ring?variant=gid://shopify/ProductVariant/47202179285219",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0274.jpg?v=1758712733"
   },
   "gid://shopify/ProductVariant/47202191147235": {
     "product_title": "Evil Eye Toe Ring",
