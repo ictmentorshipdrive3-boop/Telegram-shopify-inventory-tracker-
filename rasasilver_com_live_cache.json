@@ -1052,15 +1052,6 @@
     "url": "https://www.rasasilver.com/products/triveni-devi-pendant?variant=gid://shopify/ProductVariant/50225735991593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP01815copy_ea49ac6e-ec05-4fd3-a9c1-da5bc9b0b285.jpg?v=1746120576"
   },
-  "gid://shopify/ProductVariant/50278891618601": {
-    "product_title": "Nayanika Nakshi Necklace",
-    "variant_title": "RED",
-    "sku": "R3034",
-    "price": 103300.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/nayanika-necklace?variant=gid://shopify/ProductVariant/50278891618601",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP01685copy.jpg?v=1746111960"
-  },
   "gid://shopify/ProductVariant/50225815257385": {
     "product_title": "Tejasvi Padma Pendant.",
     "variant_title": "Default Title",
@@ -1798,15 +1789,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/balaji-saubhagya-short-necklace?variant=gid://shopify/ProductVariant/50425990906153",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP01436copy.jpg?v=1749206728"
-  },
-  "gid://shopify/ProductVariant/50426047103273": {
-    "product_title": "Shri Mrinalini Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "R7606",
-    "price": 106400.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/shri-mrinalini-short-necklace?variant=gid://shopify/ProductVariant/50426047103273",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP01486-2copy.jpg?v=1749207527"
   },
   "gid://shopify/ProductVariant/50426141147433": {
     "product_title": "Vishnu's Avtars Long Necklace",
@@ -23975,6 +23957,15 @@
     "url": "https://www.rasasilver.com/products/nayanika-necklace?variant=gid://shopify/ProductVariant/50278891585833",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP01685copy.jpg?v=1746111960"
   },
+  "gid://shopify/ProductVariant/50278891618601": {
+    "product_title": "Nayanika Nakshi Necklace",
+    "variant_title": "RED",
+    "sku": "R3034",
+    "price": 103300.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/nayanika-necklace?variant=gid://shopify/ProductVariant/50278891618601",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP01685copy.jpg?v=1746111960"
+  },
   "gid://shopify/ProductVariant/50233869697321": {
     "product_title": "Mayura Varnika Pendant",
     "variant_title": "Default Title",
@@ -25000,6 +24991,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/balaji-saubhagya-short-necklace?variant=gid://shopify/ProductVariant/50425990938921",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP01436copy.jpg?v=1749206728"
+  },
+  "gid://shopify/ProductVariant/50426047103273": {
+    "product_title": "Shri Mrinalini Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "R7606",
+    "price": 106400.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/shri-mrinalini-short-necklace?variant=gid://shopify/ProductVariant/50426047103273",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP01486-2copy.jpg?v=1749207527"
   },
   "gid://shopify/ProductVariant/50431926796585": {
     "product_title": "Jal-Roshni Long Necklace",
