@@ -7375,7 +7375,7 @@
     "variant_title": "Pink",
     "sku": "444",
     "price": 2249.0,
-    "stock": 46,
+    "stock": 45,
     "url": "https://www.daivik.in/products/3-line-single-colour-mala-with-earrings-in-3-colors?variant=gid://shopify/ProductVariant/45696427622622",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4CD97FB4-6017-4378-AA31-801695F1B6A3.jpg?v=1720105255"
   },
@@ -7774,15 +7774,6 @@
     "stock": 1,
     "url": "https://www.daivik.in/products/3d-antique-lakshmi-peacock-elephant-necklace-with-earrings?variant=gid://shopify/ProductVariant/45836328435934",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG-7364.heic?v=1724686453"
-  },
-  "gid://shopify/ProductVariant/45848883232990": {
-    "product_title": "Dainty AD Pendant Necklace with Earrings in 3 Colors",
-    "variant_title": "Ruby",
-    "sku": "944",
-    "price": 1699.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/dainty-ad-pendant-necklace-with-earrings-in-3-colors?variant=gid://shopify/ProductVariant/45848883232990",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_10af397a-a16a-469d-b884-936b7e8906a4.heic?v=1724941134"
   },
   "gid://shopify/ProductVariant/45851569979614": {
     "product_title": "3D Lakshmi Jada/Hair Accessory",
@@ -9616,7 +9607,7 @@
     "variant_title": "Ruby",
     "sku": "1510",
     "price": 1499.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/moissanite-stone-hanging-earrings-in-5-colors-price-for-each?variant=gid://shopify/ProductVariant/46070662103262",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AA6A51D8-649C-40FD-B67B-798CB3718BD3.jpg?v=1731943357"
   },
@@ -11789,15 +11780,6 @@
     "url": "https://www.daivik.in/products/microplating-ruby-coin-kasumalai-short-long-combo-price-for-each?variant=gid://shopify/ProductVariant/46677659582686",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0D76BB97-B890-4BD8-B159-A265113982EE.jpg?v=1746610651"
   },
-  "gid://shopify/ProductVariant/46677659615454": {
-    "product_title": "Microplating Ruby coin Kasumalai (Short , long , Combo - Prices for Each)",
-    "variant_title": "Long",
-    "sku": "645",
-    "price": 3499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/microplating-ruby-coin-kasumalai-short-long-combo-price-for-each?variant=gid://shopify/ProductVariant/46677659615454",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0D76BB97-B890-4BD8-B159-A265113982EE.jpg?v=1746610651"
-  },
   "gid://shopify/ProductVariant/46679641784542": {
     "product_title": "Lotus Pearl Necklace with Studs (Price for Each)",
     "variant_title": "Green",
@@ -11938,7 +11920,7 @@
     "variant_title": "Default Title",
     "sku": "1266",
     "price": 1799.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/ad-pendant-flower-necklace-with-earrings?variant=gid://shopify/ProductVariant/46813927243998",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C971D71F-3CE6-45A1-B760-CE5864EB1EC7.jpg?v=1747924955"
   },
@@ -12262,7 +12244,7 @@
     "variant_title": "Default Title",
     "sku": "1283",
     "price": 1999.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.daivik.in/products/xuping-ad-flower-chain?variant=gid://shopify/ProductVariant/47024412754142",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/92C34FBC-173B-49D7-8C70-8BBEF7D9DCA4.jpg?v=1750347123"
   },
@@ -21487,7 +21469,7 @@
     "variant_title": "Default Title",
     "sku": "1962",
     "price": 1199.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/antique-ad-premium-beads-bali?variant=gid://shopify/ProductVariant/49008672342238",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B4B47BBC-53D6-416E-863C-B7B99DB1121B.jpg?v=1788935344"
   },
@@ -26162,6 +26144,15 @@
     "url": "https://www.daivik.in/products/dainty-ad-pendant-necklace-with-earrings-in-3-colors?variant=gid://shopify/ProductVariant/45848883200222",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_10af397a-a16a-469d-b884-936b7e8906a4.heic?v=1724941134"
   },
+  "gid://shopify/ProductVariant/45848883232990": {
+    "product_title": "Dainty AD Pendant Necklace with Earrings in 3 Colors",
+    "variant_title": "Ruby",
+    "sku": "944",
+    "price": 1699.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/dainty-ad-pendant-necklace-with-earrings-in-3-colors?variant=gid://shopify/ProductVariant/45848883232990",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_10af397a-a16a-469d-b884-936b7e8906a4.heic?v=1724941134"
+  },
   "gid://shopify/ProductVariant/45854519165150": {
     "product_title": "AD Purple Choker with Earrings",
     "variant_title": "Default Title",
@@ -27844,6 +27835,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/a-35?variant=gid://shopify/ProductVariant/46669963985118",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/35ABC6FE-E4E5-4D28-9BD5-8B850B6CE6F6.jpg?v=1746370460"
+  },
+  "gid://shopify/ProductVariant/46677659615454": {
+    "product_title": "Microplating Ruby coin Kasumalai (Short , long , Combo - Prices for Each)",
+    "variant_title": "Long",
+    "sku": "645",
+    "price": 3499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/microplating-ruby-coin-kasumalai-short-long-combo-price-for-each?variant=gid://shopify/ProductVariant/46677659615454",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0D76BB97-B890-4BD8-B159-A265113982EE.jpg?v=1746610651"
   },
   "gid://shopify/ProductVariant/46679641751774": {
     "product_title": "Lotus Pearl Necklace with Studs (Price for Each)",
