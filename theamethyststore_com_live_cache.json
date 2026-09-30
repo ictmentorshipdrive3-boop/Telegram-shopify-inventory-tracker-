@@ -16555,7 +16555,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-7665",
     "price": 23400.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/facinate-victorian-studs?variant=gid://shopify/ProductVariant/46129192698083",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-7665.jpg?v=1742099468"
   },
@@ -25204,7 +25204,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-9568",
     "price": 21210.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/charm-red-kundan-studs?variant=gid://shopify/ProductVariant/46939619590371",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9568.jpg?v=1753444182"
   },
@@ -59179,7 +59179,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-14638",
     "price": 22971.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/karisha-nagas-short-necklace-set?variant=gid://shopify/ProductVariant/48296284192995",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14638.jpg?v=1771666778"
   },
@@ -62104,7 +62104,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-15194",
     "price": 7000.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.theamethyststore.com/products/amvika-hasli-necklace?variant=gid://shopify/ProductVariant/48644374003939",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15194.jpg?v=1775307370"
   },
@@ -63187,15 +63187,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/starring-stone-nose-pin?variant=gid://shopify/ProductVariant/48811535007971",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0488.jpg?v=1776173222"
-  },
-  "gid://shopify/ProductVariant/48812658589923": {
-    "product_title": "luxurious Kundan Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-13310",
-    "price": 29169.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kundan-jhumkas-6?variant=gid://shopify/ProductVariant/48812658589923",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13310.jpg?v=1776174627"
   },
   "gid://shopify/ProductVariant/48813730922723": {
     "product_title": "Dazzling Nagas Pendant",
@@ -94243,7 +94234,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17451",
     "price": 56900.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/asvikaa-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/49563454570723",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17451.jpg?v=1787223974"
   },
@@ -109474,6 +109465,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/shining-brilliant-stone-drops?variant=gid://shopify/ProductVariant/67606013837539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16425.jpg?v=1790768109"
+  },
+  "gid://shopify/ProductVariant/67606150873315": {
+    "product_title": "Radiant Stone Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16412",
+    "price": 7336.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/radiant-stone-drops?variant=gid://shopify/ProductVariant/67606150873315",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16412.jpg?v=1790769613"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -126880,6 +126880,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/trendy-glow-jhumkas?variant=gid://shopify/ProductVariant/48808080572643",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13258.jpg?v=1776168775"
+  },
+  "gid://shopify/ProductVariant/48812658589923": {
+    "product_title": "luxurious Kundan Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-13310",
+    "price": 29169.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kundan-jhumkas-6?variant=gid://shopify/ProductVariant/48812658589923",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13310.jpg?v=1776174627"
   },
   "gid://shopify/ProductVariant/48820578615523": {
     "product_title": "Unique Catchy Nagas Pendant",
