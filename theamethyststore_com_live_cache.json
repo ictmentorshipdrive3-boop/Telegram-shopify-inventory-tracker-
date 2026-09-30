@@ -179,15 +179,6 @@
     "url": "https://www.theamethyststore.com/products/copy-of-daisy-jhumkas?variant=gid://shopify/ProductVariant/37658057080982",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-1760.jpg?v=1709701627"
   },
-  "gid://shopify/ProductVariant/37659409645718": {
-    "product_title": "Dude Hook Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-1704",
-    "price": 6300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/copy-of-blazing-star-earrings?variant=gid://shopify/ProductVariant/37659409645718",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/11_a9b5e862-ebed-467e-891b-53e6ae97c70f.jpg?v=1611662357"
-  },
   "gid://shopify/ProductVariant/37708613386390": {
     "product_title": "Reyansh Kundan Choker",
     "variant_title": "Default Title",
@@ -17715,7 +17706,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 25000.0,
+    "price": 26600.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -69376,7 +69367,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-13862",
     "price": 17200.0,
-    "stock": 5,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/julia-avikam-jhumkas?variant=gid://shopify/ProductVariant/49078644539619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13862.jpg?v=1780224939"
   },
@@ -74812,7 +74803,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-14280",
     "price": 19400.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/sparkling-avikam-jhumkas?variant=gid://shopify/ProductVariant/49332549812451",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14280.jpg?v=1782801034"
   },
@@ -109439,6 +109430,15 @@
     "url": "https://www.theamethyststore.com/products/verde-bloom-stone-drops?variant=gid://shopify/ProductVariant/67605909536995",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16384.jpg?v=1790766823"
   },
+  "gid://shopify/ProductVariant/67605936439523": {
+    "product_title": "Blooming Beauty Stone Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16408",
+    "price": 10509.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/blooming-beauty-stone-drops-1?variant=gid://shopify/ProductVariant/67605936439523",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16408.jpg?v=1790767284"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -109510,6 +109510,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/copy-of-fancy-memoirs?variant=gid://shopify/ProductVariant/37508584177814",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/stone.jpg?v=1610013009"
+  },
+  "gid://shopify/ProductVariant/37659409645718": {
+    "product_title": "Dude Hook Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-1704",
+    "price": 6300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/copy-of-blazing-star-earrings?variant=gid://shopify/ProductVariant/37659409645718",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/11_a9b5e862-ebed-467e-891b-53e6ae97c70f.jpg?v=1611662357"
   },
   "gid://shopify/ProductVariant/37742189215894": {
     "product_title": "Precious Floret Ring!!!",
