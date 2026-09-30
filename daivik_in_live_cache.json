@@ -5215,7 +5215,7 @@
     "variant_title": "White",
     "sku": "528",
     "price": 1699.0,
-    "stock": 43,
+    "stock": 42,
     "url": "https://www.daivik.in/products/ad-diamond-look-alike-smaller-necklace-and-earrings-in-2-colors-prices-for-each?variant=gid://shopify/ProductVariant/44408679039198",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9578.heic?v=1697296909"
   },
@@ -11776,7 +11776,7 @@
     "variant_title": "Green",
     "sku": "1259",
     "price": 599.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/l?variant=gid://shopify/ProductVariant/46679641784542",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/17BC1C58-6F27-4E5E-85E4-C8989909A891.jpg?v=1746685096"
   },
@@ -21275,15 +21275,6 @@
     "url": "https://www.daivik.in/products/simple-flower-pendant-hasli-necklace-with-earrings?variant=gid://shopify/ProductVariant/48649192210654",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1580_83ae5a0b-d197-4578-a296-bbad5f5a2b8a.jpg?v=1787842746"
   },
-  "gid://shopify/ProductVariant/48801242218718": {
-    "product_title": "Rashmika Inspired Lakshmi Coin Mangalsutra",
-    "variant_title": "Default Title",
-    "sku": "722",
-    "price": 699.0,
-    "stock": 2,
-    "url": "https://www.daivik.in/products/lakshmi-rashmika-inspired-mangalsutra?variant=gid://shopify/ProductVariant/48801242218718",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1820.jpg?v=1788005030"
-  },
   "gid://shopify/ProductVariant/48813673414878": {
     "product_title": "Lakshmi Antique Ruby Green Jada Billai / Choti / Hair Accessory",
     "variant_title": "Default Title",
@@ -30697,6 +30688,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/black-beads-jalli-classic-mala-chain?variant=gid://shopify/ProductVariant/48645693636830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5F282C96-F264-4289-A54D-B92E77D91465.jpg?v=1787762150"
+  },
+  "gid://shopify/ProductVariant/48801242218718": {
+    "product_title": "Rashmika Inspired Lakshmi Coin Mangalsutra",
+    "variant_title": "Default Title",
+    "sku": "722",
+    "price": 699.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/lakshmi-rashmika-inspired-mangalsutra?variant=gid://shopify/ProductVariant/48801242218718",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1820.jpg?v=1788005030"
   },
   "gid://shopify/ProductVariant/49008807674078": {
     "product_title": "Kid's Lakshmi Ruby Green Bangles in 4 Sizes",
