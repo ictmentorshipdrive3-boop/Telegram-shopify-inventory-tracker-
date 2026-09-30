@@ -67666,7 +67666,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-1315",
     "price": 10200.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/mahaghosha-avikam-bracelet?variant=gid://shopify/ProductVariant/48931743727843",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1315.jpg?v=1778506179"
   },
@@ -76309,15 +76309,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/mahira-nagas-jhumkas?variant=gid://shopify/ProductVariant/49362753028323",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14681.jpg?v=1783159225"
-  },
-  "gid://shopify/ProductVariant/49362767479011": {
-    "product_title": "Amazing Nagas Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14682",
-    "price": 9461.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/amazing-nagas-jhumkas-1?variant=gid://shopify/ProductVariant/49362767479011",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14682.jpg?v=1783159322"
   },
   "gid://shopify/ProductVariant/49362786877667": {
     "product_title": "Anvitha Nagas Jhumkas",
@@ -98185,7 +98176,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15344",
     "price": 4222.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/nagas-studs-36?variant=gid://shopify/ProductVariant/49648497524963",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15344.jpg?v=1788182331"
   },
@@ -98689,7 +98680,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15876",
     "price": 4259.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/divine-stone-studs?variant=gid://shopify/ProductVariant/49654325772515",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15876.jpg?v=1788263732"
   },
@@ -134008,6 +133999,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/golden-grace-nagas-jhumkas?variant=gid://shopify/ProductVariant/49362719342819",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14680.jpg?v=1783159031"
+  },
+  "gid://shopify/ProductVariant/49362767479011": {
+    "product_title": "Amazing Nagas Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14682",
+    "price": 9461.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/amazing-nagas-jhumkas-1?variant=gid://shopify/ProductVariant/49362767479011",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14682.jpg?v=1783159322"
   },
   "gid://shopify/ProductVariant/49362834850019": {
     "product_title": "Aaranya Nagas Jhumkas",
