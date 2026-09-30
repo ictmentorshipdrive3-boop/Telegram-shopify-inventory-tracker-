@@ -139,7 +139,7 @@
     "variant_title": "Default Title",
     "sku": "105",
     "price": 999.0,
-    "stock": 41,
+    "stock": 40,
     "url": "https://www.daivik.in/products/105?variant=gid://shopify/ProductVariant/32649702342715",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_7948.jpg?v=1584428326"
   },
@@ -12067,15 +12067,6 @@
     "stock": 6,
     "url": "https://www.daivik.in/products/jadau-mossanite-premium-pearl-choker-with-earrings?variant=gid://shopify/ProductVariant/46985190408414",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E4F5992F-952B-4E09-8F02-F11E2E20DA90.jpg?v=1748873993"
-  },
-  "gid://shopify/ProductVariant/46991130755294": {
-    "product_title": "Premium Flower Chain with Earrings in 3 Colors",
-    "variant_title": "Black",
-    "sku": "1278",
-    "price": 1099.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/premium-flower-chain-with-earrings-in-3-colors?variant=gid://shopify/ProductVariant/46991130755294",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CD2F62D2-F07F-4745-A025-9E2F3790D563.jpg?v=1749043952"
   },
   "gid://shopify/ProductVariant/46996613333214": {
     "product_title": "Nita Ambani Mam Inspired Balaji Pure Kemp Brass Guttapusalu Necklace with Jhumkas (Seprate price for Short, Long and Combo)",
@@ -28069,6 +28060,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/victorian-mossanite-choti-jadabillai-in-3-colours?variant=gid://shopify/ProductVariant/46989345390814",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1E3DE59D-85F6-4BDE-87BF-41C5B8CA8516.jpg?v=1749008359"
+  },
+  "gid://shopify/ProductVariant/46991130755294": {
+    "product_title": "Premium Flower Chain with Earrings in 3 Colors",
+    "variant_title": "Black",
+    "sku": "1278",
+    "price": 1099.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/premium-flower-chain-with-earrings-in-3-colors?variant=gid://shopify/ProductVariant/46991130755294",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CD2F62D2-F07F-4745-A025-9E2F3790D563.jpg?v=1749043952"
   },
   "gid://shopify/ProductVariant/46991130788062": {
     "product_title": "Premium Flower Chain with Earrings in 3 Colors",
