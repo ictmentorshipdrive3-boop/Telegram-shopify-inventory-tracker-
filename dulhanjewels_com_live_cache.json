@@ -7550,15 +7550,6 @@
     "url": "https://www.dulhanjewels.com/products/untitled-sep29_17-56-38?variant=gid://shopify/ProductVariant/67870695457074",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/E52E04D4-5D01-4CC1-A18F-6B778817E38E.jpg?v=1790684359"
   },
-  "gid://shopify/ProductVariant/67870698144050": {
-    "product_title": "Minimal Jadau Kundan Choker With Green Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1050.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/minimal-jadau-kundan-beads-and-pearl-choker?variant=gid://shopify/ProductVariant/67870698144050",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/3AA136BC-CF2B-422C-A8A5-0974A4DA098A.jpg?v=1790684554"
-  },
   "gid://shopify/ProductVariant/67870701682994": {
     "product_title": "Multicolour Jadau Kundan HairPin",
     "variant_title": "Default Title",
@@ -7684,15 +7675,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/green-beaded-jadau-kundan-stud-earrings?variant=gid://shopify/ProductVariant/67870744281394",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/2BFDF3AF-4B1C-477F-BE1B-E8A98D40A52F.jpg?v=1790689693"
-  },
-  "gid://shopify/ProductVariant/67870745854258": {
-    "product_title": "Jadau Kundan Paisley Necklace With Black Beads",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1250.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/jadau-kundan-paisley-necklace-with-black-beads?variant=gid://shopify/ProductVariant/67870745854258",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-1656.jpg?v=1790688331"
   },
   "gid://shopify/ProductVariant/67870747853106": {
     "product_title": "Floral Design Jadau Kundan Necklace Set With Green Beads",
@@ -8188,5 +8170,23 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/floral-design-moissanite-polki-earrings?variant=gid://shopify/ProductVariant/67868779643186",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/AAADA55F-2548-4A8E-88B0-B0F1685CA514.jpg?v=1790601556"
+  },
+  "gid://shopify/ProductVariant/67870698144050": {
+    "product_title": "Minimal Jadau Kundan Choker With Green Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1050.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/minimal-jadau-kundan-beads-and-pearl-choker?variant=gid://shopify/ProductVariant/67870698144050",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/3AA136BC-CF2B-422C-A8A5-0974A4DA098A.jpg?v=1790684554"
+  },
+  "gid://shopify/ProductVariant/67870745854258": {
+    "product_title": "Jadau Kundan Paisley Necklace With Black Beads",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1250.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/jadau-kundan-paisley-necklace-with-black-beads?variant=gid://shopify/ProductVariant/67870745854258",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-1656.jpg?v=1790688331"
   }
 }
