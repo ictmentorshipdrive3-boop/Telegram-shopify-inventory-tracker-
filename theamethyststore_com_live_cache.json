@@ -104476,7 +104476,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18138",
     "price": 42800.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/effortlessly-wearable-avikam-long-necklace?variant=gid://shopify/ProductVariant/49769982492899",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18138.jpg?v=1789736869"
   },
@@ -109960,6 +109960,24 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/vershikaa-nagas-long-earrings?variant=gid://shopify/ProductVariant/67609639846115",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16424.jpg?v=1790856136"
+  },
+  "gid://shopify/ProductVariant/67609680806115": {
+    "product_title": "Heartwarming Moissanite Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18369",
+    "price": 60400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/heartwarming-moissanite-short-necklace-set?variant=gid://shopify/ProductVariant/67609680806115",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18369.jpg?v=1790856169"
+  },
+  "gid://shopify/ProductVariant/67609758925027": {
+    "product_title": "Aadhiraa Stone Single Bangle",
+    "variant_title": "2.4",
+    "sku": "AMS-107-3609-2.4",
+    "price": 16909.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/aadhiraa-stone-single-bangle?variant=gid://shopify/ProductVariant/67609758925027",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3609-2.4.jpg?v=1790856966"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
