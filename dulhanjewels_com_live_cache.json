@@ -4454,15 +4454,6 @@
     "url": "https://www.dulhanjewels.com/products/classic-floral-kundan-ring-with-pearl-bordering?variant=gid://shopify/ProductVariant/51132149858610",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/AAB8F37E-2FB3-47E5-B06E-1DA1FBD3B163.jpg?v=1778067722"
   },
-  "gid://shopify/ProductVariant/51132157460786": {
-    "product_title": "Designer Chand Motif Jadau Kundan Pendant With Golden Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1250.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/designer-chand-motif-jadau-kundan-pendant-with-golden-drops?variant=gid://shopify/ProductVariant/51132157460786",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/61ED2C5E-371F-42E8-95EF-24CE759EFDEB.jpg?v=1780665754"
-  },
   "gid://shopify/ProductVariant/51132305867058": {
     "product_title": "Traditional Bridal Long Haram With Designer Pendant And White Drops",
     "variant_title": "Default Title",
@@ -7462,7 +7453,7 @@
   },
   "gid://shopify/ProductVariant/67868682584370": {
     "product_title": "Floral Design Moissanite Polki Earrings",
-    "variant_title": "Pink",
+    "variant_title": "Default Title",
     "sku": null,
     "price": 1050.0,
     "stock": 1,
@@ -7838,6 +7829,15 @@
     "url": "https://www.dulhanjewels.com/products/mehandi-victorian-polki-kundan-bangles?variant=gid://shopify/ProductVariant/50820460151090",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/12D3211A-DE5E-403F-83A1-79B87A5DA8BD.jpg?v=1768652763"
   },
+  "gid://shopify/ProductVariant/51132157460786": {
+    "product_title": "Designer Chand Motif Jadau Kundan Pendant With Golden Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1250.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/designer-chand-motif-jadau-kundan-pendant-with-golden-drops?variant=gid://shopify/ProductVariant/51132157460786",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/61ED2C5E-371F-42E8-95EF-24CE759EFDEB.jpg?v=1780665754"
+  },
   "gid://shopify/ProductVariant/51411253854514": {
     "product_title": "Floral Studded Jadau Kundan Jhumki With Pearl Hangings",
     "variant_title": "Red",
@@ -7873,14 +7873,5 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/designer-jalebi-necklace-with-matching-earrings?variant=gid://shopify/ProductVariant/52195364700466",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/17F62E79-314D-4D7C-B995-EBCAF8D0BFE4.jpg?v=1790156878"
-  },
-  "gid://shopify/ProductVariant/67868682617138": {
-    "product_title": "Floral Design Moissanite Polki Earrings",
-    "variant_title": "Turquiose Green",
-    "sku": null,
-    "price": 1050.0,
-    "stock": 0,
-    "url": "https://www.dulhanjewels.com/products/floral-design-moissanite-polki-earrings?variant=gid://shopify/ProductVariant/67868682617138",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/2A23584D-E315-497E-B1B6-37581785A0D4.jpg?v=1790672846"
   }
 }
