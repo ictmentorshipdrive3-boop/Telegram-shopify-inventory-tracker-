@@ -10574,15 +10574,6 @@
     "url": "https://www.kanshijewels.com/products/statement-emerald-diamond-elegant-earrings?variant=gid://shopify/ProductVariant/53255976943916",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/4_d7579e38-4401-45ec-a4f9-fd33c47e16f4.png?v=1780317079"
   },
-  "gid://shopify/ProductVariant/53255980286252": {
-    "product_title": "Dulhan rani maangtika",
-    "variant_title": "Default Title",
-    "sku": "MT75",
-    "price": 1450.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/dulhan-rani-maangtika?variant=gid://shopify/ProductVariant/53255980286252",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2_97967519-bc53-496b-9162-6390e535436b.png?v=1780317399"
-  },
   "gid://shopify/ProductVariant/53255980712236": {
     "product_title": "Reversible gandaberunda pendant and mala dulhan set",
     "variant_title": "Default Title",
@@ -10858,7 +10849,7 @@
     "variant_title": "Default Title",
     "sku": "ER526",
     "price": 2600.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.kanshijewels.com/products/elegant-jadau-dulhan-jhumkas?variant=gid://shopify/ProductVariant/53369020023084",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Elegantjadaudulhanjhumkas2600.jpg?v=1782218251"
   },
@@ -14362,6 +14353,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/bridal-polki-necklace-set?variant=gid://shopify/ProductVariant/53180531802412",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Polkifusionset3800.jpg?v=1778132880"
+  },
+  "gid://shopify/ProductVariant/53255980286252": {
+    "product_title": "Dulhan rani maangtika",
+    "variant_title": "Default Title",
+    "sku": "MT75",
+    "price": 1450.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/dulhan-rani-maangtika?variant=gid://shopify/ProductVariant/53255980286252",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2_97967519-bc53-496b-9162-6390e535436b.png?v=1780317399"
   },
   "gid://shopify/ProductVariant/53255992475948": {
     "product_title": "Multipurpose hasli",
