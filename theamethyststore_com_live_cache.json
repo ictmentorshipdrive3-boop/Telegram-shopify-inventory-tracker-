@@ -1074,8 +1074,8 @@
     "product_title": "Peacock Earrings",
     "variant_title": "Default Title",
     "sku": "AMS-106-2278",
-    "price": 10203.0,
-    "stock": 3,
+    "price": 10529.0,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/peacock-earrings?variant=gid://shopify/ProductVariant/42404835983587",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-2278.jpg?v=1742478855"
   },
@@ -17724,7 +17724,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 26600.0,
+    "price": 25000.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -69785,6 +69785,15 @@
     "url": "https://www.theamethyststore.com/products/ginevra-pair-bangle?variant=gid://shopify/ProductVariant/49249888796899",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3219.jpg?v=1781159190"
   },
+  "gid://shopify/ProductVariant/49249977368803": {
+    "product_title": "Alice Pair Bangle",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-3220-2.6",
+    "price": 18000.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/alice-pair-bangle?variant=gid://shopify/ProductVariant/49249977368803",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3220.jpg?v=1781159551"
+  },
   "gid://shopify/ProductVariant/49250306031843": {
     "product_title": "Emma Studs",
     "variant_title": "Default Title",
@@ -93775,7 +93784,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17456",
     "price": 74100.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/sherikha-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/49562831814883",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17456.jpg?v=1787211027"
   },
@@ -109321,6 +109330,24 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/swings-with-shine-stone-jhumkas?variant=gid://shopify/ProductVariant/67606590914787",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16391.jpg?v=1790776779"
+  },
+  "gid://shopify/ProductVariant/67608842502371": {
+    "product_title": "Peacock-Inspired Stone Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16407",
+    "price": 33152.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/peacock-inspired-stone-jhumkas?variant=gid://shopify/ProductVariant/67608842502371",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16407.jpg?v=1790831880"
+  },
+  "gid://shopify/ProductVariant/67608870093027": {
+    "product_title": "Unique Bloom Hook Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16423",
+    "price": 18860.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/unique-bloom-hook-drops?variant=gid://shopify/ProductVariant/67608870093027",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16423.jpg?v=1790833246"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -130256,15 +130283,6 @@
     "url": "https://www.theamethyststore.com/products/heritage-3d-spl-jhumkas?variant=gid://shopify/ProductVariant/49162335846627",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14099.jpg?v=1780753324"
   },
-  "gid://shopify/ProductVariant/49249977368803": {
-    "product_title": "Alice Pair Bangle",
-    "variant_title": "2.6\"",
-    "sku": "AMS-107-3220-2.6",
-    "price": 18000.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/alice-pair-bangle?variant=gid://shopify/ProductVariant/49249977368803",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3220.jpg?v=1781159551"
-  },
   "gid://shopify/ProductVariant/49250424750307": {
     "product_title": "Giorgia Avikam Pendant Set",
     "variant_title": "Default Title",
@@ -140668,14 +140686,5 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/vinthikaa-diamond-design-studs?variant=gid://shopify/ProductVariant/49791757582563",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16136.jpg?v=1790057849"
-  },
-  "gid://shopify/ProductVariant/49792539066595": {
-    "product_title": "Pranavi Diamond Design Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-16147",
-    "price": 3500.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/pranavi-diamond-design-studs?variant=gid://shopify/ProductVariant/49792539066595",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16147.jpg?v=1790062198"
   }
 }
