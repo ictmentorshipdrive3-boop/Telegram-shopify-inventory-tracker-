@@ -436,7 +436,7 @@
     "variant_title": "Default Title",
     "sku": "338",
     "price": 1299.0,
-    "stock": 22,
+    "stock": 21,
     "url": "https://www.daivik.in/products/gold-finish-ad-peacock-choker?variant=gid://shopify/ProductVariant/35573943206041",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/gold-finish-ad-peacock-choker-neckwearnecklace-226.jpg?v=1597307410"
   },
@@ -6574,7 +6574,7 @@
     "variant_title": "Ruby",
     "sku": "881",
     "price": 999.0,
-    "stock": 54,
+    "stock": 53,
     "url": "https://www.daivik.in/products/victorian-ad-choker-with-earrings?variant=gid://shopify/ProductVariant/45204086194398",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0234.jpg?v=1779468898"
   },
@@ -11419,15 +11419,6 @@
     "stock": 5,
     "url": "https://www.daivik.in/products/moissanite-antique-strawberry-green-beads-jhumkas?variant=gid://shopify/ProductVariant/46601433055454",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E5BCE816-21FE-4422-981D-AD4B501C384E.jpg?v=1744526067"
-  },
-  "gid://shopify/ProductVariant/46601934045406": {
-    "product_title": "Invisible AD Leaf Necklace with Earrings in two Colors (Price for Each)",
-    "variant_title": "Ruby Green",
-    "sku": "982",
-    "price": 699.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/invisible-ad-leaf-necklace-with-earrings-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/46601934045406",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1BC5AE9E-3283-41C7-AE2B-A526038DB48D.jpg?v=1744559542"
   },
   "gid://shopify/ProductVariant/46601934078174": {
     "product_title": "Invisible AD Leaf Necklace with Earrings in two Colors (Price for Each)",
@@ -21730,7 +21721,7 @@
     "variant_title": "Default Title",
     "sku": "1974",
     "price": 399.0,
-    "stock": 36,
+    "stock": 35,
     "url": "https://www.daivik.in/products/simple-ad-small-jhumkas?variant=gid://shopify/ProductVariant/49118521032926",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FD5CA177-93E7-4ADE-B6F1-6218218BD53F.jpg?v=1790593662"
   },
@@ -27673,6 +27664,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/ad-saree-pin-price-for-each?variant=gid://shopify/ProductVariant/46599753203934",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/61338122-9068-4FA8-B780-51CBE009F495.jpg?v=1744431816"
+  },
+  "gid://shopify/ProductVariant/46601934045406": {
+    "product_title": "Invisible AD Leaf Necklace with Earrings in two Colors (Price for Each)",
+    "variant_title": "Ruby Green",
+    "sku": "982",
+    "price": 699.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/invisible-ad-leaf-necklace-with-earrings-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/46601934045406",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1BC5AE9E-3283-41C7-AE2B-A526038DB48D.jpg?v=1744559542"
   },
   "gid://shopify/ProductVariant/46608572973278": {
     "product_title": "Simple Flower AD Necklace with Earrings",
