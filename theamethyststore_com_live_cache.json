@@ -5566,7 +5566,7 @@
     "variant_title": "Small",
     "sku": "AMS-119-0001-S",
     "price": 5000.0,
-    "stock": 20,
+    "stock": 19,
     "url": "https://www.theamethyststore.com/products/fish-hook-back-chain?variant=gid://shopify/ProductVariant/49674885333219",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_21dbdd2e-d30a-4019-816f-52833d641d9a.jpg?v=1693456844"
   },
@@ -17724,7 +17724,7 @@
     "product_title": "Sundarika Stone Pair Bangle",
     "variant_title": "2.6\"",
     "sku": "AMS-107-1868-2.6\"",
-    "price": 26600.0,
+    "price": 25000.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-17?variant=gid://shopify/ProductVariant/46326091972835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1868.jpg?v=1743775598"
@@ -23479,15 +23479,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/grand-floral-maangtikka?variant=gid://shopify/ProductVariant/46825128460515",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1640.jpg?v=1752054551"
-  },
-  "gid://shopify/ProductVariant/46825135079651": {
-    "product_title": "Eliazz Maangtikka",
-    "variant_title": "Default Title",
-    "sku": "AMS-109-1639",
-    "price": 16429.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/eliazz-maangtikka?variant=gid://shopify/ProductVariant/46825135079651",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1639.jpg?v=1752054724"
   },
   "gid://shopify/ProductVariant/46825142124771": {
     "product_title": "Laravika Maangtikka",
@@ -81661,7 +81652,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-112-0896",
     "price": 54300.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/avikam-vanki-4?variant=gid://shopify/ProductVariant/49439674138851",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0896.jpg?v=1784815053"
   },
@@ -93743,15 +93734,6 @@
     "url": "https://www.theamethyststore.com/products/avikam-bracelet-36?variant=gid://shopify/ProductVariant/49562515636451",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1503.jpg?v=1787209430"
   },
-  "gid://shopify/ProductVariant/49562549256419": {
-    "product_title": "Nainikaa Avikam Bracelet",
-    "variant_title": "Default Title",
-    "sku": "AMS-103-1504",
-    "price": 11500.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/avikam-bracelet-37?variant=gid://shopify/ProductVariant/49562549256419",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1504.jpg?v=1787209567"
-  },
   "gid://shopify/ProductVariant/49562653556963": {
     "product_title": "Luxurious Diamond Design Necklace Set",
     "variant_title": "Default Title",
@@ -93793,7 +93775,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17456",
     "price": 74100.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/sherikha-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/49562831814883",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17456.jpg?v=1787211027"
   },
@@ -115900,6 +115882,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/dhithisa-jada-billa?variant=gid://shopify/ProductVariant/46824819654883",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0491_5f0e2b81-1745-4444-bfb8-095ef2e6c761.jpg?v=1770630650"
+  },
+  "gid://shopify/ProductVariant/46825135079651": {
+    "product_title": "Eliazz Maangtikka",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-1639",
+    "price": 16429.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/eliazz-maangtikka?variant=gid://shopify/ProductVariant/46825135079651",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1639.jpg?v=1752054724"
   },
   "gid://shopify/ProductVariant/46836726726883": {
     "product_title": "Pretiest Victorian Long Earrings",
@@ -138931,6 +138922,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/avikam-bracelet-35?variant=gid://shopify/ProductVariant/49562494599395",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1501.jpg?v=1787209304"
+  },
+  "gid://shopify/ProductVariant/49562549256419": {
+    "product_title": "Nainikaa Avikam Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1504",
+    "price": 11500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/avikam-bracelet-37?variant=gid://shopify/ProductVariant/49562549256419",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1504.jpg?v=1787209567"
   },
   "gid://shopify/ProductVariant/49562613186787": {
     "product_title": "Nenaikaa Avikam Bracelet",
