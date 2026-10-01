@@ -7451,15 +7451,6 @@
     "url": "https://www.dulhanjewels.com/products/radiant-victorian-stud-earrings-with-hangings?variant=gid://shopify/ProductVariant/67819723653426",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/B5B45E2A-65F0-4B18-9944-887ECDC3A7F2.jpg?v=1790835751"
   },
-  "gid://shopify/ProductVariant/67819879399730": {
-    "product_title": "Classic Victorian Stud Earrings With Floral Design",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 650.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/classic-victorian-stud-earrings-with-floral-design?variant=gid://shopify/ProductVariant/67819879399730",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/08F951E1-6DA8-4E2A-A426-D1142431680B.jpg?v=1790836183"
-  },
   "gid://shopify/ProductVariant/67820150653234": {
     "product_title": "Multicolour Victorian Chandbali Earrings With Swarovski Pearls",
     "variant_title": "Default Title",
@@ -7918,5 +7909,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/gold-finish-jadau-kundan-bangles-with-floral-center-motif?variant=gid://shopify/ProductVariant/51473044570418",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/792329B2-6933-46CA-B95A-AE2E679EC7A7.jpg?v=1783418017"
+  },
+  "gid://shopify/ProductVariant/67819879399730": {
+    "product_title": "Classic Victorian Stud Earrings With Floral Design",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 650.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/classic-victorian-stud-earrings-with-floral-design?variant=gid://shopify/ProductVariant/67819879399730",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/08F951E1-6DA8-4E2A-A426-D1142431680B.jpg?v=1790836183"
   }
 }
