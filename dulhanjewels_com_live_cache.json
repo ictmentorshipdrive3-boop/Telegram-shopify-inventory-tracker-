@@ -5323,7 +5323,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 4500.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.dulhanjewels.com/products/trending-moissanite-polki-choker-with-guttapusalu-hangings?variant=gid://shopify/ProductVariant/51486504583474",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/A37E92FE-BBB4-4A62-AE01-BAB700336C1B.jpg?v=1784366053"
   },
@@ -7109,15 +7109,6 @@
     "url": "https://www.dulhanjewels.com/products/traditional-victorian-chandbali-earrings-with-pearl-drops?variant=gid://shopify/ProductVariant/67870065885490",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/57F2C6C0-AC43-4601-B9CA-DA08BE9B0178.jpg?v=1790676607"
   },
-  "gid://shopify/ProductVariant/67870196072754": {
-    "product_title": "Floral Design Victorian Stud Earrings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1050.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/floral-design-victorian-stud-earrings?variant=gid://shopify/ProductVariant/67870196072754",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/7DAF982C-6F59-4339-A3BD-D5BF52475D5C.jpg?v=1790836016"
-  },
   "gid://shopify/ProductVariant/67870252138802": {
     "product_title": "Unique Design Victorian Stud Earrings",
     "variant_title": "Default Title",
@@ -7765,6 +7756,15 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/untitled-sep28_19-00-50?variant=gid://shopify/ProductVariant/67821363429682",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/F2E43B6C-2879-4743-B13F-7C59E9C225E7.jpg?v=1790601813"
+  },
+  "gid://shopify/ProductVariant/67870196072754": {
+    "product_title": "Floral Design Victorian Stud Earrings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1050.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/floral-design-victorian-stud-earrings?variant=gid://shopify/ProductVariant/67870196072754",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/7DAF982C-6F59-4339-A3BD-D5BF52475D5C.jpg?v=1790836016"
   },
   "gid://shopify/ProductVariant/67870701682994": {
     "product_title": "Multicolour Jadau Kundan HairPin",
