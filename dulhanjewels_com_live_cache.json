@@ -6893,15 +6893,6 @@
     "url": "https://www.dulhanjewels.com/products/ethnic-floral-designer-jadau-kundan-chanbdali-earrings?variant=gid://shopify/ProductVariant/52199986823474",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6174601300524338973.jpg?v=1790327629"
   },
-  "gid://shopify/ProductVariant/52200214659378": {
-    "product_title": "Elegant Moissanite Polki Nose Pin",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 700.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/elegant-moissanite-polki-nose-pin?variant=gid://shopify/ProductVariant/52200214659378",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/7FA5C3C9-629A-4121-A085-53F121100EA2.jpg?v=1790447261"
-  },
   "gid://shopify/ProductVariant/52200422310194": {
     "product_title": "Opulent Chandbali Earrings With Emerald Drops",
     "variant_title": "Default Title",
@@ -6955,15 +6946,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/delicate-jadau-kundan-laxmi-devi-locket-with-green-drops?variant=gid://shopify/ProductVariant/52212089717042",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/D63F3692-6271-44D1-B265-D9A531D5C39F.jpg?v=1790447261"
-  },
-  "gid://shopify/ProductVariant/52212510490930": {
-    "product_title": "Navratna Necklace Set With Multicolor Stone Drops And Pearl Detailing",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1750.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/navratna-necklace-set-with-multicolor-stone-drops-and-pearl-detailing?variant=gid://shopify/ProductVariant/52212510490930",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/0524C0D6-49E6-41CA-82DD-ACF1DE56F891.jpg?v=1790170350"
   },
   "gid://shopify/ProductVariant/52258190164274": {
     "product_title": "Exquisite Victorian Polki Kundan Bangles With Green Stones",
@@ -7315,15 +7297,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/floral-design-moissanite-polki-earrings?variant=gid://shopify/ProductVariant/67868682584370",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/2A23584D-E315-497E-B1B6-37581785A0D4.jpg?v=1790672846"
-  },
-  "gid://shopify/ProductVariant/67821363429682": {
-    "product_title": "Traditional Victorian Chandbali Earrings With Pearl Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1800.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/untitled-sep28_19-00-50?variant=gid://shopify/ProductVariant/67821363429682",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/F2E43B6C-2879-4743-B13F-7C59E9C225E7.jpg?v=1790601813"
   },
   "gid://shopify/ProductVariant/67821985202482": {
     "product_title": "Classic Victorian Jhumki Earrings With White Drops",
@@ -7784,6 +7757,24 @@
     "url": "https://www.dulhanjewels.com/products/minimal-jadau-kundan-stud-earrings?variant=gid://shopify/ProductVariant/52198819103026",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-3546.jpg?v=1790159545"
   },
+  "gid://shopify/ProductVariant/52200214659378": {
+    "product_title": "Elegant Moissanite Polki Nose Pin",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 700.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/elegant-moissanite-polki-nose-pin?variant=gid://shopify/ProductVariant/52200214659378",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/7FA5C3C9-629A-4121-A085-53F121100EA2.jpg?v=1790447261"
+  },
+  "gid://shopify/ProductVariant/52212510490930": {
+    "product_title": "Navratna Necklace Set With Multicolor Stone Drops And Pearl Detailing",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1750.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/navratna-necklace-set-with-multicolor-stone-drops-and-pearl-detailing?variant=gid://shopify/ProductVariant/52212510490930",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/0524C0D6-49E6-41CA-82DD-ACF1DE56F891.jpg?v=1790170350"
+  },
   "gid://shopify/ProductVariant/52271163375922": {
     "product_title": "Multicolor Jadau Kundan Necklace Set With Green Earrings",
     "variant_title": "Default Title",
@@ -7792,6 +7783,15 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/multicolor-jadau-kundan-necklace-set-with-green-earrings?variant=gid://shopify/ProductVariant/52271163375922",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/D7217142-0112-46FC-9DF6-500A5C841845.jpg?v=1790239697"
+  },
+  "gid://shopify/ProductVariant/67821363429682": {
+    "product_title": "Traditional Victorian Chandbali Earrings With Pearl Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1800.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/untitled-sep28_19-00-50?variant=gid://shopify/ProductVariant/67821363429682",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/F2E43B6C-2879-4743-B13F-7C59E9C225E7.jpg?v=1790601813"
   },
   "gid://shopify/ProductVariant/67870701682994": {
     "product_title": "Multicolour Jadau Kundan HairPin",
