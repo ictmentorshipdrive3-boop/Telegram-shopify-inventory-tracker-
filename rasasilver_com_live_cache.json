@@ -1462,7 +1462,7 @@
     "variant_title": "Default Title",
     "sku": "R26058",
     "price": 21080.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/kundanchandrika-pendant?variant=gid://shopify/ProductVariant/50299778892073",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP05875copy.jpg?v=1747051164"
   },
@@ -4130,15 +4130,6 @@
     "url": "https://www.rasasilver.com/products/moissence-vilasa-short-necklace?variant=gid://shopify/ProductVariant/50976199934249",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_15_Sept2151_resized.jpg?v=1758609130"
   },
-  "gid://shopify/ProductVariant/50977419297065": {
-    "product_title": "Jewel of Mayura Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R8468",
-    "price": 52700.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/jewel-of-mayura-necklace-set?variant=gid://shopify/ProductVariant/50977419297065",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_15_Sept2165_resized.jpg?v=1758609377"
-  },
   "gid://shopify/ProductVariant/50978444247337": {
     "product_title": "Shahi Tota Choker",
     "variant_title": "Default Title",
@@ -5260,7 +5251,7 @@
     "variant_title": "2.8 / Ruby Pink",
     "sku": "R25747",
     "price": 25415.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/greenvine-bangles?variant=gid://shopify/ProductVariant/52724263452969",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_79_Pics_15Oct2282_resized.jpg?v=1761548643"
   },
@@ -5278,7 +5269,7 @@
     "variant_title": "2.6 / Ruby Pink",
     "sku": "R25747",
     "price": 29900.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/greenvine-bangles?variant=gid://shopify/ProductVariant/52724263518505",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_79_Pics_15Oct2282_resized.jpg?v=1761548643"
   },
@@ -5296,7 +5287,7 @@
     "variant_title": "2.4 / Ruby Pink",
     "sku": "R25747",
     "price": 29900.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/greenvine-bangles?variant=gid://shopify/ProductVariant/52724263584041",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_79_Pics_15Oct2282_resized.jpg?v=1761548643"
   },
@@ -21374,15 +21365,6 @@
     "url": "https://www.rasasilver.com/products/coral-grace-victorian-danglers?variant=gid://shopify/ProductVariant/53370151534889",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0051.jpg?v=1786356278"
   },
-  "gid://shopify/ProductVariant/53370159169833": {
-    "product_title": "Celestial Arc Kundan Ear Cuff",
-    "variant_title": "Default Title",
-    "sku": "R32147",
-    "price": 5700.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/celestial-arc-kundan-ear-cuff?variant=gid://shopify/ProductVariant/53370159169833",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0259.jpg?v=1786108075"
-  },
   "gid://shopify/ProductVariant/53370163364137": {
     "product_title": "Orchid Kundan Ear Cuff",
     "variant_title": "Default Title",
@@ -27151,6 +27133,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/moiss-rajnanda-choker?variant=gid://shopify/ProductVariant/50975211258153",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_15_Sept2170_resized.jpg?v=1758607067"
+  },
+  "gid://shopify/ProductVariant/50977419297065": {
+    "product_title": "Jewel of Mayura Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R8468",
+    "price": 52700.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/jewel-of-mayura-necklace-set?variant=gid://shopify/ProductVariant/50977419297065",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_15_Sept2165_resized.jpg?v=1758609377"
   },
   "gid://shopify/ProductVariant/51056018784553": {
     "product_title": "Manohara Stud Earrings",
@@ -48211,6 +48202,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/azure-drop-moissanite-danglers?variant=gid://shopify/ProductVariant/53370117947689",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0013.jpg?v=1786358037"
+  },
+  "gid://shopify/ProductVariant/53370159169833": {
+    "product_title": "Celestial Arc Kundan Ear Cuff",
+    "variant_title": "Default Title",
+    "sku": "R32147",
+    "price": 5700.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/celestial-arc-kundan-ear-cuff?variant=gid://shopify/ProductVariant/53370159169833",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0259.jpg?v=1786108075"
   },
   "gid://shopify/ProductVariant/53370161856809": {
     "product_title": "Stellar Kundan Ear Cuff",
