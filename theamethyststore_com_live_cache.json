@@ -44783,15 +44783,6 @@
     "url": "https://www.theamethyststore.com/products/frelinkha-chain-with-earrings?variant=gid://shopify/ProductVariant/47527490617571",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1350.jpg?v=1763113304"
   },
-  "gid://shopify/ProductVariant/47527609762019": {
-    "product_title": "Zarisha Nagas Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-10711",
-    "price": 41100.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/zarisha-nagas-jhumkas-1?variant=gid://shopify/ProductVariant/47527609762019",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10711.jpg?v=1763113728"
-  },
   "gid://shopify/ProductVariant/47527718944995": {
     "product_title": "Royal Charm Nagas Oddiyanam",
     "variant_title": "Default Title",
@@ -101969,15 +101960,6 @@
     "url": "https://www.theamethyststore.com/products/vibrant-3d-spl-short-necklace-set-1?variant=gid://shopify/ProductVariant/49719114662115",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18047.jpg?v=1789124943"
   },
-  "gid://shopify/ProductVariant/49719140843747": {
-    "product_title": "Ethereal and Elegant 3D Spl Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-18051",
-    "price": 85300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/ethereal-and-elegant-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49719140843747",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18051.jpg?v=1789126032"
-  },
   "gid://shopify/ProductVariant/49719148052707": {
     "product_title": "Temple-Worthy 3D Spl Short Necklace Set",
     "variant_title": "Default Title",
@@ -121129,6 +121111,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/eternal-glow-chain-with-earrings-1?variant=gid://shopify/ProductVariant/47527463649507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1334.jpg?v=1763112587"
+  },
+  "gid://shopify/ProductVariant/47527609762019": {
+    "product_title": "Zarisha Nagas Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-10711",
+    "price": 41100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/zarisha-nagas-jhumkas-1?variant=gid://shopify/ProductVariant/47527609762019",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10711.jpg?v=1763113728"
   },
   "gid://shopify/ProductVariant/47527656095971": {
     "product_title": "Mithra Nagas Jhumkas",
@@ -141343,6 +141334,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/goddess-like-nagas-short-necklace-set?variant=gid://shopify/ProductVariant/49719062397155",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18043.jpg?v=1789122799"
+  },
+  "gid://shopify/ProductVariant/49719140843747": {
+    "product_title": "Ethereal and Elegant 3D Spl Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18051",
+    "price": 85300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ethereal-and-elegant-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49719140843747",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18051.jpg?v=1789126032"
   },
   "gid://shopify/ProductVariant/49719369564387": {
     "product_title": "Gracefully Crafted 3D Spl Choker Necklace Set",
