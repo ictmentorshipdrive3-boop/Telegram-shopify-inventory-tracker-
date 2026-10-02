@@ -50565,8 +50565,8 @@
     "product_title": "Thishika Stone Studs",
     "variant_title": "Default Title",
     "sku": "AMS-106-11780",
-    "price": 5155.0,
-    "stock": 3,
+    "price": 5356.0,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/thishika-stone-studs?variant=gid://shopify/ProductVariant/47817423847651",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11780.jpg?v=1768305538"
   },
@@ -74492,15 +74492,6 @@
     "url": "https://www.theamethyststore.com/products/stone-studs-38?variant=gid://shopify/ProductVariant/49326423703779",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14488.jpg?v=1782732108"
   },
-  "gid://shopify/ProductVariant/49326465056995": {
-    "product_title": "Anika Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14493",
-    "price": 3839.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/stone-studs-39?variant=gid://shopify/ProductVariant/49326465056995",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14493.jpg?v=1782732306"
-  },
   "gid://shopify/ProductVariant/49326736670947": {
     "product_title": "Narayani 3D Spl Pendant",
     "variant_title": "Default Title",
@@ -75112,15 +75103,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/nagas-long-necklace-62?variant=gid://shopify/ProductVariant/49334322233571",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16250.jpg?v=1782813579"
-  },
-  "gid://shopify/ProductVariant/49334322299107": {
-    "product_title": "Jenita Nagas Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14544",
-    "price": 8301.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/jenita-nagas-jhumkas?variant=gid://shopify/ProductVariant/49334322299107",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14544.jpg?v=1782813613"
   },
   "gid://shopify/ProductVariant/49334343139555": {
     "product_title": "Admirable Nagas Drops",
@@ -133973,6 +133955,15 @@
     "url": "https://www.theamethyststore.com/products/nagas-studs-8?variant=gid://shopify/ProductVariant/49326345912547",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14525.jpg?v=1782731804"
   },
+  "gid://shopify/ProductVariant/49326465056995": {
+    "product_title": "Anika Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14493",
+    "price": 3839.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/stone-studs-39?variant=gid://shopify/ProductVariant/49326465056995",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14493.jpg?v=1782732306"
+  },
   "gid://shopify/ProductVariant/49326696562915": {
     "product_title": "Venkateswara 3D Spl Pendant",
     "variant_title": "Default Title",
@@ -134278,6 +134269,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nithisha-nagas-jhumkas?variant=gid://shopify/ProductVariant/49334318072035",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14548.jpg?v=1782813158"
+  },
+  "gid://shopify/ProductVariant/49334322299107": {
+    "product_title": "Jenita Nagas Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14544",
+    "price": 8301.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/jenita-nagas-jhumkas?variant=gid://shopify/ProductVariant/49334322299107",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14544.jpg?v=1782813613"
   },
   "gid://shopify/ProductVariant/49334340190435": {
     "product_title": "Rithanyaa Nagas Long Necklace",
