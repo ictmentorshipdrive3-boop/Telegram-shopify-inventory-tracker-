@@ -5584,7 +5584,7 @@
     "variant_title": "Small",
     "sku": "AMS-119-0001-S",
     "price": 5000.0,
-    "stock": 16,
+    "stock": 13,
     "url": "https://www.theamethyststore.com/products/fish-hook-back-chain?variant=gid://shopify/ProductVariant/49674885333219",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_21dbdd2e-d30a-4019-816f-52833d641d9a.jpg?v=1693456844"
   },
@@ -40004,15 +40004,6 @@
     "url": "https://www.theamethyststore.com/products/uthai-shirt-button-clip?variant=gid://shopify/ProductVariant/47271596687587",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-120-0093.jpg?v=1759996512"
   },
-  "gid://shopify/ProductVariant/47271608549603": {
-    "product_title": "Luxe Emperor Shirt Button Clip",
-    "variant_title": "Default Title",
-    "sku": "AMS-120-0095",
-    "price": 4600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/luxe-emperor-shirt-button-clip?variant=gid://shopify/ProductVariant/47271608549603",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-120-0095.jpg?v=1759997032"
-  },
   "gid://shopify/ProductVariant/47271617429731": {
     "product_title": "Admirable Shirt Button Clips",
     "variant_title": "Default Title",
@@ -63589,7 +63580,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-15334",
     "price": 107641.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/kaasu-malai-necklace?variant=gid://shopify/ProductVariant/48842774708451",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15334_2.jpg?v=1776690833"
   },
@@ -88505,15 +88496,6 @@
     "url": "https://www.theamethyststore.com/products/nagas-jada-billa-15?variant=gid://shopify/ProductVariant/49519868117219",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0960.jpg?v=1786429844"
   },
-  "gid://shopify/ProductVariant/49519869493475": {
-    "product_title": "Padmika Kundan Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17493",
-    "price": 30199.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/padmika-kundan-short-necklace?variant=gid://shopify/ProductVariant/49519869493475",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17493.jpg?v=1786430024"
-  },
   "gid://shopify/ProductVariant/49519869624547": {
     "product_title": "Nethra Nagas Jada Billa",
     "variant_title": "Default Title",
@@ -89494,15 +89476,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/kundan-short-necklace-76?variant=gid://shopify/ProductVariant/49526790783203",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17577.jpg?v=1786602945"
-  },
-  "gid://shopify/ProductVariant/49526794354915": {
-    "product_title": "Ganisha Kundan Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17578",
-    "price": 50388.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kundan-short-necklace-77?variant=gid://shopify/ProductVariant/49526794354915",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17578.jpg?v=1786603165"
   },
   "gid://shopify/ProductVariant/49526797041891": {
     "product_title": "Dheekshi Kundan Choker",
@@ -120302,6 +120275,15 @@
     "url": "https://www.theamethyststore.com/products/rupini-nagas-nakshi-pendant?variant=gid://shopify/ProductVariant/47270526222563",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3569.jpg?v=1759990517"
   },
+  "gid://shopify/ProductVariant/47271608549603": {
+    "product_title": "Luxe Emperor Shirt Button Clip",
+    "variant_title": "Default Title",
+    "sku": "AMS-120-0095",
+    "price": 4600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/luxe-emperor-shirt-button-clip?variant=gid://shopify/ProductVariant/47271608549603",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-120-0095.jpg?v=1759997032"
+  },
   "gid://shopify/ProductVariant/47276662718691": {
     "product_title": "Roman Shirt Button Clip",
     "variant_title": "Default Title",
@@ -138851,6 +138833,15 @@
     "url": "https://www.theamethyststore.com/products/nagas-jada-billa-14?variant=gid://shopify/ProductVariant/49519865757923",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0956.jpg?v=1786429642"
   },
+  "gid://shopify/ProductVariant/49519869493475": {
+    "product_title": "Padmika Kundan Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17493",
+    "price": 30199.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/padmika-kundan-short-necklace?variant=gid://shopify/ProductVariant/49519869493475",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17493.jpg?v=1786430024"
+  },
   "gid://shopify/ProductVariant/49519875817699": {
     "product_title": "Mahika Kundan Short Necklace",
     "variant_title": "Default Title",
@@ -139129,6 +139120,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/kundan-short-necklace-72?variant=gid://shopify/ProductVariant/49526760636643",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17564.jpg?v=1786602073"
+  },
+  "gid://shopify/ProductVariant/49526794354915": {
+    "product_title": "Ganisha Kundan Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17578",
+    "price": 50388.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kundan-short-necklace-77?variant=gid://shopify/ProductVariant/49526794354915",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17578.jpg?v=1786603165"
   },
   "gid://shopify/ProductVariant/49526843637987": {
     "product_title": "Aarvikaa Kundan Pair Bangle",
