@@ -42079,7 +42079,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-10656",
     "price": 22561.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/catchy-kundan-jhumkas?variant=gid://shopify/ProductVariant/47393148895459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10656.jpg?v=1761384712"
   },
@@ -83915,15 +83915,6 @@
     "url": "https://www.theamethyststore.com/products/kundan-pendant-102?variant=gid://shopify/ProductVariant/49476536467683",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4759.jpg?v=1785419285"
   },
-  "gid://shopify/ProductVariant/49476538138851": {
-    "product_title": "Isha Kundan Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-4761",
-    "price": 16953.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kundan-pendant-104?variant=gid://shopify/ProductVariant/49476538138851",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4761.jpg?v=1785419737"
-  },
   "gid://shopify/ProductVariant/49476541415651": {
     "product_title": "Unique Kundan Pendant",
     "variant_title": "Default Title",
@@ -96748,15 +96739,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/grand-look-nagas-long-necklace?variant=gid://shopify/ProductVariant/49605727879395",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17716.jpg?v=1787746917"
-  },
-  "gid://shopify/ProductVariant/49605739086051": {
-    "product_title": "Vivid Nagas Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17731",
-    "price": 11438.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/vivid-nagas-short-necklace?variant=gid://shopify/ProductVariant/49605739086051",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17731.jpg?v=1787747161"
   },
   "gid://shopify/ProductVariant/49605755666659": {
     "product_title": "Vibrant Nagas Short Necklace",
@@ -137321,6 +137303,15 @@
     "url": "https://www.theamethyststore.com/products/kundan-pendant-103?variant=gid://shopify/ProductVariant/49476537811171",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4760.jpg?v=1785419413"
   },
+  "gid://shopify/ProductVariant/49476538138851": {
+    "product_title": "Isha Kundan Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4761",
+    "price": 16953.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-104?variant=gid://shopify/ProductVariant/49476538138851",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4761.jpg?v=1785419737"
+  },
   "gid://shopify/ProductVariant/49479176323299": {
     "product_title": "Linthra Avikam Pair Bangles",
     "variant_title": "2.4\"",
@@ -140263,6 +140254,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/glowing-nagas-short-necklace?variant=gid://shopify/ProductVariant/49605705695459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17730.jpg?v=1787746807"
+  },
+  "gid://shopify/ProductVariant/49605739086051": {
+    "product_title": "Vivid Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17731",
+    "price": 11438.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vivid-nagas-short-necklace?variant=gid://shopify/ProductVariant/49605739086051",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17731.jpg?v=1787747161"
   },
   "gid://shopify/ProductVariant/49605763367139": {
     "product_title": "Nethra Nagas Long Necklace",
