@@ -166,7 +166,7 @@
     "variant_title": "Default Title",
     "sku": "165",
     "price": 3999.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/165?variant=gid://shopify/ProductVariant/32849570136123",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_0044.jpg?v=1584720148"
   },
@@ -11717,15 +11717,6 @@
     "url": "https://www.daivik.in/products/half-moon-ad-necklace-with-earrings?variant=gid://shopify/ProductVariant/46675256312030",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F4136161-FB12-4394-8EDD-72E3FE92901F.jpg?v=1746545689"
   },
-  "gid://shopify/ProductVariant/46677659549918": {
-    "product_title": "Microplating Ruby coin Kasumalai (Short , long , Combo - Prices for Each)",
-    "variant_title": "Combo",
-    "sku": "645",
-    "price": 5299.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/microplating-ruby-coin-kasumalai-short-long-combo-price-for-each?variant=gid://shopify/ProductVariant/46677659549918",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0D76BB97-B890-4BD8-B159-A265113982EE.jpg?v=1746610651"
-  },
   "gid://shopify/ProductVariant/46677659582686": {
     "product_title": "Microplating Ruby coin Kasumalai (Short , long , Combo - Prices for Each)",
     "variant_title": "Short",
@@ -20011,7 +20002,7 @@
     "variant_title": "Default Title",
     "sku": "324",
     "price": 799.0,
-    "stock": 30,
+    "stock": 28,
     "url": "https://www.daivik.in/products/rashmika-inspired-lakshmi-mangalsutra-chain?variant=gid://shopify/ProductVariant/48333917356254",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BE60E172-F736-4BA7-9724-B72EAE996A60.jpg?v=1781334491"
   },
@@ -20020,7 +20011,7 @@
     "variant_title": "Default Title",
     "sku": "599",
     "price": 699.0,
-    "stock": 44,
+    "stock": 43,
     "url": "https://www.daivik.in/products/pearl-kemp-pendant-hasli-necklace-with-earrings-1?variant=gid://shopify/ProductVariant/48333928235230",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CD42A375-F9E3-40E3-ADAE-9C33E350CF2D.jpg?v=1781335889"
   },
@@ -20866,7 +20857,7 @@
     "variant_title": "Default Title",
     "sku": "1150",
     "price": 799.0,
-    "stock": 54,
+    "stock": 53,
     "url": "https://www.daivik.in/products/simple-ad-green-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48550497583326",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/652C9996-8E2A-40F9-87B5-3C976003D04F.jpg?v=1785942584"
   },
@@ -21127,7 +21118,7 @@
     "variant_title": "Default Title",
     "sku": "316",
     "price": 1499.0,
-    "stock": 50,
+    "stock": 49,
     "url": "https://www.daivik.in/products/diamond-look-alike-3-layer-flower-neckalace-with-earrings?variant=gid://shopify/ProductVariant/48630564880606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1184.jpg?v=1787466208"
   },
@@ -27862,6 +27853,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/a-35?variant=gid://shopify/ProductVariant/46669963985118",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/35ABC6FE-E4E5-4D28-9BD5-8B850B6CE6F6.jpg?v=1746370460"
+  },
+  "gid://shopify/ProductVariant/46677659549918": {
+    "product_title": "Microplating Ruby coin Kasumalai (Short , long , Combo - Prices for Each)",
+    "variant_title": "Combo",
+    "sku": "645",
+    "price": 5299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/microplating-ruby-coin-kasumalai-short-long-combo-price-for-each?variant=gid://shopify/ProductVariant/46677659549918",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0D76BB97-B890-4BD8-B159-A265113982EE.jpg?v=1746610651"
   },
   "gid://shopify/ProductVariant/46677659615454": {
     "product_title": "Microplating Ruby coin Kasumalai (Short , long , Combo - Prices for Each)",
