@@ -106991,15 +106991,6 @@
     "url": "https://www.theamethyststore.com/products/gorgeous-vanki-style-ring?variant=gid://shopify/ProductVariant/67580796600547",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2367.jpg?v=1790397765"
   },
-  "gid://shopify/ProductVariant/67580813967587": {
-    "product_title": "Aurelia Vanki Style Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-2368",
-    "price": 2200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/aurelia-vanki-style-ring?variant=gid://shopify/ProductVariant/67580813967587",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2368.jpg?v=1790397997"
-  },
   "gid://shopify/ProductVariant/67580829827299": {
     "product_title": "Seraphina  Vanki Style Ring",
     "variant_title": "Default Title",
@@ -110158,6 +110149,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/shines-with-elegance-short-necklace?variant=gid://shopify/ProductVariant/67614739136739",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18475.jpg?v=1790920411"
+  },
+  "gid://shopify/ProductVariant/67614767317219": {
+    "product_title": "Effortlessly Pretty Victorian Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18498",
+    "price": 87200.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/effortlessly-pretty-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/67614767317219",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18498.jpg?v=1790921802"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -139436,15 +139436,6 @@
     "url": "https://www.theamethyststore.com/products/amazing-stone-jada-billa?variant=gid://shopify/ProductVariant/49681947951331",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0913_2.jpg?v=1787057691"
   },
-  "gid://shopify/ProductVariant/49559427514595": {
-    "product_title": "Victorian Earings",
-    "variant_title": "Default Title",
-    "sku": "562-A70707",
-    "price": 21800.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/victorian?variant=gid://shopify/ProductVariant/49559427514595",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/WhatsAppImage2026-08-19at12.49.32PM.jpg?v=1787124172"
-  },
   "gid://shopify/ProductVariant/49562293993699": {
     "product_title": "Shanvikaa Avikam Bracelet",
     "variant_title": "Default Title",
@@ -141325,5 +141316,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/versatile-flow-kundan-long-earrings?variant=gid://shopify/ProductVariant/50282433315043",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16243.jpg?v=1790231175"
+  },
+  "gid://shopify/ProductVariant/67580813967587": {
+    "product_title": "Aurelia Vanki Style Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2368",
+    "price": 2200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/aurelia-vanki-style-ring?variant=gid://shopify/ProductVariant/67580813967587",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2368.jpg?v=1790397997"
   }
 }
