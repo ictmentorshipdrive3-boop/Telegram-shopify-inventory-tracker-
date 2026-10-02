@@ -15641,15 +15641,6 @@
     "url": "https://www.daivik.in/products/victorian-elephant-simple-choker-in-3-colours?variant=gid://shopify/ProductVariant/47550046175454",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/43138CF5-670A-46CE-9EEB-B8CCDB9AABB2.jpg?v=1758557853"
   },
-  "gid://shopify/ProductVariant/47550046208222": {
-    "product_title": "Victorian Elephant Simple choker in 3 Colours",
-    "variant_title": "Green",
-    "sku": "1324",
-    "price": 1399.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/victorian-elephant-simple-choker-in-3-colours?variant=gid://shopify/ProductVariant/47550046208222",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/43138CF5-670A-46CE-9EEB-B8CCDB9AABB2.jpg?v=1758557853"
-  },
   "gid://shopify/ProductVariant/47550046240990": {
     "product_title": "Victorian Elephant Simple choker in 3 Colours",
     "variant_title": "Purple",
@@ -20236,7 +20227,7 @@
     "variant_title": "Default Title",
     "sku": "1399",
     "price": 1399.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/diamond-look-alike-rose-floral-hasli-with-earrings?variant=gid://shopify/ProductVariant/48353948467422",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D55AA4E3-924A-4789-B0BE-1170A04C6E35.jpg?v=1782062607"
   },
@@ -20875,7 +20866,7 @@
     "variant_title": "Default Title",
     "sku": "1150",
     "price": 799.0,
-    "stock": 56,
+    "stock": 55,
     "url": "https://www.daivik.in/products/simple-ad-green-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48550497583326",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/652C9996-8E2A-40F9-87B5-3C976003D04F.jpg?v=1785942584"
   },
@@ -29176,6 +29167,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/peacock-jhumkas-with-earcuff?variant=gid://shopify/ProductVariant/47546311049438",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EAA88D3A-35DC-409F-871D-411ABE21D603.jpg?v=1758367888"
+  },
+  "gid://shopify/ProductVariant/47550046208222": {
+    "product_title": "Victorian Elephant Simple choker in 3 Colours",
+    "variant_title": "Green",
+    "sku": "1324",
+    "price": 1399.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/victorian-elephant-simple-choker-in-3-colours?variant=gid://shopify/ProductVariant/47550046208222",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/43138CF5-670A-46CE-9EEB-B8CCDB9AABB2.jpg?v=1758557853"
   },
   "gid://shopify/ProductVariant/47554818179294": {
     "product_title": "Bridal Antique Pearl and Elephant Bangles Combo (Price for Both Hands)",
