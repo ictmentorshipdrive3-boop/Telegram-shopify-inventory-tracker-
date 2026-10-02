@@ -12941,15 +12941,6 @@
     "url": "https://www.rasasilver.com/products/padmaratna-red-stone-necklace?variant=gid://shopify/ProductVariant/52682215424297",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb3990.jpg?v=1771666611"
   },
-  "gid://shopify/ProductVariant/52682258055465": {
-    "product_title": "Hemangi Kasu Temple Necklace",
-    "variant_title": "Default Title",
-    "sku": "R25097",
-    "price": 22525.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/hemangi-kasu-short-necklace?variant=gid://shopify/ProductVariant/52682258055465",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4009.jpg?v=1771667331"
-  },
   "gid://shopify/ProductVariant/52682275389737": {
     "product_title": "Maniratika Laxmi Temple Necklace",
     "variant_title": "Default Title",
@@ -40714,6 +40705,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/swarnaprada-pear-stone-necklace?variant=gid://shopify/ProductVariant/52682205331753",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4592_resized.jpg?v=1771662533"
+  },
+  "gid://shopify/ProductVariant/52682258055465": {
+    "product_title": "Hemangi Kasu Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R25097",
+    "price": 22525.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/hemangi-kasu-short-necklace?variant=gid://shopify/ProductVariant/52682258055465",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4009.jpg?v=1771667331"
   },
   "gid://shopify/ProductVariant/52682316546345": {
     "product_title": "Ratnisha Lakshmi Temple Necklace",
