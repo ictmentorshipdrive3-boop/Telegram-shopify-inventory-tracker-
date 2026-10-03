@@ -31963,7 +31963,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-11297",
     "price": 40300.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/anusha-kundan-short-necklace-set?variant=gid://shopify/ProductVariant/47081558147299",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11297.jpg?v=1756723245"
   },
@@ -59776,15 +59776,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/nagas-choker-1?variant=gid://shopify/ProductVariant/48317136601315",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14968.jpg?v=1772186447"
-  },
-  "gid://shopify/ProductVariant/48317169598691": {
-    "product_title": "Shinning Drop Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-13097",
-    "price": 7900.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/shinning-drop-earrings?variant=gid://shopify/ProductVariant/48317169598691",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13097.jpg?v=1772187839"
   },
   "gid://shopify/ProductVariant/48317174874339": {
     "product_title": "Floral Drop Earrings",
@@ -126205,6 +126196,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/traditional-nagas-short-necklace-4?variant=gid://shopify/ProductVariant/48316924362979",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15021.jpg?v=1772179864"
+  },
+  "gid://shopify/ProductVariant/48317169598691": {
+    "product_title": "Shinning Drop Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-13097",
+    "price": 7900.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/shinning-drop-earrings?variant=gid://shopify/ProductVariant/48317169598691",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13097.jpg?v=1772187839"
   },
   "gid://shopify/ProductVariant/48317247127779": {
     "product_title": "Vedhika Nagas Pendant",
