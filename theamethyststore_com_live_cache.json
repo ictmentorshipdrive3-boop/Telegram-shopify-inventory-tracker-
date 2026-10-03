@@ -5593,7 +5593,7 @@
     "variant_title": "Small",
     "sku": "AMS-119-0001-S",
     "price": 5000.0,
-    "stock": 13,
+    "stock": 12,
     "url": "https://www.theamethyststore.com/products/fish-hook-back-chain?variant=gid://shopify/ProductVariant/49674885333219",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_21dbdd2e-d30a-4019-816f-52833d641d9a.jpg?v=1693456844"
   },
@@ -43618,7 +43618,7 @@
     "variant_title": "10",
     "sku": "AMS-101-1687-10\"",
     "price": 2100.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/vikshi-ring-1?variant=gid://shopify/ProductVariant/49681963253987",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1687.jpg?v=1762261224"
   },
@@ -108710,15 +108710,6 @@
     "url": "https://www.theamethyststore.com/products/devikaa-nagas-choker?variant=gid://shopify/ProductVariant/67599389393123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18565.jpg?v=1790684372"
   },
-  "gid://shopify/ProductVariant/67599394406627": {
-    "product_title": "Stunning  Nagas Choker",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-18566",
-    "price": 14418.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/stunning-nagas-choker?variant=gid://shopify/ProductVariant/67599394406627",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18566.jpg?v=1790684643"
-  },
   "gid://shopify/ProductVariant/67599403516131": {
     "product_title": "Opulent Vibrance Nagas Short Necklace",
     "variant_title": "Default Title",
@@ -108877,7 +108868,7 @@
     "variant_title": "2.4",
     "sku": "AMS-107-3637-2.4\"",
     "price": 45905.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/garceful-stone-pair-bangles?variant=gid://shopify/ProductVariant/67599569518819",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3637-2.4.jpg?v=1790689657"
   },
@@ -109228,7 +109219,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18395",
     "price": 100383.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/fantastic-nagas-long-necklace?variant=gid://shopify/ProductVariant/67608976425187",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18395.jpg?v=1790836434"
   },
@@ -109327,7 +109318,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18404",
     "price": 14500.0,
-    "stock": 1,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/anitha-attigai-necklace?variant=gid://shopify/ProductVariant/67609037439203",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18404.jpg?v=1790839629"
   },
@@ -110482,6 +110473,51 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/lotus-inspired-bugadi-earrings?variant=gid://shopify/ProductVariant/67619190898915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16329.jpg?v=1791027131"
+  },
+  "gid://shopify/ProductVariant/67619200729315": {
+    "product_title": "Graceful Stone Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18464",
+    "price": 25102.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/graceful-stone-short-necklace?variant=gid://shopify/ProductVariant/67619200729315",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18464.jpg?v=1791028539"
+  },
+  "gid://shopify/ProductVariant/67619204563171": {
+    "product_title": "Fantastic Bugadi Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16328",
+    "price": 5129.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/fantastic-bugadi-earrings?variant=gid://shopify/ProductVariant/67619204563171",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16328.jpg?v=1791028822"
+  },
+  "gid://shopify/ProductVariant/67619207446755": {
+    "product_title": "Vibrant Stone Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18468",
+    "price": 41043.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/vibrant-stone-short-necklace?variant=gid://shopify/ProductVariant/67619207446755",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18468.jpg?v=1791029259"
+  },
+  "gid://shopify/ProductVariant/67619207610595": {
+    "product_title": "Vibrant Craft Bugadi Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16327",
+    "price": 8078.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/vibrant-craft-bugadi-earrings?variant=gid://shopify/ProductVariant/67619207610595",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16327.jpg?v=1791029212"
+  },
+  "gid://shopify/ProductVariant/67619209478371": {
+    "product_title": "Shivanikaa Stone Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18476",
+    "price": 24277.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/shivanikaa-stone-short-necklace?variant=gid://shopify/ProductVariant/67619209478371",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18476.jpg?v=1791029454"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
