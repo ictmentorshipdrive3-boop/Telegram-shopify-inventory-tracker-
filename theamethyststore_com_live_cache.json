@@ -50399,15 +50399,6 @@
     "url": "https://www.theamethyststore.com/products/toe-ring-7?variant=gid://shopify/ProductVariant/47816823701731",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0709.jpg?v=1768301790"
   },
-  "gid://shopify/ProductVariant/47816827109603": {
-    "product_title": "Prishika Nagas Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-1879",
-    "price": 4564.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/prishika-nagas-ring?variant=gid://shopify/ProductVariant/47816827109603",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1879.jpg?v=1768301811"
-  },
   "gid://shopify/ProductVariant/47816837759203": {
     "product_title": "Nazia Toe Ring",
     "variant_title": "Default Title",
@@ -95386,7 +95377,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-113-0469",
     "price": 1800.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/bullakku-nose-pin-13?variant=gid://shopify/ProductVariant/49575298564323",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0469.jpg?v=1787379221"
   },
@@ -96550,15 +96541,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/attractive-bugadi-earrings-2?variant=gid://shopify/ProductVariant/49598587994339",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15902.jpg?v=1787661955"
-  },
-  "gid://shopify/ProductVariant/49598595858659": {
-    "product_title": "Endearing Bugadi Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15903",
-    "price": 3343.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/endearing-bugadi-earrings?variant=gid://shopify/ProductVariant/49598595858659",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15903.jpg?v=1787662510"
   },
   "gid://shopify/ProductVariant/49598602182883": {
     "product_title": "Petite Bugadi Earrings",
@@ -104233,7 +104215,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18143",
     "price": 47800.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/graceful-ornate-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/49770077290723",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18143.jpg?v=1789739260"
   },
@@ -110482,6 +110464,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/pretty-precious-bugadi-earrings?variant=gid://shopify/ProductVariant/67619182608611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16330.jpg?v=1791026319"
+  },
+  "gid://shopify/ProductVariant/67619188605155": {
+    "product_title": "Attractive Guttapusalu Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18406",
+    "price": 75456.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/attractive-guttapusalu-necklace?variant=gid://shopify/ProductVariant/67619188605155",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18406.jpg?v=1791027117"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -117363,7 +117354,7 @@
     "product_title": "Fetching Nagas Short Necklace Set",
     "variant_title": "Default Title",
     "sku": "AMS-102-10841",
-    "price": 70473.0,
+    "price": 13574.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/fetching-nagas-short-necklace-set?variant=gid://shopify/ProductVariant/46947255156963",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10841-_2.jpg?v=1753686610"
@@ -119190,7 +119181,7 @@
     "product_title": "Diyantha Chain With Earrings",
     "variant_title": "Default Title",
     "sku": "AMS-105-1070",
-    "price": 10200.0,
+    "price": 2300.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/chain-with-earrings-2?variant=gid://shopify/ProductVariant/47145684205795",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1070.jpg?v=1757240225"
@@ -123523,6 +123514,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/shithara-toe-ring?variant=gid://shopify/ProductVariant/47816768749795",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0669.jpg?v=1768301113"
+  },
+  "gid://shopify/ProductVariant/47816827109603": {
+    "product_title": "Prishika Nagas Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-1879",
+    "price": 4564.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/prishika-nagas-ring?variant=gid://shopify/ProductVariant/47816827109603",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1879.jpg?v=1768301811"
   },
   "gid://shopify/ProductVariant/47816849883363": {
     "product_title": "Jivikha Toe Ring",
@@ -140263,6 +140263,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/ethereal-bugadi-earrings?variant=gid://shopify/ProductVariant/49598442602723",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15899.jpg?v=1787660716"
+  },
+  "gid://shopify/ProductVariant/49598595858659": {
+    "product_title": "Endearing Bugadi Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15903",
+    "price": 3343.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/endearing-bugadi-earrings?variant=gid://shopify/ProductVariant/49598595858659",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15903.jpg?v=1787662510"
   },
   "gid://shopify/ProductVariant/49600974061795": {
     "product_title": "Mythical Nagas Short Necklace",
