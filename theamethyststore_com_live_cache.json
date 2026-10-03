@@ -9868,7 +9868,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-6131",
     "price": 5496.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/granthi-stone-studs?variant=gid://shopify/ProductVariant/45296609722595",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6131_6981cdb0-0c23-4b24-b61a-83f5173ff0da.jpg?v=1746512884"
   },
@@ -21949,15 +21949,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/mesmerizing-nagas-oddiyanam?variant=gid://shopify/ProductVariant/46743942529251",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0601.jpg?v=1750588198"
-  },
-  "gid://shopify/ProductVariant/46743949017315": {
-    "product_title": "Alexa Stone Maatal",
-    "variant_title": "Default Title",
-    "sku": "AMS-109-1581",
-    "price": 17345.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/alexa-stone-maatal?variant=gid://shopify/ProductVariant/46743949017315",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1581.jpg?v=1750588425"
   },
   "gid://shopify/ProductVariant/46743949181155": {
     "product_title": "Beautiful Anklet",
@@ -64294,15 +64285,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/anvisha-needle-ear-cuffs?variant=gid://shopify/ProductVariant/48876808077539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13643.jpg?v=1777298319"
-  },
-  "gid://shopify/ProductVariant/48876808372451": {
-    "product_title": "Ziva Stone Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-13666",
-    "price": 17654.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/ziva-stone-jhumkas?variant=gid://shopify/ProductVariant/48876808372451",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13666.jpg?v=1777298317"
   },
   "gid://shopify/ProductVariant/48876811354339": {
     "product_title": "Aashira Needle Ear cuffs",
@@ -116333,6 +116315,15 @@
     "url": "https://www.theamethyststore.com/products/elegant-diamond-design-hair-maatal?variant=gid://shopify/ProductVariant/46743933812963",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1484.jpg?v=1750587049"
   },
+  "gid://shopify/ProductVariant/46743949017315": {
+    "product_title": "Alexa Stone Maatal",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-1581",
+    "price": 17345.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/alexa-stone-maatal?variant=gid://shopify/ProductVariant/46743949017315",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1581.jpg?v=1750588425"
+  },
   "gid://shopify/ProductVariant/46743963566307": {
     "product_title": "Cutest Short Necklace",
     "variant_title": "Default Title",
@@ -128419,6 +128410,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/anviti-needle-ear-cuffs?variant=gid://shopify/ProductVariant/48876701024483",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13468.jpg?v=1777297347"
+  },
+  "gid://shopify/ProductVariant/48876808372451": {
+    "product_title": "Ziva Stone Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-13666",
+    "price": 17654.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ziva-stone-jhumkas?variant=gid://shopify/ProductVariant/48876808372451",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13666.jpg?v=1777298317"
   },
   "gid://shopify/ProductVariant/48876897665251": {
     "product_title": "Stylish Victorian Pendant set",
