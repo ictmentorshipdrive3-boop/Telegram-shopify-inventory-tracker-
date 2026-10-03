@@ -37835,15 +37835,6 @@
     "url": "https://www.theamethyststore.com/products/nehara-nagas-nakshi-necklace?variant=gid://shopify/ProductVariant/47215043739875",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11628.jpg?v=1759059116"
   },
-  "gid://shopify/ProductVariant/47215072641251": {
-    "product_title": "Pavithra Nagas Nakshi Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-11629",
-    "price": 241200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/pavithra-nagas-nakshi-necklace?variant=gid://shopify/ProductVariant/47215072641251",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11629.jpg?v=1759059231"
-  },
   "gid://shopify/ProductVariant/47215124676835": {
     "product_title": "Vathika Nagas Nakshi Necklace",
     "variant_title": "Default Title",
@@ -101218,7 +101209,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15996",
     "price": 29800.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/lush-green-3d-spl-jhumkas?variant=gid://shopify/ProductVariant/49708861260003",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15996.jpg?v=1788940251"
   },
@@ -102010,7 +102001,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16109",
     "price": 25500.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/swings-with-elegance-3d-spl-jhumkas?variant=gid://shopify/ProductVariant/49719191077091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16109.jpg?v=1789130391"
   },
@@ -110176,6 +110167,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/bird-inspired-earrings?variant=gid://shopify/ProductVariant/67616974209251",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16359.jpg?v=1791008659"
+  },
+  "gid://shopify/ProductVariant/67616984301795": {
+    "product_title": "Stunning Nagas Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16367",
+    "price": 3729.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/stunning-nagas-studs?variant=gid://shopify/ProductVariant/67616984301795",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16367.jpg?v=1791009346"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -119869,6 +119869,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/divine-nagas-long-necklace?variant=gid://shopify/ProductVariant/47214935474403",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11624.jpg?v=1759058610"
+  },
+  "gid://shopify/ProductVariant/47215072641251": {
+    "product_title": "Pavithra Nagas Nakshi Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-11629",
+    "price": 241200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/pavithra-nagas-nakshi-necklace?variant=gid://shopify/ProductVariant/47215072641251",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11629.jpg?v=1759059231"
   },
   "gid://shopify/ProductVariant/47215167570147": {
     "product_title": "Nainika Nagas Short Necklace",
