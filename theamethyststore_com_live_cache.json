@@ -75878,15 +75878,6 @@
     "url": "https://www.theamethyststore.com/products/avikam-bracelet-13?variant=gid://shopify/ProductVariant/49361344856291",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1341.jpg?v=1783141486"
   },
-  "gid://shopify/ProductVariant/49361345085667": {
-    "product_title": "Ankitha Mugappu Chain",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-2106",
-    "price": 14704.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/ankitha-mugappu-chain?variant=gid://shopify/ProductVariant/49361345085667",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2106.jpg?v=1783141562"
-  },
   "gid://shopify/ProductVariant/49361359831267": {
     "product_title": "Lakshitha Mugappu Chain",
     "variant_title": "Default Title",
@@ -85768,15 +85759,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/avikam-pendant-set-20?variant=gid://shopify/ProductVariant/49497143410915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4787.jpg?v=1785826460"
-  },
-  "gid://shopify/ProductVariant/49497150259427": {
-    "product_title": "Grandeur Avikam Pendant Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-4810",
-    "price": 12200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/grandeur-avikam-pendant-set?variant=gid://shopify/ProductVariant/49497150259427",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4810.jpg?v=1785826919"
   },
   "gid://shopify/ProductVariant/49497154945251": {
     "product_title": "Elvera Avikam Pendant Set",
@@ -105146,6 +105128,15 @@
     "url": "https://www.theamethyststore.com/products/versalin-diamond-design-studs?variant=gid://shopify/ProductVariant/49791416008931",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16135.jpg?v=1790056687"
   },
+  "gid://shopify/ProductVariant/49791757582563": {
+    "product_title": "Vinthikaa Diamond Design Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16136",
+    "price": 2700.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/vinthikaa-diamond-design-studs?variant=gid://shopify/ProductVariant/49791757582563",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16136.jpg?v=1790057849"
+  },
   "gid://shopify/ProductVariant/49791879971043": {
     "product_title": "Showstopping Nagas Jhumkas",
     "variant_title": "Default Title",
@@ -106783,6 +106774,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/gorgeous-vanki-style-ring?variant=gid://shopify/ProductVariant/67580796600547",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2367.jpg?v=1790397765"
+  },
+  "gid://shopify/ProductVariant/67580813967587": {
+    "product_title": "Aurelia Vanki Style Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2368",
+    "price": 2200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/aurelia-vanki-style-ring?variant=gid://shopify/ProductVariant/67580813967587",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2368.jpg?v=1790397997"
   },
   "gid://shopify/ProductVariant/67580829827299": {
     "product_title": "Seraphina  Vanki Style Ring",
@@ -110410,6 +110410,24 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/pretty-wear-nagas-pair-bangles?variant=gid://shopify/ProductVariant/67617324761315",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3688-2.6.jpg?v=1791015032"
+  },
+  "gid://shopify/ProductVariant/67617409794275": {
+    "product_title": "Elegantly Crafted Nagas Pair Bangles",
+    "variant_title": "2.6",
+    "sku": "AMS-107-3687-2.6\"",
+    "price": 30665.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/elegantly-crafted-nagas-pair-bangles?variant=gid://shopify/ProductVariant/67617409794275",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3687-2.6.jpg?v=1791015350"
+  },
+  "gid://shopify/ProductVariant/67617417986275": {
+    "product_title": "Traditional Nagas Pair Bangles",
+    "variant_title": "2.6",
+    "sku": "AMS-107-3686-2.6\"",
+    "price": 33174.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/traditional-nagas-pair-bangles?variant=gid://shopify/ProductVariant/67617417986275",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3686-2.6_2.jpg?v=1791015782"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -141659,15 +141677,6 @@
     "url": "https://www.theamethyststore.com/products/serenity-nagas-studs?variant=gid://shopify/ProductVariant/49785012322531",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16211.jpg?v=1789994599"
   },
-  "gid://shopify/ProductVariant/49791757582563": {
-    "product_title": "Vinthikaa Diamond Design Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-16136",
-    "price": 2700.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/vinthikaa-diamond-design-studs?variant=gid://shopify/ProductVariant/49791757582563",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16136.jpg?v=1790057849"
-  },
   "gid://shopify/ProductVariant/49798461882595": {
     "product_title": "Nethraa Victorian Jhumkas",
     "variant_title": "Default Title",
@@ -141712,15 +141721,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/sryling-vanki-style-ring?variant=gid://shopify/ProductVariant/67580737749219",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2365_76572bb3-3174-40fd-960d-00dd6fe85cdc.jpg?v=1790397181"
-  },
-  "gid://shopify/ProductVariant/67580813967587": {
-    "product_title": "Aurelia Vanki Style Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-2368",
-    "price": 2200.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/aurelia-vanki-style-ring?variant=gid://shopify/ProductVariant/67580813967587",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2368.jpg?v=1790397997"
   },
   "gid://shopify/ProductVariant/67581341368547": {
     "product_title": "Blooming Radiant Stone Maangtikka",
