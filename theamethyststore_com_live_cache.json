@@ -46732,7 +46732,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-11482",
     "price": 8600.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/shinning-stud?variant=gid://shopify/ProductVariant/47721758523619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11482.jpg?v=1765353459"
   },
@@ -82786,7 +82786,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15509",
     "price": 4600.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/moissanite-studs-15?variant=gid://shopify/ProductVariant/49447335624931",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15509.jpg?v=1784976716"
   },
@@ -100007,15 +100007,6 @@
     "url": "https://www.theamethyststore.com/products/nagas-long-necklace?variant=gid://shopify/ProductVariant/49671686029539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17876.jpg?v=1788585404"
   },
-  "gid://shopify/ProductVariant/49671736197347": {
-    "product_title": "Charming Victorian Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17682",
-    "price": 88200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/victorian-short-necklace-set?variant=gid://shopify/ProductVariant/49671736197347",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17682.jpg?v=1788587700"
-  },
   "gid://shopify/ProductVariant/49671778435299": {
     "product_title": "Most loved Victorian Necklace",
     "variant_title": "Default Title",
@@ -101056,7 +101047,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17885",
     "price": 72100.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/goddess-like-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49708517458147",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17885.jpg?v=1788931060"
   },
@@ -110518,6 +110509,33 @@
     "stock": 3,
     "url": "https://www.theamethyststore.com/products/verde-beauty-bugadi-earrings?variant=gid://shopify/ProductVariant/67619210199267",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16326.jpg?v=1791029672"
+  },
+  "gid://shopify/ProductVariant/67619383771363": {
+    "product_title": "Beyond Trends Bugadi Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16323",
+    "price": 5297.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/beyond-trends-bugadi-earrings?variant=gid://shopify/ProductVariant/67619383771363",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16323.jpg?v=1791030580"
+  },
+  "gid://shopify/ProductVariant/67619505668323": {
+    "product_title": "Divine Charm Stone Choker",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18469",
+    "price": 21945.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/divine-charm-stone-choker?variant=gid://shopify/ProductVariant/67619505668323",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18469.jpg?v=1791030696"
+  },
+  "gid://shopify/ProductVariant/67619631268067": {
+    "product_title": "Most Catchy Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18479",
+    "price": 101400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/most-catchy-nagas-short-necklace?variant=gid://shopify/ProductVariant/67619631268067",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18479.jpg?v=1791031380"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -141307,6 +141325,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/kundan-short-necklace-2?variant=gid://shopify/ProductVariant/49671635534051",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17768.jpg?v=1788583676"
+  },
+  "gid://shopify/ProductVariant/49671736197347": {
+    "product_title": "Charming Victorian Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17682",
+    "price": 88200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/victorian-short-necklace-set?variant=gid://shopify/ProductVariant/49671736197347",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17682.jpg?v=1788587700"
   },
   "gid://shopify/ProductVariant/49671846330595": {
     "product_title": "Dheshini Kundan Jada Billa",
