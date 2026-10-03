@@ -6101,15 +6101,6 @@
     "url": "https://www.dulhanjewels.com/products/royal-bridal-jadau-kundan-choker-with-rice-pearls?variant=gid://shopify/ProductVariant/51582887461170",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/C4EF4CA7-A2C2-4174-B6BD-7A1D3FE74779.jpg?v=1786962519"
   },
-  "gid://shopify/ProductVariant/51582912364850": {
-    "product_title": "Magnificent Jadau Kundan Necklace With Emerald Beads And Ruby Stones",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 9200.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/bridal-jadau-kundan-necklace-with-emerald-beads-ruby-stones?variant=gid://shopify/ProductVariant/51582912364850",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/304E2A49-E091-4DE3-B2A9-524A53320825.jpg?v=1786962519"
-  },
   "gid://shopify/ProductVariant/51604545143090": {
     "product_title": "Blooming Jadau Kundan Bangle With Emerald And Ruby Accents",
     "variant_title": "2.4",
@@ -6451,15 +6442,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/gold-style-divine-lakshmi-devi-jadau-kundan-necklace-with-ricepearl-hangings?variant=gid://shopify/ProductVariant/51706055524658",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/15F2C531-8BC5-48F2-AF79-8C0C88B9C13B.jpg?v=1788432462"
-  },
-  "gid://shopify/ProductVariant/51706443890994": {
-    "product_title": "Regal Jadau Kundan Chandbali Earrings With Emerald Hangings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1150.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/regal-jadau-kundan-chandbali-earrings-with-emerald-hangings-2?variant=gid://shopify/ProductVariant/51706443890994",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/4E1B2E86-D7EB-47F7-8CF6-27E42CEBA5E8.jpg?v=1788606302"
   },
   "gid://shopify/ProductVariant/51706454933810": {
     "product_title": "Elegant Floral Studded Jadau Kundan Chandbali Earrings With Strawberry Beads",
@@ -7865,6 +7847,15 @@
     "url": "https://www.dulhanjewels.com/products/stylish-victorian-bangle-with-emerald-green-stones-and-polki?variant=gid://shopify/ProductVariant/51566269923634",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0181.jpg?v=1786606243"
   },
+  "gid://shopify/ProductVariant/51582912364850": {
+    "product_title": "Magnificent Jadau Kundan Necklace With Emerald Beads And Ruby Stones",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 9200.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/bridal-jadau-kundan-necklace-with-emerald-beads-ruby-stones?variant=gid://shopify/ProductVariant/51582912364850",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/304E2A49-E091-4DE3-B2A9-524A53320825.jpg?v=1786962519"
+  },
   "gid://shopify/ProductVariant/51706160775474": {
     "product_title": "Classy Jadau Kundan Chand Design Necklace With Green Drops",
     "variant_title": "Default Title",
@@ -7873,5 +7864,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/classy-jadau-kundan-chand-design-necklace-with-green-drops?variant=gid://shopify/ProductVariant/51706160775474",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/24207B95-F32A-4762-94BD-85FEA49C099C.jpg?v=1788433007"
+  },
+  "gid://shopify/ProductVariant/51706443890994": {
+    "product_title": "Regal Jadau Kundan Chandbali Earrings With Emerald Hangings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1150.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/regal-jadau-kundan-chandbali-earrings-with-emerald-hangings-2?variant=gid://shopify/ProductVariant/51706443890994",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/4E1B2E86-D7EB-47F7-8CF6-27E42CEBA5E8.jpg?v=1788606302"
   }
 }
