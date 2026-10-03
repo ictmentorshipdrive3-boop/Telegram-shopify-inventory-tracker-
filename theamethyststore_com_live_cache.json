@@ -22571,15 +22571,6 @@
     "url": "https://www.theamethyststore.com/products/glittering-heart-chain-with-earrings?variant=gid://shopify/ProductVariant/46757441241315",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-0915_4.jpg?v=1751018455"
   },
-  "gid://shopify/ProductVariant/46757490032867": {
-    "product_title": "Mesmerizing Long Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-10313",
-    "price": 192400.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/mesmerizing-long-necklace-set?variant=gid://shopify/ProductVariant/46757490032867",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10313_2.jpg?v=1751020528"
-  },
   "gid://shopify/ProductVariant/46757510480099": {
     "product_title": "Pretty Look Choker Set",
     "variant_title": "Default Title",
@@ -84748,7 +84739,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4832",
     "price": 19500.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/nagas-pendant-44?variant=gid://shopify/ProductVariant/49482848895203",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4832.jpg?v=1785567077"
   },
@@ -110465,6 +110456,33 @@
     "url": "https://www.theamethyststore.com/products/serenity-mangalsutra-chain-with-earrings?variant=gid://shopify/ProductVariant/67618676768995",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2267.jpg?v=1791025046"
   },
+  "gid://shopify/ProductVariant/67618778775779": {
+    "product_title": "Simply Pretty Bugadi Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16331",
+    "price": 2613.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/simply-pretty-bugadi-earrings?variant=gid://shopify/ProductVariant/67618778775779",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16331.jpg?v=1791025250"
+  },
+  "gid://shopify/ProductVariant/67618907914467": {
+    "product_title": "Cassia Mangalsutra Chain With Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2268",
+    "price": 9200.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/cassia-mangalsutra-chain-with-earrings?variant=gid://shopify/ProductVariant/67618907914467",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2268.jpg?v=1791025572"
+  },
+  "gid://shopify/ProductVariant/67619078570211": {
+    "product_title": "Cluster Mangalsutra Chain With Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2269",
+    "price": 12400.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/cluster-mangalsutra-chain-with-earrings?variant=gid://shopify/ProductVariant/67619078570211",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2269_191564b0-5756-4c0d-af0b-0d7ceef1575b.jpg?v=1791026076"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -116458,6 +116476,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/dazzle-chain-with-earrings?variant=gid://shopify/ProductVariant/46757466112227",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-0799JPG.jpg?v=1751019299"
+  },
+  "gid://shopify/ProductVariant/46757490032867": {
+    "product_title": "Mesmerizing Long Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-10313",
+    "price": 192400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/mesmerizing-long-necklace-set?variant=gid://shopify/ProductVariant/46757490032867",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10313_2.jpg?v=1751020528"
   },
   "gid://shopify/ProductVariant/46757495898339": {
     "product_title": "Marvellous Long Necklace Set",
@@ -124842,7 +124869,7 @@
     "product_title": "Bhavika Short Necklace Set",
     "variant_title": "Default Title",
     "sku": "AMS-102-13792",
-    "price": 54149.0,
+    "price": 39377.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/bhavika-short-necklace-set?variant=gid://shopify/ProductVariant/48032090357987",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13792.jpg?v=1770457881"
