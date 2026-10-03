@@ -81778,7 +81778,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-2405",
     "price": 59000.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/diamond-design-hair-maatal-2?variant=gid://shopify/ProductVariant/49439675351267",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2405_71416755-0be9-44e2-8015-ada736f3280d.jpg?v=1784815239"
   },
@@ -89368,15 +89368,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/kundan-short-necklace-60?variant=gid://shopify/ProductVariant/49526672228579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17552.jpg?v=1786599375"
-  },
-  "gid://shopify/ProductVariant/49526676717795": {
-    "product_title": "Avikaa Kundan Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17553",
-    "price": 95432.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kundan-short-necklace-61?variant=gid://shopify/ProductVariant/49526676717795",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17553.jpg?v=1786599567"
   },
   "gid://shopify/ProductVariant/49526677733603": {
     "product_title": "Bridal Kundan Maatal",
@@ -106456,7 +106447,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18287",
     "price": 82700.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/adoring-shine-avikam-choker-set?variant=gid://shopify/ProductVariant/50284533940451",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18287.jpg?v=1790254286"
   },
@@ -139336,6 +139327,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/trendy-kundan-maatal?variant=gid://shopify/ProductVariant/49526659645667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2449.jpg?v=1786598496"
+  },
+  "gid://shopify/ProductVariant/49526676717795": {
+    "product_title": "Avikaa Kundan Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17553",
+    "price": 95432.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kundan-short-necklace-61?variant=gid://shopify/ProductVariant/49526676717795",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17553.jpg?v=1786599567"
   },
   "gid://shopify/ProductVariant/49526727966947": {
     "product_title": "Grand Kundan Short Necklace",
