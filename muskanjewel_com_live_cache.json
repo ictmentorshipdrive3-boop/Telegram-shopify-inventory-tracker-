@@ -1228,7 +1228,7 @@
     "variant_title": "2.6",
     "sku": null,
     "price": 850.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.muskanjewel.com/products/temple-antique-goddess-laxmi-and-peacock-bangles-pair?variant=gid://shopify/ProductVariant/53016702091580",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260427_121550_b70684a9-e244-4e0f-bfa3-5fc4b9b535b6.webp?v=1777384090"
   },
@@ -1393,15 +1393,6 @@
     "stock": 1,
     "url": "https://www.muskanjewel.com/products/temple-antique-goddess-laxmi-peacock-coral-necklace-with-pearl-and-natural-strawberry-beads-dropwith-earrings?variant=gid://shopify/ProductVariant/53032006058300",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260430_203644_02348dde-448a-4e89-be2c-6059a47c526f_1.webp?v=1777895571"
-  },
-  "gid://shopify/ProductVariant/53032047870268": {
-    "product_title": "Temple/Antique Peacock long necklace with pearl and natural strawberry beads drop(With Earrings)",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2800.0,
-    "stock": 1,
-    "url": "https://www.muskanjewel.com/products/temple-antique-peacock-long-necklace-with-pearl-and-natural-strawberry-beads-dropwith-earrings?variant=gid://shopify/ProductVariant/53032047870268",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260430_205020_11a07df3-1c0b-43df-80f4-84340538fbaf.webp?v=1777897605"
   },
   "gid://shopify/ProductVariant/53032195096892": {
     "product_title": "Zircon Diamond+Temple/Antique necklace with pearl and natural strawberry beads(With Earrings)",
@@ -2554,5 +2545,14 @@
     "stock": 0,
     "url": "https://www.muskanjewel.com/products/temple-antique-goddess-laxmi-and-peacock-bangles-pair?variant=gid://shopify/ProductVariant/53016702124348",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260427_121550_b70684a9-e244-4e0f-bfa3-5fc4b9b535b6.webp?v=1777384090"
+  },
+  "gid://shopify/ProductVariant/53032047870268": {
+    "product_title": "Temple/Antique Peacock long necklace with pearl and natural strawberry beads drop(With Earrings)",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2800.0,
+    "stock": 0,
+    "url": "https://www.muskanjewel.com/products/temple-antique-peacock-long-necklace-with-pearl-and-natural-strawberry-beads-dropwith-earrings?variant=gid://shopify/ProductVariant/53032047870268",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260430_205020_11a07df3-1c0b-43df-80f4-84340538fbaf.webp?v=1777897605"
   }
 }
