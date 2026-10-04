@@ -54341,15 +54341,6 @@
     "url": "https://www.theamethyststore.com/products/thiya-kundan-anklet?variant=gid://shopify/ProductVariant/47935112872163",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-114-0799.jpg?v=1770279001"
   },
-  "gid://shopify/ProductVariant/47935356043491": {
-    "product_title": "Shristikha Kundan Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-12938",
-    "price": 5523.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kundan-studs-6?variant=gid://shopify/ProductVariant/47935356043491",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12938.jpg?v=1770279196"
-  },
   "gid://shopify/ProductVariant/47935562940643": {
     "product_title": "Nishali Kundan Ring",
     "variant_title": "Default Title",
@@ -78421,7 +78412,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-16501",
     "price": 5000.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/hasli-necklace-64?variant=gid://shopify/ProductVariant/49396530774243",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16501.jpg?v=1783831724"
   },
@@ -124342,6 +124333,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/krisha-stone-studs?variant=gid://shopify/ProductVariant/47926730326243",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11865.jpg?v=1770271002"
+  },
+  "gid://shopify/ProductVariant/47935356043491": {
+    "product_title": "Shristikha Kundan Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-12938",
+    "price": 5523.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kundan-studs-6?variant=gid://shopify/ProductVariant/47935356043491",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12938.jpg?v=1770279196"
   },
   "gid://shopify/ProductVariant/47935428788451": {
     "product_title": "Tharsha Kundan Anklet",
