@@ -50035,7 +50035,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-11756",
     "price": 3283.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/sparkling-stone-studs-1?variant=gid://shopify/ProductVariant/47813876515043",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11756.jpg?v=1768217803"
   },
@@ -66149,15 +66149,6 @@
     "url": "https://www.theamethyststore.com/products/lithika-avikam-long-earrings?variant=gid://shopify/ProductVariant/48916668743907",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13572.png?v=1778150270"
   },
-  "gid://shopify/ProductVariant/48916672053475": {
-    "product_title": "Dheeksha Avikam Long Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-13574",
-    "price": 13000.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/dheeksha-avikam-long-earrings?variant=gid://shopify/ProductVariant/48916672053475",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13574.png?v=1778150441"
-  },
   "gid://shopify/ProductVariant/48916680311011": {
     "product_title": "Lathinya Avikam Long Earrings",
     "variant_title": "Default Title",
@@ -67836,8 +67827,8 @@
     "product_title": "Yahibha Diamond Design Studs",
     "variant_title": "Default Title",
     "sku": "AMS-106-13877",
-    "price": 3300.0,
-    "stock": 5,
+    "price": 4200.0,
+    "stock": 8,
     "url": "https://www.theamethyststore.com/products/yahibha-diamond-design-studs?variant=gid://shopify/ProductVariant/48945198170339",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13877.jpg?v=1778676123"
   },
@@ -71522,15 +71513,6 @@
     "url": "https://www.theamethyststore.com/products/nagas-short-necklace-set-14?variant=gid://shopify/ProductVariant/49280164757731",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16073.jpg?v=1781866352"
   },
-  "gid://shopify/ProductVariant/49280172949731": {
-    "product_title": "Sparkling Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16142",
-    "price": 24190.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/sparkling-short-necklace-set-4?variant=gid://shopify/ProductVariant/49280172949731",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16142_4.jpg?v=1781866607"
-  },
   "gid://shopify/ProductVariant/49280186613987": {
     "product_title": "Elephant Design Short Necklace Set",
     "variant_title": "Default Title",
@@ -74905,15 +74887,6 @@
     "stock": 3,
     "url": "https://www.theamethyststore.com/products/divine-look-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49333318058211",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16366.jpg?v=1782806000"
-  },
-  "gid://shopify/ProductVariant/49333370454243": {
-    "product_title": "Samyuktha Stone Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16146",
-    "price": 16449.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/stone-short-necklace-set-1?variant=gid://shopify/ProductVariant/49333370454243",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16146.jpg?v=1782806331"
   },
   "gid://shopify/ProductVariant/49333487370467": {
     "product_title": "Bridal Kundan Oddiyanam",
@@ -104899,7 +104872,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16138",
     "price": 7200.0,
-    "stock": 1,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/binthikaa-diamond-design-studs?variant=gid://shopify/ProductVariant/49791999541475",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16138.jpg?v=1790059038"
   },
@@ -129104,6 +129077,15 @@
     "url": "https://www.theamethyststore.com/products/mesmira-victorian-long-earrings?variant=gid://shopify/ProductVariant/48916602781923",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13532.png?v=1778147219"
   },
+  "gid://shopify/ProductVariant/48916672053475": {
+    "product_title": "Dheeksha Avikam Long Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-13574",
+    "price": 13000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/dheeksha-avikam-long-earrings?variant=gid://shopify/ProductVariant/48916672053475",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13574.png?v=1778150441"
+  },
   "gid://shopify/ProductVariant/48916688371939": {
     "product_title": "Glowing Victorian Drops Earrings",
     "variant_title": "Default Title",
@@ -132614,6 +132596,15 @@
     "url": "https://www.theamethyststore.com/products/trendy-glow-short-necklace-set-4?variant=gid://shopify/ProductVariant/49280162726115",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16143.jpg?v=1781866290"
   },
+  "gid://shopify/ProductVariant/49280172949731": {
+    "product_title": "Sparkling Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16142",
+    "price": 24190.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/sparkling-short-necklace-set-4?variant=gid://shopify/ProductVariant/49280172949731",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16142_4.jpg?v=1781866607"
+  },
   "gid://shopify/ProductVariant/49280199033059": {
     "product_title": "Jessintha Stone Studs",
     "variant_title": "Default Title",
@@ -134386,6 +134377,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/beautiful-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49333355348195",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16368.jpg?v=1782806301"
+  },
+  "gid://shopify/ProductVariant/49333370454243": {
+    "product_title": "Samyuktha Stone Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16146",
+    "price": 16449.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/stone-short-necklace-set-1?variant=gid://shopify/ProductVariant/49333370454243",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16146.jpg?v=1782806331"
   },
   "gid://shopify/ProductVariant/49333550186723": {
     "product_title": "Trending Stone Short Necklace Set",
