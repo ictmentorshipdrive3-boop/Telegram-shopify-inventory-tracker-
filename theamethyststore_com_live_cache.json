@@ -70231,7 +70231,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-2306",
     "price": 11622.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/upasana-hair-maatal?variant=gid://shopify/ProductVariant/49252753178851",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2306.jpg?v=1781268616"
   },
@@ -93382,15 +93382,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/bugadi-earrings-17?variant=gid://shopify/ProductVariant/49555071959267",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15797.jpg?v=1787052770"
-  },
-  "gid://shopify/ProductVariant/49674849321187": {
-    "product_title": "Bridal Like Jada Billa",
-    "variant_title": "Chandran",
-    "sku": "AMS-112-0904-CHAAND",
-    "price": 5164.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/jada-billa-23?variant=gid://shopify/ProductVariant/49674849321187",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0904_4.jpg?v=1787053133"
   },
   "gid://shopify/ProductVariant/49681949262051": {
     "product_title": "Bridal Like Jada Billa",
@@ -139921,6 +139912,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/akitha-kundan-pair-bangles?variant=gid://shopify/ProductVariant/49554552783075",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3569.jpg?v=1787049024"
+  },
+  "gid://shopify/ProductVariant/49674849321187": {
+    "product_title": "Bridal Like Jada Billa",
+    "variant_title": "Chandran",
+    "sku": "AMS-112-0904-CHAAND",
+    "price": 5164.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/jada-billa-23?variant=gid://shopify/ProductVariant/49674849321187",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0904_4.jpg?v=1787053133"
   },
   "gid://shopify/ProductVariant/49555929858275": {
     "product_title": "Bridal Jada Billa",
