@@ -8,15 +8,6 @@
     "url": "https://www.daivik.in/products/18?variant=gid://shopify/ProductVariant/32600557649979",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_5e6e7a93-bcb3-4c15-a2d3-f871fbf7f3fb.jpg?v=1641477506"
   },
-  "gid://shopify/ProductVariant/32600664506427": {
-    "product_title": "Uncut Kemp Haram with Balis",
-    "variant_title": "Default Title",
-    "sku": "29",
-    "price": 1999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/29?variant=gid://shopify/ProductVariant/32600664506427",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG-6786.jpg?v=1583735555"
-  },
   "gid://shopify/ProductVariant/32600742723643": {
     "product_title": "Matte Gold Finish Uncut Long Haram with Earrings",
     "variant_title": "Default Title",
@@ -2308,7 +2299,7 @@
     "variant_title": "Default Title",
     "sku": "277",
     "price": 599.0,
-    "stock": 22,
+    "stock": 21,
     "url": "https://www.daivik.in/products/ad-white-gold-teeka?variant=gid://shopify/ProductVariant/42641179345118",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_cab7af53-ce70-4200-8b35-a70dcb200b07.heic?v=1648999204"
   },
@@ -5314,7 +5305,7 @@
     "variant_title": "2.6",
     "sku": "685",
     "price": 1699.0,
-    "stock": 25,
+    "stock": 24,
     "url": "https://www.daivik.in/products/elephant-antique-bangles?variant=gid://shopify/ProductVariant/44464669327582",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F88F26E7-F033-44D8-9A99-BA5366B53C1E.jpg?v=1698682379"
   },
@@ -5440,7 +5431,7 @@
     "variant_title": "Default Title",
     "sku": "778",
     "price": 999.0,
-    "stock": 31,
+    "stock": 30,
     "url": "https://www.daivik.in/products/ad-changeable-simple-gold-finish-necklace-with-changeable-earrings?variant=gid://shopify/ProductVariant/44544110330078",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E41EFCFA-ECDF-419B-AFB2-2CDD4A5CD4C8.jpg?v=1700667803"
   },
@@ -11776,7 +11767,7 @@
     "variant_title": "1",
     "sku": "1606",
     "price": 1499.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/u-1?variant=gid://shopify/ProductVariant/46686857953502",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C897E96C-C8F4-431B-88C6-6A8CBEB1EFDA.jpg?v=1747063152"
   },
@@ -11920,7 +11911,7 @@
     "variant_title": "Dark Green",
     "sku": "1270",
     "price": 1099.0,
-    "stock": 47,
+    "stock": 46,
     "url": "https://www.daivik.in/products/peacock-lakshmi-long-chain-with-jhumkas?variant=gid://shopify/ProductVariant/46838455369950",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BF72B86F-354C-4C76-89BC-326D9C2E6F73.jpg?v=1748275651"
   },
@@ -12919,7 +12910,7 @@
     "variant_title": "2.6",
     "sku": "1647",
     "price": 699.0,
-    "stock": 55,
+    "stock": 54,
     "url": "https://www.daivik.in/products/lakshmi-lotus-bangles-price-for-a-pair?variant=gid://shopify/ProductVariant/47408960405726",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F390403E-740F-459F-89E4-A418026FEF39.jpg?v=1754575369"
   },
@@ -21832,6 +21823,15 @@
     "stock": 20,
     "url": "https://www.daivik.in/products/rudraksha-ganesha-antique-gold-bracelet?variant=gid://shopify/ProductVariant/49145708773598",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/WhatsAppImage2026-10-03at22.06.30.jpg?v=1791046066"
+  },
+  "gid://shopify/ProductVariant/32600664506427": {
+    "product_title": "Uncut Kemp Haram with Balis",
+    "variant_title": "Default Title",
+    "sku": "29",
+    "price": 1999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/29?variant=gid://shopify/ProductVariant/32600664506427",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG-6786.jpg?v=1583735555"
   },
   "gid://shopify/ProductVariant/34430554472601": {
     "product_title": "Regular Use Stone Set Of Four Bangles",
