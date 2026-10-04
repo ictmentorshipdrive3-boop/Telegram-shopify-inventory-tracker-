@@ -46876,7 +46876,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-13190",
     "price": 51042.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/tanuja-short-necklace-set?variant=gid://shopify/ProductVariant/47726733066467",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13190.jpg?v=1765458985"
   },
@@ -80031,8 +80031,8 @@
     "product_title": "Glittering Avikam Necklace Set",
     "variant_title": "Default Title",
     "sku": "AMS-102-16805",
-    "price": 34000.0,
-    "stock": 3,
+    "price": 34300.0,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/glittering-avikam-necklace-set-1?variant=gid://shopify/ProductVariant/49421301973219",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16805.jpg?v=1784291150"
   },
@@ -86929,15 +86929,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/ghazal-avikam-bracelet?variant=gid://shopify/ProductVariant/49507847733475",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1441.jpg?v=1786086541"
-  },
-  "gid://shopify/ProductVariant/49507854844131": {
-    "product_title": "Dhansika Avikam Pendant Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-4868",
-    "price": 12100.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/avikam-pendant-set-44?variant=gid://shopify/ProductVariant/49507854844131",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4868.jpg?v=1786086841"
   },
   "gid://shopify/ProductVariant/49507854909667": {
     "product_title": "Surathi Avikam Bracelet",
@@ -94045,7 +94036,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17647",
     "price": 20800.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/diamond-design-necklace-set-12?variant=gid://shopify/ProductVariant/49564148957411",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17647.jpg?v=1787231032"
   },
@@ -105421,7 +105412,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18118",
     "price": 54800.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/vanthikaa-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/49798790086883",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18118.jpg?v=1790147553"
   },
@@ -138373,6 +138364,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/avikam-pendant-set-43?variant=gid://shopify/ProductVariant/49507850518755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4865.jpg?v=1786086620"
+  },
+  "gid://shopify/ProductVariant/49507854844131": {
+    "product_title": "Dhansika Avikam Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4868",
+    "price": 12100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/avikam-pendant-set-44?variant=gid://shopify/ProductVariant/49507854844131",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4868.jpg?v=1786086841"
   },
   "gid://shopify/ProductVariant/49507866149091": {
     "product_title": "Nivara Avikam Bracelet",
