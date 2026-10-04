@@ -3928,7 +3928,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-113-0245",
     "price": 3059.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.theamethyststore.com/products/easha-nose-pin?variant=gid://shopify/ProductVariant/43691549786339",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-113-0245.jpg?v=1675166438"
   },
@@ -53702,15 +53702,6 @@
     "url": "https://www.theamethyststore.com/products/nagas-tikka-13?variant=gid://shopify/ProductVariant/47920033431779",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2193.jpg?v=1770198668"
   },
-  "gid://shopify/ProductVariant/47920069181667": {
-    "product_title": "Jeevika Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-12687",
-    "price": 3506.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/jeevika-stone-studs?variant=gid://shopify/ProductVariant/47920069181667",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12687.jpg?v=1770198982"
-  },
   "gid://shopify/ProductVariant/47920088219875": {
     "product_title": "Aarvisha Nagas Tikka",
     "variant_title": "Default Title",
@@ -64749,8 +64740,8 @@
     "product_title": "Maala Kundan Studs",
     "variant_title": "Default Title",
     "sku": "AMS-106-13354",
-    "price": 7301.0,
-    "stock": 4,
+    "price": 7352.0,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/maala-kundan-studs?variant=gid://shopify/ProductVariant/48903240450275",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13354.jpg?v=1777792332"
   },
@@ -91372,7 +91363,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15719",
     "price": 14243.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/charvi-kundan-studs?variant=gid://shopify/ProductVariant/49542420889827",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15719.jpg?v=1786865036"
   },
@@ -124126,6 +124117,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/shavika-stone-studs?variant=gid://shopify/ProductVariant/47920018358499",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12685.jpg?v=1770198489"
+  },
+  "gid://shopify/ProductVariant/47920069181667": {
+    "product_title": "Jeevika Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-12687",
+    "price": 3506.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/jeevika-stone-studs?variant=gid://shopify/ProductVariant/47920069181667",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12687.jpg?v=1770198982"
   },
   "gid://shopify/ProductVariant/47920119677155": {
     "product_title": "Akisha Hook Drops",
