@@ -99980,15 +99980,6 @@
     "url": "https://www.theamethyststore.com/products/nagas-long-necklace?variant=gid://shopify/ProductVariant/49671686029539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17876.jpg?v=1788585404"
   },
-  "gid://shopify/ProductVariant/49671736197347": {
-    "product_title": "Charming Victorian Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17682",
-    "price": 88200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/victorian-short-necklace-set?variant=gid://shopify/ProductVariant/49671736197347",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17682.jpg?v=1788587700"
-  },
   "gid://shopify/ProductVariant/49671778435299": {
     "product_title": "Most loved Victorian Necklace",
     "variant_title": "Default Title",
@@ -101029,7 +101020,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17885",
     "price": 72100.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/goddess-like-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49708517458147",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17885.jpg?v=1788931060"
   },
@@ -110469,7 +110460,7 @@
     "product_title": "Vibrant Craft Bugadi Earrings",
     "variant_title": "Default Title",
     "sku": "AMS-106-16327",
-    "price": 8078.0,
+    "price": 8079.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/vibrant-craft-bugadi-earrings?variant=gid://shopify/ProductVariant/67619207610595",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16327.jpg?v=1791029212"
@@ -110487,7 +110478,7 @@
     "product_title": "Verde Beauty Bugadi Earrings",
     "variant_title": "Default Title",
     "sku": "AMS-106-16326",
-    "price": 8610.0,
+    "price": 8893.0,
     "stock": 3,
     "url": "https://www.theamethyststore.com/products/verde-beauty-bugadi-earrings?variant=gid://shopify/ProductVariant/67619210199267",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16326.jpg?v=1791029672"
@@ -110496,7 +110487,7 @@
     "product_title": "Beyond Trends Bugadi Earrings",
     "variant_title": "Default Title",
     "sku": "AMS-106-16323",
-    "price": 5297.0,
+    "price": 8079.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/beyond-trends-bugadi-earrings?variant=gid://shopify/ProductVariant/67619383771363",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16323.jpg?v=1791030580"
@@ -110563,6 +110554,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/authentic-catchy-rings?variant=gid://shopify/ProductVariant/67621723177187",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2377.jpg?v=1791091512"
+  },
+  "gid://shopify/ProductVariant/67621725896931": {
+    "product_title": "Willow Charm Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18408",
+    "price": 46500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/willow-charm-short-necklace?variant=gid://shopify/ProductVariant/67621725896931",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/ref_sec_179083838270599.jpg?v=1791091769"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -141379,6 +141379,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/kundan-short-necklace-2?variant=gid://shopify/ProductVariant/49671635534051",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17768.jpg?v=1788583676"
+  },
+  "gid://shopify/ProductVariant/49671736197347": {
+    "product_title": "Charming Victorian Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17682",
+    "price": 88200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/victorian-short-necklace-set?variant=gid://shopify/ProductVariant/49671736197347",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17682.jpg?v=1788587700"
   },
   "gid://shopify/ProductVariant/49671846330595": {
     "product_title": "Dheshini Kundan Jada Billa",
