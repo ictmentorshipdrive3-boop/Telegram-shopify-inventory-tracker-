@@ -616,7 +616,7 @@
     "variant_title": "Default Title",
     "sku": "R2023",
     "price": 18360.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/emerald-dhanyalakshmi-short-necklace?variant=gid://shopify/ProductVariant/50063302721833",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/19.jpg?v=1743503521"
   },
@@ -19241,6 +19241,15 @@
     "url": "https://www.rasasilver.com/products/verde-pear-stone-kada?variant=gid://shopify/ProductVariant/53304599445801",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40306_resized.jpg?v=1783662507"
   },
+  "gid://shopify/ProductVariant/53304635064617": {
+    "product_title": "Temple Devalika Necklace",
+    "variant_title": "Default Title",
+    "sku": "R31269",
+    "price": 14280.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/temple-devalika-necklace?variant=gid://shopify/ProductVariant/53304635064617",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40145_resized.jpg?v=1783663838"
+  },
   "gid://shopify/ProductVariant/53305055871273": {
     "product_title": "Temple Kamalika Necklace",
     "variant_title": "Default Title",
@@ -24136,15 +24145,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/mallikaarha-nakshi-necklace?variant=gid://shopify/ProductVariant/54220105580841",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Tast_12Set20849.jpg?v=1790158064"
-  },
-  "gid://shopify/ProductVariant/54220113543465": {
-    "product_title": "Narayani Temple Pendant",
-    "variant_title": "Default Title",
-    "sku": "R36918",
-    "price": 5270.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/narayani-temple-pendant-1?variant=gid://shopify/ProductVariant/54220113543465",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/e548_1.jpg?v=1791019941"
   },
   "gid://shopify/ProductVariant/54220132319529": {
     "product_title": "Mayur-Gaja Nakshi Necklace",
@@ -47735,15 +47735,6 @@
     "url": "https://www.rasasilver.com/products/hariyali-stone-hangings?variant=gid://shopify/ProductVariant/53304579293481",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40285_resized.jpg?v=1783661617"
   },
-  "gid://shopify/ProductVariant/53304635064617": {
-    "product_title": "Temple Devalika Necklace",
-    "variant_title": "Default Title",
-    "sku": "R31269",
-    "price": 14280.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/temple-devalika-necklace?variant=gid://shopify/ProductVariant/53304635064617",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40145_resized.jpg?v=1783663838"
-  },
   "gid://shopify/ProductVariant/53305036276009": {
     "product_title": "Temple Hemambari Necklace",
     "variant_title": "Default Title",
@@ -49615,6 +49606,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/pakshi-nakshi-adjustable-ring?variant=gid://shopify/ProductVariant/54219508449577",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Tast_12Set20934.jpg?v=1790150015"
+  },
+  "gid://shopify/ProductVariant/54220113543465": {
+    "product_title": "Narayani Temple Pendant",
+    "variant_title": "Default Title",
+    "sku": "R36918",
+    "price": 5270.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/narayani-temple-pendant-1?variant=gid://shopify/ProductVariant/54220113543465",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/e548_1.jpg?v=1791019941"
   },
   "gid://shopify/ProductVariant/67541521531177": {
     "product_title": "Shree Tarunika Temple Choker",
