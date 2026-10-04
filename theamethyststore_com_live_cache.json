@@ -65560,7 +65560,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-2105",
     "price": 2464.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/srika-stone-ring?variant=gid://shopify/ProductVariant/48911916990691",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2105.jpg?v=1777988179"
   },
@@ -96218,15 +96218,6 @@
     "url": "https://www.theamethyststore.com/products/attractive-bugadi-earrings-2?variant=gid://shopify/ProductVariant/49598587994339",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15902.jpg?v=1787661955"
   },
-  "gid://shopify/ProductVariant/49598602182883": {
-    "product_title": "Petite Bugadi Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15904",
-    "price": 3941.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/petite-bugadi-earrings?variant=gid://shopify/ProductVariant/49598602182883",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15904.jpg?v=1787662831"
-  },
   "gid://shopify/ProductVariant/49598607950051": {
     "product_title": "Delightful Bugadi Earrings",
     "variant_title": "Default Title",
@@ -99637,15 +99628,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/kundan-short-necklace-6?variant=gid://shopify/ProductVariant/49671643103459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17771.jpg?v=1788584574"
-  },
-  "gid://shopify/ProductVariant/49671656931555": {
-    "product_title": "Trishikaa Kundan Choker",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17772",
-    "price": 64023.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kundan-choker-2?variant=gid://shopify/ProductVariant/49671656931555",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17772.jpg?v=1788584927"
   },
   "gid://shopify/ProductVariant/49671686029539": {
     "product_title": "Shivanikhaa Nagas Long Necklace",
@@ -106315,15 +106297,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/gorgeous-vanki-style-ring?variant=gid://shopify/ProductVariant/67580796600547",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2367.jpg?v=1790397765"
-  },
-  "gid://shopify/ProductVariant/67580813967587": {
-    "product_title": "Aurelia Vanki Style Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-2368",
-    "price": 2200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/aurelia-vanki-style-ring?variant=gid://shopify/ProductVariant/67580813967587",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2368.jpg?v=1790397997"
   },
   "gid://shopify/ProductVariant/67580829827299": {
     "product_title": "Seraphina  Vanki Style Ring",
@@ -140129,6 +140102,15 @@
     "url": "https://www.theamethyststore.com/products/endearing-bugadi-earrings?variant=gid://shopify/ProductVariant/49598595858659",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15903.jpg?v=1787662510"
   },
+  "gid://shopify/ProductVariant/49598602182883": {
+    "product_title": "Petite Bugadi Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15904",
+    "price": 3941.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/petite-bugadi-earrings?variant=gid://shopify/ProductVariant/49598602182883",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15904.jpg?v=1787662831"
+  },
   "gid://shopify/ProductVariant/49600951156963": {
     "product_title": "Heritage Nagas Short Necklace",
     "variant_title": "Default Title",
@@ -141137,6 +141119,15 @@
     "url": "https://www.theamethyststore.com/products/kundan-short-necklace-2?variant=gid://shopify/ProductVariant/49671635534051",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17768.jpg?v=1788583676"
   },
+  "gid://shopify/ProductVariant/49671656931555": {
+    "product_title": "Trishikaa Kundan Choker",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17772",
+    "price": 64023.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kundan-choker-2?variant=gid://shopify/ProductVariant/49671656931555",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17772.jpg?v=1788584927"
+  },
   "gid://shopify/ProductVariant/49671736197347": {
     "product_title": "Charming Victorian Short Necklace Set",
     "variant_title": "Default Title",
@@ -141748,6 +141739,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/sryling-vanki-style-ring?variant=gid://shopify/ProductVariant/67580737749219",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2365_76572bb3-3174-40fd-960d-00dd6fe85cdc.jpg?v=1790397181"
+  },
+  "gid://shopify/ProductVariant/67580813967587": {
+    "product_title": "Aurelia Vanki Style Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2368",
+    "price": 2200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/aurelia-vanki-style-ring?variant=gid://shopify/ProductVariant/67580813967587",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2368.jpg?v=1790397997"
   },
   "gid://shopify/ProductVariant/67581341368547": {
     "product_title": "Blooming Radiant Stone Maangtikka",
