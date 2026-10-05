@@ -49,7 +49,7 @@
     "variant_title": "Default Title",
     "sku": "52",
     "price": 3899.0,
-    "stock": 27,
+    "stock": 26,
     "url": "https://www.daivik.in/products/52?variant=gid://shopify/ProductVariant/32600802918459",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_9750826f-0fba-42b9-b909-96934e0b1366.jpg?v=1596981528"
   },
@@ -472,18 +472,9 @@
     "variant_title": "Default Title",
     "sku": "370",
     "price": 6799.0,
-    "stock": 21,
+    "stock": 20,
     "url": "https://www.daivik.in/products/uncut-kemp-guttapusalu-long-haram-with-earrings?variant=gid://shopify/ProductVariant/36131243557017",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG-2816.jpg?v=1600097324"
-  },
-  "gid://shopify/ProductVariant/36131243655321": {
-    "product_title": "Uncut Kemp Guttapusalu Short & Long Haram With Earrings",
-    "variant_title": "Default Title",
-    "sku": "371",
-    "price": 10999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/uncut-kemp-guttapusalu-short-long-haram-with-earrings?variant=gid://shopify/ProductVariant/36131243655321",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG-2812.jpg?v=1600097326"
   },
   "gid://shopify/ProductVariant/36285323378841": {
     "product_title": "AD Stone Leaf Motif Necklace With Earrings",
@@ -508,7 +499,7 @@
     "variant_title": "Default Title",
     "sku": "383",
     "price": 2099.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/big-festive-pure-kemp-peacock-balis?variant=gid://shopify/ProductVariant/36456064319641",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/big-festive-pure-kemp-peacock-balis-earrings-150.jpg?v=1601392309"
   },
@@ -21922,6 +21913,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/lakshmi-coin-haram-with-jhumkas?variant=gid://shopify/ProductVariant/35741100966041",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/lakshmi-coin-haram-with-jhumkas-neckwearnecklace-640.jpg?v=1598194484"
+  },
+  "gid://shopify/ProductVariant/36131243655321": {
+    "product_title": "Uncut Kemp Guttapusalu Short & Long Haram With Earrings",
+    "variant_title": "Default Title",
+    "sku": "371",
+    "price": 10999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/uncut-kemp-guttapusalu-short-long-haram-with-earrings?variant=gid://shopify/ProductVariant/36131243655321",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG-2812.jpg?v=1600097326"
   },
   "gid://shopify/ProductVariant/37443290693785": {
     "product_title": "Peacock choker with jhumkas",
