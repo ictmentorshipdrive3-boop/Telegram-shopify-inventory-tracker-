@@ -5683,7 +5683,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 3400.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.dulhanjewels.com/products/moissanite-jhumki-earrings-with-emerald-hangings?variant=gid://shopify/ProductVariant/51548551971122",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_f38f4909-67dc-437e-88d2-1cab229e03f7.jpg?v=1786179294"
   },
@@ -5893,15 +5893,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/reversible-2-in-1-jadau-kundan-beads-mala?variant=gid://shopify/ProductVariant/51564516213042",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0113.jpg?v=1786534595"
-  },
-  "gid://shopify/ProductVariant/51564533383474": {
-    "product_title": "Bridal Moissanite Polki Mango Haram With Strawberry Beads",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 17300.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/bridal-moissanite-polki-mango-haram-with-strawberry-beads?variant=gid://shopify/ProductVariant/51564533383474",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0109.jpg?v=1786534919"
   },
   "gid://shopify/ProductVariant/51564534333746": {
     "product_title": "Jadau Kundan Kanti Style Necklace With Green Hangings",
@@ -7675,6 +7666,15 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/fresh-water-pearls-mala-with-matching-earrings?variant=gid://shopify/ProductVariant/51521743356210",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/CEE315FA-8367-4AEE-9E37-7B042A6DC22E.jpg?v=1785758480"
+  },
+  "gid://shopify/ProductVariant/51564533383474": {
+    "product_title": "Bridal Moissanite Polki Mango Haram With Strawberry Beads",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 17300.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/bridal-moissanite-polki-mango-haram-with-strawberry-beads?variant=gid://shopify/ProductVariant/51564533383474",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0109.jpg?v=1786534919"
   },
   "gid://shopify/ProductVariant/51566269923634": {
     "product_title": "Stylish Victorian Bangle With Emerald Green Stones And Polki",
