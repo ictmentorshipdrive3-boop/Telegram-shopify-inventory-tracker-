@@ -7874,15 +7874,6 @@
     "url": "https://www.theamethyststore.com/products/nazar-maangtikka?variant=gid://shopify/ProductVariant/44543042126051",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1028.jpg?v=1710502606"
   },
-  "gid://shopify/ProductVariant/44543046713571": {
-    "product_title": "Pahal Long Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-5593",
-    "price": 41200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/pahal-long-earrings?variant=gid://shopify/ProductVariant/44543046713571",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5593.jpg?v=1710502781"
-  },
   "gid://shopify/ProductVariant/44543052808419": {
     "product_title": "Maruki Earrings",
     "variant_title": "Default Title",
@@ -11077,15 +11068,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/farish-bracelet?variant=gid://shopify/ProductVariant/45455856566499",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-0519-_2.jpg?v=1724849790"
-  },
-  "gid://shopify/ProductVariant/45455867412707": {
-    "product_title": "Mahika Pair Bangles",
-    "variant_title": "2.6\"",
-    "sku": "AMS-107-1382-2.6\"",
-    "price": 48300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/mahika-pair-bangles?variant=gid://shopify/ProductVariant/45455867412707",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1382-_2.jpg?v=1724850257"
   },
   "gid://shopify/ProductVariant/45455880716515": {
     "product_title": "Alonza Pair Bangles",
@@ -112121,6 +112103,15 @@
     "url": "https://www.theamethyststore.com/products/aviya-short-necklace?variant=gid://shopify/ProductVariant/44494322303203",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5711.jpg?v=1709793819"
   },
+  "gid://shopify/ProductVariant/44543046713571": {
+    "product_title": "Pahal Long Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-5593",
+    "price": 41200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/pahal-long-earrings?variant=gid://shopify/ProductVariant/44543046713571",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5593.jpg?v=1710502781"
+  },
   "gid://shopify/ProductVariant/44603149648099": {
     "product_title": "Nadhisi Long Earrings",
     "variant_title": "Default Title",
@@ -112984,6 +112975,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/prahara-nagas-long-necklace?variant=gid://shopify/ProductVariant/45439650791651",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7005_30b0446d-c947-4dec-a9ce-483540f70c3b.jpg?v=1781951561"
+  },
+  "gid://shopify/ProductVariant/45455867412707": {
+    "product_title": "Mahika Pair Bangles",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-1382-2.6\"",
+    "price": 48300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/mahika-pair-bangles?variant=gid://shopify/ProductVariant/45455867412707",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1382-_2.jpg?v=1724850257"
   },
   "gid://shopify/ProductVariant/45458470043875": {
     "product_title": "Nisarna Kundan Long Necklace",
