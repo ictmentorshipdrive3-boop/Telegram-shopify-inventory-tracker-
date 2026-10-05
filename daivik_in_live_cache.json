@@ -1579,7 +1579,7 @@
     "variant_title": "2.4",
     "sku": "951",
     "price": 999.0,
-    "stock": 33,
+    "stock": 32,
     "url": "https://www.daivik.in/products/white-stone-bangles-4-bangles?variant=gid://shopify/ProductVariant/42060601163998",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_2a6687dc-c1be-4dfd-9d83-e59b62d8f05f.jpg?v=1636992035"
   },
@@ -6133,7 +6133,7 @@
     "variant_title": "Default Title",
     "sku": "825",
     "price": 999.0,
-    "stock": 1,
+    "stock": 30,
     "url": "https://www.daivik.in/products/two-line-kids-adult-pearl-choker-with-studs?variant=gid://shopify/ProductVariant/44815359410398",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG-2713.heic?v=1708876092"
   },
@@ -11803,7 +11803,7 @@
     "variant_title": "Default Title",
     "sku": "482",
     "price": 2299.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.daivik.in/products/diamond-look-alike-gj-polish-necklace-with-earrings?variant=gid://shopify/ProductVariant/46734779777246",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/48F3AF13-D6B8-40A3-9167-4ABC6E796737.jpg?v=1747668658"
   },
@@ -19903,7 +19903,7 @@
     "variant_title": "Default Title",
     "sku": "877",
     "price": 2199.0,
-    "stock": 28,
+    "stock": 27,
     "url": "https://www.daivik.in/products/ad-multi-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48312504844510",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7C3E679D-9CDF-4C8E-8C0C-6A70DEB76DD5.jpg?v=1780826841"
   },
@@ -20317,7 +20317,7 @@
     "variant_title": "Default Title",
     "sku": "491",
     "price": 2999.0,
-    "stock": 33,
+    "stock": 32,
     "url": "https://www.daivik.in/products/pachi-pearl-jali-necklace?variant=gid://shopify/ProductVariant/48400077258974",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_83502.jpg?v=1782925422"
   },
@@ -21076,6 +21076,15 @@
     "stock": 14,
     "url": "https://www.daivik.in/products/pearl-kemp-floral-droplet-balis?variant=gid://shopify/ProductVariant/48623898886366",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F07B3D62-F7C5-4A9C-AF33-EA3958501861.jpg?v=1787313150"
+  },
+  "gid://shopify/ProductVariant/48624208937182": {
+    "product_title": "Guttapusalu Balaji Long Haram and Choker with Earrings",
+    "variant_title": "Default Title",
+    "sku": "928",
+    "price": 7499.0,
+    "stock": 5,
+    "url": "https://www.daivik.in/products/balaji-haram?variant=gid://shopify/ProductVariant/48624208937182",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5F1292F7-1238-4DCB-B513-CCB1A7D8A251.jpg?v=1787331525"
   },
   "gid://shopify/ProductVariant/48629356986590": {
     "product_title": "Balaji Black Thread Bracelet",
@@ -30841,15 +30850,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-lakshmi-kada?variant=gid://shopify/ProductVariant/48606013128926",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C212A11D-8F23-46DE-8894-E34661B11E0C.jpg?v=1786900231"
-  },
-  "gid://shopify/ProductVariant/48624208937182": {
-    "product_title": "Guttapusalu Balaji Long Haram and Choker with Earrings",
-    "variant_title": "Default Title",
-    "sku": "928",
-    "price": 7499.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/balaji-haram?variant=gid://shopify/ProductVariant/48624208937182",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5F1292F7-1238-4DCB-B513-CCB1A7D8A251.jpg?v=1787331525"
   },
   "gid://shopify/ProductVariant/48801242218718": {
     "product_title": "Rashmika Inspired Lakshmi Coin Mangalsutra",
