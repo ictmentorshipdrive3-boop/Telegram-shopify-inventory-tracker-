@@ -1102,7 +1102,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-2280",
     "price": 6576.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/nivar-earrings?variant=gid://shopify/ProductVariant/42416930848995",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-2280.jpg?v=1687241133"
   },
@@ -3415,7 +3415,7 @@
     "variant_title": "2.5\"",
     "sku": "AMS-115-0107-2.5\"",
     "price": 56100.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/laddu-gopal-3d-solid-idol?variant=gid://shopify/ProductVariant/43616769900771",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-115-0107.jpg?v=1671789838"
   },
@@ -97541,15 +97541,6 @@
     "url": "https://www.theamethyststore.com/products/nagas-drops-41?variant=gid://shopify/ProductVariant/49649043800291",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15450.jpg?v=1788186130"
   },
-  "gid://shopify/ProductVariant/49649066311907": {
-    "product_title": "Shivanikaa Nagas Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15363",
-    "price": 9327.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nagas-drops-43?variant=gid://shopify/ProductVariant/49649066311907",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15363.jpg?v=1788186379"
-  },
   "gid://shopify/ProductVariant/49649074110691": {
     "product_title": "Sivanika Nagas Drops",
     "variant_title": "Default Title",
@@ -140794,6 +140785,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nagas-drops-42?variant=gid://shopify/ProductVariant/49649047666915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15446.jpg?v=1788186238"
+  },
+  "gid://shopify/ProductVariant/49649066311907": {
+    "product_title": "Shivanikaa Nagas Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15363",
+    "price": 9327.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-drops-43?variant=gid://shopify/ProductVariant/49649066311907",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15363.jpg?v=1788186379"
   },
   "gid://shopify/ProductVariant/49652984676579": {
     "product_title": "Streamlined Nagas Short Necklace Set",
