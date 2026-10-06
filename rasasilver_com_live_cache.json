@@ -175,7 +175,7 @@
     "variant_title": "Default Title",
     "sku": "R1526",
     "price": 2890.0,
-    "stock": 11,
+    "stock": 12,
     "url": "https://www.rasasilver.com/products/kundan-nath?variant=gid://shopify/ProductVariant/49855900451113",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-34_d498d6ad-5c3a-4fdf-b147-520b19be8a5a.jpg?v=1739427458"
   },
@@ -12802,7 +12802,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R33829",
     "price": 1190.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/mor-madhavi-nath-1?variant=gid://shopify/ProductVariant/52724317684009",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459251.jpg?v=1789123934"
   },
@@ -13072,7 +13072,7 @@
     "variant_title": "Default Title",
     "sku": "R24956",
     "price": 21335.0,
-    "stock": 4,
+    "stock": 5,
     "url": "https://www.rasasilver.com/products/dakshina-kundan-pendant?variant=gid://shopify/ProductVariant/52748266471721",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5396_resized.jpg?v=1772538764"
   },
@@ -22364,15 +22364,6 @@
     "url": "https://www.rasasilver.com/products/aarvini-cz-danglers?variant=gid://shopify/ProductVariant/53419078811945",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_42_51Pics0709.jpg?v=1786953988"
   },
-  "gid://shopify/ProductVariant/53419103519017": {
-    "product_title": "Ruvayika Antique Danglers",
-    "variant_title": "Default Title",
-    "sku": "R26935",
-    "price": 5450.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/ruvayika-antique-danglers?variant=gid://shopify/ProductVariant/53419103519017",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_42_51Pics0627.jpg?v=1786953440"
-  },
   "gid://shopify/ProductVariant/53419106173225": {
     "product_title": "Bhargavi Temple Danglers",
     "variant_title": "Default Title",
@@ -22666,7 +22657,7 @@
     "variant_title": "Default Title",
     "sku": "R28016",
     "price": 600.0,
-    "stock": 1,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/flora-panna-stone-nose-pin?variant=gid://shopify/ProductVariant/53479146586409",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459353.jpg?v=1789123707"
   },
@@ -22684,7 +22675,7 @@
     "variant_title": "Default Title",
     "sku": "R28070",
     "price": 700.0,
-    "stock": 2,
+    "stock": 6,
     "url": "https://www.rasasilver.com/products/sitara-stone-septum-ring?variant=gid://shopify/ProductVariant/53479381303593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459261.jpg?v=1789192720"
   },
@@ -22693,7 +22684,7 @@
     "variant_title": "Default Title",
     "sku": "R33849",
     "price": 1190.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/phool-pearl-stone-nath?variant=gid://shopify/ProductVariant/53479814791465",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459265.jpg?v=1789124219"
   },
@@ -47707,6 +47698,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/iravanshi-cz-danglers?variant=gid://shopify/ProductVariant/53419089264937",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_42_51Pics0718.jpg?v=1786954127"
+  },
+  "gid://shopify/ProductVariant/53419103519017": {
+    "product_title": "Ruvayika Antique Danglers",
+    "variant_title": "Default Title",
+    "sku": "R26935",
+    "price": 5450.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ruvayika-antique-danglers?variant=gid://shopify/ProductVariant/53419103519017",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_42_51Pics0627.jpg?v=1786953440"
   },
   "gid://shopify/ProductVariant/53419107090729": {
     "product_title": "Ruhanya CZ Danglers",
