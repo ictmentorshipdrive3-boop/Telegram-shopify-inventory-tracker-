@@ -5557,7 +5557,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 3400.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.dulhanjewels.com/products/moissanite-jhumki-earrings-with-emerald-hangings?variant=gid://shopify/ProductVariant/51548551971122",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_f38f4909-67dc-437e-88d2-1cab229e03f7.jpg?v=1786179294"
   },
@@ -5713,15 +5713,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/elegant-moissanite-polki-locket-with-rice-pearl-hangings?variant=gid://shopify/ProductVariant/51564481282354",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/1906FF6D-1E8E-4429-818E-46E70C9E8FAA.jpg?v=1786541617"
-  },
-  "gid://shopify/ProductVariant/51564483936562": {
-    "product_title": "Designer Jadau Kundan Locket With Green Beads",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2150.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/designer-jadau-kundan-locket-with-green-beads?variant=gid://shopify/ProductVariant/51564483936562",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/4908AC98-E907-4F01-8F94-EDB3EA22B673.jpg?v=1786541659"
   },
   "gid://shopify/ProductVariant/51564485574962": {
     "product_title": "Minimal Jadau Kundan Pendant With Ricepearl Hangings",
@@ -7666,6 +7657,15 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/traditional-jadau-kundan-necklace-with-guttapusalu-hangings-1?variant=gid://shopify/ProductVariant/51538788581682",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/9B7F5BA6-2AD2-47AB-BEA3-50A81C624A4E.jpg?v=1785826624"
+  },
+  "gid://shopify/ProductVariant/51564483936562": {
+    "product_title": "Designer Jadau Kundan Locket With Green Beads",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2150.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/designer-jadau-kundan-locket-with-green-beads?variant=gid://shopify/ProductVariant/51564483936562",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/4908AC98-E907-4F01-8F94-EDB3EA22B673.jpg?v=1786541659"
   },
   "gid://shopify/ProductVariant/51822914896178": {
     "product_title": "Luxury Victorian Polki Necklace Set With Peacock Motifs And Matching Earrings",
