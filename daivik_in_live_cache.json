@@ -283,7 +283,7 @@
     "variant_title": "2.4",
     "sku": "268",
     "price": 1399.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/ad-stone-motif-bangles?variant=gid://shopify/ProductVariant/34498045149337",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_4180.jpg?v=1590765434"
   },
@@ -5732,15 +5732,6 @@
     "url": "https://www.daivik.in/products/simple-gold-ad-triangle-necklace-with-studs?variant=gid://shopify/ProductVariant/44642294497502",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3FA6586C-DE59-4B98-B09A-400F2D9424FD.heic?v=1704209470"
   },
-  "gid://shopify/ProductVariant/44644046176478": {
-    "product_title": "Reversible 2 Sides Lakshmi Golden Beads long chain with Extra links",
-    "variant_title": "Default Title",
-    "sku": "427",
-    "price": 999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/reversible-2-sides-lakshmi-golden-beads-long-chain-with-extra-links?variant=gid://shopify/ProductVariant/44644046176478",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/64D40FFC-112B-45B9-B282-1E24C0F0E11B.jpg?v=1704298598"
-  },
   "gid://shopify/ProductVariant/44647767769310": {
     "product_title": "Full AD Rubygreen Necklace with earrings",
     "variant_title": "Default Title",
@@ -6196,7 +6187,7 @@
     "variant_title": "Default Title",
     "sku": "848",
     "price": 1999.0,
-    "stock": 53,
+    "stock": 52,
     "url": "https://www.daivik.in/products/ad-rubygreen-necklace-with-earrings?variant=gid://shopify/ProductVariant/44878478213342",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG-3942.heic?v=1710088520"
   },
@@ -25486,6 +25477,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/green-pendant-in-three-line-star-necklace-with-earrings?variant=gid://shopify/ProductVariant/44793924649182",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0FDA31D2-E645-4797-A9F0-A75EAEAD3F5F.heic?v=1703516890"
+  },
+  "gid://shopify/ProductVariant/44644046176478": {
+    "product_title": "Reversible 2 Sides Lakshmi Golden Beads long chain with Extra links",
+    "variant_title": "Default Title",
+    "sku": "427",
+    "price": 999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/reversible-2-sides-lakshmi-golden-beads-long-chain-with-extra-links?variant=gid://shopify/ProductVariant/44644046176478",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/64D40FFC-112B-45B9-B282-1E24C0F0E11B.jpg?v=1704298598"
   },
   "gid://shopify/ProductVariant/44659167101150": {
     "product_title": "2 Line AD Droplet Necklace with Earrings",
