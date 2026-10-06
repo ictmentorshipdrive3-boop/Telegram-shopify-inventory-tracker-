@@ -9593,15 +9593,6 @@
     "url": "https://www.theamethyststore.com/products/yuvan-oxidised-drops?variant=gid://shopify/ProductVariant/45285861359843",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6182_4faa77f3-4bb5-4b2e-91c2-7568fb382857.jpg?v=1788179459"
   },
-  "gid://shopify/ProductVariant/45285882495203": {
-    "product_title": "Thanika Oxidised Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-6184",
-    "price": 13610.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/thanika-oxidised-drops?variant=gid://shopify/ProductVariant/45285882495203",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6184.jpg?v=1721365950"
-  },
   "gid://shopify/ProductVariant/45286468485347": {
     "product_title": "Farry Oxidised Jhumkas",
     "variant_title": "Default Title",
@@ -23075,15 +23066,6 @@
     "url": "https://www.theamethyststore.com/products/violet-avikam-chain-with-earings?variant=gid://shopify/ProductVariant/46770781585635",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1771.jpg?v=1783148679"
   },
-  "gid://shopify/ProductVariant/46770925109475": {
-    "product_title": "Classy Victorian Chandhubaali Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-8708",
-    "price": 13000.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/classy-victorian-long-earrings?variant=gid://shopify/ProductVariant/46770925109475",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8708.jpg?v=1751453177"
-  },
   "gid://shopify/ProductVariant/46770952503523": {
     "product_title": "Facinate Victorian Chandhubaali Earrings",
     "variant_title": "Default Title",
@@ -23110,15 +23092,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/saisha-victorian-chandhubaali-earrings?variant=gid://shopify/ProductVariant/46771477315811",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9812.jpg?v=1751463756"
-  },
-  "gid://shopify/ProductVariant/46771513884899": {
-    "product_title": "Dheekshi Victorian Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-9228",
-    "price": 14600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/dheekshi-victorian-drops?variant=gid://shopify/ProductVariant/46771513884899",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9228.jpg?v=1751465267"
   },
   "gid://shopify/ProductVariant/46771532136675": {
     "product_title": "Shinning Victorian Drops",
@@ -112625,6 +112598,15 @@
     "url": "https://www.theamethyststore.com/products/beatifia-diamond-design-short-necklace-set?variant=gid://shopify/ProductVariant/45281582416099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/DSC08474.jpg?v=1729844345"
   },
+  "gid://shopify/ProductVariant/45285882495203": {
+    "product_title": "Thanika Oxidised Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-6184",
+    "price": 13610.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/thanika-oxidised-drops?variant=gid://shopify/ProductVariant/45285882495203",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6184.jpg?v=1721365950"
+  },
   "gid://shopify/ProductVariant/45287960314083": {
     "product_title": "Hiranti Victorian Short Necklace Set",
     "variant_title": "Default Title",
@@ -116233,6 +116215,24 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/tania-short-necklace-set?variant=gid://shopify/ProductVariant/46770566267107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10537.jpg?v=1751437534"
+  },
+  "gid://shopify/ProductVariant/46770925109475": {
+    "product_title": "Classy Victorian Chandhubaali Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-8708",
+    "price": 13000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/classy-victorian-long-earrings?variant=gid://shopify/ProductVariant/46770925109475",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8708.jpg?v=1751453177"
+  },
+  "gid://shopify/ProductVariant/46771513884899": {
+    "product_title": "Dheekshi Victorian Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-9228",
+    "price": 14600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/dheekshi-victorian-drops?variant=gid://shopify/ProductVariant/46771513884899",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9228.jpg?v=1751465267"
   },
   "gid://shopify/ProductVariant/46771629359331": {
     "product_title": "Shithika Victorian Studs",
