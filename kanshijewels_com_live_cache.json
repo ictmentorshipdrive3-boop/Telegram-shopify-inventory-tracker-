@@ -2182,7 +2182,7 @@
     "variant_title": "Default Title",
     "sku": "ER403",
     "price": 441.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-stud-earrings-8?variant=gid://shopify/ProductVariant/46472651211052",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/420.jpg?v=1692606026"
   },
@@ -8068,7 +8068,7 @@
     "variant_title": "Default Title",
     "sku": "NK149",
     "price": 2205.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.kanshijewels.com/products/jadau-chokar-3?variant=gid://shopify/ProductVariant/51119688548652",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0758.jpg?v=1747994802"
   },
@@ -8269,15 +8269,6 @@
     "stock": 8,
     "url": "https://www.kanshijewels.com/products/jadau-necklace-7?variant=gid://shopify/ProductVariant/51119749366060",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0641.jpg?v=1747997083"
-  },
-  "gid://shopify/ProductVariant/51119758737708": {
-    "product_title": "Rani Haram",
-    "variant_title": "Default Title",
-    "sku": "NK124",
-    "price": 3990.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/rani-haram-6?variant=gid://shopify/ProductVariant/51119758737708",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0578.jpg?v=1747997207"
   },
   "gid://shopify/ProductVariant/51119768076588": {
     "product_title": "Jadau Kundan Jhumkas",
@@ -13885,6 +13876,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/jadau-haram-1?variant=gid://shopify/ProductVariant/51119753003308",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadauharam5700.jpg?v=1747997178"
+  },
+  "gid://shopify/ProductVariant/51119758737708": {
+    "product_title": "Rani Haram",
+    "variant_title": "Default Title",
+    "sku": "NK124",
+    "price": 3990.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/rani-haram-6?variant=gid://shopify/ProductVariant/51119758737708",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0578.jpg?v=1747997207"
   },
   "gid://shopify/ProductVariant/51295259427116": {
     "product_title": "Mossanite necklace set",
