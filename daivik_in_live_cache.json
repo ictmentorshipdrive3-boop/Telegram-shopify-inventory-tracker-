@@ -832,7 +832,7 @@
     "variant_title": "Default Title",
     "sku": "629",
     "price": 1399.0,
-    "stock": 50,
+    "stock": 49,
     "url": "https://www.daivik.in/products/big-gold-polish-teeka?variant=gid://shopify/ProductVariant/38170188677273",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_027b4c02-a6f2-4180-90fb-425424447c2e.jpg?v=1614089842"
   },
@@ -2596,7 +2596,7 @@
     "variant_title": "Default Title",
     "sku": "53",
     "price": 2399.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/a-211?variant=gid://shopify/ProductVariant/43129743048926",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_36402041-88c3-453c-8e72-46f1b372d11c.heic?v=1658070019"
   },
@@ -6763,7 +6763,7 @@
     "variant_title": "Default Title",
     "sku": "708",
     "price": 2299.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/two-line-necklace-with-earrings?variant=gid://shopify/ProductVariant/45333722759390",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B98339A8-F58B-42BE-A566-F73DD079D750.jpg?v=1715100306"
   },
@@ -21545,15 +21545,6 @@
     "url": "https://www.daivik.in/products/antique-mesh-kemp-peacock-short-and-long-haram-with-jhumkas?variant=gid://shopify/ProductVariant/49103354396894",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CC93D502-4CCF-4851-9477-AD3A903E8CDC.jpg?v=1790179349"
   },
-  "gid://shopify/ProductVariant/49099901763806": {
-    "product_title": "AD Pearl Antique Ruby Bangle Combo",
-    "variant_title": "2.4",
-    "sku": "1971",
-    "price": 3499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-pearl-antique-ruby-bangle-combo?variant=gid://shopify/ProductVariant/49099901763806",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/06B2F590-5FE6-4FAA-98FE-5F1586897C02.jpg?v=1790180007"
-  },
   "gid://shopify/ProductVariant/49099901796574": {
     "product_title": "AD Pearl Antique Ruby Bangle Combo",
     "variant_title": "2.6",
@@ -30886,5 +30877,14 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/kids-lakshmi-ruby-green-bangles?variant=gid://shopify/ProductVariant/49008807706846",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1968.jpg?v=1789041386"
+  },
+  "gid://shopify/ProductVariant/49099901763806": {
+    "product_title": "AD Pearl Antique Ruby Bangle Combo",
+    "variant_title": "2.4",
+    "sku": "1971",
+    "price": 3499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-pearl-antique-ruby-bangle-combo?variant=gid://shopify/ProductVariant/49099901763806",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/06B2F590-5FE6-4FAA-98FE-5F1586897C02.jpg?v=1790180007"
   }
 }
