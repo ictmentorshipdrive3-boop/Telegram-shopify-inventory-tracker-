@@ -4639,7 +4639,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-4448",
     "price": 5155.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/conito-navarathna-studs?variant=gid://shopify/ProductVariant/43852694651107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-4448.jpg?v=1684393728"
   },
@@ -4972,7 +4972,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-4586",
     "price": 62929.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/red-stone-short-necklace?variant=gid://shopify/ProductVariant/43895389552867",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-4586_1.jpg?v=1689852388"
   },
@@ -49549,7 +49549,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-3674",
     "price": 10910.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/glowing-stone-pendant?variant=gid://shopify/ProductVariant/47807231000803",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3674.jpg?v=1767956378"
   },
@@ -76229,6 +76229,15 @@
     "url": "https://www.theamethyststore.com/products/avikam-long-necklace-set-14?variant=gid://shopify/ProductVariant/49363924844771",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16625.jpg?v=1783172550"
   },
+  "gid://shopify/ProductVariant/49363933692131": {
+    "product_title": "Royal Muse Mugappu Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2096",
+    "price": 13800.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/royal-muse-mugappu-chain-1?variant=gid://shopify/ProductVariant/49363933692131",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2096.jpg?v=1783172560"
+  },
   "gid://shopify/ProductVariant/49363937886435": {
     "product_title": "Grand Bridal Nagas Long Necklace",
     "variant_title": "Default Title",
@@ -77845,7 +77854,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-1338",
     "price": 4200.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/trendy-plain-bracelet?variant=gid://shopify/ProductVariant/49390387003619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1338.jpg?v=1783681592"
   },
@@ -100606,7 +100615,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15997",
     "price": 23400.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/regal-3d-spl-jhumkas?variant=gid://shopify/ProductVariant/49708922044643",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15997.jpg?v=1788940779"
   },
@@ -135457,15 +135466,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/glowing-mugappu-chain-2?variant=gid://shopify/ProductVariant/49363927761123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2101.jpg?v=1783172422"
-  },
-  "gid://shopify/ProductVariant/49363933692131": {
-    "product_title": "Royal Muse Mugappu Chain",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-2096",
-    "price": 13800.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/royal-muse-mugappu-chain-1?variant=gid://shopify/ProductVariant/49363933692131",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2096.jpg?v=1783172560"
   },
   "gid://shopify/ProductVariant/49363950862563": {
     "product_title": "Eye-Catching Avikam Short Necklace Set",
