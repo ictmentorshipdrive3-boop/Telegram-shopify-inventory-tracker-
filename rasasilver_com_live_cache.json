@@ -15650,15 +15650,6 @@
     "url": "https://www.rasasilver.com/products/althira-matil?variant=gid://shopify/ProductVariant/52897925660969",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20511_resized.jpg?v=1775484372"
   },
-  "gid://shopify/ProductVariant/52897925693737": {
-    "product_title": "Althira Kundan Matil",
-    "variant_title": "Swarovski",
-    "sku": "R14902",
-    "price": 20600.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/althira-matil?variant=gid://shopify/ProductVariant/52897925693737",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20511_resized.jpg?v=1775484372"
-  },
   "gid://shopify/ProductVariant/52897910685993": {
     "product_title": "Maathang Kundan Matil",
     "variant_title": "Swarovski",
@@ -17068,7 +17059,7 @@
     "variant_title": "Default Title",
     "sku": "R27866",
     "price": 23715.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/goldens-beads-matil?variant=gid://shopify/ProductVariant/53163184488745",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0600_resized.jpg?v=1780839369"
   },
@@ -42811,6 +42802,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/maulika-matil?variant=gid://shopify/ProductVariant/52897894531369",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20398.jpg?v=1775467514"
+  },
+  "gid://shopify/ProductVariant/52897925693737": {
+    "product_title": "Althira Kundan Matil",
+    "variant_title": "Swarovski",
+    "sku": "R14902",
+    "price": 20600.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/althira-matil?variant=gid://shopify/ProductVariant/52897925693737",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20511_resized.jpg?v=1775484372"
   },
   "gid://shopify/ProductVariant/52897910718761": {
     "product_title": "Maathang Kundan Matil",
