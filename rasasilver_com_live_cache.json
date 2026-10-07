@@ -7537,7 +7537,7 @@
     "variant_title": "2.6",
     "sku": "R17557",
     "price": 10880.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/kanaka-panna-bangles?variant=gid://shopify/ProductVariant/52263573717289",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa-10Nov_Sann0173_resized.jpg?v=1763377494"
   },
@@ -7546,7 +7546,7 @@
     "variant_title": "2.5",
     "sku": "R17557",
     "price": 10880.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/kanaka-panna-bangles?variant=gid://shopify/ProductVariant/52263726448937",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa-10Nov_Sann0173_resized.jpg?v=1763377494"
   },
@@ -7555,7 +7555,7 @@
     "variant_title": "2.8",
     "sku": "R17557",
     "price": 10880.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/kanaka-panna-bangles?variant=gid://shopify/ProductVariant/52266652991785",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa-10Nov_Sann0173_resized.jpg?v=1763377494"
   },
@@ -12166,15 +12166,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/saavira-floral-cz-studs?variant=gid://shopify/ProductVariant/52623147237673",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0035copy_resized_1.jpg?v=1770879182"
-  },
-  "gid://shopify/ProductVariant/52623162868009": {
-    "product_title": "Ridhyara Square Cz Studs",
-    "variant_title": "Default Title",
-    "sku": "R24576",
-    "price": 9180.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/ridhyara-square-cz-studs?variant=gid://shopify/ProductVariant/52623162868009",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0048copy_resized_7b943976-afa5-4eed-9ec6-3696f43ca8d7.jpg?v=1770881200"
   },
   "gid://shopify/ProductVariant/52623173976361": {
     "product_title": "Crecent Moon CZ Studs",
@@ -39202,6 +39193,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/pranika-oval-cz-studs?variant=gid://shopify/ProductVariant/52623157330217",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0025copy_resized_1.jpg?v=1770888001"
+  },
+  "gid://shopify/ProductVariant/52623162868009": {
+    "product_title": "Ridhyara Square Cz Studs",
+    "variant_title": "Default Title",
+    "sku": "R24576",
+    "price": 9180.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ridhyara-square-cz-studs?variant=gid://shopify/ProductVariant/52623162868009",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0048copy_resized_7b943976-afa5-4eed-9ec6-3696f43ca8d7.jpg?v=1770881200"
   },
   "gid://shopify/ProductVariant/52623181906217": {
     "product_title": "Gulika Antique Jhumki",
