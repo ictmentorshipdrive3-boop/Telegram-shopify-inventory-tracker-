@@ -12194,15 +12194,6 @@
     "url": "https://www.rasasilver.com/products/daisy-emerald-necklace-1?variant=gid://shopify/ProductVariant/52631486890281",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-44_3c348a4d-d5da-458b-8db5-7e116fdfa192.jpg?v=1740814119"
   },
-  "gid://shopify/ProductVariant/52667252146473": {
-    "product_title": "Rosaline Victorian Ring",
-    "variant_title": "8",
-    "sku": "R22104",
-    "price": 5270.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/victorian-ring?variant=gid://shopify/ProductVariant/52667252146473",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0217copy_resized_1.jpg?v=1770959000"
-  },
   "gid://shopify/ProductVariant/52667250966825": {
     "product_title": "Oval-Rosy Victorian Ring",
     "variant_title": "8",
@@ -23776,15 +23767,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/floraa-oval-cz-maang-tikka?variant=gid://shopify/ProductVariant/54210273345833",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__12Sep2408.jpg?v=1789984226"
-  },
-  "gid://shopify/ProductVariant/54210453504297": {
-    "product_title": "Mangai-Pushpa Nakshi Maang Tikka",
-    "variant_title": "Default Title",
-    "sku": "R35007",
-    "price": 6460.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/mangai-pushpa-nakshi-maang-tikka?variant=gid://shopify/ProductVariant/54210453504297",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__12Sep2297.jpg?v=1789989425"
   },
   "gid://shopify/ProductVariant/54210523136297": {
     "product_title": "Morvalli-Pear Nakshi Maang Tikka",
@@ -39248,6 +39230,15 @@
     "url": "https://www.rasasilver.com/products/marutham-stone-matil?variant=gid://shopify/ProductVariant/52630295478569",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/wdwdw.jpg?v=1749448772"
   },
+  "gid://shopify/ProductVariant/52667252146473": {
+    "product_title": "Rosaline Victorian Ring",
+    "variant_title": "8",
+    "sku": "R22104",
+    "price": 5270.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/victorian-ring?variant=gid://shopify/ProductVariant/52667252146473",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0217copy_resized_1.jpg?v=1770959000"
+  },
   "gid://shopify/ProductVariant/52632809439529": {
     "product_title": "Sunblossom Antique Studs",
     "variant_title": "Default Title",
@@ -48409,6 +48400,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/vritti-moissanite-maang-tikka?variant=gid://shopify/ProductVariant/54210288091433",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__12Sep2301.jpg?v=1789985598"
+  },
+  "gid://shopify/ProductVariant/54210453504297": {
+    "product_title": "Mangai-Pushpa Nakshi Maang Tikka",
+    "variant_title": "Default Title",
+    "sku": "R35007",
+    "price": 6460.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/mangai-pushpa-nakshi-maang-tikka?variant=gid://shopify/ProductVariant/54210453504297",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__12Sep2297.jpg?v=1789989425"
   },
   "gid://shopify/ProductVariant/54210589884713": {
     "product_title": "Mridula Nakshi Maang Tikka",
