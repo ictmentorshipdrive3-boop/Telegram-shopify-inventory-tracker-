@@ -1894,7 +1894,7 @@
     "variant_title": "2.6",
     "sku": "R7843",
     "price": 12750.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/21?variant=gid://shopify/ProductVariant/50529000718633",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_145442bb-8b7a-4dc3-92e7-7b30c9e6fc5a.jpg?v=1750165751"
   },
@@ -5080,7 +5080,7 @@
     "variant_title": "2.8 / Green",
     "sku": "R25752",
     "price": 26350.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/greenvine-bangles?variant=gid://shopify/ProductVariant/52263622115625",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_79_Pics_15Oct2282_resized.jpg?v=1761548643"
   },
@@ -5098,7 +5098,7 @@
     "variant_title": "2.6 / Green",
     "sku": "R25752",
     "price": 31000.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/greenvine-bangles?variant=gid://shopify/ProductVariant/52724263485737",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_79_Pics_15Oct2282_resized.jpg?v=1761548643"
   },
@@ -5116,7 +5116,7 @@
     "variant_title": "2.4 / Green",
     "sku": "R25752",
     "price": 31000.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/greenvine-bangles?variant=gid://shopify/ProductVariant/52724263551273",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_79_Pics_15Oct2282_resized.jpg?v=1761548643"
   },
@@ -6442,15 +6442,6 @@
     "stock": 2,
     "url": "https://www.rasasilver.com/products/eshara-oxidised-payal?variant=gid://shopify/ProductVariant/51495544357161",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0093_copy_1.jpg?v=1763451618"
-  },
-  "gid://shopify/ProductVariant/51495562051881": {
-    "product_title": "Kaviri Phool Payal",
-    "variant_title": "Default Title",
-    "sku": "R16465",
-    "price": 15250.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/kaviri-phool-payal?variant=gid://shopify/ProductVariant/51495562051881",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0152copy_2.jpg?v=1763448725"
   },
   "gid://shopify/ProductVariant/51495570178345": {
     "product_title": "Ayodhya Aabharan Necklace",
@@ -9521,6 +9512,15 @@
     "url": "https://www.rasasilver.com/products/tri-gem-victorian-necklace-set?variant=gid://shopify/ProductVariant/52362309140777",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0349copy_resized_7aea5e00-28b8-4b3e-8448-1b76c703883f.jpg?v=1767418992"
   },
+  "gid://shopify/ProductVariant/52377912377641": {
+    "product_title": "Hexa Victorian Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R22314",
+    "price": 28100.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/hexa-victorian-necklace-set?variant=gid://shopify/ProductVariant/52377912377641",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0194_copy_resized.jpg?v=1767418620"
+  },
   "gid://shopify/ProductVariant/52377995542825": {
     "product_title": "Orbit Victorian Necklace",
     "variant_title": "Default Title",
@@ -11357,6 +11357,15 @@
     "url": "https://www.rasasilver.com/products/anaya-antique-necklace-set?variant=gid://shopify/ProductVariant/52553201778985",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_30_Jan3913_resized.jpg?v=1770363749"
   },
+  "gid://shopify/ProductVariant/52553222193449": {
+    "product_title": "Rajmayur Antique Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R23516",
+    "price": 41395.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/rajmayur-antique-necklace-set?variant=gid://shopify/ProductVariant/52553222193449",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_30_Jan3907_resized.jpg?v=1770363931"
+  },
   "gid://shopify/ProductVariant/52553342124329": {
     "product_title": "Tirupati Tejas Temple Necklace",
     "variant_title": "Orange",
@@ -11569,7 +11578,7 @@
     "variant_title": "Default Title",
     "sku": "R23412",
     "price": 40460.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/nartika-antique-necklace-set?variant=gid://shopify/ProductVariant/52553924542761",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_30_Jan3945_resized.jpg?v=1770453753"
   },
@@ -11752,6 +11761,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/pear-leaf-victorian-kanti?variant=gid://shopify/ProductVariant/52554382475561",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_30Jan2442_resized.jpg?v=1770477291"
+  },
+  "gid://shopify/ProductVariant/52554400956713": {
+    "product_title": "Ruby Oval Victorian Kanti",
+    "variant_title": "Default Title",
+    "sku": "R24365",
+    "price": 36550.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/ruby-oval-victorian-kanti?variant=gid://shopify/ProductVariant/52554400956713",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_113_Pics_29Jan4143.jpg?v=1770295828"
   },
   "gid://shopify/ProductVariant/52559924625705": {
     "product_title": "Murya Kundan Hair Brooch",
@@ -14867,6 +14885,24 @@
     "url": "https://www.rasasilver.com/products/shilvani-stone-danglers?variant=gid://shopify/ProductVariant/52866082275625",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_272Pics_19Mar37150_resized.jpg?v=1775027709"
   },
+  "gid://shopify/ProductVariant/52866107638057": {
+    "product_title": "Mallivara Antique Choker",
+    "variant_title": "Default Title",
+    "sku": "R24599",
+    "price": 44880.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/kushelia-antique-choker-copy?variant=gid://shopify/ProductVariant/52866107638057",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0305_resized.jpg?v=1775218228"
+  },
+  "gid://shopify/ProductVariant/52866159542569": {
+    "product_title": "Rosavira Antique Choker",
+    "variant_title": "Default Title",
+    "sku": "R24585",
+    "price": 44880.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/mallivara-antique-choker-copy?variant=gid://shopify/ProductVariant/52866159542569",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0318_resized.jpg?v=1775217937"
+  },
   "gid://shopify/ProductVariant/52866191524137": {
     "product_title": "Kamalora Kundan Choker",
     "variant_title": "Default Title",
@@ -15658,6 +15694,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/sunehri-stone-necklace-set?variant=gid://shopify/ProductVariant/52885735440681",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0629_resized.jpg?v=1775197551"
+  },
+  "gid://shopify/ProductVariant/52885736161577": {
+    "product_title": "Ovaelle Moissanite Necklace",
+    "variant_title": "Default Title",
+    "sku": "R24924",
+    "price": 31195.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/lotuselle-moissanite-necklace?variant=gid://shopify/ProductVariant/52885736161577",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar00114_resized.jpg?v=1775552239"
   },
   "gid://shopify/ProductVariant/52885737111849": {
     "product_title": "Aura Elegance Stone Necklace Set",
@@ -18386,15 +18431,6 @@
     "url": "https://www.rasasilver.com/products/ivory-pear-cz-ring?variant=gid://shopify/ProductVariant/53286227444009",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5695_resized.jpg?v=1782302127"
   },
-  "gid://shopify/ProductVariant/53286235636009": {
-    "product_title": "Elegant Frame Ring",
-    "variant_title": "Default Title",
-    "sku": "R31543",
-    "price": 1445.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/elegant-frame-cz-ring?variant=gid://shopify/ProductVariant/53286235636009",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5727_resized.jpg?v=1782302547"
-  },
   "gid://shopify/ProductVariant/53286257230121": {
     "product_title": "Halo Grace Ring",
     "variant_title": "Default Title",
@@ -19543,7 +19579,7 @@
     "variant_title": "2.6",
     "sku": "R31258",
     "price": 26180.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/pachha-flora-stone-bangles?variant=gid://shopify/ProductVariant/53324652478761",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41387_resized.jpg?v=1783752913"
   },
@@ -31355,6 +31391,15 @@
     "url": "https://www.rasasilver.com/products/mallikalakshmi-necklace-set?variant=gid://shopify/ProductVariant/51495382122793",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_5_Nov1520_resized.jpg?v=1763392541"
   },
+  "gid://shopify/ProductVariant/51495562051881": {
+    "product_title": "Kaviri Phool Payal",
+    "variant_title": "Default Title",
+    "sku": "R16465",
+    "price": 15250.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/kaviri-phool-payal?variant=gid://shopify/ProductVariant/51495562051881",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0152copy_2.jpg?v=1763448725"
+  },
   "gid://shopify/ProductVariant/51495578698025": {
     "product_title": "Mahaviraa Indo- Western Necklace",
     "variant_title": "Default Title",
@@ -35603,15 +35648,6 @@
     "url": "https://www.rasasilver.com/products/lilac-victorian-necklace-set?variant=gid://shopify/ProductVariant/52362961781033",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0235copy_resized_6ba48625-ae1f-4e30-8c0e-a6c0086c3818.jpg?v=1767417731"
   },
-  "gid://shopify/ProductVariant/52377912377641": {
-    "product_title": "Hexa Victorian Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R22314",
-    "price": 28100.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/hexa-victorian-necklace-set?variant=gid://shopify/ProductVariant/52377912377641",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0194_copy_resized.jpg?v=1767418620"
-  },
   "gid://shopify/ProductVariant/52377943146793": {
     "product_title": "Starlet Victorian Necklace Set",
     "variant_title": "Default Title",
@@ -38501,15 +38537,6 @@
     "url": "https://www.rasasilver.com/products/virsa-antique-kada?variant=gid://shopify/ProductVariant/52544443646249",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_30Jan2865_resized.jpg?v=1770362442"
   },
-  "gid://shopify/ProductVariant/52553222193449": {
-    "product_title": "Rajmayur Antique Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R23516",
-    "price": 41395.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/rajmayur-antique-necklace-set?variant=gid://shopify/ProductVariant/52553222193449",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_30_Jan3907_resized.jpg?v=1770363931"
-  },
   "gid://shopify/ProductVariant/52553297297705": {
     "product_title": "Bloomera Antique Necklace Set",
     "variant_title": "Default Title",
@@ -38824,15 +38851,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/pear-of-fire-victorian-kanti?variant=gid://shopify/ProductVariant/52554371334441",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_30Jan2435_resized.jpg?v=1770477158"
-  },
-  "gid://shopify/ProductVariant/52554400956713": {
-    "product_title": "Ruby Oval Victorian Kanti",
-    "variant_title": "Default Title",
-    "sku": "R24365",
-    "price": 36550.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/ruby-oval-victorian-kanti?variant=gid://shopify/ProductVariant/52554400956713",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_113_Pics_29Jan4143.jpg?v=1770295828"
   },
   "gid://shopify/ProductVariant/52559344304425": {
     "product_title": "Trikosha Nakshi Necklace",
@@ -42281,15 +42299,6 @@
     "url": "https://www.rasasilver.com/products/kushelia-antique-choker?variant=gid://shopify/ProductVariant/52866104820009",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0322_resized.jpg?v=1775217824"
   },
-  "gid://shopify/ProductVariant/52866107638057": {
-    "product_title": "Mallivara Antique Choker",
-    "variant_title": "Default Title",
-    "sku": "R24599",
-    "price": 44880.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/kushelia-antique-choker-copy?variant=gid://shopify/ProductVariant/52866107638057",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0305_resized.jpg?v=1775218228"
-  },
   "gid://shopify/ProductVariant/52866117533993": {
     "product_title": "Mandirshobha Temple Danglers",
     "variant_title": "Default Title",
@@ -42307,15 +42316,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/manira-antique-choker?variant=gid://shopify/ProductVariant/52866156953897",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_272Pics_19Mar36994_resized.jpg?v=1775027981"
-  },
-  "gid://shopify/ProductVariant/52866159542569": {
-    "product_title": "Rosavira Antique Choker",
-    "variant_title": "Default Title",
-    "sku": "R24585",
-    "price": 44880.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/mallivara-antique-choker-copy?variant=gid://shopify/ProductVariant/52866159542569",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0318_resized.jpg?v=1775217937"
   },
   "gid://shopify/ProductVariant/52866174681385": {
     "product_title": "Kusintha Antique Choker",
@@ -42919,15 +42919,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/aarika-phool-kundan-necklace?variant=gid://shopify/ProductVariant/52885727510825",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar00124_resized.jpg?v=1775137590"
-  },
-  "gid://shopify/ProductVariant/52885736161577": {
-    "product_title": "Ovaelle Moissanite Necklace",
-    "variant_title": "Default Title",
-    "sku": "R24924",
-    "price": 31195.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/lotuselle-moissanite-necklace?variant=gid://shopify/ProductVariant/52885736161577",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar00114_resized.jpg?v=1775552239"
   },
   "gid://shopify/ProductVariant/52885759689001": {
     "product_title": "Maylora Antique Necklace Set",
@@ -46060,6 +46051,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/tiny-shine-ring?variant=gid://shopify/ProductVariant/53286206964009",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5734_resized_74b363fc-bf97-4f90-a6fb-0f7e7c1d2918.jpg?v=1782301238"
+  },
+  "gid://shopify/ProductVariant/53286235636009": {
+    "product_title": "Elegant Frame Ring",
+    "variant_title": "Default Title",
+    "sku": "R31543",
+    "price": 1445.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/elegant-frame-cz-ring?variant=gid://shopify/ProductVariant/53286235636009",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5727_resized.jpg?v=1782302547"
   },
   "gid://shopify/ProductVariant/53288171798825": {
     "product_title": "Prism Hex Ring",
