@@ -10763,15 +10763,6 @@
     "url": "https://www.rasasilver.com/products/bracelet-9?variant=gid://shopify/ProductVariant/52520355529001",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsApp_Image_2026-08-03_at_5.02.25_PM.jpg?v=1785756768"
   },
-  "gid://shopify/ProductVariant/52520393605417": {
-    "product_title": "Moonlight Chain Pendant",
-    "variant_title": "Default Title",
-    "sku": "R20694",
-    "price": 3506.25,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/moonlight-chain-pendant?variant=gid://shopify/ProductVariant/52520393605417",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0126copy_resized_ba9b68de-3676-444f-8310-cb872a8564f5.jpg?v=1769607909"
-  },
   "gid://shopify/ProductVariant/52520470085929": {
     "product_title": "Endless Shine Chain Pendant",
     "variant_title": "Default Title",
@@ -22832,15 +22823,6 @@
     "url": "https://www.rasasilver.com/products/komalika-stone-nose-pin?variant=gid://shopify/ProductVariant/53479016759593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459371.jpg?v=1789110955"
   },
-  "gid://shopify/ProductVariant/53479034356009": {
-    "product_title": "Aahnika Kundan Septum Ring",
-    "variant_title": "Default Title",
-    "sku": "R33811",
-    "price": 1190.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/aahnika-kundan-septum-ring?variant=gid://shopify/ProductVariant/53479034356009",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459308.jpg?v=1789110873"
-  },
   "gid://shopify/ProductVariant/53479059718441": {
     "product_title": "Hara-Phool Stone Nose Pin",
     "variant_title": "Default Title",
@@ -22891,7 +22873,7 @@
     "variant_title": "Default Title",
     "sku": "R28070",
     "price": 700.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/sitara-stone-septum-ring?variant=gid://shopify/ProductVariant/53479381303593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459261.jpg?v=1789192720"
   },
@@ -22912,15 +22894,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/leafora-stone-nath?variant=gid://shopify/ProductVariant/53479819804969",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459288.jpg?v=1789124306"
-  },
-  "gid://shopify/ProductVariant/53479859126569": {
-    "product_title": "Gulabini Stone Septum Ring",
-    "variant_title": "Default Title",
-    "sku": "R33880",
-    "price": 600.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/harini-stone-septum-ring?variant=gid://shopify/ProductVariant/53479859126569",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459337.jpg?v=1789126640"
   },
   "gid://shopify/ProductVariant/53479903691049": {
     "product_title": "Hari-Moti Stone Nath",
@@ -37898,6 +37871,15 @@
     "url": "https://www.rasasilver.com/products/petal-light-necklace-set?variant=gid://shopify/ProductVariant/52520368767273",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0153copy_resized_f0f8dccd-a3b1-458a-9b09-445647e4672b.jpg?v=1769607848"
   },
+  "gid://shopify/ProductVariant/52520393605417": {
+    "product_title": "Moonlight Chain Pendant",
+    "variant_title": "Default Title",
+    "sku": "R20694",
+    "price": 3506.25,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/moonlight-chain-pendant?variant=gid://shopify/ProductVariant/52520393605417",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0126copy_resized_ba9b68de-3676-444f-8310-cb872a8564f5.jpg?v=1769607909"
+  },
   "gid://shopify/ProductVariant/52520452423977": {
     "product_title": "Snow Spark Chain Pendant",
     "variant_title": "Default Title",
@@ -48104,6 +48086,15 @@
     "url": "https://www.rasasilver.com/products/patta-kundan-buggadi?variant=gid://shopify/ProductVariant/53476300423465",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_14Sep60034.jpg?v=1790060926"
   },
+  "gid://shopify/ProductVariant/53479034356009": {
+    "product_title": "Aahnika Kundan Septum Ring",
+    "variant_title": "Default Title",
+    "sku": "R33811",
+    "price": 1190.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/aahnika-kundan-septum-ring?variant=gid://shopify/ProductVariant/53479034356009",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459308.jpg?v=1789110873"
+  },
   "gid://shopify/ProductVariant/53479070925097": {
     "product_title": "Nivara Stone Septum Ring",
     "variant_title": "Default Title",
@@ -48148,6 +48139,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/aranya-stone-septum-ring?variant=gid://shopify/ProductVariant/53479850803497",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459325.jpg?v=1789126548"
+  },
+  "gid://shopify/ProductVariant/53479859126569": {
+    "product_title": "Gulabini Stone Septum Ring",
+    "variant_title": "Default Title",
+    "sku": "R33880",
+    "price": 600.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/harini-stone-septum-ring?variant=gid://shopify/ProductVariant/53479859126569",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459337.jpg?v=1789126640"
   },
   "gid://shopify/ProductVariant/53479960052009": {
     "product_title": "Parnira Stone Septum Ring",
