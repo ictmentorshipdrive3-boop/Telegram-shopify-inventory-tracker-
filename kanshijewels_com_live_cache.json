@@ -5197,7 +5197,7 @@
     "variant_title": "Default Title",
     "sku": "NK455",
     "price": 3885.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-choker-necklace-set?variant=gid://shopify/ProductVariant/48667721236780",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/3700_cda956eb-a232-4ae0-bc3d-f666fcce387f.jpg?v=1713789007"
   },
@@ -7339,7 +7339,7 @@
     "variant_title": "Default Title",
     "sku": "NK215",
     "price": 1575.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-choker-23?variant=gid://shopify/ProductVariant/50702688878892",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1300_57956edb-2edf-4fb7-8b7c-b032c2ebcd07.jpg?v=1741257028"
   },
@@ -10781,15 +10781,6 @@
     "url": "https://www.kanshijewels.com/products/classic-pearls-dulhan-necklace?variant=gid://shopify/ProductVariant/53368810635564",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Classicpearlsdulhannecklace1900.jpg?v=1782212726"
   },
-  "gid://shopify/ProductVariant/53368817615148": {
-    "product_title": "Diamond motives emerald swaroski dulhan necklace",
-    "variant_title": "Default Title",
-    "sku": "NK904",
-    "price": 2200.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/diamond-motives-emerald-swaroski-dulhan-necklace?variant=gid://shopify/ProductVariant/53368817615148",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Diamondmotivesemeraldswaroskidulhannecklace1900.jpg?v=1782212960"
-  },
   "gid://shopify/ProductVariant/53368826528044": {
     "product_title": "Dulhan kundan peacock motives pearls necklace chokar",
     "variant_title": "Default Title",
@@ -11461,7 +11452,7 @@
     "variant_title": "Default Title",
     "sku": "AC157",
     "price": 5100.0,
-    "stock": 20,
+    "stock": 19,
     "url": "https://www.kanshijewels.com/products/dulhan-bridal-jadau-hair-choti?variant=gid://shopify/ProductVariant/53468187001132",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Dulhanbridaljadauhairchoti5100.jpg?v=1785142484"
   },
@@ -12193,6 +12184,24 @@
     "stock": 10,
     "url": "https://www.kanshijewels.com/products/elegant-ear-chain-combo-peacock-jhumka?variant=gid://shopify/ProductVariant/67562446422316",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/WhatsAppImage2026-10-03at10.03.08AM_1.jpg?v=1791003988"
+  },
+  "gid://shopify/ProductVariant/67579959935276": {
+    "product_title": "Adjustable jadau fusion bracelet",
+    "variant_title": "Default Title",
+    "sku": "AC168",
+    "price": 720.0,
+    "stock": 20,
+    "url": "https://www.kanshijewels.com/products/adjustable-jadau-fusion-bracelet?variant=gid://shopify/ProductVariant/67579959935276",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Adjustablejadaufusionbracelet720.jpg?v=1791355791"
+  },
+  "gid://shopify/ProductVariant/67579996176684": {
+    "product_title": "Jadau elegant flower motive pearl bracelet",
+    "variant_title": "Default Title",
+    "sku": "AC169",
+    "price": 820.0,
+    "stock": 20,
+    "url": "https://www.kanshijewels.com/products/jadau-elegant-flower-motive-pearl-bracelet?variant=gid://shopify/ProductVariant/67579996176684",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Screenshot2026-10-07122446.png?v=1791356111"
   },
   "gid://shopify/ProductVariant/45425851433260": {
     "product_title": "Jadau Kundan Earrings",
@@ -14408,6 +14417,15 @@
     "url": "https://www.kanshijewels.com/products/classic-victorian-polki-studs?variant=gid://shopify/ProductVariant/53331903611180",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Screenshot2026-06-16142931.png?v=1781600432"
   },
+  "gid://shopify/ProductVariant/53368817615148": {
+    "product_title": "Diamond motives emerald swaroski dulhan necklace",
+    "variant_title": "Default Title",
+    "sku": "NK904",
+    "price": 2200.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/diamond-motives-emerald-swaroski-dulhan-necklace?variant=gid://shopify/ProductVariant/53368817615148",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Diamondmotivesemeraldswaroskidulhannecklace1900.jpg?v=1782212960"
+  },
   "gid://shopify/ProductVariant/53368843338028": {
     "product_title": "Elegant dual tone gold silver chain",
     "variant_title": "Default Title",
@@ -14470,5 +14488,14 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-30?variant=gid://shopify/ProductVariant/53714571755820",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/3999.jpg?v=1787036986"
+  },
+  "gid://shopify/ProductVariant/67579998077228": {
+    "product_title": "Peacock jadau fusion ring",
+    "variant_title": "Default Title",
+    "sku": "AC170",
+    "price": 750.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/peacock-jadau-fusion-ring?variant=gid://shopify/ProductVariant/67579998077228",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Peacockjadaufusionring750.jpg?v=1791356399"
   }
 }
