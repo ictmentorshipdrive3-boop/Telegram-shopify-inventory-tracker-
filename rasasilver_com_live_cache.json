@@ -14552,15 +14552,6 @@
     "url": "https://www.rasasilver.com/products/lokamata-short-temple-necklace-copy?variant=gid://shopify/ProductVariant/52831546310953",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar0068_resized.jpg?v=1774596532"
   },
-  "gid://shopify/ProductVariant/52831574819113": {
-    "product_title": "Chanchala Temple Necklace",
-    "variant_title": "Default Title",
-    "sku": "R26160",
-    "price": 27625.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/shubhaprada-short-temple-necklace-copy?variant=gid://shopify/ProductVariant/52831574819113",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar0016_resized.jpg?v=1774596629"
-  },
   "gid://shopify/ProductVariant/52831606047017": {
     "product_title": "Hiranmayi Temple Necklace",
     "variant_title": "Default Title",
@@ -24028,15 +24019,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/nova-mango-nakshi?variant=gid://shopify/ProductVariant/54219519557929",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_22Sep60706.jpg?v=1791011458"
-  },
-  "gid://shopify/ProductVariant/54219525652777": {
-    "product_title": "Pushpita Nakshi Necklace",
-    "variant_title": "Default Title",
-    "sku": "R35011",
-    "price": 24480.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/pushpita-nakshi-necklace?variant=gid://shopify/ProductVariant/54219525652777",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Tast_12Set20857.jpg?v=1790150719"
   },
   "gid://shopify/ProductVariant/54219531190569": {
     "product_title": "Dvi-Paksha Nakshi Pendant",
@@ -41957,6 +41939,15 @@
     "url": "https://www.rasasilver.com/products/shrinaya-short-temple-necklace?variant=gid://shopify/ProductVariant/52831562039593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar0139_resized.jpg?v=1774530857"
   },
+  "gid://shopify/ProductVariant/52831574819113": {
+    "product_title": "Chanchala Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R26160",
+    "price": 27625.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/shubhaprada-short-temple-necklace-copy?variant=gid://shopify/ProductVariant/52831574819113",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar0016_resized.jpg?v=1774596629"
+  },
   "gid://shopify/ProductVariant/52831590940969": {
     "product_title": "Jaladhija Kasu Temple Necklace",
     "variant_title": "Default Title",
@@ -48472,6 +48463,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/gulvanthi-kundan-bangles?variant=gid://shopify/ProductVariant/54219013947689",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_14Sep60011_8be3852c-0321-4063-9e8b-7c5cd7a46fe8.jpg?v=1790145285"
+  },
+  "gid://shopify/ProductVariant/54219525652777": {
+    "product_title": "Pushpita Nakshi Necklace",
+    "variant_title": "Default Title",
+    "sku": "R35011",
+    "price": 24480.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/pushpita-nakshi-necklace?variant=gid://shopify/ProductVariant/54219525652777",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Tast_12Set20857.jpg?v=1790150719"
   },
   "gid://shopify/ProductVariant/54220132319529": {
     "product_title": "Mayur-Gaja Nakshi Necklace",
