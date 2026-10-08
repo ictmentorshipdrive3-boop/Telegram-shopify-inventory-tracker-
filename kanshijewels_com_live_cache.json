@@ -10831,7 +10831,7 @@
     "variant_title": "Default Title",
     "sku": "NK910",
     "price": 850.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.kanshijewels.com/products/elegant-minimal-gold-chain-with-pendant?variant=gid://shopify/ProductVariant/53368913658156",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Elegantminimalgoldchainwithpendant850.jpg?v=1782215731"
   },
@@ -12166,15 +12166,6 @@
     "stock": 10,
     "url": "https://www.kanshijewels.com/products/most-classic-navratan-polki-set?variant=gid://shopify/ProductVariant/54111721161004",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/WhatsAppImage2026-09-24at9.15.04AM.jpg?v=1790229064"
-  },
-  "gid://shopify/ProductVariant/67533451493676": {
-    "product_title": "Super Elegant Eagle Pendant With Detachable Hasli",
-    "variant_title": "Default Title",
-    "sku": "NK998",
-    "price": 995.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/super-elegant-eagle-pendant-with-detachable-hasli?variant=gid://shopify/ProductVariant/67533451493676",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/WhatsAppImage2026-09-26at2.24.40PM.jpg?v=1790413035"
   },
   "gid://shopify/ProductVariant/67562446422316": {
     "product_title": "Elegant ear chain combo peacock jhumka",
@@ -14605,5 +14596,14 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-30?variant=gid://shopify/ProductVariant/53714571755820",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/3999.jpg?v=1787036986"
+  },
+  "gid://shopify/ProductVariant/67533451493676": {
+    "product_title": "Super Elegant Eagle Pendant With Detachable Hasli",
+    "variant_title": "Default Title",
+    "sku": "NK998",
+    "price": 995.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/super-elegant-eagle-pendant-with-detachable-hasli?variant=gid://shopify/ProductVariant/67533451493676",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/WhatsAppImage2026-09-26at2.24.40PM.jpg?v=1790413035"
   }
 }
