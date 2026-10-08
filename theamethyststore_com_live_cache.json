@@ -3613,7 +3613,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-3855",
     "price": 64400.0,
-    "stock": 1,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/elegance-short-necklace-set?variant=gid://shopify/ProductVariant/43655612563683",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-3855_3_a452e751-6c1b-436b-bae1-df94ce0bd520.jpg?v=1756290600"
   },
@@ -67139,6 +67139,15 @@
     "url": "https://www.theamethyststore.com/products/dainty-avikam-choker?variant=gid://shopify/ProductVariant/48944191111395",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15774.jpg?v=1778653906"
   },
+  "gid://shopify/ProductVariant/48944191602915": {
+    "product_title": "Glittering Avikam Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1310",
+    "price": 32600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/glittering-avikam-bracelet?variant=gid://shopify/ProductVariant/48944191602915",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1310.jpg?v=1778654281"
+  },
   "gid://shopify/ProductVariant/48944194912483": {
     "product_title": "Pakshati Pendant Set",
     "variant_title": "Default Title",
@@ -110213,6 +110222,15 @@
     "url": "https://www.theamethyststore.com/products/whimsical-swing-moissanite-jhumkas?variant=gid://shopify/ProductVariant/67646180491491",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16517.jpg?v=1791460148"
   },
+  "gid://shopify/ProductVariant/67646306484451": {
+    "product_title": "Ethereal Moissanite Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5257",
+    "price": 40600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/ethereal-moissanite-pendant-set?variant=gid://shopify/ProductVariant/67646306484451",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5257.jpg?v=1791461168"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -130220,15 +130238,6 @@
     "url": "https://www.theamethyststore.com/products/elegant-avikam-choker?variant=gid://shopify/ProductVariant/48944176365795",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15716.jpg?v=1778652833"
   },
-  "gid://shopify/ProductVariant/48944191602915": {
-    "product_title": "Glittering Avikam Bracelet",
-    "variant_title": "Default Title",
-    "sku": "AMS-103-1310",
-    "price": 32600.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/glittering-avikam-bracelet?variant=gid://shopify/ProductVariant/48944191602915",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1310.jpg?v=1778654281"
-  },
   "gid://shopify/ProductVariant/48944192094435": {
     "product_title": "HantriAvikam Pendant Set",
     "variant_title": "Default Title",
@@ -142761,7 +142770,7 @@
     "product_title": "Elegance Nagas Chain",
     "variant_title": "Default Title",
     "sku": "AMS-105-2243",
-    "price": 17670.0,
+    "price": 20070.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/elegance-nagas-chain?variant=gid://shopify/ProductVariant/49800742273251",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2243.jpg?v=1790166310"
