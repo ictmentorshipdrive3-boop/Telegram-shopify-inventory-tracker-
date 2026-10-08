@@ -1489,7 +1489,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-2563",
     "price": 12788.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/navarathna-earrings-1?variant=gid://shopify/ProductVariant/42910502158563",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/DSC06812.jpg?v=1748344865"
   },
@@ -65407,7 +65407,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-1900",
     "price": 13229.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/classic-chain-1?variant=gid://shopify/ProductVariant/48914256888035",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1900_2.jpg?v=1778077011"
   },
@@ -93680,6 +93680,15 @@
     "url": "https://www.theamethyststore.com/products/bridal-kundan-oddiyanam-5?variant=gid://shopify/ProductVariant/49571215474915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0955.jpg?v=1787296871"
   },
+  "gid://shopify/ProductVariant/49571230679267": {
+    "product_title": "Bridal Like Nagas Oddiyanam",
+    "variant_title": "Default Title",
+    "sku": "AMS-110-0956",
+    "price": 132105.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nagas-oddiyanam-15?variant=gid://shopify/ProductVariant/49571230679267",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0956.jpg?v=1787297050"
+  },
   "gid://shopify/ProductVariant/49571246604515": {
     "product_title": "Ruhikaa Kundan Pendant",
     "variant_title": "Default Title",
@@ -104687,15 +104696,6 @@
     "url": "https://www.theamethyststore.com/products/thanisha-kundan-pendant?variant=gid://shopify/ProductVariant/49800737423587",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5179.jpg?v=1790165956"
   },
-  "gid://shopify/ProductVariant/49800742273251": {
-    "product_title": "Elegance Nagas Chain",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-2243",
-    "price": 17670.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/elegance-nagas-chain?variant=gid://shopify/ProductVariant/49800742273251",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2243.jpg?v=1790166310"
-  },
   "gid://shopify/ProductVariant/49800748302563": {
     "product_title": "Deekshikaa 3D Spl Earrings",
     "variant_title": "Default Title",
@@ -110284,6 +110284,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/ornate-elegance-moissanite-jhumkas?variant=gid://shopify/ProductVariant/67645667279075",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16523.jpg?v=1791456077"
+  },
+  "gid://shopify/ProductVariant/67645770989795": {
+    "product_title": "Luscious Craft Moissanite Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16520",
+    "price": 49900.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/luscious-craft-moissanite-jhumkas?variant=gid://shopify/ProductVariant/67645770989795",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16520.jpg?v=1791456602"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -142747,6 +142756,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/fantastic-kundan-choker?variant=gid://shopify/ProductVariant/49800292532451",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18241.jpg?v=1790162705"
+  },
+  "gid://shopify/ProductVariant/49800742273251": {
+    "product_title": "Elegance Nagas Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2243",
+    "price": 17670.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/elegance-nagas-chain?variant=gid://shopify/ProductVariant/49800742273251",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2243.jpg?v=1790166310"
   },
   "gid://shopify/ProductVariant/50282372890851": {
     "product_title": "Anbithaa Kundan Jhumkas",
