@@ -4832,15 +4832,6 @@
     "url": "https://www.kanshijewels.com/products/jadau-kundan-earrings-140?variant=gid://shopify/ProductVariant/48243340247340",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/950_2_1.jpg?v=1710936342"
   },
-  "gid://shopify/ProductVariant/48243341001004": {
-    "product_title": "Jadau Kundan Earrings",
-    "variant_title": "Default Title",
-    "sku": "ER304",
-    "price": 1995.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-kundan-earrings-141?variant=gid://shopify/ProductVariant/48243341001004",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1900_1_1.jpg?v=1710936369"
-  },
   "gid://shopify/ProductVariant/48243342606636": {
     "product_title": "Jadau Kundan Earrings",
     "variant_title": "Default Title",
@@ -5161,7 +5152,7 @@
     "variant_title": "Default Title",
     "sku": "NK459",
     "price": 1995.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-chokar-27?variant=gid://shopify/ProductVariant/48667718254892",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1900_0776ac39-b4ab-4cba-b090-92279c3a9947.jpg?v=1713788929"
   },
@@ -8734,7 +8725,7 @@
     "variant_title": "Default Title",
     "sku": "NK94",
     "price": 3675.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.kanshijewels.com/products/mossanite-chokar-necklace-copy-9?variant=gid://shopify/ProductVariant/52018800329004",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/3500_8bbb1cea-a55e-453d-af32-85903fe2aea5.jpg?v=1758805855"
   },
@@ -9754,15 +9745,6 @@
     "stock": 1,
     "url": "https://www.kanshijewels.com/products/jadau-jhumkas-6?variant=gid://shopify/ProductVariant/52445352788268",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadauearring1850.jpg?v=1766143309"
-  },
-  "gid://shopify/ProductVariant/52445356065068": {
-    "product_title": "Jadau studs",
-    "variant_title": "Default Title",
-    "sku": "ER106",
-    "price": 1400.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-studs-3?variant=gid://shopify/ProductVariant/52445356065068",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaustuds1400.jpg?v=1766143409"
   },
   "gid://shopify/ProductVariant/52445356884268": {
     "product_title": "Jadau jhumkas",
@@ -11695,7 +11677,7 @@
     "variant_title": "Default Title",
     "sku": "NK965",
     "price": 2650.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.kanshijewels.com/products/moon-kundan-motives-classic-set?variant=gid://shopify/ProductVariant/54005689385260",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/WhatsApp_Image_2026-09-05_at_2.58.35_PM_2.jpg?v=1788601193"
   },
@@ -11704,7 +11686,7 @@
     "variant_title": "Default Title",
     "sku": "NK966",
     "price": 2650.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.kanshijewels.com/products/moon-kundan-motives-classic-set-1?variant=gid://shopify/ProductVariant/54005697446188",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/WhatsApp_Image_2026-09-05_at_2.58.52_PM_1.jpg?v=1788605759"
   },
@@ -13445,6 +13427,15 @@
     "url": "https://www.kanshijewels.com/products/jadau-kundan-earrings-139?variant=gid://shopify/ProductVariant/48243334971692",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1800_e5fc380c-9d37-4cdb-8add-2aff87819551.jpg?v=1710936192"
   },
+  "gid://shopify/ProductVariant/48243341001004": {
+    "product_title": "Jadau Kundan Earrings",
+    "variant_title": "Default Title",
+    "sku": "ER304",
+    "price": 1995.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-kundan-earrings-141?variant=gid://shopify/ProductVariant/48243341001004",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1900_1_1.jpg?v=1710936369"
+  },
   "gid://shopify/ProductVariant/48243344277804": {
     "product_title": "Jadau Kundan Earrings",
     "variant_title": "Default Title",
@@ -14452,6 +14443,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/mossanite-studs-5?variant=gid://shopify/ProductVariant/52445344956716",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaustuds1450.jpg?v=1766142924"
+  },
+  "gid://shopify/ProductVariant/52445356065068": {
+    "product_title": "Jadau studs",
+    "variant_title": "Default Title",
+    "sku": "ER106",
+    "price": 1400.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-studs-3?variant=gid://shopify/ProductVariant/52445356065068",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaustuds1400.jpg?v=1766143409"
   },
   "gid://shopify/ProductVariant/52445361602860": {
     "product_title": "Jadau studs",
