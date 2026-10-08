@@ -109124,15 +109124,6 @@
     "url": "https://www.theamethyststore.com/products/richly-decorated-stone-short-necklace-1?variant=gid://shopify/ProductVariant/67623955857635",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18313.jpg?v=1791181642"
   },
-  "gid://shopify/ProductVariant/67623958839523": {
-    "product_title": "Sparkling Beauty Stone Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-18314",
-    "price": 60944.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/sparkling-beauty-stone-short-necklace-set?variant=gid://shopify/ProductVariant/67623958839523",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18314.jpg?v=1791181974"
-  },
   "gid://shopify/ProductVariant/67623965130979": {
     "product_title": "Immaculate Stone Short Necklace",
     "variant_title": "Default Title",
@@ -110311,6 +110302,24 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/elevated-elegance?variant=gid://shopify/ProductVariant/67646475895011",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18374.jpg?v=1791466141"
+  },
+  "gid://shopify/ProductVariant/67646486151395": {
+    "product_title": "Elevated Elegance Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18453",
+    "price": 41300.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/elevated-elegance-short-necklace?variant=gid://shopify/ProductVariant/67646486151395",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18453.jpg?v=1791467116"
+  },
+  "gid://shopify/ProductVariant/67646490345699": {
+    "product_title": "Ornate Wonder Nagas Pair Bangles",
+    "variant_title": "2.4",
+    "sku": "AMS-107-3706-2.4\"",
+    "price": 60786.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/ornate-wonder-nagas-pair-bangles?variant=gid://shopify/ProductVariant/67646490345699",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3706-2.4_638cf841-a8c6-4c57-8550-18f40a82ad8d.jpg?v=1791466917"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -143143,5 +143152,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/dazzle-charm-short-necklace?variant=gid://shopify/ProductVariant/67621946523875",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18412.jpg?v=1791097925"
+  },
+  "gid://shopify/ProductVariant/67623958839523": {
+    "product_title": "Sparkling Beauty Stone Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18314",
+    "price": 60944.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/sparkling-beauty-stone-short-necklace-set?variant=gid://shopify/ProductVariant/67623958839523",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18314.jpg?v=1791181974"
   }
 }
