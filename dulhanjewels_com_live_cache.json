@@ -6569,15 +6569,6 @@
     "url": "https://www.dulhanjewels.com/products/delicate-jadau-kundan-laxmi-devi-locket-with-green-drops?variant=gid://shopify/ProductVariant/52212089717042",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/D63F3692-6271-44D1-B265-D9A531D5C39F.jpg?v=1790447261"
   },
-  "gid://shopify/ProductVariant/52212510490930": {
-    "product_title": "Navratna Necklace Set With Multicolor Stone Drops And Pearl Detailing",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1750.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/navratna-necklace-set-with-multicolor-stone-drops-and-pearl-detailing?variant=gid://shopify/ProductVariant/52212510490930",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/0524C0D6-49E6-41CA-82DD-ACF1DE56F891.jpg?v=1790170350"
-  },
   "gid://shopify/ProductVariant/52263841038642": {
     "product_title": "Ethnic Jadau Kundan Necklace With Green Drops",
     "variant_title": "Default Title",
@@ -7325,15 +7316,6 @@
     "url": "https://www.dulhanjewels.com/products/dainty-jadau-kundan-necklace-with-green-drops?variant=gid://shopify/ProductVariant/67918913536306",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/4B2D03A4-056A-4C6D-BC38-AC8E0A3E12B5.jpg?v=1791274475"
   },
-  "gid://shopify/ProductVariant/67918939685170": {
-    "product_title": "Radiant Victorian Polki Choker With Beads Hangings And Matching Earrings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 4500.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/radiant-victorian-polki-choker-with-beads-hangings-and-matching-earrings?variant=gid://shopify/ProductVariant/67918939685170",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/9394F0B0-419D-4EAF-8AD9-F52F997762AB.jpg?v=1791274765"
-  },
   "gid://shopify/ProductVariant/67918966980914": {
     "product_title": "Traditional Jadau Kundan Guttapusalu Necklace",
     "variant_title": "Default Title",
@@ -7576,5 +7558,23 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/gold-finish-jadau-kundan-bangles-with-floral-center-motif?variant=gid://shopify/ProductVariant/51473044570418",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/792329B2-6933-46CA-B95A-AE2E679EC7A7.jpg?v=1783418017"
+  },
+  "gid://shopify/ProductVariant/52212510490930": {
+    "product_title": "Navratna Necklace Set With Multicolor Stone Drops And Pearl Detailing",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1750.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/navratna-necklace-set-with-multicolor-stone-drops-and-pearl-detailing?variant=gid://shopify/ProductVariant/52212510490930",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/0524C0D6-49E6-41CA-82DD-ACF1DE56F891.jpg?v=1790170350"
+  },
+  "gid://shopify/ProductVariant/67918939685170": {
+    "product_title": "Radiant Victorian Polki Choker With Beads Hangings And Matching Earrings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 4500.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/radiant-victorian-polki-choker-with-beads-hangings-and-matching-earrings?variant=gid://shopify/ProductVariant/67918939685170",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/9394F0B0-419D-4EAF-8AD9-F52F997762AB.jpg?v=1791274765"
   }
 }
