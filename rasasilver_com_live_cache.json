@@ -5714,15 +5714,6 @@
     "url": "https://www.rasasilver.com/products/trilakshmi-hooks?variant=gid://shopify/ProductVariant/51434487349545",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0104_copy_1.jpg?v=1777356151"
   },
-  "gid://shopify/ProductVariant/51434539188521": {
-    "product_title": "Avaran Samriddhi Hangings",
-    "variant_title": "Default Title",
-    "sku": "R15653",
-    "price": 3145.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/avaran-samriddhi-hangings?variant=gid://shopify/ProductVariant/51434539188521",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0188_copy_2.jpg?v=1777370026"
-  },
   "gid://shopify/ProductVariant/51434557997353": {
     "product_title": "Lotune Hanging Earrings",
     "variant_title": "Default Title",
@@ -29852,6 +29843,15 @@
     "url": "https://www.rasasilver.com/products/sri-maheshwari-short-necklace-copy?variant=gid://shopify/ProductVariant/51434368794921",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct3306_resized.jpg?v=1767761864"
   },
+  "gid://shopify/ProductVariant/51434539188521": {
+    "product_title": "Avaran Samriddhi Hangings",
+    "variant_title": "Default Title",
+    "sku": "R15653",
+    "price": 3145.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/avaran-samriddhi-hangings?variant=gid://shopify/ProductVariant/51434539188521",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0188_copy_2.jpg?v=1777370026"
+  },
   "gid://shopify/ProductVariant/51434836689193": {
     "product_title": "Mangora Dangle Earrings",
     "variant_title": "Ruby Pink",
@@ -48670,5 +48670,14 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/saumya-nakshi-jhumki?variant=gid://shopify/ProductVariant/67564713935145",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct21241.jpg?v=1791359065"
+  },
+  "gid://shopify/ProductVariant/67564738347305": {
+    "product_title": "Nakshari Temple Jhumki",
+    "variant_title": "Default Title",
+    "sku": "R37529",
+    "price": 10115.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/nakshara-temple-jhumki?variant=gid://shopify/ProductVariant/67564738347305",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct21245.jpg?v=1791359423"
   }
 }
