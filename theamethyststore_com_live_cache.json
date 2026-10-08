@@ -4270,7 +4270,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-119-0003",
     "price": 13500.0,
-    "stock": 29,
+    "stock": 28,
     "url": "https://www.theamethyststore.com/products/mini-choker-side-chain?variant=gid://shopify/ProductVariant/43788506136803",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-119-0003.jpg?v=1699516378"
   },
@@ -73529,15 +73529,6 @@
     "url": "https://www.theamethyststore.com/products/nagas-pair-bangles-47?variant=gid://shopify/ProductVariant/49320503541987",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3298_2.jpg?v=1782566924"
   },
-  "gid://shopify/ProductVariant/49320508522723": {
-    "product_title": "Vivera Nagas Pair Bangles",
-    "variant_title": "2.6\"",
-    "sku": "AMS-107-3291-2.6\"",
-    "price": 26665.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nagas-pair-bangles-49?variant=gid://shopify/ProductVariant/49320508522723",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3291_2.jpg?v=1782567403"
-  },
   "gid://shopify/ProductVariant/49320512651491": {
     "product_title": "Luxe charm Nagas Pair Bangles",
     "variant_title": "2.8\"",
@@ -110438,6 +110429,15 @@
     "url": "https://www.theamethyststore.com/products/majestic-look-moissanite-short-necklace-set?variant=gid://shopify/ProductVariant/67640887410915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18675.jpg?v=1791437478"
   },
+  "gid://shopify/ProductVariant/67640932204771": {
+    "product_title": "Refined Treasures Diamond Design Oddiyanam",
+    "variant_title": "Default Title",
+    "sku": "AMS-110-0975",
+    "price": 201100.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/refined-treasures-diamond-design-oddiyanam?variant=gid://shopify/ProductVariant/67640932204771",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0975.jpg?v=1791438979"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -134170,6 +134170,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/eternal-elegance-short-necklace?variant=gid://shopify/ProductVariant/49320505213155",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16351.jpg?v=1782567556"
+  },
+  "gid://shopify/ProductVariant/49320508522723": {
+    "product_title": "Vivera Nagas Pair Bangles",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-3291-2.6\"",
+    "price": 26665.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-pair-bangles-49?variant=gid://shopify/ProductVariant/49320508522723",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3291_2.jpg?v=1782567403"
   },
   "gid://shopify/ProductVariant/49320520909027": {
     "product_title": "Classic Charm Short Necklace",
