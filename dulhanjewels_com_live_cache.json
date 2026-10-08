@@ -5570,15 +5570,6 @@
     "url": "https://www.dulhanjewels.com/products/stylish-jadau-kundan-necklace-with-pendant?variant=gid://shopify/ProductVariant/51553609548082",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/B730F1DA-749E-4092-8C9A-15167ED42F61.jpg?v=1786185852"
   },
-  "gid://shopify/ProductVariant/51553619509554": {
-    "product_title": "Jadau Kundan Stud Earrings With Floral Design",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1000.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/jadau-kundan-stud-earrings-with-floral-design?variant=gid://shopify/ProductVariant/51553619509554",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_a3da139f-95b1-4240-8dff-f7b3cf314b89.jpg?v=1789636802"
-  },
   "gid://shopify/ProductVariant/51609675530546": {
     "product_title": "Royal Victorian Peacock Pendant And Earring Set",
     "variant_title": "Green",
@@ -7460,15 +7451,6 @@
     "url": "https://www.dulhanjewels.com/products/ethnic-jadau-kundan-stud-earrings-with-emerald-beads-bordering?variant=gid://shopify/ProductVariant/67931483242802",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/E4E7772E-C2D4-4317-BD32-BEE942CB8963.jpg?v=1791443566"
   },
-  "gid://shopify/ProductVariant/67931489173810": {
-    "product_title": "Designer Jadau Kundan Stud Earrings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1100.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/designer-jadau-kundan-stud-earrings?variant=gid://shopify/ProductVariant/67931489173810",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/BC0F72E3-6170-469C-B39C-4D216C01F658.jpg?v=1791443733"
-  },
   "gid://shopify/ProductVariant/67931492679986": {
     "product_title": "Gold Style Jadau Kundan Stud Earrings",
     "variant_title": "Default Title",
@@ -7612,5 +7594,23 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/gold-finish-jadau-kundan-bangles-with-floral-center-motif?variant=gid://shopify/ProductVariant/51473044570418",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/792329B2-6933-46CA-B95A-AE2E679EC7A7.jpg?v=1783418017"
+  },
+  "gid://shopify/ProductVariant/51553619509554": {
+    "product_title": "Jadau Kundan Stud Earrings With Floral Design",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1000.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/jadau-kundan-stud-earrings-with-floral-design?variant=gid://shopify/ProductVariant/51553619509554",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_a3da139f-95b1-4240-8dff-f7b3cf314b89.jpg?v=1789636802"
+  },
+  "gid://shopify/ProductVariant/67931489173810": {
+    "product_title": "Designer Jadau Kundan Stud Earrings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1100.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/designer-jadau-kundan-stud-earrings?variant=gid://shopify/ProductVariant/67931489173810",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/BC0F72E3-6170-469C-B39C-4D216C01F658.jpg?v=1791443733"
   }
 }
