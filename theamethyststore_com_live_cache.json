@@ -27143,15 +27143,6 @@
     "url": "https://www.theamethyststore.com/products/varunisha-nagas-tikka?variant=gid://shopify/ProductVariant/47009065828579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1799.jpg?v=1754993296"
   },
-  "gid://shopify/ProductVariant/47009073529059": {
-    "product_title": "Avrinika Nagas Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-9842",
-    "price": 13570.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/avrinika-nagas-jhumkas?variant=gid://shopify/ProductVariant/47009073529059",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9842_9b8f1e97-0e90-433b-bca6-6c7de8e38c4f.jpg?v=1759044355"
-  },
   "gid://shopify/ProductVariant/47009220264163": {
     "product_title": "Divine Glow  Stone Pendant",
     "variant_title": "Default Title",
@@ -97672,7 +97663,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-2309",
     "price": 14804.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/hair-maatal?variant=gid://shopify/ProductVariant/49654704603363",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2309.jpg?v=1788269804"
   },
@@ -110483,6 +110474,15 @@
     "url": "https://www.theamethyststore.com/products/enchanting-wear-moissanite-pair-bangles?variant=gid://shopify/ProductVariant/67641068290275",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3728-2.4.jpg?v=1791441151"
   },
+  "gid://shopify/ProductVariant/67641088737507": {
+    "product_title": "Timeless Allure Avikam Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18799",
+    "price": 147700.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/timeless-allure-avikam-necklace-set?variant=gid://shopify/ProductVariant/67641088737507",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18799.jpg?v=1791446681"
+  },
   "gid://shopify/ProductVariant/67641207095523": {
     "product_title": "Verdant Craft Moissanite Studs",
     "variant_title": "Default Title",
@@ -110563,6 +110563,24 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/luminous-charm-moissanite-short-necklace-set?variant=gid://shopify/ProductVariant/67642133119203",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18672.jpg?v=1791446150"
+  },
+  "gid://shopify/ProductVariant/67642307936483": {
+    "product_title": "Mesmerical Moissanite Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18673",
+    "price": 83300.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/mesmerical-moissanite-short-necklace-set?variant=gid://shopify/ProductVariant/67642307936483",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18673.jpg?v=1791446424"
+  },
+  "gid://shopify/ProductVariant/67642372096227": {
+    "product_title": "Petite Craft Moissanite Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16526",
+    "price": 11700.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/petite-craft-moissanite-drops?variant=gid://shopify/ProductVariant/67642372096227",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16526.jpg?v=1791446564"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -118123,6 +118141,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/traditional-nagas-tikka?variant=gid://shopify/ProductVariant/47009071333603",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1800.jpg?v=1754993432"
+  },
+  "gid://shopify/ProductVariant/47009073529059": {
+    "product_title": "Avrinika Nagas Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-9842",
+    "price": 13570.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/avrinika-nagas-jhumkas?variant=gid://shopify/ProductVariant/47009073529059",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9842_9b8f1e97-0e90-433b-bca6-6c7de8e38c4f.jpg?v=1759044355"
   },
   "gid://shopify/ProductVariant/47009214922979": {
     "product_title": "Dheekshikha Stone Maangtikka",
