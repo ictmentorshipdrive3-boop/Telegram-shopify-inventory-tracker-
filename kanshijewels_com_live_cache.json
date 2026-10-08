@@ -4855,7 +4855,7 @@
     "variant_title": "Default Title",
     "sku": "ER302",
     "price": 2992.5,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-earrings-143?variant=gid://shopify/ProductVariant/48243343065388",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2850_1_1.jpg?v=1710936436"
   },
@@ -9058,7 +9058,7 @@
     "variant_title": "Default Title",
     "sku": "ER133",
     "price": 1600.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.kanshijewels.com/products/mossanite-studs-1600_?variant=gid://shopify/ProductVariant/52436913783084",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Mossanitestuds1600.jpg?v=1765970377"
   },
@@ -9646,15 +9646,6 @@
     "stock": 1,
     "url": "https://www.kanshijewels.com/products/jadau-jhumkas?variant=gid://shopify/ProductVariant/52445332013356",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaujhumkas2650.jpg?v=1766142577"
-  },
-  "gid://shopify/ProductVariant/52445332275500": {
-    "product_title": "Mossanite studs",
-    "variant_title": "Default Title",
-    "sku": "ER119",
-    "price": 1200.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/mossanite-studs-1?variant=gid://shopify/ProductVariant/52445332275500",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Mossanitestuds1200.jpg?v=1766142595"
   },
   "gid://shopify/ProductVariant/52445335224620": {
     "product_title": "Mossanite studs",
@@ -14443,6 +14434,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/mossanite-earrings?variant=gid://shopify/ProductVariant/52445324738860",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Mossaniteearrings1500.jpg?v=1766142452"
+  },
+  "gid://shopify/ProductVariant/52445332275500": {
+    "product_title": "Mossanite studs",
+    "variant_title": "Default Title",
+    "sku": "ER119",
+    "price": 1200.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/mossanite-studs-1?variant=gid://shopify/ProductVariant/52445332275500",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Mossanitestuds1200.jpg?v=1766142595"
   },
   "gid://shopify/ProductVariant/52445344956716": {
     "product_title": "Jadau studs",
