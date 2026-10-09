@@ -1093,7 +1093,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-2280",
     "price": 7115.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/nivar-earrings?variant=gid://shopify/ProductVariant/42416930848995",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-2280.jpg?v=1687241133"
   },
@@ -2884,7 +2884,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-0302",
     "price": 20900.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/white-kundan-bracelet?variant=gid://shopify/ProductVariant/43521666384099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-103-0302_1.jpg?v=1668079743"
   },
@@ -29294,6 +29294,15 @@
     "url": "https://www.theamethyststore.com/products/priyara-kundan-earrings?variant=gid://shopify/ProductVariant/47056221864163",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10006.jpg?v=1755949962"
   },
+  "gid://shopify/ProductVariant/47056452845795": {
+    "product_title": "Saisha Nagas Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-10077",
+    "price": 29991.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/saisha-nagas-jhumkas-1?variant=gid://shopify/ProductVariant/47056452845795",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10077.jpg?v=1755956317"
+  },
   "gid://shopify/ProductVariant/47056454877411": {
     "product_title": "Vikitha Nagas Jhumkas",
     "variant_title": "Default Title",
@@ -44278,6 +44287,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/frelinkha-chain-with-earrings?variant=gid://shopify/ProductVariant/47527490617571",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1350.jpg?v=1763113304"
+  },
+  "gid://shopify/ProductVariant/47527609762019": {
+    "product_title": "Zarisha Nagas Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-10711",
+    "price": 45300.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/zarisha-nagas-jhumkas-1?variant=gid://shopify/ProductVariant/47527609762019",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10711.jpg?v=1763113728"
   },
   "gid://shopify/ProductVariant/47527718944995": {
     "product_title": "Royal Charm Nagas Oddiyanam",
@@ -76936,7 +76954,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15170",
     "price": 4100.0,
-    "stock": 4,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/moissanite-studs-1?variant=gid://shopify/ProductVariant/49388892455139",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15170.jpg?v=1783666515"
   },
@@ -96487,15 +96505,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/nagas-drops-40?variant=gid://shopify/ProductVariant/49649038590179",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15453.jpg?v=1788185979"
-  },
-  "gid://shopify/ProductVariant/49649066311907": {
-    "product_title": "Shivanikaa Nagas Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15363",
-    "price": 9327.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nagas-drops-43?variant=gid://shopify/ProductVariant/49649066311907",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15363.jpg?v=1788186379"
   },
   "gid://shopify/ProductVariant/49649074110691": {
     "product_title": "Sivanika Nagas Drops",
@@ -119069,15 +119078,6 @@
     "url": "https://www.theamethyststore.com/products/kundan-studs-3?variant=gid://shopify/ProductVariant/47056201154787",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10003.jpg?v=1755948762"
   },
-  "gid://shopify/ProductVariant/47056452845795": {
-    "product_title": "Saisha Nagas Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-10077",
-    "price": 29991.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/saisha-nagas-jhumkas-1?variant=gid://shopify/ProductVariant/47056452845795",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10077.jpg?v=1755956317"
-  },
   "gid://shopify/ProductVariant/47059001278691": {
     "product_title": "Sheshitha Kundan Long Necklace",
     "variant_title": "Default Title",
@@ -122272,15 +122272,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/eternal-glow-chain-with-earrings-1?variant=gid://shopify/ProductVariant/47527463649507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1334.jpg?v=1763112587"
-  },
-  "gid://shopify/ProductVariant/47527609762019": {
-    "product_title": "Zarisha Nagas Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-10711",
-    "price": 45300.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/zarisha-nagas-jhumkas-1?variant=gid://shopify/ProductVariant/47527609762019",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10711.jpg?v=1763113728"
   },
   "gid://shopify/ProductVariant/47527656095971": {
     "product_title": "Mithra Nagas Jhumkas",
@@ -142675,6 +142666,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nagas-drops-42?variant=gid://shopify/ProductVariant/49649047666915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15446.jpg?v=1788186238"
+  },
+  "gid://shopify/ProductVariant/49649066311907": {
+    "product_title": "Shivanikaa Nagas Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15363",
+    "price": 9327.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-drops-43?variant=gid://shopify/ProductVariant/49649066311907",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15363.jpg?v=1788186379"
   },
   "gid://shopify/ProductVariant/49652984676579": {
     "product_title": "Streamlined Nagas Short Necklace Set",
