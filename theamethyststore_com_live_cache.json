@@ -29317,7 +29317,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-10077",
     "price": 29991.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/saisha-nagas-jhumkas-1?variant=gid://shopify/ProductVariant/47056452845795",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10077.jpg?v=1755956317"
   },
@@ -45043,15 +45043,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/avikam-jhumkas-1?variant=gid://shopify/ProductVariant/47625288646883",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11074.jpg?v=1763977613"
-  },
-  "gid://shopify/ProductVariant/47625313157347": {
-    "product_title": "Grand Luxe Nagas Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-11199",
-    "price": 18000.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/grand-luxe-nagas-jhumkas-2?variant=gid://shopify/ProductVariant/47625313157347",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11199.jpg?v=1763978623"
   },
   "gid://shopify/ProductVariant/47625328525539": {
     "product_title": "Yalisha Nagas Jhumkas",
@@ -94004,15 +93995,6 @@
     "url": "https://www.theamethyststore.com/products/heritage-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49575199670499",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17668.jpg?v=1787374216"
   },
-  "gid://shopify/ProductVariant/49575207108835": {
-    "product_title": "Grandeur 3D Spl Long Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17676",
-    "price": 309200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/grandeur-3d-spl-long-necklace-set?variant=gid://shopify/ProductVariant/49575207108835",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17676.jpg?v=1787375226"
-  },
   "gid://shopify/ProductVariant/49575211958499": {
     "product_title": "Luxurious 3D Spl Long Necklace Set",
     "variant_title": "Default Title",
@@ -110501,6 +110483,15 @@
     "url": "https://www.theamethyststore.com/products/celestial-bless-3d-spl-pair-bangles?variant=gid://shopify/ProductVariant/67651668410595",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3658-2.4.jpg?v=1791530429"
   },
+  "gid://shopify/ProductVariant/67651669295331": {
+    "product_title": "Exquisite Stone Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18461",
+    "price": 77184.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/exquisite-stone-short-necklace?variant=gid://shopify/ProductVariant/67651669295331",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18461.jpg?v=1791530784"
+  },
   "gid://shopify/ProductVariant/67651670802659": {
     "product_title": "Attractive Diamond Design Short Necklace Set",
     "variant_title": "Default Title",
@@ -110509,6 +110500,24 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/attractive-diamond-design-short-necklace-set?variant=gid://shopify/ProductVariant/67651670802659",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18714.jpg?v=1791530895"
+  },
+  "gid://shopify/ProductVariant/67651681255651": {
+    "product_title": "Simple Sparke Diamond Design Bangles",
+    "variant_title": "2.4",
+    "sku": "AMS-107-3630-2.4\"",
+    "price": 18800.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/simple-sparke-diamond-design-bangles?variant=gid://shopify/ProductVariant/67651681255651",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3630-2.4.jpg?v=1791531324"
+  },
+  "gid://shopify/ProductVariant/67651681550563": {
+    "product_title": "Niharikhaa Avikam Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18715",
+    "price": 23400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/niharikhaa-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/67651681550563",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18715.jpg?v=1791531273"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -122137,6 +122146,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/merakha-short-necklace?variant=gid://shopify/ProductVariant/47625288614115",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12734_9701dfc2-4249-4334-bb45-444456c33a43.jpg?v=1764079557"
+  },
+  "gid://shopify/ProductVariant/47625313157347": {
+    "product_title": "Grand Luxe Nagas Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-11199",
+    "price": 18000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/grand-luxe-nagas-jhumkas-2?variant=gid://shopify/ProductVariant/47625313157347",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11199.jpg?v=1763978623"
   },
   "gid://shopify/ProductVariant/47625799958755": {
     "product_title": "Heritage Nagas Jhumkas",
@@ -141199,6 +141217,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/stylish-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49575204028643",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17672.jpg?v=1787374961"
+  },
+  "gid://shopify/ProductVariant/49575207108835": {
+    "product_title": "Grandeur 3D Spl Long Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17676",
+    "price": 309200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/grandeur-3d-spl-long-necklace-set?variant=gid://shopify/ProductVariant/49575207108835",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17676.jpg?v=1787375226"
   },
   "gid://shopify/ProductVariant/49575228047587": {
     "product_title": "Divine Look 3D Spl Pendant with Earrings",
