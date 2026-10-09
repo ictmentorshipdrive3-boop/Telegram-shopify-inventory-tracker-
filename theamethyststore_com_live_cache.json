@@ -42718,7 +42718,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-10807",
     "price": 5073.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/pretty-look-bugadi-earrings?variant=gid://shopify/ProductVariant/47442174083299",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10807.jpg?v=1762163011"
   },
@@ -77750,15 +77750,6 @@
     "url": "https://www.theamethyststore.com/products/boho-earrings-1?variant=gid://shopify/ProductVariant/49405583884515",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14915.jpg?v=1784034906"
   },
-  "gid://shopify/ProductVariant/49405591716067": {
-    "product_title": "Glitter Boho Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14917",
-    "price": 12100.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/boho-earrings-2?variant=gid://shopify/ProductVariant/49405591716067",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14917.jpg?v=1784035069"
-  },
   "gid://shopify/ProductVariant/49405609017571": {
     "product_title": "Vanthikaa Long Earrings",
     "variant_title": "Default Title",
@@ -86170,7 +86161,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4894",
     "price": 27900.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/diamond-design-pendant-41?variant=gid://shopify/ProductVariant/49508880351459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4894.jpg?v=1786104543"
   },
@@ -110635,6 +110626,15 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/celestial-avikam-bracelet?variant=gid://shopify/ProductVariant/67652637491427",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1563.jpg?v=1791545029"
+  },
+  "gid://shopify/ProductVariant/67652639850723": {
+    "product_title": "Charismatic Avikam Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5262",
+    "price": 21900.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/charismatic-avikam-pendant?variant=gid://shopify/ProductVariant/67652639850723",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5262.jpg?v=1791545397"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -137473,6 +137473,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/long-earrings-39?variant=gid://shopify/ProductVariant/49405445046499",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14912.jpg?v=1784034208"
+  },
+  "gid://shopify/ProductVariant/49405591716067": {
+    "product_title": "Glitter Boho Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14917",
+    "price": 12100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/boho-earrings-2?variant=gid://shopify/ProductVariant/49405591716067",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14917.jpg?v=1784035069"
   },
   "gid://shopify/ProductVariant/49405616652515": {
     "product_title": "Aura Boho Long Earrings",
