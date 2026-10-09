@@ -67157,15 +67157,6 @@
     "url": "https://www.theamethyststore.com/products/dainty-avikam-choker?variant=gid://shopify/ProductVariant/48944191111395",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15774.jpg?v=1778653906"
   },
-  "gid://shopify/ProductVariant/48944191602915": {
-    "product_title": "Glittering Avikam Bracelet",
-    "variant_title": "Default Title",
-    "sku": "AMS-103-1310",
-    "price": 32600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/glittering-avikam-bracelet?variant=gid://shopify/ProductVariant/48944191602915",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1310.jpg?v=1778654281"
-  },
   "gid://shopify/ProductVariant/48944194912483": {
     "product_title": "Pakshati Pendant Set",
     "variant_title": "Default Title",
@@ -83668,7 +83659,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-1438",
     "price": 18500.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/avikam-bracelet-28?variant=gid://shopify/ProductVariant/49480881012963",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1438.jpg?v=1785505068"
   },
@@ -93082,7 +93073,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17460",
     "price": 185900.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/diamond-design-necklace-set-4?variant=gid://shopify/ProductVariant/49563771830499",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17460.jpg?v=1787228246"
   },
@@ -102274,15 +102265,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/kundan-drops-27?variant=gid://shopify/ProductVariant/49741306724579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16097.jpg?v=1789475841"
-  },
-  "gid://shopify/ProductVariant/49741315113187": {
-    "product_title": "Stunning Kundan Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-16098",
-    "price": 3967.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kundan-drops-28?variant=gid://shopify/ProductVariant/49741315113187",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16098.jpg?v=1789475957"
   },
   "gid://shopify/ProductVariant/49741332512995": {
     "product_title": "Ganisha  Kundan Drops",
@@ -130436,6 +130418,15 @@
     "url": "https://www.theamethyststore.com/products/elegant-avikam-choker?variant=gid://shopify/ProductVariant/48944176365795",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15716.jpg?v=1778652833"
   },
+  "gid://shopify/ProductVariant/48944191602915": {
+    "product_title": "Glittering Avikam Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1310",
+    "price": 32600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/glittering-avikam-bracelet?variant=gid://shopify/ProductVariant/48944191602915",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1310.jpg?v=1778654281"
+  },
   "gid://shopify/ProductVariant/48944192094435": {
     "product_title": "HantriAvikam Pendant Set",
     "variant_title": "Default Title",
@@ -142864,6 +142855,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/3d-spl-short-necklace-42?variant=gid://shopify/ProductVariant/49740932284643",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18018.jpg?v=1789471741"
+  },
+  "gid://shopify/ProductVariant/49741315113187": {
+    "product_title": "Stunning Kundan Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16098",
+    "price": 3967.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kundan-drops-28?variant=gid://shopify/ProductVariant/49741315113187",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16098.jpg?v=1789475957"
   },
   "gid://shopify/ProductVariant/49749507703011": {
     "product_title": "Abithaa Kundan Pendant",
