@@ -4315,7 +4315,7 @@
     "variant_title": "Default Title",
     "sku": "AC112",
     "price": 1890.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.kanshijewels.com/products/jadau-accessories-1?variant=gid://shopify/ProductVariant/47854162149676",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1800-min.jpg?v=1706268694"
   },
@@ -9629,15 +9629,6 @@
     "url": "https://www.kanshijewels.com/products/jadau-tika-6?variant=gid://shopify/ProductVariant/52445307601196",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_3119.jpg?v=1766141843"
   },
-  "gid://shopify/ProductVariant/52445326934316": {
-    "product_title": "Mossanite studs",
-    "variant_title": "Default Title",
-    "sku": "ER121",
-    "price": 1600.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-tika-copy-1?variant=gid://shopify/ProductVariant/52445326934316",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Mossanitestuds1600_cc618458-a9cf-484c-8057-33ee26a1e853.jpg?v=1766142488"
-  },
   "gid://shopify/ProductVariant/52445332013356": {
     "product_title": "Jadau jhumkas",
     "variant_title": "Default Title",
@@ -9754,6 +9745,15 @@
     "stock": 1,
     "url": "https://www.kanshijewels.com/products/jadau-jhumkas-6?variant=gid://shopify/ProductVariant/52445352788268",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadauearring1850.jpg?v=1766143309"
+  },
+  "gid://shopify/ProductVariant/52445356065068": {
+    "product_title": "Jadau studs",
+    "variant_title": "Default Title",
+    "sku": "ER106",
+    "price": 1400.0,
+    "stock": 9,
+    "url": "https://www.kanshijewels.com/products/jadau-studs-3?variant=gid://shopify/ProductVariant/52445356065068",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaustuds1400.jpg?v=1766143409"
   },
   "gid://shopify/ProductVariant/52445356884268": {
     "product_title": "Jadau jhumkas",
@@ -14452,15 +14452,6 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/mossanite-studs-5?variant=gid://shopify/ProductVariant/52445344956716",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaustuds1450.jpg?v=1766142924"
-  },
-  "gid://shopify/ProductVariant/52445356065068": {
-    "product_title": "Jadau studs",
-    "variant_title": "Default Title",
-    "sku": "ER106",
-    "price": 1400.0,
-    "stock": 0,
-    "url": "https://www.kanshijewels.com/products/jadau-studs-3?variant=gid://shopify/ProductVariant/52445356065068",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaustuds1400.jpg?v=1766143409"
   },
   "gid://shopify/ProductVariant/52445361602860": {
     "product_title": "Jadau studs",
