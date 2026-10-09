@@ -16316,15 +16316,6 @@
     "url": "https://www.rasasilver.com/products/sampada-temple-jhumka-copy?variant=gid://shopify/ProductVariant/53103968157993",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May0100_resized.jpg?v=1781862403"
   },
-  "gid://shopify/ProductVariant/53108239565097": {
-    "product_title": "Tarika Kundan Studs",
-    "variant_title": "Default Title",
-    "sku": "R6440",
-    "price": 3995.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/tarika-kundan-studs?variant=gid://shopify/ProductVariant/53108239565097",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May0928_resized.jpg?v=1781865633"
-  },
   "gid://shopify/ProductVariant/53108346519849": {
     "product_title": "Zarnika Moissanite Studs",
     "variant_title": "Default Title",
@@ -21094,15 +21085,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/laurel-spark-bracelet?variant=gid://shopify/ProductVariant/53396598849833",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19332.jpg?v=1786606162"
-  },
-  "gid://shopify/ProductVariant/53396621394217": {
-    "product_title": "Flower Stone Buggadi",
-    "variant_title": "Default Title",
-    "sku": "R29153",
-    "price": 1190.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/flower-stone-buggadi?variant=gid://shopify/ProductVariant/53396621394217",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38659.jpg?v=1786606465"
   },
   "gid://shopify/ProductVariant/53396665041193": {
     "product_title": "Flower-Pearl Chain Pendant Set",
@@ -43658,6 +43640,15 @@
     "url": "https://www.rasasilver.com/products/emflora-cz-studs-copy?variant=gid://shopify/ProductVariant/53103994175785",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May0980_resized.jpg?v=1781862736"
   },
+  "gid://shopify/ProductVariant/53108239565097": {
+    "product_title": "Tarika Kundan Studs",
+    "variant_title": "Default Title",
+    "sku": "R6440",
+    "price": 3995.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/tarika-kundan-studs?variant=gid://shopify/ProductVariant/53108239565097",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May0928_resized.jpg?v=1781865633"
+  },
   "gid://shopify/ProductVariant/53108279968041": {
     "product_title": "Harini Moissanite Studs",
     "variant_title": "Default Title",
@@ -47438,6 +47429,15 @@
     "url": "https://www.rasasilver.com/products/circle-of-spark-bracelet?variant=gid://shopify/ProductVariant/53394202067241",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19310.jpg?v=1786604322"
   },
+  "gid://shopify/ProductVariant/53396621394217": {
+    "product_title": "Flower Stone Buggadi",
+    "variant_title": "Default Title",
+    "sku": "R29153",
+    "price": 1190.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/flower-stone-buggadi?variant=gid://shopify/ProductVariant/53396621394217",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38659.jpg?v=1786606465"
+  },
   "gid://shopify/ProductVariant/53398244786473": {
     "product_title": "Nakshi Alankara Chandbali",
     "variant_title": "Default Title",
@@ -48841,5 +48841,14 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/bhavani-temple-bangles?variant=gid://shopify/ProductVariant/67577070125353",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct3180.jpg?v=1791370100"
+  },
+  "gid://shopify/ProductVariant/67568970596649": {
+    "product_title": "Vaishnavi Temple Bangles",
+    "variant_title": "2.4",
+    "sku": "R37624",
+    "price": 35530.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/vaishnavi-temple-bangles?variant=gid://shopify/ProductVariant/67568970596649",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct3217.jpg?v=1791370295"
   }
 }
