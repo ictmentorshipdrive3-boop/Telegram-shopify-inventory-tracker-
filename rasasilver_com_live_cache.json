@@ -6371,15 +6371,6 @@
     "url": "https://www.rasasilver.com/products/pushpa-manohari-pendant?variant=gid://shopify/ProductVariant/51494790660393",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0232copy_resized_1.jpg?v=1762941054"
   },
-  "gid://shopify/ProductVariant/51495547961641": {
-    "product_title": "Nayira Bloom Payal",
-    "variant_title": "GREEN",
-    "sku": "R16457",
-    "price": 24140.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/nayira-bloom-payal?variant=gid://shopify/ProductVariant/51495547961641",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0147_copy.jpg?v=1763448906"
-  },
   "gid://shopify/ProductVariant/51495379271977": {
     "product_title": "Aaryushi Silver Payal",
     "variant_title": "Ruby Pink",
@@ -16748,15 +16739,6 @@
     "url": "https://www.rasasilver.com/products/legacy-shine-victorian-danglers?variant=gid://shopify/ProductVariant/53149261201705",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0034_resized.jpg?v=1780491880"
   },
-  "gid://shopify/ProductVariant/53149276733737": {
-    "product_title": "Flora-Pink Oxidized Payal",
-    "variant_title": "Default Title",
-    "sku": "R21880",
-    "price": 4356.25,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/flora-pink-oxidized-payal?variant=gid://shopify/ProductVariant/53149276733737",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0718_resized.jpg?v=1780925424"
-  },
   "gid://shopify/ProductVariant/53149351313705": {
     "product_title": "Pallavi Antique Haath Phool",
     "variant_title": "Default Title",
@@ -17995,7 +17977,7 @@
     "variant_title": "Default Title",
     "sku": "R31564",
     "price": 2380.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/shine-rose-bracelet?variant=gid://shopify/ProductVariant/53284825694505",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13234_resized.jpg?v=1782222692"
   },
@@ -19825,15 +19807,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/rani-pearl-kundan-matil?variant=gid://shopify/ProductVariant/53334207004969",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0701_resized.jpg?v=1784185029"
-  },
-  "gid://shopify/ProductVariant/53334249341225": {
-    "product_title": "Moissanite Mathapatti",
-    "variant_title": "Default Title",
-    "sku": "R30586",
-    "price": 25500.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/moissanite-mathapatti?variant=gid://shopify/ProductVariant/53334249341225",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0847_resized.jpg?v=1784185194"
   },
   "gid://shopify/ProductVariant/53334260547881": {
     "product_title": "Dulhan Floral Kundan Nath",
@@ -30868,6 +30841,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/dwimukhi-kamarbandh?variant=gid://shopify/ProductVariant/51495227818281",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_297Pics_07Oct34609_resized.jpg?v=1763392154"
+  },
+  "gid://shopify/ProductVariant/51495547961641": {
+    "product_title": "Nayira Bloom Payal",
+    "variant_title": "GREEN",
+    "sku": "R16457",
+    "price": 24140.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/nayira-bloom-payal?variant=gid://shopify/ProductVariant/51495547961641",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0147_copy.jpg?v=1763448906"
   },
   "gid://shopify/ProductVariant/51495547994409": {
     "product_title": "Nayira Bloom Payal",
@@ -44180,6 +44162,15 @@
     "url": "https://www.rasasilver.com/products/eternal-link-bracelet?variant=gid://shopify/ProductVariant/53149272277289",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0737_resized_134be3cf-0873-4171-9d83-5e0af2f11846.jpg?v=1785753222"
   },
+  "gid://shopify/ProductVariant/53149276733737": {
+    "product_title": "Flora-Pink Oxidized Payal",
+    "variant_title": "Default Title",
+    "sku": "R21880",
+    "price": 4356.25,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/flora-pink-oxidized-payal?variant=gid://shopify/ProductVariant/53149276733737",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0718_resized.jpg?v=1780925424"
+  },
   "gid://shopify/ProductVariant/53149330932009": {
     "product_title": "Aarna Bracelet",
     "variant_title": "Default Title",
@@ -46825,6 +46816,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/pearl-sampada-moissanite-matil?variant=gid://shopify/ProductVariant/53334206251305",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__12Sep2431.jpg?v=1790066680"
+  },
+  "gid://shopify/ProductVariant/53334249341225": {
+    "product_title": "Moissanite Mathapatti",
+    "variant_title": "Default Title",
+    "sku": "R30586",
+    "price": 25500.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/moissanite-mathapatti?variant=gid://shopify/ProductVariant/53334249341225",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0847_resized.jpg?v=1784185194"
   },
   "gid://shopify/ProductVariant/53334492840233": {
     "product_title": "Queen's Brilliance Moissanite Necklace",
