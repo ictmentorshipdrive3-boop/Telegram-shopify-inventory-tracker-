@@ -6515,15 +6515,6 @@
     "url": "https://www.rasasilver.com/products/trishvika-payal?variant=gid://shopify/ProductVariant/51495797129513",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0133_copy.jpg?v=1763449047"
   },
-  "gid://shopify/ProductVariant/51495781597481": {
-    "product_title": "Noorvel Silver Payal",
-    "variant_title": "Default Title",
-    "sku": "R16500",
-    "price": 20825.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/noorvel-silver-payal?variant=gid://shopify/ProductVariant/51495781597481",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0048copy_1.jpg?v=1763456619"
-  },
   "gid://shopify/ProductVariant/51500124406057": {
     "product_title": "Celestigon Polki Necklace Set",
     "variant_title": "Default Title",
@@ -30941,6 +30932,15 @@
     "url": "https://www.rasasilver.com/products/trephool-silver-payal?variant=gid://shopify/ProductVariant/51495679131945",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0084copy.jpg?v=1763451890"
   },
+  "gid://shopify/ProductVariant/51495781597481": {
+    "product_title": "Noorvel Silver Payal",
+    "variant_title": "Default Title",
+    "sku": "R16500",
+    "price": 20825.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/noorvel-silver-payal?variant=gid://shopify/ProductVariant/51495781597481",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0048copy_1.jpg?v=1763456619"
+  },
   "gid://shopify/ProductVariant/51500129747241": {
     "product_title": "Flower Gems Elegance Set",
     "variant_title": "Default Title",
@@ -48850,5 +48850,23 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/vaishnavi-temple-bangles?variant=gid://shopify/ProductVariant/67568970596649",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct3217.jpg?v=1791370295"
+  },
+  "gid://shopify/ProductVariant/67568985047337": {
+    "product_title": "Parijatha Temple Bangles",
+    "variant_title": "2.4",
+    "sku": "R37632",
+    "price": 33830.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/parijatha-temple-bangles?variant=gid://shopify/ProductVariant/67568985047337",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct3200.jpg?v=1791370461"
+  },
+  "gid://shopify/ProductVariant/67594689904937": {
+    "product_title": "The Windsor Moissanite Ring",
+    "variant_title": "Default Title",
+    "sku": "R30760",
+    "price": 11220.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/the-windsor-victorian-ring?variant=gid://shopify/ProductVariant/67594689904937",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageOct9_2026_11_52_00AM_c061e8e5-7b15-472d-905d-96a954f9a2a2.png?v=1791527037"
   }
 }
