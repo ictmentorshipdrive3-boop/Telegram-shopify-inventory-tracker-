@@ -12235,7 +12235,7 @@
     "variant_title": "Default Title",
     "sku": "1293",
     "price": 599.0,
-    "stock": 35,
+    "stock": 34,
     "url": "https://www.daivik.in/products/diamond-look-alike-floral-necklace-with-earrings?variant=gid://shopify/ProductVariant/47058250170590",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1CE9BAB9-6D33-4B51-8A34-5358DAE8B17C.jpg?v=1790318745"
   },
@@ -13072,7 +13072,7 @@
     "variant_title": "Ruby",
     "sku": "1663",
     "price": 599.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/ad-flower-layer-jhumkas?variant=gid://shopify/ProductVariant/47471681765598",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3227D9E3-A3F4-463A-AF86-3E59E3A480DF.jpg?v=1756278736"
   },
@@ -13144,7 +13144,7 @@
     "variant_title": "Default Title",
     "sku": "1669",
     "price": 499.0,
-    "stock": 54,
+    "stock": 53,
     "url": "https://www.daivik.in/products/antique-kids-floral-jhumkas?variant=gid://shopify/ProductVariant/47490343207134",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A47B5CEA-AC4E-4CF5-8818-977205037DB1.jpg?v=1756623443"
   },
@@ -15529,7 +15529,7 @@
     "variant_title": "Default Title",
     "sku": "1700",
     "price": 499.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.daivik.in/products/ad-designer-openable-kada?variant=gid://shopify/ProductVariant/47564482576606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F6B8DA98-BEC0-4D00-A394-F6DC0A6DC9CF.jpg?v=1758971638"
   },
@@ -20933,15 +20933,6 @@
     "url": "https://www.daivik.in/products/pearl-kemp-floral-droplet-balis?variant=gid://shopify/ProductVariant/48623898886366",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F07B3D62-F7C5-4A9C-AF33-EA3958501861.jpg?v=1787313150"
   },
-  "gid://shopify/ProductVariant/48624208937182": {
-    "product_title": "Guttapusalu Balaji Long Haram and Choker with Earrings",
-    "variant_title": "Default Title",
-    "sku": "928",
-    "price": 7499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/balaji-haram?variant=gid://shopify/ProductVariant/48624208937182",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5F1292F7-1238-4DCB-B513-CCB1A7D8A251.jpg?v=1787331525"
-  },
   "gid://shopify/ProductVariant/48629356986590": {
     "product_title": "Balaji Black Thread Bracelet",
     "variant_title": "Default Title",
@@ -21532,7 +21523,7 @@
     "variant_title": "Default Title",
     "sku": "1974",
     "price": 399.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/simple-ad-small-jhumkas?variant=gid://shopify/ProductVariant/49118521032926",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FD5CA177-93E7-4ADE-B6F1-6218218BD53F.jpg?v=1790593662"
   },
@@ -30931,6 +30922,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-lakshmi-kada?variant=gid://shopify/ProductVariant/48606013128926",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C212A11D-8F23-46DE-8894-E34661B11E0C.jpg?v=1786900231"
+  },
+  "gid://shopify/ProductVariant/48624208937182": {
+    "product_title": "Guttapusalu Balaji Long Haram and Choker with Earrings",
+    "variant_title": "Default Title",
+    "sku": "928",
+    "price": 7499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/balaji-haram?variant=gid://shopify/ProductVariant/48624208937182",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5F1292F7-1238-4DCB-B513-CCB1A7D8A251.jpg?v=1787331525"
   },
   "gid://shopify/ProductVariant/48801242218718": {
     "product_title": "Rashmika Inspired Lakshmi Coin Mangalsutra",
