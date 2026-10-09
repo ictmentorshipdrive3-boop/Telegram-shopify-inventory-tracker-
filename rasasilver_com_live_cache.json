@@ -10048,7 +10048,7 @@
     "variant_title": "Default Title",
     "sku": "R14289",
     "price": 5695.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/pearla-bracelet?variant=gid://shopify/ProductVariant/52446507008297",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0503copy.jpg?v=1768643921"
   },
@@ -22615,15 +22615,6 @@
     "stock": 3,
     "url": "https://www.rasasilver.com/products/flora-panna-stone-nose-pin?variant=gid://shopify/ProductVariant/53479146586409",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459353.jpg?v=1789123707"
-  },
-  "gid://shopify/ProductVariant/53479232078121": {
-    "product_title": "Kumkumika Stone Nose Pin",
-    "variant_title": "Default Title",
-    "sku": "R28040",
-    "price": 600.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/kumkumika-stone-nose-pin?variant=gid://shopify/ProductVariant/53479232078121",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459345.jpg?v=1789123802"
   },
   "gid://shopify/ProductVariant/53479381303593": {
     "product_title": "Sitara Stone Septum Ring",
@@ -47969,6 +47960,15 @@
     "url": "https://www.rasasilver.com/products/nivara-stone-nath?variant=gid://shopify/ProductVariant/53479070925097",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459270.jpg?v=1789111254"
   },
+  "gid://shopify/ProductVariant/53479232078121": {
+    "product_title": "Kumkumika Stone Nose Pin",
+    "variant_title": "Default Title",
+    "sku": "R28040",
+    "price": 600.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/kumkumika-stone-nose-pin?variant=gid://shopify/ProductVariant/53479232078121",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459345.jpg?v=1789123802"
+  },
   "gid://shopify/ProductVariant/53479441695017": {
     "product_title": "Sitara-Hari Stone Septum Ring",
     "variant_title": "Default Title",
@@ -48823,5 +48823,14 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/meenakshi-temple-bangles?variant=gid://shopify/ProductVariant/67577028509993",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct3192.jpg?v=1791369713"
+  },
+  "gid://shopify/ProductVariant/67577048334633": {
+    "product_title": "Ambika Kasu Temple Bangles",
+    "variant_title": "2.4",
+    "sku": "R33180",
+    "price": 37230.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ambika-temple-bangles?variant=gid://shopify/ProductVariant/67577048334633",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct3230.jpg?v=1791369936"
   }
 }
