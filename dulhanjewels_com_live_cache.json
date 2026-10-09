@@ -6848,15 +6848,6 @@
     "url": "https://www.dulhanjewels.com/products/stylish-jadau-kundan-earrings-with-layered-accents?variant=gid://shopify/ProductVariant/67870704501042",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_155171f1-8102-4e32-b7e7-03e2bf11237e.jpg?v=1791538245"
   },
-  "gid://shopify/ProductVariant/67870730256690": {
-    "product_title": "Simple Jadau Kundan Champasaralu With Pearl Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1000.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/simple-jadau-kundan-champasaralu-with-pearl-drops?variant=gid://shopify/ProductVariant/67870730256690",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_cae2bc20-db0e-4579-9df3-60239256a3fc.jpg?v=1791016626"
-  },
   "gid://shopify/ProductVariant/67870732812594": {
     "product_title": "Dazzling Jadau Kundan Earrings With Stunning Stonework",
     "variant_title": "Default Title",
@@ -7298,15 +7289,6 @@
     "url": "https://www.dulhanjewels.com/products/designer-jadau-kundan-wrist-watch?variant=gid://shopify/ProductVariant/67933109092658",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/57B12868-4D12-4C98-9C19-8290D1C83A76.jpg?v=1791450170"
   },
-  "gid://shopify/ProductVariant/67933978034482": {
-    "product_title": "Bridal Jadau Kundan Exclusive 2 Step Necklace With Green Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 6000.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/bridal-jadau-kundan-exclusive-2-step-necklace-with-green-drops?variant=gid://shopify/ProductVariant/67933978034482",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-1910.jpg?v=1791451856"
-  },
   "gid://shopify/ProductVariant/67934223270194": {
     "product_title": "Simple Nakshi Jadau Kundan Choker",
     "variant_title": "Default Title",
@@ -7468,5 +7450,23 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/ethnic-j-adau-kundan-kanti-with-green-drops?variant=gid://shopify/ProductVariant/67592031043890",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-1325.jpg?v=1790421416"
+  },
+  "gid://shopify/ProductVariant/67870730256690": {
+    "product_title": "Simple Jadau Kundan Champasaralu With Pearl Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1000.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/simple-jadau-kundan-champasaralu-with-pearl-drops?variant=gid://shopify/ProductVariant/67870730256690",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_cae2bc20-db0e-4579-9df3-60239256a3fc.jpg?v=1791016626"
+  },
+  "gid://shopify/ProductVariant/67933978034482": {
+    "product_title": "Bridal Jadau Kundan Exclusive 2 Step Necklace With Green Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 6000.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/bridal-jadau-kundan-exclusive-2-step-necklace-with-green-drops?variant=gid://shopify/ProductVariant/67933978034482",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-1910.jpg?v=1791451856"
   }
 }
