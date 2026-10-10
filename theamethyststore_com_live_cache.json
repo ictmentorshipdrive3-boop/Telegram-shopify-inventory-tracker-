@@ -27305,15 +27305,6 @@
     "url": "https://www.theamethyststore.com/products/divya-toe-ring?variant=gid://shopify/ProductVariant/47020103008483",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0261_1.jpg?v=1755087004"
   },
-  "gid://shopify/ProductVariant/47020144328931": {
-    "product_title": "Janvi Toe Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-117-0264",
-    "price": 2600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/janvi-toe-ring?variant=gid://shopify/ProductVariant/47020144328931",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0264_1.jpg?v=1755087975"
-  },
   "gid://shopify/ProductVariant/47020151537891": {
     "product_title": "Kanvi Toe Ring",
     "variant_title": "Default Title",
@@ -66778,15 +66769,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/avikam-bracelet-2?variant=gid://shopify/ProductVariant/48931727868131",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1312.jpg?v=1778501014"
-  },
-  "gid://shopify/ProductVariant/48931743727843": {
-    "product_title": "Mahaghosha Avikam Bracelet",
-    "variant_title": "Default Title",
-    "sku": "AMS-103-1315",
-    "price": 11300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/mahaghosha-avikam-bracelet?variant=gid://shopify/ProductVariant/48931743727843",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1315.jpg?v=1778506179"
   },
   "gid://shopify/ProductVariant/48936354316515": {
     "product_title": "Keelakrit Kundan Pendant",
@@ -118754,6 +118736,15 @@
     "url": "https://www.theamethyststore.com/products/geeth-toe-ring?variant=gid://shopify/ProductVariant/47020111167715",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0262_1.jpg?v=1755087319"
   },
+  "gid://shopify/ProductVariant/47020144328931": {
+    "product_title": "Janvi Toe Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-117-0264",
+    "price": 2600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/janvi-toe-ring?variant=gid://shopify/ProductVariant/47020144328931",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0264_1.jpg?v=1755087975"
+  },
   "gid://shopify/ProductVariant/47020168282339": {
     "product_title": "Paavai Toe Ring",
     "variant_title": "Default Title",
@@ -131002,6 +130993,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/avikam-bracelet-1?variant=gid://shopify/ProductVariant/48931645391075",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1311.jpg?v=1778500511"
+  },
+  "gid://shopify/ProductVariant/48931743727843": {
+    "product_title": "Mahaghosha Avikam Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1315",
+    "price": 11300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/mahaghosha-avikam-bracelet?variant=gid://shopify/ProductVariant/48931743727843",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1315.jpg?v=1778506179"
   },
   "gid://shopify/ProductVariant/48936414445795": {
     "product_title": "Lingardha Kundan Pendant",
