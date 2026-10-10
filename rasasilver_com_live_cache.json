@@ -17432,15 +17432,6 @@
     "url": "https://www.rasasilver.com/products/gulnaar-nakshi-choker?variant=gid://shopify/ProductVariant/53267643859241",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262154_resized.jpg?v=1781544502"
   },
-  "gid://shopify/ProductVariant/53267704185129": {
-    "product_title": "Aishani Stone Matil",
-    "variant_title": "Default Title",
-    "sku": "R28489",
-    "price": 11220.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/aishani-stone-matil?variant=gid://shopify/ProductVariant/53267704185129",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262100_resized.jpg?v=1781545578"
-  },
   "gid://shopify/ProductVariant/53267719192873": {
     "product_title": "Pear-Panna Stone Matil",
     "variant_title": "Default Title",
@@ -44954,6 +44945,15 @@
     "url": "https://www.rasasilver.com/products/kanakshri-matil?variant=gid://shopify/ProductVariant/53267698614569",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262127_resized.jpg?v=1781545192"
   },
+  "gid://shopify/ProductVariant/53267704185129": {
+    "product_title": "Aishani Stone Matil",
+    "variant_title": "Default Title",
+    "sku": "R28489",
+    "price": 11220.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/aishani-stone-matil?variant=gid://shopify/ProductVariant/53267704185129",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262100_resized.jpg?v=1781545578"
+  },
   "gid://shopify/ProductVariant/53267713720617": {
     "product_title": "Pear-Tara Stone Matil",
     "variant_title": "Default Title",
@@ -48985,6 +48985,24 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/saanvi-nakshi-studs?variant=gid://shopify/ProductVariant/67574035677481",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct21216.jpg?v=1791371732"
+  },
+  "gid://shopify/ProductVariant/67574044033321": {
+    "product_title": "Elysian Pear CZ Studs",
+    "variant_title": "Default Title",
+    "sku": "R35427",
+    "price": 6120.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/elysian-pear-cz-studs?variant=gid://shopify/ProductVariant/67574044033321",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct21194.jpg?v=1791375313"
+  },
+  "gid://shopify/ProductVariant/67574052749609": {
+    "product_title": "StellaFlex CZ Studs",
+    "variant_title": "Default Title",
+    "sku": "R36260",
+    "price": 5695.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/stellaflex-cz-studs?variant=gid://shopify/ProductVariant/67574052749609",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct21180.jpg?v=1791375502"
   },
   "gid://shopify/ProductVariant/67594689904937": {
     "product_title": "The Windsor Moissanite Ring",
