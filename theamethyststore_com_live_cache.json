@@ -1003,7 +1003,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-2267",
     "price": 5135.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/ballota-studs?variant=gid://shopify/ProductVariant/42387419693283",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-2267_d9b5a5e9-49b1-42e9-ac37-a2a22f97d104.jpg?v=1687325254"
   },
@@ -4270,7 +4270,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-119-0003",
     "price": 13500.0,
-    "stock": 25,
+    "stock": 24,
     "url": "https://www.theamethyststore.com/products/mini-choker-side-chain?variant=gid://shopify/ProductVariant/43788506136803",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-119-0003.jpg?v=1699516378"
   },
@@ -4918,7 +4918,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-4586",
     "price": 68480.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/red-stone-short-necklace?variant=gid://shopify/ProductVariant/43895389552867",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-4586_1.jpg?v=1689852388"
   },
@@ -38717,15 +38717,6 @@
     "url": "https://www.theamethyststore.com/products/glittering-long-earrings-1?variant=gid://shopify/ProductVariant/47248124510435",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10410.jpg?v=1759820483"
   },
-  "gid://shopify/ProductVariant/47248198598883": {
-    "product_title": "Siranya Stone Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-10939",
-    "price": 13719.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/siranya-stone-jhumkas?variant=gid://shopify/ProductVariant/47248198598883",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10939.jpg?v=1759820711"
-  },
   "gid://shopify/ProductVariant/47248249880803": {
     "product_title": "Kayal Stone Jhumkas",
     "variant_title": "Default Title",
@@ -60325,15 +60316,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/arunika-guttapusalu-long-necklace-set?variant=gid://shopify/ProductVariant/48468732379363",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15139.jpg?v=1773729188"
-  },
-  "gid://shopify/ProductVariant/48468927217891": {
-    "product_title": "Vithruka Guttapusalu Long Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15144",
-    "price": 172867.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/vithruka-guttapusalu-long-necklace-set?variant=gid://shopify/ProductVariant/48468927217891",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15144.jpg?v=1773729761"
   },
   "gid://shopify/ProductVariant/48469352055011": {
     "product_title": "Kashvi Guttapusalu Long Necklace Set",
@@ -121256,6 +121238,15 @@
     "url": "https://www.theamethyststore.com/products/sherin-stone-jhumkas?variant=gid://shopify/ProductVariant/47247589048547",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10930.jpg?v=1759818846"
   },
+  "gid://shopify/ProductVariant/47248198598883": {
+    "product_title": "Siranya Stone Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-10939",
+    "price": 13719.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/siranya-stone-jhumkas?variant=gid://shopify/ProductVariant/47248198598883",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10939.jpg?v=1759820711"
+  },
   "gid://shopify/ProductVariant/47248471228643": {
     "product_title": "Selvi Stone Jhumkas",
     "variant_title": "Default Title",
@@ -128113,6 +128104,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/jivika-oxidised-short-necklace?variant=gid://shopify/ProductVariant/48465314808035",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11400_d2a2fe3e-a203-4ce4-a239-d48c40f5fa58.jpg?v=1774587733"
+  },
+  "gid://shopify/ProductVariant/48468927217891": {
+    "product_title": "Vithruka Guttapusalu Long Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15144",
+    "price": 172867.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vithruka-guttapusalu-long-necklace-set?variant=gid://shopify/ProductVariant/48468927217891",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15144.jpg?v=1773729761"
   },
   "gid://shopify/ProductVariant/48469732327651": {
     "product_title": "Frithika Guttapusalu Necklace",
