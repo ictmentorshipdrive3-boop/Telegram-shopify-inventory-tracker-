@@ -46102,7 +46102,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-11465",
     "price": 9600.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/spark-charm-stud?variant=gid://shopify/ProductVariant/47721609691363",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11465.jpg?v=1765348558"
   },
@@ -91933,24 +91933,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/bugadi-earrings-16?variant=gid://shopify/ProductVariant/49555062587619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15795.jpg?v=1787052624"
-  },
-  "gid://shopify/ProductVariant/49674848895203": {
-    "product_title": "Bridal Like Jada Billa",
-    "variant_title": "Chandran",
-    "sku": "AMS-112-0903-CHAAND",
-    "price": 6093.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/traditional-jada-billa?variant=gid://shopify/ProductVariant/49674848895203",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0903_4.jpg?v=1787052693"
-  },
-  "gid://shopify/ProductVariant/49681949229283": {
-    "product_title": "Bridal Like Jada Billa",
-    "variant_title": "Suryan",
-    "sku": "AMS-112-0903-SURAJ",
-    "price": 7334.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/traditional-jada-billa?variant=gid://shopify/ProductVariant/49681949229283",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0903_4.jpg?v=1787052693"
   },
   "gid://shopify/ProductVariant/49555071959267": {
     "product_title": "Dhivanikaa Bugadi Earrings",
@@ -141703,6 +141685,24 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/akitha-kundan-pair-bangles?variant=gid://shopify/ProductVariant/49554552783075",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3569.jpg?v=1787049024"
+  },
+  "gid://shopify/ProductVariant/49674848895203": {
+    "product_title": "Bridal Like Jada Billa",
+    "variant_title": "Chandran",
+    "sku": "AMS-112-0903-CHAAND",
+    "price": 6093.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/traditional-jada-billa?variant=gid://shopify/ProductVariant/49674848895203",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0903_4.jpg?v=1787052693"
+  },
+  "gid://shopify/ProductVariant/49681949229283": {
+    "product_title": "Bridal Like Jada Billa",
+    "variant_title": "Suryan",
+    "sku": "AMS-112-0903-SURAJ",
+    "price": 7334.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/traditional-jada-billa?variant=gid://shopify/ProductVariant/49681949229283",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0903_4.jpg?v=1787052693"
   },
   "gid://shopify/ProductVariant/49674849321187": {
     "product_title": "Bridal Like Jada Billa",
