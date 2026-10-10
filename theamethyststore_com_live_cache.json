@@ -53428,7 +53428,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-12635",
     "price": 11000.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/stunning-stud-1?variant=gid://shopify/ProductVariant/47920550543587",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12635.jpg?v=1770211642"
   },
@@ -83816,15 +83816,6 @@
     "url": "https://www.theamethyststore.com/products/avikam-choker?variant=gid://shopify/ProductVariant/49483749589219",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17335.jpg?v=1785590640"
   },
-  "gid://shopify/ProductVariant/49483856412899": {
-    "product_title": "Catchy Avikam Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17339",
-    "price": 93200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/avikam-necklace-set-8?variant=gid://shopify/ProductVariant/49483856412899",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17339.jpg?v=1785591937"
-  },
   "gid://shopify/ProductVariant/49483880562915": {
     "product_title": "Marivelle Avikam Necklace Set",
     "variant_title": "Default Title",
@@ -100021,7 +100012,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5132",
     "price": 23400.0,
-    "stock": 1,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/adoring-diamond-design-pendant?variant=gid://shopify/ProductVariant/49718175989987",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5132.jpg?v=1789103123"
   },
@@ -139507,6 +139498,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/shikhari-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49483848876259",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16995.jpg?v=1785591617"
+  },
+  "gid://shopify/ProductVariant/49483856412899": {
+    "product_title": "Catchy Avikam Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17339",
+    "price": 93200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/avikam-necklace-set-8?variant=gid://shopify/ProductVariant/49483856412899",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17339.jpg?v=1785591937"
   },
   "gid://shopify/ProductVariant/49483975491811": {
     "product_title": "Majestic Victorian Short Necklace Set",
