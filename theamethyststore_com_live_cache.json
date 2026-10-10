@@ -50273,15 +50273,6 @@
     "url": "https://www.theamethyststore.com/products/swarnitha-stone-studs-1?variant=gid://shopify/ProductVariant/47831489380579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11774.jpg?v=1768479955"
   },
-  "gid://shopify/ProductVariant/47831494820067": {
-    "product_title": "Liyasri Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-11777",
-    "price": 3898.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/liyasri-stone-studs?variant=gid://shopify/ProductVariant/47831494820067",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11777.jpg?v=1768480147"
-  },
   "gid://shopify/ProductVariant/47831533519075": {
     "product_title": "Bhavikha Stone Studs",
     "variant_title": "Default Title",
@@ -70852,7 +70843,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-16371",
     "price": 12400.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/glorious-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49283201106147",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16371_3dfbc925-be55-4707-b1e4-2bec526be200.jpg?v=1782821563"
   },
@@ -72232,15 +72223,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-pendant-44?variant=gid://shopify/ProductVariant/49318179569891",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4296.jpg?v=1782478596"
-  },
-  "gid://shopify/ProductVariant/49318184026339": {
-    "product_title": "Stunning Stone Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-4298",
-    "price": 6721.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/stone-pendant-45?variant=gid://shopify/ProductVariant/49318184026339",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4298.jpg?v=1782478729"
   },
   "gid://shopify/ProductVariant/49318191562979": {
     "product_title": "Velushmita 3D Spl Pendant",
@@ -124685,6 +124667,15 @@
     "url": "https://www.theamethyststore.com/products/stone-studs-27?variant=gid://shopify/ProductVariant/47831487119587",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11771.jpg?v=1768479782"
   },
+  "gid://shopify/ProductVariant/47831494820067": {
+    "product_title": "Liyasri Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-11777",
+    "price": 3898.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/liyasri-stone-studs?variant=gid://shopify/ProductVariant/47831494820067",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11777.jpg?v=1768480147"
+  },
   "gid://shopify/ProductVariant/47831620223203": {
     "product_title": "Sasha Stone Studs",
     "variant_title": "Default Title",
@@ -135007,6 +134998,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/shinning-stone-pendant-5?variant=gid://shopify/ProductVariant/49318182224099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4325.jpg?v=1782478707"
+  },
+  "gid://shopify/ProductVariant/49318184026339": {
+    "product_title": "Stunning Stone Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4298",
+    "price": 6721.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/stone-pendant-45?variant=gid://shopify/ProductVariant/49318184026339",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4298.jpg?v=1782478729"
   },
   "gid://shopify/ProductVariant/49318191890659": {
     "product_title": "Dhivinkha Stone Pendant",
