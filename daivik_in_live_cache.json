@@ -1084,7 +1084,7 @@
     "variant_title": "Default Title",
     "sku": "777",
     "price": 2199.0,
-    "stock": 46,
+    "stock": 45,
     "url": "https://www.daivik.in/products/kemp-ad-necklace-with-earrings-1?variant=gid://shopify/ProductVariant/40549322981529",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_c843d144-269c-43df-84b5-d66de6952be0.jpg?v=1641477030"
   },
@@ -2236,7 +2236,7 @@
     "variant_title": "Default Title",
     "sku": "277",
     "price": 599.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.daivik.in/products/ad-white-gold-teeka?variant=gid://shopify/ProductVariant/42641179345118",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_cab7af53-ce70-4200-8b35-a70dcb200b07.heic?v=1648999204"
   },
@@ -3667,7 +3667,7 @@
     "variant_title": "1.",
     "sku": "596",
     "price": 999.0,
-    "stock": 33,
+    "stock": 32,
     "url": "https://www.daivik.in/products/a-44?variant=gid://shopify/ProductVariant/44131700048094",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_091bb76a-2a60-4347-9eeb-5949c7a4d549.heic?v=1680874629"
   },
@@ -3676,7 +3676,7 @@
     "variant_title": "4.",
     "sku": "596",
     "price": 1799.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.daivik.in/products/a-44?variant=gid://shopify/ProductVariant/44131779543262",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_091bb76a-2a60-4347-9eeb-5949c7a4d549.heic?v=1680874629"
   },
@@ -4243,7 +4243,7 @@
     "variant_title": "Default Title",
     "sku": "195",
     "price": 3199.0,
-    "stock": 25,
+    "stock": 24,
     "url": "https://www.daivik.in/products/peacock-jhumkas-with-mattals?variant=gid://shopify/ProductVariant/44266482663646",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_b934199b-b3b7-495b-98cb-a6a2d25b979a.heic?v=1689177094"
   },
@@ -4621,7 +4621,7 @@
     "variant_title": "2.6",
     "sku": "73",
     "price": 699.0,
-    "stock": 51,
+    "stock": 50,
     "url": "https://www.daivik.in/products/antique-lakshmi-white-stone-bangles?variant=gid://shopify/ProductVariant/44369095000286",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/77947BBF-DB6F-4632-B632-B2DBC4C85B6D.jpg?v=1696002712"
   },
@@ -19426,7 +19426,7 @@
     "variant_title": "Default Title",
     "sku": "1388",
     "price": 1399.0,
-    "stock": 40,
+    "stock": 39,
     "url": "https://www.daivik.in/products/a-31?variant=gid://shopify/ProductVariant/48267346772190",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CF4CC19F-42B5-4786-BFF0-3476E06D63F1.jpg?v=1779290628"
   },
@@ -19669,7 +19669,7 @@
     "variant_title": "2.4",
     "sku": "1903",
     "price": 1799.0,
-    "stock": 32,
+    "stock": 31,
     "url": "https://www.daivik.in/products/ad-pearl-flower-bangle?variant=gid://shopify/ProductVariant/48306973311198",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D0B49F8C-2E93-472D-BEBC-A910B088AC6B.jpg?v=1780570794"
   },
@@ -19759,7 +19759,7 @@
     "variant_title": "Default Title",
     "sku": "1909",
     "price": 1199.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/peacock-style-hair-clip?variant=gid://shopify/ProductVariant/48332857704670",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7300.jpg?v=1781263301"
   },
@@ -20119,7 +20119,7 @@
     "variant_title": "Baby Pink",
     "sku": "672",
     "price": 999.0,
-    "stock": 49,
+    "stock": 48,
     "url": "https://www.daivik.in/products/invisible-green-ganesha-chain?variant=gid://shopify/ProductVariant/48447550390494",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/ADD05F51-8F3A-4262-86A7-4E853BC4FB59.jpg?v=1782904755"
   },
@@ -21193,6 +21193,33 @@
     "stock": 9,
     "url": "https://www.daivik.in/products/hasli-set?variant=gid://shopify/ProductVariant/49008672866526",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4B0A9718-CDFD-486D-B689-97CCB794B7A7.jpg?v=1788935380"
+  },
+  "gid://shopify/ProductVariant/49008807641310": {
+    "product_title": "Kid's Lakshmi Ruby Green Bangles in 4 Sizes",
+    "variant_title": "1/10",
+    "sku": "1963",
+    "price": 799.0,
+    "stock": 5,
+    "url": "https://www.daivik.in/products/kids-lakshmi-ruby-green-bangles?variant=gid://shopify/ProductVariant/49008807641310",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1968.jpg?v=1789041386"
+  },
+  "gid://shopify/ProductVariant/49008807674078": {
+    "product_title": "Kid's Lakshmi Ruby Green Bangles in 4 Sizes",
+    "variant_title": "1/12",
+    "sku": "1963",
+    "price": 799.0,
+    "stock": 5,
+    "url": "https://www.daivik.in/products/kids-lakshmi-ruby-green-bangles?variant=gid://shopify/ProductVariant/49008807674078",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1968.jpg?v=1789041386"
+  },
+  "gid://shopify/ProductVariant/49008807706846": {
+    "product_title": "Kid's Lakshmi Ruby Green Bangles in 4 Sizes",
+    "variant_title": "1/14",
+    "sku": "1963",
+    "price": 799.0,
+    "stock": 5,
+    "url": "https://www.daivik.in/products/kids-lakshmi-ruby-green-bangles?variant=gid://shopify/ProductVariant/49008807706846",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1968.jpg?v=1789041386"
   },
   "gid://shopify/ProductVariant/49008807739614": {
     "product_title": "Kid's Lakshmi Ruby Green Bangles in 4 Sizes",
@@ -30958,32 +30985,5 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/lakshmi-rashmika-inspired-mangalsutra?variant=gid://shopify/ProductVariant/48801242218718",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1820.jpg?v=1788005030"
-  },
-  "gid://shopify/ProductVariant/49008807641310": {
-    "product_title": "Kid's Lakshmi Ruby Green Bangles in 4 Sizes",
-    "variant_title": "1/10",
-    "sku": "1963",
-    "price": 799.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/kids-lakshmi-ruby-green-bangles?variant=gid://shopify/ProductVariant/49008807641310",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1968.jpg?v=1789041386"
-  },
-  "gid://shopify/ProductVariant/49008807674078": {
-    "product_title": "Kid's Lakshmi Ruby Green Bangles in 4 Sizes",
-    "variant_title": "1/12",
-    "sku": "1963",
-    "price": 799.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/kids-lakshmi-ruby-green-bangles?variant=gid://shopify/ProductVariant/49008807674078",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1968.jpg?v=1789041386"
-  },
-  "gid://shopify/ProductVariant/49008807706846": {
-    "product_title": "Kid's Lakshmi Ruby Green Bangles in 4 Sizes",
-    "variant_title": "1/14",
-    "sku": "1963",
-    "price": 799.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/kids-lakshmi-ruby-green-bangles?variant=gid://shopify/ProductVariant/49008807706846",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1968.jpg?v=1789041386"
   }
 }
