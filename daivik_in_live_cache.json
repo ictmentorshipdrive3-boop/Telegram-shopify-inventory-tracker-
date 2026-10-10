@@ -2569,7 +2569,7 @@
     "variant_title": "Default Title",
     "sku": "432",
     "price": 899.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.daivik.in/products/a-225?variant=gid://shopify/ProductVariant/43212378439902",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_f6b01fa0-137c-4333-b8ec-463d4542e32a.heic?v=1659180660"
   },
@@ -6043,7 +6043,7 @@
     "variant_title": "Default Title",
     "sku": "825",
     "price": 999.0,
-    "stock": 26,
+    "stock": 25,
     "url": "https://www.daivik.in/products/two-line-kids-adult-pearl-choker-with-studs?variant=gid://shopify/ProductVariant/44815359410398",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG-2713.heic?v=1708876092"
   },
@@ -6457,7 +6457,7 @@
     "variant_title": "Ruby",
     "sku": "881",
     "price": 999.0,
-    "stock": 52,
+    "stock": 51,
     "url": "https://www.daivik.in/products/victorian-ad-choker-with-earrings?variant=gid://shopify/ProductVariant/45204086194398",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0234.jpg?v=1779468898"
   },
@@ -10966,7 +10966,7 @@
     "variant_title": "Default Title",
     "sku": "1581",
     "price": 599.0,
-    "stock": 49,
+    "stock": 48,
     "url": "https://www.daivik.in/products/lotus-pearl-anklets?variant=gid://shopify/ProductVariant/46451836977374",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E8106EA8-8DCA-487A-8AB7-822C51F7A8C6.jpg?v=1742394946"
   },
@@ -15289,15 +15289,6 @@
     "stock": 4,
     "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d25808?variant=gid://shopify/ProductVariant/47542829613278",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0121.jpg?v=1758219787"
-  },
-  "gid://shopify/ProductVariant/47542830203102": {
-    "product_title": "Diwali Sale Other Essentials D25812",
-    "variant_title": "Default Title",
-    "sku": "D25812",
-    "price": 299.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d25812?variant=gid://shopify/ProductVariant/47542830203102",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7057.jpg?v=1758219813"
   },
   "gid://shopify/ProductVariant/47542830498014": {
     "product_title": "Diwali Sale Other Essentials D25814",
@@ -29374,6 +29365,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d25802?variant=gid://shopify/ProductVariant/47542849437918",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0103.jpg?v=1758221154"
+  },
+  "gid://shopify/ProductVariant/47542830203102": {
+    "product_title": "Diwali Sale Other Essentials D25812",
+    "variant_title": "Default Title",
+    "sku": "D25812",
+    "price": 299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d25812?variant=gid://shopify/ProductVariant/47542830203102",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7057.jpg?v=1758219813"
   },
   "gid://shopify/ProductVariant/47542849896670": {
     "product_title": "Diwali Sale Other Essentials D25834 (Price for a Pair)",
