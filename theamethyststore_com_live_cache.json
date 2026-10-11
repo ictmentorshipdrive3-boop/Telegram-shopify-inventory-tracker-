@@ -37768,7 +37768,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-7717",
     "price": 18522.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/shinning-charm-kundan-hook-jhumkas?variant=gid://shopify/ProductVariant/47236283793635",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-7717.jpg?v=1759580626"
   },
@@ -41422,7 +41422,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-1627",
     "price": 3127.0,
-    "stock": 5,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/nandhitha-stone-ring?variant=gid://shopify/ProductVariant/47392953893091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1627.jpg?v=1761375418"
   },
@@ -71432,15 +71432,6 @@
     "url": "https://www.theamethyststore.com/products/dhansi-stone-drops?variant=gid://shopify/ProductVariant/49291052646627",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14385.jpg?v=1782122351"
   },
-  "gid://shopify/ProductVariant/49291055431907": {
-    "product_title": "Traditional Stone Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14885",
-    "price": 7375.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/traditional-stone-drops?variant=gid://shopify/ProductVariant/49291055431907",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14885.jpg?v=1782122478"
-  },
   "gid://shopify/ProductVariant/49291061330147": {
     "product_title": "Lathisha Stone Drops",
     "variant_title": "Default Title",
@@ -77704,15 +77695,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/luxurious-boho-short-necklace?variant=gid://shopify/ProductVariant/49409174241507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16684.jpg?v=1784096703"
-  },
-  "gid://shopify/ProductVariant/49409185480931": {
-    "product_title": "Heritage Boho Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16683",
-    "price": 51300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/heritage-boho-short-necklace?variant=gid://shopify/ProductVariant/49409185480931",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16683.jpg?v=1784096912"
   },
   "gid://shopify/ProductVariant/49409192558819": {
     "product_title": "Boho Bliss Long Earrings",
@@ -110942,6 +110924,33 @@
     "url": "https://www.theamethyststore.com/products/blush-pink-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/67661673005283",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18793.jpg?v=1791725041"
   },
+  "gid://shopify/ProductVariant/67661700661475": {
+    "product_title": "Prismatic Victorian Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18792",
+    "price": 45000.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/prismatic-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/67661700661475",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18792.jpg?v=1791725425"
+  },
+  "gid://shopify/ProductVariant/67661720420579": {
+    "product_title": "Aadhira Lakshmi Stone Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5304",
+    "price": 13191.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/aadhira-lakshmi-stone-pendant?variant=gid://shopify/ProductVariant/67661720420579",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5304.jpg?v=1791725839"
+  },
+  "gid://shopify/ProductVariant/67661723369699": {
+    "product_title": "Resplendent Victorian Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18791",
+    "price": 49500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/resplendent-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/67661723369699",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18791.jpg?v=1791725941"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -134711,6 +134720,15 @@
     "url": "https://www.theamethyststore.com/products/alluring-stone-earings?variant=gid://shopify/ProductVariant/49291052876003",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14149.jpg?v=1782122359"
   },
+  "gid://shopify/ProductVariant/49291055431907": {
+    "product_title": "Traditional Stone Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14885",
+    "price": 7375.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/traditional-stone-drops?variant=gid://shopify/ProductVariant/49291055431907",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14885.jpg?v=1782122478"
+  },
   "gid://shopify/ProductVariant/49291057299683": {
     "product_title": "Aparna Stone Earings",
     "variant_title": "Default Title",
@@ -138229,6 +138247,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/boho-long-earrings-5?variant=gid://shopify/ProductVariant/49409185448163",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14936.jpg?v=1784096945"
+  },
+  "gid://shopify/ProductVariant/49409185480931": {
+    "product_title": "Heritage Boho Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16683",
+    "price": 51300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/heritage-boho-short-necklace?variant=gid://shopify/ProductVariant/49409185480931",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16683.jpg?v=1784096912"
   },
   "gid://shopify/ProductVariant/49409193312483": {
     "product_title": "Nomad Glow Long Earrings",
