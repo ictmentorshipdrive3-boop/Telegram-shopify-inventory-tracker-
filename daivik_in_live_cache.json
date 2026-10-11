@@ -139,7 +139,7 @@
     "variant_title": "Default Title",
     "sku": "146",
     "price": 1499.0,
-    "stock": 28,
+    "stock": 27,
     "url": "https://www.daivik.in/products/146?variant=gid://shopify/ProductVariant/44177048076510",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_487e8ae0-73cf-4ff5-beab-6c67acc607b2.jpg?v=1601119672"
   },
@@ -1561,7 +1561,7 @@
     "variant_title": "Default Title",
     "sku": "960",
     "price": 1099.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/rose-gold-leaf-necklace-with-earrings?variant=gid://shopify/ProductVariant/42098229051614",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_4dc98264-452f-44b1-af51-5e97a11173dc.jpg?v=1637594794"
   },
@@ -6628,7 +6628,7 @@
     "variant_title": "Green",
     "sku": "102",
     "price": 999.0,
-    "stock": 6,
+    "stock": 4,
     "url": "https://www.daivik.in/products/ad-doublet-stone-designer-earrings?variant=gid://shopify/ProductVariant/45291773755614",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1C8B0B54-9702-4641-BDEB-DFBAD3E4A568.jpg?v=1714322429"
   },
@@ -7780,7 +7780,7 @@
     "variant_title": "Ruby",
     "sku": "1503",
     "price": 1299.0,
-    "stock": 45,
+    "stock": 44,
     "url": "https://www.daivik.in/products/mossanite-kundan-balis-in-2-colours?variant=gid://shopify/ProductVariant/45889343586526",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4D32A516-1DA2-4CD3-AA62-C24EB5B9B866.jpg?v=1726379854"
   },
@@ -20870,15 +20870,6 @@
     "url": "https://www.daivik.in/products/balaji-black-thread-bracelet?variant=gid://shopify/ProductVariant/48629356986590",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0C8C6CF4-59B8-47AB-94C1-9DB2B7F85904.jpg?v=1787399713"
   },
-  "gid://shopify/ProductVariant/48630564880606": {
-    "product_title": "Diamond Look Alike 3 Layer Flower Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "316",
-    "price": 1499.0,
-    "stock": 21,
-    "url": "https://www.daivik.in/products/diamond-look-alike-3-layer-flower-neckalace-with-earrings?variant=gid://shopify/ProductVariant/48630564880606",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1184.jpg?v=1787466208"
-  },
   "gid://shopify/ProductVariant/48630569435358": {
     "product_title": "Diamond Look Alike 2 Layer Flower Necklace with Earrings",
     "variant_title": "Default Title",
@@ -30976,6 +30967,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/balaji-haram?variant=gid://shopify/ProductVariant/48624208937182",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5F1292F7-1238-4DCB-B513-CCB1A7D8A251.jpg?v=1787331525"
+  },
+  "gid://shopify/ProductVariant/48630564880606": {
+    "product_title": "Diamond Look Alike 3 Layer Flower Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "316",
+    "price": 1499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diamond-look-alike-3-layer-flower-neckalace-with-earrings?variant=gid://shopify/ProductVariant/48630564880606",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1184.jpg?v=1787466208"
   },
   "gid://shopify/ProductVariant/48801242218718": {
     "product_title": "Rashmika Inspired Lakshmi Coin Mangalsutra",
