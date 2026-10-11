@@ -94886,15 +94886,6 @@
     "url": "https://www.theamethyststore.com/products/yalisha-nagas-long-necklace?variant=gid://shopify/ProductVariant/49605529567459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17711.jpg?v=1787745892"
   },
-  "gid://shopify/ProductVariant/49605562663139": {
-    "product_title": "Nikisha Nagas Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17712",
-    "price": 58495.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nikisha-nagas-long-necklace?variant=gid://shopify/ProductVariant/49605562663139",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17712.jpg?v=1787746025"
-  },
   "gid://shopify/ProductVariant/49605596020963": {
     "product_title": "Luxurious Nagas Long Necklace",
     "variant_title": "Default Title",
@@ -104966,15 +104957,6 @@
     "url": "https://www.theamethyststore.com/products/glowing-swing-nagas-jhumkas?variant=gid://shopify/ProductVariant/67581626974435",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16382.jpg?v=1790410184"
   },
-  "gid://shopify/ProductVariant/67581659939043": {
-    "product_title": "Temple-Worthy Nagas Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-16381",
-    "price": 8055.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/temple-worthy-nagas-jhumkas?variant=gid://shopify/ProductVariant/67581659939043",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16381.jpg?v=1790410866"
-  },
   "gid://shopify/ProductVariant/67581695426787": {
     "product_title": "Divine Radiance Nagas Jhumkas",
     "variant_title": "Default Title",
@@ -110860,6 +110842,24 @@
     "stock": 3,
     "url": "https://www.theamethyststore.com/products/devotional-elegance-victorian-pendant?variant=gid://shopify/ProductVariant/67660936020195",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5286.jpg?v=1791705906"
+  },
+  "gid://shopify/ProductVariant/67661047103715": {
+    "product_title": "Veethikaa Stone Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5292",
+    "price": 22833.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/veethikaa-stone-pendant?variant=gid://shopify/ProductVariant/67661047103715",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5292.jpg?v=1791714106"
+  },
+  "gid://shopify/ProductVariant/67661061325027": {
+    "product_title": "Divine Stone Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5293",
+    "price": 17420.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/divine-stone-pendant?variant=gid://shopify/ProductVariant/67661061325027",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5293.jpg?v=1791714544"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -142460,6 +142460,15 @@
     "url": "https://www.theamethyststore.com/products/exquisite-nagas-short-necklace?variant=gid://shopify/ProductVariant/49605323522275",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17728.jpg?v=1787745344"
   },
+  "gid://shopify/ProductVariant/49605562663139": {
+    "product_title": "Nikisha Nagas Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17712",
+    "price": 58495.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nikisha-nagas-long-necklace?variant=gid://shopify/ProductVariant/49605562663139",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17712.jpg?v=1787746025"
+  },
   "gid://shopify/ProductVariant/49605705695459": {
     "product_title": "Glowing Nagas Short Necklace",
     "variant_title": "Default Title",
@@ -144124,6 +144133,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/amala-nagas-short-necklace?variant=gid://shopify/ProductVariant/67581622550755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18386.jpg?v=1790409964"
+  },
+  "gid://shopify/ProductVariant/67581659939043": {
+    "product_title": "Temple-Worthy Nagas Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16381",
+    "price": 8055.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/temple-worthy-nagas-jhumkas?variant=gid://shopify/ProductVariant/67581659939043",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16381.jpg?v=1790410866"
   },
   "gid://shopify/ProductVariant/67581687136483": {
     "product_title": "Dreamy Nagas Short Necklace",
