@@ -8770,7 +8770,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-6017",
     "price": 4489.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.theamethyststore.com/products/navila-stone-studs-1?variant=gid://shopify/ProductVariant/45197742473443",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6017.jpg?v=1719493186"
   },
@@ -18094,7 +18094,7 @@
     "variant_title": "Only Pendant",
     "sku": "AMS-104-2349",
     "price": 10296.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/nishanthi-stone-pendant?variant=gid://shopify/ProductVariant/46276480958691",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2349.jpg?v=1749195054"
   },
@@ -23017,7 +23017,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-0382-S",
     "price": 8000.0,
-    "stock": 34,
+    "stock": 33,
     "url": "https://www.theamethyststore.com/products/mangalsutra-chain-double-layer?variant=gid://shopify/ProductVariant/46779081195747",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-0382_S.jpg?v=1775372483"
   },
@@ -100160,15 +100160,6 @@
     "url": "https://www.theamethyststore.com/products/vibrant-3d-spl-short-necklace-set-1?variant=gid://shopify/ProductVariant/49719114662115",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18047.jpg?v=1789124943"
   },
-  "gid://shopify/ProductVariant/49719140843747": {
-    "product_title": "Ethereal and Elegant 3D Spl Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-18051",
-    "price": 94000.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/ethereal-and-elegant-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49719140843747",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18051.jpg?v=1789126032"
-  },
   "gid://shopify/ProductVariant/49719148052707": {
     "product_title": "Temple-Worthy 3D Spl Short Necklace Set",
     "variant_title": "Default Title",
@@ -107882,6 +107873,15 @@
     "url": "https://www.theamethyststore.com/products/graceful-moissanite-short-necklace-set?variant=gid://shopify/ProductVariant/67614928601315",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18645.jpg?v=1790929485"
   },
+  "gid://shopify/ProductVariant/67614956159203": {
+    "product_title": "Brilliance Moissanite Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18646",
+    "price": 65000.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/brilliance-moissanite-short-necklace-set?variant=gid://shopify/ProductVariant/67614956159203",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18646.jpg?v=1790930042"
+  },
   "gid://shopify/ProductVariant/67615303500003": {
     "product_title": "Finely Crafted Moissanite Short Necklace Set",
     "variant_title": "Default Title",
@@ -110923,6 +110923,15 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/elegant-art-mugappu-chain?variant=gid://shopify/ProductVariant/67660823232739",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2360.jpg?v=1791703082"
+  },
+  "gid://shopify/ProductVariant/67660836798691": {
+    "product_title": "Deity Adornment Mangalsutra Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2358",
+    "price": 11600.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/deity-adornment-mangalsutra-chain?variant=gid://shopify/ProductVariant/67660836798691",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2358.jpg?v=1791704013"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -143675,6 +143684,15 @@
     "url": "https://www.theamethyststore.com/products/goddess-like-nagas-short-necklace-set?variant=gid://shopify/ProductVariant/49719062397155",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18043.jpg?v=1789122799"
   },
+  "gid://shopify/ProductVariant/49719140843747": {
+    "product_title": "Ethereal and Elegant 3D Spl Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18051",
+    "price": 15700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ethereal-and-elegant-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49719140843747",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18051.jpg?v=1789126032"
+  },
   "gid://shopify/ProductVariant/49719369564387": {
     "product_title": "Gracefully Crafted 3D Spl Choker Necklace Set",
     "variant_title": "Default Title",
@@ -144277,15 +144295,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/amazing-nagas-pair-bangles?variant=gid://shopify/ProductVariant/67610003079395",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3703-2.6_2.jpg?v=1790858685"
-  },
-  "gid://shopify/ProductVariant/67614956159203": {
-    "product_title": "Brilliance Moissanite Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-18646",
-    "price": 65000.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/brilliance-moissanite-short-necklace-set?variant=gid://shopify/ProductVariant/67614956159203",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18646.jpg?v=1790930042"
   },
   "gid://shopify/ProductVariant/67615611420899": {
     "product_title": "Graceful Beauty Moisannite Mini Choker Set",
