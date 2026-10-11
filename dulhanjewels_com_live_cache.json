@@ -6767,15 +6767,6 @@
     "url": "https://www.dulhanjewels.com/products/radiant-emerald-jadau-kundan-stud-earrings?variant=gid://shopify/ProductVariant/67902894768434",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/DD63ACD4-34BC-4731-BF5B-F27C933DA85C.jpg?v=1791034347"
   },
-  "gid://shopify/ProductVariant/67902903583026": {
-    "product_title": "Mango Design Jadau Kundan Stud Earrings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 800.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/mango-design-jadau-kundan-stud-earrings-1?variant=gid://shopify/ProductVariant/67902903583026",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/40DBD573-36CE-497B-9E4C-558DF755818A.jpg?v=1791034347"
-  },
   "gid://shopify/ProductVariant/67902923440434": {
     "product_title": "Jadau Kundan Lotus Motif Chandbali Earrings with Pearls And Green Beads",
     "variant_title": "Default Title",
@@ -7127,15 +7118,6 @@
     "url": "https://www.dulhanjewels.com/products/regal-jadau-kundan-jali-necklace-with-swarovski-pearls?variant=gid://shopify/ProductVariant/67946040590642",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/8C4C6132-78DA-4B21-A239-1756175DC226.jpg?v=1791622845"
   },
-  "gid://shopify/ProductVariant/67946046292274": {
-    "product_title": "Gold Style Jadau Kundan Floral Necklace With Earrings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2100.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/gold-style-jadau-kundan-floral-necklace-with-earrings?variant=gid://shopify/ProductVariant/67946046292274",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/53E3DA03-41FC-4AB9-92B9-055A4831640B.jpg?v=1791623046"
-  },
   "gid://shopify/ProductVariant/67946052190514": {
     "product_title": "Minimal Jadau Kundan Jhumki Earrings",
     "variant_title": "Default Title",
@@ -7469,6 +7451,15 @@
     "url": "https://www.dulhanjewels.com/products/ruby-victorian-polki-necklace-set-with-matching-earrings?variant=gid://shopify/ProductVariant/67902765236530",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/84755EAC-316C-48D8-BD45-571F7B7CAAF6.jpg?v=1791030866"
   },
+  "gid://shopify/ProductVariant/67902903583026": {
+    "product_title": "Mango Design Jadau Kundan Stud Earrings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 800.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/mango-design-jadau-kundan-stud-earrings-1?variant=gid://shopify/ProductVariant/67902903583026",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/40DBD573-36CE-497B-9E4C-558DF755818A.jpg?v=1791034347"
+  },
   "gid://shopify/ProductVariant/67902958895410": {
     "product_title": "Minimal Jadau Kundan Hasli With Peacock Design",
     "variant_title": "Default Title",
@@ -7522,5 +7513,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/2-in-1-reversible-jadau-kundan-kanti?variant=gid://shopify/ProductVariant/67934563664178",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/61729DB3-6021-46AC-BC3B-89AC8212A05B.jpg?v=1791453092"
+  },
+  "gid://shopify/ProductVariant/67946046292274": {
+    "product_title": "Gold Style Jadau Kundan Floral Necklace With Earrings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2100.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/gold-style-jadau-kundan-floral-necklace-with-earrings?variant=gid://shopify/ProductVariant/67946046292274",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/53E3DA03-41FC-4AB9-92B9-055A4831640B.jpg?v=1791623046"
   }
 }
