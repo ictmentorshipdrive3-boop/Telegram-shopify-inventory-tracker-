@@ -7132,7 +7132,7 @@
     "variant_title": "Default Title",
     "sku": "R17270",
     "price": 2210.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/chandra-mukhi-nath?variant=gid://shopify/ProductVariant/51514360430889",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0148copy_resized_fbc55c41-5dd9-4af6-910f-4276f0c07cad.jpg?v=1763631525"
   },
@@ -11158,15 +11158,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/rajmayur-antique-necklace-set?variant=gid://shopify/ProductVariant/52553222193449",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_30_Jan3907_resized.jpg?v=1770363931"
-  },
-  "gid://shopify/ProductVariant/52553342124329": {
-    "product_title": "Tirupati Tejas Temple Necklace",
-    "variant_title": "Orange",
-    "sku": "R24407",
-    "price": 100555.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/tirupati-tejas-temple-necklace?variant=gid://shopify/ProductVariant/52553342124329",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_30Jan2706_resized.jpg?v=1770367753"
   },
   "gid://shopify/ProductVariant/52553352708393": {
     "product_title": "Rania Kundan Tikka",
@@ -15298,15 +15289,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/aishwarya-temple-necklace?variant=gid://shopify/ProductVariant/52885909340457",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0119_resized.jpg?v=1775199552"
-  },
-  "gid://shopify/ProductVariant/52885965177129": {
-    "product_title": "Shreenika Temple Necklace",
-    "variant_title": "Default Title",
-    "sku": "R26246",
-    "price": 21845.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/shreenika-temple-necklace-1?variant=gid://shopify/ProductVariant/52885965177129",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar01011_resized.jpg?v=1775200007"
   },
   "gid://shopify/ProductVariant/52886047686953": {
     "product_title": "Rectina Florina CZ Necklace Set",
@@ -37664,6 +37646,15 @@
     "url": "https://www.rasasilver.com/products/maharani-aadhya-antique-set?variant=gid://shopify/ProductVariant/52553332130089",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_30_Jan3801.jpg?v=1770359935"
   },
+  "gid://shopify/ProductVariant/52553342124329": {
+    "product_title": "Tirupati Tejas Temple Necklace",
+    "variant_title": "Orange",
+    "sku": "R24407",
+    "price": 100555.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/tirupati-tejas-temple-necklace?variant=gid://shopify/ProductVariant/52553342124329",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_30Jan2706_resized.jpg?v=1770367753"
+  },
   "gid://shopify/ProductVariant/52553342157097": {
     "product_title": "Tirupati Tejas Temple Necklace",
     "variant_title": "GREEN",
@@ -42361,6 +42352,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/lakshmi-spark-temple-necklace?variant=gid://shopify/ProductVariant/52885952037161",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_272Pics_19Mar36999_resized.jpg?v=1775199874"
+  },
+  "gid://shopify/ProductVariant/52885965177129": {
+    "product_title": "Shreenika Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R26246",
+    "price": 21845.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/shreenika-temple-necklace-1?variant=gid://shopify/ProductVariant/52885965177129",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar01011_resized.jpg?v=1775200007"
   },
   "gid://shopify/ProductVariant/52886051553577": {
     "product_title": "Verdelia CZ Necklace Set",
