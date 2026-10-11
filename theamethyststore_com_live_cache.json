@@ -2235,7 +2235,7 @@
     "product_title": "Traingle Shaped Stud",
     "variant_title": "Default Title",
     "sku": "AMS-106-3385",
-    "price": 9900.0,
+    "price": 10100.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/traingle-shaped-stud?variant=gid://shopify/ProductVariant/43309396099299",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3385.jpg?v=1675581403"
@@ -2253,7 +2253,7 @@
     "product_title": "Blue Finish Hook Earrings",
     "variant_title": "Default Title",
     "sku": "AMS-106-3376",
-    "price": 12500.0,
+    "price": 13100.0,
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/blue-finish-hook-earrings?variant=gid://shopify/ProductVariant/43309534413027",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS09656.jpg?v=1687776438"
@@ -2784,7 +2784,7 @@
     "product_title": "Reddish Hand Painted Earrings",
     "variant_title": "Default Title",
     "sku": "AMS-106-3746",
-    "price": 17100.0,
+    "price": 17200.0,
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/reddish-hand-painted-earrings?variant=gid://shopify/ProductVariant/43492523901155",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3746.jpg?v=1667394273"
@@ -96074,15 +96074,6 @@
     "url": "https://www.theamethyststore.com/products/nagas-drops-40?variant=gid://shopify/ProductVariant/49649038590179",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15453.jpg?v=1788185979"
   },
-  "gid://shopify/ProductVariant/49649074110691": {
-    "product_title": "Sivanika Nagas Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15094",
-    "price": 10329.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nagas-drops-44?variant=gid://shopify/ProductVariant/49649074110691",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15094.jpg?v=1788186559"
-  },
   "gid://shopify/ProductVariant/49653059485923": {
     "product_title": "Traditional Nagas Short Necklace Set",
     "variant_title": "Default Title",
@@ -109385,15 +109376,6 @@
     "url": "https://www.theamethyststore.com/products/wearable-grace-moisannite-bracelet?variant=gid://shopify/ProductVariant/67646420517091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1560.jpg?v=1791463487"
   },
-  "gid://shopify/ProductVariant/67646426939619": {
-    "product_title": "Luxurious Finish Avikam Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-18796",
-    "price": 68800.0,
-    "stock": 4,
-    "url": "https://www.theamethyststore.com/products/luxurious-finish-avikam-short-necklace?variant=gid://shopify/ProductVariant/67646426939619",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18796.jpg?v=1791464158"
-  },
   "gid://shopify/ProductVariant/67646439424227": {
     "product_title": "Wonder Blooming Moissanite Pendant Set",
     "variant_title": "Default Title",
@@ -110905,6 +110887,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/luminous-beads-chain?variant=gid://shopify/ProductVariant/67661481050339",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2343.jpg?v=1791721389"
+  },
+  "gid://shopify/ProductVariant/67661499465955": {
+    "product_title": "Vishakaa Stone Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5300",
+    "price": 34374.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/vishakaa-stone-pendant?variant=gid://shopify/ProductVariant/67661499465955",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5300.jpg?v=1791722122"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -143062,6 +143053,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nagas-drops-43?variant=gid://shopify/ProductVariant/49649066311907",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15363.jpg?v=1788186379"
+  },
+  "gid://shopify/ProductVariant/49649074110691": {
+    "product_title": "Sivanika Nagas Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15094",
+    "price": 10329.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-drops-44?variant=gid://shopify/ProductVariant/49649074110691",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15094.jpg?v=1788186559"
   },
   "gid://shopify/ProductVariant/49652984676579": {
     "product_title": "Streamlined Nagas Short Necklace Set",
