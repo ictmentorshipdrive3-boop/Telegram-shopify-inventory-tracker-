@@ -41147,15 +41147,6 @@
     "url": "https://www.theamethyststore.com/products/divine-stone-short-necklace-set?variant=gid://shopify/ProductVariant/47380993573091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11653.jpg?v=1761221081"
   },
-  "gid://shopify/ProductVariant/47380994588899": {
-    "product_title": "Classic Style Stone Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-1710",
-    "price": 4866.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/classic-style-stone-ring?variant=gid://shopify/ProductVariant/47380994588899",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1710.jpg?v=1761221210"
-  },
   "gid://shopify/ProductVariant/47381687959779": {
     "product_title": "Kashvni Stone Ring",
     "variant_title": "Default Title",
@@ -84577,7 +84568,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-2193",
     "price": 2688.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-ring-21?variant=gid://shopify/ProductVariant/49500970909923",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2193.jpg?v=1785904951"
   },
@@ -121777,6 +121768,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/lithish-toe-ring?variant=gid://shopify/ProductVariant/47380880425187",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0662.jpg?v=1761216846"
+  },
+  "gid://shopify/ProductVariant/47380994588899": {
+    "product_title": "Classic Style Stone Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-1710",
+    "price": 4866.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/classic-style-stone-ring?variant=gid://shopify/ProductVariant/47380994588899",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1710.jpg?v=1761221210"
   },
   "gid://shopify/ProductVariant/47382017442019": {
     "product_title": "Stunning Long Necklace",
