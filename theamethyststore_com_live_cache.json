@@ -20767,7 +20767,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-9338",
     "price": 26435.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/swanin-stone-necklace?variant=gid://shopify/ProductVariant/46555159593187",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9338.jpg?v=1749616452"
   },
@@ -76940,15 +76940,6 @@
     "url": "https://www.theamethyststore.com/products/trendy-plain-bracelet?variant=gid://shopify/ProductVariant/49390387003619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1338.jpg?v=1783681592"
   },
-  "gid://shopify/ProductVariant/49390399783139": {
-    "product_title": "Brinaya Plain Bracelet",
-    "variant_title": "Default Title",
-    "sku": "AMS-103-1336",
-    "price": 3700.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/brinaya-plain-bracelet?variant=gid://shopify/ProductVariant/49390399783139",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1336.jpg?v=1783681956"
-  },
   "gid://shopify/ProductVariant/49390400766179": {
     "product_title": "Aashvi Plain Bracelet",
     "variant_title": "Default Title",
@@ -88189,15 +88180,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/reversible-kundan-short-necklace-7?variant=gid://shopify/ProductVariant/49526955573475",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17550.jpg?v=1786607463"
-  },
-  "gid://shopify/ProductVariant/49526956785891": {
-    "product_title": "Radha Krishna 3D Spl Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17590",
-    "price": 84300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/radha-krishna-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49526956785891",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17590.jpg?v=1786607927"
   },
   "gid://shopify/ProductVariant/49526978609379": {
     "product_title": "Esnikaa Reversible Kundan Short Necklace",
@@ -137510,6 +137492,15 @@
     "url": "https://www.theamethyststore.com/products/eshvika-plain-bracelet?variant=gid://shopify/ProductVariant/49390397325539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1337.jpg?v=1783681820"
   },
+  "gid://shopify/ProductVariant/49390399783139": {
+    "product_title": "Brinaya Plain Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1336",
+    "price": 3700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/brinaya-plain-bracelet?variant=gid://shopify/ProductVariant/49390399783139",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1336.jpg?v=1783681956"
+  },
   "gid://shopify/ProductVariant/49390405189859": {
     "product_title": "Glowing Hasli with Pendant Set",
     "variant_title": "Default Title",
@@ -141226,6 +141217,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/reversible-kundan-short-necklace-5?variant=gid://shopify/ProductVariant/49526930833635",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17548.jpg?v=1786606872"
+  },
+  "gid://shopify/ProductVariant/49526956785891": {
+    "product_title": "Radha Krishna 3D Spl Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17590",
+    "price": 84300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/radha-krishna-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49526956785891",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17590.jpg?v=1786607927"
   },
   "gid://shopify/ProductVariant/49527424254179": {
     "product_title": "Lithikaa Kundan Short Necklace",
