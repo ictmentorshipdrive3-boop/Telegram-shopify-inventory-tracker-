@@ -10786,7 +10786,7 @@
     "variant_title": "Default Title",
     "sku": "1234",
     "price": 699.0,
-    "stock": 56,
+    "stock": 55,
     "url": "https://www.daivik.in/products/ad-hasli-dark-green-necklace-with-balis?variant=gid://shopify/ProductVariant/46349036519646",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/063511AC-1CDD-4E77-AC0F-4966AF43C301.jpg?v=1741505033"
   },
@@ -21491,15 +21491,6 @@
     "url": "https://www.daivik.in/products/pure-kemp-jadau-short-long-haram?variant=gid://shopify/ProductVariant/49143560929502",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CA82D750-81D8-4ABB-A050-785FDE0C2AF1.jpg?v=1790941715"
   },
-  "gid://shopify/ProductVariant/49143563256030": {
-    "product_title": "Pure kemp Brass Jadau Kasumala",
-    "variant_title": "Default Title",
-    "sku": "1403",
-    "price": 2299.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/pure-kemp-brass-jadau-kasumala?variant=gid://shopify/ProductVariant/49143563256030",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/91F1ED0D-73B9-4842-A2B4-A2DE2B57548B.jpg?v=1790941865"
-  },
   "gid://shopify/ProductVariant/49143567089886": {
     "product_title": "Pure kemp Brass Jadau Necklace",
     "variant_title": "Default Title",
@@ -22072,7 +22063,7 @@
     "variant_title": "Default Title",
     "sku": "D26035",
     "price": 1999.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26035?variant=gid://shopify/ProductVariant/49149625467102",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6108.jpg?v=1791221801"
   },
@@ -24628,7 +24619,7 @@
     "variant_title": "Default Title",
     "sku": "D26161",
     "price": 499.0,
-    "stock": 45,
+    "stock": 44,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26161?variant=gid://shopify/ProductVariant/49169787224286",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70282.jpg?v=1791532527"
   },
@@ -24727,7 +24718,7 @@
     "variant_title": "Default Title",
     "sku": "D26172",
     "price": 899.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26172?variant=gid://shopify/ProductVariant/49169795055838",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7277.jpg?v=1791532740"
   },
@@ -25546,7 +25537,7 @@
     "variant_title": "Default Title",
     "sku": "D26602",
     "price": 299.0,
-    "stock": 54,
+    "stock": 53,
     "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26602?variant=gid://shopify/ProductVariant/49178382139614",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7156.jpg?v=1791537209"
   },
@@ -26194,7 +26185,7 @@
     "variant_title": "Default Title",
     "sku": "D26187",
     "price": 649.0,
-    "stock": 28,
+    "stock": 27,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26187?variant=gid://shopify/ProductVariant/49183619088606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7412.jpg?v=1791626076"
   },
@@ -35791,5 +35782,14 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/lakshmi-rashmika-inspired-mangalsutra?variant=gid://shopify/ProductVariant/48801242218718",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1820.jpg?v=1788005030"
+  },
+  "gid://shopify/ProductVariant/49143563256030": {
+    "product_title": "Pure kemp Brass Jadau Kasumala",
+    "variant_title": "Default Title",
+    "sku": "1403",
+    "price": 2299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/pure-kemp-brass-jadau-kasumala?variant=gid://shopify/ProductVariant/49143563256030",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/91F1ED0D-73B9-4842-A2B4-A2DE2B57548B.jpg?v=1790941865"
   }
 }
