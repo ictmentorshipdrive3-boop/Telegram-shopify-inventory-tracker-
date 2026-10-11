@@ -3541,7 +3541,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-3843",
     "price": 5063.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/coral-stone-studs?variant=gid://shopify/ProductVariant/43640170119395",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3843-_1.jpg?v=1687274540"
   },
@@ -5521,7 +5521,7 @@
     "variant_title": "Small",
     "sku": "AMS-119-0001-S",
     "price": 5000.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/fish-hook-back-chain?variant=gid://shopify/ProductVariant/49674885333219",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_21dbdd2e-d30a-4019-816f-52833d641d9a.jpg?v=1693456844"
   },
@@ -6259,7 +6259,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-5231",
     "price": 198700.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/shiva-parvati-victorian-necklace-set?variant=gid://shopify/ProductVariant/44210135597283",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5231-_2_bdd06b23-dabe-40d9-8eff-701e38f0ac54.jpg?v=1737010793"
   },
@@ -86930,15 +86930,6 @@
     "url": "https://www.theamethyststore.com/products/nagas-jada-billa-7?variant=gid://shopify/ProductVariant/49519855075555",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0948.jpg?v=1786428043"
   },
-  "gid://shopify/ProductVariant/49519856287971": {
-    "product_title": "Yashi Kundan Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17486",
-    "price": 32079.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/yashi-kundan-short-necklace?variant=gid://shopify/ProductVariant/49519856287971",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17486.jpg?v=1786428228"
-  },
   "gid://shopify/ProductVariant/49519856681187": {
     "product_title": "Mrinalini Kundan Short Necklace",
     "variant_title": "Default Title",
@@ -99448,15 +99439,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/diamond-design-necklace-set-1?variant=gid://shopify/ProductVariant/49710686142691",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17993.jpg?v=1788950835"
-  },
-  "gid://shopify/ProductVariant/49710705508579": {
-    "product_title": "Admirable chic Victorian Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17994",
-    "price": 79600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/victorian-short-necklace-set-15?variant=gid://shopify/ProductVariant/49710705508579",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17994.jpg?v=1788951034"
   },
   "gid://shopify/ProductVariant/49710732116195": {
     "product_title": "Stunning Classy Bracelet",
@@ -140849,6 +140831,15 @@
     "url": "https://www.theamethyststore.com/products/nagas-jada-billa-3?variant=gid://shopify/ProductVariant/49519840854243",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0942.jpg?v=1786426039"
   },
+  "gid://shopify/ProductVariant/49519856287971": {
+    "product_title": "Yashi Kundan Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17486",
+    "price": 32079.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/yashi-kundan-short-necklace?variant=gid://shopify/ProductVariant/49519856287971",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17486.jpg?v=1786428228"
+  },
   "gid://shopify/ProductVariant/49519856386275": {
     "product_title": "Delina Nagas Jada Billa",
     "variant_title": "Default Title",
@@ -143638,6 +143629,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/plain-chain?variant=gid://shopify/ProductVariant/49708815057123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2206.jpg?v=1788939808"
+  },
+  "gid://shopify/ProductVariant/49710705508579": {
+    "product_title": "Admirable chic Victorian Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17994",
+    "price": 79600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/victorian-short-necklace-set-15?variant=gid://shopify/ProductVariant/49710705508579",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17994.jpg?v=1788951034"
   },
   "gid://shopify/ProductVariant/49710854013155": {
     "product_title": "Authentic Zara Victorian Pendant set",
