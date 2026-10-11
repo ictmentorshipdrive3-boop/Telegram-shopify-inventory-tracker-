@@ -19142,15 +19142,6 @@
     "url": "https://www.theamethyststore.com/products/parallel-strips-cufflinks?variant=gid://shopify/ProductVariant/46395775647971",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-120-0031.jpg?v=1748180958"
   },
-  "gid://shopify/ProductVariant/46401764557027": {
-    "product_title": "Grand Look Kundan Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-2405",
-    "price": 30963.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/grand-look-kundan-pendant?variant=gid://shopify/ProductVariant/46401764557027",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2405_1.jpg?v=1748357017"
-  },
   "gid://shopify/ProductVariant/46403334537443": {
     "product_title": "Mayurika Kundan Pendant",
     "variant_title": "Default Title",
@@ -48487,7 +48478,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-12074",
     "price": 19451.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/trendy-glow-kundan-studs?variant=gid://shopify/ProductVariant/47798958620899",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12074-_2.jpg?v=1767709120"
   },
@@ -116296,6 +116287,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/gorgeous-kundan-pendant?variant=gid://shopify/ProductVariant/46401654456547",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2276_1.jpg?v=1748354252"
+  },
+  "gid://shopify/ProductVariant/46401764557027": {
+    "product_title": "Grand Look Kundan Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-2405",
+    "price": 30963.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/grand-look-kundan-pendant?variant=gid://shopify/ProductVariant/46401764557027",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2405_1.jpg?v=1748357017"
   },
   "gid://shopify/ProductVariant/46403328901347": {
     "product_title": "Pretty Kundan Pendant",
