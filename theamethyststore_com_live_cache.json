@@ -76801,7 +76801,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-1334",
     "price": 4800.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/aashvi-plain-bracelet?variant=gid://shopify/ProductVariant/49390400766179",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1334.jpg?v=1783682086"
   },
@@ -77134,7 +77134,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-16521",
     "price": 6600.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/hasli-necklace-75?variant=gid://shopify/ProductVariant/49396598243555",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16521.jpg?v=1783838384"
   },
@@ -91033,15 +91033,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/luxurious-kundan-jada-billa?variant=gid://shopify/ProductVariant/49552893411555",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0970.jpg?v=1787030499"
-  },
-  "gid://shopify/ProductVariant/49552995877091": {
-    "product_title": "Aakshitha Kundan Jada Billa",
-    "variant_title": "Default Title",
-    "sku": "AMS-112-0969",
-    "price": 26548.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/aakshitha-kundan-jada-billa?variant=gid://shopify/ProductVariant/49552995877091",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0969.jpg?v=1787030927"
   },
   "gid://shopify/ProductVariant/49553129668835": {
     "product_title": "Ankitha Kundan Jada Billa",
@@ -110535,7 +110526,7 @@
     "price": 17859.0,
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/opulent-mugappu-chain?variant=gid://shopify/ProductVariant/67660768674019",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2367.jpg?v=1791700629"
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2367_2ade6de7-0aa0-4543-af3c-723cf91ee00a.jpg?v=1791809139"
   },
   "gid://shopify/ProductVariant/67660770738403": {
     "product_title": "Paradise Shine Mugappu Chain",
@@ -111445,6 +111436,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/sacred-charms-3d-spl-pendant?variant=gid://shopify/ProductVariant/67665995727075",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5470.jpg?v=1791808094"
+  },
+  "gid://shopify/ProductVariant/67665999266019": {
+    "product_title": "Divine Legacy 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5471",
+    "price": 14000.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/divine-legacy-3d-spl-pendant?variant=gid://shopify/ProductVariant/67665999266019",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5471.jpg?v=1791808649"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -142396,6 +142396,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/elegant-kundan-ear-cuff-jhumkas?variant=gid://shopify/ProductVariant/49552496328931",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15734.jpg?v=1787028343"
+  },
+  "gid://shopify/ProductVariant/49552995877091": {
+    "product_title": "Aakshitha Kundan Jada Billa",
+    "variant_title": "Default Title",
+    "sku": "AMS-112-0969",
+    "price": 26548.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/aakshitha-kundan-jada-billa?variant=gid://shopify/ProductVariant/49552995877091",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0969.jpg?v=1787030927"
   },
   "gid://shopify/ProductVariant/49553115578595": {
     "product_title": "Trishali Kundan Jada Billa",
