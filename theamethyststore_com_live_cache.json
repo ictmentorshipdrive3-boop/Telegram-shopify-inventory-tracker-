@@ -61388,15 +61388,6 @@
     "url": "https://www.theamethyststore.com/products/eshika-nagas-long-necklace?variant=gid://shopify/ProductVariant/48682318004451",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15330.jpg?v=1775394833"
   },
-  "gid://shopify/ProductVariant/48682522378467": {
-    "product_title": "Arvya Nagas Chain",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-1842",
-    "price": 34929.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/arvya-nagas-chain?variant=gid://shopify/ProductVariant/48682522378467",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1842.jpg?v=1775395324"
-  },
   "gid://shopify/ProductVariant/48682523230435": {
     "product_title": "Tanisha  Nagas Choker",
     "variant_title": "Default Title",
@@ -97987,7 +97978,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17682",
     "price": 101300.0,
-    "stock": 1,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/victorian-short-necklace-set?variant=gid://shopify/ProductVariant/49671736197347",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17682.jpg?v=1788587700"
   },
@@ -103740,7 +103731,7 @@
     "price": 24012.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/vintage-classy-nagas-pendant?variant=gid://shopify/ProductVariant/49800616018147",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5138.jpg?v=1790164365"
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5138_1e3d4c47-affa-4cec-b567-8a0816f66128.jpg?v=1791793352"
   },
   "gid://shopify/ProductVariant/49800728969443": {
     "product_title": "Dazzling Diamond Design Pendant",
@@ -111139,6 +111130,33 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/aadhirya-3d-spl-pendant?variant=gid://shopify/ProductVariant/67665256382691",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5457.jpg?v=1791792620"
+  },
+  "gid://shopify/ProductVariant/67665278664931": {
+    "product_title": "Divine Radiance 3D Spl Long Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18748",
+    "price": 157700.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/divine-radiance-3d-spl-long-necklace-set?variant=gid://shopify/ProductVariant/67665278664931",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18748.jpg?v=1791792838"
+  },
+  "gid://shopify/ProductVariant/67665334075619": {
+    "product_title": "Luxora 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5458",
+    "price": 11900.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/luxora-3d-spl-pendant?variant=gid://shopify/ProductVariant/67665334075619",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5458.jpg?v=1791793164"
+  },
+  "gid://shopify/ProductVariant/67665443487971": {
+    "product_title": "Varnisha 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5459",
+    "price": 15600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/varnisha-3d-spl-pendant?variant=gid://shopify/ProductVariant/67665443487971",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5459.jpg?v=1791793482"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -128977,6 +128995,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/tashvya-nagas-chain?variant=gid://shopify/ProductVariant/48682417979619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1840.jpg?v=1775394987"
+  },
+  "gid://shopify/ProductVariant/48682522378467": {
+    "product_title": "Arvya Nagas Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-1842",
+    "price": 34929.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/arvya-nagas-chain?variant=gid://shopify/ProductVariant/48682522378467",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1842.jpg?v=1775395324"
   },
   "gid://shopify/ProductVariant/48682829152483": {
     "product_title": "Zyvika Nagas Chain",
