@@ -962,15 +962,6 @@
     "url": "https://www.dulhanjewels.com/products/traditional-peacock-design-polki-victorian-jhumki?variant=gid://shopify/ProductVariant/49786737459506",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_22b1e843-97d6-4223-8463-3827d38a015e.jpg?v=1791277667"
   },
-  "gid://shopify/ProductVariant/49788802105650": {
-    "product_title": "Traditional Floral Design Jadau Kundan Bangles",
-    "variant_title": "2/6 / 2/8",
-    "sku": null,
-    "price": 2750.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/traditional-floral-design-jadau-kundan-bangles?variant=gid://shopify/ProductVariant/49788802105650",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/4A6DCEB0-5811-4008-909F-EA744A448194.jpg?v=1740211663"
-  },
   "gid://shopify/ProductVariant/49794342191410": {
     "product_title": "Jadau Kundan Bottumala Necklace With Guttapusalu Hangings",
     "variant_title": "Default Title",
@@ -3364,15 +3355,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/grand-royal-victorian-polki-bridal-necklace-with-matching-earrings?variant=gid://shopify/ProductVariant/50988326486322",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/2B17052D-31E7-4B97-BCBD-4626AE7C6149.jpg?v=1780991187"
-  },
-  "gid://shopify/ProductVariant/50988344934706": {
-    "product_title": "Luxury Royal Victorian Bridal Choker And Earring Set",
-    "variant_title": "Dark Green",
-    "sku": null,
-    "price": 9950.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/luxury-royal-victorian-bridal-choker-and-earring-set?variant=gid://shopify/ProductVariant/50988344934706",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/67120626-142C-465D-A292-54307326F08F.jpg?v=1781004582"
   },
   "gid://shopify/ProductVariant/50988344967474": {
     "product_title": "Luxury Royal Victorian Bridal Choker And Earring Set",
@@ -7208,15 +7190,6 @@
     "url": "https://www.dulhanjewels.com/products/minimal-jadau-kundan-jhumki-earrings?variant=gid://shopify/ProductVariant/67946052190514",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6219710745033773797.jpg?v=1791640851"
   },
-  "gid://shopify/ProductVariant/67946055139634": {
-    "product_title": "Classic Jadau Kundan Jhumka Earrings With Green Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1350.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/classic-jadau-kundan-jhumka-earrings-with-green-drops-1?variant=gid://shopify/ProductVariant/67946055139634",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6219710745033773789.jpg?v=1791639420"
-  },
   "gid://shopify/ProductVariant/67946058973490": {
     "product_title": "Traditional Jadau Kundan Necklace With Floral Pendant",
     "variant_title": "Default Title",
@@ -7253,6 +7226,15 @@
     "url": "https://www.dulhanjewels.com/products/regal-polki-mehandi-victorian-chand-bali-earrings?variant=gid://shopify/ProductVariant/49755210449202",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-1785.jpg?v=1791198223"
   },
+  "gid://shopify/ProductVariant/49788802105650": {
+    "product_title": "Traditional Floral Design Jadau Kundan Bangles",
+    "variant_title": "2/6 / 2/8",
+    "sku": null,
+    "price": 2750.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/traditional-floral-design-jadau-kundan-bangles?variant=gid://shopify/ProductVariant/49788802105650",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/4A6DCEB0-5811-4008-909F-EA744A448194.jpg?v=1740211663"
+  },
   "gid://shopify/ProductVariant/50820460085554": {
     "product_title": "Mehandi Victorian Polki Kundan Bangles",
     "variant_title": "Multi / 2.6",
@@ -7279,6 +7261,15 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/mehandi-victorian-polki-kundan-bangles?variant=gid://shopify/ProductVariant/50820460151090",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/12D3211A-DE5E-403F-83A1-79B87A5DA8BD.jpg?v=1768652763"
+  },
+  "gid://shopify/ProductVariant/50988344934706": {
+    "product_title": "Luxury Royal Victorian Bridal Choker And Earring Set",
+    "variant_title": "Dark Green",
+    "sku": null,
+    "price": 9950.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/luxury-royal-victorian-bridal-choker-and-earring-set?variant=gid://shopify/ProductVariant/50988344934706",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/67120626-142C-465D-A292-54307326F08F.jpg?v=1781004582"
   },
   "gid://shopify/ProductVariant/50992300523826": {
     "product_title": "Victorian Finish Polki Short Necklace With Matching Earrings",
@@ -7334,15 +7325,6 @@
     "url": "https://www.dulhanjewels.com/products/classy-jadau-kundan-bangle-with-floral-center?variant=gid://shopify/ProductVariant/51505705222450",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/931A7235-4B54-4A95-8BE3-840DFCCD2E56.jpg?v=1784887061"
   },
-  "gid://shopify/ProductVariant/67918913536306": {
-    "product_title": "Dainty Jadau Kundan Necklace With Green Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1350.0,
-    "stock": 0,
-    "url": "https://www.dulhanjewels.com/products/dainty-jadau-kundan-necklace-with-green-drops?variant=gid://shopify/ProductVariant/67918913536306",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/4B2D03A4-056A-4C6D-BC38-AC8E0A3E12B5.jpg?v=1791274475"
-  },
   "gid://shopify/ProductVariant/67918966980914": {
     "product_title": "Traditional Jadau Kundan Guttapusalu Necklace",
     "variant_title": "Default Title",
@@ -7351,5 +7333,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/traditional-jadau-kundan-guttapusalu-necklace-1?variant=gid://shopify/ProductVariant/67918966980914",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-1837.jpg?v=1791275022"
+  },
+  "gid://shopify/ProductVariant/67946055139634": {
+    "product_title": "Classic Jadau Kundan Jhumka Earrings With Green Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1350.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/classic-jadau-kundan-jhumka-earrings-with-green-drops-1?variant=gid://shopify/ProductVariant/67946055139634",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6219710745033773789.jpg?v=1791639420"
   }
 }
