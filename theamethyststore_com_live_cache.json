@@ -21217,7 +21217,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-9645",
     "price": 30816.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/classy-nagas-necklace?variant=gid://shopify/ProductVariant/46730177085667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9645.jpg?v=1750242854"
   },
@@ -34226,6 +34226,15 @@
     "url": "https://www.theamethyststore.com/products/chic-kundan-drops?variant=gid://shopify/ProductVariant/47180482838755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10072.jpg?v=1758093728"
   },
+  "gid://shopify/ProductVariant/47180760613091": {
+    "product_title": "Ambika Victorian Long Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-10370",
+    "price": 26002.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/ambika-victorian-long-earrings?variant=gid://shopify/ProductVariant/47180760613091",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10370.jpg?v=1758102191"
+  },
   "gid://shopify/ProductVariant/47180771688675": {
     "product_title": "Mesmerizing Victorian Pair Bangles",
     "variant_title": "2.6\"",
@@ -43051,7 +43060,7 @@
     "variant_title": "12",
     "sku": "AMS-101-1690-12\"",
     "price": 5100.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/ring-37?variant=gid://shopify/ProductVariant/47451406926051",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1690.jpg?v=1762262320"
   },
@@ -59101,15 +59110,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/nagas-jhumkas-17?variant=gid://shopify/ProductVariant/48322285994211",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13080.jpg?v=1772276713"
-  },
-  "gid://shopify/ProductVariant/48322315616483": {
-    "product_title": "Saadhvi Nagas Drops Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-13091",
-    "price": 13200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/saadhvi-nagas-drops-earrings?variant=gid://shopify/ProductVariant/48322315616483",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13091.jpg?v=1772278035"
   },
   "gid://shopify/ProductVariant/48322330394851": {
     "product_title": "Lakshmi Nagas Long Earrings",
@@ -84580,15 +84580,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/manjari-stone-ring?variant=gid://shopify/ProductVariant/49501155131619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2200.jpg?v=1785917176"
-  },
-  "gid://shopify/ProductVariant/49501157359843": {
-    "product_title": "Dhashitha Stone Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-2203",
-    "price": 3504.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/dhashitha-stone-ring?variant=gid://shopify/ProductVariant/49501157359843",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2203.jpg?v=1785917334"
   },
   "gid://shopify/ProductVariant/49501158441187": {
     "product_title": "Sherika Stone Ring",
@@ -111149,6 +111140,42 @@
     "url": "https://www.theamethyststore.com/products/fascinating-3d-spl-pendant?variant=gid://shopify/ProductVariant/67665835458787",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5437.jpg?v=1791799119"
   },
+  "gid://shopify/ProductVariant/67665838604515": {
+    "product_title": "Dignified Nagas Reversible Long Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18777",
+    "price": 94144.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/dignified-nagas-reversible-long-necklace-set?variant=gid://shopify/ProductVariant/67665838604515",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18777.jpg?v=1791799124"
+  },
+  "gid://shopify/ProductVariant/67665843749091": {
+    "product_title": "Verthikaa Nagas Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4484",
+    "price": 16791.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/verthikaa-nagas-pendant?variant=gid://shopify/ProductVariant/67665843749091",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4484.jpg?v=1791799440"
+  },
+  "gid://shopify/ProductVariant/67665849647331": {
+    "product_title": "Entrancing 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5438",
+    "price": 31900.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/entrancing-3d-spl-pendant?variant=gid://shopify/ProductVariant/67665849647331",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5438.jpg?v=1791799456"
+  },
+  "gid://shopify/ProductVariant/67665861214435": {
+    "product_title": "Ramar Seetha Nagas Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5436",
+    "price": 42900.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/ramar-nagas-pendant?variant=gid://shopify/ProductVariant/67665861214435",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5436.jpg?v=1791799823"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -120437,15 +120464,6 @@
     "url": "https://www.theamethyststore.com/products/shalikha-chain-with-earrings?variant=gid://shopify/ProductVariant/47180290916579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1220_1.jpg?v=1758089608"
   },
-  "gid://shopify/ProductVariant/47180760613091": {
-    "product_title": "Ambika Victorian Long Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-10370",
-    "price": 26002.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/ambika-victorian-long-earrings?variant=gid://shopify/ProductVariant/47180760613091",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10370.jpg?v=1758102191"
-  },
   "gid://shopify/ProductVariant/49671811793123": {
     "product_title": "Lavanya Diamond Design Pair Bangle",
     "variant_title": "2.8\"",
@@ -127969,6 +127987,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/vinisha-nagas-long-earrings-1?variant=gid://shopify/ProductVariant/48322125201635",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13059.jpg?v=1772275044"
+  },
+  "gid://shopify/ProductVariant/48322315616483": {
+    "product_title": "Saadhvi Nagas Drops Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-13091",
+    "price": 13200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/saadhvi-nagas-drops-earrings?variant=gid://shopify/ProductVariant/48322315616483",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13091.jpg?v=1772278035"
   },
   "gid://shopify/ProductVariant/48322321252579": {
     "product_title": "Ahaarya Nagas Drops Earrings",
@@ -140281,6 +140308,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/navisha-stone-ring?variant=gid://shopify/ProductVariant/49501147496675",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2195.jpg?v=1785916618"
+  },
+  "gid://shopify/ProductVariant/49501157359843": {
+    "product_title": "Dhashitha Stone Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2203",
+    "price": 3504.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/dhashitha-stone-ring?variant=gid://shopify/ProductVariant/49501157359843",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2203.jpg?v=1785917334"
   },
   "gid://shopify/ProductVariant/49501159456995": {
     "product_title": "Janitha Stone Ring",
