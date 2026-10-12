@@ -7163,15 +7163,6 @@
     "url": "https://www.rasasilver.com/products/emermango-necklace-set?variant=gid://shopify/ProductVariant/51526869713193",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Box01_12Nov0585_resized.jpg?v=1763450126"
   },
-  "gid://shopify/ProductVariant/51526922961193": {
-    "product_title": "Swanore Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R17826",
-    "price": 54000.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/swanore-necklace-set?variant=gid://shopify/ProductVariant/51526922961193",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Box01_12Nov0566_resized.jpg?v=1763450262"
-  },
   "gid://shopify/ProductVariant/52263680573737": {
     "product_title": "Queen\u2019s Reverie Bangles",
     "variant_title": "2.6",
@@ -19871,15 +19862,6 @@
     "url": "https://www.rasasilver.com/products/royal-pear-moissanite-maang-tikka?variant=gid://shopify/ProductVariant/53362558533929",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0130.jpg?v=1786368942"
   },
-  "gid://shopify/ProductVariant/53362568462633": {
-    "product_title": "Amodini Moissanite Maang Tikka",
-    "variant_title": "Default Title",
-    "sku": "R30789",
-    "price": 13005.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/amodini-moissanite-maang-tikka?variant=gid://shopify/ProductVariant/53362568462633",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July01251.jpg?v=1786369065"
-  },
   "gid://shopify/ProductVariant/53362596577577": {
     "product_title": "Lotus-Glow Moissanite Maang Tikka",
     "variant_title": "Default Title",
@@ -21190,7 +21172,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R33496",
     "price": 89200.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.rasasilver.com/products/shree-samriddhi-temple-necklace?variant=gid://shopify/ProductVariant/53411227369769",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_10Aug56782F.jpg?v=1787385274"
   },
@@ -32479,6 +32461,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/mayura-manikya-bangles?variant=gid://shopify/ProductVariant/51526918471977",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa-10Nov_Sann0104_resized.jpg?v=1763377910"
+  },
+  "gid://shopify/ProductVariant/51526922961193": {
+    "product_title": "Swanore Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R17826",
+    "price": 54000.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/swanore-necklace-set?variant=gid://shopify/ProductVariant/51526922961193",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Box01_12Nov0566_resized.jpg?v=1763450262"
   },
   "gid://shopify/ProductVariant/52263583318313": {
     "product_title": "Mirantha Bangles",
@@ -47329,6 +47320,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/orange-beads-antique-mala?variant=gid://shopify/ProductVariant/53362408554793",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July04481.jpg?v=1786362285"
+  },
+  "gid://shopify/ProductVariant/53362568462633": {
+    "product_title": "Amodini Moissanite Maang Tikka",
+    "variant_title": "Default Title",
+    "sku": "R30789",
+    "price": 13005.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/amodini-moissanite-maang-tikka?variant=gid://shopify/ProductVariant/53362568462633",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July01251.jpg?v=1786369065"
   },
   "gid://shopify/ProductVariant/53365568766249": {
     "product_title": "Dynasty Nakshi Kanti",
