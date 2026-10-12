@@ -17378,15 +17378,6 @@
     "url": "https://www.rasasilver.com/products/crystal-glimmer-cz-necklace?variant=gid://shopify/ProductVariant/53279769100585",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May1586_resized_jpg_06788588-5ebd-45e8-89e4-685c9fdd942a.jpg?v=1785737787"
   },
-  "gid://shopify/ProductVariant/53282509619497": {
-    "product_title": "Bloom Spark Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "R29486",
-    "price": 2125.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/bloom-spark-stone-studs?variant=gid://shopify/ProductVariant/53282509619497",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262369_resized.jpg?v=1782109792"
-  },
   "gid://shopify/ProductVariant/53282511913257": {
     "product_title": "Petal Swirl Stone Studs",
     "variant_title": "Default Title",
@@ -18503,15 +18494,6 @@
     "url": "https://www.rasasilver.com/products/panna-manik-stone-studs?variant=gid://shopify/ProductVariant/53296613753129",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2230_resized.jpg?v=1782826064"
   },
-  "gid://shopify/ProductVariant/53296644522281": {
-    "product_title": "Mallika Glow Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "R31491",
-    "price": 2550.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/mallika-glow-stone-studs?variant=gid://shopify/ProductVariant/53296644522281",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2224_resized.jpg?v=1782826465"
-  },
   "gid://shopify/ProductVariant/53296661889321": {
     "product_title": "Panna-Moti Stone Danglers",
     "variant_title": "Default Title",
@@ -18556,15 +18538,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/manik-recta-stone-studs?variant=gid://shopify/ProductVariant/53296690528553",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2284_resized.jpg?v=1782890928"
-  },
-  "gid://shopify/ProductVariant/53297204887849": {
-    "product_title": "Opal Dot Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "R31865",
-    "price": 2720.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/opal-dot-stone-studs?variant=gid://shopify/ProductVariant/53297204887849",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2320_resized.jpg?v=1784354953"
   },
   "gid://shopify/ProductVariant/53297237754153": {
     "product_title": "Crimson Stone Studs",
@@ -22245,15 +22218,6 @@
     "price": 1360.0,
     "stock": 2,
     "url": "https://www.rasasilver.com/products/yutika-kundan-septum-ring?variant=gid://shopify/ProductVariant/53479005454633",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459303.jpg?v=1789110397"
-  },
-  "gid://shopify/ProductVariant/53479005487401": {
-    "product_title": "Yutika Kundan Septum Ring",
-    "variant_title": "GREEN",
-    "sku": "R32677",
-    "price": 1190.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/yutika-kundan-septum-ring?variant=gid://shopify/ProductVariant/53479005487401",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459303.jpg?v=1789110397"
   },
   "gid://shopify/ProductVariant/53479016759593": {
@@ -45674,6 +45638,15 @@
     "url": "https://www.rasasilver.com/products/fiora-stone-studs?variant=gid://shopify/ProductVariant/53282509226281",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262378_resized.jpg?v=1782109475"
   },
+  "gid://shopify/ProductVariant/53282509619497": {
+    "product_title": "Bloom Spark Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "R29486",
+    "price": 2125.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/bloom-spark-stone-studs?variant=gid://shopify/ProductVariant/53282509619497",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262369_resized.jpg?v=1782109792"
+  },
   "gid://shopify/ProductVariant/53282512765225": {
     "product_title": "Crystal Flower Stone Studs",
     "variant_title": "Default Title",
@@ -46943,6 +46916,15 @@
     "url": "https://www.rasasilver.com/products/siri-vaibhava-temple-studs?variant=gid://shopify/ProductVariant/53296605593897",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2331_resized.jpg?v=1784355178"
   },
+  "gid://shopify/ProductVariant/53296644522281": {
+    "product_title": "Mallika Glow Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "R31491",
+    "price": 2550.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/mallika-glow-stone-studs?variant=gid://shopify/ProductVariant/53296644522281",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2224_resized.jpg?v=1782826465"
+  },
   "gid://shopify/ProductVariant/53296682467625": {
     "product_title": "Petal Glow Stone Studs",
     "variant_title": "Default Title",
@@ -46969,6 +46951,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/coral-flora-stone-studs?variant=gid://shopify/ProductVariant/53296729227561",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2303_resized.jpg?v=1782885221"
+  },
+  "gid://shopify/ProductVariant/53297204887849": {
+    "product_title": "Opal Dot Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "R31865",
+    "price": 2720.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/opal-dot-stone-studs?variant=gid://shopify/ProductVariant/53297204887849",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2320_resized.jpg?v=1784354953"
   },
   "gid://shopify/ProductVariant/53297287364905": {
     "product_title": "Aamra Ratna Stone Studs",
@@ -48625,6 +48616,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/ishmira-kundan-jhumki?variant=gid://shopify/ProductVariant/53478867173673",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459149.jpg?v=1789109927"
+  },
+  "gid://shopify/ProductVariant/53479005487401": {
+    "product_title": "Yutika Kundan Septum Ring",
+    "variant_title": "GREEN",
+    "sku": "R32677",
+    "price": 1190.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/yutika-kundan-septum-ring?variant=gid://shopify/ProductVariant/53479005487401",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459303.jpg?v=1789110397"
   },
   "gid://shopify/ProductVariant/53479000768809": {
     "product_title": "Inaya Kundan Septum Nath",
