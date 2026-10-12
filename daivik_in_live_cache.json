@@ -2150,15 +2150,6 @@
     "url": "https://www.daivik.in/products/mid-length-pearl-haram-with-earrings?variant=gid://shopify/ProductVariant/42596453679326",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_fe1efc07-b9b7-48c3-8d34-3487124b5a50.heic?v=1647967302"
   },
-  "gid://shopify/ProductVariant/42596492411102": {
-    "product_title": "Pearl Kemp Pendant Short Haram with Earrings",
-    "variant_title": "Default Title",
-    "sku": "441",
-    "price": 1299.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/pearl-kemp-pendant-short-haram-with-earrings?variant=gid://shopify/ProductVariant/42596492411102",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_43306862-9c20-4c2f-8de0-0710b7926c4f.heic?v=1647966185"
-  },
   "gid://shopify/ProductVariant/44437456486622": {
     "product_title": "Cluster Pearl Necklace with earrings ( Price for each)",
     "variant_title": "Golden Pearl",
@@ -2236,7 +2227,7 @@
     "variant_title": "Default Title",
     "sku": "277",
     "price": 599.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/ad-white-gold-teeka?variant=gid://shopify/ProductVariant/42641179345118",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_cab7af53-ce70-4200-8b35-a70dcb200b07.heic?v=1648999204"
   },
@@ -4459,7 +4450,7 @@
     "variant_title": "Ruby",
     "sku": "364",
     "price": 999.0,
-    "stock": 53,
+    "stock": 52,
     "url": "https://www.daivik.in/products/untitled-aug24_21-15?variant=gid://shopify/ProductVariant/44403892420830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D1221F9B-4B46-4FCA-A426-121C0CBF2979.jpg?v=1697109021"
   },
@@ -9103,7 +9094,7 @@
     "variant_title": "Default Title",
     "sku": "1508",
     "price": 1499.0,
-    "stock": 51,
+    "stock": 50,
     "url": "https://www.daivik.in/products/premium-ad-mattal?variant=gid://shopify/ProductVariant/45974972793054",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7184C6A1-C3DA-44CC-A1C8-A4F0542CB634.jpg?v=1729613139"
   },
@@ -21136,7 +21127,7 @@
     "variant_title": "1/10",
     "sku": "1963",
     "price": 799.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/kids-lakshmi-ruby-green-bangles?variant=gid://shopify/ProductVariant/49008807641310",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1968.jpg?v=1789041386"
   },
@@ -23872,7 +23863,7 @@
     "variant_title": "Default Title",
     "sku": "D26102",
     "price": 1099.0,
-    "stock": 15,
+    "stock": 14,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26102?variant=gid://shopify/ProductVariant/49169744167134",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6788.jpg?v=1791457365"
   },
@@ -24655,7 +24646,7 @@
     "variant_title": "Default Title",
     "sku": "D26170",
     "price": 499.0,
-    "stock": 25,
+    "stock": 24,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26170?variant=gid://shopify/ProductVariant/49169793745118",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_72713.jpg?v=1791532691"
   },
@@ -27475,6 +27466,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/a?variant=gid://shopify/ProductVariant/42548018446558",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_1d032569-eef8-4888-bc52-11bba57d26f7.jpg?v=1646663483"
+  },
+  "gid://shopify/ProductVariant/42596492411102": {
+    "product_title": "Pearl Kemp Pendant Short Haram with Earrings",
+    "variant_title": "Default Title",
+    "sku": "441",
+    "price": 1299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/pearl-kemp-pendant-short-haram-with-earrings?variant=gid://shopify/ProductVariant/42596492411102",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_43306862-9c20-4c2f-8de0-0710b7926c4f.heic?v=1647966185"
   },
   "gid://shopify/ProductVariant/43956913799390": {
     "product_title": "Openable Kemp Peacock Bangles",
