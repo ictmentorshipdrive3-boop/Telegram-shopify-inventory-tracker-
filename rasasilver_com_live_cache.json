@@ -4742,24 +4742,6 @@
     "url": "https://www.rasasilver.com/products/elenruby-studs?variant=gid://shopify/ProductVariant/51353557139753",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0221copy.jpg?v=1761370044"
   },
-  "gid://shopify/ProductVariant/51353604391209": {
-    "product_title": "Florcryst Stud Earrings",
-    "variant_title": "Default Title",
-    "sku": "R15801",
-    "price": 2380.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/florcryst-studs?variant=gid://shopify/ProductVariant/51353604391209",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0172_copy_d33b950c-003a-4262-ad2f-be041d3f941c.jpg?v=1761375663"
-  },
-  "gid://shopify/ProductVariant/51353648628009": {
-    "product_title": "Bloovia Stud Earrings",
-    "variant_title": "Default Title",
-    "sku": "R15839",
-    "price": 2465.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/bloovia-studs?variant=gid://shopify/ProductVariant/51353648628009",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0160_copy_1.jpg?v=1761376234"
-  },
   "gid://shopify/ProductVariant/51353649512745": {
     "product_title": "Surangi Stud Earrings",
     "variant_title": "Default Title",
@@ -28844,6 +28826,15 @@
     "url": "https://www.rasasilver.com/products/kanakavalli-mayura-studs?variant=gid://shopify/ProductVariant/51353602097449",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0001_copy.jpg?v=1761376088"
   },
+  "gid://shopify/ProductVariant/51353604391209": {
+    "product_title": "Florcryst Stud Earrings",
+    "variant_title": "Default Title",
+    "sku": "R15801",
+    "price": 2380.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/florcryst-studs?variant=gid://shopify/ProductVariant/51353604391209",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0172_copy_d33b950c-003a-4262-ad2f-be041d3f941c.jpg?v=1761375663"
+  },
   "gid://shopify/ProductVariant/51353615925545": {
     "product_title": "Savitri Mango Studs",
     "variant_title": "Default Title",
@@ -28861,6 +28852,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/amulya-leaf-studs?variant=gid://shopify/ProductVariant/51353636405545",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0325_copy.jpg?v=1761383328"
+  },
+  "gid://shopify/ProductVariant/51353648628009": {
+    "product_title": "Bloovia Stud Earrings",
+    "variant_title": "Default Title",
+    "sku": "R15839",
+    "price": 2465.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/bloovia-studs?variant=gid://shopify/ProductVariant/51353648628009",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0160_copy_1.jpg?v=1761376234"
   },
   "gid://shopify/ProductVariant/51353658491177": {
     "product_title": "Mridula Floral Studs",
