@@ -2105,15 +2105,6 @@
     "url": "https://www.rasasilver.com/products/ardhanari-shringar-choker?variant=gid://shopify/ProductVariant/50564847370537",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2_7f757899-b4e3-4f2a-a12b-1a710ba44439.jpg?v=1757489092"
   },
-  "gid://shopify/ProductVariant/50564943053097": {
-    "product_title": "Nritya Morini Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R9664",
-    "price": 47300.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/nritya-morini-necklace-set?variant=gid://shopify/ProductVariant/50564943053097",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-5_151c4280-1ea7-483f-a404-2de6944c9c60.jpg?v=1751631119"
-  },
   "gid://shopify/ProductVariant/50565151752489": {
     "product_title": "Nefertari Charm Necklace",
     "variant_title": "Default Title",
@@ -7033,7 +7024,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R17320",
     "price": 4080.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/rosanika-ring?variant=gid://shopify/ProductVariant/52871618330921",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0212copy_resized_d7d99986-1598-452c-b573-18388221f015.jpg?v=1763633835"
   },
@@ -9403,15 +9394,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/vasudha-temple-necklace?variant=gid://shopify/ProductVariant/52397553910057",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0248copy_resized_657a95e9-e98c-4de6-87dd-e977be4a4dfa.jpg?v=1767781832"
-  },
-  "gid://shopify/ProductVariant/52397643202857": {
-    "product_title": "Bhargavi Temple Necklace",
-    "variant_title": "Default Title",
-    "sku": "R22301",
-    "price": 45200.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/bhargavi-temple-necklace?variant=gid://shopify/ProductVariant/52397643202857",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0281_copy_resized_e348a0b2-e150-4042-879c-cadad1127046.jpg?v=1767694560"
   },
   "gid://shopify/ProductVariant/52397758349609": {
     "product_title": "Narayani Temple Pendant",
@@ -11947,7 +11929,7 @@
     "variant_title": "Default Title",
     "sku": "R24530",
     "price": 35785.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/flora-antique-haath-phool?variant=gid://shopify/ProductVariant/52664893669673",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4487.jpg?v=1771328884"
   },
@@ -25019,6 +25001,15 @@
     "url": "https://www.rasasilver.com/products/morni-manohar-necklace-set?variant=gid://shopify/ProductVariant/50564917756201",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/3_1a330cca-1a46-4ba2-b88c-5b4695cc1e74.jpg?v=1763701233"
   },
+  "gid://shopify/ProductVariant/50564943053097": {
+    "product_title": "Nritya Morini Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R9664",
+    "price": 47300.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/nritya-morini-necklace-set?variant=gid://shopify/ProductVariant/50564943053097",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-5_151c4280-1ea7-483f-a404-2de6944c9c60.jpg?v=1751631119"
+  },
   "gid://shopify/ProductVariant/52382733861161": {
     "product_title": "Pearleela Victorian Necklace Set",
     "variant_title": "Red",
@@ -35395,6 +35386,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/sri-devi-temple-necklace?variant=gid://shopify/ProductVariant/52397469335849",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0267copy_resized_490bcbb6-3eb1-4946-8e70-fe76ddd5d7cb.jpg?v=1767694234"
+  },
+  "gid://shopify/ProductVariant/52397643202857": {
+    "product_title": "Bhargavi Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R22301",
+    "price": 45200.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/bhargavi-temple-necklace?variant=gid://shopify/ProductVariant/52397643202857",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0281_copy_resized_e348a0b2-e150-4042-879c-cadad1127046.jpg?v=1767694560"
   },
   "gid://shopify/ProductVariant/52397834567977": {
     "product_title": "Bhavani Temple Pendant",
