@@ -97649,15 +97649,6 @@
     "url": "https://www.theamethyststore.com/products/nagas-ring-1?variant=gid://shopify/ProductVariant/49667521315043",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2341_38995147-f756-45b6-9a4d-81f08eb618d0.jpg?v=1788495887"
   },
-  "gid://shopify/ProductVariant/49667538157795": {
-    "product_title": "Lakshmi Nagas Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-2342",
-    "price": 4302.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nagas-ring-2?variant=gid://shopify/ProductVariant/49667538157795",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2342_2a68363e-783d-4012-8e39-973802fa1924.jpg?v=1788496235"
-  },
   "gid://shopify/ProductVariant/49667542876387": {
     "product_title": "Sparkling Nagas Ring",
     "variant_title": "Default Title",
@@ -111049,6 +111040,15 @@
     "stock": 3,
     "url": "https://www.theamethyststore.com/products/camellia-pink-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/67664416080099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18739.jpg?v=1791785053"
+  },
+  "gid://shopify/ProductVariant/67664438067427": {
+    "product_title": "Fine Craft Victorian Long Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18734",
+    "price": 86200.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/fine-craft-victorian-long-necklace-set?variant=gid://shopify/ProductVariant/67664438067427",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18734.jpg?v=1791785811"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -143611,6 +143611,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/simply-beautiful-kundan-jhumkas?variant=gid://shopify/ProductVariant/49664901284067",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15916.jpg?v=1788440923"
+  },
+  "gid://shopify/ProductVariant/49667538157795": {
+    "product_title": "Lakshmi Nagas Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2342",
+    "price": 4302.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-ring-2?variant=gid://shopify/ProductVariant/49667538157795",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2342_2a68363e-783d-4012-8e39-973802fa1924.jpg?v=1788496235"
   },
   "gid://shopify/ProductVariant/49667551035619": {
     "product_title": "Divine Lakshmi Nagas Ring",
