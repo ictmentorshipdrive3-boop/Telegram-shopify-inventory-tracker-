@@ -34226,15 +34226,6 @@
     "url": "https://www.theamethyststore.com/products/chic-kundan-drops?variant=gid://shopify/ProductVariant/47180482838755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10072.jpg?v=1758093728"
   },
-  "gid://shopify/ProductVariant/47180760613091": {
-    "product_title": "Ambika Victorian Long Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-10370",
-    "price": 26002.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/ambika-victorian-long-earrings?variant=gid://shopify/ProductVariant/47180760613091",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10370.jpg?v=1758102191"
-  },
   "gid://shopify/ProductVariant/47180771688675": {
     "product_title": "Mesmerizing Victorian Pair Bangles",
     "variant_title": "2.6\"",
@@ -79564,7 +79555,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17093",
     "price": 57900.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/nagas-long-necklace-73?variant=gid://shopify/ProductVariant/49430052929763",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17093.jpg?v=1784535803"
   },
@@ -111131,6 +111122,33 @@
     "url": "https://www.theamethyststore.com/products/varnisha-3d-spl-pendant?variant=gid://shopify/ProductVariant/67665443487971",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5459.jpg?v=1791793482"
   },
+  "gid://shopify/ProductVariant/67665808228579": {
+    "product_title": "Enrapturing 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5460",
+    "price": 14600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/enrapturing-3d-spl-pendant?variant=gid://shopify/ProductVariant/67665808228579",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5460.jpg?v=1791798268"
+  },
+  "gid://shopify/ProductVariant/67665824022755": {
+    "product_title": "Magnetic 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5461",
+    "price": 21100.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/magnetic-3d-spl-pendant?variant=gid://shopify/ProductVariant/67665824022755",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5461.jpg?v=1791798607"
+  },
+  "gid://shopify/ProductVariant/67665835458787": {
+    "product_title": "Fascinating  3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5437",
+    "price": 22800.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/fascinating-3d-spl-pendant?variant=gid://shopify/ProductVariant/67665835458787",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5437.jpg?v=1791799119"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -120418,6 +120436,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/shalikha-chain-with-earrings?variant=gid://shopify/ProductVariant/47180290916579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1220_1.jpg?v=1758089608"
+  },
+  "gid://shopify/ProductVariant/47180760613091": {
+    "product_title": "Ambika Victorian Long Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-10370",
+    "price": 26002.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ambika-victorian-long-earrings?variant=gid://shopify/ProductVariant/47180760613091",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10370.jpg?v=1758102191"
   },
   "gid://shopify/ProductVariant/49671811793123": {
     "product_title": "Lavanya Diamond Design Pair Bangle",
