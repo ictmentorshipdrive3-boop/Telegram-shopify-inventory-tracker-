@@ -9305,6 +9305,15 @@
     "url": "https://www.theamethyststore.com/products/amethyst-bridal-victorian-necklace-set?variant=gid://shopify/ProductVariant/45280582926563",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-6497_3.jpg?v=1727263973"
   },
+  "gid://shopify/ProductVariant/45280591282403": {
+    "product_title": "Amazing Victorian Long Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-6499",
+    "price": 232600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/amazing-victorian-long-necklace-set?variant=gid://shopify/ProductVariant/45280591282403",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-6499.jpg?v=1721283425"
+  },
   "gid://shopify/ProductVariant/45280595181795": {
     "product_title": "Amethyst Victorian Pair Bangles",
     "variant_title": "2.6\"",
@@ -14242,7 +14251,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-8036",
     "price": 98400.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/lalvani-avikam-choker-set?variant=gid://shopify/ProductVariant/45855236686051",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8036.jpg?v=1735642586"
   },
@@ -19663,15 +19672,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/vrindha-stone-jhumkas?variant=gid://shopify/ProductVariant/46422894936291",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8421.jpg?v=1749015854"
-  },
-  "gid://shopify/ProductVariant/46422927180003": {
-    "product_title": "Elevating Nagas Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-8433",
-    "price": 6586.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/elevating-nagas-studs?variant=gid://shopify/ProductVariant/46422927180003",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8433.jpg?v=1749017443"
   },
   "gid://shopify/ProductVariant/46422941204707": {
     "product_title": "Isha Nagas Studs",
@@ -111284,6 +111284,33 @@
     "url": "https://www.theamethyststore.com/products/graceful-and-enchanting-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/67665903714531",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18782.jpg?v=1791802650"
   },
+  "gid://shopify/ProductVariant/67665905909987": {
+    "product_title": "Royal Look 3D Spl Long Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18794",
+    "price": 81500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/royal-look-3d-spl-long-necklace-set?variant=gid://shopify/ProductVariant/67665905909987",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18794.jpg?v=1791803233"
+  },
+  "gid://shopify/ProductVariant/67665910923491": {
+    "product_title": "Divine Grandeur Stone Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18786",
+    "price": 98700.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/divine-grandeur-stone-short-necklace-set?variant=gid://shopify/ProductVariant/67665910923491",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18786.jpg?v=1791803176"
+  },
+  "gid://shopify/ProductVariant/67665911578851": {
+    "product_title": "Ashtalakshmi  3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5447",
+    "price": 18700.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/ashtalakshmi-3d-spl-pendant?variant=gid://shopify/ProductVariant/67665911578851",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5447.jpg?v=1791803190"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -114056,15 +114083,6 @@
     "url": "https://www.theamethyststore.com/products/charva-nagas-jhumkas?variant=gid://shopify/ProductVariant/45274428899555",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6264.jpg?v=1721121000"
   },
-  "gid://shopify/ProductVariant/45280591282403": {
-    "product_title": "Amazing Victorian Long Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-6499",
-    "price": 232600.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/amazing-victorian-long-necklace-set?variant=gid://shopify/ProductVariant/45280591282403",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-6499.jpg?v=1721283425"
-  },
   "gid://shopify/ProductVariant/45281198932195": {
     "product_title": "Alluring Hook Drops",
     "variant_title": "Default Title",
@@ -116782,6 +116800,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/laveena-stone-jhumkas?variant=gid://shopify/ProductVariant/46422883303651",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8429.jpg?v=1749015464"
+  },
+  "gid://shopify/ProductVariant/46422927180003": {
+    "product_title": "Elevating Nagas Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-8433",
+    "price": 6586.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/elevating-nagas-studs?variant=gid://shopify/ProductVariant/46422927180003",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8433.jpg?v=1749017443"
   },
   "gid://shopify/ProductVariant/46423038361827": {
     "product_title": "Vinitha Stone Pendant",
