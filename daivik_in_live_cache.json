@@ -11600,15 +11600,6 @@
     "url": "https://www.daivik.in/products/lotus-white-polish-ghungroo-necklace-with-jhumkas?variant=gid://shopify/ProductVariant/46700060541150",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/310AF119-2837-40D0-B29F-A1399C978FCD.jpg?v=1747235285"
   },
-  "gid://shopify/ProductVariant/46704375890142": {
-    "product_title": "Gold Finish Peacock Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "555",
-    "price": 1899.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/a-42?variant=gid://shopify/ProductVariant/46704375890142",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/DDEA169A-6099-4250-AF88-88AF87D15940.jpg?v=1747322128"
-  },
   "gid://shopify/ProductVariant/46707902513374": {
     "product_title": "Black Thread Guttapusalu Pendant set with Earrings in two Colors (Price for Each)",
     "variant_title": "White",
@@ -15880,7 +15871,7 @@
     "variant_title": "Default Title",
     "sku": "3509",
     "price": 299.0,
-    "stock": 12,
+    "stock": 10,
     "url": "https://www.daivik.in/products/b-2?variant=gid://shopify/ProductVariant/47648715538654",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/965E7C72-A319-4666-8B5A-09D882379028.jpg?v=1762013720"
   },
@@ -22774,7 +22765,7 @@
     "variant_title": "Default Title",
     "sku": "D26309",
     "price": 449.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26309?variant=gid://shopify/ProductVariant/49155189932254",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6551.jpg?v=1791377537"
   },
@@ -23089,7 +23080,7 @@
     "variant_title": "Default Title",
     "sku": "D26335",
     "price": 599.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26335?variant=gid://shopify/ProductVariant/49162124198110",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6620.jpg?v=1791443891"
   },
@@ -24619,7 +24610,7 @@
     "variant_title": "Default Title",
     "sku": "D26173",
     "price": 649.0,
-    "stock": 32,
+    "stock": 31,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26173?variant=gid://shopify/ProductVariant/49169795711198",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_72802.jpg?v=1791532748"
   },
@@ -24781,7 +24772,7 @@
     "variant_title": "2.8",
     "sku": "D26502",
     "price": 349.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d26502?variant=gid://shopify/ProductVariant/49178379714782",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70442.jpg?v=1791535567"
   },
@@ -25312,7 +25303,7 @@
     "variant_title": "Green",
     "sku": "D26530",
     "price": 399.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d26530?variant=gid://shopify/ProductVariant/49178381779166",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_71112_105672c9-d362-4dd1-a5cb-7f5eeb92a3ca.jpg?v=1791536964"
   },
@@ -25906,7 +25897,7 @@
     "variant_title": "Default Title",
     "sku": "D26804",
     "price": 1499.0,
-    "stock": 13,
+    "stock": 12,
     "url": "https://www.daivik.in/products/diwali-sale-hipbelt-d26804?variant=gid://shopify/ProductVariant/49178384269534",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7141.jpg?v=1791538060"
   },
@@ -26059,7 +26050,7 @@
     "variant_title": "Default Title",
     "sku": "D26188",
     "price": 299.0,
-    "stock": 44,
+    "stock": 43,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26188?variant=gid://shopify/ProductVariant/49183619121374",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7415.jpg?v=1791626081"
   },
@@ -32776,6 +32767,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/white-ad-stone-set-of-4-bangles?variant=gid://shopify/ProductVariant/46693754142942",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A12E9E4A-F39F-4860-B032-97FE6AE0A5A8.jpg?v=1747117101"
+  },
+  "gid://shopify/ProductVariant/46704375890142": {
+    "product_title": "Gold Finish Peacock Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "555",
+    "price": 1899.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/a-42?variant=gid://shopify/ProductVariant/46704375890142",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/DDEA169A-6099-4250-AF88-88AF87D15940.jpg?v=1747322128"
   },
   "gid://shopify/ProductVariant/46707902546142": {
     "product_title": "Black Thread Guttapusalu Pendant set with Earrings in two Colors (Price for Each)",
