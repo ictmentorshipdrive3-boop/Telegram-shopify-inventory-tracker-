@@ -54521,15 +54521,6 @@
     "url": "https://www.theamethyststore.com/products/liyanka-hair-maatal?variant=gid://shopify/ProductVariant/48025385894115",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1400.jpg?v=1770446826"
   },
-  "gid://shopify/ProductVariant/48026076512483": {
-    "product_title": "Pavisha Chain",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-1754",
-    "price": 13719.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/pavisha-chain?variant=gid://shopify/ProductVariant/48026076512483",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1754.jpg?v=1770447441"
-  },
   "gid://shopify/ProductVariant/48026398752995": {
     "product_title": "Classy Kundan Chain",
     "variant_title": "Default Title",
@@ -95926,7 +95917,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-2283",
     "price": 5287.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/stone-ring-2?variant=gid://shopify/ProductVariant/49653655339235",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2283.jpg?v=1788251311"
   },
@@ -126862,6 +126853,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/chic-fabulous-chain?variant=gid://shopify/ProductVariant/48025582633187",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1755.jpg?v=1770447011"
+  },
+  "gid://shopify/ProductVariant/48026076512483": {
+    "product_title": "Pavisha Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-1754",
+    "price": 13719.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/pavisha-chain?variant=gid://shopify/ProductVariant/48026076512483",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1754.jpg?v=1770447441"
   },
   "gid://shopify/ProductVariant/48027337457891": {
     "product_title": "Stunning Mugappu Chain",
