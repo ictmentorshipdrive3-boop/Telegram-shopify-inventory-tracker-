@@ -44315,15 +44315,6 @@
     "url": "https://www.theamethyststore.com/products/auronikha-nagas-jhumkas?variant=gid://shopify/ProductVariant/47553154482403",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11211.jpg?v=1763365382"
   },
-  "gid://shopify/ProductVariant/47553214972131": {
-    "product_title": "Artistry Nagas Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-11192",
-    "price": 20100.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/artistry-nagas-jhumkas?variant=gid://shopify/ProductVariant/47553214972131",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11192.jpg?v=1763366448"
-  },
   "gid://shopify/ProductVariant/47553258422499": {
     "product_title": "Unique Nagas Jhumkas",
     "variant_title": "Default Title",
@@ -78929,15 +78920,6 @@
     "url": "https://www.theamethyststore.com/products/timeless-treasures-3d-spl-long-necklace?variant=gid://shopify/ProductVariant/49423035662563",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16752.jpg?v=1784355854"
   },
-  "gid://shopify/ProductVariant/49423051653347": {
-    "product_title": "Aaradhya 3D Spl Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16753",
-    "price": 81300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/aaradhya-3d-spl-long-necklace?variant=gid://shopify/ProductVariant/49423051653347",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16753.jpg?v=1784356023"
-  },
   "gid://shopify/ProductVariant/49423062106339": {
     "product_title": "Yamitha Nagas Long Necklace",
     "variant_title": "Default Title",
@@ -111590,6 +111572,24 @@
     "url": "https://www.theamethyststore.com/products/glamorous-beads-chain?variant=gid://shopify/ProductVariant/67675259666659",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2285.jpg?v=1791889806"
   },
+  "gid://shopify/ProductVariant/67675296760035": {
+    "product_title": "Exceptional Flow Beads Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2287",
+    "price": 41131.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/exceptional-flow-beads-chain?variant=gid://shopify/ProductVariant/67675296760035",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2287.jpg?v=1791890347"
+  },
+  "gid://shopify/ProductVariant/67675447853283": {
+    "product_title": "Mesmerising Beads Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2290",
+    "price": 34294.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/mesmerising-beads-chain?variant=gid://shopify/ProductVariant/67675447853283",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2290.jpg?v=1791890890"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -123109,6 +123109,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nishvanya-nagas-jhumkas-2?variant=gid://shopify/ProductVariant/47553192001763",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11191.jpg?v=1763366145"
+  },
+  "gid://shopify/ProductVariant/47553214972131": {
+    "product_title": "Artistry Nagas Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-11192",
+    "price": 20100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/artistry-nagas-jhumkas?variant=gid://shopify/ProductVariant/47553214972131",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11192.jpg?v=1763366448"
   },
   "gid://shopify/ProductVariant/47569472880867": {
     "product_title": "Shine Charm Pair Bangles",
@@ -139192,6 +139201,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/luxurious-3d-spl-long-necklace-1?variant=gid://shopify/ProductVariant/49422982906083",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16748.jpg?v=1784355107"
+  },
+  "gid://shopify/ProductVariant/49423051653347": {
+    "product_title": "Aaradhya 3D Spl Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16753",
+    "price": 81300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/aaradhya-3d-spl-long-necklace?variant=gid://shopify/ProductVariant/49423051653347",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16753.jpg?v=1784356023"
   },
   "gid://shopify/ProductVariant/49423171354851": {
     "product_title": "Eternal Heritage 3D Spl Long Necklace",
