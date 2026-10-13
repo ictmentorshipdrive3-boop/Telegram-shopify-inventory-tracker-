@@ -108562,7 +108562,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18705",
     "price": 85400.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/divine-lakshmi-stone-short-necklace-set?variant=gid://shopify/ProductVariant/67634081497315",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18705.jpg?v=1791358387"
   },
@@ -111445,6 +111445,15 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/graceful-avikam-bracelet?variant=gid://shopify/ProductVariant/67672277614819",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1564.jpg?v=1791871656"
+  },
+  "gid://shopify/ProductVariant/67672381587683": {
+    "product_title": "Vibrant Glow Kundan Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5228",
+    "price": 17428.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/vibrant-glow-kundan-pendant?variant=gid://shopify/ProductVariant/67672381587683",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5228.jpg?v=1791872498"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -145348,14 +145357,5 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/majesty-3d-spl-pendant?variant=gid://shopify/ProductVariant/67635634012387",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5283.jpg?v=1791375885"
-  },
-  "gid://shopify/ProductVariant/67646552801507": {
-    "product_title": "Luxurious Finish Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-18460",
-    "price": 73300.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/luxurious-finish-short-necklace?variant=gid://shopify/ProductVariant/67646552801507",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18460.jpg?v=1791467736"
   }
 }
