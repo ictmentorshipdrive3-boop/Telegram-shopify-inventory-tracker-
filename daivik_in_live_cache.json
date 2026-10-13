@@ -6430,7 +6430,7 @@
     "variant_title": "Ruby",
     "sku": "881",
     "price": 999.0,
-    "stock": 49,
+    "stock": 48,
     "url": "https://www.daivik.in/products/victorian-ad-choker-with-earrings?variant=gid://shopify/ProductVariant/45204086194398",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0234.jpg?v=1779468898"
   },
@@ -6601,7 +6601,7 @@
     "variant_title": "Green",
     "sku": "102",
     "price": 999.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/ad-doublet-stone-designer-earrings?variant=gid://shopify/ProductVariant/45291773755614",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1C8B0B54-9702-4641-BDEB-DFBAD3E4A568.jpg?v=1714322429"
   },
@@ -6934,7 +6934,7 @@
     "variant_title": "Default Title",
     "sku": "707",
     "price": 999.0,
-    "stock": 35,
+    "stock": 34,
     "url": "https://www.daivik.in/products/simple-short-necklace-with-earrings?variant=gid://shopify/ProductVariant/45511281246430",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EB3D2E36-E709-46C0-A0A1-E28FC5956941.jpg?v=1717942697"
   },
@@ -10007,15 +10007,6 @@
     "url": "https://www.daivik.in/products/a-3?variant=gid://shopify/ProductVariant/46169605538014",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D4A3F33F-5DB6-41F4-B8F8-CE21DA8FEFF4.jpg?v=1734874969"
   },
-  "gid://shopify/ProductVariant/46169398345950": {
-    "product_title": "Pure Kemp Brass Ruby Green Hipchain",
-    "variant_title": "Default Title",
-    "sku": "1523",
-    "price": 8499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/b-1?variant=gid://shopify/ProductVariant/46169398345950",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5D314CDD-277D-4147-9F27-9A42CA8AC75A.jpg?v=1734875025"
-  },
   "gid://shopify/ProductVariant/46171746336990": {
     "product_title": "Peacock White Pearl Jhumkas",
     "variant_title": "Default Title",
@@ -10759,7 +10750,7 @@
     "variant_title": "Default Title",
     "sku": "1234",
     "price": 699.0,
-    "stock": 50,
+    "stock": 49,
     "url": "https://www.daivik.in/products/ad-hasli-dark-green-necklace-with-balis?variant=gid://shopify/ProductVariant/46349036519646",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/063511AC-1CDD-4E77-AC0F-4966AF43C301.jpg?v=1741505033"
   },
@@ -22729,7 +22720,7 @@
     "variant_title": "Default Title",
     "sku": "D26302",
     "price": 249.0,
-    "stock": 22,
+    "stock": 21,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26302?variant=gid://shopify/ProductVariant/49155188293854",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6535_56ef1d42-543a-4722-8561-50abdab6b592.jpg?v=1791377505"
   },
@@ -24106,7 +24097,7 @@
     "variant_title": "Green",
     "sku": "D26125",
     "price": 749.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26125?variant=gid://shopify/ProductVariant/49169758290142",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6882.jpg?v=1791457579"
   },
@@ -24610,7 +24601,7 @@
     "variant_title": "Default Title",
     "sku": "D26170",
     "price": 499.0,
-    "stock": 21,
+    "stock": 20,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26170?variant=gid://shopify/ProductVariant/49169793745118",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_72713.jpg?v=1791532691"
   },
@@ -24682,7 +24673,7 @@
     "variant_title": "Default Title",
     "sku": "D26175",
     "price": 699.0,
-    "stock": 22,
+    "stock": 21,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26175?variant=gid://shopify/ProductVariant/49169797120222",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7292.jpg?v=1791532787"
   },
@@ -31741,6 +31732,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/a-3?variant=gid://shopify/ProductVariant/46169605570782",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D4A3F33F-5DB6-41F4-B8F8-CE21DA8FEFF4.jpg?v=1734874969"
+  },
+  "gid://shopify/ProductVariant/46169398345950": {
+    "product_title": "Pure Kemp Brass Ruby Green Hipchain",
+    "variant_title": "Default Title",
+    "sku": "1523",
+    "price": 8499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/b-1?variant=gid://shopify/ProductVariant/46169398345950",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5D314CDD-277D-4147-9F27-9A42CA8AC75A.jpg?v=1734875025"
   },
   "gid://shopify/ProductVariant/46181115363550": {
     "product_title": "Brass kemp Manga White Polish long Haram",
