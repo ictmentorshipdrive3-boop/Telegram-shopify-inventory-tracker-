@@ -24578,15 +24578,6 @@
     "url": "https://www.rasasilver.com/products/navya-adjustable-cz-ring?variant=gid://shopify/ProductVariant/67601923244329",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct21287.jpg?v=1791373112"
   },
-  "gid://shopify/ProductVariant/67573433565481": {
-    "product_title": "Aurelia Adjustable CZ Ring",
-    "variant_title": "Default Title",
-    "sku": "R35520",
-    "price": 1870.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/aurelia-adjustable-cz-ring?variant=gid://shopify/ProductVariant/67573433565481",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct21296.jpg?v=1791373247"
-  },
   "gid://shopify/ProductVariant/67573480915241": {
     "product_title": "Velora CZ Necklace Set",
     "variant_title": "Default Title",
@@ -49148,6 +49139,15 @@
     "url": "https://www.rasasilver.com/products/ambika-temple-bangles?variant=gid://shopify/ProductVariant/67577048334633",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct3230.jpg?v=1791369936"
   },
+  "gid://shopify/ProductVariant/67573433565481": {
+    "product_title": "Aurelia Adjustable CZ Ring",
+    "variant_title": "Default Title",
+    "sku": "R35520",
+    "price": 1870.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/aurelia-adjustable-cz-ring?variant=gid://shopify/ProductVariant/67573433565481",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct21296.jpg?v=1791373247"
+  },
   "gid://shopify/ProductVariant/67612782100777": {
     "product_title": "Vara-Lakshmi Temple Choker",
     "variant_title": "Default Title",
@@ -49201,5 +49201,14 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/sri-manjari-temple-necklace?variant=gid://shopify/ProductVariant/67618916663593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_51_27Pics_10Oct3338.jpg?v=1791876687"
+  },
+  "gid://shopify/ProductVariant/67622636323113": {
+    "product_title": "Victorian Floral Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R23443",
+    "price": 96177.5,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/victorian-floral-necklace-set?variant=gid://shopify/ProductVariant/67622636323113",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/LuxuryEmeraldKundanJewelryFlatLay.png?v=1791895777"
   }
 }
