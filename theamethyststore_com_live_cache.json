@@ -2812,7 +2812,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-0301",
     "price": 7900.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/shiviya-kundan-ring?variant=gid://shopify/ProductVariant/43503795437795",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-101-0301_1.jpg?v=1667741931"
   },
@@ -65780,15 +65780,6 @@
     "url": "https://www.theamethyststore.com/products/mahika-stone-maatal?variant=gid://shopify/ProductVariant/48926955569379",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2297.jpg?v=1778305142"
   },
-  "gid://shopify/ProductVariant/48926960189667": {
-    "product_title": "Riyana Stone Maatal",
-    "variant_title": "Default Title",
-    "sku": "AMS-109-2296",
-    "price": 31570.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/riyana-stone-maatal?variant=gid://shopify/ProductVariant/48926960189667",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2296.jpg?v=1778305354"
-  },
   "gid://shopify/ProductVariant/48926964154595": {
     "product_title": "Enchanting Nagas Short Necklace",
     "variant_title": "Default Title",
@@ -80626,7 +80617,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-2161",
     "price": 14000.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/shinning-moissanite-ring?variant=gid://shopify/ProductVariant/49445345394915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2161.jpg?v=1784955982"
   },
@@ -109421,15 +109412,6 @@
     "url": "https://www.theamethyststore.com/products/dhivaara-stone-bracelet?variant=gid://shopify/ProductVariant/67651696853219",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1555.jpg?v=1791543022"
   },
-  "gid://shopify/ProductVariant/67651702456547": {
-    "product_title": "Stylish Stone Bracelet",
-    "variant_title": "Default Title",
-    "sku": "AMS-103-1554",
-    "price": 9400.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/dhivara-bracelet?variant=gid://shopify/ProductVariant/67651702456547",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1554_3.jpg?v=1791543502"
-  },
   "gid://shopify/ProductVariant/67651723264227": {
     "product_title": "Exquisite Moissanite Bracelet",
     "variant_title": "Default Title",
@@ -131525,6 +131507,15 @@
     "url": "https://www.theamethyststore.com/products/mesmerizing-nagas-short-necklace?variant=gid://shopify/ProductVariant/48926959075555",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15678.jpg?v=1778305222"
   },
+  "gid://shopify/ProductVariant/48926960189667": {
+    "product_title": "Riyana Stone Maatal",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2296",
+    "price": 31570.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/riyana-stone-maatal?variant=gid://shopify/ProductVariant/48926960189667",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2296.jpg?v=1778305354"
+  },
   "gid://shopify/ProductVariant/48926960681187": {
     "product_title": "Admire Nagas Short Necklace",
     "variant_title": "Default Title",
@@ -145465,5 +145456,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/majesty-3d-spl-pendant?variant=gid://shopify/ProductVariant/67635634012387",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5283.jpg?v=1791375885"
+  },
+  "gid://shopify/ProductVariant/67651702456547": {
+    "product_title": "Stylish Stone Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1554",
+    "price": 9400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/dhivara-bracelet?variant=gid://shopify/ProductVariant/67651702456547",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1554_3.jpg?v=1791543502"
   }
 }
