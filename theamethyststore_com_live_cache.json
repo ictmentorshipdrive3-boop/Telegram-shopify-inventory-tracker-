@@ -13828,7 +13828,7 @@
     "variant_title": "2.4\"",
     "sku": "AMS-107-1558-2.4\"",
     "price": 27594.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/nitra-kundan-pair-bangle?variant=gid://shopify/ProductVariant/49681948279011",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1558-_2.jpg?v=1733484363"
   },
@@ -32215,7 +32215,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-1594",
     "price": 2885.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/rishikha-stone-ring?variant=gid://shopify/ProductVariant/47089417388259",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1594.jpg?v=1756903175"
   },
@@ -40732,15 +40732,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/yalitha-pachi-ring?variant=gid://shopify/ProductVariant/47374262304995",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1656.jpg?v=1761138158"
-  },
-  "gid://shopify/ProductVariant/47374291042531": {
-    "product_title": "Wadhika Mugappu Chain",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-1453",
-    "price": 19849.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/wadhika-mugappu-chain?variant=gid://shopify/ProductVariant/47374291042531",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1453.jpg?v=1761138261"
   },
   "gid://shopify/ProductVariant/47374346518755": {
     "product_title": "Riyana Mugappu Chain",
@@ -122407,6 +122398,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/forest-greenish-ring?variant=gid://shopify/ProductVariant/47374215053539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1655.jpg?v=1761138010"
+  },
+  "gid://shopify/ProductVariant/47374291042531": {
+    "product_title": "Wadhika Mugappu Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-1453",
+    "price": 19849.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/wadhika-mugappu-chain?variant=gid://shopify/ProductVariant/47374291042531",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1453.jpg?v=1761138261"
   },
   "gid://shopify/ProductVariant/47374523891939": {
     "product_title": "Priyasri Pakshi Ring",
