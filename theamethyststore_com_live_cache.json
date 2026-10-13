@@ -48208,7 +48208,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-113-0414",
     "price": 2000.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/classy-bullakku-nose-pin?variant=gid://shopify/ProductVariant/47797630009571",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0414.jpg?v=1767683450"
   },
@@ -49135,7 +49135,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-113-0392",
     "price": 1500.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/dazzle-bullakku-nose-pin?variant=gid://shopify/ProductVariant/47807882002659",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0392.jpg?v=1767964135"
   },
@@ -62248,7 +62248,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-1230",
     "price": 21100.0,
-    "stock": 4,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/fabulous-kundan-bracelet?variant=gid://shopify/ProductVariant/48821012922595",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1230.jpg?v=1776241522"
   },
@@ -98198,15 +98198,6 @@
     "url": "https://www.theamethyststore.com/products/glowing-nagas-short-necklace-1?variant=gid://shopify/ProductVariant/49699539910883",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17797.jpg?v=1788756312"
   },
-  "gid://shopify/ProductVariant/49699551019235": {
-    "product_title": "Shine with Vibrant Nagas Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17808",
-    "price": 36189.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/shine-with-vibrant-nagas-short-necklace?variant=gid://shopify/ProductVariant/49699551019235",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17808.jpg?v=1788756882"
-  },
   "gid://shopify/ProductVariant/49699597549795": {
     "product_title": "Simply Unique Nagas Short Necklace",
     "variant_title": "Default Title",
@@ -111661,6 +111652,24 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/splendid-beads-chain?variant=gid://shopify/ProductVariant/67676951380195",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2309.jpg?v=1791896201"
+  },
+  "gid://shopify/ProductVariant/67677126656227": {
+    "product_title": "Finely Crafted Beads Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2310",
+    "price": 19858.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/finely-crafted-beads-chain?variant=gid://shopify/ProductVariant/67677126656227",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2310.jpg?v=1791896772"
+  },
+  "gid://shopify/ProductVariant/67677191045347": {
+    "product_title": "Eye-Catching Beads Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2311",
+    "price": 36991.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/eye-catching-beads-chain?variant=gid://shopify/ProductVariant/67677191045347",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2311.jpg?v=1791896992"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -144574,6 +144583,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nagas-short-necklace-12?variant=gid://shopify/ProductVariant/49695621906659",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17854.jpg?v=1788703616"
+  },
+  "gid://shopify/ProductVariant/49699551019235": {
+    "product_title": "Shine with Vibrant Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17808",
+    "price": 36189.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/shine-with-vibrant-nagas-short-necklace?variant=gid://shopify/ProductVariant/49699551019235",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17808.jpg?v=1788756882"
   },
   "gid://shopify/ProductVariant/49699572777187": {
     "product_title": "Timeless and Traditional Stone Short Necklace",
