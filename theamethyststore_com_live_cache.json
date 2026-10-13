@@ -31297,7 +31297,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-10180",
     "price": 5800.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/devika-drop-earrings?variant=gid://shopify/ProductVariant/47081252782307",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10180.jpg?v=1756719623"
   },
@@ -32587,15 +32587,6 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/ring-8?variant=gid://shopify/ProductVariant/49681953816803",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1550.jpg?v=1757151465"
-  },
-  "gid://shopify/ProductVariant/49678772666595": {
-    "product_title": "Sparkle Ring",
-    "variant_title": "8",
-    "sku": "AMS-101-1592-08\"",
-    "price": 3504.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/sparkle-ring?variant=gid://shopify/ProductVariant/49678772666595",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1592.jpg?v=1757151700"
   },
   "gid://shopify/ProductVariant/49681953849571": {
     "product_title": "Sparkle Ring",
@@ -120868,6 +120859,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/ring-7?variant=gid://shopify/ProductVariant/49681952833763",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1593.jpg?v=1757151201"
+  },
+  "gid://shopify/ProductVariant/49678772666595": {
+    "product_title": "Sparkle Ring",
+    "variant_title": "8",
+    "sku": "AMS-101-1592-08\"",
+    "price": 3504.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/sparkle-ring?variant=gid://shopify/ProductVariant/49678772666595",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1592.jpg?v=1757151700"
   },
   "gid://shopify/ProductVariant/49681955684579": {
     "product_title": "Stunning Ring",
