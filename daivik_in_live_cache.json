@@ -1831,7 +1831,7 @@
     "variant_title": "Default Title",
     "sku": "486",
     "price": 1599.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/ad-leaf-motif-mattals?variant=gid://shopify/ProductVariant/42351495610590",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_db213c40-3f27-4282-9181-6d5d6ea5a062.jpg?v=1642339852"
   },
@@ -3094,15 +3094,6 @@
     "stock": 2,
     "url": "https://www.daivik.in/products/a-348?variant=gid://shopify/ProductVariant/43618869838046",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_22af8e75-f60a-4c0a-88e0-e80aa712b268.heic?v=1667568546"
-  },
-  "gid://shopify/ProductVariant/43630214349022": {
-    "product_title": "Tikka (Price for each )",
-    "variant_title": "3.",
-    "sku": "1023",
-    "price": 1099.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/a-349?variant=gid://shopify/ProductVariant/43630214349022",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_91c2a3d5-77e4-46d3-a42c-2774b24808b5.heic?v=1667830052"
   },
   "gid://shopify/ProductVariant/43638970941662": {
     "product_title": "Antique kemp brass Temple bridal necklace",
@@ -4603,7 +4594,7 @@
     "variant_title": "2.4",
     "sku": "73",
     "price": 699.0,
-    "stock": 56,
+    "stock": 55,
     "url": "https://www.daivik.in/products/antique-lakshmi-white-stone-bangles?variant=gid://shopify/ProductVariant/44369094967518",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/77947BBF-DB6F-4632-B632-B2DBC4C85B6D.jpg?v=1696002712"
   },
@@ -21194,15 +21185,6 @@
     "url": "https://www.daivik.in/products/simple-ghungroo-anklets?variant=gid://shopify/ProductVariant/49074635047134",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_2600.jpg?v=1789661751"
   },
-  "gid://shopify/ProductVariant/49079032316126": {
-    "product_title": "Antique Lakshmi Vanki (Arm Band) (Price for 1 pc)",
-    "variant_title": "Default Title",
-    "sku": "1967",
-    "price": 1699.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/antique-lakshmi-vanki-arm-band?variant=gid://shopify/ProductVariant/49079032316126",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CB51C7C0-EE32-45D2-87EE-C16609C1036B.jpg?v=1789747611"
-  },
   "gid://shopify/ProductVariant/49081679446238": {
     "product_title": "Diamond Look Alike Premium Jali Circular Pendant Chain with Earrings",
     "variant_title": "Default Title",
@@ -28493,6 +28475,15 @@
     "url": "https://www.daivik.in/products/a-349?variant=gid://shopify/ProductVariant/43630214316254",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_91c2a3d5-77e4-46d3-a42c-2774b24808b5.heic?v=1667830052"
   },
+  "gid://shopify/ProductVariant/43630214349022": {
+    "product_title": "Tikka (Price for each )",
+    "variant_title": "3.",
+    "sku": "1023",
+    "price": 1099.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/a-349?variant=gid://shopify/ProductVariant/43630214349022",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_91c2a3d5-77e4-46d3-a42c-2774b24808b5.heic?v=1667830052"
+  },
   "gid://shopify/ProductVariant/43630214381790": {
     "product_title": "Tikka (Price for each )",
     "variant_title": "4.",
@@ -35728,6 +35719,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/lakshmi-rashmika-inspired-mangalsutra?variant=gid://shopify/ProductVariant/48801242218718",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1820.jpg?v=1788005030"
+  },
+  "gid://shopify/ProductVariant/49079032316126": {
+    "product_title": "Antique Lakshmi Vanki (Arm Band) (Price for 1 pc)",
+    "variant_title": "Default Title",
+    "sku": "1967",
+    "price": 1699.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/antique-lakshmi-vanki-arm-band?variant=gid://shopify/ProductVariant/49079032316126",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CB51C7C0-EE32-45D2-87EE-C16609C1036B.jpg?v=1789747611"
   },
   "gid://shopify/ProductVariant/49143563256030": {
     "product_title": "Pure kemp Brass Jadau Kasumala",
