@@ -1115,15 +1115,6 @@
     "url": "https://www.rasasilver.com/products/cartier-nail-bracelet?variant=gid://shopify/ProductVariant/50273759527209",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP05021copy_1.jpg?v=1746598081"
   },
-  "gid://shopify/ProductVariant/50278278988073": {
-    "product_title": "Kaushalya Temple Necklace",
-    "variant_title": "Default Title",
-    "sku": "R22871",
-    "price": 14620.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/ae-1?variant=gid://shopify/ProductVariant/50278278988073",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/123.jpg?v=1750078120"
-  },
   "gid://shopify/ProductVariant/50278447972649": {
     "product_title": "Shridevi-Vishnu Short Necklace",
     "variant_title": "RED",
@@ -22117,7 +22108,7 @@
     "variant_title": "Default Title",
     "sku": "R30484",
     "price": 4300.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.rasasilver.com/products/back-chain?variant=gid://shopify/ProductVariant/53426656870697",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageAug24_2026_12_36_13PM.png?v=1787555201"
   },
@@ -24565,7 +24556,7 @@
     "variant_title": "Default Title",
     "sku": "R37587",
     "price": 10965.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/bala-tripura-temple-pendant?variant=gid://shopify/ProductVariant/67568992747817",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct21249.jpg?v=1791370633"
   },
@@ -24928,6 +24919,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/ae?variant=gid://shopify/ProductVariant/50278105841961",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2_1cf1a09d-17a4-4a7a-b3d1-39d1a6794709.jpg?v=1753771816"
+  },
+  "gid://shopify/ProductVariant/50278278988073": {
+    "product_title": "Kaushalya Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R22871",
+    "price": 14620.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ae-1?variant=gid://shopify/ProductVariant/50278278988073",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/123.jpg?v=1750078120"
   },
   "gid://shopify/ProductVariant/50278447939881": {
     "product_title": "Shridevi-Vishnu Short Necklace",
