@@ -10480,7 +10480,7 @@
     "variant_title": "Default Title",
     "sku": "NK10",
     "price": 4550.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.kanshijewels.com/products/kundan-necklace-with-freshwater-pearls?variant=gid://shopify/ProductVariant/53180520071468",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_3511.jpg?v=1778132179"
   },
@@ -11110,7 +11110,7 @@
     "variant_title": "Default Title",
     "sku": "NK931",
     "price": 1450.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.kanshijewels.com/products/elegant-jadau-bridesmaids-chokar?variant=gid://shopify/ProductVariant/53420202950956",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1450_-elegantjadaubridesmaidschokar.jpg?v=1783572635"
   },
@@ -11483,15 +11483,6 @@
     "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-5?variant=gid://shopify/ProductVariant/53714353389868",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Kanshijewels_26.jpg?v=1787030614"
   },
-  "gid://shopify/ProductVariant/53714365219116": {
-    "product_title": "Classic Jadau Earrings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2699.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-6?variant=gid://shopify/ProductVariant/53714365219116",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Kanshijewels_25.jpg?v=1787030996"
-  },
   "gid://shopify/ProductVariant/53714367250732": {
     "product_title": "Classic Jadau Earrings",
     "variant_title": "Default Title",
@@ -11527,15 +11518,6 @@
     "stock": 1,
     "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-13?variant=gid://shopify/ProductVariant/53714443862316",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Kanshijewels_18.jpg?v=1787033643"
-  },
-  "gid://shopify/ProductVariant/53714474336556": {
-    "product_title": "Classic Jadau Earrings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 4099.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-16?variant=gid://shopify/ProductVariant/53714474336556",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Kanshijewels_14.jpg?v=1787034261"
   },
   "gid://shopify/ProductVariant/53714481152300": {
     "product_title": "Classic Jadau Earrings",
@@ -14588,6 +14570,15 @@
     "url": "https://www.kanshijewels.com/products/victorian-gold-finish?variant=gid://shopify/ProductVariant/53420297486636",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Victoriangoldfinish1999.jpg?v=1783579832"
   },
+  "gid://shopify/ProductVariant/53714365219116": {
+    "product_title": "Classic Jadau Earrings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2699.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-6?variant=gid://shopify/ProductVariant/53714365219116",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Kanshijewels_25.jpg?v=1787030996"
+  },
   "gid://shopify/ProductVariant/53714419122476": {
     "product_title": "Classic Jadau Earrings",
     "variant_title": "Default Title",
@@ -14596,6 +14587,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-12?variant=gid://shopify/ProductVariant/53714419122476",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/4999_fbba58e9-64eb-4eb7-9498-f3ba77fd9078.jpg?v=1787032972"
+  },
+  "gid://shopify/ProductVariant/53714474336556": {
+    "product_title": "Classic Jadau Earrings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 4099.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-16?variant=gid://shopify/ProductVariant/53714474336556",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Kanshijewels_14.jpg?v=1787034261"
   },
   "gid://shopify/ProductVariant/53714491965740": {
     "product_title": "Classic Jadau Earrings",
