@@ -2137,7 +2137,7 @@
     "variant_title": "Default Title",
     "sku": "440",
     "price": 1099.0,
-    "stock": 29,
+    "stock": 28,
     "url": "https://www.daivik.in/products/mid-length-pearl-haram-with-earrings?variant=gid://shopify/ProductVariant/42596453679326",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_fe1efc07-b9b7-48c3-8d34-3487124b5a50.heic?v=1647967302"
   },
@@ -11803,7 +11803,7 @@
     "variant_title": "Default Title",
     "sku": "1611",
     "price": 7499.0,
-    "stock": 13,
+    "stock": 12,
     "url": "https://www.daivik.in/products/pure-kemp-brass-jhumkas?variant=gid://shopify/ProductVariant/46908416131294",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2B3F8E98-D4F4-49E4-A8C2-8DAF9F328483.jpg?v=1748669392"
   },
@@ -22657,7 +22657,7 @@
     "variant_title": "Default Title",
     "sku": "1983",
     "price": 699.0,
-    "stock": 24,
+    "stock": 23,
     "url": "https://www.daivik.in/products/simple-antique-ad-jhumkas-with-mattal?variant=gid://shopify/ProductVariant/49149774004446",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BBC1D9BD-0761-4C5D-ACA9-806510AD15E1.jpg?v=1791111714"
   },
@@ -24556,7 +24556,7 @@
     "variant_title": "Default Title",
     "sku": "D26171",
     "price": 399.0,
-    "stock": 51,
+    "stock": 50,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26171?variant=gid://shopify/ProductVariant/49169794400478",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7274.jpg?v=1791532700"
   },
@@ -25987,7 +25987,7 @@
     "variant_title": "Default Title",
     "sku": "D26187",
     "price": 649.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26187?variant=gid://shopify/ProductVariant/49183619088606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7412.jpg?v=1791626076"
   },
@@ -26370,7 +26370,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4716F1ED-414C-4447-B48A-BFB0EF7DA1BD.jpg?v=1791970195"
   },
   "gid://shopify/ProductVariant/49211286094046": {
-    "product_title": "Kid's Set of 4 Green Bangles in 4 Sizes",
+    "product_title": "Kid's Set of 4 Green Bangles",
     "variant_title": "1/10",
     "sku": "1988",
     "price": 699.0,
@@ -26379,7 +26379,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8CDD8724-2403-47C6-81F3-E8C4E2742C82.jpg?v=1791970304"
   },
   "gid://shopify/ProductVariant/49211286126814": {
-    "product_title": "Kid's Set of 4 Green Bangles in 4 Sizes",
+    "product_title": "Kid's Set of 4 Green Bangles",
     "variant_title": "1/12",
     "sku": "1988",
     "price": 699.0,
@@ -26388,7 +26388,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8CDD8724-2403-47C6-81F3-E8C4E2742C82.jpg?v=1791970304"
   },
   "gid://shopify/ProductVariant/49211286159582": {
-    "product_title": "Kid's Set of 4 Green Bangles in 4 Sizes",
+    "product_title": "Kid's Set of 4 Green Bangles",
     "variant_title": "1/14",
     "sku": "1988",
     "price": 699.0,
@@ -26397,13 +26397,121 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8CDD8724-2403-47C6-81F3-E8C4E2742C82.jpg?v=1791970304"
   },
   "gid://shopify/ProductVariant/49211286192350": {
-    "product_title": "Kid's Set of 4 Green Bangles in 4 Sizes",
+    "product_title": "Kid's Set of 4 Green Bangles",
     "variant_title": "2",
     "sku": "1988",
     "price": 699.0,
     "stock": 8,
     "url": "https://www.daivik.in/products/kids-set-of-4-green-bangles-in-4-sizes?variant=gid://shopify/ProductVariant/49211286192350",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8CDD8724-2403-47C6-81F3-E8C4E2742C82.jpg?v=1791970304"
+  },
+  "gid://shopify/ProductVariant/49211292057822": {
+    "product_title": "Kid's Set of 4 Ruby Bangles",
+    "variant_title": "1/10",
+    "sku": "1989",
+    "price": 699.0,
+    "stock": 3,
+    "url": "https://www.daivik.in/products/kids-set-of-4-ruby-bangles-in-4-sizes-copy?variant=gid://shopify/ProductVariant/49211292057822",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7D896D46-27F8-4E99-A7D6-D0DB74959773.jpg?v=1791970304"
+  },
+  "gid://shopify/ProductVariant/49211292090590": {
+    "product_title": "Kid's Set of 4 Ruby Bangles",
+    "variant_title": "1/12",
+    "sku": "1989",
+    "price": 699.0,
+    "stock": 4,
+    "url": "https://www.daivik.in/products/kids-set-of-4-ruby-bangles-in-4-sizes-copy?variant=gid://shopify/ProductVariant/49211292090590",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7D896D46-27F8-4E99-A7D6-D0DB74959773.jpg?v=1791970304"
+  },
+  "gid://shopify/ProductVariant/49211292123358": {
+    "product_title": "Kid's Set of 4 Ruby Bangles",
+    "variant_title": "1/14",
+    "sku": "1989",
+    "price": 699.0,
+    "stock": 5,
+    "url": "https://www.daivik.in/products/kids-set-of-4-ruby-bangles-in-4-sizes-copy?variant=gid://shopify/ProductVariant/49211292123358",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7D896D46-27F8-4E99-A7D6-D0DB74959773.jpg?v=1791970304"
+  },
+  "gid://shopify/ProductVariant/49211292156126": {
+    "product_title": "Kid's Set of 4 Ruby Bangles",
+    "variant_title": "2",
+    "sku": "1989",
+    "price": 699.0,
+    "stock": 8,
+    "url": "https://www.daivik.in/products/kids-set-of-4-ruby-bangles-in-4-sizes-copy?variant=gid://shopify/ProductVariant/49211292156126",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7D896D46-27F8-4E99-A7D6-D0DB74959773.jpg?v=1791970304"
+  },
+  "gid://shopify/ProductVariant/49212047786206": {
+    "product_title": "Kid's Floral Ruby Bangle Combo",
+    "variant_title": "1/10",
+    "sku": "1990",
+    "price": 1699.0,
+    "stock": 3,
+    "url": "https://www.daivik.in/products/kids-floral-ruby-bangle-combo-in-4-sizes?variant=gid://shopify/ProductVariant/49212047786206",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1B3CAB19-BB57-49E6-9BC0-075608F67168.jpg?v=1791971143"
+  },
+  "gid://shopify/ProductVariant/49212047818974": {
+    "product_title": "Kid's Floral Ruby Bangle Combo",
+    "variant_title": "1/12",
+    "sku": "1990",
+    "price": 1699.0,
+    "stock": 4,
+    "url": "https://www.daivik.in/products/kids-floral-ruby-bangle-combo-in-4-sizes?variant=gid://shopify/ProductVariant/49212047818974",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1B3CAB19-BB57-49E6-9BC0-075608F67168.jpg?v=1791971143"
+  },
+  "gid://shopify/ProductVariant/49212047851742": {
+    "product_title": "Kid's Floral Ruby Bangle Combo",
+    "variant_title": "1/14",
+    "sku": "1990",
+    "price": 1699.0,
+    "stock": 5,
+    "url": "https://www.daivik.in/products/kids-floral-ruby-bangle-combo-in-4-sizes?variant=gid://shopify/ProductVariant/49212047851742",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1B3CAB19-BB57-49E6-9BC0-075608F67168.jpg?v=1791971143"
+  },
+  "gid://shopify/ProductVariant/49212047884510": {
+    "product_title": "Kid's Floral Ruby Bangle Combo",
+    "variant_title": "2",
+    "sku": "1990",
+    "price": 1699.0,
+    "stock": 8,
+    "url": "https://www.daivik.in/products/kids-floral-ruby-bangle-combo-in-4-sizes?variant=gid://shopify/ProductVariant/49212047884510",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1B3CAB19-BB57-49E6-9BC0-075608F67168.jpg?v=1791971143"
+  },
+  "gid://shopify/ProductVariant/49212053979358": {
+    "product_title": "Kid's Floral Green Bangle Combo",
+    "variant_title": "1/10",
+    "sku": "1991",
+    "price": 1699.0,
+    "stock": 3,
+    "url": "https://www.daivik.in/products/kids-floral-green-bangle-combo-in-4-sizes-copy?variant=gid://shopify/ProductVariant/49212053979358",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B0A7CC88-4F82-441A-9280-B21336E9429F.jpg?v=1791971224"
+  },
+  "gid://shopify/ProductVariant/49212054012126": {
+    "product_title": "Kid's Floral Green Bangle Combo",
+    "variant_title": "1/12",
+    "sku": "1991",
+    "price": 1699.0,
+    "stock": 4,
+    "url": "https://www.daivik.in/products/kids-floral-green-bangle-combo-in-4-sizes-copy?variant=gid://shopify/ProductVariant/49212054012126",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B0A7CC88-4F82-441A-9280-B21336E9429F.jpg?v=1791971224"
+  },
+  "gid://shopify/ProductVariant/49212054044894": {
+    "product_title": "Kid's Floral Green Bangle Combo",
+    "variant_title": "1/14",
+    "sku": "1991",
+    "price": 1699.0,
+    "stock": 5,
+    "url": "https://www.daivik.in/products/kids-floral-green-bangle-combo-in-4-sizes-copy?variant=gid://shopify/ProductVariant/49212054044894",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B0A7CC88-4F82-441A-9280-B21336E9429F.jpg?v=1791971224"
+  },
+  "gid://shopify/ProductVariant/49212054077662": {
+    "product_title": "Kid's Floral Green Bangle Combo",
+    "variant_title": "2",
+    "sku": "1991",
+    "price": 1699.0,
+    "stock": 8,
+    "url": "https://www.daivik.in/products/kids-floral-green-bangle-combo-in-4-sizes-copy?variant=gid://shopify/ProductVariant/49212054077662",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B0A7CC88-4F82-441A-9280-B21336E9429F.jpg?v=1791971224"
   },
   "gid://shopify/ProductVariant/32600664506427": {
     "product_title": "Uncut Kemp Haram with Balis",
