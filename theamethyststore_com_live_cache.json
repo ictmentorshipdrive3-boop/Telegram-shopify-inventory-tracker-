@@ -2272,7 +2272,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-3360",
     "price": 20700.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/unique-designed-earrings?variant=gid://shopify/ProductVariant/43309630849251",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3360.jpg?v=1667477996"
   },
@@ -2326,7 +2326,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-3367",
     "price": 19100.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/debonair-earrings?variant=gid://shopify/ProductVariant/43309698220259",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3367.jpg?v=1662473170"
   },
@@ -31342,7 +31342,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-10165",
     "price": 10400.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/drops-2?variant=gid://shopify/ProductVariant/47081415147747",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10165.jpg?v=1756721237"
   },
@@ -94355,15 +94355,6 @@
     "url": "https://www.theamethyststore.com/products/desirable-bugadi-earrings?variant=gid://shopify/ProductVariant/49598584324323",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15901.jpg?v=1787661642"
   },
-  "gid://shopify/ProductVariant/49598586683619": {
-    "product_title": "Catching Maangtikka",
-    "variant_title": "Default Title",
-    "sku": "AMS-109-2471",
-    "price": 12133.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/maangtikka?variant=gid://shopify/ProductVariant/49598586683619",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2471.jpg?v=1787661979"
-  },
   "gid://shopify/ProductVariant/49598587994339": {
     "product_title": "Attractive Bugadi Earrings",
     "variant_title": "Default Title",
@@ -143854,6 +143845,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/ethereal-bugadi-earrings?variant=gid://shopify/ProductVariant/49598442602723",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15899.jpg?v=1787660716"
+  },
+  "gid://shopify/ProductVariant/49598586683619": {
+    "product_title": "Catching Maangtikka",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2471",
+    "price": 12133.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/maangtikka?variant=gid://shopify/ProductVariant/49598586683619",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2471.jpg?v=1787661979"
   },
   "gid://shopify/ProductVariant/49598595858659": {
     "product_title": "Endearing Bugadi Earrings",
