@@ -15070,7 +15070,7 @@
     "variant_title": "2.6",
     "sku": "D25715",
     "price": 2799.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d25715?variant=gid://shopify/ProductVariant/47542915334366",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6822.jpg?v=1758141344"
   },
@@ -17540,15 +17540,6 @@
     "url": "https://www.daivik.in/products/antique-ruby-green-hipchain-in-3-styles?variant=gid://shopify/ProductVariant/47916989251806",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B28A6F8E-E2F3-4CDB-9D2C-1DCF704B0C86.jpg?v=1771742866"
   },
-  "gid://shopify/ProductVariant/47916989284574": {
-    "product_title": "Antique Ruby Green Hipchain in 3 Styles (Price for Each)",
-    "variant_title": "Light Green Beads",
-    "sku": "1822",
-    "price": 6499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/antique-ruby-green-hipchain-in-3-styles?variant=gid://shopify/ProductVariant/47916989284574",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B28A6F8E-E2F3-4CDB-9D2C-1DCF704B0C86.jpg?v=1771742866"
-  },
   "gid://shopify/ProductVariant/47917168230622": {
     "product_title": "Antique Non Idol Purple Long Necklace with Earrings",
     "variant_title": "Default Title",
@@ -19426,7 +19417,7 @@
     "variant_title": "Default Title",
     "sku": "841",
     "price": 799.0,
-    "stock": 32,
+    "stock": 31,
     "url": "https://www.daivik.in/products/sri-balaji-heritage-choker-with-studs?variant=gid://shopify/ProductVariant/48289643102430",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/84DF6BB0-9447-44E6-8BBB-5D467BC5ACC4.jpg?v=1780066755"
   },
@@ -22540,7 +22531,7 @@
     "variant_title": "Default Title",
     "sku": "D26084",
     "price": 1499.0,
-    "stock": 46,
+    "stock": 45,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26084?variant=gid://shopify/ProductVariant/49149627924702",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6480_718149b3-63de-43a4-adb8-571e299c4d4b.jpg?v=1791223760"
   },
@@ -34963,6 +34954,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/simple-nose-pin-nath?variant=gid://shopify/ProductVariant/47916122767582",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CA3D0489-C81E-4F69-BA8E-B010023F93FF.jpg?v=1771690856"
+  },
+  "gid://shopify/ProductVariant/47916989284574": {
+    "product_title": "Antique Ruby Green Hipchain in 3 Styles (Price for Each)",
+    "variant_title": "Light Green Beads",
+    "sku": "1822",
+    "price": 6499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/antique-ruby-green-hipchain-in-3-styles?variant=gid://shopify/ProductVariant/47916989284574",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B28A6F8E-E2F3-4CDB-9D2C-1DCF704B0C86.jpg?v=1771742866"
   },
   "gid://shopify/ProductVariant/47940874895582": {
     "product_title": "Temple Style Lakshmi Kum Kum Box",
