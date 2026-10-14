@@ -6250,7 +6250,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-5231",
     "price": 198700.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/shiva-parvati-victorian-necklace-set?variant=gid://shopify/ProductVariant/44210135597283",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5231-_2_bdd06b23-dabe-40d9-8eff-701e38f0ac54.jpg?v=1737010793"
   },
@@ -83505,7 +83505,7 @@
     "product_title": "Luvaira Victorian Short Necklace Set",
     "variant_title": "Default Title",
     "sku": "AMS-102-17169",
-    "price": 76600.0,
+    "price": 12500.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/victorian-short-necklace-set-3?variant=gid://shopify/ProductVariant/49483963564259",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17169.jpg?v=1785594056"
@@ -99062,6 +99062,15 @@
     "url": "https://www.theamethyststore.com/products/diamond-design-necklace-set-1?variant=gid://shopify/ProductVariant/49710686142691",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17993.jpg?v=1788950835"
   },
+  "gid://shopify/ProductVariant/49710705508579": {
+    "product_title": "Admirable chic Victorian Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17994",
+    "price": 79600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/victorian-short-necklace-set-15?variant=gid://shopify/ProductVariant/49710705508579",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17994.jpg?v=1788951034"
+  },
   "gid://shopify/ProductVariant/49710732116195": {
     "product_title": "Stunning Classy Bracelet",
     "variant_title": "Default Title",
@@ -103045,7 +103054,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5139",
     "price": 10100.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/veeniksha-stone-pendant?variant=gid://shopify/ProductVariant/49795367469283",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5139.jpg?v=1790077035"
   },
@@ -111796,6 +111805,42 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/praiseworthy-beads-chain?variant=gid://shopify/ProductVariant/67683687923939",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2336.jpg?v=1791962312"
+  },
+  "gid://shopify/ProductVariant/67683857531107": {
+    "product_title": "Meritorious Beads Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2337",
+    "price": 42036.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/meritorious-beads-chain?variant=gid://shopify/ProductVariant/67683857531107",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2337.jpg?v=1791962674"
+  },
+  "gid://shopify/ProductVariant/67683884171491": {
+    "product_title": "Captivating Beads Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2338",
+    "price": 38989.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/captivating-beads-chain?variant=gid://shopify/ProductVariant/67683884171491",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2338.jpg?v=1791963245"
+  },
+  "gid://shopify/ProductVariant/67683893706979": {
+    "product_title": "Lakshmi 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5320",
+    "price": 24800.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/lakshmi-3d-spl-pendant?variant=gid://shopify/ProductVariant/67683893706979",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5320.jpg?v=1791963359"
+  },
+  "gid://shopify/ProductVariant/67683897835747": {
+    "product_title": "Resplendent Beads Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2339",
+    "price": 35656.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/resplendent-beads-chain?variant=gid://shopify/ProductVariant/67683897835747",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2339.jpg?v=1791963560"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -121944,7 +121989,7 @@
     "product_title": "Nishvanya Nagas Jhumkas",
     "variant_title": "Default Title",
     "sku": "AMS-106-10592",
-    "price": 43200.0,
+    "price": 47600.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nishvanya-nagas-jhumkas-1?variant=gid://shopify/ProductVariant/47235505750243",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10592.jpg?v=1759554492"
@@ -144871,15 +144916,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/plain-chain?variant=gid://shopify/ProductVariant/49708815057123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2206.jpg?v=1788939808"
-  },
-  "gid://shopify/ProductVariant/49710705508579": {
-    "product_title": "Admirable chic Victorian Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17994",
-    "price": 79600.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/victorian-short-necklace-set-15?variant=gid://shopify/ProductVariant/49710705508579",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17994.jpg?v=1788951034"
   },
   "gid://shopify/ProductVariant/49710800928995": {
     "product_title": "Catchy Stone Pendant Set",
