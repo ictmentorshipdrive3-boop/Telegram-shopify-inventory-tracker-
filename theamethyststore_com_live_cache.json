@@ -52960,7 +52960,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-12688",
     "price": 3513.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/vinitha-stone-studs-1?variant=gid://shopify/ProductVariant/47920147136739",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12688.jpg?v=1770200206"
   },
@@ -92177,15 +92177,6 @@
     "url": "https://www.theamethyststore.com/products/stone-short-necklace-set-4?variant=gid://shopify/ProductVariant/49563910308067",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17654.jpg?v=1787230289"
   },
-  "gid://shopify/ProductVariant/49563947303139": {
-    "product_title": "Ravitha 3D Spl Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17639",
-    "price": 55100.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/ravitha-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49563947303139",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17639.jpg?v=1787230540"
-  },
   "gid://shopify/ProductVariant/49563979972835": {
     "product_title": "Radiant Diamond Design Necklace Set",
     "variant_title": "Default Title",
@@ -112147,6 +112138,60 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/shines-exceptionally-beads-chain?variant=gid://shopify/ProductVariant/67685705154787",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2389.jpg?v=1791983328"
+  },
+  "gid://shopify/ProductVariant/67685722456291": {
+    "product_title": "Harmony Green Beads Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2390",
+    "price": 32932.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/harmony-green-beads-chain?variant=gid://shopify/ProductVariant/67685722456291",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2390.jpg?v=1791983789"
+  },
+  "gid://shopify/ProductVariant/67685725012195": {
+    "product_title": "Entrancing 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5391",
+    "price": 15500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/entrancing-3d-spl-pendant-1?variant=gid://shopify/ProductVariant/67685725012195",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5391.jpg?v=1791983880"
+  },
+  "gid://shopify/ProductVariant/67685731762403": {
+    "product_title": "Awe-Inspiring 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5394",
+    "price": 14100.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/awe-inspiring-3d-spl-pendant?variant=gid://shopify/ProductVariant/67685731762403",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5394.jpg?v=1791984188"
+  },
+  "gid://shopify/ProductVariant/67685735563491": {
+    "product_title": "Roseate Beads Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2391",
+    "price": 38945.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/roseate-beads-chain?variant=gid://shopify/ProductVariant/67685735563491",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2391.jpg?v=1791984302"
+  },
+  "gid://shopify/ProductVariant/67685737890019": {
+    "product_title": "Dazzling 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5397",
+    "price": 19500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/dazzling-3d-spl-pendant?variant=gid://shopify/ProductVariant/67685737890019",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5397.jpg?v=1791984320"
+  },
+  "gid://shopify/ProductVariant/67685762302179": {
+    "product_title": "Exquisite 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5400",
+    "price": 17400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/exquisite-3d-spl-pendant?variant=gid://shopify/ProductVariant/67685762302179",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5400.jpg?v=1791984666"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -143584,6 +143629,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/diamond-design-necklace-set-10?variant=gid://shopify/ProductVariant/49563913388259",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17644.jpg?v=1787230365"
+  },
+  "gid://shopify/ProductVariant/49563947303139": {
+    "product_title": "Ravitha 3D Spl Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17639",
+    "price": 55100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ravitha-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49563947303139",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17639.jpg?v=1787230540"
   },
   "gid://shopify/ProductVariant/49564287434979": {
     "product_title": "Traditional 3D Spl Short Necklace Set",
