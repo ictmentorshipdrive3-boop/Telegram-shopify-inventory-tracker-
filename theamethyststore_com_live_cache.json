@@ -16973,15 +16973,6 @@
     "url": "https://www.theamethyststore.com/products/floral-green-stone-ring?variant=gid://shopify/ProductVariant/46175441584355",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/DSC06775.jpg?v=1748582988"
   },
-  "gid://shopify/ProductVariant/46181180342499": {
-    "product_title": "Sujitha Kundan Maatal",
-    "variant_title": "Default Title",
-    "sku": "AMS-109-1388",
-    "price": 39609.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/sujitha-kundan-maatal?variant=gid://shopify/ProductVariant/46181180342499",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1388.jpg?v=1743070291"
-  },
   "gid://shopify/ProductVariant/46181195383011": {
     "product_title": "Alisha Kundan Maatal",
     "variant_title": "Default Title",
@@ -17005,7 +16996,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-112-0432",
     "price": 8404.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/sithika-jada-billa?variant=gid://shopify/ProductVariant/46181226807523",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0432.jpg?v=1743071648"
   },
@@ -102761,15 +102752,6 @@
     "url": "https://www.theamethyststore.com/products/catchy-cute-diamond-design-studs?variant=gid://shopify/ProductVariant/49792296550627",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16143.jpg?v=1790060006"
   },
-  "gid://shopify/ProductVariant/49792330399971": {
-    "product_title": "Hanshikaa Diamond Design Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-16144",
-    "price": 7200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/hanshikaa-diamond-design-studs?variant=gid://shopify/ProductVariant/49792330399971",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16144.jpg?v=1790060301"
-  },
   "gid://shopify/ProductVariant/49792388497635": {
     "product_title": "Sumptuous Nagas Jhumkas",
     "variant_title": "Default Title",
@@ -111959,6 +111941,51 @@
     "url": "https://www.theamethyststore.com/products/grand-look-3d-spl-pendant?variant=gid://shopify/ProductVariant/67684588781795",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5345.jpg?v=1791972841"
   },
+  "gid://shopify/ProductVariant/67684614799587": {
+    "product_title": "Endearing  Beads Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2379",
+    "price": 33451.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/endearing-beads-chain?variant=gid://shopify/ProductVariant/67684614799587",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2379.jpg?v=1791973064"
+  },
+  "gid://shopify/ProductVariant/67684617257187": {
+    "product_title": "Immaculate 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5347",
+    "price": 14100.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/immaculate-3d-spl-pendant?variant=gid://shopify/ProductVariant/67684617257187",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5347.jpg?v=1791973153"
+  },
+  "gid://shopify/ProductVariant/67684623548643": {
+    "product_title": "Iconic Beads Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2270",
+    "price": 32923.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/iconic-beads-chain?variant=gid://shopify/ProductVariant/67684623548643",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2270_2.jpg?v=1791973474"
+  },
+  "gid://shopify/ProductVariant/67684625449187": {
+    "product_title": "Mesmerizing 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5349",
+    "price": 19100.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/mesmerizing-3d-spl-pendant-1?variant=gid://shopify/ProductVariant/67684625449187",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5349.jpg?v=1791973490"
+  },
+  "gid://shopify/ProductVariant/67684627939555": {
+    "product_title": "Royale 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5358",
+    "price": 23400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/royale-3d-spl-pendant?variant=gid://shopify/ProductVariant/67684627939555",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5358.jpg?v=1791973790"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -116638,6 +116665,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/dhashvanthi-nagas-choker?variant=gid://shopify/ProductVariant/46174925258979",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/DSC06609_c72c7f03-9bb7-4348-9a11-259b4d9189fb.jpg?v=1748432985"
+  },
+  "gid://shopify/ProductVariant/46181180342499": {
+    "product_title": "Sujitha Kundan Maatal",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-1388",
+    "price": 39609.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/sujitha-kundan-maatal?variant=gid://shopify/ProductVariant/46181180342499",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1388.jpg?v=1743070291"
   },
   "gid://shopify/ProductVariant/46181207048419": {
     "product_title": "Nivitha Kundan Maatal",
@@ -145429,6 +145465,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/vinthikaa-diamond-design-studs?variant=gid://shopify/ProductVariant/49791757582563",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16136.jpg?v=1790057849"
+  },
+  "gid://shopify/ProductVariant/49792330399971": {
+    "product_title": "Hanshikaa Diamond Design Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16144",
+    "price": 7200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/hanshikaa-diamond-design-studs?variant=gid://shopify/ProductVariant/49792330399971",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16144.jpg?v=1790060301"
   },
   "gid://shopify/ProductVariant/49792363692259": {
     "product_title": "Cute Little Diamond Design Studs",
