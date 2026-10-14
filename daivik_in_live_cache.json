@@ -10561,7 +10561,7 @@
     "variant_title": "Default Title",
     "sku": "1561",
     "price": 1499.0,
-    "stock": 20,
+    "stock": 19,
     "url": "https://www.daivik.in/products/cz-antique-real-kemp-hair-clip?variant=gid://shopify/ProductVariant/46307458285790",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6ECC8D85-1210-4B83-A73D-BB6DA5DCC42F.jpg?v=1740203749"
   },
@@ -15299,15 +15299,6 @@
     "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d25824?variant=gid://shopify/ProductVariant/47542830891230",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7084.jpg?v=1758219968"
   },
-  "gid://shopify/ProductVariant/47542831251678": {
-    "product_title": "Diwali Sale Other Essentials D25829",
-    "variant_title": "Default Title",
-    "sku": "D25829",
-    "price": 1499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d25829?variant=gid://shopify/ProductVariant/47542831251678",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7094.jpg?v=1758220054"
-  },
   "gid://shopify/ProductVariant/47542831349982": {
     "product_title": "Diwali Sale Other Essentials D25830",
     "variant_title": "Default Title",
@@ -18013,7 +18004,7 @@
     "variant_title": "Default Title",
     "sku": "1833",
     "price": 299.0,
-    "stock": 28,
+    "stock": 27,
     "url": "https://www.daivik.in/products/ad-drop-nose-pin-nath?variant=gid://shopify/ProductVariant/48017603297502",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8632.jpg?v=1774274079"
   },
@@ -18688,7 +18679,7 @@
     "variant_title": "Default Title",
     "sku": "1863",
     "price": 399.0,
-    "stock": 50,
+    "stock": 49,
     "url": "https://www.daivik.in/products/kemp-lakshmi-saree-pin-1?variant=gid://shopify/ProductVariant/48079483896030",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6093_2aee826c-235b-4edb-9d3d-6a671de994c5.jpg?v=1775907173"
   },
@@ -19318,7 +19309,7 @@
     "variant_title": "Default Title",
     "sku": "4035",
     "price": 1799.0,
-    "stock": 28,
+    "stock": 27,
     "url": "https://www.daivik.in/products/heritage-watch-bracelet-9?variant=gid://shopify/ProductVariant/48266765762782",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0205.jpg?v=1779276345"
   },
@@ -19660,7 +19651,7 @@
     "variant_title": "Default Title",
     "sku": "1909",
     "price": 1199.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/peacock-style-hair-clip?variant=gid://shopify/ProductVariant/48332857704670",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7300.jpg?v=1781263301"
   },
@@ -20884,7 +20875,7 @@
     "variant_title": "Default Title",
     "sku": "1954",
     "price": 499.0,
-    "stock": 21,
+    "stock": 20,
     "url": "https://www.daivik.in/products/lakshmi-antique-ruby-green-jada-billai-choti-hair-accessory?variant=gid://shopify/ProductVariant/48813673414878",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1764.jpg?v=1788019774"
   },
@@ -33982,6 +33973,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d25812?variant=gid://shopify/ProductVariant/47542830203102",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7057.jpg?v=1758219813"
+  },
+  "gid://shopify/ProductVariant/47542831251678": {
+    "product_title": "Diwali Sale Other Essentials D25829",
+    "variant_title": "Default Title",
+    "sku": "D25829",
+    "price": 1499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d25829?variant=gid://shopify/ProductVariant/47542831251678",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7094.jpg?v=1758220054"
   },
   "gid://shopify/ProductVariant/47542849896670": {
     "product_title": "Diwali Sale Other Essentials D25834 (Price for a Pair)",
