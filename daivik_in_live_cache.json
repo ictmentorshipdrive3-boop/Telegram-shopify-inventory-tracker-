@@ -11326,7 +11326,7 @@
     "variant_title": "Ruby Green",
     "sku": "309",
     "price": 799.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/invisible-flower-chain-with-earrings-in-two-vaiants-price-for-each?variant=gid://shopify/ProductVariant/46622024302814",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5086782C-8B6D-4680-A1B4-6FCD1A121358.jpg?v=1744985053"
   },
@@ -20758,7 +20758,7 @@
     "variant_title": "Default Title",
     "sku": "928",
     "price": 7499.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/balaji-haram?variant=gid://shopify/ProductVariant/48624208937182",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5F1292F7-1238-4DCB-B513-CCB1A7D8A251.jpg?v=1787331525"
   },
@@ -20923,15 +20923,6 @@
     "stock": 3,
     "url": "https://www.daivik.in/products/pure-kemp-jadau-openable-kada?variant=gid://shopify/ProductVariant/48971742839006",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6B5B5C6D-CFCE-4CCD-80A1-C8B8A2D309A3.jpg?v=1788347364"
-  },
-  "gid://shopify/ProductVariant/48972143329502": {
-    "product_title": "Jadau Pearl Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "392",
-    "price": 1499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/jadau-pearl-necklace-with-earrings?variant=gid://shopify/ProductVariant/48972143329502",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1305.jpg?v=1788365439"
   },
   "gid://shopify/ProductVariant/48976859791582": {
     "product_title": "Simple AD Pearl Bangle - Set of 4",
@@ -22189,7 +22180,7 @@
     "variant_title": "Default Title",
     "sku": "D26055",
     "price": 999.0,
-    "stock": 35,
+    "stock": 34,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26055?variant=gid://shopify/ProductVariant/49149626155230",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6367_579f28ac-c7b2-460b-b916-1701f6e662f5.jpg?v=1791223058"
   },
@@ -22513,7 +22504,7 @@
     "variant_title": "Default Title",
     "sku": "D26085",
     "price": 299.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26085?variant=gid://shopify/ProductVariant/49149627957470",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6483.jpg?v=1791223767"
   },
@@ -24262,15 +24253,6 @@
     "stock": 5,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26146?variant=gid://shopify/ProductVariant/49169773363422",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6961.jpg?v=1791468594"
-  },
-  "gid://shopify/ProductVariant/49169774346462": {
-    "product_title": "Diwali Sale Necklace D26147",
-    "variant_title": "Default Title",
-    "sku": "D26147",
-    "price": 349.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26147?variant=gid://shopify/ProductVariant/49169774346462",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6964.jpg?v=1791468600"
   },
   "gid://shopify/ProductVariant/49169775001822": {
     "product_title": "Diwali Sale Necklace D26148",
@@ -26311,7 +26293,7 @@
     "variant_title": "Default Title",
     "sku": "1986",
     "price": 399.0,
-    "stock": 15,
+    "stock": 14,
     "url": "https://www.daivik.in/products/lakshmi-kids-adult-jhumkas?variant=gid://shopify/ProductVariant/49203701383390",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6327C5CA-76E2-45CD-95CB-1B7691AAF00E.jpg?v=1791890534"
   },
@@ -35837,6 +35819,15 @@
     "url": "https://www.daivik.in/products/antique-non-idol-carved-green-stone-pendant-choker-with-earrings?variant=gid://shopify/ProductVariant/48895361548510",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1571.jpg?v=1788109099"
   },
+  "gid://shopify/ProductVariant/48972143329502": {
+    "product_title": "Jadau Pearl Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "392",
+    "price": 1499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/jadau-pearl-necklace-with-earrings?variant=gid://shopify/ProductVariant/48972143329502",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1305.jpg?v=1788365439"
+  },
   "gid://shopify/ProductVariant/49079032316126": {
     "product_title": "Antique Lakshmi Vanki (Arm Band) (Price for 1 pc)",
     "variant_title": "Default Title",
@@ -35917,6 +35908,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26112?variant=gid://shopify/ProductVariant/49169749672158",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_68242.jpg?v=1791457457"
+  },
+  "gid://shopify/ProductVariant/49169774346462": {
+    "product_title": "Diwali Sale Necklace D26147",
+    "variant_title": "Default Title",
+    "sku": "D26147",
+    "price": 349.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26147?variant=gid://shopify/ProductVariant/49169774346462",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6964.jpg?v=1791468600"
   },
   "gid://shopify/ProductVariant/49178379682014": {
     "product_title": "Diwali Sale Bangles D26502",
