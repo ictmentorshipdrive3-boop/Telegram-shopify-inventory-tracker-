@@ -175,7 +175,7 @@
     "variant_title": "Default Title",
     "sku": "R1526",
     "price": 2890.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.rasasilver.com/products/kundan-nath?variant=gid://shopify/ProductVariant/49855900451113",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-34_d498d6ad-5c3a-4fdf-b147-520b19be8a5a.jpg?v=1739427458"
   },
@@ -904,7 +904,7 @@
     "variant_title": "Default Title",
     "sku": "R15982",
     "price": 2210.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/botanique-studs?variant=gid://shopify/ProductVariant/50158205501737",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06453_copy.jpg?v=1744184601"
   },
@@ -2443,7 +2443,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R17311",
     "price": 3230.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.rasasilver.com/products/ovalor-ring?variant=gid://shopify/ProductVariant/51472177692969",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-4_fa47e820-d992-4a21-9676-4bf4a013aa89.jpg?v=1754311672"
   },
@@ -2479,7 +2479,7 @@
     "variant_title": "GREEN",
     "sku": "R17369",
     "price": 3060.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.rasasilver.com/products/smaragda-spark-ring?variant=gid://shopify/ProductVariant/51471916794153",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_0484a4ff-0b8b-4858-bb16-14d9605b1153.jpg?v=1754311252"
   },
@@ -3454,15 +3454,6 @@
     "stock": 2,
     "url": "https://www.rasasilver.com/products/shree-chaturbhuj-short-necklace?variant=gid://shopify/ProductVariant/50816757530921",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug45784.jpg?v=1756814989"
-  },
-  "gid://shopify/ProductVariant/50817580990761": {
-    "product_title": "Shree Aabhushan Short Necklace",
-    "variant_title": "GREEN",
-    "sku": "R11687",
-    "price": 30260.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/shree-aabhushan-short-necklace?variant=gid://shopify/ProductVariant/50817580990761",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug45671.jpg?v=1756818341"
   },
   "gid://shopify/ProductVariant/50817261338921": {
     "product_title": "Ruby Pushpam Short Necklace",
@@ -7793,15 +7784,6 @@
     "url": "https://www.rasasilver.com/products/rubessa-flora-necklace-set-copy?variant=gid://shopify/ProductVariant/51871914721577",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2268_resized.jpg?v=1763460368"
   },
-  "gid://shopify/ProductVariant/51871914754345": {
-    "product_title": "Ruby Fiora Necklace Set",
-    "variant_title": "GREEN",
-    "sku": "R18466",
-    "price": 33915.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/rubessa-flora-necklace-set-copy?variant=gid://shopify/ProductVariant/51871914754345",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2268_resized.jpg?v=1763460368"
-  },
   "gid://shopify/ProductVariant/51870106812713": {
     "product_title": "Rubalyn Bloom Necklace Set",
     "variant_title": "Swarovski",
@@ -8116,15 +8098,6 @@
     "stock": 3,
     "url": "https://www.rasasilver.com/products/blumira-ring?variant=gid://shopify/ProductVariant/52166946292009",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0071copy_resized_8c8e434c-9a73-43b7-8efd-7199dadf4fe2.jpg?v=1763969963"
-  },
-  "gid://shopify/ProductVariant/52166970310953": {
-    "product_title": "Rosavia Stone Ring",
-    "variant_title": "GREEN / 11",
-    "sku": "R16702",
-    "price": 4165.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/rosavia-ring?variant=gid://shopify/ProductVariant/52166970310953",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0054copy_resized_c3c00b55-df54-4f25-92c8-d8e37ebda8f6.jpg?v=1763970411"
   },
   "gid://shopify/ProductVariant/52166954811689": {
     "product_title": "Rosinea Stone Ring",
@@ -27017,6 +26990,15 @@
     "url": "https://www.rasasilver.com/products/mangala-shringar-tikka?variant=gid://shopify/ProductVariant/50810082820393",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP148_1.jpg?v=1756556844"
   },
+  "gid://shopify/ProductVariant/50817580990761": {
+    "product_title": "Shree Aabhushan Short Necklace",
+    "variant_title": "GREEN",
+    "sku": "R11687",
+    "price": 30260.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/shree-aabhushan-short-necklace?variant=gid://shopify/ProductVariant/50817580990761",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug45671.jpg?v=1756818341"
+  },
   "gid://shopify/ProductVariant/50817581023529": {
     "product_title": "Shree Aabhushan Short Necklace",
     "variant_title": "Navaratna Colour",
@@ -34091,6 +34073,15 @@
     "url": "https://www.rasasilver.com/products/blue-viora-necklace-set-copy?variant=gid://shopify/ProductVariant/51869073932585",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2341_resized.jpg?v=1763466915"
   },
+  "gid://shopify/ProductVariant/51871914754345": {
+    "product_title": "Ruby Fiora Necklace Set",
+    "variant_title": "GREEN",
+    "sku": "R18466",
+    "price": 33915.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/rubessa-flora-necklace-set-copy?variant=gid://shopify/ProductVariant/51871914754345",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2268_resized.jpg?v=1763460368"
+  },
   "gid://shopify/ProductVariant/51870106779945": {
     "product_title": "Rubalyn Bloom Necklace Set",
     "variant_title": "Ruby Pink",
@@ -34728,6 +34719,15 @@
     "price": 4165.0,
     "stock": 0,
     "url": "https://www.rasasilver.com/products/rosavia-ring?variant=gid://shopify/ProductVariant/52166970278185",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0054copy_resized_c3c00b55-df54-4f25-92c8-d8e37ebda8f6.jpg?v=1763970411"
+  },
+  "gid://shopify/ProductVariant/52166970310953": {
+    "product_title": "Rosavia Stone Ring",
+    "variant_title": "GREEN / 11",
+    "sku": "R16702",
+    "price": 4165.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/rosavia-ring?variant=gid://shopify/ProductVariant/52166970310953",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0054copy_resized_c3c00b55-df54-4f25-92c8-d8e37ebda8f6.jpg?v=1763970411"
   },
   "gid://shopify/ProductVariant/52166981615913": {
