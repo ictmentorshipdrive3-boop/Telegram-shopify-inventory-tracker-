@@ -26,15 +26,6 @@
     "url": "https://www.rasasilver.com/products/sunflower-emerald-necklace?variant=gid://shopify/ProductVariant/49810115264809",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-33_64c79fd9-9182-4462-bf5b-7be7fc554e68.jpg?v=1740812666"
   },
-  "gid://shopify/ProductVariant/49810382946601": {
-    "product_title": "Semi Stiff Mango Necklace",
-    "variant_title": "Default Title",
-    "sku": "R1664",
-    "price": 40545.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/semi-stiff-mango-necklace?variant=gid://shopify/ProductVariant/49810382946601",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP03630_copy.jpg?v=1750077274"
-  },
   "gid://shopify/ProductVariant/49810493538601": {
     "product_title": "Ramrajya Single Line Necklace",
     "variant_title": "Default Title",
@@ -679,7 +670,7 @@
     "variant_title": "Default Title",
     "sku": "R20419",
     "price": 3060.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.rasasilver.com/products/flowery-ruby-studs?variant=gid://shopify/ProductVariant/50082055651625",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP05460_copy.jpg?v=1743511206"
   },
@@ -949,7 +940,7 @@
     "variant_title": "Green",
     "sku": "R17124",
     "price": 19465.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.rasasilver.com/products/meadow-muse-pendant?variant=gid://shopify/ProductVariant/52485476843817",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R2675.jpg?v=1769672524"
   },
@@ -3100,7 +3091,7 @@
     "variant_title": "Default Title",
     "sku": "R10582",
     "price": 3400.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.rasasilver.com/products/studs-1?variant=gid://shopify/ProductVariant/50777406243113",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_62.jpg?v=1754984023"
   },
@@ -4036,7 +4027,7 @@
     "variant_title": "Default Title",
     "sku": "R12941",
     "price": 6885.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/rayna-kada?variant=gid://shopify/ProductVariant/51197999481129",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0384copy_resized.jpg?v=1769520648"
   },
@@ -12766,7 +12757,7 @@
     "variant_title": "GREEN",
     "sku": "R33833",
     "price": 1190.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/mor-madhavi-nath-1?variant=gid://shopify/ProductVariant/52724317716777",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459251.jpg?v=1789123934"
   },
@@ -24973,6 +24964,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/santhanalakshmi-temple-choker?variant=gid://shopify/ProductVariant/67596932350249",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/OrnateGoldTempleChokerStillLife.png?v=1791543860"
+  },
+  "gid://shopify/ProductVariant/49810382946601": {
+    "product_title": "Semi Stiff Mango Necklace",
+    "variant_title": "Default Title",
+    "sku": "R1664",
+    "price": 40545.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/semi-stiff-mango-necklace?variant=gid://shopify/ProductVariant/49810382946601",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP03630_copy.jpg?v=1750077274"
   },
   "gid://shopify/ProductVariant/49817304269097": {
     "product_title": "Floral Ruby Short Necklace",
