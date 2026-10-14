@@ -3496,7 +3496,7 @@
     "variant_title": "Red",
     "sku": null,
     "price": 1750.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.dulhanjewels.com/products/jadau-kundan-jalebi-necklace-with-pearls-and-green-bead-hangings?variant=gid://shopify/ProductVariant/51841283490098",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/2F5F7120-C634-433B-8EA7-A412792C17D1.jpg?v=1788614328"
   },
@@ -3517,15 +3517,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/jadau-kundan-pendant-with-pearl-hangings-and-emerald-stone?variant=gid://shopify/ProductVariant/51016410726706",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6122876923479265220.jpg?v=1780426578"
-  },
-  "gid://shopify/ProductVariant/51036810838322": {
-    "product_title": "Grand Bridal Jadau Kundan Mango Haram With Green Bead Hangings",
-    "variant_title": "White",
-    "sku": null,
-    "price": 7800.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/grand-bridal-jadau-kundan-mango-haram-with-green-bead-hangings?variant=gid://shopify/ProductVariant/51036810838322",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/BA64B6EC-CE1A-4CEE-BCFF-1118C6DA62AD.jpg?v=1775215765"
   },
   "gid://shopify/ProductVariant/51036819980594": {
     "product_title": "Traditional Jadau Kundan Bottu Mala Necklace With Ruby Stones",
@@ -7098,7 +7089,7 @@
     "price": 1350.0,
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/unique-jadau-kundan-chandbali-earrings-with-ricepearl-drops?variant=gid://shopify/ProductVariant/67962538492210",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/96D01973-A3BD-4281-B987-3FD8FC913933.jpg?v=1791893578"
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_345daa42-5c72-4834-a118-cd06727fc2e1.jpg?v=1791978623"
   },
   "gid://shopify/ProductVariant/67962540491058": {
     "product_title": "Multi-Strand Green And White Beads Champasaralu",
@@ -7107,7 +7098,7 @@
     "price": 2100.0,
     "stock": 2,
     "url": "https://www.dulhanjewels.com/products/multi-strand-green-and-white-beads-champasaralu?variant=gid://shopify/ProductVariant/67962540491058",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/7E7DA079-E99A-4C8D-BB43-46D8F87CE912.jpg?v=1791893731"
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6BF90E75-460A-4F0A-9481-AAF2B314D719.jpg?v=1791978598"
   },
   "gid://shopify/ProductVariant/67962565624114": {
     "product_title": "Elegant Bridal Jadau Kundan Mathapatti With Pearl Drops",
@@ -7190,6 +7181,15 @@
     "url": "https://www.dulhanjewels.com/products/gold-style-jadau-kundan-floral-bangles?variant=gid://shopify/ProductVariant/67966476845362",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/CB232324-7884-4A54-94DA-6E4A7AEB89D8.jpg?v=1791977754"
   },
+  "gid://shopify/ProductVariant/67966476878130": {
+    "product_title": "Gold Style Jadau Kundan Floral Bangles",
+    "variant_title": "2.6",
+    "sku": null,
+    "price": 3300.0,
+    "stock": 1,
+    "url": "https://www.dulhanjewels.com/products/gold-style-jadau-kundan-floral-bangles?variant=gid://shopify/ProductVariant/67966476878130",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/CB232324-7884-4A54-94DA-6E4A7AEB89D8.jpg?v=1791977754"
+  },
   "gid://shopify/ProductVariant/48813700612402": {
     "product_title": "Moissanite Victorian Choker Set with maang tikka & earrings",
     "variant_title": "Light green",
@@ -7243,6 +7243,15 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/mehandi-victorian-polki-kundan-bangles?variant=gid://shopify/ProductVariant/50820460151090",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/12D3211A-DE5E-403F-83A1-79B87A5DA8BD.jpg?v=1768652763"
+  },
+  "gid://shopify/ProductVariant/51036810838322": {
+    "product_title": "Grand Bridal Jadau Kundan Mango Haram With Green Bead Hangings",
+    "variant_title": "White",
+    "sku": null,
+    "price": 7800.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/grand-bridal-jadau-kundan-mango-haram-with-green-bead-hangings?variant=gid://shopify/ProductVariant/51036810838322",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/BA64B6EC-CE1A-4CEE-BCFF-1118C6DA62AD.jpg?v=1775215765"
   },
   "gid://shopify/ProductVariant/51219187269938": {
     "product_title": "Unique Gold Style Jadau Kundan Short Necklace",
@@ -7342,23 +7351,5 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/untitled-oct8_15-17-23?variant=gid://shopify/ProductVariant/67934360076594",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/90B8790C-90B7-4DDE-B8AC-F4DF41DA7F7A.jpg?v=1791452389"
-  },
-  "gid://shopify/ProductVariant/67966476878130": {
-    "product_title": "Gold Style Jadau Kundan Floral Bangles",
-    "variant_title": "2.6",
-    "sku": null,
-    "price": 3300.0,
-    "stock": 0,
-    "url": "https://www.dulhanjewels.com/products/gold-style-jadau-kundan-floral-bangles?variant=gid://shopify/ProductVariant/67966476878130",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/CB232324-7884-4A54-94DA-6E4A7AEB89D8.jpg?v=1791977754"
-  },
-  "gid://shopify/ProductVariant/67966476910898": {
-    "product_title": "Gold Style Jadau Kundan Floral Bangles",
-    "variant_title": "2.8",
-    "sku": null,
-    "price": 3300.0,
-    "stock": 0,
-    "url": "https://www.dulhanjewels.com/products/gold-style-jadau-kundan-floral-bangles?variant=gid://shopify/ProductVariant/67966476910898",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/CB232324-7884-4A54-94DA-6E4A7AEB89D8.jpg?v=1791977754"
   }
 }
