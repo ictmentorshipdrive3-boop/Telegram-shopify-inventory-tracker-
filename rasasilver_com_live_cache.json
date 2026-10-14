@@ -8144,15 +8144,6 @@
     "url": "https://www.rasasilver.com/products/ruby-vittoria-pendant-copy?variant=gid://shopify/ProductVariant/52167340917033",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0134copy_resized_000f5dba-e25b-49be-978b-d2bbb27398c3.jpg?v=1763987322"
   },
-  "gid://shopify/ProductVariant/52170005709097": {
-    "product_title": "Mayuraflora Polki Danglers",
-    "variant_title": "Default Title",
-    "sku": "R18475",
-    "price": 29240.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/mayuraflora-danglers?variant=gid://shopify/ProductVariant/52170005709097",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1593.jpg?v=1789128949"
-  },
   "gid://shopify/ProductVariant/52170082713897": {
     "product_title": "Rubyleaf Ovelle Necklace Set",
     "variant_title": "Default Title",
@@ -16208,15 +16199,6 @@
     "url": "https://www.rasasilver.com/products/maylora-nakshi-jhumka-copy?variant=gid://shopify/ProductVariant/53103597453609",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May0124_resized.jpg?v=1781857216"
   },
-  "gid://shopify/ProductVariant/53103667085609": {
-    "product_title": "Sampada Temple Jhumka",
-    "variant_title": "Default Title",
-    "sku": "R11198",
-    "price": 20060.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/gajveer-kundan-jhumka-copy?variant=gid://shopify/ProductVariant/53103667085609",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May0108_resized.jpg?v=1781857439"
-  },
   "gid://shopify/ProductVariant/53103774990633": {
     "product_title": "Mayuranshi Nakshi Jhumka",
     "variant_title": "Default Title",
@@ -21757,7 +21739,7 @@
     "variant_title": "Default Title",
     "sku": "R32241",
     "price": 14600.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/aurora-lariat-necklace?variant=gid://shopify/ProductVariant/53410022424873",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19546.jpg?v=1786703210"
   },
@@ -34811,6 +34793,15 @@
     "url": "https://www.rasasilver.com/products/floradia-drizzle-necklace-set?variant=gid://shopify/ProductVariant/52169971466537",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0056copy_resized_46eb5893-c0b3-4add-a343-94fddcbdb6f6.jpg?v=1764060154"
   },
+  "gid://shopify/ProductVariant/52170005709097": {
+    "product_title": "Mayuraflora Polki Danglers",
+    "variant_title": "Default Title",
+    "sku": "R18475",
+    "price": 29240.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/mayuraflora-danglers?variant=gid://shopify/ProductVariant/52170005709097",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1593.jpg?v=1789128949"
+  },
   "gid://shopify/ProductVariant/52170183016745": {
     "product_title": "Tri Ruby Ovella Necklace Set",
     "variant_title": "Default Title",
@@ -44476,6 +44467,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/vasantika-kundan-studs?variant=gid://shopify/ProductVariant/53103634612521",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May1011_resized.jpg?v=1781865327"
+  },
+  "gid://shopify/ProductVariant/53103667085609": {
+    "product_title": "Sampada Temple Jhumka",
+    "variant_title": "Default Title",
+    "sku": "R11198",
+    "price": 20060.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/gajveer-kundan-jhumka-copy?variant=gid://shopify/ProductVariant/53103667085609",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May0108_resized.jpg?v=1781857439"
   },
   "gid://shopify/ProductVariant/53103876768041": {
     "product_title": "Petaline Kundan Studs",
