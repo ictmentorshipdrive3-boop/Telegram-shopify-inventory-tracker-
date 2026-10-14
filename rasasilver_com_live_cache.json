@@ -10385,15 +10385,6 @@
     "url": "https://www.rasasilver.com/products/bloomia-victorian-tikka?variant=gid://shopify/ProductVariant/52469496414505",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan0831_resized.jpg?v=1769081055"
   },
-  "gid://shopify/ProductVariant/52469516697897": {
-    "product_title": "Meera Stone Matil",
-    "variant_title": "Default Title",
-    "sku": "R22436",
-    "price": 20400.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/meera-stone-matil?variant=gid://shopify/ProductVariant/52469516697897",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan0702_resized.jpg?v=1769081704"
-  },
   "gid://shopify/ProductVariant/52469516763433": {
     "product_title": "Mohini Stone Matil",
     "variant_title": "Default Title",
@@ -18881,15 +18872,6 @@
     "url": "https://www.rasasilver.com/products/gajaprabha-temple-maang-tikka?variant=gid://shopify/ProductVariant/53306771177769",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40297_resized.jpg?v=1783682132"
   },
-  "gid://shopify/ProductVariant/53306897269033": {
-    "product_title": "Mango-Pear Stone Matil",
-    "variant_title": "Default Title",
-    "sku": "R30417",
-    "price": 13685.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/matil-2?variant=gid://shopify/ProductVariant/53306897269033",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40336_resized.jpg?v=1783682361"
-  },
   "gid://shopify/ProductVariant/53307088470313": {
     "product_title": "Panna-Sitara Stone Matil",
     "variant_title": "Default Title",
@@ -23710,7 +23692,7 @@
     "variant_title": "Default Title",
     "sku": "R36965",
     "price": 5015.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/dvipaksha-nakshi-pendant?variant=gid://shopify/ProductVariant/54219531190569",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_49_81Pics_22Sep21090.jpg?v=1791012717"
   },
@@ -37394,6 +37376,15 @@
     "url": "https://www.rasasilver.com/products/victora-tikka?variant=gid://shopify/ProductVariant/52469478490409",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan0849_resized.jpg?v=1769080943"
   },
+  "gid://shopify/ProductVariant/52469516697897": {
+    "product_title": "Meera Stone Matil",
+    "variant_title": "Default Title",
+    "sku": "R22436",
+    "price": 20400.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/meera-stone-matil?variant=gid://shopify/ProductVariant/52469516697897",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan0702_resized.jpg?v=1769081704"
+  },
   "gid://shopify/ProductVariant/52469529870633": {
     "product_title": "Mayurika Kundan Choker",
     "variant_title": "Default Title",
@@ -47212,6 +47203,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/devalaya-mayura-temple-necklace?variant=gid://shopify/ProductVariant/53305325027625",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40192_resized.jpg?v=1783681000"
+  },
+  "gid://shopify/ProductVariant/53306897269033": {
+    "product_title": "Mango-Pear Stone Matil",
+    "variant_title": "Default Title",
+    "sku": "R30417",
+    "price": 13685.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/matil-2?variant=gid://shopify/ProductVariant/53306897269033",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40336_resized.jpg?v=1783682361"
   },
   "gid://shopify/ProductVariant/53307160953129": {
     "product_title": "Manikya-Harita Stone Matil",
