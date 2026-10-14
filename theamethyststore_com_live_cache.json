@@ -22972,7 +22972,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-0382-M",
     "price": 8200.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.theamethyststore.com/products/mangalsutra-chain-double-layer-24?variant=gid://shopify/ProductVariant/46779086012643",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-0382_M.jpg?v=1775371745"
   },
@@ -106640,15 +106640,6 @@
     "url": "https://www.theamethyststore.com/products/vintage-nithra-pendant?variant=gid://shopify/ProductVariant/67609105891555",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5216.jpg?v=1790841710"
   },
-  "gid://shopify/ProductVariant/67609108512995": {
-    "product_title": "Nithikaa Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-5217",
-    "price": 7100.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nithikaa-pendant?variant=gid://shopify/ProductVariant/67609108512995",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5217.jpg?v=1790841959"
-  },
   "gid://shopify/ProductVariant/67609115295971": {
     "product_title": "Ferikhaa Pendant",
     "variant_title": "Default Title",
@@ -146131,6 +146122,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/aesthetic-bloom-earrings?variant=gid://shopify/ProductVariant/67608998215907",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16389.jpg?v=1790838120"
+  },
+  "gid://shopify/ProductVariant/67609108512995": {
+    "product_title": "Nithikaa Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5217",
+    "price": 7100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nithikaa-pendant?variant=gid://shopify/ProductVariant/67609108512995",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5217.jpg?v=1790841959"
   },
   "gid://shopify/ProductVariant/67609463619811": {
     "product_title": "Bridal Look Nagas Jhumkas",
