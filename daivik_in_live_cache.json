@@ -20749,7 +20749,7 @@
     "variant_title": "Default Title",
     "sku": "249",
     "price": 3999.0,
-    "stock": 3,
+    "stock": 8,
     "url": "https://www.daivik.in/products/bridal-pure-kemp-brass-kemp-necklace-with-earrings?variant=gid://shopify/ProductVariant/48602139918558",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1172.jpg?v=1786722333"
   },
@@ -23251,7 +23251,7 @@
     "variant_title": "Ruby",
     "sku": "D26353",
     "price": 399.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26353?variant=gid://shopify/ProductVariant/49166694154462",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6659.jpg?v=1791443998"
   },
@@ -25667,15 +25667,6 @@
     "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26631?variant=gid://shopify/ProductVariant/49178383286494",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7227.jpg?v=1791537692"
   },
-  "gid://shopify/ProductVariant/49178383319262": {
-    "product_title": "Diwali Sale Other Essentials D26632",
-    "variant_title": "Default Title",
-    "sku": "D26632",
-    "price": 499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26632?variant=gid://shopify/ProductVariant/49178383319262",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7229.jpg?v=1791537696"
-  },
   "gid://shopify/ProductVariant/49178383352030": {
     "product_title": "Diwali Sale Other Essentials D26633",
     "variant_title": "Default Title",
@@ -26005,7 +25996,7 @@
     "variant_title": "Default Title",
     "sku": "D26188",
     "price": 299.0,
-    "stock": 36,
+    "stock": 35,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26188?variant=gid://shopify/ProductVariant/49183619121374",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7415.jpg?v=1791626081"
   },
@@ -35944,6 +35935,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26615?variant=gid://shopify/ProductVariant/49178382696670",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7188_61656181-ec67-4999-978a-c1a8eac3f7c0.jpg?v=1791537461"
+  },
+  "gid://shopify/ProductVariant/49178383319262": {
+    "product_title": "Diwali Sale Other Essentials D26632",
+    "variant_title": "Default Title",
+    "sku": "D26632",
+    "price": 499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26632?variant=gid://shopify/ProductVariant/49178383319262",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7229.jpg?v=1791537696"
   },
   "gid://shopify/ProductVariant/49178383614174": {
     "product_title": "Diwali Sale Other Essentials D26640",
