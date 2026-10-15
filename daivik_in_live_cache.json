@@ -22,7 +22,7 @@
     "variant_title": "Default Title",
     "sku": "45",
     "price": 1449.0,
-    "stock": 2,
+    "stock": 23,
     "url": "https://www.daivik.in/products/45?variant=gid://shopify/ProductVariant/32600770707515",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_ec716232-9924-41f1-819a-8bc18601c00b.jpg?v=1599550627"
   },
@@ -112,7 +112,7 @@
     "variant_title": "Default Title",
     "sku": "86",
     "price": 1799.0,
-    "stock": 35,
+    "stock": 34,
     "url": "https://www.daivik.in/products/86?variant=gid://shopify/ProductVariant/32623656271931",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/antique-polish-temple-jhumkas-earrings-444.jpg?v=1594319693"
   },
@@ -566,6 +566,15 @@
     "url": "https://www.daivik.in/products/meenakari-peacock-necklace-with-necklace?variant=gid://shopify/ProductVariant/36673302921369",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/meenakari-peacock-necklace-with-neckwearnecklace-202.jpg?v=1602518928"
   },
+  "gid://shopify/ProductVariant/36692498677913": {
+    "product_title": "Golden Pearl Peacock Balis",
+    "variant_title": "Default Title",
+    "sku": "402",
+    "price": 849.0,
+    "stock": 56,
+    "url": "https://www.daivik.in/products/golden-pearl-peacock-balis?variant=gid://shopify/ProductVariant/36692498677913",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/golden-pearl-peacock-balis-earrings-519.jpg?v=1602599466"
+  },
   "gid://shopify/ProductVariant/36733660725401": {
     "product_title": "Ruby Green Peacock cluster pearl jhumkas",
     "variant_title": "Default Title",
@@ -742,7 +751,7 @@
     "variant_title": "Default Title",
     "sku": "604",
     "price": 1399.0,
-    "stock": 7,
+    "stock": 51,
     "url": "https://www.daivik.in/products/ad-peacock-jhumkas-1?variant=gid://shopify/ProductVariant/38058936402073",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/ad-peacock-jhumkas-earrings-269.jpg?v=1613143353"
   },
@@ -1070,6 +1079,15 @@
     "url": "https://www.daivik.in/products/ad-bridal-anklets?variant=gid://shopify/ProductVariant/40425545859225",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_54fe9055-9097-4855-8b3f-f340e460f477.jpg?v=1624810759"
   },
+  "gid://shopify/ProductVariant/40510053089433": {
+    "product_title": "Kids/Adults mini choker",
+    "variant_title": "Default Title",
+    "sku": "768",
+    "price": 1499.0,
+    "stock": 48,
+    "url": "https://www.daivik.in/products/kids-mini-choker?variant=gid://shopify/ProductVariant/40510053089433",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_b84b91f3-39db-464f-a5f2-32b92eb228b7.jpg?v=1625765057"
+  },
   "gid://shopify/ProductVariant/40525218087065": {
     "product_title": "3 Line Pearl Mattals",
     "variant_title": "Default Title",
@@ -1240,6 +1258,15 @@
     "stock": 54,
     "url": "https://www.daivik.in/products/simple-rose-gold-box-necklace-with-earrings?variant=gid://shopify/ProductVariant/40908663914649",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_916c8702-ca05-4e11-8b0c-5ecaf03e00db.jpg?v=1629872052"
+  },
+  "gid://shopify/ProductVariant/44757040464094": {
+    "product_title": "Mini version of the Big size jhumkas",
+    "variant_title": "Default Title",
+    "sku": "838",
+    "price": 999.0,
+    "stock": 56,
+    "url": "https://www.daivik.in/products/mini-version-of-the-big-size-jhumkas?variant=gid://shopify/ProductVariant/44757040464094",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_759a774f-96d7-41af-a149-dc4f82e5ba7c.jpg?v=1630159442"
   },
   "gid://shopify/ProductVariant/40979176587417": {
     "product_title": "Designer AD Necklace with earrings in 3 colours",
@@ -1453,7 +1480,7 @@
     "variant_title": "Default Title",
     "sku": "909",
     "price": 1099.0,
-    "stock": 21,
+    "stock": 56,
     "url": "https://www.daivik.in/products/simple-kemp-studs-in-2-variants?variant=gid://shopify/ProductVariant/41359794864281",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_858e6c74-1aac-4152-b929-262cb3e584d2.jpg?v=1634309760"
   },
@@ -3778,6 +3805,15 @@
     "stock": 7,
     "url": "https://www.daivik.in/products/regular-wear-simple-pearl-bangles?variant=gid://shopify/ProductVariant/44191571345630",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_c56667e7-0c62-4734-8e8d-edd549a4d917.heic?v=1684248500"
+  },
+  "gid://shopify/ProductVariant/44192837632222": {
+    "product_title": "AD changeable studs",
+    "variant_title": "Default Title",
+    "sku": "106",
+    "price": 799.0,
+    "stock": 56,
+    "url": "https://www.daivik.in/products/ad-changeable-studs?variant=gid://shopify/ProductVariant/44192837632222",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_08e4ed6b-ba61-47e9-b771-865e36387862.heic?v=1684327210"
   },
   "gid://shopify/ProductVariant/44195427713246": {
     "product_title": "Multicolour Pearl chain",
@@ -6430,7 +6466,7 @@
     "variant_title": "Default Title",
     "sku": "840",
     "price": 1599.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/ad-pendant-long-chain-with-earrings?variant=gid://shopify/ProductVariant/45167765881054",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/58434AA7-CE46-4464-82BC-A7E246516ADA.jpg?v=1713105126"
   },
@@ -10033,6 +10069,15 @@
     "stock": 1,
     "url": "https://www.daivik.in/products/hasli-lakshmi-pendant-necklace-with-earrings-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/46182730268894",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C7632E9E-4DDF-43CA-A3FD-5412032AE3F7.jpg?v=1735394088"
+  },
+  "gid://shopify/ProductVariant/46188375965918": {
+    "product_title": "Simple Gold Finish Anklets",
+    "variant_title": "Default Title",
+    "sku": "1529",
+    "price": 499.0,
+    "stock": 56,
+    "url": "https://www.daivik.in/products/simple-gold-finish-anklets-1?variant=gid://shopify/ProductVariant/46188375965918",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/129BD151-AFAD-4AC4-A66C-66BC6FD1559C.jpg?v=1735653418"
   },
   "gid://shopify/ProductVariant/46188385566942": {
     "product_title": "Simple White Beads Anklets in two Colors (Prices for a Pair)",
@@ -16910,6 +16955,15 @@
     "url": "https://www.daivik.in/products/two-line-mossanite-necklace-with-earrings?variant=gid://shopify/ProductVariant/47810921201886",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/882B7FCC-08D0-4845-94A7-55235329DC5C.jpg?v=1768065139"
   },
+  "gid://shopify/ProductVariant/47821038485726": {
+    "product_title": "Kids / Adult Kemp Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "1777",
+    "price": 799.0,
+    "stock": 56,
+    "url": "https://www.daivik.in/products/kids-adult-kemp-jhumkas?variant=gid://shopify/ProductVariant/47821038485726",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4F2694EF-73AE-44F3-8030-0E1268B2B9C6.jpg?v=1771241123"
+  },
   "gid://shopify/ProductVariant/47821116735710": {
     "product_title": "Kemp Ruby Green Saree Pin",
     "variant_title": "Default Title",
@@ -19426,7 +19480,7 @@
     "variant_title": "1",
     "sku": "3539",
     "price": 199.0,
-    "stock": 42,
+    "stock": 41,
     "url": "https://www.daivik.in/products/handmade-lotus-flower-u-pin?variant=gid://shopify/ProductVariant/48294879232222",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6541_901f273f-d515-4509-8c32-1781f48291b7.jpg?v=1780223307"
   },
@@ -20519,6 +20573,15 @@
     "url": "https://www.daivik.in/products/moissanite-simple-droplet-necklace-with-studs-in-3-colours?variant=gid://shopify/ProductVariant/48555218436318",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6DA6C7AA-A5E7-4462-BC6E-2696131F7CF4.jpg?v=1786031745"
   },
+  "gid://shopify/ProductVariant/48566277046494": {
+    "product_title": "Kemp Runy Green Pearl Mattals",
+    "variant_title": "Default Title",
+    "sku": "1941",
+    "price": 2299.0,
+    "stock": 20,
+    "url": "https://www.daivik.in/products/kemp-runy-green-pearl-mattals?variant=gid://shopify/ProductVariant/48566277046494",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5663.jpg?v=1786123263"
+  },
   "gid://shopify/ProductVariant/48566325051614": {
     "product_title": "Ruby Green Golden Beads Mattals",
     "variant_title": "Default Title",
@@ -20731,7 +20794,7 @@
     "variant_title": "Default Title",
     "sku": "1950",
     "price": 1799.0,
-    "stock": 13,
+    "stock": 56,
     "url": "https://www.daivik.in/products/pearl-kemp-floral-droplet-balis?variant=gid://shopify/ProductVariant/48623898886366",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F07B3D62-F7C5-4A9C-AF33-EA3958501861.jpg?v=1787313150"
   },
@@ -21586,7 +21649,7 @@
     "variant_title": "Default Title",
     "sku": "D26011",
     "price": 999.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26011?variant=gid://shopify/ProductVariant/49149623042270",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5975.jpg?v=1791220994"
   },
@@ -22225,7 +22288,7 @@
     "variant_title": "Default Title",
     "sku": "D26061",
     "price": 799.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26061?variant=gid://shopify/ProductVariant/49149626351838",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6387.jpg?v=1791223109"
   },
@@ -22603,7 +22666,7 @@
     "variant_title": "Default Title",
     "sku": "1982",
     "price": 799.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/simple-floral-antique-jhumkas-with-mattal?variant=gid://shopify/ProductVariant/49149773906142",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/50290B5C-2D07-4A49-BBB4-F698CCA99EC1.jpg?v=1791111602"
   },
@@ -23746,7 +23809,7 @@
     "variant_title": "Default Title",
     "sku": "D26104",
     "price": 349.0,
-    "stock": 37,
+    "stock": 36,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26104?variant=gid://shopify/ProductVariant/49169744330974",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_67982.jpg?v=1791457382"
   },
@@ -24475,7 +24538,7 @@
     "variant_title": "Default Title",
     "sku": "D26168",
     "price": 599.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26168?variant=gid://shopify/ProductVariant/49169792434398",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7266.jpg?v=1791532675"
   },
@@ -26522,15 +26585,6 @@
     "url": "https://www.daivik.in/products/small-tribal-bali-jhumka?variant=gid://shopify/ProductVariant/36547713302681",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/small-tribal-bali-jhumka-earrings-745.jpg?v=1601913641"
   },
-  "gid://shopify/ProductVariant/36692498677913": {
-    "product_title": "Golden Pearl Peacock Balis",
-    "variant_title": "Default Title",
-    "sku": "402",
-    "price": 849.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/golden-pearl-peacock-balis?variant=gid://shopify/ProductVariant/36692498677913",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/golden-pearl-peacock-balis-earrings-519.jpg?v=1602599466"
-  },
   "gid://shopify/ProductVariant/37443290693785": {
     "product_title": "Peacock choker with jhumkas",
     "variant_title": "Default Title",
@@ -26783,15 +26837,6 @@
     "url": "https://www.daivik.in/products/traditional-teeka-in-2-variants-1?variant=gid://shopify/ProductVariant/40399475277977",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_0066045a-8bf2-4b6c-b69e-6d4d3128735b.jpg?v=1624462201"
   },
-  "gid://shopify/ProductVariant/40510053089433": {
-    "product_title": "Kids/Adults mini choker",
-    "variant_title": "Default Title",
-    "sku": "768",
-    "price": 1499.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/kids-mini-choker?variant=gid://shopify/ProductVariant/40510053089433",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_b84b91f3-39db-464f-a5f2-32b92eb228b7.jpg?v=1625765057"
-  },
   "gid://shopify/ProductVariant/40851463569561": {
     "product_title": "Simple Hipbelt",
     "variant_title": "Default Title",
@@ -26836,15 +26881,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/uncut-kemp-bangles?variant=gid://shopify/ProductVariant/40904754954393",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_edfabc91-ad3f-4604-bb16-b7f1842d1d62.jpg?v=1629814361"
-  },
-  "gid://shopify/ProductVariant/44757040464094": {
-    "product_title": "Mini version of the Big size jhumkas",
-    "variant_title": "Default Title",
-    "sku": "838",
-    "price": 999.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/mini-version-of-the-big-size-jhumkas?variant=gid://shopify/ProductVariant/44757040464094",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_759a774f-96d7-41af-a149-dc4f82e5ba7c.jpg?v=1630159442"
   },
   "gid://shopify/ProductVariant/40979176521881": {
     "product_title": "Designer AD Necklace with earrings in 3 colours",
@@ -29014,15 +29050,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-lakshmi-jadabilla?variant=gid://shopify/ProductVariant/44190416634078",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_113fd9bf-6c0c-41f4-9249-b4d0a196d42e.heic?v=1684150401"
-  },
-  "gid://shopify/ProductVariant/44192837632222": {
-    "product_title": "AD changeable studs",
-    "variant_title": "Default Title",
-    "sku": "106",
-    "price": 799.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/ad-changeable-studs?variant=gid://shopify/ProductVariant/44192837632222",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_08e4ed6b-ba61-47e9-b771-865e36387862.heic?v=1684327210"
   },
   "gid://shopify/ProductVariant/44196925898974": {
     "product_title": "Antique Lakshmi bangles",
@@ -31831,15 +31858,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/simple-ruby-green-flower-anklets?variant=gid://shopify/ProductVariant/46188373967070",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8B4FDF10-175A-4A91-B3B0-F7FB02EF6BD6.jpg?v=1735652752"
-  },
-  "gid://shopify/ProductVariant/46188375965918": {
-    "product_title": "Simple Gold Finish Anklets",
-    "variant_title": "Default Title",
-    "sku": "1529",
-    "price": 499.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/simple-gold-finish-anklets-1?variant=gid://shopify/ProductVariant/46188375965918",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/129BD151-AFAD-4AC4-A66C-66BC6FD1559C.jpg?v=1735653418"
   },
   "gid://shopify/ProductVariant/46193503568094": {
     "product_title": "Antique Cage Hair Bun",
@@ -34775,15 +34793,6 @@
     "url": "https://www.daivik.in/products/kemp-five-layer-pearl-mattal?variant=gid://shopify/ProductVariant/47819396120798",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B1683100-CAC8-4A0C-8722-2BD143AB716C.jpg?v=1768149136"
   },
-  "gid://shopify/ProductVariant/47821038485726": {
-    "product_title": "Kids / Adult Kemp Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "1777",
-    "price": 799.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/kids-adult-kemp-jhumkas?variant=gid://shopify/ProductVariant/47821038485726",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4F2694EF-73AE-44F3-8030-0E1268B2B9C6.jpg?v=1771241123"
-  },
   "gid://shopify/ProductVariant/47821116834014": {
     "product_title": "Lotus Saree Pin",
     "variant_title": "Default Title",
@@ -35746,15 +35755,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/heritage-watch-bracelet-14?variant=gid://shopify/ProductVariant/48547820536030",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5652.jpg?v=1785854130"
-  },
-  "gid://shopify/ProductVariant/48566277046494": {
-    "product_title": "Kemp Runy Green Pearl Mattals",
-    "variant_title": "Default Title",
-    "sku": "1941",
-    "price": 2299.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/kemp-runy-green-pearl-mattals?variant=gid://shopify/ProductVariant/48566277046494",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5663.jpg?v=1786123263"
   },
   "gid://shopify/ProductVariant/48606013096158": {
     "product_title": "Antique Lakshmi Kada",
