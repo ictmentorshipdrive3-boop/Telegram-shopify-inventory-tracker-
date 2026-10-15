@@ -2470,7 +2470,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R17301",
     "price": 3060.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.rasasilver.com/products/smaragda-spark-ring?variant=gid://shopify/ProductVariant/51471916826921",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_0484a4ff-0b8b-4858-bb16-14d9605b1153.jpg?v=1754311252"
   },
@@ -13310,33 +13310,6 @@
     "url": "https://www.rasasilver.com/products/antique-kasu-bangles?variant=gid://shopify/ProductVariant/52759908581673",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00283copy_resized.jpg?v=1772791529"
   },
-  "gid://shopify/ProductVariant/52797835837737": {
-    "product_title": "Navaratna-Bliss Stone Bangles",
-    "variant_title": "2.4",
-    "sku": "R25318",
-    "price": 21845.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/navaratna-bliss-stone-bangles?variant=gid://shopify/ProductVariant/52797835837737",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00167copy_resized.jpg?v=1772793164"
-  },
-  "gid://shopify/ProductVariant/52797835870505": {
-    "product_title": "Navaratna-Bliss Stone Bangles",
-    "variant_title": "2.7",
-    "sku": "R25318",
-    "price": 21845.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/navaratna-bliss-stone-bangles?variant=gid://shopify/ProductVariant/52797835870505",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00167copy_resized.jpg?v=1772793164"
-  },
-  "gid://shopify/ProductVariant/52797835903273": {
-    "product_title": "Navaratna-Bliss Stone Bangles",
-    "variant_title": "2.8",
-    "sku": "R25318",
-    "price": 21845.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/navaratna-bliss-stone-bangles?variant=gid://shopify/ProductVariant/52797835903273",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00167copy_resized.jpg?v=1772793164"
-  },
   "gid://shopify/ProductVariant/52798061674793": {
     "product_title": "Flor\u00e9ya Stone Bangles",
     "variant_title": "2.6",
@@ -22490,15 +22463,6 @@
     "url": "https://www.rasasilver.com/products/ganpati-rakhi-2?variant=gid://shopify/ProductVariant/53439895863593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19598.jpg?v=1786000337"
   },
-  "gid://shopify/ProductVariant/53475651748137": {
-    "product_title": "Shubhira Temple Hair Brooch",
-    "variant_title": "Default Title",
-    "sku": "R34802",
-    "price": 7225.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/shubhira-temple-hair-brooch?variant=gid://shopify/ProductVariant/53475651748137",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__1Sep13521.jpg?v=1789041332"
-  },
   "gid://shopify/ProductVariant/53475669770537": {
     "product_title": "Mor-Ananta Temple Hair Brooch",
     "variant_title": "Default Title",
@@ -22507,15 +22471,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/mor-ananta-temple-hair-brooch?variant=gid://shopify/ProductVariant/53475669770537",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__1Sep1360.jpg?v=1789042228"
-  },
-  "gid://shopify/ProductVariant/53475677143337": {
-    "product_title": "Padmavarnaa Temple Hair Brooch",
-    "variant_title": "Default Title",
-    "sku": "R34812",
-    "price": 15725.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/padmavarnaa-temple-hair-brooch?variant=gid://shopify/ProductVariant/53475677143337",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__1Sep1369A.jpg?v=1789041663"
   },
   "gid://shopify/ProductVariant/53475682582825": {
     "product_title": "Kanakleela Temple Hair Brooch",
@@ -40616,6 +40571,33 @@
     "url": "https://www.rasasilver.com/products/stone-bangles?variant=gid://shopify/ProductVariant/52797831348521",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00286copy_resized.jpg?v=1772793106"
   },
+  "gid://shopify/ProductVariant/52797835837737": {
+    "product_title": "Navaratna-Bliss Stone Bangles",
+    "variant_title": "2.4",
+    "sku": "R25318",
+    "price": 21845.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/navaratna-bliss-stone-bangles?variant=gid://shopify/ProductVariant/52797835837737",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00167copy_resized.jpg?v=1772793164"
+  },
+  "gid://shopify/ProductVariant/52797835870505": {
+    "product_title": "Navaratna-Bliss Stone Bangles",
+    "variant_title": "2.7",
+    "sku": "R25318",
+    "price": 21845.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/navaratna-bliss-stone-bangles?variant=gid://shopify/ProductVariant/52797835870505",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00167copy_resized.jpg?v=1772793164"
+  },
+  "gid://shopify/ProductVariant/52797835903273": {
+    "product_title": "Navaratna-Bliss Stone Bangles",
+    "variant_title": "2.8",
+    "sku": "R25318",
+    "price": 21845.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/navaratna-bliss-stone-bangles?variant=gid://shopify/ProductVariant/52797835903273",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00167copy_resized.jpg?v=1772793164"
+  },
   "gid://shopify/ProductVariant/52797873193257": {
     "product_title": "Starry-Shine Stone Bangles",
     "variant_title": "2.6",
@@ -47941,6 +47923,24 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/ball-royale-kundan-studs?variant=gid://shopify/ProductVariant/53431577313577",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__12Aug04032.jpg?v=1786973978"
+  },
+  "gid://shopify/ProductVariant/53475651748137": {
+    "product_title": "Shubhira Temple Hair Brooch",
+    "variant_title": "Default Title",
+    "sku": "R34802",
+    "price": 7225.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/shubhira-temple-hair-brooch?variant=gid://shopify/ProductVariant/53475651748137",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__1Sep13521.jpg?v=1789041332"
+  },
+  "gid://shopify/ProductVariant/53475677143337": {
+    "product_title": "Padmavarnaa Temple Hair Brooch",
+    "variant_title": "Default Title",
+    "sku": "R34812",
+    "price": 15725.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/padmavarnaa-temple-hair-brooch?variant=gid://shopify/ProductVariant/53475677143337",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__1Sep1369A.jpg?v=1789041663"
   },
   "gid://shopify/ProductVariant/53478867173673": {
     "product_title": "Ishmira Kundan Jhumki",
