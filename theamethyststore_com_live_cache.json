@@ -112463,15 +112463,6 @@
     "url": "https://www.theamethyststore.com/products/meadow-green-avikam-pair-bangles?variant=gid://shopify/ProductVariant/67695634055395",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3758-2.6.jpg?v=1792051650"
   },
-  "gid://shopify/ProductVariant/67695635628259": {
-    "product_title": "Dazzle Nagas Earrings",
-    "variant_title": "Default Title",
-    "sku": "680-A31492",
-    "price": 31700.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nagas-earrings-5?variant=gid://shopify/ProductVariant/67695635628259",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/WhatsAppImage2026-10-15at1.36.36PM.jpg?v=1792051782"
-  },
   "gid://shopify/ProductVariant/67695638118627": {
     "product_title": "Fascinating 3D Spl Pendant",
     "variant_title": "Default Title",
@@ -112480,6 +112471,24 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/fascinating-3d-spl-pendant-1?variant=gid://shopify/ProductVariant/67695638118627",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5367.jpg?v=1792052029"
+  },
+  "gid://shopify/ProductVariant/67695644508387": {
+    "product_title": "Dreamlike 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5368",
+    "price": 8400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/dreamlike-3d-spl-pendant-1?variant=gid://shopify/ProductVariant/67695644508387",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5368.jpg?v=1792052290"
+  },
+  "gid://shopify/ProductVariant/67695649587427": {
+    "product_title": "Regal Charm Avikam Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16594",
+    "price": 31300.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/regal-charm-avikam-earrings?variant=gid://shopify/ProductVariant/67695649587427",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16594.jpg?v=1792052517"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -146779,5 +146788,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/majesty-3d-spl-pendant?variant=gid://shopify/ProductVariant/67635634012387",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5283.jpg?v=1791375885"
+  },
+  "gid://shopify/ProductVariant/67695635628259": {
+    "product_title": "Dazzle Nagas Earrings",
+    "variant_title": "Default Title",
+    "sku": "680-A31492",
+    "price": 31700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-earrings-5?variant=gid://shopify/ProductVariant/67695635628259",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/WhatsAppImage2026-10-15at1.36.36PM.jpg?v=1792051782"
   }
 }
