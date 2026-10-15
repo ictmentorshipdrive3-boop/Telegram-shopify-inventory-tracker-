@@ -15637,7 +15637,7 @@
     "variant_title": "Default Title",
     "sku": "R26310",
     "price": 14705.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/indira-temple-necklace-copy-5?variant=gid://shopify/ProductVariant/52890124255529",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0105_resized.jpg?v=1775202429"
   },
@@ -24541,15 +24541,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/hiranyavalli-temple-maang-tikka?variant=gid://shopify/ProductVariant/67559987249449",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_49_81Pics_22Sep21115.jpg?v=1790854003"
-  },
-  "gid://shopify/ProductVariant/67559997145385": {
-    "product_title": "Lakshmika Temple Danglers",
-    "variant_title": "Default Title",
-    "sku": "R37643",
-    "price": 5610.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/lakshmika-temple-danglers?variant=gid://shopify/ProductVariant/67559997145385",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct21233.jpg?v=1791357981"
   },
   "gid://shopify/ProductVariant/67564713935145": {
     "product_title": "Saumya Nakshi Jhumki",
@@ -48616,6 +48607,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/kusumita-kalash-nakshi-necklace?variant=gid://shopify/ProductVariant/67542576857385",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_48_108Pics_10Sep20963.jpg?v=1790417052"
+  },
+  "gid://shopify/ProductVariant/67559997145385": {
+    "product_title": "Lakshmika Temple Danglers",
+    "variant_title": "Default Title",
+    "sku": "R37643",
+    "price": 5610.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/lakshmika-temple-danglers?variant=gid://shopify/ProductVariant/67559997145385",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct21233.jpg?v=1791357981"
   },
   "gid://shopify/ProductVariant/67564889342249": {
     "product_title": "Amra Mayura Kundan Necklace",
