@@ -99274,7 +99274,7 @@
     "variant_title": "2.6",
     "sku": "AMS-107-3533-2.6\"",
     "price": 32500.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/varmika-avikam-bangles?variant=gid://shopify/ProductVariant/49718544367843",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3533-2.4.jpg?v=1789112292"
   },
@@ -99373,7 +99373,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16110",
     "price": 19300.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/blooming-swing-3d-spl-jhumaks?variant=gid://shopify/ProductVariant/49719201988835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16110.jpg?v=1789131106"
   },
@@ -100403,15 +100403,6 @@
     "url": "https://www.theamethyststore.com/products/urban-chic-3d-spl-drops?variant=gid://shopify/ProductVariant/49731028910307",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15986.jpg?v=1789361148"
   },
-  "gid://shopify/ProductVariant/49731040280803": {
-    "product_title": "Trendy 3D Spl Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15985",
-    "price": 2200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/trendy-3d-spl-drops?variant=gid://shopify/ProductVariant/49731040280803",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15985.jpg?v=1789361374"
-  },
   "gid://shopify/ProductVariant/49731063578851": {
     "product_title": "Harmonious 3D Spl Drops",
     "variant_title": "Default Title",
@@ -100453,7 +100444,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-1538",
     "price": 22800.0,
-    "stock": 1,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/authentic-victorian-bracelet?variant=gid://shopify/ProductVariant/49732037837027",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1538.jpg?v=1789372297"
   },
@@ -102064,7 +102055,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-2227",
     "price": 31574.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/contempo-grace-nagas-chain?variant=gid://shopify/ProductVariant/49783270408419",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2227.jpg?v=1789969781"
   },
@@ -109948,7 +109939,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-2300",
     "price": 19500.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/sacred-legacy-victorian-mangalsutra?variant=gid://shopify/ProductVariant/67660853969123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2300.jpg?v=1791705439"
   },
@@ -112715,6 +112706,15 @@
     "url": "https://www.theamethyststore.com/products/vamika-stone-pendant?variant=gid://shopify/ProductVariant/67697059332323",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5495.jpg?v=1792063368"
   },
+  "gid://shopify/ProductVariant/67697155735779": {
+    "product_title": "Sacred Heritage Stone Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5500",
+    "price": 16443.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/sacred-heritage-stone-pendant?variant=gid://shopify/ProductVariant/67697155735779",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5500.jpg?v=1792063762"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -114942,7 +114942,7 @@
     "product_title": "Raziya Stone Single Bangle",
     "variant_title": "2.4\"",
     "sku": "AMS-107-1105-2.4\"",
-    "price": 44500.0,
+    "price": 89500.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/raziya-stone-single-bangle?variant=gid://shopify/ProductVariant/44490005872867",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1105.jpg?v=1709732582"
@@ -146392,6 +146392,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/fusion-vouge-3d-spl-drops?variant=gid://shopify/ProductVariant/49728267059427",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15991.jpg?v=1789307168"
+  },
+  "gid://shopify/ProductVariant/49731040280803": {
+    "product_title": "Trendy 3D Spl Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15985",
+    "price": 2200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/trendy-3d-spl-drops?variant=gid://shopify/ProductVariant/49731040280803",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15985.jpg?v=1789361374"
   },
   "gid://shopify/ProductVariant/49731051487459": {
     "product_title": "Peacock-Inspired 3D Spl Drops",
