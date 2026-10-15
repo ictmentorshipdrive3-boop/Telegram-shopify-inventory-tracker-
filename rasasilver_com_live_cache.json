@@ -3379,7 +3379,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R20381",
     "price": 1955.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/rubora-oval-studs?variant=gid://shopify/ProductVariant/53523360153897",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2508.jpg?v=1756544597"
   },
@@ -4018,7 +4018,7 @@
     "variant_title": "Default Title",
     "sku": "R12938",
     "price": 7055.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/dazzle-hex-kada?variant=gid://shopify/ProductVariant/51197985718569",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0297copy_resized.jpg?v=1758177263"
   },
@@ -10115,6 +10115,15 @@
     "url": "https://www.rasasilver.com/products/swarnika-jadau-short-necklace?variant=gid://shopify/ProductVariant/52451370008873",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_14Jan0659_resized.jpg?v=1769061893"
   },
+  "gid://shopify/ProductVariant/52451418276137": {
+    "product_title": "Kanchan Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R22292",
+    "price": 39950.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/kanchan-temple-necklace?variant=gid://shopify/ProductVariant/52451418276137",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_159Pics_14Jan3288_resized.jpg?v=1768976106"
+  },
   "gid://shopify/ProductVariant/52451455566121": {
     "product_title": "9 Gem Necklace",
     "variant_title": "Default Title",
@@ -13255,6 +13264,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/navaratna-bliss-stone-bangles?variant=gid://shopify/ProductVariant/52797835903273",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00167copy_resized.jpg?v=1772793164"
+  },
+  "gid://shopify/ProductVariant/52798061674793": {
+    "product_title": "Flor\u00e9ya Stone Bangles",
+    "variant_title": "2.6",
+    "sku": "R25471",
+    "price": 20230.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/floreya-stone-bangles?variant=gid://shopify/ProductVariant/52798061674793",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00133copy_resized.jpg?v=1772798665"
   },
   "gid://shopify/ProductVariant/52798064525609": {
     "product_title": "Spark-Loom Stone Bangles",
@@ -37052,15 +37070,6 @@
     "url": "https://www.rasasilver.com/products/ivory-drop-stone-necklace?variant=gid://shopify/ProductVariant/52451399663913",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_159Pics_14Jan3217_resized.jpg?v=1768975969"
   },
-  "gid://shopify/ProductVariant/52451418276137": {
-    "product_title": "Kanchan Temple Necklace",
-    "variant_title": "Default Title",
-    "sku": "R22292",
-    "price": 39950.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/kanchan-temple-necklace?variant=gid://shopify/ProductVariant/52451418276137",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_159Pics_14Jan3288_resized.jpg?v=1768976106"
-  },
   "gid://shopify/ProductVariant/52451454288169": {
     "product_title": "Deivara Antique Choker",
     "variant_title": "Default Title",
@@ -41317,15 +41326,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/petalique-stone-bangles?variant=gid://shopify/ProductVariant/52798055121193",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00131copy_resized_1.jpg?v=1772798382"
-  },
-  "gid://shopify/ProductVariant/52798061674793": {
-    "product_title": "Flor\u00e9ya Stone Bangles",
-    "variant_title": "2.6",
-    "sku": "R25471",
-    "price": 20230.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/floreya-stone-bangles?variant=gid://shopify/ProductVariant/52798061674793",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00133copy_resized.jpg?v=1772798665"
   },
   "gid://shopify/ProductVariant/52798076387625": {
     "product_title": "Sparkova Stone Bangles",
@@ -49381,5 +49381,23 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/shreevanya-temple-necklace?variant=gid://shopify/ProductVariant/67627568595241",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_51_27Pics_10Oct3354.jpg?v=1792043586"
+  },
+  "gid://shopify/ProductVariant/67627596939561": {
+    "product_title": "Hemalakshmi Temple Necklace Set",
+    "variant_title": "Green",
+    "sku": "R37551",
+    "price": 15385.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/hemalakshmi-temple-necklace-set?variant=gid://shopify/ProductVariant/67627596939561",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_51_27Pics_10Oct3445.jpg?v=1792044993"
+  },
+  "gid://shopify/ProductVariant/67627596972329": {
+    "product_title": "Hemalakshmi Temple Necklace Set",
+    "variant_title": "Ruby Pink",
+    "sku": "R37557",
+    "price": 15640.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/hemalakshmi-temple-necklace-set?variant=gid://shopify/ProductVariant/67627596972329",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_51_27Pics_10Oct3445.jpg?v=1792044993"
   }
 }
