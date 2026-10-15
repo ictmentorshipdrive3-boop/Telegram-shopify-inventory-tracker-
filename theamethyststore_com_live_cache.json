@@ -98657,15 +98657,6 @@
     "url": "https://www.theamethyststore.com/products/moissanite-short-necklace-set-12?variant=gid://shopify/ProductVariant/49710174896355",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17879.jpg?v=1788947470"
   },
-  "gid://shopify/ProductVariant/49710193443043": {
-    "product_title": "Grand Look Moissanite Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17880",
-    "price": 175800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/moissanite-short-necklace-set-13?variant=gid://shopify/ProductVariant/49710193443043",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17880.jpg?v=1788947636"
-  },
   "gid://shopify/ProductVariant/49710227685603": {
     "product_title": "Vinthikaa Moissanite Short Necklace Set",
     "variant_title": "Default Title",
@@ -100462,7 +100453,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-1538",
     "price": 22800.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/authentic-victorian-bracelet?variant=gid://shopify/ProductVariant/49732037837027",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1538.jpg?v=1789372297"
   },
@@ -101317,7 +101308,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18128",
     "price": 48000.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/timeless-elegance-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/49768998830307",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18128.jpg?v=1789715931"
   },
@@ -102073,7 +102064,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-2227",
     "price": 31574.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/contempo-grace-nagas-chain?variant=gid://shopify/ProductVariant/49783270408419",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2227.jpg?v=1789969781"
   },
@@ -102559,7 +102550,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16161",
     "price": 4600.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/shalini-diamond-design-studs?variant=gid://shopify/ProductVariant/49794573959395",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16161.jpg?v=1790073432"
   },
@@ -112561,6 +112552,51 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/timeless-talon-pendant?variant=gid://shopify/ProductVariant/67696394010851",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5510.jpg?v=1792059739"
+  },
+  "gid://shopify/ProductVariant/67696508666083": {
+    "product_title": "Fierce Elegance Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5509",
+    "price": 8566.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/fierce-elegance-pendant?variant=gid://shopify/ProductVariant/67696508666083",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5509.jpg?v=1792060419"
+  },
+  "gid://shopify/ProductVariant/67696539205859": {
+    "product_title": "Grand Look Diamond Design Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5484",
+    "price": 11900.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/grand-look-diamond-design-pendant?variant=gid://shopify/ProductVariant/67696539205859",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5484.jpg?v=1792060406"
+  },
+  "gid://shopify/ProductVariant/67696549462243": {
+    "product_title": "Charismatic 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5410",
+    "price": 16100.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/charismatic-3dspl-pendant?variant=gid://shopify/ProductVariant/67696549462243",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5410.jpg?v=1792060552"
+  },
+  "gid://shopify/ProductVariant/67696586686691": {
+    "product_title": "Majestic Claw Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5508",
+    "price": 6400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/majestic-claw-pendant?variant=gid://shopify/ProductVariant/67696586686691",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5508.jpg?v=1792060906"
+  },
+  "gid://shopify/ProductVariant/67696590880995": {
+    "product_title": "Alluring 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5412",
+    "price": 13900.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/alluring-3d-spl-pendant?variant=gid://shopify/ProductVariant/67696590880995",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5412.jpg?v=1792060893"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
