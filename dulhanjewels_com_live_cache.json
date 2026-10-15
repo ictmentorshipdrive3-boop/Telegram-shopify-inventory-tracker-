@@ -6902,15 +6902,6 @@
     "url": "https://www.dulhanjewels.com/products/minimal-jadau-kundan-jhumki-earrings?variant=gid://shopify/ProductVariant/67946052190514",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6219710745033773797.jpg?v=1791640851"
   },
-  "gid://shopify/ProductVariant/67946055139634": {
-    "product_title": "Classic Jadau Kundan Jhumka Earrings With Green Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1350.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/classic-jadau-kundan-jhumka-earrings-with-green-drops-1?variant=gid://shopify/ProductVariant/67946055139634",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6219710745033773789.jpg?v=1791639420"
-  },
   "gid://shopify/ProductVariant/67946058973490": {
     "product_title": "Traditional Jadau Kundan Necklace With Floral Pendant",
     "variant_title": "Default Title",
@@ -7333,5 +7324,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/radiant-moissanite-polki-jhumki-earrings-with-strawberry-beads?variant=gid://shopify/ProductVariant/67945855189298",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/81E82843-999C-4503-8827-9777335431FF.jpg?v=1791621678"
+  },
+  "gid://shopify/ProductVariant/67946055139634": {
+    "product_title": "Classic Jadau Kundan Jhumka Earrings With Green Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1350.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/classic-jadau-kundan-jhumka-earrings-with-green-drops-1?variant=gid://shopify/ProductVariant/67946055139634",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6219710745033773789.jpg?v=1791639420"
   }
 }
