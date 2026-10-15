@@ -1003,7 +1003,7 @@
     "variant_title": "Default Title",
     "sku": "R2580",
     "price": 31875.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/hallow-gleam-chandbali?variant=gid://shopify/ProductVariant/50203141112105",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R2580.jpg?v=1751290244"
   },
@@ -3784,7 +3784,7 @@
     "variant_title": "Default Title",
     "sku": "R12411",
     "price": 33490.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/pearlesque-bloom-choker?variant=gid://shopify/ProductVariant/50835737510185",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug46870.jpg?v=1756822066"
   },
@@ -4714,15 +4714,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/bracelet-4?variant=gid://shopify/ProductVariant/51317154775337",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS459.jpg?v=1760353933"
-  },
-  "gid://shopify/ProductVariant/51317619261737": {
-    "product_title": "Prakriti Garuda Pendant",
-    "variant_title": "Default Title",
-    "sku": "R14636",
-    "price": 32810.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/pendant-11?variant=gid://shopify/ProductVariant/51317619261737",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS359.jpg?v=1760169272"
   },
   "gid://shopify/ProductVariant/51345546936617": {
     "product_title": "Miraflor Chain Pendant",
@@ -23066,15 +23057,6 @@
     "url": "https://www.rasasilver.com/products/mallisha-nakshi-studs?variant=gid://shopify/ProductVariant/53521649074473",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__1Sep1446.jpg?v=1789539997"
   },
-  "gid://shopify/ProductVariant/53522240405801": {
-    "product_title": "Pushvika Nakshi Studs",
-    "variant_title": "Default Title",
-    "sku": "R33743",
-    "price": 2470.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/pushvika-nakshi-studs?variant=gid://shopify/ProductVariant/53522240405801",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__1Sep1428.jpg?v=1789540273"
-  },
   "gid://shopify/ProductVariant/53524567589161": {
     "product_title": "Nalira Stone Studs",
     "variant_title": "Default Title",
@@ -28060,6 +28042,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/chain-pendant-9?variant=gid://shopify/ProductVariant/51317542158633",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS421.jpg?v=1760352285"
+  },
+  "gid://shopify/ProductVariant/51317619261737": {
+    "product_title": "Prakriti Garuda Pendant",
+    "variant_title": "Default Title",
+    "sku": "R14636",
+    "price": 32810.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/pendant-11?variant=gid://shopify/ProductVariant/51317619261737",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS359.jpg?v=1760169272"
   },
   "gid://shopify/ProductVariant/51317707669801": {
     "product_title": "Kusumika Glow Jhumki",
@@ -48130,6 +48121,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/kiyana-moissanite-necklace?variant=gid://shopify/ProductVariant/53493271527721",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPT_Image_Sep_7_2026_03_38_39_PM.png?v=1788775740"
+  },
+  "gid://shopify/ProductVariant/53522240405801": {
+    "product_title": "Pushvika Nakshi Studs",
+    "variant_title": "Default Title",
+    "sku": "R33743",
+    "price": 2470.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/pushvika-nakshi-studs?variant=gid://shopify/ProductVariant/53522240405801",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__1Sep1428.jpg?v=1789540273"
   },
   "gid://shopify/ProductVariant/53522921193769": {
     "product_title": "Dviraja Nakshi Studs",
