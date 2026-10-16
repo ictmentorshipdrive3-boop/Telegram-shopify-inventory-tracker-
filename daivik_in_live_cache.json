@@ -6430,7 +6430,7 @@
     "variant_title": "Default Title",
     "sku": "840",
     "price": 1599.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/ad-pendant-long-chain-with-earrings?variant=gid://shopify/ProductVariant/45167765881054",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/58434AA7-CE46-4464-82BC-A7E246516ADA.jpg?v=1713105126"
   },
@@ -12055,7 +12055,7 @@
     "variant_title": "Default Title",
     "sku": "1621",
     "price": 599.0,
-    "stock": 45,
+    "stock": 44,
     "url": "https://www.daivik.in/products/flexible-lakshmi-coin-kada-price-for-a-set-of-2?variant=gid://shopify/ProductVariant/47029037203678",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3BA6613C-A6F8-4A99-8E59-6B41DE844ADF.jpg?v=1750575581"
   },
@@ -16144,15 +16144,6 @@
     "stock": 9999,
     "url": "https://www.daivik.in/products/real-look-alike-foam-handmade-malli-pink-elastic-rubber-band-hair-tie-price-for-1-pc?variant=gid://shopify/ProductVariant/47686673858782",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7500_22a06332-60a6-4ce6-913c-1c35aba22242.heic?v=1763301029"
-  },
-  "gid://shopify/ProductVariant/47686674022622": {
-    "product_title": "Real Look alike Foam Handmade Malli Pink Shade U Pin (Price for 1 pc)",
-    "variant_title": "Default Title",
-    "sku": "3511",
-    "price": 249.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/real-look-alike-foam-handmade-malli-pink-shade-u-pin-price-for-1-pc?variant=gid://shopify/ProductVariant/47686674022622",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7495.heic?v=1763301107"
   },
   "gid://shopify/ProductVariant/47686676512990": {
     "product_title": "Real Look alike Foam Handmade Malli Pink Shade Hair Clip (Price for 1 pc )",
@@ -22189,7 +22180,7 @@
     "variant_title": "Default Title",
     "sku": "D26061",
     "price": 799.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26061?variant=gid://shopify/ProductVariant/49149626351838",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6387.jpg?v=1791223109"
   },
@@ -24160,7 +24151,7 @@
     "variant_title": "Default Title",
     "sku": "D26149",
     "price": 699.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26149?variant=gid://shopify/ProductVariant/49169775689950",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6970.jpg?v=1791468612"
   },
@@ -34342,6 +34333,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/pure-kemp-jadau-billai-with-mattal?variant=gid://shopify/ProductVariant/47686210617566",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/521E3015-9971-41FF-BB35-3391792DBC93.jpg?v=1763268878"
+  },
+  "gid://shopify/ProductVariant/47686674022622": {
+    "product_title": "Real Look alike Foam Handmade Malli Pink Shade U Pin (Price for 1 pc)",
+    "variant_title": "Default Title",
+    "sku": "3511",
+    "price": 249.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/real-look-alike-foam-handmade-malli-pink-shade-u-pin-price-for-1-pc?variant=gid://shopify/ProductVariant/47686674022622",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7495.heic?v=1763301107"
   },
   "gid://shopify/ProductVariant/47686676349150": {
     "product_title": "Real Look alike Foam Handmade Malli White and Orange Shade Hair Clip (Price for 1 pc )",
