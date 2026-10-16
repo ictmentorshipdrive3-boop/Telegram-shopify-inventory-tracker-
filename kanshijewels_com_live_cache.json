@@ -1624,7 +1624,7 @@
     "variant_title": "Default Title",
     "sku": "MT65",
     "price": 1312.5,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-maang-tika-71?variant=gid://shopify/ProductVariant/45462708977964",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0194.jpg?v=1687352502"
   },
@@ -2581,15 +2581,6 @@
     "stock": 10,
     "url": "https://www.kanshijewels.com/products/mangalsutra-12?variant=gid://shopify/ProductVariant/46476978127148",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1900_3.jpg?v=1692612257"
-  },
-  "gid://shopify/ProductVariant/46477093929260": {
-    "product_title": "Jadau Kundan Ear Cuffs",
-    "variant_title": "Default Title",
-    "sku": "AC125",
-    "price": 577.5,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-kundan-ear-cuffs?variant=gid://shopify/ProductVariant/46477093929260",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/500.jpg?v=1692612571"
   },
   "gid://shopify/ProductVariant/46477113622828": {
     "product_title": "Jadau Kundan Ear Cuffs",
@@ -9058,7 +9049,7 @@
     "variant_title": "Default Title",
     "sku": "NP02",
     "price": 999.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.kanshijewels.com/products/jadau-septum-nose-pin-1?variant=gid://shopify/ProductVariant/52441930170668",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadauseptumnosepin999.jpg?v=1766063190"
   },
@@ -12895,6 +12886,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/mangalsutra-8?variant=gid://shopify/ProductVariant/46476841550124",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1200_3.jpg?v=1692612099"
+  },
+  "gid://shopify/ProductVariant/46477093929260": {
+    "product_title": "Jadau Kundan Ear Cuffs",
+    "variant_title": "Default Title",
+    "sku": "AC125",
+    "price": 577.5,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-kundan-ear-cuffs?variant=gid://shopify/ProductVariant/46477093929260",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/500.jpg?v=1692612571"
   },
   "gid://shopify/ProductVariant/46477247906092": {
     "product_title": "Jadau Kundan Clip",
