@@ -6299,15 +6299,6 @@
     "url": "https://www.dulhanjewels.com/products/multicolour-jadau-kundan-hairpin?variant=gid://shopify/ProductVariant/67870701682994",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_4a9e456e-6168-42ee-865d-21c38fc261f9.jpg?v=1791016602"
   },
-  "gid://shopify/ProductVariant/67870703288626": {
-    "product_title": "Classic Jadau Kundan Pearl Champasaralu",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1000.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/untitled-sep29_18-07-26?variant=gid://shopify/ProductVariant/67870703288626",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/A98E3690-0F2D-4A63-8018-B66871FF42F9.jpg?v=1790685008"
-  },
   "gid://shopify/ProductVariant/67870704501042": {
     "product_title": "Stylish Jadau Kundan Earrings With Layered Accents",
     "variant_title": "Default Title",
@@ -6911,15 +6902,6 @@
     "url": "https://www.dulhanjewels.com/products/bridal-jadau-kundan-necklace-with-white-bead-strands-and-statement-pendant?variant=gid://shopify/ProductVariant/67962504479026",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/1113B92E-F994-46E4-88BB-1AB57AE76606.jpg?v=1791892605"
   },
-  "gid://shopify/ProductVariant/67962512310578": {
-    "product_title": "Elephant Design Jadau Kundan Studs",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1000.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/elephant-design-jadau-kundan-studs?variant=gid://shopify/ProductVariant/67962512310578",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_c81b616d-b732-4c79-b988-697474d81019.jpg?v=1791978647"
-  },
   "gid://shopify/ProductVariant/67962517455154": {
     "product_title": "Green Beaded Kundan Choker With Pearl Hangings",
     "variant_title": "Default Title",
@@ -7252,5 +7234,23 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/floral-design-jadau-kundan-sun-and-moon-hairpin?variant=gid://shopify/ProductVariant/67591318929714",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/09666FB6-8E9E-4376-8E2B-8A1193906526.jpg?v=1790447261"
+  },
+  "gid://shopify/ProductVariant/67870703288626": {
+    "product_title": "Classic Jadau Kundan Pearl Champasaralu",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1000.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/untitled-sep29_18-07-26?variant=gid://shopify/ProductVariant/67870703288626",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/A98E3690-0F2D-4A63-8018-B66871FF42F9.jpg?v=1790685008"
+  },
+  "gid://shopify/ProductVariant/67962512310578": {
+    "product_title": "Elephant Design Jadau Kundan Studs",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1000.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/elephant-design-jadau-kundan-studs?variant=gid://shopify/ProductVariant/67962512310578",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_c81b616d-b732-4c79-b988-697474d81019.jpg?v=1791978647"
   }
 }
