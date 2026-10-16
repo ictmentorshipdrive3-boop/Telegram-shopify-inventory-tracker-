@@ -427,7 +427,7 @@
     "variant_title": "Default Title",
     "sku": "342",
     "price": 1999.0,
-    "stock": 42,
+    "stock": 41,
     "url": "https://www.daivik.in/products/ruby-green-peacock-kemp-jhumkas?variant=gid://shopify/ProductVariant/35739035238553",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/ruby-green-peacock-kemp-jhumkas-earrings-706.jpg?v=1598168763"
   },
@@ -2785,7 +2785,7 @@
     "variant_title": "2.6",
     "sku": "929",
     "price": 1199.0,
-    "stock": 18,
+    "stock": 17,
     "url": "https://www.daivik.in/products/a-302?variant=gid://shopify/ProductVariant/43479581130974",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_6a23397a-390f-4fae-a298-e6f1ac6ba3b9.heic?v=1664687431"
   },
@@ -4423,7 +4423,7 @@
     "variant_title": "Ruby",
     "sku": "364",
     "price": 999.0,
-    "stock": 49,
+    "stock": 48,
     "url": "https://www.daivik.in/products/untitled-aug24_21-15?variant=gid://shopify/ProductVariant/44403892420830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D1221F9B-4B46-4FCA-A426-121C0CBF2979.jpg?v=1697109021"
   },
@@ -9998,15 +9998,6 @@
     "url": "https://www.daivik.in/products/a-3?variant=gid://shopify/ProductVariant/46169605505246",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D4A3F33F-5DB6-41F4-B8F8-CE21DA8FEFF4.jpg?v=1734874969"
   },
-  "gid://shopify/ProductVariant/46169605538014": {
-    "product_title": "Heavy Pure Kemp Brass Ruby Kada",
-    "variant_title": "2.6",
-    "sku": "1524",
-    "price": 4499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/a-3?variant=gid://shopify/ProductVariant/46169605538014",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D4A3F33F-5DB6-41F4-B8F8-CE21DA8FEFF4.jpg?v=1734874969"
-  },
   "gid://shopify/ProductVariant/46171746336990": {
     "product_title": "Peacock White Pearl Jhumkas",
     "variant_title": "Default Title",
@@ -15025,7 +15016,7 @@
     "variant_title": "2.6",
     "sku": "D25715",
     "price": 2799.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d25715?variant=gid://shopify/ProductVariant/47542915334366",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6822.jpg?v=1758141344"
   },
@@ -20875,7 +20866,7 @@
     "variant_title": "2.6",
     "sku": "1957",
     "price": 1799.0,
-    "stock": 20,
+    "stock": 19,
     "url": "https://www.daivik.in/products/openable-ad-kada-with-interchangeable-colour-bangles-12-shades?variant=gid://shopify/ProductVariant/48965767037150",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1886.jpg?v=1788191390"
   },
@@ -21649,7 +21640,7 @@
     "variant_title": "Purple",
     "sku": "D26017",
     "price": 899.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26017?variant=gid://shopify/ProductVariant/49152677839070",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6010.jpg?v=1791221105"
   },
@@ -23161,7 +23152,7 @@
     "variant_title": "Default Title",
     "sku": "D26355",
     "price": 1099.0,
-    "stock": 23,
+    "stock": 22,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26355?variant=gid://shopify/ProductVariant/49162125017310",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6664_27c8b679-5285-4dfd-85ed-14573b53b239.jpg?v=1791444110"
   },
@@ -31696,6 +31687,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/golden-beads-pearl-chain-with-earrings-in-2-colours?variant=gid://shopify/ProductVariant/46166559621342",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8D4E50B4-210B-47DF-B63C-1C3C5CA44E92.jpg?v=1734707440"
+  },
+  "gid://shopify/ProductVariant/46169605538014": {
+    "product_title": "Heavy Pure Kemp Brass Ruby Kada",
+    "variant_title": "2.6",
+    "sku": "1524",
+    "price": 4499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/a-3?variant=gid://shopify/ProductVariant/46169605538014",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D4A3F33F-5DB6-41F4-B8F8-CE21DA8FEFF4.jpg?v=1734874969"
   },
   "gid://shopify/ProductVariant/46169605570782": {
     "product_title": "Heavy Pure Kemp Brass Ruby Kada",
