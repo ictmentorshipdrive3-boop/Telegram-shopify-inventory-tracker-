@@ -10889,15 +10889,6 @@
     "url": "https://www.rasasilver.com/products/recta-victorian-danglers?variant=gid://shopify/ProductVariant/52527755067689",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0033copy.jpg?v=1770100721"
   },
-  "gid://shopify/ProductVariant/52527769878825": {
-    "product_title": "Ruhani Moissanite Danglers",
-    "variant_title": "Default Title",
-    "sku": "R21121",
-    "price": 16320.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/ruhani-moissanite-danglers?variant=gid://shopify/ProductVariant/52527769878825",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0149copy_1.jpg?v=1770100479"
-  },
   "gid://shopify/ProductVariant/52528055124265": {
     "product_title": "Pear-Bloom Victorian Danglers",
     "variant_title": "Default Title",
@@ -20852,15 +20843,6 @@
     "url": "https://www.rasasilver.com/products/oval-vine-moissanite-danglers?variant=gid://shopify/ProductVariant/53370128204073",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0095_1.jpg?v=1786351558"
   },
-  "gid://shopify/ProductVariant/53370135773481": {
-    "product_title": "Kamala Crest Moissanite Danglers",
-    "variant_title": "Default Title",
-    "sku": "R30773",
-    "price": 43945.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/kamala-crest-victorian-danglers?variant=gid://shopify/ProductVariant/53370135773481",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0062.jpg?v=1786352733"
-  },
   "gid://shopify/ProductVariant/53370137772329": {
     "product_title": "Gulab-Flora Victorian Danglers",
     "variant_title": "Default Title",
@@ -22243,7 +22225,7 @@
     "variant_title": "Default Title",
     "sku": "R30484",
     "price": 4300.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/back-chain?variant=gid://shopify/ProductVariant/53426656870697",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageAug24_2026_12_36_13PM.png?v=1787555201"
   },
@@ -38078,6 +38060,15 @@
     "url": "https://www.rasasilver.com/products/grand-emerald-kundan-danglers?variant=gid://shopify/ProductVariant/52527688155433",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0280copy.jpg?v=1770103969"
   },
+  "gid://shopify/ProductVariant/52527769878825": {
+    "product_title": "Ruhani Moissanite Danglers",
+    "variant_title": "Default Title",
+    "sku": "R21121",
+    "price": 16320.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ruhani-moissanite-danglers?variant=gid://shopify/ProductVariant/52527769878825",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0149copy_1.jpg?v=1770100479"
+  },
   "gid://shopify/ProductVariant/52527783084329": {
     "product_title": "Rose Victorian Danglers",
     "variant_title": "Default Title",
@@ -47536,6 +47527,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/azure-drop-moissanite-danglers?variant=gid://shopify/ProductVariant/53370117947689",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0013.jpg?v=1786358037"
+  },
+  "gid://shopify/ProductVariant/53370135773481": {
+    "product_title": "Kamala Crest Moissanite Danglers",
+    "variant_title": "Default Title",
+    "sku": "R30773",
+    "price": 43945.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/kamala-crest-victorian-danglers?variant=gid://shopify/ProductVariant/53370135773481",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0062.jpg?v=1786352733"
   },
   "gid://shopify/ProductVariant/53370159169833": {
     "product_title": "Celestial Arc Kundan Ear Cuff",
