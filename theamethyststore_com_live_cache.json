@@ -56515,7 +56515,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-14457",
     "price": 15800.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/chic-glow-beads-necklace?variant=gid://shopify/ProductVariant/48275138871523",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14457.jpg?v=1771044581"
   },
@@ -56524,7 +56524,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-14456",
     "price": 24000.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/trendy-beads-necklace?variant=gid://shopify/ProductVariant/48275169902819",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14456.jpg?v=1771044832"
   },
@@ -98369,15 +98369,6 @@
     "url": "https://www.theamethyststore.com/products/victorian-short-necklace-set-14?variant=gid://shopify/ProductVariant/49710354333923",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17884.jpg?v=1788948229"
   },
-  "gid://shopify/ProductVariant/49710355644643": {
-    "product_title": "Queen-Like 3D Spl Oddiyanam",
-    "variant_title": "Default Title",
-    "sku": "AMS-110-0962",
-    "price": 147700.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/3d-spl-oddiyanam-1?variant=gid://shopify/ProductVariant/49710355644643",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0962.jpg?v=1788948306"
-  },
   "gid://shopify/ProductVariant/49710686142691": {
     "product_title": "Trendy & Catchy Diamond Design Necklace Set",
     "variant_title": "Default Title",
@@ -98833,7 +98824,7 @@
     "variant_title": "2.4",
     "sku": "AMS-107-3536-2.4\"",
     "price": 42700.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/vinthra-avikam-bangles?variant=gid://shopify/ProductVariant/49715268288739",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3536-2.4.jpg?v=1789046798"
   },
@@ -100462,7 +100453,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16090",
     "price": 6787.0,
-    "stock": 4,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/kundan-drops-22?variant=gid://shopify/ProductVariant/49741244301539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16090.jpg?v=1789475094"
   },
@@ -102127,7 +102118,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16153",
     "price": 6000.0,
-    "stock": 4,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/varshaa-diamond-design-studs-1?variant=gid://shopify/ProductVariant/49792716079331",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16153.jpg?v=1790064695"
   },
@@ -102181,7 +102172,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16160",
     "price": 4600.0,
-    "stock": 4,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/mrinalini-diamond-design-studs?variant=gid://shopify/ProductVariant/49794383970531",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16160.jpg?v=1790073169"
   },
@@ -108787,7 +108778,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-2357",
     "price": 24000.0,
-    "stock": 3,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/pristine-wear-avikam-mangalsutra-chain?variant=gid://shopify/ProductVariant/67652143841507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2357.jpg?v=1791542215"
   },
@@ -110218,7 +110209,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18784",
     "price": 106000.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/timeless-majesty-avikam-necklace-set?variant=gid://shopify/ProductVariant/67665892770019",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18784.jpg?v=1791801908"
   },
@@ -112597,6 +112588,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/sacredly-inspired-3d-spl-pendant?variant=gid://shopify/ProductVariant/67707689894115",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5373.jpg?v=1792140181"
+  },
+  "gid://shopify/ProductVariant/67708615590115": {
+    "product_title": "Fortune and Blessings 3D SPL Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5374",
+    "price": 15300.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/fortune-and-blessings-3d-spl-pendant?variant=gid://shopify/ProductVariant/67708615590115",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5374.jpg?v=1792145999"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -146302,6 +146302,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/plain-chain?variant=gid://shopify/ProductVariant/49708815057123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2206.jpg?v=1788939808"
+  },
+  "gid://shopify/ProductVariant/49710355644643": {
+    "product_title": "Queen-Like 3D Spl Oddiyanam",
+    "variant_title": "Default Title",
+    "sku": "AMS-110-0962",
+    "price": 147700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/3d-spl-oddiyanam-1?variant=gid://shopify/ProductVariant/49710355644643",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0962.jpg?v=1788948306"
   },
   "gid://shopify/ProductVariant/49710800928995": {
     "product_title": "Catchy Stone Pendant Set",
