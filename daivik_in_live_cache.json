@@ -15407,15 +15407,6 @@
     "url": "https://www.daivik.in/products/ad-designer-openable-kada?variant=gid://shopify/ProductVariant/47564482576606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F6B8DA98-BEC0-4D00-A394-F6DC0A6DC9CF.jpg?v=1758971638"
   },
-  "gid://shopify/ProductVariant/47564628525278": {
-    "product_title": "AD Pearl Mala Set with Earrings in Two Colors (Price for Each)",
-    "variant_title": "Green",
-    "sku": "711",
-    "price": 3199.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-pearl-mala-set-with-earrings?variant=gid://shopify/ProductVariant/47564628525278",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B39AF4BE-97D6-41F8-BEF0-DC096CF7AB91.jpg?v=1758992132"
-  },
   "gid://shopify/ProductVariant/47564628558046": {
     "product_title": "AD Pearl Mala Set with Earrings in Two Colors (Price for Each)",
     "variant_title": "Ruby",
@@ -21775,7 +21766,7 @@
     "variant_title": "Green",
     "sku": "D26028",
     "price": 1999.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26028?variant=gid://shopify/ProductVariant/49152671711454",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6061.jpg?v=1791221302"
   },
@@ -21955,7 +21946,7 @@
     "variant_title": "Green",
     "sku": "D26041",
     "price": 699.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26041?variant=gid://shopify/ProductVariant/49152663650526",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6125_7991aa53-93c6-4f52-ae13-3b04345c5b77.jpg?v=1791221858"
   },
@@ -22198,7 +22189,7 @@
     "variant_title": "Default Title",
     "sku": "D26061",
     "price": 799.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26061?variant=gid://shopify/ProductVariant/49149626351838",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6387.jpg?v=1791223109"
   },
@@ -22288,7 +22279,7 @@
     "variant_title": "Default Title",
     "sku": "D26066",
     "price": 2999.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26066?variant=gid://shopify/ProductVariant/49149626679518",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6419.jpg?v=1791223210"
   },
@@ -22504,7 +22495,7 @@
     "variant_title": "White Pearl",
     "sku": "D26092",
     "price": 3999.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26092?variant=gid://shopify/ProductVariant/49152686325982",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6504_d5d998ed-ac47-4b9d-b4a2-c13565508c7c.jpg?v=1791223830"
   },
@@ -23674,7 +23665,7 @@
     "variant_title": "Default Title",
     "sku": "D26104",
     "price": 349.0,
-    "stock": 26,
+    "stock": 25,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26104?variant=gid://shopify/ProductVariant/49169744330974",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_67982.jpg?v=1791457382"
   },
@@ -24169,7 +24160,7 @@
     "variant_title": "Default Title",
     "sku": "D26149",
     "price": 699.0,
-    "stock": 18,
+    "stock": 17,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26149?variant=gid://shopify/ProductVariant/49169775689950",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6970.jpg?v=1791468612"
   },
@@ -34117,6 +34108,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/bangles?variant=gid://shopify/ProductVariant/47563610685662",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AF0E2B11-3791-45CB-B33F-CDFCECACD6F0.jpg?v=1758905092"
+  },
+  "gid://shopify/ProductVariant/47564628525278": {
+    "product_title": "AD Pearl Mala Set with Earrings in Two Colors (Price for Each)",
+    "variant_title": "Green",
+    "sku": "711",
+    "price": 3199.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-pearl-mala-set-with-earrings?variant=gid://shopify/ProductVariant/47564628525278",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B39AF4BE-97D6-41F8-BEF0-DC096CF7AB91.jpg?v=1758992132"
   },
   "gid://shopify/ProductVariant/47576335286494": {
     "product_title": "Isha Ambani Inspired Moissanite Necklace with Earrings",
