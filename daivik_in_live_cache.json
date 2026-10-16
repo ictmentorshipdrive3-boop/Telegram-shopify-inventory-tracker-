@@ -3545,15 +3545,6 @@
     "url": "https://www.daivik.in/products/a-4?variant=gid://shopify/ProductVariant/44005399625950",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_fe0bc5cd-b379-4ecb-9cbf-45934d45949d.heic?v=1676991557"
   },
-  "gid://shopify/ProductVariant/44024774787294": {
-    "product_title": "Victorian Premium Necklace with earrings",
-    "variant_title": "Default Title",
-    "sku": "164",
-    "price": 12999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/a-6?variant=gid://shopify/ProductVariant/44024774787294",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_a4cf69e5-775f-4b2b-82c2-70abdea46735.heic?v=1677593072"
-  },
   "gid://shopify/ProductVariant/44036831543518": {
     "product_title": "Victorian Zirconium Layered Necklace with earrings and teeka",
     "variant_title": "Default Title",
@@ -7423,15 +7414,6 @@
     "stock": 3,
     "url": "https://www.daivik.in/products/victorian-ad-necklace-with-earrings-in-two-colors?variant=gid://shopify/ProductVariant/45910587670750",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/713D1097-1FE7-4DC7-9208-2A4FEBA4689A.jpg?v=1722165269"
-  },
-  "gid://shopify/ProductVariant/45768326775006": {
-    "product_title": "Premium Zirconiun Stone Choker with Earrings",
-    "variant_title": "Purple",
-    "sku": "774",
-    "price": 7999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/premium-zirconiun-stone-choker-with-earrings?variant=gid://shopify/ProductVariant/45768326775006",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8FC6E267-FA32-4D5E-9233-7BED280985E3.jpg?v=1722165654"
   },
   "gid://shopify/ProductVariant/45768326807774": {
     "product_title": "Premium Zirconiun Stone Choker with Earrings",
@@ -28826,6 +28808,15 @@
     "url": "https://www.daivik.in/products/a-4?variant=gid://shopify/ProductVariant/44005399593182",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_fe0bc5cd-b379-4ecb-9cbf-45934d45949d.heic?v=1676991557"
   },
+  "gid://shopify/ProductVariant/44024774787294": {
+    "product_title": "Victorian Premium Necklace with earrings",
+    "variant_title": "Default Title",
+    "sku": "164",
+    "price": 12999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/a-6?variant=gid://shopify/ProductVariant/44024774787294",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_a4cf69e5-775f-4b2b-82c2-70abdea46735.heic?v=1677593072"
+  },
   "gid://shopify/ProductVariant/44093392781534": {
     "product_title": "Pure Kemp brass Necklace with earrings",
     "variant_title": "Default Title",
@@ -30886,6 +30877,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/victorian-ad-necklace-with-earrings-in-two-colors?variant=gid://shopify/ProductVariant/45768323662046",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/713D1097-1FE7-4DC7-9208-2A4FEBA4689A.jpg?v=1722165269"
+  },
+  "gid://shopify/ProductVariant/45768326775006": {
+    "product_title": "Premium Zirconiun Stone Choker with Earrings",
+    "variant_title": "Purple",
+    "sku": "774",
+    "price": 7999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/premium-zirconiun-stone-choker-with-earrings?variant=gid://shopify/ProductVariant/45768326775006",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8FC6E267-FA32-4D5E-9233-7BED280985E3.jpg?v=1722165654"
   },
   "gid://shopify/ProductVariant/45785053298910": {
     "product_title": "Victorian Premium Necklace with Earrings in two Colors",
