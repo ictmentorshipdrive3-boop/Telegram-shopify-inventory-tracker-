@@ -15673,7 +15673,7 @@
     "variant_title": "Default Title",
     "sku": "1712",
     "price": 2999.0,
-    "stock": 26,
+    "stock": 25,
     "url": "https://www.daivik.in/products/kemp-jadau-ruby-green-jada-billa-hair-accessory?variant=gid://shopify/ProductVariant/47612956147934",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7239.heic?v=1760627944"
   },
@@ -21631,7 +21631,7 @@
     "variant_title": "Default Title",
     "sku": "D26012",
     "price": 399.0,
-    "stock": 21,
+    "stock": 20,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26012?variant=gid://shopify/ProductVariant/49149623075038",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5984.jpg?v=1791220997"
   },
@@ -23764,7 +23764,7 @@
     "variant_title": "Default Title",
     "sku": "D26104",
     "price": 349.0,
-    "stock": 30,
+    "stock": 29,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26104?variant=gid://shopify/ProductVariant/49169744330974",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_67982.jpg?v=1791457382"
   },
@@ -24412,7 +24412,7 @@
     "variant_title": "Default Title",
     "sku": "D26161",
     "price": 499.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26161?variant=gid://shopify/ProductVariant/49169787224286",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70282.jpg?v=1791532527"
   },
@@ -25747,15 +25747,6 @@
     "stock": 1,
     "url": "https://www.daivik.in/products/diwali-sale-hipbelt-d26801?variant=gid://shopify/ProductVariant/49178384171230",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7135.jpg?v=1791538044"
-  },
-  "gid://shopify/ProductVariant/49178384236766": {
-    "product_title": "Diwali Sale Hipbelt D26803",
-    "variant_title": "Default Title",
-    "sku": "D26803",
-    "price": 499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-hipbelt-d26803?variant=gid://shopify/ProductVariant/49178384236766",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_71392.jpg?v=1791538057"
   },
   "gid://shopify/ProductVariant/49178384269534": {
     "product_title": "Diwali Sale Hipbelt D26804",
@@ -35971,6 +35962,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-hipbelt-d26802?variant=gid://shopify/ProductVariant/49178384203998",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_71372.jpg?v=1791538056"
+  },
+  "gid://shopify/ProductVariant/49178384236766": {
+    "product_title": "Diwali Sale Hipbelt D26803",
+    "variant_title": "Default Title",
+    "sku": "D26803",
+    "price": 499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-hipbelt-d26803?variant=gid://shopify/ProductVariant/49178384236766",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_71392.jpg?v=1791538057"
   },
   "gid://shopify/ProductVariant/49183620268254": {
     "product_title": "Diwali Sale Necklace D26192",
