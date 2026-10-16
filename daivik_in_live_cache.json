@@ -1291,7 +1291,7 @@
     "variant_title": "Default Title",
     "sku": "845",
     "price": 1699.0,
-    "stock": 28,
+    "stock": 27,
     "url": "https://www.daivik.in/products/pure-kemp-peacock-jhumkas?variant=gid://shopify/ProductVariant/40988942401689",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_f1a78d25-5fdd-43b1-8a0f-311c5054d832.jpg?v=1630595789"
   },
@@ -21329,15 +21329,6 @@
     "url": "https://www.daivik.in/products/premium-brass-lakshmi-kasumalai?variant=gid://shopify/ProductVariant/49116404809950",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/309F5249-1E49-456F-8EA3-5BEA54B97388.jpg?v=1790521525"
   },
-  "gid://shopify/ProductVariant/49118521032926": {
-    "product_title": "Simple AD Small Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "1974",
-    "price": 399.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/simple-ad-small-jhumkas?variant=gid://shopify/ProductVariant/49118521032926",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FD5CA177-93E7-4ADE-B6F1-6218218BD53F.jpg?v=1790593662"
-  },
   "gid://shopify/ProductVariant/49125769871582": {
     "product_title": "Simple 3 line Pearl Kemp Choker with Earrings",
     "variant_title": "Default Title",
@@ -23044,7 +23035,7 @@
     "variant_title": "Default Title",
     "sku": "D26339",
     "price": 1599.0,
-    "stock": 13,
+    "stock": 12,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26339?variant=gid://shopify/ProductVariant/49162124427486",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6628.jpg?v=1791443910"
   },
@@ -25762,7 +25753,7 @@
     "variant_title": "Default Title",
     "sku": "D26807",
     "price": 999.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/diwali-sale-hipbelt-d26807?variant=gid://shopify/ProductVariant/49178384367838",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7147.jpg?v=1791538077"
   },
@@ -35773,6 +35764,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-lakshmi-vanki-arm-band?variant=gid://shopify/ProductVariant/49079032316126",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CB51C7C0-EE32-45D2-87EE-C16609C1036B.jpg?v=1789747611"
+  },
+  "gid://shopify/ProductVariant/49118521032926": {
+    "product_title": "Simple AD Small Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "1974",
+    "price": 399.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/simple-ad-small-jhumkas?variant=gid://shopify/ProductVariant/49118521032926",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FD5CA177-93E7-4ADE-B6F1-6218218BD53F.jpg?v=1790593662"
   },
   "gid://shopify/ProductVariant/49143563256030": {
     "product_title": "Pure kemp Brass Jadau Kasumala",
