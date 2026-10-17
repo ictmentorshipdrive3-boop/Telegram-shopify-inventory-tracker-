@@ -4526,15 +4526,6 @@
     "url": "https://www.rasasilver.com/products/bangles-10?variant=gid://shopify/ProductVariant/51274156474665",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS68.jpg?v=1759819469"
   },
-  "gid://shopify/ProductVariant/51274420945193": {
-    "product_title": "Kanaka Jali Kada",
-    "variant_title": "Default Title",
-    "sku": "R14368",
-    "price": 16915.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/kada-3?variant=gid://shopify/ProductVariant/51274420945193",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS59.jpg?v=1759819798"
-  },
   "gid://shopify/ProductVariant/51274460594473": {
     "product_title": "Fern & Emerald Necklace Set",
     "variant_title": "Mint Green",
@@ -8527,7 +8518,7 @@
     "variant_title": "2.4",
     "sku": "R20179",
     "price": 20570.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.rasasilver.com/products/ratna-harini-bangles?variant=gid://shopify/ProductVariant/52209708990761",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0205copy_resized_fbd98776-4e70-471d-b5a7-c1f430b633dc.jpg?v=1764661858"
   },
@@ -27574,6 +27565,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/bangles-13?variant=gid://shopify/ProductVariant/52273377149225",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS61_1.jpg?v=1759820839"
+  },
+  "gid://shopify/ProductVariant/51274420945193": {
+    "product_title": "Kanaka Jali Kada",
+    "variant_title": "Default Title",
+    "sku": "R14368",
+    "price": 16915.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/kada-3?variant=gid://shopify/ProductVariant/51274420945193",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS59.jpg?v=1759819798"
   },
   "gid://shopify/ProductVariant/51274443260201": {
     "product_title": "Gulbadan Antique Kada",
