@@ -17846,15 +17846,6 @@
     "url": "https://www.rasasilver.com/products/verdant-stone-studs?variant=gid://shopify/ProductVariant/53292183814441",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2309_resized.jpg?v=1784354178"
   },
-  "gid://shopify/ProductVariant/53292193153321": {
-    "product_title": "Pear-Glow Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "R31461",
-    "price": 2550.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/pear-glow-stone-studs?variant=gid://shopify/ProductVariant/53292193153321",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2227_resized.jpg?v=1782814170"
-  },
   "gid://shopify/ProductVariant/53300553023785": {
     "product_title": "Green-Luxe Stone Studs",
     "variant_title": "GREEN",
@@ -17878,7 +17869,7 @@
     "variant_title": "Default Title",
     "sku": "R31479",
     "price": 3825.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/ratna-harmony-studs?variant=gid://shopify/ProductVariant/53292346999081",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2236_resized.jpg?v=1782803156"
   },
@@ -20578,7 +20569,7 @@
     "variant_title": "8",
     "sku": "R32353",
     "price": 3400.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/luxe-link-ring?variant=gid://shopify/ProductVariant/53426561089833",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19462.jpg?v=1786691635"
   },
@@ -20623,7 +20614,7 @@
     "variant_title": "8",
     "sku": "R32417",
     "price": 4700.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/rosavie-pink-ring?variant=gid://shopify/ProductVariant/53426604867881",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19402.jpg?v=1786693277"
   },
@@ -45826,6 +45817,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/pachai-phool-stone-studs?variant=gid://shopify/ProductVariant/53292161990953",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2191_resized_e24d80bd-ae56-48ee-bfa8-6f50574b26d1.jpg?v=1785234061"
+  },
+  "gid://shopify/ProductVariant/53292193153321": {
+    "product_title": "Pear-Glow Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "R31461",
+    "price": 2550.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/pear-glow-stone-studs?variant=gid://shopify/ProductVariant/53292193153321",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2227_resized.jpg?v=1782814170"
   },
   "gid://shopify/ProductVariant/53292197839145": {
     "product_title": "Verde Luxe Stone Studs",
