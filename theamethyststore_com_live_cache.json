@@ -1660,7 +1660,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-2738",
     "price": 9866.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/rujika-stone-drops?variant=gid://shopify/ProductVariant/43090546360547",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-2738.jpg?v=1657003894"
   },
@@ -1831,7 +1831,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-116-0019",
     "price": 3300.0,
-    "stock": 4,
+    "stock": 7,
     "url": "https://www.theamethyststore.com/products/flower-rakhi?variant=gid://shopify/ProductVariant/43147126472931",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-116-0019.jpg?v=1658319819"
   },
@@ -2245,16 +2245,25 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-3385",
     "price": 10100.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/traingle-shaped-stud?variant=gid://shopify/ProductVariant/43309396099299",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3385.jpg?v=1675581403"
+  },
+  "gid://shopify/ProductVariant/43309488701667": {
+    "product_title": "Voguish Hook Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-3382",
+    "price": 15100.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/voguish-hook-drops?variant=gid://shopify/ProductVariant/43309488701667",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-3382_2.jpg?v=1751290093"
   },
   "gid://shopify/ProductVariant/43309496467683": {
     "product_title": "Shimmer Hook Earrings",
     "variant_title": "Default Title",
     "sku": "AMS-106-3380",
     "price": 9692.0,
-    "stock": 2,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/shimmer-hook-earrings?variant=gid://shopify/ProductVariant/43309496467683",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-3380.jpg?v=1695720720"
   },
@@ -2263,7 +2272,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-3376",
     "price": 13100.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/blue-finish-hook-earrings?variant=gid://shopify/ProductVariant/43309534413027",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS09656.jpg?v=1687776438"
   },
@@ -2317,7 +2326,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-3374",
     "price": 23800.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/violet-earrings?variant=gid://shopify/ProductVariant/43309694845155",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3374_33b27876-1cf7-4ed9-bf43-4f18ed1f247d.jpg?v=1687776855"
   },
@@ -2326,7 +2335,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-3371",
     "price": 22800.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/crocus-nice-earrings?variant=gid://shopify/ProductVariant/43309696811235",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS09692.jpg?v=1687776176"
   },
@@ -2353,7 +2362,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-3357",
     "price": 18400.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/hazel-earrings?variant=gid://shopify/ProductVariant/43309752123619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-3357.jpg?v=1703324957"
   },
@@ -2371,7 +2380,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-0974",
     "price": 7900.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/fashion-on-sphere-pendant?variant=gid://shopify/ProductVariant/43309873791203",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-104-0974.jpg?v=1662475743"
   },
@@ -2389,7 +2398,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-0291",
     "price": 10300.0,
-    "stock": 4,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/fantasy-oxidised-ring?variant=gid://shopify/ProductVariant/43312119906531",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-101-0291_e016a7dd-6ed5-4242-8cbc-309ce419db1c.jpg?v=1674310207"
   },
@@ -2546,6 +2555,15 @@
     "url": "https://www.theamethyststore.com/products/jiya-divine-earrings?variant=gid://shopify/ProductVariant/43325457039587",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3460_a5c602f2-d6bb-45d3-be68-415858bbff9a.jpg?v=1662873626"
   },
+  "gid://shopify/ProductVariant/43335551516899": {
+    "product_title": "Roshita Stone Tikka",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-0550",
+    "price": 15225.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/roshita-stone-tikka?variant=gid://shopify/ProductVariant/43335551516899",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-109-0550-_2.jpg?v=1663158155"
+  },
   "gid://shopify/ProductVariant/43335578845411": {
     "product_title": "Varuni Earrings",
     "variant_title": "Default Title",
@@ -2677,7 +2695,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-3631",
     "price": 4124.0,
-    "stock": 3,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/lisha-studs?variant=gid://shopify/ProductVariant/43478580625635",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3631.jpg?v=1666857637"
   },
@@ -2695,7 +2713,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-0355",
     "price": 4996.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/sakhi-kundan-ring?variant=gid://shopify/ProductVariant/43486618812643",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0355_c65b1543-40cf-4774-ada8-e0762a39ab4c.jpg?v=1777370296"
   },
@@ -2740,7 +2758,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-3758",
     "price": 25800.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/hand-tint-hook-earrings?variant=gid://shopify/ProductVariant/43489531003107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-3758.jpg?v=1695720645"
   },
@@ -2758,7 +2776,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-3761",
     "price": 21500.0,
-    "stock": 6,
+    "stock": 7,
     "url": "https://www.theamethyststore.com/products/nisa-sparkle-earrings?variant=gid://shopify/ProductVariant/43491121922275",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-3761.jpg?v=1703325694"
   },
@@ -2794,7 +2812,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-3746",
     "price": 17300.0,
-    "stock": 2,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/reddish-hand-painted-earrings?variant=gid://shopify/ProductVariant/43492523901155",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3746.jpg?v=1667394273"
   },
@@ -3262,7 +3280,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-3677",
     "price": 50521.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/siddhi-kundan-jhumkas?variant=gid://shopify/ProductVariant/43574671376611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3677-_3.jpg?v=1669900849"
   },
@@ -4148,6 +4166,15 @@
     "url": "https://www.theamethyststore.com/products/natural-painting-on-piichwai?variant=gid://shopify/ProductVariant/43724719096035",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-4206_b549d45c-5d34-4c9d-9794-2f1200a8ca4b.jpg?v=1777791331"
   },
+  "gid://shopify/ProductVariant/43732043104483": {
+    "product_title": "Glossy Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-4218",
+    "price": 21800.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/glossy-stone-studs?variant=gid://shopify/ProductVariant/43732043104483",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-4218.jpg?v=1677148306"
+  },
   "gid://shopify/ProductVariant/43734819406051": {
     "product_title": "Shalika Kundan Maangtikka",
     "variant_title": "Default Title",
@@ -4234,7 +4261,7 @@
     "variant_title": "2.6\"",
     "sku": "AMS-107-0745-2.6\"",
     "price": 33335.0,
-    "stock": 3677,
+    "stock": 3676,
     "url": "https://www.theamethyststore.com/products/darzata-pair-bangles?variant=gid://shopify/ProductVariant/43777683226851",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-107-0745_2.jpg?v=1679551050"
   },
@@ -4837,7 +4864,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-0363",
     "price": 44200.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/suhana-bracelet?variant=gid://shopify/ProductVariant/43893026291939",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-0363.jpg?v=1687437078"
   },
@@ -5876,6 +5903,15 @@
     "url": "https://www.theamethyststore.com/products/merin-beads-chain?variant=gid://shopify/ProductVariant/44025656738019",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-0398_132827d8-6ec1-4da5-942e-8e33f704c45b.jpg?v=1758958756"
   },
+  "gid://shopify/ProductVariant/44025924354275": {
+    "product_title": "Yashninka Avikam Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-5063",
+    "price": 184800.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/yashninka-avikam-necklace-set?variant=gid://shopify/ProductVariant/44025924354275",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5063_436b2fd0-7fd2-4b6d-81e8-51cb106097ab.jpg?v=1787223260"
+  },
   "gid://shopify/ProductVariant/44029330555107": {
     "product_title": "Cluster Victorian Long Necklace",
     "variant_title": "Default Title",
@@ -6817,7 +6853,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-5306",
     "price": 21721.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/rechal-stone-earrings?variant=gid://shopify/ProductVariant/44317157032163",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5306.jpg?v=1705654819"
   },
@@ -6898,7 +6934,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-5340",
     "price": 30400.0,
-    "stock": 6,
+    "stock": 7,
     "url": "https://www.theamethyststore.com/products/shrinathji-pichwai-earrings?variant=gid://shopify/ProductVariant/44347420279011",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5340_220301c7-4a7a-479a-9fda-07e8ad6a2478.jpg?v=1777791409"
   },
@@ -6952,7 +6988,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-5345",
     "price": 18700.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/vatika-pichwai-earrings?variant=gid://shopify/ProductVariant/44348682043619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5345_2.jpg?v=1751289469"
   },
@@ -7348,7 +7384,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-5453",
     "price": 25000.0,
-    "stock": 3,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/unique-diamond-design-studs?variant=gid://shopify/ProductVariant/44386950414563",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5453.jpg?v=1707643428"
   },
@@ -7357,7 +7393,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-5455",
     "price": 19400.0,
-    "stock": 4,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/hibis-diamond-like-studs?variant=gid://shopify/ProductVariant/44386953396451",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5455.jpg?v=1707643628"
   },
@@ -7576,6 +7612,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/losia-stone-rope-necklace?variant=gid://shopify/ProductVariant/44434513101027",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5612.jpg?v=1708867955"
+  },
+  "gid://shopify/ProductVariant/44437413593315": {
+    "product_title": "Mushita Bead Victorian Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-5666",
+    "price": 64400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/mushita-bead-victorian-necklace?variant=gid://shopify/ProductVariant/44437413593315",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5666_165ee7ef-c668-4325-98e0-74a8db97241d.jpg?v=1737211546"
   },
   "gid://shopify/ProductVariant/44442897481955": {
     "product_title": "Krithi Kundan Necklace",
@@ -8932,7 +8977,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-6266",
     "price": 159900.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/colourful-avikam-necklace-set?variant=gid://shopify/ProductVariant/45225622569187",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS08301.jpg?v=1725089770"
   },
@@ -11497,7 +11542,7 @@
     "variant_title": "2.4\"",
     "sku": "AMS-107-1395-2.4\"",
     "price": 27458.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/lahina-kundan-pair-bangle?variant=gid://shopify/ProductVariant/49681961222371",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1395-_2.jpg?v=1735458228"
   },
@@ -12568,7 +12613,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-6897",
     "price": 20200.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/shyambal-long-earrings?variant=gid://shopify/ProductVariant/45628304621795",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6897.jpg?v=1729231533"
   },
@@ -13783,7 +13828,7 @@
     "variant_title": "2.4\"",
     "sku": "AMS-107-1558-2.4\"",
     "price": 27594.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/nitra-kundan-pair-bangle?variant=gid://shopify/ProductVariant/49681948279011",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1558-_2.jpg?v=1733484363"
   },
@@ -13792,7 +13837,7 @@
     "variant_title": "2.8\"",
     "sku": "AMS-107-1558-2.8\"",
     "price": 27303.0,
-    "stock": 5,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/nitra-kundan-pair-bangle?variant=gid://shopify/ProductVariant/49681948311779",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1558-_2.jpg?v=1733484363"
   },
@@ -15457,7 +15502,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-8504",
     "price": 23487.0,
-    "stock": 1,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/alessia-short-necklace?variant=gid://shopify/ProductVariant/46006367060195",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8504.jpg?v=1739371346"
   },
@@ -17572,7 +17617,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-0813",
     "price": 16500.0,
-    "stock": 2,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/pretiest-mangalsutra-chain-with-earrings?variant=gid://shopify/ProductVariant/46239957909731",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/DSC05028.jpg?v=1754895971"
   },
@@ -17797,7 +17842,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-7922",
     "price": 10628.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/saanvika-stone-studs?variant=gid://shopify/ProductVariant/46262567305443",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-7922_2f7fb355-4ad6-4e7f-898a-8ee8a7138306.jpg?v=1764067404"
   },
@@ -17878,7 +17923,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-8930",
     "price": 46125.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/zara-kundan-choker?variant=gid://shopify/ProductVariant/46271850184931",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8930.jpg?v=1744891280"
   },
@@ -18292,7 +18337,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-112-0449",
     "price": 5858.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/hanitha-kundan-jada-billa?variant=gid://shopify/ProductVariant/46301337485539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0449.jpg?v=1745475683"
   },
@@ -18850,7 +18895,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-8249",
     "price": 17118.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/devika-hook-earrings?variant=gid://shopify/ProductVariant/46385141252323",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8249.jpg?v=1747808742"
   },
@@ -21856,7 +21901,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-9966",
     "price": 122535.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/matshiya-short-necklace?variant=gid://shopify/ProductVariant/46752690962659",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9966.jpg?v=1750856209"
   },
@@ -21877,6 +21922,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/vikasha-kundan-choker?variant=gid://shopify/ProductVariant/46754014167267",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9989.jpg?v=1750912361"
+  },
+  "gid://shopify/ProductVariant/46754058338531": {
+    "product_title": "Royal Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-0993",
+    "price": 11300.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/royal-ring-1?variant=gid://shopify/ProductVariant/46754058338531",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0993_1_60937a87-f235-4d84-806a-b2f2d32949b0.jpg?v=1752906047"
   },
   "gid://shopify/ProductVariant/46754087764195": {
     "product_title": "Avina Kundan Choker",
@@ -23224,7 +23278,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-1632",
     "price": 14700.0,
-    "stock": 1,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/vishaka-maangtikka?variant=gid://shopify/ProductVariant/46836674986211",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1632.jpg?v=1752150291"
   },
@@ -23521,7 +23575,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-2690",
     "price": 41600.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/gorgeous-lakshmi-nagas-pendant-2?variant=gid://shopify/ProductVariant/46844834021603",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2690.jpg?v=1752404383"
   },
@@ -25816,7 +25870,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-9393",
     "price": 7100.0,
-    "stock": 4,
+    "stock": 8,
     "url": "https://www.theamethyststore.com/products/ishuthika-stone-studs?variant=gid://shopify/ProductVariant/46976230588643",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9393.jpg?v=1754295448"
   },
@@ -26779,7 +26833,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-1412",
     "price": 4561.0,
-    "stock": 6,
+    "stock": 7,
     "url": "https://www.theamethyststore.com/products/glitz-stone-ring?variant=gid://shopify/ProductVariant/47008972767459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1412_811d6443-27eb-4a08-9d21-e2c1a24ab19b.jpg?v=1765882072"
   },
@@ -28345,7 +28399,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-9028",
     "price": 8200.0,
-    "stock": 6,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/little-square-studs?variant=gid://shopify/ProductVariant/47044272488675",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9028.jpg?v=1755776553"
   },
@@ -28372,7 +28426,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-9030",
     "price": 9600.0,
-    "stock": 2,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/glitz-studs?variant=gid://shopify/ProductVariant/47044408770787",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9030.jpg?v=1755777593"
   },
@@ -28453,7 +28507,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-9034",
     "price": 6400.0,
-    "stock": 2,
+    "stock": 9,
     "url": "https://www.theamethyststore.com/products/sparkle-charm-studs?variant=gid://shopify/ProductVariant/47044535320803",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9034.jpg?v=1755778608"
   },
@@ -30730,7 +30784,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-11092",
     "price": 23374.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/little-cute-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/47075272655075",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11092_2.jpg?v=1756442934"
   },
@@ -31351,7 +31405,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-10203",
     "price": 8600.0,
-    "stock": 4,
+    "stock": 9,
     "url": "https://www.theamethyststore.com/products/benya-studs?variant=gid://shopify/ProductVariant/47081674801379",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10203.jpg?v=1756727177"
   },
@@ -32350,7 +32404,7 @@
     "variant_title": "10",
     "sku": "AMS-101-1549-10'",
     "price": 6400.0,
-    "stock": 4,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/ring-6?variant=gid://shopify/ProductVariant/49681952309475",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1549.jpg?v=1757150856"
   },
@@ -32593,7 +32647,7 @@
     "variant_title": "10",
     "sku": "AMS-101-1553-10\"",
     "price": 4400.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/vikanta-ring?variant=gid://shopify/ProductVariant/49678774960355",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1553.jpg?v=1757152592"
   },
@@ -33169,7 +33223,7 @@
     "variant_title": "8",
     "sku": "AMS-101-1582-08\"",
     "price": 4700.0,
-    "stock": 3,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/ishitha-ring?variant=gid://shopify/ProductVariant/49674866688227",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1582.jpg?v=1757158346"
   },
@@ -33286,7 +33340,7 @@
     "variant_title": "10",
     "sku": "AMS-101-1567-10\"",
     "price": 5100.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/ring-19?variant=gid://shopify/ProductVariant/49681958732003",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1567.jpg?v=1757159412"
   },
@@ -33646,7 +33700,7 @@
     "variant_title": "14",
     "sku": "AMS-101-1575-14\"",
     "price": 4700.0,
-    "stock": 3,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/ring-22?variant=gid://shopify/ProductVariant/49681960272099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1575..jpg?v=1757162990"
   },
@@ -34087,7 +34141,7 @@
     "variant_title": "2.6\"",
     "sku": "AMS-107-2419-2.6\"",
     "price": 42800.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/harini-stone-pair-bangle?variant=gid://shopify/ProductVariant/49674463707363",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2419.jpg?v=1758103952"
   },
@@ -35662,7 +35716,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-120-0138",
     "price": 9800.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/plentiful-cufflinks?variant=gid://shopify/ProductVariant/47202381562083",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-120-0138.jpg?v=1758717526"
   },
@@ -36355,7 +36409,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-117-0489",
     "price": 2800.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/aura-luxe-toe-ring?variant=gid://shopify/ProductVariant/47208921432291",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0489.jpg?v=1758879438"
   },
@@ -38056,7 +38110,7 @@
     "variant_title": "2.6\"",
     "sku": "AMS-107-2295-2.6\"",
     "price": 49512.0,
-    "stock": 3,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/glitz-avikam-pair-bangles?variant=gid://shopify/ProductVariant/49681941659875",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2295.jpg?v=1759666922"
   },
@@ -38929,7 +38983,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-120-0090",
     "price": 11700.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/trendy-cufflinks-1?variant=gid://shopify/ProductVariant/47261651271907",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-120-0090.jpg?v=1759929315"
   },
@@ -41314,7 +41368,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-10654",
     "price": 5993.0,
-    "stock": 11,
+    "stock": 12,
     "url": "https://www.theamethyststore.com/products/arvika-bugadi?variant=gid://shopify/ProductVariant/47393266729187",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10654.jpg?v=1761392314"
   },
@@ -41917,7 +41971,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-10766",
     "price": 6200.0,
-    "stock": 4,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/dhivara-studs-1?variant=gid://shopify/ProductVariant/47441312284899",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10766.jpg?v=1762147395"
   },
@@ -42304,7 +42358,7 @@
     "variant_title": "12",
     "sku": "AMS-101-1736-12''",
     "price": 4800.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/ring-34?variant=gid://shopify/ProductVariant/49681962303715",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1736.jpg?v=1762157073"
   },
@@ -42718,7 +42772,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-10794",
     "price": 4300.0,
-    "stock": 4,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/studs-16?variant=gid://shopify/ProductVariant/47451280736483",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10794.jpg?v=1762261387"
   },
@@ -42934,7 +42988,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-0970",
     "price": 20400.0,
-    "stock": 1,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/fancy-swarovski-bracelet?variant=gid://shopify/ProductVariant/47451723661539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-0970.jpg?v=1762265534"
   },
@@ -45769,7 +45823,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-11469",
     "price": 9700.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/little-cute-stud?variant=gid://shopify/ProductVariant/47721698984163",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11469.jpg?v=1765350371"
   },
@@ -47740,7 +47794,7 @@
     "variant_title": "2.6\"",
     "sku": "AMS-107-2995-2.6\"",
     "price": 76200.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/elina-nagas-pair-bangles?variant=gid://shopify/ProductVariant/47797070692579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2995.jpg?v=1767675604"
   },
@@ -49783,7 +49837,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-11757",
     "price": 5359.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/glitz-charm-stone-studs?variant=gid://shopify/ProductVariant/47831374790883",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11757.jpg?v=1768472530"
   },
@@ -51313,7 +51367,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-12779",
     "price": 8540.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/vidhusha-stone-studs?variant=gid://shopify/ProductVariant/47855081914595",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12779.jpg?v=1768892821"
   },
@@ -52816,7 +52870,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-12631",
     "price": 22927.0,
-    "stock": 5,
+    "stock": 8,
     "url": "https://www.theamethyststore.com/products/kundan-jhumkas-4?variant=gid://shopify/ProductVariant/47920448110819",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12631.jpg?v=1770205930"
   },
@@ -57271,7 +57325,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-2196",
     "price": 14300.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/amazing-nagas-tikka?variant=gid://shopify/ProductVariant/48286120050915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2196-_2.jpg?v=1771423180"
   },
@@ -57604,7 +57658,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-2117",
     "price": 12100.0,
-    "stock": 3,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/stunning-look-kundan-maangtikka?variant=gid://shopify/ProductVariant/48289237696739",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2117-_2.jpg?v=1771508629"
   },
@@ -58414,7 +58468,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-14046",
     "price": 110300.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/mesmerizing-moissanite-short-necklace-set?variant=gid://shopify/ProductVariant/48317238247651",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14046.jpg?v=1772190086"
   },
@@ -59845,7 +59899,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-15207",
     "price": 104200.0,
-    "stock": 7466,
+    "stock": 7465,
     "url": "https://www.theamethyststore.com/products/nithara-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/48492355289315",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15207.jpg?v=1773914898"
   },
@@ -60124,7 +60178,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-121-0158",
     "price": 24700.0,
-    "stock": 9988,
+    "stock": 9992,
     "url": "https://www.theamethyststore.com/products/divine-glow-brooch-pin?variant=gid://shopify/ProductVariant/48556427608291",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/20.03.202600075_2.jpg?v=1774610739"
   },
@@ -65560,7 +65614,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-13787",
     "price": 13700.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/victorian-studs-2?variant=gid://shopify/ProductVariant/48927030608099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13787.jpg?v=1778309187"
   },
@@ -70123,7 +70177,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-16371",
     "price": 12400.0,
-    "stock": 1,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/glorious-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49283201106147",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16371_3dfbc925-be55-4707-b1e4-2bec526be200.jpg?v=1782821563"
   },
@@ -70645,7 +70699,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-14144",
     "price": 7187.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-drops-15?variant=gid://shopify/ProductVariant/49290098573539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14144.jpg?v=1782108689"
   },
@@ -75703,7 +75757,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15210",
     "price": 9062.0,
-    "stock": 4,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/geetha-kundan-studs?variant=gid://shopify/ProductVariant/49383317111011",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15210.jpg?v=1783592787"
   },
@@ -77350,7 +77404,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4650",
     "price": 14100.0,
-    "stock": 3,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/diamond-design-pendant-10?variant=gid://shopify/ProductVariant/49414718521571",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4650.jpg?v=1784188626"
   },
@@ -77998,7 +78052,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15430",
     "price": 22400.0,
-    "stock": 6,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/kundan-jhumkas-14?variant=gid://shopify/ProductVariant/49421298401507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15430.jpg?v=1784290792"
   },
@@ -78574,7 +78628,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-2400",
     "price": 18700.0,
-    "stock": 1,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/victorian-maangtikka-6?variant=gid://shopify/ProductVariant/49426834325731",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2400.jpg?v=1784465431"
   },
@@ -79735,7 +79789,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17109",
     "price": 53200.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/gorgeous-avikam-necklace-set-1?variant=gid://shopify/ProductVariant/49442175221987",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17109.jpg?v=1784875861"
   },
@@ -80239,7 +80293,7 @@
     "variant_title": "2.4\"",
     "sku": "AMS-107-3489-2.4",
     "price": 105400.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/pair-bangles-31?variant=gid://shopify/ProductVariant/49446844203235",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3489_2.jpg?v=1784966647"
   },
@@ -80266,7 +80320,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-2177",
     "price": 9900.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/auranikha-moissanite-ring?variant=gid://shopify/ProductVariant/49447178141923",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2177.jpg?v=1784972922"
   },
@@ -81832,7 +81886,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17162",
     "price": 67800.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/gorgeous-avikam-necklace-set-2?variant=gid://shopify/ProductVariant/49479214924003",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17162.jpg?v=1785480943"
   },
@@ -82444,7 +82498,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-112-0901",
     "price": 27700.0,
-    "stock": 3,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/bridal-avikam-mini-choker-cum-vanki?variant=gid://shopify/ProductVariant/49483059953891",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0901.jpg?v=1785568924"
   },
@@ -85045,7 +85099,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4893",
     "price": 19400.0,
-    "stock": 3,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/unique-diamond-design-pendant?variant=gid://shopify/ProductVariant/49508937236707",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4893.jpg?v=1786106469"
   },
@@ -85540,7 +85594,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-1381",
     "price": 16300.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/beautiful-avikam-bracelet?variant=gid://shopify/ProductVariant/49517007700195",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1381.jpg?v=1786349629"
   },
@@ -87880,7 +87934,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4855",
     "price": 14500.0,
-    "stock": 3,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/diamond-design-pendant-57?variant=gid://shopify/ProductVariant/49538615771363",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4855_92c71b61-26ae-4b46-8307-e59d2dedaf16.jpg?v=1790138673"
   },
@@ -89068,7 +89122,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4921",
     "price": 17641.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/fabulous-kundan-pendant-set?variant=gid://shopify/ProductVariant/49543830995171",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4921.jpg?v=1786884663"
   },
@@ -91507,7 +91561,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17632",
     "price": 65600.0,
-    "stock": 4,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/diamond-design-necklace-set-7?variant=gid://shopify/ProductVariant/49563855028451",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17632.jpg?v=1787229340"
   },
@@ -91988,6 +92042,15 @@
     "url": "https://www.theamethyststore.com/products/bridal-kundan-oddiyanam-5?variant=gid://shopify/ProductVariant/49571215474915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0955.jpg?v=1787296871"
   },
+  "gid://shopify/ProductVariant/49571223240931": {
+    "product_title": "Vinthikaa Diamond Design Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17680",
+    "price": 95100.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/diamond-design-necklace-set-13?variant=gid://shopify/ProductVariant/49571223240931",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17680.jpg?v=1787296975"
+  },
   "gid://shopify/ProductVariant/49571246604515": {
     "product_title": "Ruhikaa Kundan Pendant",
     "variant_title": "Default Title",
@@ -92353,7 +92416,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-113-0456",
     "price": 2500.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/vithusha-bullakku-nose-pin-2?variant=gid://shopify/ProductVariant/49572570431715",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0456.jpg?v=1787320762"
   },
@@ -92371,7 +92434,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17648",
     "price": 89800.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/traditional-3d-spl-short-necklace-set-2?variant=gid://shopify/ProductVariant/49575192494307",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17648.jpg?v=1787373588"
   },
@@ -95566,7 +95629,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15925",
     "price": 12900.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/timeless-avikam-jhumkas?variant=gid://shopify/ProductVariant/49658849788131",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15925.jpg?v=1788326689"
   },
@@ -95584,7 +95647,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15926",
     "price": 10700.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/regal-avikam-jhumkas?variant=gid://shopify/ProductVariant/49658853032163",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15926.jpg?v=1788326874"
   },
@@ -96403,7 +96466,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-2046",
     "price": 16900.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/mangalsutra-chain-with-earrings-7?variant=gid://shopify/ProductVariant/49664699564259",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2046.jpg?v=1788432034"
   },
@@ -96637,7 +96700,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4996",
     "price": 15100.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/impressively-crafted-diamond-design-pendant?variant=gid://shopify/ProductVariant/49667813376227",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4996.jpg?v=1788502887"
   },
@@ -98617,7 +98680,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5130",
     "price": 23400.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/eye-catching-avikam-pendant-set?variant=gid://shopify/ProductVariant/49715214352611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5130.jpg?v=1789045369"
   },
@@ -98860,7 +98923,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18054",
     "price": 52800.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/temple-worthy-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49719148052707",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18054.jpg?v=1789127083"
   },
@@ -99337,7 +99400,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5077",
     "price": 3300.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/sanctum-3d-spl-pendant?variant=gid://shopify/ProductVariant/49727536398563",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5077.jpg?v=1789284217"
   },
@@ -100210,7 +100273,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16080",
     "price": 6506.0,
-    "stock": 3,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/kundan-drops?variant=gid://shopify/ProductVariant/49741090947299",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16080.jpg?v=1789473514"
   },
@@ -101947,7 +102010,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16153",
     "price": 6000.0,
-    "stock": 2,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/varshaa-diamond-design-studs-1?variant=gid://shopify/ProductVariant/49792716079331",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16153.jpg?v=1790064695"
   },
@@ -102136,7 +102199,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5139",
     "price": 10100.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/veeniksha-stone-pendant?variant=gid://shopify/ProductVariant/49795367469283",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5139.jpg?v=1790077035"
   },
@@ -102145,7 +102208,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5140",
     "price": 53300.0,
-    "stock": 1,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/catchy-wonder-avikam-pendant-set?variant=gid://shopify/ProductVariant/49795610083555",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5140.jpg?v=1790078005"
   },
@@ -102676,7 +102739,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16260",
     "price": 9982.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/magnificent-kundan-studs?variant=gid://shopify/ProductVariant/50282284482787",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16260.jpg?v=1790228255"
   },
@@ -104548,7 +104611,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16273",
     "price": 7904.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/seravia-stone-studs?variant=gid://shopify/ProductVariant/67594784866531",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16273.jpg?v=1790590107"
   },
@@ -106447,7 +106510,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-2259",
     "price": 14900.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/mangalsutra-chain-with-earrings-9?variant=gid://shopify/ProductVariant/67615350227171",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2259.jpg?v=1790937095"
   },
@@ -106879,7 +106942,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5212",
     "price": 19000.0,
-    "stock": 3,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/grandeur-stone-pendant-1?variant=gid://shopify/ProductVariant/67619760537827",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5212.jpg?v=1791033593"
   },
@@ -108598,7 +108661,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18736",
     "price": 141400.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/majesty-diamond-design-short-necklace-set?variant=gid://shopify/ProductVariant/67652135190755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18736.jpg?v=1791542261"
   },
@@ -108607,7 +108670,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-2357",
     "price": 24000.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/pristine-wear-avikam-mangalsutra-chain?variant=gid://shopify/ProductVariant/67652143841507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2357.jpg?v=1791542215"
   },
@@ -109723,7 +109786,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5311",
     "price": 20600.0,
-    "stock": 4,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/vibrant-stone-pendant?variant=gid://shopify/ProductVariant/67661773537507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5311.jpg?v=1791728012"
   },
@@ -113723,15 +113786,6 @@
     "url": "https://www.theamethyststore.com/products/nethra-stone-pair-bangles?variant=gid://shopify/ProductVariant/46403395158243",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-0641-_2.jpg?v=1734707194"
   },
-  "gid://shopify/ProductVariant/43309488701667": {
-    "product_title": "Voguish Hook Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-3382",
-    "price": 15100.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/voguish-hook-drops?variant=gid://shopify/ProductVariant/43309488701667",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-3382_2.jpg?v=1751290093"
-  },
   "gid://shopify/ProductVariant/43320604328163": {
     "product_title": "Cristy Studs",
     "variant_title": "Default Title",
@@ -113749,15 +113803,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/shiviya-stone-earrings?variant=gid://shopify/ProductVariant/43324294037731",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3458.jpg?v=1662818522"
-  },
-  "gid://shopify/ProductVariant/43335551516899": {
-    "product_title": "Roshita Stone Tikka",
-    "variant_title": "Default Title",
-    "sku": "AMS-109-0550",
-    "price": 15225.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/roshita-stone-tikka?variant=gid://shopify/ProductVariant/43335551516899",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-109-0550-_2.jpg?v=1663158155"
   },
   "gid://shopify/ProductVariant/46331174289635": {
     "product_title": "Yarani Pair Bangles",
@@ -114163,15 +114208,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/jivika-stone-pair-bangles?variant=gid://shopify/ProductVariant/46842556317923",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-0848-_2_1d65dced-1d81-4589-acdc-23e31e2a7b90.jpg?v=1778228801"
-  },
-  "gid://shopify/ProductVariant/43732043104483": {
-    "product_title": "Glossy Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-4218",
-    "price": 21800.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/glossy-stone-studs?variant=gid://shopify/ProductVariant/43732043104483",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-4218.jpg?v=1677148306"
   },
   "gid://shopify/ProductVariant/44305723588835": {
     "product_title": "Kashvi Pair Bangles",
@@ -114604,15 +114640,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/blossoming-hook-studs?variant=gid://shopify/ProductVariant/44025712443619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/70_d05456f9-2db3-4841-aa1a-32f1210d92e1.jpg?v=1704007284"
-  },
-  "gid://shopify/ProductVariant/44025924354275": {
-    "product_title": "Yashninka Avikam Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-5063",
-    "price": 184800.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/yashninka-avikam-necklace-set?variant=gid://shopify/ProductVariant/44025924354275",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5063_436b2fd0-7fd2-4b6d-81e8-51cb106097ab.jpg?v=1787223260"
   },
   "gid://shopify/ProductVariant/44029322330339": {
     "product_title": "Azalea Victorian Short Necklace Set",
@@ -115072,15 +115099,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/marisha-nagas-necklace-set?variant=gid://shopify/ProductVariant/44437112553699",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5657.jpg?v=1708942433"
-  },
-  "gid://shopify/ProductVariant/44437413593315": {
-    "product_title": "Mushita Bead Victorian Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-5666",
-    "price": 64400.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/mushita-bead-victorian-necklace?variant=gid://shopify/ProductVariant/44437413593315",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5666_165ee7ef-c668-4325-98e0-74a8db97241d.jpg?v=1737211546"
   },
   "gid://shopify/ProductVariant/44461947289827": {
     "product_title": "Pranith Avikam Earrings",
@@ -119221,15 +119239,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/sakthi-nagas-earings?variant=gid://shopify/ProductVariant/46752393003235",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8738_b3623b90-a1e8-4056-9249-e9e2a45bef7c.jpg?v=1752154172"
-  },
-  "gid://shopify/ProductVariant/46754058338531": {
-    "product_title": "Royal Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-0993",
-    "price": 11300.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/royal-ring-1?variant=gid://shopify/ProductVariant/46754058338531",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0993_1_60937a87-f235-4d84-806a-b2f2d32949b0.jpg?v=1752906047"
   },
   "gid://shopify/ProductVariant/46754082128099": {
     "product_title": "Samridhi Ring",
@@ -144943,15 +144952,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/attractive-kundan-pendant-set?variant=gid://shopify/ProductVariant/49571153445091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4907.jpg?v=1787296507"
-  },
-  "gid://shopify/ProductVariant/49571223240931": {
-    "product_title": "Vinthikaa Diamond Design Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17680",
-    "price": 95100.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/diamond-design-necklace-set-13?variant=gid://shopify/ProductVariant/49571223240931",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17680.jpg?v=1787296975"
   },
   "gid://shopify/ProductVariant/49571270033635": {
     "product_title": "Grand Look Moissanite Choker",
