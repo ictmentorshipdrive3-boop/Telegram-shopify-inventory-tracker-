@@ -50431,7 +50431,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-12079",
     "price": 6900.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/stylish-avikam-earrings-1?variant=gid://shopify/ProductVariant/47850408804579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12079.jpg?v=1768720900"
   },
@@ -101924,15 +101924,6 @@
     "url": "https://www.theamethyststore.com/products/samairaa-diamond-design-studs?variant=gid://shopify/ProductVariant/49794150007011",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16156.jpg?v=1790071200"
   },
-  "gid://shopify/ProductVariant/49794237006051": {
-    "product_title": "Vershikaa  Diamond Design Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-16158",
-    "price": 6000.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/vershikaa-diamond-design-studs?variant=gid://shopify/ProductVariant/49794237006051",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16158.jpg?v=1790071711"
-  },
   "gid://shopify/ProductVariant/49794290155747": {
     "product_title": "Outstanding Nagas Studs",
     "variant_title": "Default Title",
@@ -102883,7 +102874,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5186",
     "price": 10900.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/vivid-intense-diamond-design-pendant?variant=gid://shopify/ProductVariant/50283481989347",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5186.jpg?v=1790245602"
   },
@@ -102928,7 +102919,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5182",
     "price": 17600.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/vibrant-and-lively-diamond-design-pendant?variant=gid://shopify/ProductVariant/50283529273571",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5182.jpg?v=1790247053"
   },
@@ -106933,7 +106924,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18686",
     "price": 89100.0,
-    "stock": 1,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/splendid-diamond-design-long-necklace-set?variant=gid://shopify/ProductVariant/67624069988579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18686.jpg?v=1791185056"
   },
@@ -107518,7 +107509,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5270",
     "price": 17500.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/most-lovable-diamond-design-pendant?variant=gid://shopify/ProductVariant/67634674073827",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5270.jpg?v=1791367559"
   },
@@ -108607,7 +108598,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18790",
     "price": 112000.0,
-    "stock": 4,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/timeless-treasures-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/67652587454691",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18790.jpg?v=1791544317"
   },
@@ -112849,6 +112840,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/divine-allure-nagas-jhumkas?variant=gid://shopify/ProductVariant/67718900973795",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16561.jpg?v=1792231287"
+  },
+  "gid://shopify/ProductVariant/67718937247971": {
+    "product_title": "Grandora Nagas Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16560",
+    "price": 17208.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/grandora-nagas-jhumkas?variant=gid://shopify/ProductVariant/67718937247971",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16560.jpg?v=1792231500"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -147211,6 +147211,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/shivanikaa-diamond-design-studs?variant=gid://shopify/ProductVariant/49794181791971",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16157.jpg?v=1790071483"
+  },
+  "gid://shopify/ProductVariant/49794237006051": {
+    "product_title": "Vershikaa  Diamond Design Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16158",
+    "price": 6000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vershikaa-diamond-design-studs?variant=gid://shopify/ProductVariant/49794237006051",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16158.jpg?v=1790071711"
   },
   "gid://shopify/ProductVariant/49795858890979": {
     "product_title": "Vikasha  Plain Chain",
