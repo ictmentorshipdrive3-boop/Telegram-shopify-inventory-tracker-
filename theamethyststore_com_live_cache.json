@@ -30802,7 +30802,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-10105",
     "price": 14900.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/attractive-stud?variant=gid://shopify/ProductVariant/47079387922659",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10105.jpg?v=1756634381"
   },
@@ -31288,7 +31288,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-10199",
     "price": 2900.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/kirth-studs?variant=gid://shopify/ProductVariant/47081685024995",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10199.jpg?v=1756728076"
   },
@@ -31315,7 +31315,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-10196",
     "price": 8400.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/ezhya-studs-1?variant=gid://shopify/ProductVariant/47081701507299",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10196.jpg?v=1756728661"
   },
@@ -105695,15 +105695,6 @@
     "url": "https://www.theamethyststore.com/products/gorgeous-moissanite-short-necklace-set?variant=gid://shopify/ProductVariant/67614852579555",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18623.jpg?v=1790925288"
   },
-  "gid://shopify/ProductVariant/67614854381795": {
-    "product_title": "Zintha Moissanite Pair Bangles",
-    "variant_title": "2.6",
-    "sku": "AMS-107-3719-2.6\"",
-    "price": 74200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/zintha-moissanite-pair-bangles?variant=gid://shopify/ProductVariant/67614854381795",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3719-2.6.jpg?v=1790925554"
-  },
   "gid://shopify/ProductVariant/67614856937699": {
     "product_title": "Opulant Craft Moissanite Short Necklace Set",
     "variant_title": "Default Title",
@@ -106294,7 +106285,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5212",
     "price": 19000.0,
-    "stock": 3,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/grandeur-stone-pendant-1?variant=gid://shopify/ProductVariant/67619760537827",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5212.jpg?v=1791033593"
   },
@@ -106951,7 +106942,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5267",
     "price": 22900.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/lavish-diamond-design-pendant?variant=gid://shopify/ProductVariant/67634419171555",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5267.jpg?v=1791361259"
   },
@@ -108553,7 +108544,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18805",
     "price": 150900.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/dazzling-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/67656056307939",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18805.jpg?v=1791612863"
   },
@@ -110974,7 +110965,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18819",
     "price": 131500.0,
-    "stock": 1,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/vibrant-hued-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/67695229436131",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18819.jpg?v=1792045090"
   },
@@ -147922,6 +147913,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/amazing-nagas-pair-bangles?variant=gid://shopify/ProductVariant/67610003079395",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3703-2.6_2.jpg?v=1790858685"
+  },
+  "gid://shopify/ProductVariant/67614854381795": {
+    "product_title": "Zintha Moissanite Pair Bangles",
+    "variant_title": "2.6",
+    "sku": "AMS-107-3719-2.6\"",
+    "price": 74200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/zintha-moissanite-pair-bangles?variant=gid://shopify/ProductVariant/67614854381795",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3719-2.6.jpg?v=1790925554"
   },
   "gid://shopify/ProductVariant/67614896521443": {
     "product_title": "Ornate Elegance Moissanite Short Necklace Set",
