@@ -1160,15 +1160,6 @@
     "url": "https://www.daivik.in/products/kundan-kemp-choker-with-earrings?variant=gid://shopify/ProductVariant/40639641518233",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_082aedf5-768b-4631-9e85-d89d0432504d.jpg?v=1627053373"
   },
-  "gid://shopify/ProductVariant/40650199662745": {
-    "product_title": "AD choker with Balis",
-    "variant_title": "Default Title",
-    "sku": "789",
-    "price": 1999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-choker-with-balis?variant=gid://shopify/ProductVariant/40650199662745",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_271591e0-874e-40de-88c6-fc35c4b0f7d5.jpg?v=1627207084"
-  },
   "gid://shopify/ProductVariant/40668971073689": {
     "product_title": "Big and Long Cluster pearl Jhumkas",
     "variant_title": "Default Title",
@@ -1570,7 +1561,7 @@
     "variant_title": "2.8",
     "sku": "951",
     "price": 999.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/white-stone-bangles-4-bangles?variant=gid://shopify/ProductVariant/42060609192158",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_2a6687dc-c1be-4dfd-9d83-e59b62d8f05f.jpg?v=1636992035"
   },
@@ -22423,7 +22414,7 @@
     "variant_title": "Default Title",
     "sku": "1983",
     "price": 699.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.daivik.in/products/simple-antique-ad-jhumkas-with-mattal?variant=gid://shopify/ProductVariant/49149774004446",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BBC1D9BD-0761-4C5D-ACA9-806510AD15E1.jpg?v=1791111714"
   },
@@ -23809,7 +23800,7 @@
     "variant_title": "Ruby",
     "sku": "D26129",
     "price": 749.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26129?variant=gid://shopify/ProductVariant/49169762844894",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6898.jpg?v=1791457636"
   },
@@ -24871,7 +24862,7 @@
     "variant_title": "2.8",
     "sku": "D26528",
     "price": 549.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d26528?variant=gid://shopify/ProductVariant/49178381582558",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_71062.jpg?v=1791535857"
   },
@@ -26449,6 +26440,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/traditional-teeka-in-2-variants-1?variant=gid://shopify/ProductVariant/40399475277977",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_0066045a-8bf2-4b6c-b69e-6d4d3128735b.jpg?v=1624462201"
+  },
+  "gid://shopify/ProductVariant/40650199662745": {
+    "product_title": "AD choker with Balis",
+    "variant_title": "Default Title",
+    "sku": "789",
+    "price": 1999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-choker-with-balis?variant=gid://shopify/ProductVariant/40650199662745",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_271591e0-874e-40de-88c6-fc35c4b0f7d5.jpg?v=1627207084"
   },
   "gid://shopify/ProductVariant/40851463569561": {
     "product_title": "Simple Hipbelt",
