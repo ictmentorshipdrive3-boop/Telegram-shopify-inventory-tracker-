@@ -20155,7 +20155,7 @@
     "variant_title": "Default Title",
     "sku": "R33230",
     "price": 41650.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/florina-grace-cz-choker-set?variant=gid://shopify/ProductVariant/53374186193193",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0276_resized.jpg?v=1785920377"
   },
@@ -23713,15 +23713,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/ziya-adjustable-cz-ring?variant=gid://shopify/ProductVariant/67569057530153",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_1Oct61531.jpg?v=1791372622"
-  },
-  "gid://shopify/ProductVariant/67601923244329": {
-    "product_title": "Navya Adjustable CZ Ring",
-    "variant_title": "Adjustable",
-    "sku": "R35064",
-    "price": 2635.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/navya-adjustable-cz-ring?variant=gid://shopify/ProductVariant/67601923244329",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct21287.jpg?v=1791373112"
   },
   "gid://shopify/ProductVariant/67573480915241": {
     "product_title": "Velora CZ Necklace Set",
@@ -48553,6 +48544,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/santan-lakshmi-temple-pendant?variant=gid://shopify/ProductVariant/67569011851561",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct21258.jpg?v=1791371038"
+  },
+  "gid://shopify/ProductVariant/67601923244329": {
+    "product_title": "Navya Adjustable CZ Ring",
+    "variant_title": "Adjustable",
+    "sku": "R35064",
+    "price": 2635.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/navya-adjustable-cz-ring?variant=gid://shopify/ProductVariant/67601923244329",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct21287.jpg?v=1791373112"
   },
   "gid://shopify/ProductVariant/67573433565481": {
     "product_title": "Aurelia Adjustable CZ Ring",
