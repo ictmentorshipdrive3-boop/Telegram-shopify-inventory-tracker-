@@ -12239,15 +12239,6 @@
     "url": "https://www.rasasilver.com/products/manimala-kasu-short-necklace?variant=gid://shopify/ProductVariant/52682145431849",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4001.jpg?v=1771666243"
   },
-  "gid://shopify/ProductVariant/52682215424297": {
-    "product_title": "Padmaratna Stone Necklace",
-    "variant_title": "Default Title",
-    "sku": "R25118",
-    "price": 28985.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/padmaratna-red-stone-necklace?variant=gid://shopify/ProductVariant/52682215424297",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb3990.jpg?v=1771666611"
-  },
   "gid://shopify/ProductVariant/52682275389737": {
     "product_title": "Maniratika Laxmi Temple Necklace",
     "variant_title": "Default Title",
@@ -16791,15 +16782,6 @@
     "price": 10625.0,
     "stock": 1,
     "url": "https://www.rasasilver.com/products/haritha-stone-matil?variant=gid://shopify/ProductVariant/53323494293801",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262080_resized.jpg?v=1781587195"
-  },
-  "gid://shopify/ProductVariant/53323494326569": {
-    "product_title": "Haritha Stone Matil",
-    "variant_title": "Swarovski",
-    "sku": "R30424",
-    "price": 10800.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/haritha-stone-matil?variant=gid://shopify/ProductVariant/53323494326569",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262080_resized.jpg?v=1781587195"
   },
   "gid://shopify/ProductVariant/53323494359337": {
@@ -23308,15 +23290,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/nakshi-chandbali?variant=gid://shopify/ProductVariant/54224914088233",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_48_108Pics_10Sep20981.jpg?v=1790254367"
-  },
-  "gid://shopify/ProductVariant/67574037905705": {
-    "product_title": "Kanak Stone Necklace",
-    "variant_title": "Green",
-    "sku": "R37155",
-    "price": 12070.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/kanak-stone-short-necklace?variant=gid://shopify/ProductVariant/67574037905705",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_49_81Pics_22Sep2952.jpg?v=1791279382"
   },
   "gid://shopify/ProductVariant/54228659405097": {
     "product_title": "Amrita Reversible Stone Necklace",
@@ -39149,6 +39122,15 @@
     "url": "https://www.rasasilver.com/products/swarnaprada-pear-stone-necklace?variant=gid://shopify/ProductVariant/52682205331753",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4592_resized.jpg?v=1771662533"
   },
+  "gid://shopify/ProductVariant/52682215424297": {
+    "product_title": "Padmaratna Stone Necklace",
+    "variant_title": "Default Title",
+    "sku": "R25118",
+    "price": 28985.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/padmaratna-red-stone-necklace?variant=gid://shopify/ProductVariant/52682215424297",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb3990.jpg?v=1771666611"
+  },
   "gid://shopify/ProductVariant/52682258055465": {
     "product_title": "Hemangi Kasu Temple Necklace",
     "variant_title": "Default Title",
@@ -44666,6 +44648,15 @@
     "url": "https://www.rasasilver.com/products/pear-tara-stone-matil?variant=gid://shopify/ProductVariant/53267713720617",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262096_resized.jpg?v=1781545847"
   },
+  "gid://shopify/ProductVariant/53323494326569": {
+    "product_title": "Haritha Stone Matil",
+    "variant_title": "Swarovski",
+    "sku": "R30424",
+    "price": 10800.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/haritha-stone-matil?variant=gid://shopify/ProductVariant/53323494326569",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262080_resized.jpg?v=1781587195"
+  },
   "gid://shopify/ProductVariant/53269137555753": {
     "product_title": "Panna-Gulabika Stone Matil",
     "variant_title": "Default Title",
@@ -48445,6 +48436,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/kumudini-stone-short-necklace?variant=gid://shopify/ProductVariant/54224849633577",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_49_81Pics_22Sep2885.jpg?v=1791271786"
+  },
+  "gid://shopify/ProductVariant/67574037905705": {
+    "product_title": "Kanak Stone Necklace",
+    "variant_title": "Green",
+    "sku": "R37155",
+    "price": 12070.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/kanak-stone-short-necklace?variant=gid://shopify/ProductVariant/67574037905705",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_49_81Pics_22Sep2952.jpg?v=1791279382"
   },
   "gid://shopify/ProductVariant/67574037938473": {
     "product_title": "Kanak Stone Necklace",
