@@ -2407,7 +2407,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R17311",
     "price": 3230.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.rasasilver.com/products/ovalor-ring?variant=gid://shopify/ProductVariant/51472177692969",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-4_fa47e820-d992-4a21-9676-4bf4a013aa89.jpg?v=1754311672"
   },
@@ -8305,15 +8305,6 @@
     "stock": 4,
     "url": "https://www.rasasilver.com/products/ratna-harini-bangles?variant=gid://shopify/ProductVariant/52209708990761",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0205copy_resized_fbd98776-4e70-471d-b5a7-c1f430b633dc.jpg?v=1764661858"
-  },
-  "gid://shopify/ProductVariant/52209775903017": {
-    "product_title": "Crimsola Gems Bangles",
-    "variant_title": "2.6",
-    "sku": "R20163",
-    "price": 21335.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/crimsola-bangles?variant=gid://shopify/ProductVariant/52209775903017",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0021copy_resized_f43c837f-79c7-47ec-9eb9-1130b5bd2cee.jpg?v=1764665673"
   },
   "gid://shopify/ProductVariant/52210180161833": {
     "product_title": "Rosaria Ruby Bangles",
@@ -33694,6 +33685,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/arohalakshmi-bangles?variant=gid://shopify/ProductVariant/52209712431401",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0215copy_resized_8279249c-860b-41c7-a76d-362631303be4.jpg?v=1764664446"
+  },
+  "gid://shopify/ProductVariant/52209775903017": {
+    "product_title": "Crimsola Gems Bangles",
+    "variant_title": "2.6",
+    "sku": "R20163",
+    "price": 21335.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/crimsola-bangles?variant=gid://shopify/ProductVariant/52209775903017",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0021copy_resized_f43c837f-79c7-47ec-9eb9-1130b5bd2cee.jpg?v=1764665673"
   },
   "gid://shopify/ProductVariant/52210041192745": {
     "product_title": "Phulika Stone Bangles",
