@@ -95858,15 +95858,6 @@
     "url": "https://www.theamethyststore.com/products/floral-flow-kundan-jhumkas?variant=gid://shopify/ProductVariant/49668029907171",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15972.jpg?v=1788508418"
   },
-  "gid://shopify/ProductVariant/49668039246051": {
-    "product_title": "Vivid Swing Kundan Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15973",
-    "price": 22559.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/vivid-swing-kundan-jhumkas-1?variant=gid://shopify/ProductVariant/49668039246051",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15973.jpg?v=1788508697"
-  },
   "gid://shopify/ProductVariant/49668061397219": {
     "product_title": "Flows with Radiance Kundan Jhumkas",
     "variant_title": "Default Title",
@@ -101038,7 +101029,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16160",
     "price": 4600.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/mrinalini-diamond-design-studs?variant=gid://shopify/ProductVariant/49794383970531",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16160.jpg?v=1790073169"
   },
@@ -102109,7 +102100,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18266",
     "price": 44900.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/jhanshikaa-diamond-design-necklace?variant=gid://shopify/ProductVariant/50284500713699",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18266.jpg?v=1790253367"
   },
@@ -106924,7 +106915,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18743",
     "price": 261200.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/entrancing-victorian-long-necklace-set?variant=gid://shopify/ProductVariant/67642766065891",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18743_7b499801-6e24-44bb-af7c-c7d1ca7806fb.jpg?v=1791727524"
   },
@@ -108589,7 +108580,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18793",
     "price": 83700.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/blush-pink-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/67661673005283",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18793.jpg?v=1791725041"
   },
@@ -112063,7 +112054,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-2524",
     "price": 19795.0,
-    "stock": 4,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/stunning-hair-maatal?variant=gid://shopify/ProductVariant/67720320647395",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2524.jpg?v=1792243641"
   },
@@ -146590,6 +146581,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/swings-elegantly-kundan-jhumkas?variant=gid://shopify/ProductVariant/49668004413667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15970.jpg?v=1788507561"
+  },
+  "gid://shopify/ProductVariant/49668039246051": {
+    "product_title": "Vivid Swing Kundan Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15973",
+    "price": 22559.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vivid-swing-kundan-jhumkas-1?variant=gid://shopify/ProductVariant/49668039246051",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15973.jpg?v=1788508697"
   },
   "gid://shopify/ProductVariant/49668635623651": {
     "product_title": "Eternal Charm Kundan Long Earrings",
