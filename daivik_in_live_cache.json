@@ -13288,7 +13288,7 @@
     "variant_title": "Default Title",
     "sku": "1683",
     "price": 799.0,
-    "stock": 26,
+    "stock": 25,
     "url": "https://www.daivik.in/products/antique-kids-jhumkas-1?variant=gid://shopify/ProductVariant/47521442529502",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/326F4D0F-A649-4EF1-B6A8-CD06CB53B495.jpg?v=1757483142"
   },
@@ -17581,7 +17581,7 @@
     "variant_title": "White",
     "sku": "1829",
     "price": 199.0,
-    "stock": 13,
+    "stock": 12,
     "url": "https://www.daivik.in/products/ad-flower-nosepin-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/47942757581022",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E847D47E-8B9B-40B8-8357-7DF0DAF59373.jpg?v=1772464194"
   },
@@ -20245,7 +20245,7 @@
     "variant_title": "White",
     "sku": "1938",
     "price": 1999.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/pure-kemp-brass-jadau-earcuff-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/48543801868510",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/88450E75-1F84-43E4-A524-DD799D742C21.jpg?v=1785690959"
   },
@@ -20797,15 +20797,6 @@
     "stock": 6,
     "url": "https://www.daivik.in/products/simple-ad-pearl-bangle-set-of-4?variant=gid://shopify/ProductVariant/48976861855966",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5ED5E80F-EAF8-4254-9D65-C89D0041CBCB.jpg?v=1788452933"
-  },
-  "gid://shopify/ProductVariant/48983346512094": {
-    "product_title": "AD Diamond look alike Earcuff",
-    "variant_title": "Default Title",
-    "sku": "1960",
-    "price": 999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-diamond-look-alike-earcuff?variant=gid://shopify/ProductVariant/48983346512094",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5B6C8871-530F-43FD-A422-A16E9C1F313A.jpg?v=1788540176"
   },
   "gid://shopify/ProductVariant/48985122111710": {
     "product_title": "Simple AD Necklace with Earrings",
@@ -25321,7 +25312,7 @@
     "variant_title": "Default Title",
     "sku": "D26643",
     "price": 299.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26643?variant=gid://shopify/ProductVariant/49178383712478",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_73792_ae8706ab-c8ad-4d4f-8a86-bd69c1e85fe5.jpg?v=1791624658"
   },
@@ -25330,7 +25321,7 @@
     "variant_title": "Default Title",
     "sku": "D26644",
     "price": 299.0,
-    "stock": 18,
+    "stock": 17,
     "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26644?variant=gid://shopify/ProductVariant/49178383745246",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7381_da3d8dbe-a632-4cfd-95ea-9fada5092c85.jpg?v=1791624663"
   },
@@ -35548,6 +35539,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/jadau-pearl-necklace-with-earrings?variant=gid://shopify/ProductVariant/48972143329502",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1305.jpg?v=1788365439"
+  },
+  "gid://shopify/ProductVariant/48983346512094": {
+    "product_title": "AD Diamond look alike Earcuff",
+    "variant_title": "Default Title",
+    "sku": "1960",
+    "price": 999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-diamond-look-alike-earcuff?variant=gid://shopify/ProductVariant/48983346512094",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5B6C8871-530F-43FD-A422-A16E9C1F313A.jpg?v=1788540176"
   },
   "gid://shopify/ProductVariant/49079032316126": {
     "product_title": "Antique Lakshmi Vanki (Arm Band) (Price for 1 pc)",
