@@ -5750,15 +5750,6 @@
     "url": "https://www.dulhanjewels.com/products/delicate-jadau-kundan-laxmi-devi-locket-with-green-drops?variant=gid://shopify/ProductVariant/52212089717042",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/D63F3692-6271-44D1-B265-D9A531D5C39F.jpg?v=1790447261"
   },
-  "gid://shopify/ProductVariant/52212510490930": {
-    "product_title": "Navratna Necklace Set With Multicolor Stone Drops And Pearl Detailing",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1750.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/navratna-necklace-set-with-multicolor-stone-drops-and-pearl-detailing?variant=gid://shopify/ProductVariant/52212510490930",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/0524C0D6-49E6-41CA-82DD-ACF1DE56F891.jpg?v=1790170350"
-  },
   "gid://shopify/ProductVariant/52263841038642": {
     "product_title": "Ethnic Jadau Kundan Necklace With Green Drops",
     "variant_title": "Default Title",
@@ -6893,15 +6884,6 @@
     "url": "https://www.dulhanjewels.com/products/royal-jadau-kundan-necklace-with-green-hangings?variant=gid://shopify/ProductVariant/67984665608498",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/E4E40971-E175-4FF6-A88C-6D17A585175E.jpg?v=1792228738"
   },
-  "gid://shopify/ProductVariant/67984668524850": {
-    "product_title": "Stylish Jadau Kundan Hair Pin With Hangings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1050.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/stylish-jadau-kundan-hair-pin-with-hangings?variant=gid://shopify/ProductVariant/67984668524850",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/D4139C7D-4AFC-47F5-9BF1-3C508C5FA6F4.jpg?v=1792231751"
-  },
   "gid://shopify/ProductVariant/67984668885298": {
     "product_title": "Unique Jadau Kundan Locket With Peacock Design",
     "variant_title": "Default Title",
@@ -7163,6 +7145,15 @@
     "url": "https://www.dulhanjewels.com/products/bridal-moissanite-mango-haram-with-strawberry-beads?variant=gid://shopify/ProductVariant/51822692204850",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/9BB93A0C-AB65-49DF-B972-4E3E1359B78E.jpg?v=1789554272"
   },
+  "gid://shopify/ProductVariant/52212510490930": {
+    "product_title": "Navratna Necklace Set With Multicolor Stone Drops And Pearl Detailing",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1750.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/navratna-necklace-set-with-multicolor-stone-drops-and-pearl-detailing?variant=gid://shopify/ProductVariant/52212510490930",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/0524C0D6-49E6-41CA-82DD-ACF1DE56F891.jpg?v=1790170350"
+  },
   "gid://shopify/ProductVariant/52271163375922": {
     "product_title": "Multicolor Jadau Kundan Necklace Set With Green Earrings",
     "variant_title": "Default Title",
@@ -7207,5 +7198,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/classic-jadau-kundan-chain-with-side-lockets?variant=gid://shopify/ProductVariant/67984648339762",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/E9F92260-4DA7-46D0-9953-5574078F002C.jpg?v=1792227493"
+  },
+  "gid://shopify/ProductVariant/67984668524850": {
+    "product_title": "Stylish Jadau Kundan Hair Pin With Hangings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1050.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/stylish-jadau-kundan-hair-pin-with-hangings?variant=gid://shopify/ProductVariant/67984668524850",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/D4139C7D-4AFC-47F5-9BF1-3C508C5FA6F4.jpg?v=1792231751"
   }
 }
