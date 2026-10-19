@@ -6772,7 +6772,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-5306",
     "price": 21721.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/rechal-stone-earrings?variant=gid://shopify/ProductVariant/44317157032163",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5306.jpg?v=1705654819"
   },
@@ -7159,7 +7159,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-1565",
     "price": 10447.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/zohra-kundan-pendant?variant=gid://shopify/ProductVariant/44364332204259",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-1565_287702c2-3435-4910-b67a-113e719389ff.jpg?v=1759577509"
   },
@@ -10390,7 +10390,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-6957",
     "price": 12375.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/plain-hasli-necklace?variant=gid://shopify/ProductVariant/45421170262243",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-6957_4d1d6e5d-68b4-463d-a32e-6734e6da6640.jpg?v=1776162607"
   },
@@ -111446,15 +111446,6 @@
     "url": "https://www.theamethyststore.com/products/imperial-grace-3d-spl-pendant?variant=gid://shopify/ProductVariant/67718157041891",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5490.jpg?v=1792220212"
   },
-  "gid://shopify/ProductVariant/67718239912163": {
-    "product_title": "Show-Stopping Stone Single Bangle",
-    "variant_title": "2.4",
-    "sku": "AMS-107-3759-2.4\"",
-    "price": 28299.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/show-stopping-stone-single-bangle?variant=gid://shopify/ProductVariant/67718239912163",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3759-2.4.jpg?v=1792220697"
-  },
   "gid://shopify/ProductVariant/67718251479267": {
     "product_title": "Imperial Allure Stone Pendant",
     "variant_title": "Default Title",
@@ -124428,7 +124419,7 @@
     "product_title": "Greenish Pendant",
     "variant_title": "Default Title",
     "sku": "AMS-104-3629",
-    "price": 2530.0,
+    "price": 2742.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/greenish-pendant-1?variant=gid://shopify/ProductVariant/47685947654371",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3629.jpg?v=1764591145"
@@ -147967,6 +147958,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/fanitha-beads-chain?variant=gid://shopify/ProductVariant/67694798930147",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2296.jpg?v=1792040954"
+  },
+  "gid://shopify/ProductVariant/67718239912163": {
+    "product_title": "Show-Stopping Stone Single Bangle",
+    "variant_title": "2.4",
+    "sku": "AMS-107-3759-2.4\"",
+    "price": 28299.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/show-stopping-stone-single-bangle?variant=gid://shopify/ProductVariant/67718239912163",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3759-2.4.jpg?v=1792220697"
   },
   "gid://shopify/ProductVariant/67720096776419": {
     "product_title": "Grand Allure Diamond Design Necklace",
