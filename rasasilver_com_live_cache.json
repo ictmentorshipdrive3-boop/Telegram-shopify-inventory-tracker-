@@ -346,7 +346,7 @@
     "variant_title": "Default Title",
     "sku": "R1810",
     "price": 47175.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/celestial-navratna-short-necklace?variant=gid://shopify/ProductVariant/49967259877673",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_a8f84460-bce2-498f-8d12-97d826501d1e.jpg?v=1753771401"
   },
@@ -18328,7 +18328,7 @@
     "variant_title": "Default Title",
     "sku": "R31479",
     "price": 3825.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/ratna-harmony-studs?variant=gid://shopify/ProductVariant/53292346999081",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2236_resized.jpg?v=1782803156"
   },
@@ -23749,15 +23749,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/manika-stone-short-necklace-1?variant=gid://shopify/ProductVariant/54224829448489",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_49_81Pics_22Sep2816.jpg?v=1791268341"
-  },
-  "gid://shopify/ProductVariant/54224831054121": {
-    "product_title": "Krishna-Mayur Temple Matil",
-    "variant_title": "Default Title",
-    "sku": "R37295",
-    "price": 6290.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/krishna-mayur-temple-matil?variant=gid://shopify/ProductVariant/54224831054121",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_48_108Pics_10Sep21022.jpg?v=1790247993"
   },
   "gid://shopify/ProductVariant/54224839541033": {
     "product_title": "Pear Of Stone Necklace",
@@ -48535,6 +48526,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/kavya-stone-short-necklace?variant=gid://shopify/ProductVariant/54224694968617",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_49_81Pics_22Sep2805.jpg?v=1791205327"
+  },
+  "gid://shopify/ProductVariant/54224831054121": {
+    "product_title": "Krishna-Mayur Temple Matil",
+    "variant_title": "Default Title",
+    "sku": "R37295",
+    "price": 6290.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/krishna-mayur-temple-matil?variant=gid://shopify/ProductVariant/54224831054121",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_48_108Pics_10Sep21022.jpg?v=1790247993"
   },
   "gid://shopify/ProductVariant/67574037905705": {
     "product_title": "Kanak Stone Necklace",
