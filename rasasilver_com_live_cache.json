@@ -12460,7 +12460,7 @@
     "variant_title": "GREEN",
     "sku": "R33833",
     "price": 1190.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/mor-madhavi-nath-1?variant=gid://shopify/ProductVariant/52724317716777",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459251.jpg?v=1789123934"
   },
@@ -21761,15 +21761,6 @@
     "url": "https://www.rasasilver.com/products/leafora-stone-nath?variant=gid://shopify/ProductVariant/53479819804969",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459288.jpg?v=1789124306"
   },
-  "gid://shopify/ProductVariant/53479903691049": {
-    "product_title": "Hari-Moti Stone Nath",
-    "variant_title": "Default Title",
-    "sku": "R33860",
-    "price": 1190.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/hari-moti-stone-nath?variant=gid://shopify/ProductVariant/53479903691049",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459280.jpg?v=1789124483"
-  },
   "gid://shopify/ProductVariant/53480058388777": {
     "product_title": "Vritanya Kundan Pendant",
     "variant_title": "Default Title",
@@ -22813,15 +22804,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/ishani-temple-oddiyanam?variant=gid://shopify/ProductVariant/54216002076969",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_22Sep60795.jpg?v=1790662130"
-  },
-  "gid://shopify/ProductVariant/54216090812713": {
-    "product_title": "Anvitha Temple Oddiyanam",
-    "variant_title": "Default Title",
-    "sku": "R37375",
-    "price": 68170.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/anvitha-temple-oddiyanam?variant=gid://shopify/ProductVariant/54216090812713",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_22Sep607891.jpg?v=1790662744"
   },
   "gid://shopify/ProductVariant/54216106017065": {
     "product_title": "Taarush Nakshi Danglers",
@@ -48167,6 +48149,15 @@
     "url": "https://www.rasasilver.com/products/parnira-stone-septum-ring?variant=gid://shopify/ProductVariant/53479960084777",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459333.jpg?v=1789126702"
   },
+  "gid://shopify/ProductVariant/53479903691049": {
+    "product_title": "Hari-Moti Stone Nath",
+    "variant_title": "Default Title",
+    "sku": "R33860",
+    "price": 1190.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/hari-moti-stone-nath?variant=gid://shopify/ProductVariant/53479903691049",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459280.jpg?v=1789124483"
+  },
   "gid://shopify/ProductVariant/53479997866281": {
     "product_title": "Gajaveda Kundan Pendant",
     "variant_title": "Default Title",
@@ -48373,6 +48364,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/mangai-pushpa-nakshi-maang-tikka?variant=gid://shopify/ProductVariant/54210453504297",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__12Sep2297.jpg?v=1789989425"
+  },
+  "gid://shopify/ProductVariant/54216090812713": {
+    "product_title": "Anvitha Temple Oddiyanam",
+    "variant_title": "Default Title",
+    "sku": "R37375",
+    "price": 68170.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/anvitha-temple-oddiyanam?variant=gid://shopify/ProductVariant/54216090812713",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_22Sep607891.jpg?v=1790662744"
   },
   "gid://shopify/ProductVariant/54216181121321": {
     "product_title": "Shree Balaji Temple Studs",
