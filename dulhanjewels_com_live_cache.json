@@ -6893,15 +6893,6 @@
     "url": "https://www.dulhanjewels.com/products/designer-2-in-1-jadau-kundan-necklace-with-emerald-drops?variant=gid://shopify/ProductVariant/67984647618866",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/859C9C0B-DEAE-4C9E-94BD-D56B9C713305.jpg?v=1792227343"
   },
-  "gid://shopify/ProductVariant/67984648339762": {
-    "product_title": "Classic Jadau Kundan Chain With Side Lockets",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1350.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/classic-jadau-kundan-chain-with-side-lockets?variant=gid://shopify/ProductVariant/67984648339762",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/E9F92260-4DA7-46D0-9953-5574078F002C.jpg?v=1792227493"
-  },
   "gid://shopify/ProductVariant/67984649355570": {
     "product_title": "Ethnic Jadau Kundan Necklace With Ricepearl Hangings",
     "variant_title": "Default Title",
@@ -7207,5 +7198,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/mango-design-jadau-kundan-bangles?variant=gid://shopify/ProductVariant/51674378567986",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/E8B16080-CB7D-4C32-9714-F771C6B210C1.jpg?v=1787999441"
+  },
+  "gid://shopify/ProductVariant/67984648339762": {
+    "product_title": "Classic Jadau Kundan Chain With Side Lockets",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1350.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/classic-jadau-kundan-chain-with-side-lockets?variant=gid://shopify/ProductVariant/67984648339762",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/E9F92260-4DA7-46D0-9953-5574078F002C.jpg?v=1792227493"
   }
 }
