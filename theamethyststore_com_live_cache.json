@@ -7303,7 +7303,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-5453",
     "price": 25000.0,
-    "stock": 5,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/unique-diamond-design-studs?variant=gid://shopify/ProductVariant/44386950414563",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5453.jpg?v=1707643428"
   },
@@ -7708,7 +7708,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-5605",
     "price": 66109.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/aathesh-kundan-jhumkas?variant=gid://shopify/ProductVariant/44538440515811",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5605_9af53df2-4058-4e2d-a1a6-27a890e793e3.jpg?v=1766129190"
   },
@@ -100943,15 +100943,6 @@
     "url": "https://www.theamethyststore.com/products/attractive-plain-chain?variant=gid://shopify/ProductVariant/49795830153443",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2241.jpg?v=1790079663"
   },
-  "gid://shopify/ProductVariant/49795891986659": {
-    "product_title": "Dazzling  Kundan Long Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-16113",
-    "price": 40300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/dazzling-kundan-long-earrings?variant=gid://shopify/ProductVariant/49795891986659",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16113.jpg?v=1790080698"
-  },
   "gid://shopify/ProductVariant/49795972661475": {
     "product_title": "Beautifully Crafted Victorian Oddiyanam",
     "variant_title": "Default Title",
@@ -106204,7 +106195,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5267",
     "price": 22900.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/lavish-diamond-design-pendant?variant=gid://shopify/ProductVariant/67634419171555",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5267.jpg?v=1791361259"
   },
@@ -107131,7 +107122,7 @@
     "variant_title": "2.6",
     "sku": "AMS-107-3742-2.6\"",
     "price": 84200.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/regal-sparke-diamond-design-pair-bangles?variant=gid://shopify/ProductVariant/67651851747555",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3742-2.6.jpg?v=1791539302"
   },
@@ -107248,7 +107239,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5315",
     "price": 22700.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/fascinating-avikam-pendant?variant=gid://shopify/ProductVariant/67652054974691",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5315.jpg?v=1791541868"
   },
@@ -108022,7 +108013,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-2360",
     "price": 20978.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/elegant-art-mugappu-chain?variant=gid://shopify/ProductVariant/67660823232739",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2360.jpg?v=1791703082"
   },
@@ -147301,6 +147292,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/vikasha-plain-chain?variant=gid://shopify/ProductVariant/49795858890979",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2242.jpg?v=1790080152"
+  },
+  "gid://shopify/ProductVariant/49795891986659": {
+    "product_title": "Dazzling  Kundan Long Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16113",
+    "price": 40300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/dazzling-kundan-long-earrings?variant=gid://shopify/ProductVariant/49795891986659",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16113.jpg?v=1790080698"
   },
   "gid://shopify/ProductVariant/49798461882595": {
     "product_title": "Nethraa Victorian Jhumkas",
