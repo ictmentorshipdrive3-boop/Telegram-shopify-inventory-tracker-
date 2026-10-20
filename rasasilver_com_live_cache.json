@@ -6970,7 +6970,7 @@
     "variant_title": "Default Title",
     "sku": "R17794",
     "price": 24862.5,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/sampatti-sundari-necklace?variant=gid://shopify/ProductVariant/51514021609769",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0050copy_resized_1.jpg?v=1767781382"
   },
@@ -11051,6 +11051,15 @@
     "url": "https://www.rasasilver.com/products/rajmayur-antique-necklace-set?variant=gid://shopify/ProductVariant/52553222193449",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_30_Jan3907_resized.jpg?v=1770363931"
   },
+  "gid://shopify/ProductVariant/52553297297705": {
+    "product_title": "Bloomera Antique Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R23520",
+    "price": 21505.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/bloomera-antique-necklace-set?variant=gid://shopify/ProductVariant/52553297297705",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_30_Jan3900_resized.jpg?v=1770364086"
+  },
   "gid://shopify/ProductVariant/52553352708393": {
     "product_title": "Rania Kundan Tikka",
     "variant_title": "Default Title",
@@ -11194,15 +11203,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/rani-gulab-antique-ring?variant=gid://shopify/ProductVariant/52597111849257",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_30_Jan3810.jpg?v=1770357456"
-  },
-  "gid://shopify/ProductVariant/52553739338025": {
-    "product_title": "Garden Petal Stone Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R23052",
-    "price": 38080.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/garden-petal-cz-necklace-set?variant=gid://shopify/ProductVariant/52553739338025",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_30Jan2227a_resized.jpg?v=1770451686"
   },
   "gid://shopify/ProductVariant/52553878503721": {
     "product_title": "Tiny Petal Stone Necklace Set",
@@ -13354,6 +13354,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/suparna-nakshi-earrings?variant=gid://shopify/ProductVariant/52799852740905",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_9Mar0998_resized.jpg?v=1773816737"
+  },
+  "gid://shopify/ProductVariant/52799886917929": {
+    "product_title": "Gulabi Kundan Choker Set",
+    "variant_title": "Default Title",
+    "sku": "R24949",
+    "price": 58310.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/gulabi-kundan-choker-set?variant=gid://shopify/ProductVariant/52799886917929",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/RasaSiver_115_Pics_6Mar36739_resized.jpg?v=1773740547"
   },
   "gid://shopify/ProductVariant/52799894552873": {
     "product_title": "Krishnaya Temple Jada",
@@ -38042,15 +38051,6 @@
     "url": "https://www.rasasilver.com/products/virsa-antique-kada?variant=gid://shopify/ProductVariant/52544443646249",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_30Jan2865_resized.jpg?v=1770362442"
   },
-  "gid://shopify/ProductVariant/52553297297705": {
-    "product_title": "Bloomera Antique Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R23520",
-    "price": 21505.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/bloomera-antique-necklace-set?variant=gid://shopify/ProductVariant/52553297297705",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_30_Jan3900_resized.jpg?v=1770364086"
-  },
   "gid://shopify/ProductVariant/52553332130089": {
     "product_title": "Maharani Aadhya Antique Set",
     "variant_title": "Default Title",
@@ -38221,6 +38221,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/flower-spark-cz-necklace-set?variant=gid://shopify/ProductVariant/52553727476009",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_30Jan2342_resized.jpg?v=1770384229"
+  },
+  "gid://shopify/ProductVariant/52553739338025": {
+    "product_title": "Garden Petal Stone Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R23052",
+    "price": 38080.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/garden-petal-cz-necklace-set?variant=gid://shopify/ProductVariant/52553739338025",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_30Jan2227a_resized.jpg?v=1770451686"
   },
   "gid://shopify/ProductVariant/52553739927849": {
     "product_title": "Lustre Stone Necklace Set",
@@ -40831,15 +40840,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/kaveri-lakshmi-temple-earrings?variant=gid://shopify/ProductVariant/52799861293353",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_9Mar1021_resized.jpg?v=1773817098"
-  },
-  "gid://shopify/ProductVariant/52799886917929": {
-    "product_title": "Gulabi Kundan Choker Set",
-    "variant_title": "Default Title",
-    "sku": "R24949",
-    "price": 58310.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/gulabi-kundan-choker-set?variant=gid://shopify/ProductVariant/52799886917929",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/RasaSiver_115_Pics_6Mar36739_resized.jpg?v=1773740547"
   },
   "gid://shopify/ProductVariant/52803269067049": {
     "product_title": "Mor-Veena Kundan Jhumki",
