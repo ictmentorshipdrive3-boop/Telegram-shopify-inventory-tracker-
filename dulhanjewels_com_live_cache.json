@@ -5309,15 +5309,6 @@
     "url": "https://www.dulhanjewels.com/products/elegant-floral-design-polki-bangles?variant=gid://shopify/ProductVariant/51703639179570",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/DC202F11-82F5-4A99-8EB2-E317FE34F70A.jpg?v=1788000449"
   },
-  "gid://shopify/ProductVariant/51703639212338": {
-    "product_title": "Elegant Floral Design Polki Bangles",
-    "variant_title": "2/6",
-    "sku": null,
-    "price": 3550.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/elegant-floral-design-polki-bangles?variant=gid://shopify/ProductVariant/51703639212338",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/DC202F11-82F5-4A99-8EB2-E317FE34F70A.jpg?v=1788000449"
-  },
   "gid://shopify/ProductVariant/51674439582002": {
     "product_title": "Radiant Victorian Chandbali Earrings With Pearl Drops",
     "variant_title": "Red",
@@ -5975,15 +5966,6 @@
     "url": "https://www.dulhanjewels.com/products/multicolour-jadau-kundan-hairpin?variant=gid://shopify/ProductVariant/67870701682994",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_4a9e456e-6168-42ee-865d-21c38fc261f9.jpg?v=1791016602"
   },
-  "gid://shopify/ProductVariant/67870703288626": {
-    "product_title": "Classic Jadau Kundan Pearl Champasaralu",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1000.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/untitled-sep29_18-07-26?variant=gid://shopify/ProductVariant/67870703288626",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/A98E3690-0F2D-4A63-8018-B66871FF42F9.jpg?v=1790685008"
-  },
   "gid://shopify/ProductVariant/67870733041970": {
     "product_title": "Ethnic Jadau Kundan Stud Earrings With Pearl Bordering",
     "variant_title": "Default Title",
@@ -6154,15 +6136,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/gold-style-jadau-kundan-necklace-with-green-beads-and-pearl-drops?variant=gid://shopify/ProductVariant/67902963351858",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/4AFDBE15-488D-4AF6-8D2A-5B876D0D7887.jpg?v=1791034176"
-  },
-  "gid://shopify/ProductVariant/67902964203826": {
-    "product_title": "Jadau Kundan Choker Necklace With Pearl And Green Beads",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1000.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/jadau-kundan-choker-necklace-with-pearl-and-green-beads?variant=gid://shopify/ProductVariant/67902964203826",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/C15D56BB-84B9-479F-AD5A-B91590C09D7E.jpg?v=1791034411"
   },
   "gid://shopify/ProductVariant/67902976590130": {
     "product_title": "Gold Look Jadau Kundan Necklace With Drops",
@@ -7073,6 +7046,15 @@
     "url": "https://www.dulhanjewels.com/products/mango-design-jadau-kundan-bangles?variant=gid://shopify/ProductVariant/51674378567986",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/E8B16080-CB7D-4C32-9714-F771C6B210C1.jpg?v=1787999441"
   },
+  "gid://shopify/ProductVariant/51703639212338": {
+    "product_title": "Elegant Floral Design Polki Bangles",
+    "variant_title": "2/6",
+    "sku": null,
+    "price": 3550.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/elegant-floral-design-polki-bangles?variant=gid://shopify/ProductVariant/51703639212338",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/DC202F11-82F5-4A99-8EB2-E317FE34F70A.jpg?v=1788000449"
+  },
   "gid://shopify/ProductVariant/51723097440562": {
     "product_title": "Mini Jadau Kundan Maang Tikka With Emerald Beads",
     "variant_title": "Default Title",
@@ -7099,6 +7081,24 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/minimal-jadau-kundan-beads-and-pearl-choker?variant=gid://shopify/ProductVariant/67870698144050",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/3AA136BC-CF2B-422C-A8A5-0974A4DA098A.jpg?v=1790684554"
+  },
+  "gid://shopify/ProductVariant/67870703288626": {
+    "product_title": "Classic Jadau Kundan Pearl Champasaralu",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1000.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/untitled-sep29_18-07-26?variant=gid://shopify/ProductVariant/67870703288626",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/A98E3690-0F2D-4A63-8018-B66871FF42F9.jpg?v=1790685008"
+  },
+  "gid://shopify/ProductVariant/67902964203826": {
+    "product_title": "Jadau Kundan Choker Necklace With Pearl And Green Beads",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1000.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/jadau-kundan-choker-necklace-with-pearl-and-green-beads?variant=gid://shopify/ProductVariant/67902964203826",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/C15D56BB-84B9-479F-AD5A-B91590C09D7E.jpg?v=1791034411"
   },
   "gid://shopify/ProductVariant/67973815632178": {
     "product_title": "Unique Jadau Kundan Earrings With Green Drops",
