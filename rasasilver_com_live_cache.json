@@ -7082,15 +7082,6 @@
     "url": "https://www.rasasilver.com/products/chandra-mukhi-nath?variant=gid://shopify/ProductVariant/51514360430889",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0148copy_resized_fbc55c41-5dd9-4af6-910f-4276f0c07cad.jpg?v=1763631525"
   },
-  "gid://shopify/ProductVariant/53891814162729": {
-    "product_title": "Bindura Nath",
-    "variant_title": "Ruby Pink",
-    "sku": "R33858",
-    "price": 1190.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/bindura-nath?variant=gid://shopify/ProductVariant/53891814162729",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0143copy_resized_0d1b77b4-af2f-44fe-9578-a1b40c5c0b6e.jpg?v=1763632877"
-  },
   "gid://shopify/ProductVariant/51514751222057": {
     "product_title": "Gulaabi Roop Ring",
     "variant_title": "Ruby Pink / 5.5",
@@ -15280,15 +15271,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/maylora-orlora-necklace-set-copy?variant=gid://shopify/ProductVariant/52885763588393",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0199_resized.jpg?v=1775482786"
-  },
-  "gid://shopify/ProductVariant/52885817819433": {
-    "product_title": "Gajanan Temple Necklace",
-    "variant_title": "GREEN",
-    "sku": "R26215",
-    "price": 14705.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/gajanan-temple-necklace?variant=gid://shopify/ProductVariant/52885817819433",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0085_resized.jpg?v=1775198478"
   },
   "gid://shopify/ProductVariant/52885808873769": {
     "product_title": "Shrinvitha Temple Kasu Necklace",
@@ -31994,6 +31976,15 @@
     "url": "https://www.rasasilver.com/products/bindura-nath?variant=gid://shopify/ProductVariant/53891814129961",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0143copy_resized_0d1b77b4-af2f-44fe-9578-a1b40c5c0b6e.jpg?v=1763632877"
   },
+  "gid://shopify/ProductVariant/53891814162729": {
+    "product_title": "Bindura Nath",
+    "variant_title": "Ruby Pink",
+    "sku": "R33858",
+    "price": 1190.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/bindura-nath?variant=gid://shopify/ProductVariant/53891814162729",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0143copy_resized_0d1b77b4-af2f-44fe-9578-a1b40c5c0b6e.jpg?v=1763632877"
+  },
   "gid://shopify/ProductVariant/52383056199977": {
     "product_title": "Sundara Nathika",
     "variant_title": "Ruby Pink",
@@ -42613,6 +42604,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/mahika-mala-temple-necklace-set?variant=gid://shopify/ProductVariant/52885770600745",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0111_resized.jpg?v=1775197704"
+  },
+  "gid://shopify/ProductVariant/52885817819433": {
+    "product_title": "Gajanan Temple Necklace",
+    "variant_title": "GREEN",
+    "sku": "R26215",
+    "price": 14705.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/gajanan-temple-necklace?variant=gid://shopify/ProductVariant/52885817819433",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0085_resized.jpg?v=1775198478"
   },
   "gid://shopify/ProductVariant/52885817852201": {
     "product_title": "Gajanan Temple Necklace",
