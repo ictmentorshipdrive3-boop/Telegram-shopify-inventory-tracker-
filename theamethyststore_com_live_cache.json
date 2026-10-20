@@ -26563,7 +26563,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-1414",
     "price": 4158.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/takshana-stone-ring?variant=gid://shopify/ProductVariant/47008995410147",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1414.jpg?v=1754992349"
   },
@@ -72058,7 +72058,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-2117",
     "price": 5089.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/nagas-ring-9?variant=gid://shopify/ProductVariant/49332589101283",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2117.jpg?v=1782802507"
   },
@@ -101294,15 +101294,6 @@
     "url": "https://www.theamethyststore.com/products/grand-attractive-diamond-like-oddiyanam?variant=gid://shopify/ProductVariant/50283000725731",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0980.jpg?v=1790236398"
   },
-  "gid://shopify/ProductVariant/50283025367267": {
-    "product_title": "Vershika 3D Spl Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-2375",
-    "price": 6100.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/vershika-3d-spl-ring?variant=gid://shopify/ProductVariant/50283025367267",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2375.jpg?v=1790236863"
-  },
   "gid://shopify/ProductVariant/50283042373859": {
     "product_title": "Lavish Diamond Design Necklace Set",
     "variant_title": "Default Title",
@@ -103729,7 +103720,7 @@
     "variant_title": "2.4",
     "sku": "AMS-107-3637-2.4\"",
     "price": 51866.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/garceful-stone-pair-bangles?variant=gid://shopify/ProductVariant/67599569518819",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3637-2.4.jpg?v=1790689657"
   },
@@ -105349,7 +105340,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18685",
     "price": 138700.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/temple-worthy-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/67624001503459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18685_19e32c92-6adf-4c02-88e4-8f66b3e8c033.jpg?v=1791465233"
   },
@@ -147814,6 +147805,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/versatile-flow-kundan-long-earrings?variant=gid://shopify/ProductVariant/50282433315043",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16243.jpg?v=1790231175"
+  },
+  "gid://shopify/ProductVariant/50283025367267": {
+    "product_title": "Vershika 3D Spl Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2375",
+    "price": 6100.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vershika-3d-spl-ring?variant=gid://shopify/ProductVariant/50283025367267",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2375.jpg?v=1790236863"
   },
   "gid://shopify/ProductVariant/50283504992483": {
     "product_title": "Kanisha Diamond Design Necklace Set",
