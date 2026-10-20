@@ -17545,7 +17545,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-0804",
     "price": 17800.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/yashi-mangalsutra-chain-with-earrings?variant=gid://shopify/ProductVariant/46240613368035",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-0804.jpg?v=1749195081"
   },
@@ -17806,7 +17806,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-0793",
     "price": 4880.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/green-floral-kundan-ring?variant=gid://shopify/ProductVariant/46271936790755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0793.jpg?v=1744893741"
   },
@@ -48306,8 +48306,8 @@
     "product_title": "Glowing Stone Pendant",
     "variant_title": "Default Title",
     "sku": "AMS-104-3674",
-    "price": 15289.0,
-    "stock": 5,
+    "price": 13468.0,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/glowing-stone-pendant?variant=gid://shopify/ProductVariant/47807231000803",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3674.jpg?v=1767956378"
   },
@@ -60074,6 +60074,15 @@
     "url": "https://www.theamethyststore.com/products/kiasha-nagas-long-earrings?variant=gid://shopify/ProductVariant/48635213644003",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13388.png?v=1775202679"
   },
+  "gid://shopify/ProductVariant/48635215741155": {
+    "product_title": "Aadhira Nagas Long Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-13386",
+    "price": 26800.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/aadhira-nagas-long-earrings?variant=gid://shopify/ProductVariant/48635215741155",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13386.png?v=1775202801"
+  },
   "gid://shopify/ProductVariant/48635523268835": {
     "product_title": "Aadhya Short Necklace Set",
     "variant_title": "Default Title",
@@ -60592,7 +60601,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-15158",
     "price": 7300.0,
-    "stock": 4,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/hasli-necklace-6?variant=gid://shopify/ProductVariant/48762096615651",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15158.jpg?v=1775817419"
   },
@@ -60817,7 +60826,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-13227",
     "price": 15800.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/elegance-studs?variant=gid://shopify/ProductVariant/48774429540579",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13227.jpg?v=1775976997"
   },
@@ -66433,7 +66442,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-15742",
     "price": 23400.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/yashasvi-short-necklace-set?variant=gid://shopify/ProductVariant/48987421933795",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15742.jpg?v=1779103758"
   },
@@ -67912,15 +67921,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/runali-stone-pendant?variant=gid://shopify/ProductVariant/49261181599971",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4299.jpg?v=1781418678"
-  },
-  "gid://shopify/ProductVariant/49261412024547": {
-    "product_title": "Suravi Stone Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-4304",
-    "price": 12169.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/suravi-stone-pendant?variant=gid://shopify/ProductVariant/49261412024547",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4304.jpg?v=1781419294"
   },
   "gid://shopify/ProductVariant/49261580812515": {
     "product_title": "Somatra Stone Pendant",
@@ -101843,15 +101843,6 @@
     "url": "https://www.theamethyststore.com/products/loved-vanki-style-ring?variant=gid://shopify/ProductVariant/50288269164771",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2362.jpg?v=1790320166"
   },
-  "gid://shopify/ProductVariant/50288294756579": {
-    "product_title": "Radiant Vanki Style Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-2363",
-    "price": 3900.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/radiant-vanki-style-ring?variant=gid://shopify/ProductVariant/50288294756579",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2363.jpg?v=1790320477"
-  },
   "gid://shopify/ProductVariant/50288319627491": {
     "product_title": "Shinikaa Vanki Style Ring",
     "variant_title": "Default Title",
@@ -104935,7 +104926,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-2259",
     "price": 14900.0,
-    "stock": 6,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/mangalsutra-chain-with-earrings-9?variant=gid://shopify/ProductVariant/67615350227171",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2259.jpg?v=1790937095"
   },
@@ -107077,7 +107068,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-2357",
     "price": 24000.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/pristine-wear-avikam-mangalsutra-chain?variant=gid://shopify/ProductVariant/67652143841507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2357.jpg?v=1791542215"
   },
@@ -107869,7 +107860,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5286",
     "price": 38400.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/devotional-elegance-victorian-pendant?variant=gid://shopify/ProductVariant/67660936020195",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5286.jpg?v=1791705906"
   },
@@ -108148,7 +108139,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5311",
     "price": 20600.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/vibrant-stone-pendant?variant=gid://shopify/ProductVariant/67661773537507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5311.jpg?v=1791728012"
   },
@@ -110218,7 +110209,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5475",
     "price": 25800.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/sparkle-vinayagar-stone-pendant?variant=gid://shopify/ProductVariant/67695631663331",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5475.jpg?v=1792051340"
   },
@@ -110590,15 +110581,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/auspicious-grace-stone-pendant?variant=gid://shopify/ProductVariant/67697494065379",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5497.jpg?v=1792065238"
-  },
-  "gid://shopify/ProductVariant/67697615438051": {
-    "product_title": "Eternal Serenity 3D Spl Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-5434",
-    "price": 11600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/eternal-serenity-3d-spl-pendant?variant=gid://shopify/ProductVariant/67697615438051",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5434.jpg?v=1792065928"
   },
   "gid://shopify/ProductVariant/67698563219683": {
     "product_title": "Bright Verdant Diamond Design Pair Bangles",
@@ -130337,15 +130319,6 @@
     "url": "https://www.theamethyststore.com/products/tanvi-nagas-long-earrings?variant=gid://shopify/ProductVariant/48635186053347",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13392.png?v=1775202105"
   },
-  "gid://shopify/ProductVariant/48635215741155": {
-    "product_title": "Aadhira Nagas Long Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-13386",
-    "price": 26800.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/aadhira-nagas-long-earrings?variant=gid://shopify/ProductVariant/48635215741155",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13386.png?v=1775202801"
-  },
   "gid://shopify/ProductVariant/48635485946083": {
     "product_title": "Yuvika Nagas Long Earrings",
     "variant_title": "Default Title",
@@ -134926,6 +134899,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/rupasi-stone-pendant?variant=gid://shopify/ProductVariant/49260570181859",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4297.jpg?v=1781414832"
+  },
+  "gid://shopify/ProductVariant/49261412024547": {
+    "product_title": "Suravi Stone Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4304",
+    "price": 12169.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/suravi-stone-pendant?variant=gid://shopify/ProductVariant/49261412024547",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4304.jpg?v=1781419294"
   },
   "gid://shopify/ProductVariant/49262321402083": {
     "product_title": "Sivamathy Stone Pendant",
@@ -147455,6 +147437,15 @@
     "url": "https://www.theamethyststore.com/products/vinsiha-vanki-style-ring?variant=gid://shopify/ProductVariant/50288240525539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2360.jpg?v=1790319547"
   },
+  "gid://shopify/ProductVariant/50288294756579": {
+    "product_title": "Radiant Vanki Style Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2363",
+    "price": 3900.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/radiant-vanki-style-ring?variant=gid://shopify/ProductVariant/50288294756579",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2363.jpg?v=1790320477"
+  },
   "gid://shopify/ProductVariant/67580737749219": {
     "product_title": "Sryling Vanki Style Ring",
     "variant_title": "Default Title",
@@ -148012,6 +148003,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/fanitha-beads-chain?variant=gid://shopify/ProductVariant/67694798930147",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2296.jpg?v=1792040954"
+  },
+  "gid://shopify/ProductVariant/67697615438051": {
+    "product_title": "Eternal Serenity 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5434",
+    "price": 11600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/eternal-serenity-3d-spl-pendant?variant=gid://shopify/ProductVariant/67697615438051",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5434.jpg?v=1792065928"
   },
   "gid://shopify/ProductVariant/67718239912163": {
     "product_title": "Show-Stopping Stone Single Bangle",
