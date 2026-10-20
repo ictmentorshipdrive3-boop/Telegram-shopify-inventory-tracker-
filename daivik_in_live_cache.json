@@ -20506,7 +20506,7 @@
     "variant_title": "Default Title",
     "sku": "928",
     "price": 7499.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/balaji-haram?variant=gid://shopify/ProductVariant/48624208937182",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5F1292F7-1238-4DCB-B513-CCB1A7D8A251.jpg?v=1787331525"
   },
@@ -22198,7 +22198,7 @@
     "variant_title": "Default Title",
     "sku": "D26091",
     "price": 499.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26091?variant=gid://shopify/ProductVariant/49149628154078",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6498.jpg?v=1791223807"
   },
@@ -22504,7 +22504,7 @@
     "variant_title": "Default Title",
     "sku": "D26324",
     "price": 199.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26324?variant=gid://shopify/ProductVariant/49155193307358",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6598.jpg?v=1791377941"
   },
@@ -24370,15 +24370,6 @@
     "stock": 18,
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d26512?variant=gid://shopify/ProductVariant/49178380665054",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70652.jpg?v=1791535690"
-  },
-  "gid://shopify/ProductVariant/49178380697822": {
-    "product_title": "Diwali Sale Bangles D26513",
-    "variant_title": "Default Title",
-    "sku": "D26513",
-    "price": 299.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-bangles-d26513?variant=gid://shopify/ProductVariant/49178380697822",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70682.jpg?v=1791535697"
   },
   "gid://shopify/ProductVariant/49178380763358": {
     "product_title": "Diwali Sale Bangles D26515 (Openable Kada)",
@@ -35818,6 +35809,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d26502?variant=gid://shopify/ProductVariant/49178379714782",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70442.jpg?v=1791535567"
+  },
+  "gid://shopify/ProductVariant/49178380697822": {
+    "product_title": "Diwali Sale Bangles D26513",
+    "variant_title": "Default Title",
+    "sku": "D26513",
+    "price": 299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-bangles-d26513?variant=gid://shopify/ProductVariant/49178380697822",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70682.jpg?v=1791535697"
   },
   "gid://shopify/ProductVariant/49178380894430": {
     "product_title": "Diwali Sale Bangles D26518 (Openable Kada) (Price for 1 pc)",
