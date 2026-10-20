@@ -20497,7 +20497,7 @@
     "variant_title": "Default Title",
     "sku": "249",
     "price": 3999.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/bridal-pure-kemp-brass-kemp-necklace-with-earrings?variant=gid://shopify/ProductVariant/48602139918558",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1172.jpg?v=1786722333"
   },
@@ -23263,15 +23263,6 @@
     "stock": 5,
     "url": "https://www.daivik.in/products/ruby-green-ad-kemp-bangles-combo?variant=gid://shopify/ProductVariant/49163421221086",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_26453.jpg?v=1791392468"
-  },
-  "gid://shopify/ProductVariant/49169740955870": {
-    "product_title": "Diwali Sale Necklace D26094",
-    "variant_title": "Default Title",
-    "sku": "D26094",
-    "price": 1999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26094?variant=gid://shopify/ProductVariant/49169740955870",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6752.jpg?v=1791457233"
   },
   "gid://shopify/ProductVariant/49169741545694": {
     "product_title": "Diwali Sale Necklace D26095",
@@ -35701,6 +35692,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26384?variant=gid://shopify/ProductVariant/49162135863518",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6748.jpg?v=1791444867"
+  },
+  "gid://shopify/ProductVariant/49169740955870": {
+    "product_title": "Diwali Sale Necklace D26094",
+    "variant_title": "Default Title",
+    "sku": "D26094",
+    "price": 1999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26094?variant=gid://shopify/ProductVariant/49169740955870",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6752.jpg?v=1791457233"
   },
   "gid://shopify/ProductVariant/49169744036062": {
     "product_title": "Diwali Sale Necklace D26100",
