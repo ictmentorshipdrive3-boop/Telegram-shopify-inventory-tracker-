@@ -6722,15 +6722,6 @@
     "url": "https://www.dulhanjewels.com/products/designer-jadau-kundan-studs-with-pearl-bordering?variant=gid://shopify/ProductVariant/67973815107890",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_5fb2cca9-4e46-4669-a930-b63d871fd322.jpg?v=1792062994"
   },
-  "gid://shopify/ProductVariant/67973815632178": {
-    "product_title": "Unique Jadau Kundan Earrings With Green Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1000.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/unique-jadau-kundan-earrings-with-green-drops?variant=gid://shopify/ProductVariant/67973815632178",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_f1a9a5e2-b8aa-47fd-af78-13f816c7818b.jpg?v=1792221374"
-  },
   "gid://shopify/ProductVariant/67973816647986": {
     "product_title": "Traditional Jadau Kundan Necklace With Green Beads",
     "variant_title": "Default Title",
@@ -7126,5 +7117,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/mango-design-jadau-kundan-bangles?variant=gid://shopify/ProductVariant/51674378567986",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/E8B16080-CB7D-4C32-9714-F771C6B210C1.jpg?v=1787999441"
+  },
+  "gid://shopify/ProductVariant/67973815632178": {
+    "product_title": "Unique Jadau Kundan Earrings With Green Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1000.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/unique-jadau-kundan-earrings-with-green-drops?variant=gid://shopify/ProductVariant/67973815632178",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_f1a9a5e2-b8aa-47fd-af78-13f816c7818b.jpg?v=1792221374"
   }
 }
