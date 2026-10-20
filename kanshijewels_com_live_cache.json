@@ -3838,7 +3838,7 @@
     "variant_title": "Default Title",
     "sku": "NK559",
     "price": 2520.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-pendant-26?variant=gid://shopify/ProductVariant/47582674223404",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2400-2.jpg?v=1702129928"
   },
@@ -3847,18 +3847,9 @@
     "variant_title": "Default Title",
     "sku": "NK558",
     "price": 3465.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-pendant-27?variant=gid://shopify/ProductVariant/47582677238060",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/3200_c11b3846-34f2-4030-bcca-fd90d5187a40.jpg?v=1702129997"
-  },
-  "gid://shopify/ProductVariant/47582678548780": {
-    "product_title": "Jadau Kundan Pendant",
-    "variant_title": "Default Title",
-    "sku": "NK557",
-    "price": 3465.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-kundan-pendant-28?variant=gid://shopify/ProductVariant/47582678548780",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/3300_c016c3a1-f552-4dd1-b417-3f1583128680.jpg?v=1702130075"
   },
   "gid://shopify/ProductVariant/47582681432364": {
     "product_title": "Jadau Kundan Pendant",
@@ -5476,7 +5467,7 @@
     "variant_title": "Default Title",
     "sku": "NK427",
     "price": 3045.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-pendant-38?variant=gid://shopify/ProductVariant/48974904951084",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2900_340d7909-3876-4912-93e1-13e01995dbb2.jpg?v=1716540141"
   },
@@ -8338,7 +8329,7 @@
     "variant_title": "Default Title",
     "sku": "NK122",
     "price": 3045.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-pendant-46?variant=gid://shopify/ProductVariant/51119796257068",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2900_29802695-7131-4de3-b143-01c8bdbf4cb2.jpg?v=1747998417"
   },
@@ -8365,7 +8356,7 @@
     "variant_title": "Default Title",
     "sku": "NK119",
     "price": 2310.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-pendant-49?variant=gid://shopify/ProductVariant/51119799501100",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2200_1_1af5f48a-f4b7-4dbb-a1b8-855c81e0705b.jpg?v=1747998571"
   },
@@ -9166,7 +9157,7 @@
     "variant_title": "Default Title",
     "sku": "NK56",
     "price": 1250.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.kanshijewels.com/products/jadau-pendant-3?variant=gid://shopify/ProductVariant/52441954353452",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaupendant1250.jpg?v=1766064050"
   },
@@ -13183,6 +13174,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-pendant-22?variant=gid://shopify/ProductVariant/47582662295852",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2200_1d4bc125-618d-446b-868e-79c69378d265.jpg?v=1702129592"
+  },
+  "gid://shopify/ProductVariant/47582678548780": {
+    "product_title": "Jadau Kundan Pendant",
+    "variant_title": "Default Title",
+    "sku": "NK557",
+    "price": 3465.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-kundan-pendant-28?variant=gid://shopify/ProductVariant/47582678548780",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/3300_c016c3a1-f552-4dd1-b417-3f1583128680.jpg?v=1702130075"
   },
   "gid://shopify/ProductVariant/47582682677548": {
     "product_title": "Jadau Kundan Pendant",
