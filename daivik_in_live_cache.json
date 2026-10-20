@@ -3757,7 +3757,7 @@
     "variant_title": "Default Title",
     "sku": "817",
     "price": 1199.0,
-    "stock": 23,
+    "stock": 22,
     "url": "https://www.daivik.in/products/multicolour-pearl-chain?variant=gid://shopify/ProductVariant/44195427713246",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_ee2b36b9-e729-480d-81bf-bf88b3f0d671.heic?v=1684498714"
   },
@@ -23224,7 +23224,7 @@
     "variant_title": "White",
     "sku": "D26097",
     "price": 399.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26097?variant=gid://shopify/ProductVariant/49169742725342",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6761.jpg?v=1791457265"
   },
@@ -23701,7 +23701,7 @@
     "variant_title": "Green",
     "sku": "D26141",
     "price": 999.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26141?variant=gid://shopify/ProductVariant/49169769955550",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6935.jpg?v=1791468460"
   },
@@ -24487,15 +24487,6 @@
     "stock": 4,
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d26520?variant=gid://shopify/ProductVariant/49178381025502",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70862.jpg?v=1791535783"
-  },
-  "gid://shopify/ProductVariant/49178381058270": {
-    "product_title": "Diwali Sale Bangles D26521 (Openable Kada)",
-    "variant_title": "Default Title",
-    "sku": "D26521",
-    "price": 399.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-bangles-d26521?variant=gid://shopify/ProductVariant/49178381058270",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70882.jpg?v=1791535793"
   },
   "gid://shopify/ProductVariant/49178381091038": {
     "product_title": "Diwali Sale Bangles D26522",
@@ -25321,7 +25312,7 @@
     "variant_title": "Default Title",
     "sku": "D26188",
     "price": 299.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26188?variant=gid://shopify/ProductVariant/49183619121374",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7415.jpg?v=1791626081"
   },
@@ -25825,7 +25816,7 @@
     "variant_title": "Default Title",
     "sku": "1995",
     "price": 599.0,
-    "stock": 20,
+    "stock": 19,
     "url": "https://www.daivik.in/products/hydrodoublet-small-balis?variant=gid://shopify/ProductVariant/49230129037534",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3924.heic?v=1792254982"
   },
@@ -35836,6 +35827,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d26518?variant=gid://shopify/ProductVariant/49178380894430",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70782.jpg?v=1791535764"
+  },
+  "gid://shopify/ProductVariant/49178381058270": {
+    "product_title": "Diwali Sale Bangles D26521 (Openable Kada)",
+    "variant_title": "Default Title",
+    "sku": "D26521",
+    "price": 399.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-bangles-d26521?variant=gid://shopify/ProductVariant/49178381058270",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70882.jpg?v=1791535793"
   },
   "gid://shopify/ProductVariant/49178381746398": {
     "product_title": "Diwali Sale Bangles D26530",
