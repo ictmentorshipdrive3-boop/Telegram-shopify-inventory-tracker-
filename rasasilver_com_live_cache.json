@@ -21271,7 +21271,7 @@
     "variant_title": "8",
     "sku": "R32430",
     "price": 3500.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/ring-11?variant=gid://shopify/ProductVariant/53426636685609",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19385.jpg?v=1786694488"
   },
@@ -21454,15 +21454,6 @@
     "stock": 3,
     "url": "https://www.rasasilver.com/products/aurora-collar-necklace?variant=gid://shopify/ProductVariant/53410983346473",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19516.jpg?v=1786707912"
-  },
-  "gid://shopify/ProductVariant/53410991145257": {
-    "product_title": "Aaranya Stone Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R25923",
-    "price": 17500.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/aaranya-stone-necklace-set?variant=gid://shopify/ProductVariant/53410991145257",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_42_51Pics0591.jpg?v=1786971093"
   },
   "gid://shopify/ProductVariant/53411020767529": {
     "product_title": "Golden Aura Necklace",
@@ -47770,6 +47761,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/victorian-prisma-ring?variant=gid://shopify/ProductVariant/53426846073129",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38733.jpg?v=1786701173"
+  },
+  "gid://shopify/ProductVariant/53410991145257": {
+    "product_title": "Aaranya Stone Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R25923",
+    "price": 17500.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/aaranya-stone-necklace-set?variant=gid://shopify/ProductVariant/53410991145257",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_42_51Pics0591.jpg?v=1786971093"
   },
   "gid://shopify/ProductVariant/53411191423273": {
     "product_title": "Radhika Temple Necklace",
