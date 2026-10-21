@@ -64831,7 +64831,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-13627",
     "price": 16500.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/avikam-long-earrings-7?variant=gid://shopify/ProductVariant/48927493718243",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13627.png?v=1778321796"
   },
@@ -65452,7 +65452,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-13872",
     "price": 6500.0,
-    "stock": 7,
+    "stock": 10,
     "url": "https://www.theamethyststore.com/products/tanisha-diamond-design-studs-1?variant=gid://shopify/ProductVariant/48945363517667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13872.jpg?v=1778676736"
   },
@@ -83744,6 +83744,15 @@
     "url": "https://www.theamethyststore.com/products/liyasri-kundan-long-necklace-1?variant=gid://shopify/ProductVariant/49514190078179",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17414.jpg?v=1786255039"
   },
+  "gid://shopify/ProductVariant/49514201186531": {
+    "product_title": "Anitha Diamond Design Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4873",
+    "price": 7400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/diamond-design-pendant-49?variant=gid://shopify/ProductVariant/49514201186531",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4873.jpg?v=1786255343"
+  },
   "gid://shopify/ProductVariant/49514298015971": {
     "product_title": "Lahitha Kundan Long Necklace",
     "variant_title": "Default Title",
@@ -84811,7 +84820,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15613",
     "price": 14900.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/lunaa-moissanite-studs?variant=gid://shopify/ProductVariant/49524116095203",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15613.jpg?v=1786516570"
   },
@@ -87484,7 +87493,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4921",
     "price": 17641.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/fabulous-kundan-pendant-set?variant=gid://shopify/ProductVariant/49543830995171",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4921.jpg?v=1786884663"
   },
@@ -88816,7 +88825,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15785",
     "price": 7717.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/bugadi-earrings-13?variant=gid://shopify/ProductVariant/49553353933027",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15785.jpg?v=1787037902"
   },
@@ -89923,7 +89932,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17450",
     "price": 111300.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/avikam-long-necklace-set-19?variant=gid://shopify/ProductVariant/49564500492515",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17450.jpg?v=1787231866"
   },
@@ -97333,15 +97342,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/lion-faced-3d-spl-pendant?variant=gid://shopify/ProductVariant/49724034908387",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5061.jpg?v=1789220296"
-  },
-  "gid://shopify/ProductVariant/49724041134307": {
-    "product_title": "Simply Shines 3D Spl Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-5062",
-    "price": 1800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/simply-shines-3d-spl-pendant?variant=gid://shopify/ProductVariant/49724041134307",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5062.jpg?v=1789220591"
   },
   "gid://shopify/ProductVariant/49724053127395": {
     "product_title": "Little Heart 3D Spl Pendant",
@@ -143720,15 +143720,6 @@
     "url": "https://www.theamethyststore.com/products/diamond-design-pendant-48?variant=gid://shopify/ProductVariant/49514190471395",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4872.jpg?v=1786255203"
   },
-  "gid://shopify/ProductVariant/49514201186531": {
-    "product_title": "Anitha Diamond Design Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-4873",
-    "price": 7100.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/diamond-design-pendant-49?variant=gid://shopify/ProductVariant/49514201186531",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4873.jpg?v=1786255343"
-  },
   "gid://shopify/ProductVariant/49514222878947": {
     "product_title": "Luna Diamond Design Pendant",
     "variant_title": "Default Title",
@@ -147616,6 +147607,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/exquisite-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49723572617443",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17947.jpg?v=1789209853"
+  },
+  "gid://shopify/ProductVariant/49724041134307": {
+    "product_title": "Simply Shines 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5062",
+    "price": 1800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/simply-shines-3d-spl-pendant?variant=gid://shopify/ProductVariant/49724041134307",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5062.jpg?v=1789220591"
   },
   "gid://shopify/ProductVariant/49727517163747": {
     "product_title": "Gaja Lakshmi 3D Spl Pendant",
