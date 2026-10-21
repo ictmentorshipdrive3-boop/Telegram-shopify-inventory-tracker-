@@ -7447,7 +7447,7 @@
     "variant_title": "Default Title",
     "sku": "590",
     "price": 1299.0,
-    "stock": 44,
+    "stock": 43,
     "url": "https://www.daivik.in/products/antique-coral-lakshmi-jhumkas?variant=gid://shopify/ProductVariant/45820095430878",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2E0CDB7C-F892-4014-9F89-C4CF34517D7F.jpg?v=1724078101"
   },
@@ -17612,15 +17612,6 @@
     "url": "https://www.daivik.in/products/affordable-meenakari-temple-lotus-lakshmi-long-chain-with-earrings-1?variant=gid://shopify/ProductVariant/47961525747934",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8345.heic?v=1772956337"
   },
-  "gid://shopify/ProductVariant/47962206404830": {
-    "product_title": "Antique Kemp Jadau Layered Bridal Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "1307",
-    "price": 8299.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/antique-kemp-jadau-layered-bridal-necklace-with-earrings?variant=gid://shopify/ProductVariant/47962206404830",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2C5C9209-4DE6-4E1E-8A1D-3846E56234D4.jpg?v=1772987284"
-  },
   "gid://shopify/ProductVariant/47972933370078": {
     "product_title": "Antique Designer Watch Bracelet",
     "variant_title": "Default Title",
@@ -21730,7 +21721,7 @@
     "variant_title": "Default Title",
     "sku": "D26043",
     "price": 399.0,
-    "stock": 15,
+    "stock": 14,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26043?variant=gid://shopify/ProductVariant/49149625729246",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6143_4bb26e40-f9bf-4776-91d2-e323d5980c30.jpg?v=1791222311"
   },
@@ -34630,6 +34621,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/ad-pendant-droplet-necklace-with-earrings-in-2-colors-price-for-each?variant=gid://shopify/ProductVariant/47960555421918",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/59E5260C-CD04-41EC-BB55-7EA6BF2E29FF.jpg?v=1772863818"
+  },
+  "gid://shopify/ProductVariant/47962206404830": {
+    "product_title": "Antique Kemp Jadau Layered Bridal Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "1307",
+    "price": 8299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/antique-kemp-jadau-layered-bridal-necklace-with-earrings?variant=gid://shopify/ProductVariant/47962206404830",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2C5C9209-4DE6-4E1E-8A1D-3846E56234D4.jpg?v=1772987284"
   },
   "gid://shopify/ProductVariant/47972933009630": {
     "product_title": "Antique Designer Watch Bracelet",
