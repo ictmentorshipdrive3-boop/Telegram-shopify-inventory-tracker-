@@ -1120,7 +1120,7 @@
     "variant_title": "Default Title",
     "sku": "777",
     "price": 2199.0,
-    "stock": 45,
+    "stock": 44,
     "url": "https://www.daivik.in/products/kemp-ad-necklace-with-earrings-1?variant=gid://shopify/ProductVariant/40549322981529",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_c843d144-269c-43df-84b5-d66de6952be0.jpg?v=1641477030"
   },
@@ -2209,7 +2209,7 @@
     "variant_title": "Default Title",
     "sku": "118",
     "price": 1999.0,
-    "stock": 24,
+    "stock": 23,
     "url": "https://www.daivik.in/products/1-1?variant=gid://shopify/ProductVariant/42679268770014",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_b2eb70ab-b56b-4c92-8e8d-9507a88785eb.heic?v=1649767832"
   },
@@ -7042,7 +7042,7 @@
     "variant_title": "Default Title",
     "sku": "621",
     "price": 3399.0,
-    "stock": 21,
+    "stock": 20,
     "url": "https://www.daivik.in/products/ad-lakshmi-pendant-long-necklace-with-earrings?variant=gid://shopify/ProductVariant/45665035944158",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6A365339-475B-4812-82D8-C5D890BEDA1F.jpg?v=1719590073"
   },
@@ -9130,7 +9130,7 @@
     "variant_title": "Default Title",
     "sku": "1144",
     "price": 1399.0,
-    "stock": 53,
+    "stock": 52,
     "url": "https://www.daivik.in/products/lakshmi-peacock-rubygreen-beads-haram-with-jhumkas?variant=gid://shopify/ProductVariant/46011661418718",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4903FE18-9046-422C-85ED-D31DD4B7532E.jpg?v=1730822043"
   },
@@ -9859,7 +9859,7 @@
     "variant_title": "Short",
     "sku": "1187",
     "price": 1699.0,
-    "stock": 47,
+    "stock": 46,
     "url": "https://www.daivik.in/products/1187?variant=gid://shopify/ProductVariant/46162809454814",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E458D140-F8E1-4FBC-8260-89D969C318CB.jpg?v=1734533412"
   },
@@ -11596,7 +11596,7 @@
     "variant_title": "Ruby",
     "sku": "682",
     "price": 2799.0,
-    "stock": 49,
+    "stock": 48,
     "url": "https://www.daivik.in/products/premium-ad-choker-necklace-with-balis-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/46855378927838",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A7E4285D-0BB0-4A85-B97D-FD53C587BC61.jpg?v=1748533596"
   },
@@ -22684,7 +22684,7 @@
     "variant_title": "Ruby Green",
     "sku": "D26353",
     "price": 399.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26353?variant=gid://shopify/ProductVariant/49166694187230",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6659.jpg?v=1791443998"
   },
@@ -23938,15 +23938,6 @@
     "stock": 9,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26174?variant=gid://shopify/ProductVariant/49169795842270",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7286.jpg?v=1791532779"
-  },
-  "gid://shopify/ProductVariant/49169797120222": {
-    "product_title": "Diwali Sale Necklace D26175",
-    "variant_title": "Default Title",
-    "sku": "D26175",
-    "price": 699.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26175?variant=gid://shopify/ProductVariant/49169797120222",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7292.jpg?v=1791532787"
   },
   "gid://shopify/ProductVariant/49169797808350": {
     "product_title": "Diwali Sale Necklace D26177",
@@ -35764,6 +35755,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26170?variant=gid://shopify/ProductVariant/49169793745118",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_72713.jpg?v=1791532691"
+  },
+  "gid://shopify/ProductVariant/49169797120222": {
+    "product_title": "Diwali Sale Necklace D26175",
+    "variant_title": "Default Title",
+    "sku": "D26175",
+    "price": 699.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26175?variant=gid://shopify/ProductVariant/49169797120222",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7292.jpg?v=1791532787"
   },
   "gid://shopify/ProductVariant/49169797775582": {
     "product_title": "Diwali Sale Necklace D26176",
