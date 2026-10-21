@@ -76963,7 +76963,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-16805",
     "price": 37800.0,
-    "stock": 4,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/glittering-avikam-necklace-set-1?variant=gid://shopify/ProductVariant/49421301973219",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16805.jpg?v=1784291150"
   },
@@ -77755,7 +77755,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17093",
     "price": 57900.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/nagas-long-necklace-73?variant=gid://shopify/ProductVariant/49430052929763",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17093.jpg?v=1784535803"
   },
@@ -112076,6 +112076,51 @@
     "url": "https://www.theamethyststore.com/products/nirvika-nagas-bracelet?variant=gid://shopify/ProductVariant/67759569928419",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1570.jpg?v=1792566064"
   },
+  "gid://shopify/ProductVariant/67759605612771": {
+    "product_title": "Thanishri Nagas Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1571",
+    "price": 16223.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/thanishri-nagas-bracelet?variant=gid://shopify/ProductVariant/67759605612771",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1571.jpg?v=1792566293"
+  },
+  "gid://shopify/ProductVariant/67759607480547": {
+    "product_title": "Peacock Inspired 3D Spl Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18851",
+    "price": 11400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/peacock-inspired-3d-spl-necklace?variant=gid://shopify/ProductVariant/67759607480547",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18851.jpg?v=1792566333"
+  },
+  "gid://shopify/ProductVariant/67759646507235": {
+    "product_title": "Nivaira Nagas Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1572",
+    "price": 16460.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nivaira-nagas-bracelet?variant=gid://shopify/ProductVariant/67759646507235",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1572.jpg?v=1792566520"
+  },
+  "gid://shopify/ProductVariant/67759673835747": {
+    "product_title": "Mithraya Nagas Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1573",
+    "price": 15891.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/mithraya-nagas-bracelet-1?variant=gid://shopify/ProductVariant/67759673835747",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1573.jpg?v=1792566826"
+  },
+  "gid://shopify/ProductVariant/67759694708963": {
+    "product_title": "Aadhiraa 3D Spl Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18852",
+    "price": 13400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/aadhiraa-3d-spl-necklace?variant=gid://shopify/ProductVariant/67759694708963",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18852.jpg?v=1792566866"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -121651,6 +121696,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/chain-with-earrings-2?variant=gid://shopify/ProductVariant/47145684205795",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1070.jpg?v=1757240225"
+  },
+  "gid://shopify/ProductVariant/47170256470243": {
+    "product_title": "Unique Avikam Long Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-11213",
+    "price": 57600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/unique-avikam-long-necklace-set-1?variant=gid://shopify/ProductVariant/47170256470243",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11213_1.jpg?v=1757829548"
   },
   "gid://shopify/ProductVariant/47170998960355": {
     "product_title": "Dhivya Drop Earrings",
@@ -141704,6 +141758,15 @@
     "url": "https://www.theamethyststore.com/products/chic-hasli-with-pendant-set?variant=gid://shopify/ProductVariant/49442685059299",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16610_6384028c-b829-4878-b618-f2d7c40742ad.jpg?v=1784890389"
   },
+  "gid://shopify/ProductVariant/49442752168163": {
+    "product_title": "Vithisha Moissanite Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17125",
+    "price": 73700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/moissanite-short-necklace-set-9?variant=gid://shopify/ProductVariant/49442752168163",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17125.jpg?v=1784892368"
+  },
   "gid://shopify/ProductVariant/49446055248099": {
     "product_title": "Mesmerizing Moissanite Ring",
     "variant_title": "Default Title",
@@ -147715,6 +147778,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/priyankaa-nagas-long-necklace?variant=gid://shopify/ProductVariant/49777536172259",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18193.jpg?v=1789892079"
+  },
+  "gid://shopify/ProductVariant/49777566384355": {
+    "product_title": "Vahikaa Nagas Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18199",
+    "price": 60030.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vahikaa-nagas-long-necklace?variant=gid://shopify/ProductVariant/49777566384355",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18199_813979c8-e5ee-4eee-baa1-7e04bda27526.jpg?v=1789894834"
   },
   "gid://shopify/ProductVariant/49777740251363": {
     "product_title": "Amara  Nagas Short Necklace",
