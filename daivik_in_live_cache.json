@@ -31,7 +31,7 @@
     "variant_title": "Default Title",
     "sku": "45",
     "price": 1449.0,
-    "stock": 22,
+    "stock": 21,
     "url": "https://www.daivik.in/products/45?variant=gid://shopify/ProductVariant/32600770707515",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_ec716232-9924-41f1-819a-8bc18601c00b.jpg?v=1599550627"
   },
@@ -112,7 +112,7 @@
     "variant_title": "Default Title",
     "sku": "84",
     "price": 1799.0,
-    "stock": 20,
+    "stock": 19,
     "url": "https://www.daivik.in/products/84?variant=gid://shopify/ProductVariant/32623635398715",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_7793.jpg?v=1583856367"
   },
@@ -328,7 +328,7 @@
     "variant_title": "Default Title",
     "sku": "280",
     "price": 1999.0,
-    "stock": 52,
+    "stock": 51,
     "url": "https://www.daivik.in/products/two-layered-coin-lakshmi-short-haram?variant=gid://shopify/ProductVariant/34623538888857",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/two-layered-coin-lakshmi-short-haram-neckwearnecklace-491.jpg?v=1594481501"
   },
@@ -11375,15 +11375,6 @@
     "url": "https://www.daivik.in/products/a-35?variant=gid://shopify/ProductVariant/46669963952350",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/35ABC6FE-E4E5-4D28-9BD5-8B850B6CE6F6.jpg?v=1746370460"
   },
-  "gid://shopify/ProductVariant/46675256312030": {
-    "product_title": "Half Moon AD Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "1258",
-    "price": 799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/half-moon-ad-necklace-with-earrings?variant=gid://shopify/ProductVariant/46675256312030",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F4136161-FB12-4394-8EDD-72E3FE92901F.jpg?v=1746545689"
-  },
   "gid://shopify/ProductVariant/46677659582686": {
     "product_title": "Microplating Ruby coin Kasumalai (Short , long , Combo - Prices for Each)",
     "variant_title": "Short",
@@ -19876,7 +19867,7 @@
     "variant_title": "Purple",
     "sku": "1927",
     "price": 1099.0,
-    "stock": 33,
+    "stock": 32,
     "url": "https://www.daivik.in/products/ad-earcuff-in-4-colors-price-for-each?variant=gid://shopify/ProductVariant/48434488672478",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5594.jpg?v=1784029118"
   },
@@ -20047,7 +20038,7 @@
     "variant_title": "Default Title",
     "sku": "1401",
     "price": 1699.0,
-    "stock": 37,
+    "stock": 36,
     "url": "https://www.daivik.in/products/diamond-look-alike-hasli-necklace-with-earrings-1?variant=gid://shopify/ProductVariant/48542645551326",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_56062.jpg?v=1785659057"
   },
@@ -20344,7 +20335,7 @@
     "variant_title": "Green",
     "sku": "1948",
     "price": 1399.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/ad-hanging-pendants-earcuff-in-2-colors-price-for-each?variant=gid://shopify/ProductVariant/48597123301598",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1249.jpg?v=1786618747"
   },
@@ -22117,7 +22108,7 @@
     "variant_title": "Default Title",
     "sku": "1982",
     "price": 799.0,
-    "stock": 29,
+    "stock": 28,
     "url": "https://www.daivik.in/products/simple-floral-antique-jhumkas-with-mattal?variant=gid://shopify/ProductVariant/49149773906142",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/50290B5C-2D07-4A49-BBB4-F698CCA99EC1.jpg?v=1791111602"
   },
@@ -32020,6 +32011,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/a-35?variant=gid://shopify/ProductVariant/46669963985118",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/35ABC6FE-E4E5-4D28-9BD5-8B850B6CE6F6.jpg?v=1746370460"
+  },
+  "gid://shopify/ProductVariant/46675256312030": {
+    "product_title": "Half Moon AD Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "1258",
+    "price": 799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/half-moon-ad-necklace-with-earrings?variant=gid://shopify/ProductVariant/46675256312030",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F4136161-FB12-4394-8EDD-72E3FE92901F.jpg?v=1746545689"
   },
   "gid://shopify/ProductVariant/46677659549918": {
     "product_title": "Microplating Ruby coin Kasumalai (Short , long , Combo - Prices for Each)",
