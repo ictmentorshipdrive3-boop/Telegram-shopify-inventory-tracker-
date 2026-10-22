@@ -3676,7 +3676,7 @@
     "variant_title": "Default Title",
     "sku": "75",
     "price": 4199.0,
-    "stock": 20,
+    "stock": 19,
     "url": "https://www.daivik.in/products/a-75?variant=gid://shopify/ProductVariant/44172631015646",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_f7a47cfe-1883-48be-8296-aaee6e2b6303.heic?v=1683038660"
   },
@@ -4153,7 +4153,7 @@
     "variant_title": "Default Title",
     "sku": "212",
     "price": 1999.0,
-    "stock": 40,
+    "stock": 39,
     "url": "https://www.daivik.in/products/ad-peacock-pearl-long-haram-with-earrings?variant=gid://shopify/ProductVariant/44274500862174",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_5dbce46e-8e3e-457f-ad75-d280adfff07e.heic?v=1689774331"
   },
@@ -10282,7 +10282,7 @@
     "variant_title": "Default Title",
     "sku": "1216",
     "price": 699.0,
-    "stock": 34,
+    "stock": 33,
     "url": "https://www.daivik.in/products/ad-hasli-ruby-green-necklace-with-balis?variant=gid://shopify/ProductVariant/46285166837982",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1BCD5492-A557-4AD2-B765-B7F0B3AF0179.jpg?v=1780728443"
   },
@@ -17860,7 +17860,7 @@
     "variant_title": "Default Title",
     "sku": "1843",
     "price": 1499.0,
-    "stock": 37,
+    "stock": 36,
     "url": "https://www.daivik.in/products/victorian-pearl-teeka?variant=gid://shopify/ProductVariant/48046086652126",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8320.jpg?v=1774869271"
   },
@@ -19849,7 +19849,7 @@
     "variant_title": "Default Title",
     "sku": "377",
     "price": 499.0,
-    "stock": 53,
+    "stock": 52,
     "url": "https://www.daivik.in/products/simple-leaf-invisible-chain?variant=gid://shopify/ProductVariant/48434484150494",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6F48194E-21F4-470E-AD03-FE1A254608A7.jpg?v=1784029225"
   },
@@ -23701,7 +23701,7 @@
     "variant_title": "Default Title",
     "sku": "D26165",
     "price": 399.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26165?variant=gid://shopify/ProductVariant/49169791090910",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7039.jpg?v=1791532559"
   },
@@ -24829,15 +24829,6 @@
     "stock": 12,
     "url": "https://www.daivik.in/products/diwali-sale-anklets-d26702?variant=gid://shopify/ProductVariant/49178383810782",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_72522.jpg?v=1791538002"
-  },
-  "gid://shopify/ProductVariant/49178383843550": {
-    "product_title": "Diwali Sale Anklets D26703 (Reversible )",
-    "variant_title": "Ruby Green",
-    "sku": "D26703",
-    "price": 499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-anklets-reversible-d26703?variant=gid://shopify/ProductVariant/49178383843550",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_72542.jpg?v=1791538009"
   },
   "gid://shopify/ProductVariant/49178383876318": {
     "product_title": "Diwali Sale Anklets D26703 (Reversible )",
@@ -35971,6 +35962,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26640?variant=gid://shopify/ProductVariant/49178383614174",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7246.jpg?v=1791537733"
+  },
+  "gid://shopify/ProductVariant/49178383843550": {
+    "product_title": "Diwali Sale Anklets D26703 (Reversible )",
+    "variant_title": "Ruby Green",
+    "sku": "D26703",
+    "price": 499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-anklets-reversible-d26703?variant=gid://shopify/ProductVariant/49178383843550",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_72542.jpg?v=1791538009"
   },
   "gid://shopify/ProductVariant/49178384203998": {
     "product_title": "Diwali Sale Hipbelt D26802",
