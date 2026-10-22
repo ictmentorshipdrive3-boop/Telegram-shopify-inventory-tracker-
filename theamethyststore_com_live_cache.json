@@ -7312,7 +7312,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-5454",
     "price": 20600.0,
-    "stock": 4,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/tulips-diamond-like-studs?variant=gid://shopify/ProductVariant/44386954281187",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5454.jpg?v=1707643768"
   },
@@ -7509,8 +7509,8 @@
     "product_title": "Sana Kundan Studs",
     "variant_title": "Default Title",
     "sku": "AMS-106-5531",
-    "price": 20216.0,
-    "stock": 2,
+    "price": 20469.0,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/sana-kundan-studs?variant=gid://shopify/ProductVariant/44434369151203",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5531_11c96c48-0c9b-40e8-967d-a66188f6c0ce.jpg?v=1737261638"
   },
@@ -111811,7 +111811,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16575",
     "price": 5400.0,
-    "stock": 4,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/gaja-inspired-3d-spl-jhumkas?variant=gid://shopify/ProductVariant/67771848261859",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16575.jpg?v=1792654555"
   },
@@ -112174,6 +112174,42 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/nimitha-stone-mugappu-chain?variant=gid://shopify/ProductVariant/67774679711971",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2408.jpg?v=1792673861"
+  },
+  "gid://shopify/ProductVariant/67774719295715": {
+    "product_title": "Shashini Stone Mugappu Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2411",
+    "price": 22205.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/shashini-stone-mugappu-chain-1?variant=gid://shopify/ProductVariant/67774719295715",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2411.jpg?v=1792674176"
+  },
+  "gid://shopify/ProductVariant/67774777917667": {
+    "product_title": "Attractive Stone Mugappu Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2412",
+    "price": 21345.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/attractive-stone-mugappu-chain?variant=gid://shopify/ProductVariant/67774777917667",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2412.jpg?v=1792674499"
+  },
+  "gid://shopify/ProductVariant/67774891294947": {
+    "product_title": "Chanrikaa Stone Mugappu Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2413",
+    "price": 21587.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/chanrikaa-stone-mugappu-chain?variant=gid://shopify/ProductVariant/67774891294947",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2413.jpg?v=1792674756"
+  },
+  "gid://shopify/ProductVariant/67774902829283": {
+    "product_title": "Vedhikaa Stone Mugappu Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2414",
+    "price": 21730.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/vedhikaa-stone-mugappu-chain-1?variant=gid://shopify/ProductVariant/67774902829283",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2414_3.jpg?v=1792674959"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
