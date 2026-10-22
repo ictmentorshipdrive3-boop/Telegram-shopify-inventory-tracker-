@@ -5714,15 +5714,6 @@
     "url": "https://www.dulhanjewels.com/products/untitled-sep28_14-03-56?variant=gid://shopify/ProductVariant/67795629900082",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-1456.jpg?v=1790583995"
   },
-  "gid://shopify/ProductVariant/67804088893746": {
-    "product_title": "Stylish Victorian Locket With Strawberry Hangings",
-    "variant_title": "Green",
-    "sku": null,
-    "price": 1500.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/stylish-victorian-locket-with-strawberry-hangings?variant=gid://shopify/ProductVariant/67804088893746",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/3713FE9B-68BB-4E23-8332-01F511B3743E.jpg?v=1790589341"
-  },
   "gid://shopify/ProductVariant/67820150653234": {
     "product_title": "Multicolour Victorian Chandbali Earrings With Swarovski Pearls",
     "variant_title": "Default Title",
@@ -5884,15 +5875,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/radiant-victorian-polki-chandbali-earrings-with-drops?variant=gid://shopify/ProductVariant/67902825824562",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-1775_2c35aab0-6778-4189-9383-117e18177392.jpg?v=1791198506"
-  },
-  "gid://shopify/ProductVariant/67902858395954": {
-    "product_title": "Radiant Ruby Jadau Kundan Stud Earrings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1250.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/radiant-ruby-jadau-kundan-stud-earrings?variant=gid://shopify/ProductVariant/67902858395954",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6D8F4BCE-2E41-4570-8FD2-8B4D2FA5C6EB.jpg?v=1791034346"
   },
   "gid://shopify/ProductVariant/67902894768434": {
     "product_title": "Radiant Emerald Jadau Kundan Stud Earrings",
@@ -6929,6 +6911,15 @@
     "url": "https://www.dulhanjewels.com/products/jadau-kundan-pearl-chain-necklace-with-green-drops?variant=gid://shopify/ProductVariant/67592862073138",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/EB57880F-2E06-4274-A8D7-4E75808A07B8.jpg?v=1790422010"
   },
+  "gid://shopify/ProductVariant/67804088893746": {
+    "product_title": "Stylish Victorian Locket With Strawberry Hangings",
+    "variant_title": "Green",
+    "sku": null,
+    "price": 1500.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/stylish-victorian-locket-with-strawberry-hangings?variant=gid://shopify/ProductVariant/67804088893746",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/3713FE9B-68BB-4E23-8332-01F511B3743E.jpg?v=1790589341"
+  },
   "gid://shopify/ProductVariant/67870698144050": {
     "product_title": "Minimal Jadau Kundan Choker With Green Drops",
     "variant_title": "Default Title",
@@ -6955,6 +6946,15 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/ethnic-jadau-kundan-stud-earrings-with-pearl-bordering?variant=gid://shopify/ProductVariant/67870733041970",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/9D4DEA5D-6460-4EA1-8AE2-1929BA1CF163.jpg?v=1790689693"
+  },
+  "gid://shopify/ProductVariant/67902858395954": {
+    "product_title": "Radiant Ruby Jadau Kundan Stud Earrings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1250.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/radiant-ruby-jadau-kundan-stud-earrings?variant=gid://shopify/ProductVariant/67902858395954",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6D8F4BCE-2E41-4570-8FD2-8B4D2FA5C6EB.jpg?v=1791034346"
   },
   "gid://shopify/ProductVariant/67902903583026": {
     "product_title": "Mango Design Jadau Kundan Stud Earrings",
