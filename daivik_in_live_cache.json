@@ -3721,7 +3721,7 @@
     "variant_title": "Default Title",
     "sku": "106",
     "price": 799.0,
-    "stock": 50,
+    "stock": 49,
     "url": "https://www.daivik.in/products/ad-changeable-studs?variant=gid://shopify/ProductVariant/44192837632222",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_08e4ed6b-ba61-47e9-b771-865e36387862.heic?v=1684327210"
   },
@@ -3802,7 +3802,7 @@
     "variant_title": "Default Title",
     "sku": "898",
     "price": 2499.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/3-line-multicolour-mala-with-earrings?variant=gid://shopify/ProductVariant/44212089585886",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_8b415e5f-a762-4a7e-b286-dcb2b1ac28ec.heic?v=1685632032"
   },
@@ -19048,7 +19048,7 @@
     "variant_title": "Default Title",
     "sku": "4036",
     "price": 1699.0,
-    "stock": 21,
+    "stock": 20,
     "url": "https://www.daivik.in/products/heritage-watch-bracelet-10?variant=gid://shopify/ProductVariant/48266768056542",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0207.jpg?v=1779276471"
   },
@@ -19699,15 +19699,6 @@
     "stock": 3,
     "url": "https://www.daivik.in/products/antique-pure-kemp-hasli-necklace-with-balis?variant=gid://shopify/ProductVariant/48393036169438",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D0EA99C0-C086-4927-8CD2-5E0C0FAA6F36.jpg?v=1782836330"
-  },
-  "gid://shopify/ProductVariant/48447550357726": {
-    "product_title": "Invisible Ganesha Chain in Two Colors",
-    "variant_title": "Dark Green",
-    "sku": "672",
-    "price": 999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/invisible-green-ganesha-chain?variant=gid://shopify/ProductVariant/48447550357726",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/ADD05F51-8F3A-4262-86A7-4E853BC4FB59.jpg?v=1782904755"
   },
   "gid://shopify/ProductVariant/48447550390494": {
     "product_title": "Invisible Ganesha Chain in Two Colors",
@@ -22290,15 +22281,6 @@
     "price": 799.0,
     "stock": 4,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26314?variant=gid://shopify/ProductVariant/49155191570654",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6571.jpg?v=1791377566"
-  },
-  "gid://shopify/ProductVariant/49155191603422": {
-    "product_title": "Diwali Sale Earrings D26314",
-    "variant_title": "Green",
-    "sku": "D26314",
-    "price": 799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26314?variant=gid://shopify/ProductVariant/49155191603422",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6571.jpg?v=1791377566"
   },
   "gid://shopify/ProductVariant/49155191832798": {
@@ -25222,7 +25204,7 @@
     "variant_title": "Default Title",
     "sku": "D26392",
     "price": 249.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26392?variant=gid://shopify/ProductVariant/49183623545054",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7333.jpg?v=1791626956"
   },
@@ -35072,6 +35054,15 @@
     "url": "https://www.daivik.in/products/diamond-look-alike-rose-floral-hasli-with-earrings?variant=gid://shopify/ProductVariant/48353948467422",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D55AA4E3-924A-4789-B0BE-1170A04C6E35.jpg?v=1782062607"
   },
+  "gid://shopify/ProductVariant/48447550357726": {
+    "product_title": "Invisible Ganesha Chain in Two Colors",
+    "variant_title": "Dark Green",
+    "sku": "672",
+    "price": 999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/invisible-green-ganesha-chain?variant=gid://shopify/ProductVariant/48447550357726",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/ADD05F51-8F3A-4262-86A7-4E853BC4FB59.jpg?v=1782904755"
+  },
   "gid://shopify/ProductVariant/48406591439070": {
     "product_title": "AD HydroDoublet Pendant Hasli Necklace with Earrings in 4 Colors (Price for each)",
     "variant_title": "Turquoise",
@@ -35502,6 +35493,15 @@
     "price": 799.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26314?variant=gid://shopify/ProductVariant/49155191537886",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6571.jpg?v=1791377566"
+  },
+  "gid://shopify/ProductVariant/49155191603422": {
+    "product_title": "Diwali Sale Earrings D26314",
+    "variant_title": "Green",
+    "sku": "D26314",
+    "price": 799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26314?variant=gid://shopify/ProductVariant/49155191603422",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6571.jpg?v=1791377566"
   },
   "gid://shopify/ProductVariant/49155192389854": {
