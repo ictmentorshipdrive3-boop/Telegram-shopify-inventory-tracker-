@@ -5422,7 +5422,7 @@
     "variant_title": "2.8",
     "sku": "553",
     "price": 1799.0,
-    "stock": 29,
+    "stock": 28,
     "url": "https://www.daivik.in/products/antique-ad-stone-lakshmi-kada?variant=gid://shopify/ProductVariant/44607304138974",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AA4EF1E8-B3DA-45DB-8B24-B14E759B7074.heic?v=1702656331"
   },
@@ -5512,7 +5512,7 @@
     "variant_title": "2.8",
     "sku": "579",
     "price": 1499.0,
-    "stock": 29,
+    "stock": 28,
     "url": "https://www.daivik.in/products/star-bangles-in-two-variants-gold-finish-and-rosegold-finish-price-for-4-bangles?variant=gid://shopify/ProductVariant/44629001339102",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BC52BA9B-30A9-4054-8F5F-8F7452E3AC53.heic?v=1703606129"
   },
@@ -20407,7 +20407,7 @@
     "variant_title": "2.8",
     "sku": "1949",
     "price": 1699.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.daivik.in/products/antique-lakshmi-kada?variant=gid://shopify/ProductVariant/48606013161694",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C212A11D-8F23-46DE-8894-E34661B11E0C.jpg?v=1786900231"
   },
@@ -22252,7 +22252,7 @@
     "variant_title": "Default Title",
     "sku": "D26310",
     "price": 399.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26310?variant=gid://shopify/ProductVariant/49155190325470",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6555_ef9f4f0f-cd47-4038-a375-daec5501142a.jpg?v=1791377537"
   },
@@ -24853,18 +24853,9 @@
     "variant_title": "Default Title",
     "sku": "D26637",
     "price": 1999.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26637?variant=gid://shopify/ProductVariant/49178383515870",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_72402.jpg?v=1791537718"
-  },
-  "gid://shopify/ProductVariant/49178383581406": {
-    "product_title": "Diwali Sale Other Essentials D26639",
-    "variant_title": "Default Title",
-    "sku": "D26639",
-    "price": 1999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26639?variant=gid://shopify/ProductVariant/49178383581406",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_72442.jpg?v=1791537725"
   },
   "gid://shopify/ProductVariant/49178383646942": {
     "product_title": "Diwali Sale Other Essentials D26641",
@@ -35935,6 +35926,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26638?variant=gid://shopify/ProductVariant/49178383548638",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7242.jpg?v=1791537722"
+  },
+  "gid://shopify/ProductVariant/49178383581406": {
+    "product_title": "Diwali Sale Other Essentials D26639",
+    "variant_title": "Default Title",
+    "sku": "D26639",
+    "price": 1999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26639?variant=gid://shopify/ProductVariant/49178383581406",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_72442.jpg?v=1791537725"
   },
   "gid://shopify/ProductVariant/49178383614174": {
     "product_title": "Diwali Sale Other Essentials D26640",
