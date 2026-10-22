@@ -670,7 +670,7 @@
     "variant_title": "Default Title",
     "sku": "R15884",
     "price": 2210.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/pachai-ratnam-studs?variant=gid://shopify/ProductVariant/50074586120489",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP05605_copy.jpg?v=1743660656"
   },
@@ -3667,7 +3667,7 @@
     "variant_title": "Green",
     "sku": "R20481",
     "price": 4505.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/yashika-ratnavali-studs?variant=gid://shopify/ProductVariant/52279122362665",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP210_1.jpg?v=1756554662"
   },
@@ -4858,15 +4858,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/flipora-glow-studs?variant=gid://shopify/ProductVariant/51357123346729",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0116copy.jpg?v=1761384155"
-  },
-  "gid://shopify/ProductVariant/51362451652905": {
-    "product_title": "Rubiya Stud Earrings",
-    "variant_title": "Ruby Pink",
-    "sku": "R16337",
-    "price": 2295.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/rubiya-studs?variant=gid://shopify/ProductVariant/51362451652905",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0223_copy_1.jpg?v=1761543860"
   },
   "gid://shopify/ProductVariant/51362731098409": {
     "product_title": "Utsav Phool Stud Earrings",
@@ -28708,6 +28699,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/deepika-studs?variant=gid://shopify/ProductVariant/51362428158249",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0171copy_1_1.jpg?v=1761543745"
+  },
+  "gid://shopify/ProductVariant/51362451652905": {
+    "product_title": "Rubiya Stud Earrings",
+    "variant_title": "Ruby Pink",
+    "sku": "R16337",
+    "price": 2295.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/rubiya-studs?variant=gid://shopify/ProductVariant/51362451652905",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0223_copy_1.jpg?v=1761543860"
   },
   "gid://shopify/ProductVariant/51362451685673": {
     "product_title": "Rubiya Stud Earrings",
