@@ -5260,7 +5260,7 @@
     "variant_title": "Ruby",
     "sku": "668",
     "price": 999.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.daivik.in/products/anklets?variant=gid://shopify/ProductVariant/44538347716830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B891EFDC-50F9-4619-9358-6EE1CB63364E.heic?v=1700581000"
   },
@@ -11569,7 +11569,7 @@
     "variant_title": "Ruby",
     "sku": "1270",
     "price": 1099.0,
-    "stock": 24,
+    "stock": 23,
     "url": "https://www.daivik.in/products/peacock-lakshmi-long-chain-with-jhumkas?variant=gid://shopify/ProductVariant/46838455337182",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BF72B86F-354C-4C76-89BC-326D9C2E6F73.jpg?v=1748275651"
   },
@@ -12631,7 +12631,7 @@
     "variant_title": "Pink",
     "sku": "620",
     "price": 399.0,
-    "stock": 31,
+    "stock": 30,
     "url": "https://www.daivik.in/products/simple-ad-choker-with-studds?variant=gid://shopify/ProductVariant/47448853938398",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CA5671B7-34A8-4EB9-AF22-E7436DE62C3A.jpg?v=1755238749"
   },
@@ -22112,15 +22112,6 @@
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26092?variant=gid://shopify/ProductVariant/49152686391518",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6504_d5d998ed-ac47-4b9d-b4a2-c13565508c7c.jpg?v=1791223830"
   },
-  "gid://shopify/ProductVariant/49152686424286": {
-    "product_title": "Diwali Sale Necklace D26092",
-    "variant_title": "Green Pearl",
-    "sku": "D26092",
-    "price": 3999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26092?variant=gid://shopify/ProductVariant/49152686424286",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6504_d5d998ed-ac47-4b9d-b4a2-c13565508c7c.jpg?v=1791223830"
-  },
   "gid://shopify/ProductVariant/49149628383454": {
     "product_title": "Diwali Sale Necklace D26093",
     "variant_title": "Default Title",
@@ -22585,7 +22576,7 @@
     "variant_title": "Default Title",
     "sku": "D26350",
     "price": 799.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26350?variant=gid://shopify/ProductVariant/49162124820702",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6651.jpg?v=1791443978"
   },
@@ -23845,7 +23836,7 @@
     "variant_title": "Default Title",
     "sku": "D26177",
     "price": 499.0,
-    "stock": 41,
+    "stock": 40,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26177?variant=gid://shopify/ProductVariant/49169797808350",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7298.jpg?v=1791532803"
   },
@@ -35440,6 +35431,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26085?variant=gid://shopify/ProductVariant/49149627957470",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6483.jpg?v=1791223767"
+  },
+  "gid://shopify/ProductVariant/49152686424286": {
+    "product_title": "Diwali Sale Necklace D26092",
+    "variant_title": "Green Pearl",
+    "sku": "D26092",
+    "price": 3999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26092?variant=gid://shopify/ProductVariant/49152686424286",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6504_d5d998ed-ac47-4b9d-b4a2-c13565508c7c.jpg?v=1791223830"
   },
   "gid://shopify/ProductVariant/49149773906142": {
     "product_title": "Simple Floral Antique Jhumkas with Mattal",
