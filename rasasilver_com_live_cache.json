@@ -904,7 +904,7 @@
     "variant_title": "Default Title",
     "sku": "R11806",
     "price": 3995.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.rasasilver.com/products/glint-nine-studs?variant=gid://shopify/ProductVariant/50157660045609",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06426copy.jpg?v=1744184333"
   },
@@ -4306,7 +4306,7 @@
     "variant_title": "12",
     "sku": "R13445",
     "price": 22950.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/ring?variant=gid://shopify/ProductVariant/52279496016169",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17_Sept0147_resized.jpg?v=1758612899"
   },
@@ -19448,6 +19448,15 @@
     "url": "https://www.rasasilver.com/products/maharani-pearl-kundan-matil?variant=gid://shopify/ProductVariant/53333435449641",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0711_resized.jpg?v=1784184958"
   },
+  "gid://shopify/ProductVariant/53334206251305": {
+    "product_title": "Pearl Sampada Moissanite Matil",
+    "variant_title": "Default Title",
+    "sku": "R30584",
+    "price": 42925.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/pearl-sampada-moissanite-matil?variant=gid://shopify/ProductVariant/53334206251305",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__12Sep2431.jpg?v=1790066680"
+  },
   "gid://shopify/ProductVariant/53334207004969": {
     "product_title": "Rani-Pearl Kundan Matil",
     "variant_title": "Default Title",
@@ -20527,6 +20536,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/oval-vine-moissanite-danglers?variant=gid://shopify/ProductVariant/53370128204073",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0095_1.jpg?v=1786351558"
+  },
+  "gid://shopify/ProductVariant/53370135773481": {
+    "product_title": "Kamala Crest Moissanite Danglers",
+    "variant_title": "Default Title",
+    "sku": "R30773",
+    "price": 43945.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/kamala-crest-victorian-danglers?variant=gid://shopify/ProductVariant/53370135773481",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0062.jpg?v=1786352733"
   },
   "gid://shopify/ProductVariant/53370137772329": {
     "product_title": "Gulab-Flora Victorian Danglers",
@@ -47186,15 +47204,6 @@
     "url": "https://www.rasasilver.com/products/emerald-regalia-victorian-tikka?variant=gid://shopify/ProductVariant/53333243724073",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0779_resized.jpg?v=1784184191"
   },
-  "gid://shopify/ProductVariant/53334206251305": {
-    "product_title": "Pearl Sampada Moissanite Matil",
-    "variant_title": "Default Title",
-    "sku": "R30584",
-    "price": 42925.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/pearl-sampada-moissanite-matil?variant=gid://shopify/ProductVariant/53334206251305",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__12Sep2431.jpg?v=1790066680"
-  },
   "gid://shopify/ProductVariant/53334249341225": {
     "product_title": "Moissanite Mathapatti",
     "variant_title": "Default Title",
@@ -47680,15 +47689,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/azure-drop-moissanite-danglers?variant=gid://shopify/ProductVariant/53370117947689",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0013.jpg?v=1786358037"
-  },
-  "gid://shopify/ProductVariant/53370135773481": {
-    "product_title": "Kamala Crest Moissanite Danglers",
-    "variant_title": "Default Title",
-    "sku": "R30773",
-    "price": 43945.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/kamala-crest-victorian-danglers?variant=gid://shopify/ProductVariant/53370135773481",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0062.jpg?v=1786352733"
   },
   "gid://shopify/ProductVariant/53370159169833": {
     "product_title": "Celestial Arc Kundan Ear Cuff",
