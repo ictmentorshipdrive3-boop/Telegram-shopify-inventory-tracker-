@@ -11344,7 +11344,7 @@
     "variant_title": "Green",
     "sku": "1255",
     "price": 1199.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/ad-elephant-choker-with-earrings-in-two-colors?variant=gid://shopify/ProductVariant/46648538398942",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3D767861-FBDC-45A0-B791-84EAF7E9C6F1.jpg?v=1745940643"
   },
@@ -16294,7 +16294,7 @@
     "variant_title": "3",
     "sku": "1755",
     "price": 399.0,
-    "stock": 15,
+    "stock": 14,
     "url": "https://www.daivik.in/products/simple-hip-chains-in-3-variants-price-for-each?variant=gid://shopify/ProductVariant/47745938751710",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1969_d048f3be-26f6-48fd-ace1-d36106561cb7.jpg?v=1765458461"
   },
@@ -21127,7 +21127,7 @@
     "variant_title": "Default Title",
     "sku": "D26002",
     "price": 999.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26002?variant=gid://shopify/ProductVariant/49149622616286",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5930.jpg?v=1791220854"
   },
@@ -23818,7 +23818,7 @@
     "variant_title": "2.4",
     "sku": "D26503",
     "price": 349.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d26503?variant=gid://shopify/ProductVariant/49178379747550",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70462.jpg?v=1791535567"
   },
@@ -23827,7 +23827,7 @@
     "variant_title": "2.8",
     "sku": "D26503",
     "price": 349.0,
-    "stock": 11,
+    "stock": 9,
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d26503?variant=gid://shopify/ProductVariant/49178379813086",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70462.jpg?v=1791535567"
   },
@@ -24799,7 +24799,7 @@
     "variant_title": "Default Title",
     "sku": "D26805",
     "price": 499.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/diwali-sale-hipbelt-d26805?variant=gid://shopify/ProductVariant/49178384302302",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7143.jpg?v=1791538065"
   },
@@ -25054,15 +25054,6 @@
     "stock": 3,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26390?variant=gid://shopify/ProductVariant/49183623381214",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7329.jpg?v=1791626946"
-  },
-  "gid://shopify/ProductVariant/49183623545054": {
-    "product_title": "Diwali Sale Earrings D26392",
-    "variant_title": "Default Title",
-    "sku": "D26392",
-    "price": 249.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26392?variant=gid://shopify/ProductVariant/49183623545054",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7333.jpg?v=1791626956"
   },
   "gid://shopify/ProductVariant/49183623676126": {
     "product_title": "Diwali Sale Earrings D26393",
@@ -36088,6 +36079,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26391?variant=gid://shopify/ProductVariant/49183623512286",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7331.jpg?v=1791626951"
+  },
+  "gid://shopify/ProductVariant/49183623545054": {
+    "product_title": "Diwali Sale Earrings D26392",
+    "variant_title": "Default Title",
+    "sku": "D26392",
+    "price": 249.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26392?variant=gid://shopify/ProductVariant/49183623545054",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7333.jpg?v=1791626956"
   },
   "gid://shopify/ProductVariant/49183624102110": {
     "product_title": "Diwali Sale Earrings D26395",
