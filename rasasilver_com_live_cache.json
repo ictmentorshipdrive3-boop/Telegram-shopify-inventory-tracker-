@@ -4756,7 +4756,7 @@
     "variant_title": "GREEN",
     "sku": "R31965",
     "price": 4760.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.rasasilver.com/products/danglers-24?variant=gid://shopify/ProductVariant/53342707777833",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS541.jpg?v=1761282691"
   },
@@ -5893,15 +5893,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/misri-purse?variant=gid://shopify/ProductVariant/51487343313193",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_5_Nov1386_fb97ecfc-5404-47be-9aa7-3d08942a8179.jpg?v=1762587238"
-  },
-  "gid://shopify/ProductVariant/51487352717609": {
-    "product_title": "Tarang Hand Purse",
-    "variant_title": "Default Title",
-    "sku": "R16548",
-    "price": 79050.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/tarang-hand-purse?variant=gid://shopify/ProductVariant/51487352717609",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_5_Nov1384.jpg?v=1762587062"
   },
   "gid://shopify/ProductVariant/51487356485929": {
     "product_title": "Rose Darpan Short Necklace",
@@ -10007,15 +9998,6 @@
     "url": "https://www.rasasilver.com/products/white-floral-cz-necklace-set?variant=gid://shopify/ProductVariant/52451312894249",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan0889_resized.jpg?v=1768975254"
   },
-  "gid://shopify/ProductVariant/52451364241705": {
-    "product_title": "Morvati Nakshi Necklace",
-    "variant_title": "Default Title",
-    "sku": "R23368",
-    "price": 16830.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/morvati-nakshi-necklace?variant=gid://shopify/ProductVariant/52451364241705",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_159Pics_14Jan3203_resized.jpg?v=1768975616"
-  },
   "gid://shopify/ProductVariant/52451366240553": {
     "product_title": "Peacock Aura Stone Necklace",
     "variant_title": "Default Title",
@@ -10897,6 +10879,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/taj-mor-victorian-pendant-set?variant=gid://shopify/ProductVariant/52535475044649",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_113_Pics_29Jan4062.jpg?v=1770291285"
+  },
+  "gid://shopify/ProductVariant/52535497064745": {
+    "product_title": "Plume Victorian Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "R24508",
+    "price": 26605.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/plume-victorian-pendant-set?variant=gid://shopify/ProductVariant/52535497064745",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_113_Pics_29Jan4056.jpg?v=1770291484"
   },
   "gid://shopify/ProductVariant/52535593599273": {
     "product_title": "Peacock Dream Victorian Pendant Set",
@@ -21892,7 +21883,7 @@
     "variant_title": "Default Title",
     "sku": "R30484",
     "price": 4300.0,
-    "stock": 31,
+    "stock": 30,
     "url": "https://www.rasasilver.com/products/back-chain?variant=gid://shopify/ProductVariant/53426656870697",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageAug24_2026_12_36_13PM.png?v=1787555201"
   },
@@ -23884,15 +23875,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/shri-temple-studs?variant=gid://shopify/ProductVariant/67541884928297",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_49_81Pics_22Sep21140_1.jpg?v=1791360923"
-  },
-  "gid://shopify/ProductVariant/67542024421673": {
-    "product_title": "Kalasha-Phool Nakshi Necklace",
-    "variant_title": "Default Title",
-    "sku": "R37257",
-    "price": 37060.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/kalasha-phool-nakshi-necklace?variant=gid://shopify/ProductVariant/67542024421673",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_48_108Pics_10Sep20958A.jpg?v=1790403572"
   },
   "gid://shopify/ProductVariant/67542042870057": {
     "product_title": "Kamala Temple Studs",
@@ -30004,6 +29986,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/moti-chandrika-chandbali?variant=gid://shopify/ProductVariant/52769605091625",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_5_Nov1261.jpg?v=1762589496"
+  },
+  "gid://shopify/ProductVariant/51487352717609": {
+    "product_title": "Tarang Hand Purse",
+    "variant_title": "Default Title",
+    "sku": "R16548",
+    "price": 79050.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/tarang-hand-purse?variant=gid://shopify/ProductVariant/51487352717609",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_5_Nov1384.jpg?v=1762587062"
   },
   "gid://shopify/ProductVariant/51487354650921": {
     "product_title": "Mayura\u2019s Dream Short Necklace",
@@ -36358,6 +36349,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/golden-daisy-cz-set?variant=gid://shopify/ProductVariant/52451331375401",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan0897_resized.jpg?v=1768975525"
+  },
+  "gid://shopify/ProductVariant/52451364241705": {
+    "product_title": "Morvati Nakshi Necklace",
+    "variant_title": "Default Title",
+    "sku": "R23368",
+    "price": 16830.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/morvati-nakshi-necklace?variant=gid://shopify/ProductVariant/52451364241705",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_159Pics_14Jan3203_resized.jpg?v=1768975616"
   },
   "gid://shopify/ProductVariant/52451391177001": {
     "product_title": "Kundan Morjali Necklace",
@@ -48778,6 +48778,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/tulasi-temple-short-necklace?variant=gid://shopify/ProductVariant/67541536768297",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_49_81Pics_22Sep2845.jpg?v=1791360012"
+  },
+  "gid://shopify/ProductVariant/67542024421673": {
+    "product_title": "Kalasha-Phool Nakshi Necklace",
+    "variant_title": "Default Title",
+    "sku": "R37257",
+    "price": 37060.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/kalasha-phool-nakshi-necklace?variant=gid://shopify/ProductVariant/67542024421673",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_48_108Pics_10Sep20958A.jpg?v=1790403572"
   },
   "gid://shopify/ProductVariant/67542576857385": {
     "product_title": "Kusumita Kalash Nakshi Necklace",
