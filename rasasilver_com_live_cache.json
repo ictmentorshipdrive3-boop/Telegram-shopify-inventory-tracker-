@@ -894,7 +894,7 @@
     "product_title": "Morni Magic Studs",
     "variant_title": "Default Title",
     "sku": "R20383",
-    "price": 6545.0,
+    "price": 6160.0,
     "stock": 4,
     "url": "https://www.rasasilver.com/products/morni-magic-studs?variant=gid://shopify/ProductVariant/50869115650345",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06233_copy.jpg?v=1744181839"
@@ -3752,6 +3752,15 @@
     "url": "https://www.rasasilver.com/products/devi-hasti-mandala-short-necklace?variant=gid://shopify/ProductVariant/50835291046185",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP315.jpg?v=1756798193"
   },
+  "gid://shopify/ProductVariant/50835315523881": {
+    "product_title": "Shree Ashta Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "R12015",
+    "price": 43605.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/shree-ashta-short-necklace?variant=gid://shopify/ProductVariant/50835315523881",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP349.jpg?v=1756798433"
+  },
   "gid://shopify/ProductVariant/50835365658921": {
     "product_title": "Lakshmi Morni Short Necklace",
     "variant_title": "Default Title",
@@ -3832,6 +3841,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/jewel-of-eloria-choker-set?variant=gid://shopify/ProductVariant/50835805405481",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug46618.jpg?v=1756880419"
+  },
+  "gid://shopify/ProductVariant/50835813564713": {
+    "product_title": "Noorika CZ Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "R12319",
+    "price": 35360.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/noorika-short-necklace?variant=gid://shopify/ProductVariant/50835813564713",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_79_Pc_25Aug0444.jpg?v=1756817188"
   },
   "gid://shopify/ProductVariant/50835858227497": {
     "product_title": "Manikya Mandap Necklace Set",
@@ -6889,7 +6907,7 @@
     "variant_title": "Default Title",
     "sku": "R17681",
     "price": 14875.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/shineflora-ace-necklace?variant=gid://shopify/ProductVariant/51509716386089",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Box07_10Nov0295.jpg?v=1763446627"
   },
@@ -13597,15 +13615,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/pushpjyoti-kundan-earrings?variant=gid://shopify/ProductVariant/52803698032937",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/RasaSiver_115_Pics_6Mar36770_resized.jpg?v=1773745325"
-  },
-  "gid://shopify/ProductVariant/52803885498665": {
-    "product_title": "Sundar-Bloosom Stone Jhumki",
-    "variant_title": "Default Title",
-    "sku": "R26396",
-    "price": 15725.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/neelkanth-gemstone-earring?variant=gid://shopify/ProductVariant/52803885498665",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_9Mar0930_resized.jpg?v=1773818942"
   },
   "gid://shopify/ProductVariant/52803932684585": {
     "product_title": "Vangaj Stone Jhumkis",
@@ -22552,15 +22561,6 @@
     "stock": 2,
     "url": "https://www.rasasilver.com/products/tanvika-kundan-studs?variant=gid://shopify/ProductVariant/53513875947817",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459162.jpg?v=1789476342"
-  },
-  "gid://shopify/ProductVariant/53514783162665": {
-    "product_title": "Mallavi Kundan Studs",
-    "variant_title": "Default Title",
-    "sku": "R33748",
-    "price": 2890.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/mallavi-kundan-studs?variant=gid://shopify/ProductVariant/53514783162665",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459154.jpg?v=1789478576"
   },
   "gid://shopify/ProductVariant/53517215203625": {
     "product_title": "Madhurika Kundan Studs",
@@ -41120,6 +41120,15 @@
     "url": "https://www.rasasilver.com/products/kusumrekha-stone-danglers?variant=gid://shopify/ProductVariant/52803875176745",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_9Mar0878_resized.jpg?v=1773746576"
   },
+  "gid://shopify/ProductVariant/52803885498665": {
+    "product_title": "Sundar-Bloosom Stone Jhumki",
+    "variant_title": "Default Title",
+    "sku": "R26396",
+    "price": 15725.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/neelkanth-gemstone-earring?variant=gid://shopify/ProductVariant/52803885498665",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_9Mar0930_resized.jpg?v=1773818942"
+  },
   "gid://shopify/ProductVariant/52804006183209": {
     "product_title": "Shrivani Temple Jhumkis",
     "variant_title": "Default Title",
@@ -48562,6 +48571,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/kiyana-moissanite-necklace?variant=gid://shopify/ProductVariant/53493271527721",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPT_Image_Sep_7_2026_03_38_39_PM.png?v=1788775740"
+  },
+  "gid://shopify/ProductVariant/53514783162665": {
+    "product_title": "Mallavi Kundan Studs",
+    "variant_title": "Default Title",
+    "sku": "R33748",
+    "price": 2890.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/mallavi-kundan-studs?variant=gid://shopify/ProductVariant/53514783162665",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459154.jpg?v=1789478576"
   },
   "gid://shopify/ProductVariant/53522240405801": {
     "product_title": "Pushvika Nakshi Studs",
