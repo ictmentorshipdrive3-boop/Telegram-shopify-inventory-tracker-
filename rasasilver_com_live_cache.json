@@ -769,7 +769,7 @@
     "variant_title": "GREEN",
     "sku": "R11651",
     "price": 13020.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/dhanrubi-short-necklace?variant=gid://shopify/ProductVariant/50884633428265",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug45849.jpg?v=1761291539"
   },
@@ -3318,15 +3318,6 @@
     "price": 2170.0,
     "stock": 2,
     "url": "https://www.rasasilver.com/products/kesarvi-studs?variant=gid://shopify/ProductVariant/50809295503657",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2579.jpg?v=1756538067"
-  },
-  "gid://shopify/ProductVariant/50809295536425": {
-    "product_title": "Kesarvi Stud Earrings",
-    "variant_title": "Green",
-    "sku": "R11730",
-    "price": 2170.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/kesarvi-studs?variant=gid://shopify/ProductVariant/50809295536425",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2579.jpg?v=1756538067"
   },
   "gid://shopify/ProductVariant/50808782520617": {
@@ -25621,6 +25612,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/elanora-danglers?variant=gid://shopify/ProductVariant/50808689000745",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2553.jpg?v=1756539441"
+  },
+  "gid://shopify/ProductVariant/50809295536425": {
+    "product_title": "Kesarvi Stud Earrings",
+    "variant_title": "Green",
+    "sku": "R11730",
+    "price": 2170.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/kesarvi-studs?variant=gid://shopify/ProductVariant/50809295536425",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2579.jpg?v=1756538067"
   },
   "gid://shopify/ProductVariant/50808735170857": {
     "product_title": "Rudrika Stone Studs",
