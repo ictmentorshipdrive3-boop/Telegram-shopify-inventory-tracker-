@@ -4904,15 +4904,6 @@
     "url": "https://www.dulhanjewels.com/products/radiant-jadau-kundan-chandbali-earrings-with-ricepearl-hangings?variant=gid://shopify/ProductVariant/51564604195122",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-1771.jpg?v=1788247337"
   },
-  "gid://shopify/ProductVariant/51564605014322": {
-    "product_title": "Floral Studded Jadau Kundan Chandbali Earrings With Emerald Beads",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1900.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/floral-studded-jadau-kundan-chandbali-earrings-with-emerald-beads?variant=gid://shopify/ProductVariant/51564605014322",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_81db64c9-3234-43fb-81fb-6da26503d43a.jpg?v=1788247859"
-  },
   "gid://shopify/ProductVariant/51564605800754": {
     "product_title": "Floral Design Jadau Kundan Stud Earrings",
     "variant_title": "Default Title",
@@ -6533,15 +6524,6 @@
     "url": "https://www.dulhanjewels.com/products/radiant-jadau-kundan-locket-with-strawberry-beads?variant=gid://shopify/ProductVariant/67973826314546",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_3aeda4fe-6545-41d4-b368-da3b6fa4237c.jpg?v=1792062847"
   },
-  "gid://shopify/ProductVariant/67973829099826": {
-    "product_title": "Classic Jadau Kundan Maang Tikka",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1000.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/classic-jadau-kundan-maang-tikka?variant=gid://shopify/ProductVariant/67973829099826",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/7C949A3D-8BEB-409C-82E4-933E7E1C7844.jpg?v=1792062829"
-  },
   "gid://shopify/ProductVariant/67973830377778": {
     "product_title": "Bridal Jadau Kundan Choker With Pearl Drops",
     "variant_title": "Default Title",
@@ -7019,6 +7001,15 @@
     "url": "https://www.dulhanjewels.com/products/jadau-kundan-stud-earrings-with-floral-design?variant=gid://shopify/ProductVariant/51553619509554",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_a3da139f-95b1-4240-8dff-f7b3cf314b89.jpg?v=1789636802"
   },
+  "gid://shopify/ProductVariant/51564605014322": {
+    "product_title": "Floral Studded Jadau Kundan Chandbali Earrings With Emerald Beads",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1900.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/floral-studded-jadau-kundan-chandbali-earrings-with-emerald-beads?variant=gid://shopify/ProductVariant/51564605014322",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_81db64c9-3234-43fb-81fb-6da26503d43a.jpg?v=1788247859"
+  },
   "gid://shopify/ProductVariant/51674378567986": {
     "product_title": "Mango Design Jadau Kundan Bangles",
     "variant_title": "2/6",
@@ -7081,5 +7072,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/triple-layer-victorian-emerald-necklace-with-matching-earrings?variant=gid://shopify/ProductVariant/67966469701938",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/9D349045-31C9-4E81-98FB-2781B32B69FA.jpg?v=1791977373"
+  },
+  "gid://shopify/ProductVariant/67973829099826": {
+    "product_title": "Classic Jadau Kundan Maang Tikka",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1000.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/classic-jadau-kundan-maang-tikka?variant=gid://shopify/ProductVariant/67973829099826",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/7C949A3D-8BEB-409C-82E4-933E7E1C7844.jpg?v=1792062829"
   }
 }
