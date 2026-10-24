@@ -60799,7 +60799,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-15336",
     "price": 121103.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/kavishka-kaasu-malai-necklace?variant=gid://shopify/ProductVariant/48842794729699",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15336_2.jpg?v=1776691152"
   },
@@ -61347,8 +61347,8 @@
     "product_title": "Elegant Nagas Choker",
     "variant_title": "Default Title",
     "sku": "AMS-102-15468",
-    "price": 41600.0,
-    "stock": 1,
+    "price": 42800.0,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/nagas-choker-5?variant=gid://shopify/ProductVariant/48876506448099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15468.jpg?v=1777295456"
   },
@@ -105713,15 +105713,6 @@
     "url": "https://www.theamethyststore.com/products/grand-victorian-long-necklace-set?variant=gid://shopify/ProductVariant/67656020328675",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18804.jpg?v=1791612142"
   },
-  "gid://shopify/ProductVariant/67656037204195": {
-    "product_title": "Adorning Beads Chain",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-2202",
-    "price": 7600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/adorning-beads-chain?variant=gid://shopify/ProductVariant/67656037204195",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2202.jpg?v=1791612367"
-  },
   "gid://shopify/ProductVariant/67656049754339": {
     "product_title": "Elevated Elegance Dual Tone Long Necklace",
     "variant_title": "Default Title",
@@ -110191,7 +110182,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5528",
     "price": 20790.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/vibrantly-decorated-stone-pendant?variant=gid://shopify/ProductVariant/67753793421539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5528.jpg?v=1792502278"
   },
@@ -149092,6 +149083,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/crafted-uniqueness-stone-drops?variant=gid://shopify/ProductVariant/67655810613475",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16336.jpg?v=1791609468"
+  },
+  "gid://shopify/ProductVariant/67656037204195": {
+    "product_title": "Adorning Beads Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2202",
+    "price": 7600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/adorning-beads-chain?variant=gid://shopify/ProductVariant/67656037204195",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2202.jpg?v=1791612367"
   },
   "gid://shopify/ProductVariant/67656168341731": {
     "product_title": "Navya Dual Tone Long Necklace",
