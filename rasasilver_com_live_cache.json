@@ -10727,15 +10727,6 @@
     "url": "https://www.rasasilver.com/products/pear-bloom-victorian-danglers?variant=gid://shopify/ProductVariant/52528055124265",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0085copy.jpg?v=1770100901"
   },
-  "gid://shopify/ProductVariant/52534804119849": {
-    "product_title": "Irisglow Victorian Danglers",
-    "variant_title": "Default Title",
-    "sku": "R22146",
-    "price": 7440.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/irisglow-victorian-danglers?variant=gid://shopify/ProductVariant/52534804119849",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0282copy_2edce431-3111-4b4f-9fd2-7c187d3a2db0.jpg?v=1770103935"
-  },
   "gid://shopify/ProductVariant/52534867231017": {
     "product_title": "Coraline Jadau Jhumki",
     "variant_title": "Default Title",
@@ -23884,15 +23875,6 @@
     "stock": 2,
     "url": "https://www.rasasilver.com/products/parijatha-temple-bangles?variant=gid://shopify/ProductVariant/67568985047337",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct3200.jpg?v=1791370461"
-  },
-  "gid://shopify/ProductVariant/67568992747817": {
-    "product_title": "Bala Tripura Temple Pendant",
-    "variant_title": "Default Title",
-    "sku": "R37587",
-    "price": 10965.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/bala-tripura-temple-pendant?variant=gid://shopify/ProductVariant/67568992747817",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct21249.jpg?v=1791370633"
   },
   "gid://shopify/ProductVariant/67569011851561": {
     "product_title": "Santan Lakshmi Temple Pendant",
@@ -37916,6 +37898,15 @@
     "url": "https://www.rasasilver.com/products/verdaflora-victorian-danglers?variant=gid://shopify/ProductVariant/52534786031913",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0119copy_5e43e401-19a1-41f0-90e1-9de957be4819.jpg?v=1770101092"
   },
+  "gid://shopify/ProductVariant/52534804119849": {
+    "product_title": "Irisglow Victorian Danglers",
+    "variant_title": "Default Title",
+    "sku": "R22146",
+    "price": 7440.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/irisglow-victorian-danglers?variant=gid://shopify/ProductVariant/52534804119849",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0282copy_2edce431-3111-4b4f-9fd2-7c187d3a2db0.jpg?v=1770103935"
+  },
   "gid://shopify/ProductVariant/52534821683497": {
     "product_title": "Jadeform Victorian Danglers",
     "variant_title": "Default Title",
@@ -49039,6 +49030,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/abhaya-kundan-bangles?variant=gid://shopify/ProductVariant/67568317792553",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct3089.jpg?v=1791369397"
+  },
+  "gid://shopify/ProductVariant/67568992747817": {
+    "product_title": "Bala Tripura Temple Pendant",
+    "variant_title": "Default Title",
+    "sku": "R37587",
+    "price": 10965.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/bala-tripura-temple-pendant?variant=gid://shopify/ProductVariant/67568992747817",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct21249.jpg?v=1791370633"
   },
   "gid://shopify/ProductVariant/67601923244329": {
     "product_title": "Navya Adjustable CZ Ring",
