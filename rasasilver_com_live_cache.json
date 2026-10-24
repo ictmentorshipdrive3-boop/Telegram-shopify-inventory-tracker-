@@ -13517,15 +13517,6 @@
     "url": "https://www.rasasilver.com/products/shikhi-kundan-beads-necklace?variant=gid://shopify/ProductVariant/52805095522601",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/RasaSiver_115_Pics_6Mar36726_resized.jpg?v=1773820684"
   },
-  "gid://shopify/ProductVariant/52807947321641": {
-    "product_title": "Mayuri Kundan Necklace",
-    "variant_title": "Default Title",
-    "sku": "R26477",
-    "price": 67660.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/mayuri-kundan-beads-necklace?variant=gid://shopify/ProductVariant/52807947321641",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/RasaSiver_115_Pics_6Mar36732_resized.jpg?v=1773828726"
-  },
   "gid://shopify/ProductVariant/52807989166377": {
     "product_title": "Pavala Kasu Temple Set",
     "variant_title": "Default Title",
@@ -19453,7 +19444,7 @@
     "variant_title": "Default Title",
     "sku": "R32938",
     "price": 5525.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.rasasilver.com/products/lakshmi-divine-temple-studs?variant=gid://shopify/ProductVariant/53346875539753",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July02311.jpg?v=1786341637"
   },
@@ -41038,6 +41029,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/aishwarya-lakshmi-temple-earring?variant=gid://shopify/ProductVariant/52846820852009",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_9Mar0888_resized.jpg?v=1773814951"
+  },
+  "gid://shopify/ProductVariant/52807947321641": {
+    "product_title": "Mayuri Kundan Necklace",
+    "variant_title": "Default Title",
+    "sku": "R26477",
+    "price": 67660.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/mayuri-kundan-beads-necklace?variant=gid://shopify/ProductVariant/52807947321641",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/RasaSiver_115_Pics_6Mar36732_resized.jpg?v=1773828726"
   },
   "gid://shopify/ProductVariant/52807967408425": {
     "product_title": "Sri Gajendra Temple Pendant",
