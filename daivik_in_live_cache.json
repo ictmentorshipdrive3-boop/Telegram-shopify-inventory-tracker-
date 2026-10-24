@@ -6637,7 +6637,7 @@
     "variant_title": "Default Title",
     "sku": "920",
     "price": 999.0,
-    "stock": 42,
+    "stock": 41,
     "url": "https://www.daivik.in/products/ad-rubygreen-jhumkas-with-attached-mattel-s?variant=gid://shopify/ProductVariant/45363709771998",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FE914FE7-C858-449F-842B-F29124E5954E.jpg?v=1715608816"
   },
@@ -9175,7 +9175,7 @@
     "variant_title": "Green",
     "sku": "1133",
     "price": 2599.0,
-    "stock": 15,
+    "stock": 14,
     "url": "https://www.daivik.in/products/ad-ruby-green-pendant-long-haram?variant=gid://shopify/ProductVariant/46264545312990",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0A564539-7321-42FF-8391-5FEC27583520.jpg?v=1730993718"
   },
@@ -11515,7 +11515,7 @@
     "variant_title": "Default Title",
     "sku": "1266",
     "price": 1799.0,
-    "stock": 7,
+    "stock": 2,
     "url": "https://www.daivik.in/products/ad-pendant-flower-necklace-with-earrings?variant=gid://shopify/ProductVariant/46813927243998",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C971D71F-3CE6-45A1-B760-CE5864EB1EC7.jpg?v=1747924955"
   },
@@ -17410,7 +17410,7 @@
     "variant_title": "Ruby",
     "sku": "1829",
     "price": 199.0,
-    "stock": 29,
+    "stock": 28,
     "url": "https://www.daivik.in/products/ad-flower-nosepin-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/47942757613790",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E847D47E-8B9B-40B8-8357-7DF0DAF59373.jpg?v=1772464194"
   },
@@ -17764,15 +17764,6 @@
     "stock": 5,
     "url": "https://www.daivik.in/products/rashmika-mandanna-inspired-antique-bridal-jewellery?variant=gid://shopify/ProductVariant/48022270148830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3E051AAE-E0C6-42D0-981A-FF39F43F99FA.jpg?v=1774428452"
-  },
-  "gid://shopify/ProductVariant/48036280369374": {
-    "product_title": "Antique Bridal Temple Handcrafted Necklace with Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "577",
-    "price": 9999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/antique-bridal-temple-handcrafted-necklace-with-jhumkas?variant=gid://shopify/ProductVariant/48036280369374",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8704.jpg?v=1774542686"
   },
   "gid://shopify/ProductVariant/48039749320926": {
     "product_title": "Antique Royal Elephant and Horse Magnetic Brooch (Price for Each)",
@@ -19102,7 +19093,7 @@
     "variant_title": "Default Title",
     "sku": "1899",
     "price": 599.0,
-    "stock": 26,
+    "stock": 25,
     "url": "https://www.daivik.in/products/ad-temple-style-lakshmi-earrings?variant=gid://shopify/ProductVariant/48292121084126",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG-0962.jpg?v=1780140382"
   },
@@ -25078,7 +25069,7 @@
     "variant_title": "Default Title",
     "sku": "1986",
     "price": 399.0,
-    "stock": 27,
+    "stock": 26,
     "url": "https://www.daivik.in/products/lakshmi-kids-adult-jhumkas?variant=gid://shopify/ProductVariant/49203701383390",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6327C5CA-76E2-45CD-95CB-1B7691AAF00E.jpg?v=1791890534"
   },
@@ -25303,7 +25294,7 @@
     "variant_title": "Default Title",
     "sku": "351",
     "price": 799.0,
-    "stock": 27,
+    "stock": 26,
     "url": "https://www.daivik.in/products/necklace?variant=gid://shopify/ProductVariant/49242253721822",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7E33E2A9-0EA4-4A83-9C7E-5A81478B59E0.jpg?v=1792428269"
   },
@@ -34450,6 +34441,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/premium-pearl-ad-kada-1?variant=gid://shopify/ProductVariant/48029717856478",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8696.jpg?v=1774524475"
+  },
+  "gid://shopify/ProductVariant/48036280369374": {
+    "product_title": "Antique Bridal Temple Handcrafted Necklace with Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "577",
+    "price": 9999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/antique-bridal-temple-handcrafted-necklace-with-jhumkas?variant=gid://shopify/ProductVariant/48036280369374",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8704.jpg?v=1774542686"
   },
   "gid://shopify/ProductVariant/48044359418078": {
     "product_title": "Diamond look alike AD Floral Hipchain",
