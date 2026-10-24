@@ -101789,15 +101789,6 @@
     "url": "https://www.theamethyststore.com/products/ishvaya-stone-studs?variant=gid://shopify/ProductVariant/67595184734435",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16301.jpg?v=1790596966"
   },
-  "gid://shopify/ProductVariant/67595191550179": {
-    "product_title": "Rivaara Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-16303",
-    "price": 7957.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/rivaara-stone-studs?variant=gid://shopify/ProductVariant/67595191550179",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16303.jpg?v=1790597160"
-  },
   "gid://shopify/ProductVariant/67595196530915": {
     "product_title": "Saanvika  Stone Studs",
     "variant_title": "Default Title",
@@ -105754,7 +105745,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16513",
     "price": 25851.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/radiant-glow-kundan-earrings?variant=gid://shopify/ProductVariant/67653108990179",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16513.jpg?v=1791550613"
   },
@@ -106519,7 +106510,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5311",
     "price": 20600.0,
-    "stock": 3,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/vibrant-stone-pendant?variant=gid://shopify/ProductVariant/67661773537507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5311.jpg?v=1791728012"
   },
@@ -110992,7 +110983,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16575",
     "price": 5400.0,
-    "stock": 3,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/gaja-inspired-3d-spl-jhumkas?variant=gid://shopify/ProductVariant/67771848261859",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16575.jpg?v=1792654555"
   },
@@ -148642,6 +148633,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/zelmora-stone-studs?variant=gid://shopify/ProductVariant/67594959356131",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16291_c29f60bc-6194-4ee6-a87b-388d4430af0c.jpg?v=1790592982"
+  },
+  "gid://shopify/ProductVariant/67595191550179": {
+    "product_title": "Rivaara Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16303",
+    "price": 7957.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/rivaara-stone-studs?variant=gid://shopify/ProductVariant/67595191550179",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16303.jpg?v=1790597160"
   },
   "gid://shopify/ProductVariant/67598836072675": {
     "product_title": "Gleaning Stone Mini Choker",
