@@ -2551,7 +2551,7 @@
     "variant_title": "Default Title",
     "sku": "R17414",
     "price": 11520.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.rasasilver.com/products/kamala-ranjani-pendant?variant=gid://shopify/ProductVariant/50649020530985",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/3-3_f478139a-0244-4978-b152-93784f4cb5cd.jpg?v=1754029643"
   },
@@ -15676,15 +15676,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/sugandha-kundan-jhumki-copy-3?variant=gid://shopify/ProductVariant/52916183433513",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00125copy_resized_0bd5ab4e-a65b-4f22-86a3-8585a53d77c7.jpg?v=1775804989"
-  },
-  "gid://shopify/ProductVariant/52916276494633": {
-    "product_title": "Morpriya Nakshi Jhumki",
-    "variant_title": "Default Title",
-    "sku": "R11185",
-    "price": 18270.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/morpriya-nakshi-jhumki?variant=gid://shopify/ProductVariant/52916276494633",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00103copy_resized_68c40438-7a9c-4bbd-80c6-552a698f8625.jpg?v=1775653179"
   },
   "gid://shopify/ProductVariant/52916318241065": {
     "product_title": "Perelle Stone Jhumki",
@@ -43432,6 +43423,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/sugandha-kundan-jhumki-copy-4?variant=gid://shopify/ProductVariant/52916228227369",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00112copy_resized_fc881ceb-eff0-4049-bb64-952a6330ba2c.jpg?v=1775652854"
+  },
+  "gid://shopify/ProductVariant/52916276494633": {
+    "product_title": "Morpriya Nakshi Jhumki",
+    "variant_title": "Default Title",
+    "sku": "R11185",
+    "price": 18270.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/morpriya-nakshi-jhumki?variant=gid://shopify/ProductVariant/52916276494633",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00103copy_resized_68c40438-7a9c-4bbd-80c6-552a698f8625.jpg?v=1775653179"
   },
   "gid://shopify/ProductVariant/52916286030121": {
     "product_title": "Peariva Stone Jhumki",
