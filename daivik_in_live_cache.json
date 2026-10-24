@@ -11249,15 +11249,6 @@
     "url": "https://www.daivik.in/products/moon-chandiran-kemp-jadau-bugadi?variant=gid://shopify/ProductVariant/47941914231006",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/625EEF49-0960-49F1-BEF1-983F2DD26E61.jpg?v=1745678929"
   },
-  "gid://shopify/ProductVariant/46641514021086": {
-    "product_title": "Kemp Jadau Bugadi",
-    "variant_title": "Default Title",
-    "sku": "1601",
-    "price": 799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/kemp-jadau-bugadi?variant=gid://shopify/ProductVariant/46641514021086",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CB5ABDC8-5C29-4FFF-A6DB-47E2CBF6855A.jpg?v=1745678929"
-  },
   "gid://shopify/ProductVariant/46643685359838": {
     "product_title": "Simple Antique Thin Hipchain in 5 Variants ( Price for Each )",
     "variant_title": "4",
@@ -20317,7 +20308,7 @@
     "variant_title": "Default Title",
     "sku": "316",
     "price": 1499.0,
-    "stock": 30,
+    "stock": 29,
     "url": "https://www.daivik.in/products/diamond-look-alike-3-layer-flower-neckalace-with-earrings?variant=gid://shopify/ProductVariant/48630564880606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1184.jpg?v=1787466208"
   },
@@ -21748,7 +21739,7 @@
     "variant_title": "Default Title",
     "sku": "D26078",
     "price": 1499.0,
-    "stock": 15,
+    "stock": 14,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26078?variant=gid://shopify/ProductVariant/49149627072734",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6457_4dcd9c02-4105-413a-9017-7b9bd11ad729.jpg?v=1791223573"
   },
@@ -23467,7 +23458,7 @@
     "variant_title": "Default Title",
     "sku": "D26177",
     "price": 499.0,
-    "stock": 34,
+    "stock": 33,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26177?variant=gid://shopify/ProductVariant/49169797808350",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7298.jpg?v=1791532803"
   },
@@ -31678,6 +31669,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/floral-kemp-jadau-bugadi?variant=gid://shopify/ProductVariant/46641587454174",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B07640AF-C4B3-462E-85D3-56E83AC30C0F.jpg?v=1745679389"
+  },
+  "gid://shopify/ProductVariant/46641514021086": {
+    "product_title": "Kemp Jadau Bugadi",
+    "variant_title": "Default Title",
+    "sku": "1601",
+    "price": 799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/kemp-jadau-bugadi?variant=gid://shopify/ProductVariant/46641514021086",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CB5ABDC8-5C29-4FFF-A6DB-47E2CBF6855A.jpg?v=1745678929"
   },
   "gid://shopify/ProductVariant/46643685261534": {
     "product_title": "Simple Antique Thin Hipchain in 5 Variants ( Price for Each )",
