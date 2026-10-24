@@ -211,7 +211,7 @@
     "variant_title": "Default Title",
     "sku": "R1526",
     "price": 2890.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.rasasilver.com/products/kundan-nath?variant=gid://shopify/ProductVariant/49855900451113",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-34_d498d6ad-5c3a-4fdf-b147-520b19be8a5a.jpg?v=1739427458"
   },
@@ -10511,15 +10511,6 @@
     "url": "https://www.rasasilver.com/products/loin-chain-pendant?variant=gid://shopify/ProductVariant/52520495841577",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0140copy_resized_aa8beda6-b6b2-4e69-84fb-94e81dc6ddc0.jpg?v=1769608938"
   },
-  "gid://shopify/ProductVariant/52524922831145": {
-    "product_title": "Navara Bloom Earrings",
-    "variant_title": "Default Title",
-    "sku": "R25101",
-    "price": 4080.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/navara-bloom-earrings?variant=gid://shopify/ProductVariant/52524922831145",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0149_copy.jpg?v=1761373192"
-  },
   "gid://shopify/ProductVariant/52526677295401": {
     "product_title": "Veralune Jadau Danglers",
     "variant_title": "Default Title",
@@ -14280,15 +14271,6 @@
     "price": 47940.0,
     "stock": 1,
     "url": "https://www.rasasilver.com/products/shrinvitha-stone-short-necklace?variant=gid://shopify/ProductVariant/52831814353193",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar0212_resized.jpg?v=1774533088"
-  },
-  "gid://shopify/ProductVariant/52831814385961": {
-    "product_title": "Shrinvitha Stone Necklace",
-    "variant_title": "Ruby Pink",
-    "sku": "R26193",
-    "price": 55900.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/shrinvitha-stone-short-necklace?variant=gid://shopify/ProductVariant/52831814385961",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar0212_resized.jpg?v=1774533088"
   },
   "gid://shopify/ProductVariant/52831819956521": {
@@ -23881,7 +23863,7 @@
     "variant_title": "2.4",
     "sku": "R37632",
     "price": 33830.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/parijatha-temple-bangles?variant=gid://shopify/ProductVariant/67568985047337",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct3200.jpg?v=1791370461"
   },
@@ -37529,6 +37511,15 @@
     "url": "https://www.rasasilver.com/products/pushti-pasalu-earrings-1?variant=gid://shopify/ProductVariant/52524914999593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP05629_copy.jpg?v=1743660562"
   },
+  "gid://shopify/ProductVariant/52524922831145": {
+    "product_title": "Navara Bloom Earrings",
+    "variant_title": "Default Title",
+    "sku": "R25101",
+    "price": 4080.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/navara-bloom-earrings?variant=gid://shopify/ProductVariant/52524922831145",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0149_copy.jpg?v=1761373192"
+  },
   "gid://shopify/ProductVariant/52524934496553": {
     "product_title": "Morangika Stud",
     "variant_title": "Default Title",
@@ -41866,6 +41857,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/vamshika-short-temple-necklace?variant=gid://shopify/ProductVariant/52831748981033",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar0082_resized.jpg?v=1774532233"
+  },
+  "gid://shopify/ProductVariant/52831814385961": {
+    "product_title": "Shrinvitha Stone Necklace",
+    "variant_title": "Ruby Pink",
+    "sku": "R26193",
+    "price": 55900.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/shrinvitha-stone-short-necklace?variant=gid://shopify/ProductVariant/52831814385961",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar0212_resized.jpg?v=1774533088"
   },
   "gid://shopify/ProductVariant/52831849808169": {
     "product_title": "Mangala Sutrika Nakshi Necklace",
