@@ -21991,7 +21991,7 @@
     "variant_title": "Default Title",
     "sku": "1983",
     "price": 699.0,
-    "stock": 27,
+    "stock": 26,
     "url": "https://www.daivik.in/products/simple-antique-ad-jhumkas-with-mattal?variant=gid://shopify/ProductVariant/49149774004446",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BBC1D9BD-0761-4C5D-ACA9-806510AD15E1.jpg?v=1791111714"
   },
@@ -23377,7 +23377,7 @@
     "variant_title": "Default Title",
     "sku": "D26149",
     "price": 699.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26149?variant=gid://shopify/ProductVariant/49169775689950",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6970.jpg?v=1791468612"
   },
@@ -24622,15 +24622,6 @@
     "stock": 12,
     "url": "https://www.daivik.in/products/diwali-sale-anklets-d26702?variant=gid://shopify/ProductVariant/49178383810782",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_72522.jpg?v=1791538002"
-  },
-  "gid://shopify/ProductVariant/49178383843550": {
-    "product_title": "Diwali Sale Anklets D26703 (Reversible )",
-    "variant_title": "Default Title",
-    "sku": "D26703",
-    "price": 499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-anklets-reversible-d26703?variant=gid://shopify/ProductVariant/49178383843550",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_72542.jpg?v=1791538009"
   },
   "gid://shopify/ProductVariant/49178383909086": {
     "product_title": "Diwali Sale Anklets D26704",
@@ -35971,6 +35962,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26640?variant=gid://shopify/ProductVariant/49178383614174",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7246.jpg?v=1791537733"
+  },
+  "gid://shopify/ProductVariant/49178383843550": {
+    "product_title": "Diwali Sale Anklets D26703 (Reversible )",
+    "variant_title": "Default Title",
+    "sku": "D26703",
+    "price": 499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-anklets-reversible-d26703?variant=gid://shopify/ProductVariant/49178383843550",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_72542.jpg?v=1791538009"
   },
   "gid://shopify/ProductVariant/49178384203998": {
     "product_title": "Diwali Sale Hipbelt D26802",
