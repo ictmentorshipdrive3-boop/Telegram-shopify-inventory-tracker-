@@ -19498,7 +19498,7 @@
     "variant_title": "Green",
     "sku": "1917",
     "price": 1499.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/untitled-jun22_11-39-48?variant=gid://shopify/ProductVariant/48375886086366",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A51D4055-7BB0-4DD4-8D3F-08086AFF54DF.jpg?v=1782108718"
   },
@@ -21595,7 +21595,7 @@
     "variant_title": "Default Title",
     "sku": "D26055",
     "price": 999.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26055?variant=gid://shopify/ProductVariant/49149626155230",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6367_579f28ac-c7b2-460b-b916-1701f6e662f5.jpg?v=1791223058"
   },
@@ -22504,7 +22504,7 @@
     "variant_title": "Default Title",
     "sku": "D26360",
     "price": 549.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26360?variant=gid://shopify/ProductVariant/49162125312222",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6682.jpg?v=1791444432"
   },
@@ -22751,15 +22751,6 @@
     "url": "https://www.daivik.in/products/mango-kemp-bangles?variant=gid://shopify/ProductVariant/49163418337502",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_2646.jpg?v=1791392348"
   },
-  "gid://shopify/ProductVariant/49163418370270": {
-    "product_title": "Mango Kemp Bangles",
-    "variant_title": "2.6",
-    "sku": "1984",
-    "price": 1299.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/mango-kemp-bangles?variant=gid://shopify/ProductVariant/49163418370270",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_2646.jpg?v=1791392348"
-  },
   "gid://shopify/ProductVariant/49163418403038": {
     "product_title": "Mango Kemp Bangles",
     "variant_title": "2.8",
@@ -22801,7 +22792,7 @@
     "variant_title": "Default Title",
     "sku": "D26095",
     "price": 899.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26095?variant=gid://shopify/ProductVariant/49169741545694",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6755.jpg?v=1791457246"
   },
@@ -22999,7 +22990,7 @@
     "variant_title": "Green",
     "sku": "D26115",
     "price": 649.0,
-    "stock": 38,
+    "stock": 37,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26115?variant=gid://shopify/ProductVariant/49169751507166",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_68372.jpg?v=1791457495"
   },
@@ -23458,7 +23449,7 @@
     "variant_title": "Default Title",
     "sku": "D26160",
     "price": 199.0,
-    "stock": 30,
+    "stock": 29,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26160?variant=gid://shopify/ProductVariant/49169786536158",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70262.jpg?v=1791532501"
   },
@@ -23899,7 +23890,7 @@
     "variant_title": "Default Title",
     "sku": "D26515",
     "price": 1099.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d26515?variant=gid://shopify/ProductVariant/49178380763358",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70712.jpg?v=1791535719"
   },
@@ -24943,7 +24934,7 @@
     "variant_title": "Multi",
     "sku": "D26395",
     "price": 399.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26395?variant=gid://shopify/ProductVariant/49183624134878",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7352.jpg?v=1791627002"
   },
@@ -35584,6 +35575,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26385?variant=gid://shopify/ProductVariant/49162136453342",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6750.jpg?v=1791444871"
+  },
+  "gid://shopify/ProductVariant/49163418370270": {
+    "product_title": "Mango Kemp Bangles",
+    "variant_title": "2.6",
+    "sku": "1984",
+    "price": 1299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/mango-kemp-bangles?variant=gid://shopify/ProductVariant/49163418370270",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_2646.jpg?v=1791392348"
   },
   "gid://shopify/ProductVariant/49169740955870": {
     "product_title": "Diwali Sale Necklace D26094",
