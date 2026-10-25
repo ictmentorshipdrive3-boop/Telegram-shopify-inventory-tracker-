@@ -88357,7 +88357,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17459",
     "price": 73900.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/amazing-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/49562858553571",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17459.jpg?v=1787211209"
   },
@@ -88609,7 +88609,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17453",
     "price": 48700.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/diamond-design-necklace-set-2?variant=gid://shopify/ProductVariant/49563457093859",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17453.jpg?v=1787224149"
   },
@@ -94810,7 +94810,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17996",
     "price": 85300.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/vivid-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49708552454371",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17996.jpg?v=1788932616"
   },
@@ -95395,7 +95395,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18063",
     "price": 63500.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/dhivyaa-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/49715206455523",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18063.jpg?v=1789045011"
   },
@@ -100565,15 +100565,6 @@
     "url": "https://www.theamethyststore.com/products/vershikaa-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/67593076736227",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18211.jpg?v=1790573295"
   },
-  "gid://shopify/ProductVariant/67593085157603": {
-    "product_title": "Liana  Diamond Design Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-18214",
-    "price": 26300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/liana-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/67593085157603",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18214.jpg?v=1790573557"
-  },
   "gid://shopify/ProductVariant/67593085485283": {
     "product_title": "Timeless Treasure Nagas Long Necklace",
     "variant_title": "Default Title",
@@ -104638,7 +104629,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18715",
     "price": 23400.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/niharikhaa-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/67651681550563",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18715.jpg?v=1791531273"
   },
@@ -109237,7 +109228,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-2521",
     "price": 17402.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/charm-hair-maatal?variant=gid://shopify/ProductVariant/67726966161635",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2521.jpg?v=1792301619"
   },
@@ -109372,7 +109363,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18818",
     "price": 52000.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/unique-nakshi-short-necklace-set?variant=gid://shopify/ProductVariant/67728168517859",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18818.jpg?v=1792322914"
   },
@@ -148507,6 +148498,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/beyond-trends-nagas-long-necklace?variant=gid://shopify/ProductVariant/67588475715811",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18331.jpg?v=1790512358"
+  },
+  "gid://shopify/ProductVariant/67593085157603": {
+    "product_title": "Liana  Diamond Design Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18214",
+    "price": 26300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/liana-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/67593085157603",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18214.jpg?v=1790573557"
   },
   "gid://shopify/ProductVariant/67593177596131": {
     "product_title": "Graceful Nagas Long Necklace",
