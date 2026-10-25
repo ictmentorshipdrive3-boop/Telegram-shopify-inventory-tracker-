@@ -11497,7 +11497,7 @@
     "variant_title": "Dark Green",
     "sku": "1270",
     "price": 1099.0,
-    "stock": 44,
+    "stock": 43,
     "url": "https://www.daivik.in/products/peacock-lakshmi-long-chain-with-jhumkas?variant=gid://shopify/ProductVariant/46838455369950",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BF72B86F-354C-4C76-89BC-326D9C2E6F73.jpg?v=1748275651"
   },
@@ -23809,7 +23809,7 @@
     "variant_title": "2.6",
     "sku": "D26523",
     "price": 599.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d26523?variant=gid://shopify/ProductVariant/49178381156574",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70912.jpg?v=1791535824"
   },
@@ -25037,21 +25037,12 @@
     "url": "https://www.daivik.in/products/ad-ruby-green-balis?variant=gid://shopify/ProductVariant/49230125564126",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3922.heic?v=1792254792"
   },
-  "gid://shopify/ProductVariant/49230129037534": {
-    "product_title": "Hydrodoublet Small Balis",
-    "variant_title": "Default Title",
-    "sku": "1995",
-    "price": 599.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/hydrodoublet-small-balis?variant=gid://shopify/ProductVariant/49230129037534",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3924.heic?v=1792254982"
-  },
   "gid://shopify/ProductVariant/49242253721822": {
     "product_title": "Simple AD Peacock Necklace with Earrings",
     "variant_title": "Default Title",
     "sku": "351",
     "price": 799.0,
-    "stock": 24,
+    "stock": 23,
     "url": "https://www.daivik.in/products/necklace?variant=gid://shopify/ProductVariant/49242253721822",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7E33E2A9-0EA4-4A83-9C7E-5A81478B59E0.jpg?v=1792428269"
   },
@@ -36169,5 +36160,14 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26395?variant=gid://shopify/ProductVariant/49183624134878",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7352.jpg?v=1791627002"
+  },
+  "gid://shopify/ProductVariant/49230129037534": {
+    "product_title": "Hydrodoublet Small Balis",
+    "variant_title": "Default Title",
+    "sku": "1995",
+    "price": 599.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/hydrodoublet-small-balis?variant=gid://shopify/ProductVariant/49230129037534",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3924.heic?v=1792254982"
   }
 }
