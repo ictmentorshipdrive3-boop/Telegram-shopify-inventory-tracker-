@@ -105596,15 +105596,6 @@
     "url": "https://www.theamethyststore.com/products/vivid-ornate-mugappu-chain?variant=gid://shopify/ProductVariant/67660774998243",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2364.jpg?v=1791701691"
   },
-  "gid://shopify/ProductVariant/67660776866019": {
-    "product_title": "Awe-Inspired Mugappu Chain",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-2363",
-    "price": 24472.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/awe-inspired-mugappu-chain?variant=gid://shopify/ProductVariant/67660776866019",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2363.jpg?v=1791702184"
-  },
   "gid://shopify/ProductVariant/67660823232739": {
     "product_title": "Elegant Art Mugappu Chain",
     "variant_title": "Default Title",
@@ -109246,7 +109237,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-2521",
     "price": 17402.0,
-    "stock": 5,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/charm-hair-maatal?variant=gid://shopify/ProductVariant/67726966161635",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2521.jpg?v=1792301619"
   },
@@ -110353,7 +110344,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16570",
     "price": 5600.0,
-    "stock": 4,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/artfully-made-3d-spl-jhumaks?variant=gid://shopify/ProductVariant/67771331838179",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16570.jpg?v=1792652431"
   },
@@ -149083,6 +149074,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/bloom-mugappu-chain?variant=gid://shopify/ProductVariant/67660735119587",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2373.jpg?v=1791698318"
+  },
+  "gid://shopify/ProductVariant/67660776866019": {
+    "product_title": "Awe-Inspired Mugappu Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2363",
+    "price": 24472.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/awe-inspired-mugappu-chain?variant=gid://shopify/ProductVariant/67660776866019",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2363.jpg?v=1791702184"
   },
   "gid://shopify/ProductVariant/67661367050467": {
     "product_title": "Radiant Beads Chain",
