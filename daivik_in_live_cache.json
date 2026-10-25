@@ -139,7 +139,7 @@
     "variant_title": "Default Title",
     "sku": "105",
     "price": 999.0,
-    "stock": 36,
+    "stock": 35,
     "url": "https://www.daivik.in/products/105?variant=gid://shopify/ProductVariant/32649702342715",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_7948.jpg?v=1584428326"
   },
@@ -598,7 +598,7 @@
     "variant_title": "Default Title",
     "sku": "411",
     "price": 5999.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/intricately-designed-ad-stone-long-haram-with-earrings?variant=gid://shopify/ProductVariant/36832939016345",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/intricately-designed-ad-stone-long-haram-with-earrings-neckwearnecklace-334.jpg?v=1603433763"
   },
@@ -2191,7 +2191,7 @@
     "variant_title": "Default Title",
     "sku": "118",
     "price": 1999.0,
-    "stock": 21,
+    "stock": 20,
     "url": "https://www.daivik.in/products/1-1?variant=gid://shopify/ProductVariant/42679268770014",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_b2eb70ab-b56b-4c92-8e8d-9507a88785eb.heic?v=1649767832"
   },
@@ -2446,15 +2446,6 @@
     "stock": 8,
     "url": "https://www.daivik.in/products/a-183?variant=gid://shopify/ProductVariant/43040268452062",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_f29d2896-93ed-441c-b0e4-4c36e2768675.heic?v=1656602196"
-  },
-  "gid://shopify/ProductVariant/43057931223262": {
-    "product_title": "AD Antique Gold Finish Lakshmi Hipbelt",
-    "variant_title": "Default Title",
-    "sku": "581",
-    "price": 5999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/a-144?variant=gid://shopify/ProductVariant/43057931223262",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_89a651cf-4620-421f-9548-1b0208432112.heic?v=1656949035"
   },
   "gid://shopify/ProductVariant/43082516758750": {
     "product_title": "Antique Gold Lakshmi Necklace",
@@ -5872,7 +5863,7 @@
     "variant_title": "Default Title",
     "sku": "573",
     "price": 1999.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/navarathna-droplet-necklace-with-earrings?variant=gid://shopify/ProductVariant/44769327874270",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2D5FDA71-494E-4D32-B3C4-43AE01F04EA4.jpg?v=1707321822"
   },
@@ -15943,7 +15934,7 @@
     "variant_title": "Default Title",
     "sku": "1342",
     "price": 2999.0,
-    "stock": 13,
+    "stock": 12,
     "url": "https://www.daivik.in/products/hasli-victorian-pendant-neckalce-with-earrings?variant=gid://shopify/ProductVariant/47711238815966",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0C434268-6741-4FC3-9433-5F72FF4ACF6F.jpg?v=1764173589"
   },
@@ -19534,7 +19525,7 @@
     "variant_title": "Default Title",
     "sku": "485",
     "price": 899.0,
-    "stock": 46,
+    "stock": 45,
     "url": "https://www.daivik.in/products/elakkathali-ruby-choker-with-earrings?variant=gid://shopify/ProductVariant/48403799408862",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6A18C555-AF72-4C73-B410-F4E8C48D53A0.jpg?v=1782993326"
   },
@@ -23989,7 +23980,7 @@
     "variant_title": "Green",
     "sku": "D26607",
     "price": 999.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26607?variant=gid://shopify/ProductVariant/49178382336222",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7169.jpg?v=1791537291"
   },
@@ -26683,6 +26674,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/a-160?variant=gid://shopify/ProductVariant/42970894663902",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_43c466a8-ed91-4a59-8b36-c2438dac61fd.heic?v=1655463556"
+  },
+  "gid://shopify/ProductVariant/43057931223262": {
+    "product_title": "AD Antique Gold Finish Lakshmi Hipbelt",
+    "variant_title": "Default Title",
+    "sku": "581",
+    "price": 5999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/a-144?variant=gid://shopify/ProductVariant/43057931223262",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_89a651cf-4620-421f-9548-1b0208432112.heic?v=1656949035"
   },
   "gid://shopify/ProductVariant/43057984766174": {
     "product_title": "Antique Gold Finish Lakshmi Hipbelt",
