@@ -6497,15 +6497,6 @@
     "url": "https://www.dulhanjewels.com/products/unique-jadau-kundan-nantad-necklace?variant=gid://shopify/ProductVariant/68012601934130",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/22FCF972-6C95-4870-8A87-C6107C95E8EB.jpg?v=1792664183"
   },
-  "gid://shopify/ProductVariant/68012606882098": {
-    "product_title": "Elegant Gold Style Jadau Kundan Kasulu Haram",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 3800.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/elegant-gold-style-jadau-kundan-kasulu-haram?variant=gid://shopify/ProductVariant/68012606882098",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/2633C529-7EFB-4AFF-9057-67ED237EC839.jpg?v=1792664265"
-  },
   "gid://shopify/ProductVariant/68012624052530": {
     "product_title": "Traditional Jadau Kundan Kasulu Haram With Green Drops",
     "variant_title": "Default Title",
@@ -6559,15 +6550,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/radiant-bridal-victorian-choker-with-earrings-and-maang-tikka?variant=gid://shopify/ProductVariant/68012684575026",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/AB079355-2795-473C-91B9-D4423FD50AB5.jpg?v=1792665031"
-  },
-  "gid://shopify/ProductVariant/68012700959026": {
-    "product_title": "Designer Ruby Victorian Chandbali Earrings With Pearl Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1500.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/designer-ruby-victorian-chandbali-earrings-with-pearl-drops?variant=gid://shopify/ProductVariant/68012700959026",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/705A79AD-AE5B-4445-AF6A-DDA2B40592A8.jpg?v=1792665406"
   },
   "gid://shopify/ProductVariant/68012711313714": {
     "product_title": "Royal Jadau Kundan Kasulu Haram With Lord Krishna At Center",
@@ -7064,6 +7046,15 @@
     "url": "https://www.dulhanjewels.com/products/gold-style-jadau-kundan-necklace-with-green-drops?variant=gid://shopify/ProductVariant/68012600099122",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/275CB2AB-9470-428A-8FEE-F14CBF10AAE0.jpg?v=1792664072"
   },
+  "gid://shopify/ProductVariant/68012606882098": {
+    "product_title": "Elegant Gold Style Jadau Kundan Kasulu Haram",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 3800.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/elegant-gold-style-jadau-kundan-kasulu-haram?variant=gid://shopify/ProductVariant/68012606882098",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/2633C529-7EFB-4AFF-9057-67ED237EC839.jpg?v=1792664265"
+  },
   "gid://shopify/ProductVariant/68012657836338": {
     "product_title": "Ethnic Ruby Victorian Stud Earrings With Pearl Drops",
     "variant_title": "Default Title",
@@ -7072,5 +7063,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/ethnic-ruby-victorian-stud-earrings-with-pearl-drops?variant=gid://shopify/ProductVariant/68012657836338",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_325bfeca-da2d-4ed9-915c-fc30de4dc12b.jpg?v=1792824432"
+  },
+  "gid://shopify/ProductVariant/68012700959026": {
+    "product_title": "Designer Ruby Victorian Chandbali Earrings With Pearl Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1500.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/designer-ruby-victorian-chandbali-earrings-with-pearl-drops?variant=gid://shopify/ProductVariant/68012700959026",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/705A79AD-AE5B-4445-AF6A-DDA2B40592A8.jpg?v=1792665406"
   }
 }
