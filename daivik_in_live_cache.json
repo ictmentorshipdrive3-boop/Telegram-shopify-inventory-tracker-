@@ -1309,7 +1309,7 @@
     "variant_title": "Default Title",
     "sku": "847",
     "price": 1199.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/mini-version-of-cluster-pearl-lakshmi-jhumkas?variant=gid://shopify/ProductVariant/41004873908377",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_fbd1bd67-656d-4321-b63b-6f983c6ed98f.jpg?v=1630765358"
   },
@@ -9961,15 +9961,6 @@
     "stock": 17,
     "url": "https://www.daivik.in/products/sun-moon-jada-billai-in-3-variants-price-for-a-pair?variant=gid://shopify/ProductVariant/46211783983326",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7B28FEEA-673A-404F-A519-43A3C0ED2521.jpg?v=1736715936"
-  },
-  "gid://shopify/ProductVariant/46211794075870": {
-    "product_title": "AD Peacock Antique Earcuff",
-    "variant_title": "Default Title",
-    "sku": "1538",
-    "price": 1199.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-peacock-textured-earcuff?variant=gid://shopify/ProductVariant/46211794075870",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0BE7EC98-79A3-4101-B86B-3BDF1B98EF17.jpg?v=1736716955"
   },
   "gid://shopify/ProductVariant/47069494870238": {
     "product_title": "Pure kemp Jadau Jhumkas with Pearl Mattal",
@@ -19696,7 +19687,7 @@
     "variant_title": "Default Title",
     "sku": "377",
     "price": 499.0,
-    "stock": 37,
+    "stock": 36,
     "url": "https://www.daivik.in/products/simple-leaf-invisible-chain?variant=gid://shopify/ProductVariant/48434484150494",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6F48194E-21F4-470E-AD03-FE1A254608A7.jpg?v=1784029225"
   },
@@ -21793,7 +21784,7 @@
     "variant_title": "Default Title",
     "sku": "1982",
     "price": 799.0,
-    "stock": 18,
+    "stock": 17,
     "url": "https://www.daivik.in/products/simple-floral-antique-jhumkas-with-mattal?variant=gid://shopify/ProductVariant/49149773906142",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/50290B5C-2D07-4A49-BBB4-F698CCA99EC1.jpg?v=1791111602"
   },
@@ -23575,7 +23566,7 @@
     "variant_title": "2.4",
     "sku": "D26511",
     "price": 649.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d26511?variant=gid://shopify/ProductVariant/49178380566750",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70632.jpg?v=1791535674"
   },
@@ -30805,6 +30796,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/sun-moon-jada-billai-in-3-variants-price-for-a-pair?variant=gid://shopify/ProductVariant/46211783917790",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7B28FEEA-673A-404F-A519-43A3C0ED2521.jpg?v=1736715936"
+  },
+  "gid://shopify/ProductVariant/46211794075870": {
+    "product_title": "AD Peacock Antique Earcuff",
+    "variant_title": "Default Title",
+    "sku": "1538",
+    "price": 1199.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-peacock-textured-earcuff?variant=gid://shopify/ProductVariant/46211794075870",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0BE7EC98-79A3-4101-B86B-3BDF1B98EF17.jpg?v=1736716955"
   },
   "gid://shopify/ProductVariant/46211795353822": {
     "product_title": "Pure Kemp Brass Peacock Ruby Green Earcuff",
