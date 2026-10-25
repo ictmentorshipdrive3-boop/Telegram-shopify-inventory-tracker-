@@ -211,7 +211,7 @@
     "variant_title": "Default Title",
     "sku": "R1526",
     "price": 2890.0,
-    "stock": 11,
+    "stock": 9,
     "url": "https://www.rasasilver.com/products/kundan-nath?variant=gid://shopify/ProductVariant/49855900451113",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-34_d498d6ad-5c3a-4fdf-b147-520b19be8a5a.jpg?v=1739427458"
   },
@@ -7144,15 +7144,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/mayurdhara-haaram?variant=gid://shopify/ProductVariant/51514333626665",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_5_Nov1643_resized.jpg?v=1763614607"
-  },
-  "gid://shopify/ProductVariant/51514360430889": {
-    "product_title": "Chandra Mukhi Nath",
-    "variant_title": "Default Title",
-    "sku": "R17270",
-    "price": 2080.0,
-    "stock": 2,
-    "url": "https://www.rasasilver.com/products/chandra-mukhi-nath?variant=gid://shopify/ProductVariant/51514360430889",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0148copy_resized_fbc55c41-5dd9-4af6-910f-4276f0c07cad.jpg?v=1763631525"
   },
   "gid://shopify/ProductVariant/51514401489193": {
     "product_title": "Padma Mayur Necklace",
@@ -19097,15 +19088,6 @@
     "url": "https://www.rasasilver.com/products/pearl-sampada-moissanite-matil?variant=gid://shopify/ProductVariant/53334206251305",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__12Sep2431.jpg?v=1790066680"
   },
-  "gid://shopify/ProductVariant/53334260547881": {
-    "product_title": "Dulhan Floral Kundan Nath",
-    "variant_title": "GREEN",
-    "sku": "R32181",
-    "price": 4250.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/dulhan-floral-kundan-nath?variant=gid://shopify/ProductVariant/53334260547881",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0808_resized.jpg?v=1784185283"
-  },
   "gid://shopify/ProductVariant/53334260580649": {
     "product_title": "Dulhan Floral Kundan Nath",
     "variant_title": "Swarovski",
@@ -21856,7 +21838,7 @@
     "variant_title": "Default Title",
     "sku": "R28016",
     "price": 510.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/flora-panna-stone-nose-pin?variant=gid://shopify/ProductVariant/53479146586409",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459353.jpg?v=1789123707"
   },
@@ -31822,6 +31804,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/muktika-nath?variant=gid://shopify/ProductVariant/51514348142889",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0140copy_resized.jpg?v=1767424910"
+  },
+  "gid://shopify/ProductVariant/51514360430889": {
+    "product_title": "Chandra Mukhi Nath",
+    "variant_title": "Default Title",
+    "sku": "R17270",
+    "price": 2080.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/chandra-mukhi-nath?variant=gid://shopify/ProductVariant/51514360430889",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0148copy_resized_fbc55c41-5dd9-4af6-910f-4276f0c07cad.jpg?v=1763631525"
   },
   "gid://shopify/ProductVariant/51514371539241": {
     "product_title": "Patra Nathika",
@@ -47275,6 +47266,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/moissanite-mathapatti?variant=gid://shopify/ProductVariant/53334249341225",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0847_resized.jpg?v=1784185194"
+  },
+  "gid://shopify/ProductVariant/53334260547881": {
+    "product_title": "Dulhan Floral Kundan Nath",
+    "variant_title": "GREEN",
+    "sku": "R32181",
+    "price": 4250.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/dulhan-floral-kundan-nath?variant=gid://shopify/ProductVariant/53334260547881",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0808_resized.jpg?v=1784185283"
   },
   "gid://shopify/ProductVariant/53334399746345": {
     "product_title": "Kamala Siri Kundan Bangles",
