@@ -2659,7 +2659,7 @@
     "variant_title": "Default Title",
     "sku": "R10506",
     "price": 2240.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/22?variant=gid://shopify/ProductVariant/50711518380329",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_1e8e1de6-aa7a-49e7-bc3d-3f8c5e7d73f4.jpg?v=1754911344"
   },
@@ -13175,15 +13175,6 @@
     "url": "https://www.rasasilver.com/products/rajmudra-berunda-kundan-necklace?variant=gid://shopify/ProductVariant/52779727552809",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00178copy_resized.jpg?v=1772518727"
   },
-  "gid://shopify/ProductVariant/52779778933033": {
-    "product_title": "Chakra-Mor Kundan Tikka",
-    "variant_title": "Default Title",
-    "sku": "R26060",
-    "price": 9945.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/kundan-tikka-4?variant=gid://shopify/ProductVariant/52779778933033",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00217copy_resized.jpg?v=1772518987"
-  },
   "gid://shopify/ProductVariant/52779836440873": {
     "product_title": "Rani Mor Kundan Tikka",
     "variant_title": "Default Title",
@@ -17536,7 +17527,7 @@
     "variant_title": "Default Title",
     "sku": "R31568",
     "price": 2890.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/angular-grace-hoops?variant=gid://shopify/ProductVariant/53286100631849",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5608_resized.jpg?v=1782294342"
   },
@@ -20191,7 +20182,7 @@
     "variant_title": "Default Title",
     "sku": "R32714",
     "price": 8400.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/parrot-flora-kundan-ear-cuff?variant=gid://shopify/ProductVariant/53370250690857",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0277.jpg?v=1786107163"
   },
@@ -21739,7 +21730,7 @@
     "variant_title": "Beige",
     "sku": "R32150",
     "price": 1360.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/meher-kundan-septum-ring-2?variant=gid://shopify/ProductVariant/53478955319593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459255.jpg?v=1789110275"
   },
@@ -40552,6 +40543,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/aamrapali-phool-kundan-necklace?variant=gid://shopify/ProductVariant/52779680694569",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00170copy_resized.jpg?v=1772518410"
+  },
+  "gid://shopify/ProductVariant/52779778933033": {
+    "product_title": "Chakra-Mor Kundan Tikka",
+    "variant_title": "Default Title",
+    "sku": "R26060",
+    "price": 9945.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/kundan-tikka-4?variant=gid://shopify/ProductVariant/52779778933033",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00217copy_resized.jpg?v=1772518987"
   },
   "gid://shopify/ProductVariant/52779853611305": {
     "product_title": "Kalyani Kundan Tikka",
