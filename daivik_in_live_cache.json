@@ -2065,7 +2065,7 @@
     "variant_title": "2.4",
     "sku": "220",
     "price": 999.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/floral-kemp-bangles-1?variant=gid://shopify/ProductVariant/42576990961886",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_22ba0319-7904-4892-bac7-bfdc8ae1981c.jpg?v=1647441956"
   },
@@ -16411,7 +16411,7 @@
     "variant_title": "Default Title",
     "sku": "1778",
     "price": 499.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.daivik.in/products/kemp-ruby-green-saree-pin?variant=gid://shopify/ProductVariant/47821116735710",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6116E7A9-343D-4223-8CC2-52F16A7173CB.jpg?v=1768225022"
   },
@@ -20839,7 +20839,7 @@
     "variant_title": "Default Title",
     "sku": "D26008",
     "price": 499.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26008?variant=gid://shopify/ProductVariant/49149622878430",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5951.jpg?v=1791220907"
   },
@@ -22054,7 +22054,7 @@
     "variant_title": "Default Title",
     "sku": "D26354",
     "price": 449.0,
-    "stock": 29,
+    "stock": 28,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26354?variant=gid://shopify/ProductVariant/49162124984542",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6662_1f27bf0d-a2bb-4938-b82a-0917419906e0.jpg?v=1791444102"
   },
@@ -22333,7 +22333,7 @@
     "variant_title": "Default Title",
     "sku": "D26381",
     "price": 499.0,
-    "stock": 55,
+    "stock": 54,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26381?variant=gid://shopify/ProductVariant/49162134094046",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6741.jpg?v=1791444856"
   },
@@ -23993,15 +23993,6 @@
     "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26634?variant=gid://shopify/ProductVariant/49178383384798",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7233.jpg?v=1791537709"
   },
-  "gid://shopify/ProductVariant/49178383417566": {
-    "product_title": "Diwali Sale Other Essentials D26635",
-    "variant_title": "Default Title",
-    "sku": "D26635",
-    "price": 549.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26635?variant=gid://shopify/ProductVariant/49178383417566",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7236.jpg?v=1791537709"
-  },
   "gid://shopify/ProductVariant/49178383483102": {
     "product_title": "Diwali Sale Other Essentials D26636",
     "variant_title": "Default Title",
@@ -24214,7 +24205,7 @@
     "variant_title": "Default Title",
     "sku": "D26186",
     "price": 299.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26186?variant=gid://shopify/ProductVariant/49183618760926",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7409.jpg?v=1791626073"
   },
@@ -24466,7 +24457,7 @@
     "variant_title": "Default Title",
     "sku": "1986",
     "price": 399.0,
-    "stock": 17,
+    "stock": 15,
     "url": "https://www.daivik.in/products/lakshmi-kids-adult-jhumkas?variant=gid://shopify/ProductVariant/49203701383390",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6327C5CA-76E2-45CD-95CB-1B7691AAF00E.jpg?v=1791890534"
   },
@@ -24682,7 +24673,7 @@
     "variant_title": "Default Title",
     "sku": "351",
     "price": 799.0,
-    "stock": 21,
+    "stock": 20,
     "url": "https://www.daivik.in/products/necklace?variant=gid://shopify/ProductVariant/49242253721822",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7E33E2A9-0EA4-4A83-9C7E-5A81478B59E0.jpg?v=1792428269"
   },
@@ -35971,6 +35962,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26632?variant=gid://shopify/ProductVariant/49178383319262",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7229.jpg?v=1791537696"
+  },
+  "gid://shopify/ProductVariant/49178383417566": {
+    "product_title": "Diwali Sale Other Essentials D26635",
+    "variant_title": "Default Title",
+    "sku": "D26635",
+    "price": 549.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26635?variant=gid://shopify/ProductVariant/49178383417566",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7236.jpg?v=1791537709"
   },
   "gid://shopify/ProductVariant/49178383548638": {
     "product_title": "Diwali Sale Other Essentials D26638",
