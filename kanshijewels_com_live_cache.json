@@ -10367,15 +10367,6 @@
     "url": "https://www.kanshijewels.com/products/jadau-studs-12?variant=gid://shopify/ProductVariant/52737370325292",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/JADAUSTUDS1990_5025ae51-2a43-42de-85f4-7d291cd843c1.jpg?v=1773127040"
   },
-  "gid://shopify/ProductVariant/52737371078956": {
-    "product_title": "Jadau Studs",
-    "variant_title": "Default Title",
-    "sku": "ER15",
-    "price": 2000.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-studs-13?variant=gid://shopify/ProductVariant/52737371078956",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/JADAUSTUDS2000.jpg?v=1773127117"
-  },
   "gid://shopify/ProductVariant/52737371341100": {
     "product_title": "Jadau Tika",
     "variant_title": "Default Title",
@@ -10911,8 +10902,8 @@
     "product_title": "Elegant kundan work swaroski pearls necklace",
     "variant_title": "Default Title",
     "sku": "NK909",
-    "price": 1990.0,
-    "stock": 2,
+    "price": 1890.0,
+    "stock": 7,
     "url": "https://www.kanshijewels.com/products/elegant-kundan-work-swaroski-pearls-necklace?variant=gid://shopify/ProductVariant/53368863424812",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/DSC08352.jpg?v=1782214177"
   },
@@ -11784,7 +11775,7 @@
     "product_title": "Handwork Kundan Balls With Swaroski Kundan Fusion Necklace",
     "variant_title": "Default Title",
     "sku": "NK968",
-    "price": 2550.0,
+    "price": 1999.0,
     "stock": 7,
     "url": "https://www.kanshijewels.com/products/handwork-kundan-balls-with-swaroski-kundan-fusion-necklace?variant=gid://shopify/ProductVariant/54005762457900",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/WhatsApp_Image_2026-09-05_at_2.58.37_PM_2.jpg?v=1788601623"
@@ -11947,7 +11938,7 @@
     "variant_title": "Default Title",
     "sku": "NK974",
     "price": 2800.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.kanshijewels.com/products/classic-swaroski-pearls-kundan-fusion-necklace-chokar?variant=gid://shopify/ProductVariant/54010345390380",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/WhatsApp_Image_2026-09-05_at_2.58.33_PM_1.jpg?v=1788600935"
   },
@@ -14497,6 +14488,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/jadau-mossanite-fusion-watch-1?variant=gid://shopify/ProductVariant/52737331331372",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaumossanitefusionwatch1990_1.jpg?v=1773125372"
+  },
+  "gid://shopify/ProductVariant/52737371078956": {
+    "product_title": "Jadau Studs",
+    "variant_title": "Default Title",
+    "sku": "ER15",
+    "price": 2000.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-studs-13?variant=gid://shopify/ProductVariant/52737371078956",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/JADAUSTUDS2000.jpg?v=1773127117"
   },
   "gid://shopify/ProductVariant/52737377534252": {
     "product_title": "Nakashi Jhumkas",
