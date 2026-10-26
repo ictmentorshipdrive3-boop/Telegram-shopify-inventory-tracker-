@@ -34307,15 +34307,6 @@
     "url": "https://www.theamethyststore.com/products/nivar-toe-ring?variant=gid://shopify/ProductVariant/47201328890083",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0302.jpg?v=1758698213"
   },
-  "gid://shopify/ProductVariant/47201352089827": {
-    "product_title": "Ethnic Toe Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-117-0319",
-    "price": 2600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/ethnic-toe-ring?variant=gid://shopify/ProductVariant/47201352089827",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0319.jpg?v=1758698508"
-  },
   "gid://shopify/ProductVariant/47201384464611": {
     "product_title": "Stylish Oxidised Short Necklace",
     "variant_title": "Default Title",
@@ -34861,7 +34852,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-120-0135",
     "price": 10300.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/dazzle-cufflinks?variant=gid://shopify/ProductVariant/47202373664995",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-120-0135.jpg?v=1758717316"
   },
@@ -36481,7 +36472,7 @@
     "variant_title": "2.6\"",
     "sku": "AMS-107-2364-2.6\"",
     "price": 39679.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/timeless-oxidised-pair-bangles?variant=gid://shopify/ProductVariant/47216840802531",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2364.jpg?v=1759124233"
   },
@@ -37384,6 +37375,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/vinitha-nagas-long-necklace?variant=gid://shopify/ProductVariant/47241152790755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11799.jpg?v=1759733837"
+  },
+  "gid://shopify/ProductVariant/47241155379427": {
+    "product_title": "Kashvin Deep Nagas Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-11800",
+    "price": 195397.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/kashvin-deep-nagas-long-necklace?variant=gid://shopify/ProductVariant/47241155379427",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11800.jpg?v=1759734093"
   },
   "gid://shopify/ProductVariant/47241173041379": {
     "product_title": "Swethika Nagas Short Necklace",
@@ -110672,6 +110672,33 @@
     "url": "https://www.theamethyststore.com/products/revered-divine-nagas-long-necklace?variant=gid://shopify/ProductVariant/67809990082787",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19073.jpg?v=1792995189"
   },
+  "gid://shopify/ProductVariant/67810013675747": {
+    "product_title": "Allure Grace Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18949",
+    "price": 53776.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/allure-grace-nagas-short-necklace?variant=gid://shopify/ProductVariant/67810013675747",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18949_cace33c2-80a7-4be4-bd77-4a427ad4fe1f.jpg?v=1792995428"
+  },
+  "gid://shopify/ProductVariant/67810018263267": {
+    "product_title": "Glowing with Beauty Nagas Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19074",
+    "price": 110092.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/glowing-with-beauty-nagas-long-necklace?variant=gid://shopify/ProductVariant/67810018263267",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19074.jpg?v=1792995540"
+  },
+  "gid://shopify/ProductVariant/67810050572515": {
+    "product_title": "Celestial Elegance Nagas Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19078",
+    "price": 59111.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/celestial-elegance-nagas-long-necklace?variant=gid://shopify/ProductVariant/67810050572515",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19078.jpg?v=1792995889"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -121121,6 +121148,15 @@
     "url": "https://www.theamethyststore.com/products/minimalist-toe-ring?variant=gid://shopify/ProductVariant/47201340817635",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0308.jpg?v=1758698347"
   },
+  "gid://shopify/ProductVariant/47201352089827": {
+    "product_title": "Ethnic Toe Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-117-0319",
+    "price": 2600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/ethnic-toe-ring?variant=gid://shopify/ProductVariant/47201352089827",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0319.jpg?v=1758698508"
+  },
   "gid://shopify/ProductVariant/47201929003235": {
     "product_title": "Little Heart Toe Ring",
     "variant_title": "Default Title",
@@ -121867,15 +121903,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/rushana-toe-ring?variant=gid://shopify/ProductVariant/47239446298851",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0565_1.jpg?v=1759676314"
-  },
-  "gid://shopify/ProductVariant/47241155379427": {
-    "product_title": "Kashvin Deep Nagas Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-11800",
-    "price": 195397.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/kashvin-deep-nagas-long-necklace?variant=gid://shopify/ProductVariant/47241155379427",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11800.jpg?v=1759734093"
   },
   "gid://shopify/ProductVariant/47241174909155": {
     "product_title": "Grathika Nagas Short Necklace",
