@@ -15281,15 +15281,6 @@
     "url": "https://www.rasasilver.com/products/no-image-10?variant=gid://shopify/ProductVariant/52898816655657",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20611_resized.jpg?v=1775546304"
   },
-  "gid://shopify/ProductVariant/52911093874985": {
-    "product_title": "Aadhvaya Kundan Bracelet",
-    "variant_title": "Default Title",
-    "sku": "R23919",
-    "price": 11680.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/aadhvaya-kundan-bracelet?variant=gid://shopify/ProductVariant/52911093874985",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0393_resized.jpg?v=1775643116"
-  },
   "gid://shopify/ProductVariant/52911150825769": {
     "product_title": "Aurivra Moissanite Choker",
     "variant_title": "Default Title",
@@ -21019,7 +21010,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R33496",
     "price": 89200.0,
-    "stock": 1,
+    "stock": 10,
     "url": "https://www.rasasilver.com/products/shree-samriddhi-temple-necklace?variant=gid://shopify/ProductVariant/53411227369769",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_10Aug56782F.jpg?v=1787385274"
   },
@@ -21028,7 +21019,7 @@
     "variant_title": "GREEN",
     "sku": "R33497",
     "price": 89200.0,
-    "stock": 1,
+    "stock": 10,
     "url": "https://www.rasasilver.com/products/shree-samriddhi-temple-necklace?variant=gid://shopify/ProductVariant/53411227402537",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_10Aug56782F.jpg?v=1787385274"
   },
@@ -24010,15 +24001,6 @@
     "stock": 5,
     "url": "https://www.rasasilver.com/products/swarna-shilpa-temple-necklace?variant=gid://shopify/ProductVariant/67658178232617",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Necklace2_jpg_5537cc52-c3e3-4cad-a34e-878d616a7b54.jpg?v=1792417263"
-  },
-  "gid://shopify/ProductVariant/67658183278889": {
-    "product_title": "Kanaka Nakshi Kaankarela",
-    "variant_title": "Default Title",
-    "sku": "R38618",
-    "price": 26265.0,
-    "stock": 4,
-    "url": "https://www.rasasilver.com/products/kanaka-nakshi-kaan-karela?variant=gid://shopify/ProductVariant/67658183278889",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/earing2_jpg.jpg?v=1792416973"
   },
   "gid://shopify/ProductVariant/67658189078825": {
     "product_title": "Aadhira Temple Kundan Necklace",
@@ -42920,6 +42902,15 @@
     "url": "https://www.rasasilver.com/products/harinaya-kundan-bracelet?variant=gid://shopify/ProductVariant/52911052063017",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0389_resized.jpg?v=1775642796"
   },
+  "gid://shopify/ProductVariant/52911093874985": {
+    "product_title": "Aadhvaya Kundan Bracelet",
+    "variant_title": "Default Title",
+    "sku": "R23919",
+    "price": 11680.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/aadhvaya-kundan-bracelet?variant=gid://shopify/ProductVariant/52911093874985",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0393_resized.jpg?v=1775643116"
+  },
   "gid://shopify/ProductVariant/52911232221481": {
     "product_title": "Dwi-Mukha Nakshi Oddiyanam",
     "variant_title": "Default Title",
@@ -49147,5 +49138,14 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/vayu-gutta-pasalu-necklace?variant=gid://shopify/ProductVariant/67626599579945",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/OrnateSouthIndianBridalNecklaceFlatLay.png?v=1791963695"
+  },
+  "gid://shopify/ProductVariant/67658183278889": {
+    "product_title": "Kanaka Nakshi Kaankarela",
+    "variant_title": "Default Title",
+    "sku": "R38618",
+    "price": 26265.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/kanaka-nakshi-kaan-karela?variant=gid://shopify/ProductVariant/67658183278889",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/earing2_jpg.jpg?v=1792416973"
   }
 }
