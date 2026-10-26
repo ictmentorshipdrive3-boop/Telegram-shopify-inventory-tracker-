@@ -20065,7 +20065,7 @@
     "variant_title": "Default Title",
     "sku": "1944",
     "price": 1199.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/kemp-ruby-green-flower-jhumkas-1?variant=gid://shopify/ProductVariant/48588136022238",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5680.jpg?v=1786368472"
   },
@@ -21190,7 +21190,7 @@
     "variant_title": "Green",
     "sku": "D26031",
     "price": 499.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26031?variant=gid://shopify/ProductVariant/49152667582686",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6085.jpg?v=1791221733"
   },
@@ -22192,15 +22192,6 @@
     "stock": 3,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26352?variant=gid://shopify/ProductVariant/49162124919006",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6656.jpg?v=1791443988"
-  },
-  "gid://shopify/ProductVariant/49166694187230": {
-    "product_title": "Diwali Sale Earrings D26353",
-    "variant_title": "Ruby Green",
-    "sku": "D26353",
-    "price": 399.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26353?variant=gid://shopify/ProductVariant/49166694187230",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6659.jpg?v=1791443998"
   },
   "gid://shopify/ProductVariant/49162124984542": {
     "product_title": "Diwali Sale Earrings D26354",
@@ -23233,7 +23224,7 @@
     "variant_title": "Default Title",
     "sku": "D26172",
     "price": 899.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26172?variant=gid://shopify/ProductVariant/49169795055838",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7277.jpg?v=1791532740"
   },
@@ -35439,6 +35430,15 @@
     "price": 399.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26353?variant=gid://shopify/ProductVariant/49166694154462",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6659.jpg?v=1791443998"
+  },
+  "gid://shopify/ProductVariant/49166694187230": {
+    "product_title": "Diwali Sale Earrings D26353",
+    "variant_title": "Ruby Green",
+    "sku": "D26353",
+    "price": 399.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26353?variant=gid://shopify/ProductVariant/49166694187230",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6659.jpg?v=1791443998"
   },
   "gid://shopify/ProductVariant/49162125148382": {
