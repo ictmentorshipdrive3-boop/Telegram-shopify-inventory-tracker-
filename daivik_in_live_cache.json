@@ -5206,7 +5206,7 @@
     "variant_title": "Default Title",
     "sku": "490",
     "price": 2799.0,
-    "stock": 42,
+    "stock": 41,
     "url": "https://www.daivik.in/products/changeable?variant=gid://shopify/ProductVariant/44551102529758",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1DF004A1-DB1E-4F72-97E6-50D308963DF0.heic?v=1700842120"
   },
@@ -6819,15 +6819,6 @@
     "price": 1899.0,
     "stock": 56,
     "url": "https://www.daivik.in/products/lakshmi-hasli-necklace-with-balis?variant=gid://shopify/ProductVariant/45553293066462",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7CF7427E-3DF1-45D3-8D5E-580CE49F70A9.jpg?v=1718377093"
-  },
-  "gid://shopify/ProductVariant/45553293131998": {
-    "product_title": "Lakshmi Hasli Necklace with Balis",
-    "variant_title": "Turquoise",
-    "sku": "407",
-    "price": 1899.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/lakshmi-hasli-necklace-with-balis?variant=gid://shopify/ProductVariant/45553293131998",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7CF7427E-3DF1-45D3-8D5E-580CE49F70A9.jpg?v=1718377093"
   },
   "gid://shopify/ProductVariant/45569497432286": {
@@ -20776,7 +20767,7 @@
     "variant_title": "Default Title",
     "sku": "D26002",
     "price": 999.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26002?variant=gid://shopify/ProductVariant/49149622616286",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5930.jpg?v=1791220854"
   },
@@ -29230,6 +29221,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/victorian-peacock-hipchain-in-3-colours?variant=gid://shopify/ProductVariant/45534836293854",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F9F079FF-4423-49B9-B77A-03D2D2DF3393.jpg?v=1718286453"
+  },
+  "gid://shopify/ProductVariant/45553293131998": {
+    "product_title": "Lakshmi Hasli Necklace with Balis",
+    "variant_title": "Turquoise",
+    "sku": "407",
+    "price": 1899.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/lakshmi-hasli-necklace-with-balis?variant=gid://shopify/ProductVariant/45553293131998",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7CF7427E-3DF1-45D3-8D5E-580CE49F70A9.jpg?v=1718377093"
   },
   "gid://shopify/ProductVariant/47038075896030": {
     "product_title": "Lakshmi Hasli Necklace with Balis",
