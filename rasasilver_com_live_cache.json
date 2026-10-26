@@ -21626,24 +21626,6 @@
     "url": "https://www.rasasilver.com/products/yutika-kundan-septum-ring?variant=gid://shopify/ProductVariant/53479005454633",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459303.jpg?v=1789110397"
   },
-  "gid://shopify/ProductVariant/53479016759593": {
-    "product_title": "Komalika Stone Nose Pin",
-    "variant_title": "Default Title",
-    "sku": "R10660",
-    "price": 560.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/komalika-stone-nose-pin?variant=gid://shopify/ProductVariant/53479016759593",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459371.jpg?v=1789110955"
-  },
-  "gid://shopify/ProductVariant/53479059718441": {
-    "product_title": "Hara-Phool Stone Nose Pin",
-    "variant_title": "Default Title",
-    "sku": "R17336",
-    "price": 400.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/hara-phool-stone-nose-pin?variant=gid://shopify/ProductVariant/53479059718441",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459349.jpg?v=1789111078"
-  },
   "gid://shopify/ProductVariant/53479146586409": {
     "product_title": "Flora Panna Stone Nose Pin",
     "variant_title": "Default Title",
@@ -48356,6 +48338,15 @@
     "url": "https://www.rasasilver.com/products/inaya-kundan-septum-nath?variant=gid://shopify/ProductVariant/53479000768809",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459313.jpg?v=1789110592"
   },
+  "gid://shopify/ProductVariant/53479016759593": {
+    "product_title": "Komalika Stone Nose Pin",
+    "variant_title": "Default Title",
+    "sku": "R10660",
+    "price": 560.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/komalika-stone-nose-pin?variant=gid://shopify/ProductVariant/53479016759593",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459371.jpg?v=1789110955"
+  },
   "gid://shopify/ProductVariant/53479034356009": {
     "product_title": "Aahnika Kundan Septum Ring",
     "variant_title": "Default Title",
@@ -48364,6 +48355,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/aahnika-kundan-septum-ring?variant=gid://shopify/ProductVariant/53479034356009",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459308.jpg?v=1789110873"
+  },
+  "gid://shopify/ProductVariant/53479059718441": {
+    "product_title": "Hara-Phool Stone Nose Pin",
+    "variant_title": "Default Title",
+    "sku": "R17336",
+    "price": 400.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/hara-phool-stone-nose-pin?variant=gid://shopify/ProductVariant/53479059718441",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459349.jpg?v=1789111078"
   },
   "gid://shopify/ProductVariant/53479070925097": {
     "product_title": "Nivara Stone Septum Ring",
