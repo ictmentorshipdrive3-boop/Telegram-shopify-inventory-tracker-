@@ -922,7 +922,7 @@
     "variant_title": "GREEN",
     "sku": "R11748",
     "price": 3010.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/the-rosary-studs?variant=gid://shopify/ProductVariant/50869168013609",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06486_copy.jpg?v=1744184967"
   },
@@ -2506,7 +2506,7 @@
     "variant_title": "Default Title",
     "sku": "R10076",
     "price": 11830.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/kamala-manjari-short-necklace?variant=gid://shopify/ProductVariant/50648371462441",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-6_e341cc76-0d52-44f9-ad9c-a34f7b2bfa46.jpg?v=1754028218"
   },
@@ -2560,7 +2560,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R17485",
     "price": 4080.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/1-1?variant=gid://shopify/ProductVariant/51472832233769",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-10_184cdb6e-c8a2-45d5-b2b4-cb493f99538c.jpg?v=1754979613"
   },
@@ -6403,7 +6403,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R16473",
     "price": 15400.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/anzuri-rose-payal?variant=gid://shopify/ProductVariant/51495597474089",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0233_copy_2.jpg?v=1763463227"
   },
@@ -17126,15 +17126,6 @@
     "url": "https://www.rasasilver.com/products/crystal-glimmer-cz-necklace?variant=gid://shopify/ProductVariant/53279769100585",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May1586_resized_jpg_06788588-5ebd-45e8-89e4-685c9fdd942a.jpg?v=1785737787"
   },
-  "gid://shopify/ProductVariant/53282511913257": {
-    "product_title": "Petal Swirl Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "R29502",
-    "price": 2720.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/petal-swirl-stone-studs?variant=gid://shopify/ProductVariant/53282511913257",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262392_resized.jpg?v=1782109921"
-  },
   "gid://shopify/ProductVariant/53282516238633": {
     "product_title": "Stellar Bloom Stone Studs",
     "variant_title": "Default Title",
@@ -17449,15 +17440,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/bracelet-11?variant=gid://shopify/ProductVariant/53284831822121",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13223A_resized.jpg?v=1782223462"
-  },
-  "gid://shopify/ProductVariant/53285930828073": {
-    "product_title": "Regal Rectangle Bracelet",
-    "variant_title": "Default Title",
-    "sku": "R31614",
-    "price": 2040.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/regal-rectangle-bracelet?variant=gid://shopify/ProductVariant/53285930828073",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13294_resized.jpg?v=1782279330"
   },
   "gid://shopify/ProductVariant/53285939872041": {
     "product_title": "Nova Oval Bracelet",
@@ -45215,6 +45197,15 @@
     "url": "https://www.rasasilver.com/products/bloom-spark-stone-studs?variant=gid://shopify/ProductVariant/53282509619497",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262369_resized.jpg?v=1782109792"
   },
+  "gid://shopify/ProductVariant/53282511913257": {
+    "product_title": "Petal Swirl Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "R29502",
+    "price": 2720.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/petal-swirl-stone-studs?variant=gid://shopify/ProductVariant/53282511913257",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262392_resized.jpg?v=1782109921"
+  },
   "gid://shopify/ProductVariant/53282512765225": {
     "product_title": "Crystal Flower Stone Studs",
     "variant_title": "Default Title",
@@ -45826,6 +45817,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/bloom-crest-bracelet?variant=gid://shopify/ProductVariant/53285924143401",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13310_resized.jpg?v=1782278388"
+  },
+  "gid://shopify/ProductVariant/53285930828073": {
+    "product_title": "Regal Rectangle Bracelet",
+    "variant_title": "Default Title",
+    "sku": "R31614",
+    "price": 2040.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/regal-rectangle-bracelet?variant=gid://shopify/ProductVariant/53285930828073",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13294_resized.jpg?v=1782279330"
   },
   "gid://shopify/ProductVariant/53285938102569": {
     "product_title": "Lucky Bloom Bracelet",
