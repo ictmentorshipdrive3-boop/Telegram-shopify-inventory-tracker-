@@ -73786,7 +73786,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-1334",
     "price": 4800.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/aashvi-plain-bracelet?variant=gid://shopify/ProductVariant/49390400766179",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1334.jpg?v=1783682086"
   },
@@ -73849,7 +73849,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-16498",
     "price": 6400.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/hasli-necklace-39?variant=gid://shopify/ProductVariant/49393831543011",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16498_6f6e7421-41c0-43fa-81bd-17b377593ce5.jpg?v=1783831101"
   },
@@ -110860,6 +110860,24 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/nilaani-nagas-long-necklace?variant=gid://shopify/ProductVariant/67810722447587",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19120.jpg?v=1793001960"
+  },
+  "gid://shopify/ProductVariant/67810775433443": {
+    "product_title": "Serene Grace Nagas Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19117",
+    "price": 72994.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/serene-grace-nagas-long-necklace?variant=gid://shopify/ProductVariant/67810775433443",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19117.jpg?v=1793002397"
+  },
+  "gid://shopify/ProductVariant/67810810560739": {
+    "product_title": "Exquisite Aura Nagas Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19119",
+    "price": 67896.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/exquisite-aura-nagas-long-necklace?variant=gid://shopify/ProductVariant/67810810560739",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19119.jpg?v=1793002918"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
