@@ -728,15 +728,6 @@
     "url": "https://www.daivik.in/products/pure-kemp-antique-teeka?variant=gid://shopify/ProductVariant/37826102591641",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/pure-kemp-antique-teeka-other-essentials-516.jpg?v=1610892151"
   },
-  "gid://shopify/ProductVariant/37826167636121": {
-    "product_title": "Lakshmi Nagasi teeka",
-    "variant_title": "Default Title",
-    "sku": "551",
-    "price": 1099.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/lakshmi-nagasi-teeka?variant=gid://shopify/ProductVariant/37826167636121",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_93adf55e-51ba-4f64-9ca2-fcade8ca86a5.jpg?v=1610893048"
-  },
   "gid://shopify/ProductVariant/43923929923806": {
     "product_title": "Screw openable Coin Lakshmi kada",
     "variant_title": "2.4",
@@ -17338,7 +17329,7 @@
     "variant_title": "Default Title",
     "sku": "1372",
     "price": 1199.0,
-    "stock": 40,
+    "stock": 39,
     "url": "https://www.daivik.in/products/antique-lakshmi-choker-with-earrings-1?variant=gid://shopify/ProductVariant/47990312534238",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8327.heic?v=1773678300"
   },
@@ -21775,7 +21766,7 @@
     "variant_title": "Default Title",
     "sku": "D26326",
     "price": 699.0,
-    "stock": 23,
+    "stock": 22,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26326?variant=gid://shopify/ProductVariant/49155193929950",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6602.jpg?v=1791378109"
   },
@@ -24856,6 +24847,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/guttaspusalu-kemp-choker-with-earrings?variant=gid://shopify/ProductVariant/37547684331673",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/guttaspusalu-kemp-choker-with-earrings-neckwearnecklace-981.jpg?v=1608566555"
+  },
+  "gid://shopify/ProductVariant/37826167636121": {
+    "product_title": "Lakshmi Nagasi teeka",
+    "variant_title": "Default Title",
+    "sku": "551",
+    "price": 1099.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/lakshmi-nagasi-teeka?variant=gid://shopify/ProductVariant/37826167636121",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_93adf55e-51ba-4f64-9ca2-fcade8ca86a5.jpg?v=1610893048"
   },
   "gid://shopify/ProductVariant/43923929956574": {
     "product_title": "Screw openable Coin Lakshmi kada",
