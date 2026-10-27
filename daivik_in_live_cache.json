@@ -6142,7 +6142,7 @@
     "variant_title": "Green",
     "sku": "121",
     "price": 599.0,
-    "stock": 17,
+    "stock": 2,
     "url": "https://www.daivik.in/products/lotus-kemp-rice-pearl-necklace-with-earrings?variant=gid://shopify/ProductVariant/45036923519198",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7F002057-492D-4547-8497-F0B75AFDF9E1.jpg?v=1711981953"
   },
@@ -19340,15 +19340,6 @@
     "url": "https://www.daivik.in/products/pachi-pearl-jali-necklace?variant=gid://shopify/ProductVariant/48400077258974",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_83502.jpg?v=1782925422"
   },
-  "gid://shopify/ProductVariant/48403799408862": {
-    "product_title": "Elakkathali Ruby Choker with Earrings",
-    "variant_title": "Default Title",
-    "sku": "485",
-    "price": 899.0,
-    "stock": 35,
-    "url": "https://www.daivik.in/products/elakkathali-ruby-choker-with-earrings?variant=gid://shopify/ProductVariant/48403799408862",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6A18C555-AF72-4C73-B410-F4E8C48D53A0.jpg?v=1782993326"
-  },
   "gid://shopify/ProductVariant/48404578631902": {
     "product_title": "CZ Kids/Adult Floral Earcuff Earrings",
     "variant_title": "Default Title",
@@ -22054,7 +22045,7 @@
     "variant_title": "Green",
     "sku": "D26358",
     "price": 399.0,
-    "stock": 6,
+    "stock": 4,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26358?variant=gid://shopify/ProductVariant/49162125213918",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6673.jpg?v=1791444156"
   },
@@ -22072,7 +22063,7 @@
     "variant_title": "Default Title",
     "sku": "D26360",
     "price": 549.0,
-    "stock": 5,
+    "stock": 2,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26360?variant=gid://shopify/ProductVariant/49162125312222",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6682.jpg?v=1791444432"
   },
@@ -34594,6 +34585,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/invisible-green-ganesha-chain?variant=gid://shopify/ProductVariant/48447550357726",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/ADD05F51-8F3A-4262-86A7-4E853BC4FB59.jpg?v=1782904755"
+  },
+  "gid://shopify/ProductVariant/48403799408862": {
+    "product_title": "Elakkathali Ruby Choker with Earrings",
+    "variant_title": "Default Title",
+    "sku": "485",
+    "price": 899.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/elakkathali-ruby-choker-with-earrings?variant=gid://shopify/ProductVariant/48403799408862",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6A18C555-AF72-4C73-B410-F4E8C48D53A0.jpg?v=1782993326"
   },
   "gid://shopify/ProductVariant/48406591439070": {
     "product_title": "AD HydroDoublet Pendant Hasli Necklace with Earrings in 4 Colors (Price for each)",
