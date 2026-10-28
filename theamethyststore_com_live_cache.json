@@ -91597,7 +91597,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4321",
     "price": 12501.0,
-    "stock": 2,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/graceful-stone-pendant?variant=gid://shopify/ProductVariant/49654603088099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4321.jpg?v=1788268825"
   },
@@ -92330,15 +92330,6 @@
     "url": "https://www.theamethyststore.com/products/kundan-pair-bangles-9?variant=gid://shopify/ProductVariant/49664564560099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3602.jpg?v=1788429430"
   },
-  "gid://shopify/ProductVariant/49664565149923": {
-    "product_title": "Abundant in Design Avikam Maangtikka",
-    "variant_title": "Default Title",
-    "sku": "AMS-109-2492",
-    "price": 8500.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/abundant-in-design-avikam-maangtikka?variant=gid://shopify/ProductVariant/49664565149923",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2492.jpg?v=1788429623"
-  },
   "gid://shopify/ProductVariant/49664574259427": {
     "product_title": "Stunning Kundan Jada Billa",
     "variant_title": "Suryan",
@@ -92704,7 +92695,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4993",
     "price": 14300.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/goddess-like-diamond-design-pendant?variant=gid://shopify/ProductVariant/49667759079651",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4993.jpg?v=1788501422"
   },
@@ -94792,7 +94783,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18054",
     "price": 52800.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/temple-worthy-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/49719148052707",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18054.jpg?v=1789127083"
   },
@@ -95611,7 +95602,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16049",
     "price": 17200.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/mystically-shines-3d-spl-drops?variant=gid://shopify/ProductVariant/49728074875107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16049.jpg?v=1789304005"
   },
@@ -99643,7 +99634,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18217",
     "price": 29500.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/velessa-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/67593086664931",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18217.jpg?v=1790573769"
   },
@@ -103684,7 +103675,7 @@
     "variant_title": "2.6",
     "sku": "AMS-107-3743-2.6",
     "price": 74200.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/bright-with-brilliance-diamond-design-pair-bangles?variant=gid://shopify/ProductVariant/67651818258659",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3743-2.6_8f7ccbfb-b87d-4cd6-a868-5a5d025bf0c1.jpg?v=1791695114"
   },
@@ -104890,7 +104881,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5311",
     "price": 20600.0,
-    "stock": 5,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/vibrant-stone-pendant?variant=gid://shopify/ProductVariant/67661773537507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5311.jpg?v=1791728012"
   },
@@ -110983,7 +110974,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5661",
     "price": 5900.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/scintillating-grace-avikam-pendant-set?variant=gid://shopify/ProductVariant/67837448159459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5661.jpg?v=1793186499"
   },
@@ -148120,6 +148111,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/kundan-pair-bangles-9?variant=gid://shopify/ProductVariant/49664565215459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3602.jpg?v=1788429430"
+  },
+  "gid://shopify/ProductVariant/49664565149923": {
+    "product_title": "Abundant in Design Avikam Maangtikka",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2492",
+    "price": 8500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/abundant-in-design-avikam-maangtikka?variant=gid://shopify/ProductVariant/49664565149923",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2492.jpg?v=1788429623"
   },
   "gid://shopify/ProductVariant/49664594772195": {
     "product_title": "Vanitha Kundan Jada Billa",
