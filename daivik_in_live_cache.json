@@ -3775,7 +3775,7 @@
     "variant_title": "2.8",
     "sku": "578",
     "price": 899.0,
-    "stock": 54,
+    "stock": 53,
     "url": "https://www.daivik.in/products/simple-regular-wear-bangles?variant=gid://shopify/ProductVariant/44212597457118",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_581372c8-24c2-4fa9-9c44-eab5c880f9b5.heic?v=1685682090"
   },
@@ -21559,7 +21559,7 @@
     "variant_title": "Default Title",
     "sku": "1982",
     "price": 799.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/simple-floral-antique-jhumkas-with-mattal?variant=gid://shopify/ProductVariant/49149773906142",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/50290B5C-2D07-4A49-BBB4-F698CCA99EC1.jpg?v=1791111602"
   },
@@ -22031,21 +22031,12 @@
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26359?variant=gid://shopify/ProductVariant/49162125279454",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6680.jpg?v=1791444426"
   },
-  "gid://shopify/ProductVariant/49162125312222": {
-    "product_title": "Diwali Sale Earrings D26360",
-    "variant_title": "Default Title",
-    "sku": "D26360",
-    "price": 549.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26360?variant=gid://shopify/ProductVariant/49162125312222",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6682.jpg?v=1791444432"
-  },
   "gid://shopify/ProductVariant/49162125377758": {
     "product_title": "Diwali Sale Earrings D26362",
     "variant_title": "Default Title",
     "sku": "D26362",
     "price": 399.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26362?variant=gid://shopify/ProductVariant/49162125377758",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6686.jpg?v=1791444649"
   },
@@ -35368,6 +35359,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26358?variant=gid://shopify/ProductVariant/49162125213918",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6673.jpg?v=1791444156"
+  },
+  "gid://shopify/ProductVariant/49162125312222": {
+    "product_title": "Diwali Sale Earrings D26360",
+    "variant_title": "Default Title",
+    "sku": "D26360",
+    "price": 549.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26360?variant=gid://shopify/ProductVariant/49162125312222",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6682.jpg?v=1791444432"
   },
   "gid://shopify/ProductVariant/49162125344990": {
     "product_title": "Diwali Sale Earrings D26361",
