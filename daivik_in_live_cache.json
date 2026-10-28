@@ -20119,7 +20119,7 @@
     "variant_title": "Default Title",
     "sku": "316",
     "price": 1499.0,
-    "stock": 48,
+    "stock": 47,
     "url": "https://www.daivik.in/products/diamond-look-alike-3-layer-flower-neckalace-with-earrings?variant=gid://shopify/ProductVariant/48630564880606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1184.jpg?v=1787466208"
   },
@@ -20965,7 +20965,7 @@
     "variant_title": "Ruby",
     "sku": "D26025",
     "price": 249.0,
-    "stock": 32,
+    "stock": 31,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26025?variant=gid://shopify/ProductVariant/49152675971294",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6052.jpg?v=1791221213"
   },
@@ -22031,15 +22031,6 @@
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26357?variant=gid://shopify/ProductVariant/49162125115614",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6670.jpg?v=1791444150"
   },
-  "gid://shopify/ProductVariant/49162125213918": {
-    "product_title": "Diwali Sale Earrings D26358",
-    "variant_title": "Green",
-    "sku": "D26358",
-    "price": 399.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26358?variant=gid://shopify/ProductVariant/49162125213918",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6673.jpg?v=1791444156"
-  },
   "gid://shopify/ProductVariant/49162125279454": {
     "product_title": "Diwali Sale Earrings D26359",
     "variant_title": "Default Title",
@@ -22189,7 +22180,7 @@
     "variant_title": "Ruby Green",
     "sku": "D26373",
     "price": 349.0,
-    "stock": 28,
+    "stock": 27,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26373?variant=gid://shopify/ProductVariant/49162131472606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6716.jpg?v=1791444804"
   },
@@ -22936,7 +22927,7 @@
     "variant_title": "Default Title",
     "sku": "D26167",
     "price": 699.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26167?variant=gid://shopify/ProductVariant/49169791779038",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7263.jpg?v=1791532670"
   },
@@ -35367,6 +35358,15 @@
     "price": 399.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26358?variant=gid://shopify/ProductVariant/49162125246686",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6673.jpg?v=1791444156"
+  },
+  "gid://shopify/ProductVariant/49162125213918": {
+    "product_title": "Diwali Sale Earrings D26358",
+    "variant_title": "Green",
+    "sku": "D26358",
+    "price": 399.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26358?variant=gid://shopify/ProductVariant/49162125213918",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6673.jpg?v=1791444156"
   },
   "gid://shopify/ProductVariant/49162125344990": {
