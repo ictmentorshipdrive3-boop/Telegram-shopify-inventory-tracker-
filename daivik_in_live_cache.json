@@ -7501,7 +7501,7 @@
     "variant_title": "Ruby",
     "sku": "1503",
     "price": 1299.0,
-    "stock": 34,
+    "stock": 33,
     "url": "https://www.daivik.in/products/mossanite-kundan-balis-in-2-colours?variant=gid://shopify/ProductVariant/45889343586526",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4D32A516-1DA2-4CD3-AA62-C24EB5B9B866.jpg?v=1726379854"
   },
@@ -20776,7 +20776,7 @@
     "variant_title": "Default Title",
     "sku": "D26006",
     "price": 499.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26006?variant=gid://shopify/ProductVariant/49149622780126",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5942.jpg?v=1791220888"
   },
@@ -20965,7 +20965,7 @@
     "variant_title": "Ruby",
     "sku": "D26025",
     "price": 249.0,
-    "stock": 33,
+    "stock": 32,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26025?variant=gid://shopify/ProductVariant/49152675971294",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6052.jpg?v=1791221213"
   },
@@ -22085,15 +22085,6 @@
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26363?variant=gid://shopify/ProductVariant/49162125410526",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6688.jpg?v=1791444658"
   },
-  "gid://shopify/ProductVariant/49162126000350": {
-    "product_title": "Diwali Sale Earrings D26364",
-    "variant_title": "Default Title",
-    "sku": "D26364",
-    "price": 549.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26364?variant=gid://shopify/ProductVariant/49162126000350",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6690.jpg?v=1791444654"
-  },
   "gid://shopify/ProductVariant/49162126590174": {
     "product_title": "Diwali Sale Earrings D26365",
     "variant_title": "Default Title",
@@ -23071,7 +23062,7 @@
     "variant_title": "Default Title",
     "sku": "836",
     "price": 1199.0,
-    "stock": 21,
+    "stock": 20,
     "url": "https://www.daivik.in/products/kemp-lotus-invisible-chain-with-earrings?variant=gid://shopify/ProductVariant/49172832583902",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_2319.jpg?v=1791475435"
   },
@@ -35386,6 +35377,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26361?variant=gid://shopify/ProductVariant/49162125344990",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6684.jpg?v=1791444634"
+  },
+  "gid://shopify/ProductVariant/49162126000350": {
+    "product_title": "Diwali Sale Earrings D26364",
+    "variant_title": "Default Title",
+    "sku": "D26364",
+    "price": 549.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26364?variant=gid://shopify/ProductVariant/49162126000350",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6690.jpg?v=1791444654"
   },
   "gid://shopify/ProductVariant/49162131407070": {
     "product_title": "Diwali Sale Earrings D26373",
