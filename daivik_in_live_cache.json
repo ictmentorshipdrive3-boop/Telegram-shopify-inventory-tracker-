@@ -3514,7 +3514,7 @@
     "variant_title": "1.",
     "sku": "596",
     "price": 999.0,
-    "stock": 30,
+    "stock": 29,
     "url": "https://www.daivik.in/products/a-44?variant=gid://shopify/ProductVariant/44131700048094",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_091bb76a-2a60-4347-9eeb-5949c7a4d549.heic?v=1680874629"
   },
@@ -6574,7 +6574,7 @@
     "variant_title": "Short",
     "sku": "962",
     "price": 1499.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/ruby-guttapusalu-necklace-with-earrings?variant=gid://shopify/ProductVariant/47292618768606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EA754F23-6813-4092-8B15-2B97F15CE4C2.jpg?v=1754321906"
   },
@@ -6970,7 +6970,7 @@
     "variant_title": "Turquoise",
     "sku": "444",
     "price": 2249.0,
-    "stock": 26,
+    "stock": 25,
     "url": "https://www.daivik.in/products/3-line-single-colour-mala-with-earrings-in-3-colors?variant=gid://shopify/ProductVariant/45696427655390",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4CD97FB4-6017-4378-AA31-801695F1B6A3.jpg?v=1720105255"
   },
@@ -14921,15 +14921,6 @@
     "url": "https://www.daivik.in/products/bangles?variant=gid://shopify/ProductVariant/47563610652894",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AF0E2B11-3791-45CB-B33F-CDFCECACD6F0.jpg?v=1758905092"
   },
-  "gid://shopify/ProductVariant/47564482576606": {
-    "product_title": "AD Designer Openable Kada",
-    "variant_title": "Default Title",
-    "sku": "1700",
-    "price": 499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-designer-openable-kada?variant=gid://shopify/ProductVariant/47564482576606",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F6B8DA98-BEC0-4D00-A394-F6DC0A6DC9CF.jpg?v=1758971638"
-  },
   "gid://shopify/ProductVariant/47564628558046": {
     "product_title": "AD Pearl Mala Set with Earrings in Two Colors (Price for Each)",
     "variant_title": "Ruby",
@@ -15520,7 +15511,7 @@
     "variant_title": "Baby pink",
     "sku": "1335",
     "price": 649.0,
-    "stock": 23,
+    "stock": 22,
     "url": "https://www.daivik.in/products/ad-mesh-necklace-with-studs-in-5-colours-price-for-each?variant=gid://shopify/ProductVariant/47669942091998",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D2F649D9-0CC0-47ED-8F54-DCF4D0222297.jpg?v=1762878208"
   },
@@ -20573,15 +20564,6 @@
     "url": "https://www.daivik.in/products/simple-ad-small-jhumkas?variant=gid://shopify/ProductVariant/49118521032926",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FD5CA177-93E7-4ADE-B6F1-6218218BD53F.jpg?v=1790593662"
   },
-  "gid://shopify/ProductVariant/49125769871582": {
-    "product_title": "Simple 3 line Pearl Kemp Choker with Earrings",
-    "variant_title": "Default Title",
-    "sku": "315",
-    "price": 1999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/simple-3-line-pearl-kemp-choker-with-earrings?variant=gid://shopify/ProductVariant/49125769871582",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/76AFF6F2-77B9-4216-BC5C-4CA29B8E29C4.jpg?v=1790691880"
-  },
   "gid://shopify/ProductVariant/49139680346334": {
     "product_title": "Diamond Look Alike AD Three Line Flower Necklace with Earrings",
     "variant_title": "Default Title",
@@ -20938,7 +20920,7 @@
     "variant_title": "Ruby",
     "sku": "D26028",
     "price": 1999.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26028?variant=gid://shopify/ProductVariant/49152671744222",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6061.jpg?v=1791221302"
   },
@@ -32984,6 +32966,15 @@
     "url": "https://www.daivik.in/products/bangles?variant=gid://shopify/ProductVariant/47563610685662",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AF0E2B11-3791-45CB-B33F-CDFCECACD6F0.jpg?v=1758905092"
   },
+  "gid://shopify/ProductVariant/47564482576606": {
+    "product_title": "AD Designer Openable Kada",
+    "variant_title": "Default Title",
+    "sku": "1700",
+    "price": 499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-designer-openable-kada?variant=gid://shopify/ProductVariant/47564482576606",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F6B8DA98-BEC0-4D00-A394-F6DC0A6DC9CF.jpg?v=1758971638"
+  },
   "gid://shopify/ProductVariant/47564628525278": {
     "product_title": "AD Pearl Mala Set with Earrings in Two Colors (Price for Each)",
     "variant_title": "Green",
@@ -34837,6 +34828,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/ad-pearl-antique-ruby-bangle-combo?variant=gid://shopify/ProductVariant/49099901763806",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/06B2F590-5FE6-4FAA-98FE-5F1586897C02.jpg?v=1790180007"
+  },
+  "gid://shopify/ProductVariant/49125769871582": {
+    "product_title": "Simple 3 line Pearl Kemp Choker with Earrings",
+    "variant_title": "Default Title",
+    "sku": "315",
+    "price": 1999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/simple-3-line-pearl-kemp-choker-with-earrings?variant=gid://shopify/ProductVariant/49125769871582",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/76AFF6F2-77B9-4216-BC5C-4CA29B8E29C4.jpg?v=1790691880"
   },
   "gid://shopify/ProductVariant/49143563256030": {
     "product_title": "Pure kemp Brass Jadau Kasumala",
