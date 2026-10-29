@@ -92591,15 +92591,6 @@
     "url": "https://www.theamethyststore.com/products/flows-with-radiance-kundan-jhumkas?variant=gid://shopify/ProductVariant/49668061397219",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15975.jpg?v=1788509789"
   },
-  "gid://shopify/ProductVariant/49668119658723": {
-    "product_title": "Swinging Beauty Kundan Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15976",
-    "price": 21552.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/swinging-beauty-kundan-jhumkas?variant=gid://shopify/ProductVariant/49668119658723",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15976.jpg?v=1788510082"
-  },
   "gid://shopify/ProductVariant/49668192305379": {
     "product_title": "Swings with Charisma Kundan Jhumkas",
     "variant_title": "Default Title",
@@ -93991,7 +93982,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-2315",
     "price": 50300.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/elegantly-crafted-victorian-hair-maatal?variant=gid://shopify/ProductVariant/49710899134691",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2315.jpg?v=1788954225"
   },
@@ -96403,7 +96394,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18128",
     "price": 48000.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/timeless-elegance-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/49768998830307",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18128.jpg?v=1789715931"
   },
@@ -102100,7 +102091,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18685",
     "price": 138700.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/temple-worthy-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/67624001503459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18685_19e32c92-6adf-4c02-88e4-8f66b3e8c033.jpg?v=1791465233"
   },
@@ -103711,7 +103702,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18726",
     "price": 117400.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/krithikaa-avikam-chocker-set?variant=gid://shopify/ProductVariant/67652644077795",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18726.jpg?v=1791546575"
   },
@@ -104530,7 +104521,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18793",
     "price": 83700.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/blush-pink-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/67661673005283",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18793.jpg?v=1791725041"
   },
@@ -104629,7 +104620,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5311",
     "price": 20600.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/vibrant-stone-pendant?variant=gid://shopify/ProductVariant/67661773537507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5311.jpg?v=1791728012"
   },
@@ -148129,6 +148120,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/vivid-swing-kundan-jhumkas-1?variant=gid://shopify/ProductVariant/49668039246051",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15973.jpg?v=1788508697"
+  },
+  "gid://shopify/ProductVariant/49668119658723": {
+    "product_title": "Swinging Beauty Kundan Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15976",
+    "price": 21552.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/swinging-beauty-kundan-jhumkas?variant=gid://shopify/ProductVariant/49668119658723",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15976.jpg?v=1788510082"
   },
   "gid://shopify/ProductVariant/49668300898531": {
     "product_title": "Sparkling Kundan Jhumkas",
