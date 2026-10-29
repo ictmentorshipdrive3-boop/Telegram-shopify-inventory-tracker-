@@ -4742,15 +4742,6 @@
     "url": "https://www.daivik.in/products/diwali-sale-71?variant=gid://shopify/ProductVariant/44410113687774",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9592.jpg?v=1697372031"
   },
-  "gid://shopify/ProductVariant/44403106250974": {
-    "product_title": "Diwali Sale earrings 09",
-    "variant_title": "Default Title",
-    "sku": "E09",
-    "price": 3999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-earrings-09?variant=gid://shopify/ProductVariant/44403106250974",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9296.jpg?v=1697096984"
-  },
   "gid://shopify/ProductVariant/44403106447582": {
     "product_title": "Diwali Sale earrings 14",
     "variant_title": "Default Title",
@@ -6871,7 +6862,7 @@
     "variant_title": "Default Title",
     "sku": "348",
     "price": 999.0,
-    "stock": 15,
+    "stock": 14,
     "url": "https://www.daivik.in/products/lakshmi-jadau-kemp-teeka?variant=gid://shopify/ProductVariant/45649855742174",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/ADD1E3D3-F863-4BE2-811A-3D17E11DA95D.jpg?v=1719417897"
   },
@@ -10831,7 +10822,7 @@
     "variant_title": "Green",
     "sku": "1588",
     "price": 999.0,
-    "stock": 26,
+    "stock": 25,
     "url": "https://www.daivik.in/products/simple-ad-pearl-side-chain-in-4-colors-price-for-a-pair?variant=gid://shopify/ProductVariant/46584049795294",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/38BE878C-5CD2-4983-97FA-9910A84E6C49.jpg?v=1744032655"
   },
@@ -16294,7 +16285,7 @@
     "variant_title": "Green",
     "sku": "1772",
     "price": 599.0,
-    "stock": 32,
+    "stock": 31,
     "url": "https://www.daivik.in/products/pure-kemp-brass-nose-pin-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/47796909768926",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_c2df2ed2-a369-44c5-8053-26d95c5becfb.jpg?v=1767421638"
   },
@@ -17761,7 +17752,7 @@
     "variant_title": "Default Title",
     "sku": "526",
     "price": 4799.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/classic-antique-peacock-necklace-with-earrings?variant=gid://shopify/ProductVariant/48061365485790",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9816EC3D-BDF9-439A-A559-770E9D03A522.jpg?v=1775321478"
   },
@@ -18202,7 +18193,7 @@
     "variant_title": "Green",
     "sku": "1868",
     "price": 999.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/kemp-small-loop-earrings-in-2-colors-price-for-each?variant=gid://shopify/ProductVariant/48116579565790",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3F33D407-9E83-4289-B656-C3EAEC1E966C.jpg?v=1776337645"
   },
@@ -19309,7 +19300,7 @@
     "variant_title": "Default Title",
     "sku": "3543",
     "price": 799.0,
-    "stock": 44,
+    "stock": 43,
     "url": "https://www.daivik.in/products/triple-foam-handmade-artificial-lotus-pink-buds-kunjalam-hair-extension?variant=gid://shopify/ProductVariant/48377645465822",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5368.jpg?v=1782546537"
   },
@@ -19786,7 +19777,7 @@
     "variant_title": "Default Title",
     "sku": "1145",
     "price": 3499.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/carved-lion-stone-look-coin-short-haram-with-earrings?variant=gid://shopify/ProductVariant/48547559702750",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0859.jpg?v=1785843224"
   },
@@ -20110,7 +20101,7 @@
     "variant_title": "Default Title",
     "sku": "928",
     "price": 7499.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/balaji-haram?variant=gid://shopify/ProductVariant/48624208937182",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5F1292F7-1238-4DCB-B513-CCB1A7D8A251.jpg?v=1787331525"
   },
@@ -28231,6 +28222,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-71?variant=gid://shopify/ProductVariant/44410113655006",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9592.jpg?v=1697372031"
+  },
+  "gid://shopify/ProductVariant/44403106250974": {
+    "product_title": "Diwali Sale earrings 09",
+    "variant_title": "Default Title",
+    "sku": "E09",
+    "price": 3999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-earrings-09?variant=gid://shopify/ProductVariant/44403106250974",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9296.jpg?v=1697096984"
   },
   "gid://shopify/ProductVariant/44404474085598": {
     "product_title": "Diwali sale Other Essentials 08",
