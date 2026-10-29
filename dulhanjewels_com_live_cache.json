@@ -3284,15 +3284,6 @@
     "url": "https://www.dulhanjewels.com/products/stylish-jadau-kundan-earrings-with-emerald-drops?variant=gid://shopify/ProductVariant/51056746856754",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-1786.jpg?v=1788248496"
   },
-  "gid://shopify/ProductVariant/51056756228402": {
-    "product_title": "Delicate Gold Finish Jadau Kundan Floral Necklace",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 3800.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/delicate-gold-finish-jadau-kundan-floral-necklace?variant=gid://shopify/ProductVariant/51056756228402",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6E7EF6A9-8EB1-4B45-BC12-CDE5D0AE840A.jpg?v=1775907599"
-  },
   "gid://shopify/ProductVariant/51056761405746": {
     "product_title": "Magnificent Jadau Kundan Necklace With Royal Bridal Finish",
     "variant_title": "Default Title",
@@ -6155,15 +6146,6 @@
     "url": "https://www.dulhanjewels.com/products/royal-jadau-kundan-kasulu-haram-with-lord-krishna-at-center?variant=gid://shopify/ProductVariant/68012711313714",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-3211.jpg?v=1792665540"
   },
-  "gid://shopify/ProductVariant/68070026084658": {
-    "product_title": "Ethnic Double Layer Victorian Necklace With Matching Earrings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 7000.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/ethnic-double-layer-victorian-necklace-with-matching-earrings?variant=gid://shopify/ProductVariant/68070026084658",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6A1D79CD-872F-49E0-867C-AF16B8B0E486.jpg?v=1793088598"
-  },
   "gid://shopify/ProductVariant/68070039879986": {
     "product_title": "Classic Moissanite Polki Maang Tikka With Green Drops",
     "variant_title": "Default Title",
@@ -6190,15 +6172,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/opulent-moissanite-polki-mango-haram-with-emerald-drops?variant=gid://shopify/ProductVariant/68070052692274",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4062.jpg?v=1793178558"
-  },
-  "gid://shopify/ProductVariant/68070059802930": {
-    "product_title": "Traditional Jadau Kundan Long Kasulu Haram",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 4300.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/traditional-jadau-kundan-long-kasulu-haram?variant=gid://shopify/ProductVariant/68070059802930",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-4046.jpg?v=1793089381"
   },
   "gid://shopify/ProductVariant/68070064652594": {
     "product_title": "Elegant Jadau Kundan Kasulu Haram With Green Drops",
@@ -6289,6 +6262,15 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/designer-jadau-kundan-bangles-with-floral-motif-and-multi-stone-work?variant=gid://shopify/ProductVariant/51045319835954",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/E6701E62-386E-4632-A737-AB5A1127979E.jpg?v=1792825526"
+  },
+  "gid://shopify/ProductVariant/51056756228402": {
+    "product_title": "Delicate Gold Finish Jadau Kundan Floral Necklace",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 3800.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/delicate-gold-finish-jadau-kundan-floral-necklace?variant=gid://shopify/ProductVariant/51056756228402",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6E7EF6A9-8EB1-4B45-BC12-CDE5D0AE840A.jpg?v=1775907599"
   },
   "gid://shopify/ProductVariant/51090428821810": {
     "product_title": "Designer Jadau Kundan Bangle With Floral Pattern",
@@ -6595,5 +6577,23 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/elegant-emerald-victorian-necklace-with-pearl-drops-and-matching-earrings?variant=gid://shopify/ProductVariant/68070021038386",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/5742B646-485D-48B4-AFAC-EFF9F2F945F0.jpg?v=1793088424"
+  },
+  "gid://shopify/ProductVariant/68070026084658": {
+    "product_title": "Ethnic Double Layer Victorian Necklace With Matching Earrings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 7000.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/ethnic-double-layer-victorian-necklace-with-matching-earrings?variant=gid://shopify/ProductVariant/68070026084658",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6A1D79CD-872F-49E0-867C-AF16B8B0E486.jpg?v=1793088598"
+  },
+  "gid://shopify/ProductVariant/68070059802930": {
+    "product_title": "Traditional Jadau Kundan Long Kasulu Haram",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 4300.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/traditional-jadau-kundan-long-kasulu-haram?variant=gid://shopify/ProductVariant/68070059802930",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-4046.jpg?v=1793089381"
   }
 }
