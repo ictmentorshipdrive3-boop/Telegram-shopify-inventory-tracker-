@@ -679,7 +679,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R11846",
     "price": 2940.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/raghukul-ratnaraj-studs?variant=gid://shopify/ProductVariant/50869189050665",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R2230.jpg?v=1751348656"
   },
@@ -2464,15 +2464,6 @@
     "stock": 3,
     "url": "https://www.rasasilver.com/products/no-image-11?variant=gid://shopify/ProductVariant/50677089304873",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_bb5643c6-3b7f-4b51-a79c-d7b8fc3d15fb.jpg?v=1754038998"
-  },
-  "gid://shopify/ProductVariant/50711198564649": {
-    "product_title": "Ruby Rohini Studs",
-    "variant_title": "Default Title",
-    "sku": "R10528",
-    "price": 2800.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/ruby-rohini-studs?variant=gid://shopify/ProductVariant/50711198564649",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_4c902a52-9723-4e62-b14e-12f8f355af31.jpg?v=1754912871"
   },
   "gid://shopify/ProductVariant/51472832233769": {
     "product_title": "Sparsh Hanging Earrings",
@@ -12165,15 +12156,6 @@
     "price": 1190.0,
     "stock": 3,
     "url": "https://www.rasasilver.com/products/mor-madhavi-nath-1?variant=gid://shopify/ProductVariant/52724317684009",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459251.jpg?v=1789123934"
-  },
-  "gid://shopify/ProductVariant/52724317716777": {
-    "product_title": "Mor Madhavi Nath",
-    "variant_title": "GREEN",
-    "sku": "R33833",
-    "price": 1190.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/mor-madhavi-nath-1?variant=gid://shopify/ProductVariant/52724317716777",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459251.jpg?v=1789123934"
   },
   "gid://shopify/ProductVariant/52728777113897": {
@@ -24001,6 +23983,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/ganapati-ratna-necklace?variant=gid://shopify/ProductVariant/50648922685737",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-8_4c3d97ce-6434-4884-9d1c-3253dc5c5219.jpg?v=1754027174"
+  },
+  "gid://shopify/ProductVariant/50711198564649": {
+    "product_title": "Ruby Rohini Studs",
+    "variant_title": "Default Title",
+    "sku": "R10528",
+    "price": 2800.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ruby-rohini-studs?variant=gid://shopify/ProductVariant/50711198564649",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_4c902a52-9723-4e62-b14e-12f8f355af31.jpg?v=1754912871"
   },
   "gid://shopify/ProductVariant/51472832201001": {
     "product_title": "Sparsh Hanging Earrings",
@@ -39436,6 +39427,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/queen-s-twin-cz-necklace?variant=gid://shopify/ProductVariant/52723801096489",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00240_copy_resized.jpg?v=1772278729"
+  },
+  "gid://shopify/ProductVariant/52724317716777": {
+    "product_title": "Mor Madhavi Nath",
+    "variant_title": "GREEN",
+    "sku": "R33833",
+    "price": 1190.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/mor-madhavi-nath-1?variant=gid://shopify/ProductVariant/52724317716777",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459251.jpg?v=1789123934"
   },
   "gid://shopify/ProductVariant/52728865751337": {
     "product_title": "Mor Kireetam Nakshi Necklace",
