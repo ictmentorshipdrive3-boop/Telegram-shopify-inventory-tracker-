@@ -5597,15 +5597,6 @@
     "url": "https://www.dulhanjewels.com/products/gold-look-jadau-kundan-necklace-with-drops?variant=gid://shopify/ProductVariant/67902976590130",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/A67AA803-8B42-449F-B34C-29A4D114C22D.jpg?v=1791034608"
   },
-  "gid://shopify/ProductVariant/67902977114418": {
-    "product_title": "Statement Simple Jadau Kundan Pearl Choker",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1250.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/statement-simple-jadau-kundan-pearl-choker?variant=gid://shopify/ProductVariant/67902977114418",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/4F92CE0F-3F5E-4361-9175-C5E421E9EF7F.jpg?v=1791034848"
-  },
   "gid://shopify/ProductVariant/67902979834162": {
     "product_title": "Bridal Jadau Kundan Reversible Necklace With Strawberry Beads",
     "variant_title": "Default Title",
@@ -6001,15 +5992,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/elegant-ruby-victorian-chandbali-earrings?variant=gid://shopify/ProductVariant/67973809635634",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/1687E358-B6F0-47CF-B4A9-7E905456B33D.jpg?v=1792054547"
-  },
-  "gid://shopify/ProductVariant/67973815107890": {
-    "product_title": "Designer Jadau Kundan Studs With Pearl Bordering",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1000.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/designer-jadau-kundan-studs-with-pearl-bordering?variant=gid://shopify/ProductVariant/67973815107890",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_5fb2cca9-4e46-4669-a930-b63d871fd322.jpg?v=1792062994"
   },
   "gid://shopify/ProductVariant/67973815632178": {
     "product_title": "Unique Jadau Kundan Earrings With Green Drops",
@@ -6560,6 +6542,15 @@
     "url": "https://www.dulhanjewels.com/products/elegant-polki-kundan-bangle-with-stone-detailing?variant=gid://shopify/ProductVariant/68097874821426",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/8BFF590A-EC49-4B4B-9889-B2A8634A2625.jpg?v=1789555537"
   },
+  "gid://shopify/ProductVariant/67902977114418": {
+    "product_title": "Statement Simple Jadau Kundan Pearl Choker",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1250.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/statement-simple-jadau-kundan-pearl-choker?variant=gid://shopify/ProductVariant/67902977114418",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/4F92CE0F-3F5E-4361-9175-C5E421E9EF7F.jpg?v=1791034848"
+  },
   "gid://shopify/ProductVariant/67931483242802": {
     "product_title": "Ethnic jadau kundan stud Earrings With Emerald Beads Bordering",
     "variant_title": "Default Title",
@@ -6568,5 +6559,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/ethnic-jadau-kundan-stud-earrings-with-emerald-beads-bordering?variant=gid://shopify/ProductVariant/67931483242802",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_0fca6152-e0b3-4d30-bd62-b2305b637e7e.jpg?v=1791535692"
+  },
+  "gid://shopify/ProductVariant/67973815107890": {
+    "product_title": "Designer Jadau Kundan Studs With Pearl Bordering",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1000.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/designer-jadau-kundan-studs-with-pearl-bordering?variant=gid://shopify/ProductVariant/67973815107890",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_5fb2cca9-4e46-4669-a930-b63d871fd322.jpg?v=1792062994"
   }
 }
