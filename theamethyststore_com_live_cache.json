@@ -110717,15 +110717,6 @@
     "url": "https://www.theamethyststore.com/products/expertly-shaped-nagas-chandhubaali?variant=gid://shopify/ProductVariant/67822025769187",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16759.jpg?v=1793104720"
   },
-  "gid://shopify/ProductVariant/67833923043555": {
-    "product_title": "Dazzling Diamond Design Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-2420",
-    "price": 2600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/dazzling-diamond-design-ring?variant=gid://shopify/ProductVariant/67833923043555",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2420.jpg?v=1793164661"
-  },
   "gid://shopify/ProductVariant/67833942671587": {
     "product_title": "Brilliant Shine Diamond Design Ring",
     "variant_title": "Default Title",
@@ -110983,7 +110974,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5662",
     "price": 20200.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/prismatic-elegance-avikam-pendant-set?variant=gid://shopify/ProductVariant/67837463036131",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5662.jpg?v=1793186941"
   },
@@ -150631,5 +150622,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/royal-bloom-nagas-short-necklace?variant=gid://shopify/ProductVariant/67812028186851",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19046.jpg?v=1793022014"
+  },
+  "gid://shopify/ProductVariant/67833923043555": {
+    "product_title": "Dazzling Diamond Design Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2420",
+    "price": 2600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/dazzling-diamond-design-ring?variant=gid://shopify/ProductVariant/67833923043555",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2420.jpg?v=1793164661"
   }
 }
