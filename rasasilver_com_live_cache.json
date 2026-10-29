@@ -2249,15 +2249,6 @@
     "url": "https://www.rasasilver.com/products/padmakshi-necklace?variant=gid://shopify/ProductVariant/50583327801641",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_b4bc5b7e-34b1-4ee4-b897-ba5ba1a885fe.jpg?v=1751353636"
   },
-  "gid://shopify/ProductVariant/50593006649641": {
-    "product_title": "Wristora CZ Watch",
-    "variant_title": "Default Title",
-    "sku": "R9172",
-    "price": 13860.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/wristora-cz-watch?variant=gid://shopify/ProductVariant/50593006649641",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_15_Sept2248_resized.jpg?v=1758609648"
-  },
   "gid://shopify/ProductVariant/52382733893929": {
     "product_title": "Pearleela Victorian Necklace Set",
     "variant_title": "GREEN",
@@ -24361,6 +24352,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/ardhanari-shringar-choker?variant=gid://shopify/ProductVariant/50564847370537",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2_7f757899-b4e3-4f2a-a12b-1a710ba44439.jpg?v=1757489092"
+  },
+  "gid://shopify/ProductVariant/50593006649641": {
+    "product_title": "Wristora CZ Watch",
+    "variant_title": "Default Title",
+    "sku": "R9172",
+    "price": 13860.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/wristora-cz-watch?variant=gid://shopify/ProductVariant/50593006649641",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_15_Sept2248_resized.jpg?v=1758609648"
   },
   "gid://shopify/ProductVariant/52382733861161": {
     "product_title": "Pearleela Victorian Necklace Set",
@@ -49210,6 +49210,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/kundanri-reversible-necklace-set?variant=gid://shopify/ProductVariant/67639516922153",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_52_58Pics_16Oct0408.jpg?v=1793260792"
+  },
+  "gid://shopify/ProductVariant/67639766778153": {
+    "product_title": "Maanga Reversible Kundan Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R37861",
+    "price": 58905.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/kundan-necklace-set-1?variant=gid://shopify/ProductVariant/67639766778153",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_52_58Pics_16Oct0388.jpg?v=1793261801"
   },
   "gid://shopify/ProductVariant/67658183278889": {
     "product_title": "Kanaka Nakshi Kaankarela",
