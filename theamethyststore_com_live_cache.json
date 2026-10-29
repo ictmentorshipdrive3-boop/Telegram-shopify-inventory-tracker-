@@ -10939,7 +10939,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-6609",
     "price": 7100.0,
-    "stock": 5,
+    "stock": 12,
     "url": "https://www.theamethyststore.com/products/srimitha-kundan-drops?variant=gid://shopify/ProductVariant/45479452115171",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6609.jpg?v=1725459073"
   },
@@ -58576,7 +58576,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-15294",
     "price": 54400.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/nadhiya-long-necklace-set?variant=gid://shopify/ProductVariant/48632059756771",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15294.jpg?v=1775126278"
   },
@@ -91799,6 +91799,15 @@
     "url": "https://www.theamethyststore.com/products/avikam-jhumkas?variant=gid://shopify/ProductVariant/49658912833763",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15945.jpg?v=1788329564"
   },
+  "gid://shopify/ProductVariant/49658916896995": {
+    "product_title": "Tharikaa Avikam Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15944",
+    "price": 8100.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/avikam-jhumkas-3?variant=gid://shopify/ProductVariant/49658916896995",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15944.jpg?v=1788329674"
+  },
   "gid://shopify/ProductVariant/49658918240483": {
     "product_title": "Flows with Grace Avikam Jhumkas",
     "variant_title": "Default Title",
@@ -92140,15 +92149,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/goddess-like-avikam-maangtikka?variant=gid://shopify/ProductVariant/49664503480547",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2488.jpg?v=1788428336"
-  },
-  "gid://shopify/ProductVariant/49664503709923": {
-    "product_title": "Andhikaa Kundan Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-5009",
-    "price": 11589.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kundan-pendant-7?variant=gid://shopify/ProductVariant/49664503709923",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5009.jpg?v=1788428248"
   },
   "gid://shopify/ProductVariant/49664511508707": {
     "product_title": "Dhansikha Kundan Pendant",
@@ -147914,15 +147914,6 @@
     "url": "https://www.theamethyststore.com/products/avikam-earrings-4?variant=gid://shopify/ProductVariant/49658888093923",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15948.jpg?v=1788329002"
   },
-  "gid://shopify/ProductVariant/49658916896995": {
-    "product_title": "Tharikaa Avikam Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15944",
-    "price": 7100.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/avikam-jhumkas-3?variant=gid://shopify/ProductVariant/49658916896995",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15944.jpg?v=1788329674"
-  },
   "gid://shopify/ProductVariant/49658957299939": {
     "product_title": "Graceful Legacy Avikam Jhumkas",
     "variant_title": "Default Title",
@@ -148039,6 +148030,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/kundan-necklace?variant=gid://shopify/ProductVariant/49664484212963",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17710.jpg?v=1788427395"
+  },
+  "gid://shopify/ProductVariant/49664503709923": {
+    "product_title": "Andhikaa Kundan Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5009",
+    "price": 11589.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-7?variant=gid://shopify/ProductVariant/49664503709923",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5009.jpg?v=1788428248"
   },
   "gid://shopify/ProductVariant/49664515178723": {
     "product_title": "Ashikaa Kundan Pendant",
