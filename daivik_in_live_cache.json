@@ -760,7 +760,7 @@
     "variant_title": "Default Title",
     "sku": "612",
     "price": 1299.0,
-    "stock": 54,
+    "stock": 53,
     "url": "https://www.daivik.in/products/simple-peacock-motif-mattals?variant=gid://shopify/ProductVariant/38087335542937",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/simple-peacock-motif-mattals-other-essentials-769.jpg?v=1613486525"
   },
@@ -16069,7 +16069,7 @@
     "variant_title": "Default Title",
     "sku": "282",
     "price": 1199.0,
-    "stock": 15,
+    "stock": 14,
     "url": "https://www.daivik.in/products/carved-moissanite-necklace-with-earrings?variant=gid://shopify/ProductVariant/47758182514910",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8481.heic?v=1765891457"
   },
@@ -16375,7 +16375,7 @@
     "variant_title": "Default Title",
     "sku": "1780",
     "price": 399.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.daivik.in/products/peacock-saree-pin?variant=gid://shopify/ProductVariant/47821117423838",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/70474FE3-7456-4708-887E-FC1CC0F03E2D.jpg?v=1768225021"
   },
@@ -21796,15 +21796,6 @@
     "stock": 22,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26326?variant=gid://shopify/ProductVariant/49155193929950",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6602.jpg?v=1791378109"
-  },
-  "gid://shopify/ProductVariant/49155194388702": {
-    "product_title": "Diwali Sale Earrings D26327",
-    "variant_title": "Default Title",
-    "sku": "D26327",
-    "price": 1299.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26327?variant=gid://shopify/ProductVariant/49155194388702",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6604.jpg?v=1791378117"
   },
   "gid://shopify/ProductVariant/49155194749150": {
     "product_title": "Diwali Sale Earrings D26329",
@@ -35233,6 +35224,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26324?variant=gid://shopify/ProductVariant/49155193307358",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6598.jpg?v=1791377941"
+  },
+  "gid://shopify/ProductVariant/49155194388702": {
+    "product_title": "Diwali Sale Earrings D26327",
+    "variant_title": "Default Title",
+    "sku": "D26327",
+    "price": 1299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26327?variant=gid://shopify/ProductVariant/49155194388702",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6604.jpg?v=1791378117"
   },
   "gid://shopify/ProductVariant/49155194487006": {
     "product_title": "Diwali Sale Earrings D26328",
