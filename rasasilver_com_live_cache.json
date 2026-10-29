@@ -11366,15 +11366,6 @@
     "url": "https://www.rasasilver.com/products/redora-green-victorian-necklace?variant=gid://shopify/ProductVariant/52554339746089",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_113_Pics_29Jan4140.jpg?v=1770296801"
   },
-  "gid://shopify/ProductVariant/52554382475561": {
-    "product_title": "Pear Leaf Victorian Kanti",
-    "variant_title": "Default Title",
-    "sku": "R24290",
-    "price": 17440.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/pear-leaf-victorian-kanti?variant=gid://shopify/ProductVariant/52554382475561",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_30Jan2442_resized.jpg?v=1770477291"
-  },
   "gid://shopify/ProductVariant/52554400956713": {
     "product_title": "Ruby Oval Victorian Kanti",
     "variant_title": "Default Title",
@@ -20947,7 +20938,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R33496",
     "price": 89200.0,
-    "stock": 1,
+    "stock": 9999,
     "url": "https://www.rasasilver.com/products/shree-samriddhi-temple-necklace?variant=gid://shopify/ProductVariant/53411227369769",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_10Aug56782F.jpg?v=1787385274"
   },
@@ -20956,7 +20947,7 @@
     "variant_title": "GREEN",
     "sku": "R33497",
     "price": 89200.0,
-    "stock": 10,
+    "stock": 9999,
     "url": "https://www.rasasilver.com/products/shree-samriddhi-temple-necklace?variant=gid://shopify/ProductVariant/53411227402537",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_10Aug56782F.jpg?v=1787385274"
   },
@@ -23881,16 +23872,25 @@
     "variant_title": "Default Title",
     "sku": "R38515",
     "price": 74970.0,
-    "stock": 5,
+    "stock": 9999,
     "url": "https://www.rasasilver.com/products/swarna-shilpa-temple-necklace?variant=gid://shopify/ProductVariant/67658178232617",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Necklace2_jpg_5537cc52-c3e3-4cad-a34e-878d616a7b54.jpg?v=1792417263"
+  },
+  "gid://shopify/ProductVariant/67658183278889": {
+    "product_title": "Kanaka Nakshi Kaankarela",
+    "variant_title": "Default Title",
+    "sku": "R38618",
+    "price": 26265.0,
+    "stock": 9999,
+    "url": "https://www.rasasilver.com/products/kanaka-nakshi-kaan-karela?variant=gid://shopify/ProductVariant/67658183278889",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/earing2_jpg.jpg?v=1792416973"
   },
   "gid://shopify/ProductVariant/67658189078825": {
     "product_title": "Aadhira Temple Kundan Necklace",
     "variant_title": "Default Title",
     "sku": "R38525",
     "price": 102680.0,
-    "stock": 5,
+    "stock": 9999,
     "url": "https://www.rasasilver.com/products/aadhira-temple-necklace?variant=gid://shopify/ProductVariant/67658189078825",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Necklace_jpg.jpg?v=1792416812"
   },
@@ -38087,6 +38087,15 @@
     "url": "https://www.rasasilver.com/products/pear-of-fire-victorian-kanti?variant=gid://shopify/ProductVariant/52554371334441",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_30Jan2435_resized.jpg?v=1770477158"
   },
+  "gid://shopify/ProductVariant/52554382475561": {
+    "product_title": "Pear Leaf Victorian Kanti",
+    "variant_title": "Default Title",
+    "sku": "R24290",
+    "price": 17440.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/pear-leaf-victorian-kanti?variant=gid://shopify/ProductVariant/52554382475561",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_30Jan2442_resized.jpg?v=1770477291"
+  },
   "gid://shopify/ProductVariant/52559344304425": {
     "product_title": "Trikosha Nakshi Necklace",
     "variant_title": "Default Title",
@@ -49256,14 +49265,23 @@
     "url": "https://www.rasasilver.com/products/haar-parrot-nakshi-kanti-set?variant=gid://shopify/ProductVariant/67640304271657",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R37976.jpg?v=1793268293"
   },
-  "gid://shopify/ProductVariant/67658183278889": {
-    "product_title": "Kanaka Nakshi Kaankarela",
+  "gid://shopify/ProductVariant/67640319443241": {
+    "product_title": "Haritika Stone Necklace",
     "variant_title": "Default Title",
-    "sku": "R38618",
-    "price": 26265.0,
+    "sku": "R37932",
+    "price": 12665.0,
     "stock": 0,
-    "url": "https://www.rasasilver.com/products/kanaka-nakshi-kaan-karela?variant=gid://shopify/ProductVariant/67658183278889",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/earing2_jpg.jpg?v=1792416973"
+    "url": "https://www.rasasilver.com/products/haritika-stone-necklace?variant=gid://shopify/ProductVariant/67640319443241",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_52_58Pics_16Oct0137.jpg?v=1793268948"
+  },
+  "gid://shopify/ProductVariant/67640332878121": {
+    "product_title": "Kalyanika Temple Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R37345",
+    "price": 54825.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/temple-necklace-set-4?variant=gid://shopify/ProductVariant/67640332878121",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R37345.jpg?v=1793269318"
   },
   "gid://shopify/ProductVariant/67700228587817": {
     "product_title": "Muktamala Stone Kanti",
