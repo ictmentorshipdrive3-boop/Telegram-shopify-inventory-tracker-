@@ -95597,15 +95597,6 @@
     "url": "https://www.theamethyststore.com/products/ishmira-short-necklace-set?variant=gid://shopify/ProductVariant/49737088696547",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15735_d8badfaa-2327-4d2d-860e-33356b796a60.jpg?v=1789454467"
   },
-  "gid://shopify/ProductVariant/49737088860387": {
-    "product_title": "Shreya Avikam Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-15125",
-    "price": 49700.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/shreya-avikam-necklace-set?variant=gid://shopify/ProductVariant/49737088860387",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15125_7af0e3bf-72c3-4d0b-b7f0-9877a600db19.jpg?v=1789538194"
-  },
   "gid://shopify/ProductVariant/49737089024227": {
     "product_title": "Florida Avikam Short Necklace Set",
     "variant_title": "Default Title",
@@ -96457,7 +96448,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18143",
     "price": 52600.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/graceful-ornate-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/49770077290723",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18143.jpg?v=1789739260"
   },
@@ -97420,7 +97411,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16160",
     "price": 4600.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/mrinalini-diamond-design-studs?variant=gid://shopify/ProductVariant/49794383970531",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16160.jpg?v=1790073169"
   },
@@ -99733,7 +99724,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16273",
     "price": 7904.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/seravia-stone-studs?variant=gid://shopify/ProductVariant/67594784866531",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16273.jpg?v=1790590107"
   },
@@ -104512,7 +104503,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5311",
     "price": 20600.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/vibrant-stone-pendant?variant=gid://shopify/ProductVariant/67661773537507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5311.jpg?v=1791728012"
   },
@@ -107752,7 +107743,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-2520",
     "price": 47126.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/attractive-layered-hair-maatal?variant=gid://shopify/ProductVariant/67726919500003",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2520.jpg?v=1792301267"
   },
@@ -110488,7 +110479,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5644",
     "price": 9000.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/brilliant-bloom-avikam-pendant-set?variant=gid://shopify/ProductVariant/67837207544035",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5644.jpg?v=1793183502"
   },
@@ -148858,6 +148849,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/malika-avikam-necklace-set?variant=gid://shopify/ProductVariant/49737088794851",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15127_2575b6d7-f74a-43c7-bf04-bd9050b6056e.jpg?v=1789538063"
+  },
+  "gid://shopify/ProductVariant/49737088860387": {
+    "product_title": "Shreya Avikam Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15125",
+    "price": 49700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/shreya-avikam-necklace-set?variant=gid://shopify/ProductVariant/49737088860387",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15125_7af0e3bf-72c3-4d0b-b7f0-9877a600db19.jpg?v=1789538194"
   },
   "gid://shopify/ProductVariant/49739018436835": {
     "product_title": "Abundnat Nagas Choker",
