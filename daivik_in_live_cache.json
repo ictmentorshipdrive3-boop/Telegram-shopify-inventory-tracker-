@@ -2920,7 +2920,7 @@
     "variant_title": "Default Title",
     "sku": "538",
     "price": 999.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/a-327?variant=gid://shopify/ProductVariant/43546226196702",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_53420f7a-2acc-41f8-89b3-e97b3002fb4c.heic?v=1666190684"
   },
@@ -6540,15 +6540,6 @@
     "price": 4199.0,
     "stock": 20,
     "url": "https://www.daivik.in/products/ruby-guttapusalu-necklace-with-earrings?variant=gid://shopify/ProductVariant/47292618735838",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EA754F23-6813-4092-8B15-2B97F15CE4C2.jpg?v=1754321906"
-  },
-  "gid://shopify/ProductVariant/47292618768606": {
-    "product_title": "Ruby Guttapusalu Necklace with earrings (Price for Combo, Short and Long)",
-    "variant_title": "Short",
-    "sku": "962",
-    "price": 1499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ruby-guttapusalu-necklace-with-earrings?variant=gid://shopify/ProductVariant/47292618768606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EA754F23-6813-4092-8B15-2B97F15CE4C2.jpg?v=1754321906"
   },
   "gid://shopify/ProductVariant/47292618801374": {
@@ -20740,7 +20731,7 @@
     "variant_title": "Default Title",
     "sku": "D26002",
     "price": 999.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26002?variant=gid://shopify/ProductVariant/49149622616286",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5930.jpg?v=1791220854"
   },
@@ -29113,6 +29104,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/untitled-may26_18-32?variant=gid://shopify/ProductVariant/45429015445726",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E9778EB0-EEE1-448C-A5BB-2F8C93C70B74.jpg?v=1716729186"
+  },
+  "gid://shopify/ProductVariant/47292618768606": {
+    "product_title": "Ruby Guttapusalu Necklace with earrings (Price for Combo, Short and Long)",
+    "variant_title": "Short",
+    "sku": "962",
+    "price": 1499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ruby-guttapusalu-necklace-with-earrings?variant=gid://shopify/ProductVariant/47292618768606",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EA754F23-6813-4092-8B15-2B97F15CE4C2.jpg?v=1754321906"
   },
   "gid://shopify/ProductVariant/45478432342238": {
     "product_title": "Victorian purple Stone Bangles",
