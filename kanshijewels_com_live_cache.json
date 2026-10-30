@@ -4549,7 +4549,7 @@
     "variant_title": "Default Title",
     "sku": "NK491",
     "price": 2310.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-chokar-26?variant=gid://shopify/ProductVariant/48242842632492",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2200_1_eb971a6d-3041-4e84-bb23-a233dbec2650.jpg?v=1710925465"
   },
@@ -5011,15 +5011,6 @@
     "stock": 4,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-maang-tika-25?variant=gid://shopify/ProductVariant/48249343476012",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1200_7_1.jpg?v=1711011587"
-  },
-  "gid://shopify/ProductVariant/48249343672620": {
-    "product_title": "Jadau Kundan Maang Tikka",
-    "variant_title": "Default Title",
-    "sku": "MT33",
-    "price": 1260.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-kundan-maang-tika-26?variant=gid://shopify/ProductVariant/48249343672620",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1200_9_1.jpg?v=1711011592"
   },
   "gid://shopify/ProductVariant/48249343901996": {
     "product_title": "Jadau Kundan Maang Tikka",
@@ -13543,6 +13534,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-earrings-145?variant=gid://shopify/ProductVariant/48243348406572",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2100_1_34927b01-c665-43cd-9d79-13ad6271df00.jpg?v=1710936584"
+  },
+  "gid://shopify/ProductVariant/48249343672620": {
+    "product_title": "Jadau Kundan Maang Tikka",
+    "variant_title": "Default Title",
+    "sku": "MT33",
+    "price": 1260.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-kundan-maang-tika-26?variant=gid://shopify/ProductVariant/48249343672620",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1200_9_1.jpg?v=1711011592"
   },
   "gid://shopify/ProductVariant/48249457213740": {
     "product_title": "Jadau Kundan Maang Tika",
