@@ -706,7 +706,7 @@
     "variant_title": "Default Title",
     "sku": "533",
     "price": 4199.0,
-    "stock": 21,
+    "stock": 20,
     "url": "https://www.daivik.in/products/3-layered-lakshmi-long-haram-with-earrings?variant=gid://shopify/ProductVariant/37736906752153",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_ea8254a6-2db2-49d1-ae9d-d17589b5e881.jpg?v=1610204549"
   },
@@ -8842,7 +8842,7 @@
     "variant_title": "Default Title",
     "sku": "1139",
     "price": 5499.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/antique-lakshmi-pendant-premium-beads-long-haram-with-jhumkas?variant=gid://shopify/ProductVariant/45996965658846",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E3EFF495-2953-491F-B389-96A7385F197E.jpg?v=1730303107"
   },
@@ -12013,15 +12013,6 @@
     "stock": 56,
     "url": "https://www.daivik.in/products/green-and-golden-beads-mattals?variant=gid://shopify/ProductVariant/47088039821534",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/644BB439-499B-43DB-9976-98F6FC04EC54.jpg?v=1752775998"
-  },
-  "gid://shopify/ProductVariant/47653875679454": {
-    "product_title": "Invisible Circle AD Chain with Earrings",
-    "variant_title": "Ruby Green",
-    "sku": "1298",
-    "price": 699.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/invisible-circle-ad-chain-with-earrings?variant=gid://shopify/ProductVariant/47653875679454",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG-2706.heic?v=1762238741"
   },
   "gid://shopify/ProductVariant/47088044835038": {
     "product_title": "Simple Anklets Designs in 4 Styles (Price for Each)",
@@ -20695,7 +20686,7 @@
     "variant_title": "Default Title",
     "sku": "D26002",
     "price": 999.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26002?variant=gid://shopify/ProductVariant/49149622616286",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5930.jpg?v=1791220854"
   },
@@ -20914,15 +20905,6 @@
     "stock": 13,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26023?variant=gid://shopify/ProductVariant/49149623664862",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6042_55d5e867-1409-430d-8044-8633a5a592d3.jpg?v=1791221154"
-  },
-  "gid://shopify/ProductVariant/49152675971294": {
-    "product_title": "Diwali Sale Necklace D26025",
-    "variant_title": "Ruby",
-    "sku": "D26025",
-    "price": 249.0,
-    "stock": 2,
-    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26025?variant=gid://shopify/ProductVariant/49152675971294",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6052.jpg?v=1791221213"
   },
   "gid://shopify/ProductVariant/49152676004062": {
     "product_title": "Diwali Sale Necklace D26025",
@@ -22090,7 +22072,7 @@
     "variant_title": "Ruby Green",
     "sku": "D26373",
     "price": 349.0,
-    "stock": 27,
+    "stock": 26,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26373?variant=gid://shopify/ProductVariant/49162131472606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6716.jpg?v=1791444804"
   },
@@ -22279,7 +22261,7 @@
     "variant_title": "Default Title",
     "sku": "D26101",
     "price": 599.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26101?variant=gid://shopify/ProductVariant/49169744134366",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6785.jpg?v=1791457336"
   },
@@ -22846,7 +22828,7 @@
     "variant_title": "Dark Green",
     "sku": "D26174",
     "price": 799.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26174?variant=gid://shopify/ProductVariant/49169795743966",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7286.jpg?v=1791532779"
   },
@@ -31904,6 +31886,15 @@
     "url": "https://www.daivik.in/products/antique-hipchain-in-3-styles-price-for-each?variant=gid://shopify/ProductVariant/47088065708254",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/rn-image_picker_lib_temp_6f1d8ec8-7294-4789-983c-97f243ca7ed8.jpg?v=1752778438"
   },
+  "gid://shopify/ProductVariant/47653875679454": {
+    "product_title": "Invisible Circle AD Chain with Earrings",
+    "variant_title": "Ruby Green",
+    "sku": "1298",
+    "price": 699.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/invisible-circle-ad-chain-with-earrings?variant=gid://shopify/ProductVariant/47653875679454",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG-2706.heic?v=1762238741"
+  },
   "gid://shopify/ProductVariant/47653875712222": {
     "product_title": "Invisible Circle AD Chain with Earrings",
     "variant_title": "White",
@@ -34846,6 +34837,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26017?variant=gid://shopify/ProductVariant/49152677839070",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6010.jpg?v=1791221105"
+  },
+  "gid://shopify/ProductVariant/49152675971294": {
+    "product_title": "Diwali Sale Necklace D26025",
+    "variant_title": "Ruby",
+    "sku": "D26025",
+    "price": 249.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26025?variant=gid://shopify/ProductVariant/49152675971294",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6052.jpg?v=1791221213"
   },
   "gid://shopify/ProductVariant/49152676036830": {
     "product_title": "Diwali Sale Necklace D26025",
