@@ -4009,7 +4009,7 @@
     "variant_title": "Default Title",
     "sku": "212",
     "price": 1999.0,
-    "stock": 35,
+    "stock": 34,
     "url": "https://www.daivik.in/products/ad-peacock-pearl-long-haram-with-earrings?variant=gid://shopify/ProductVariant/44274500862174",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_5dbce46e-8e3e-457f-ad75-d280adfff07e.heic?v=1689774331"
   },
@@ -5881,7 +5881,7 @@
     "variant_title": "Default Title",
     "sku": "848",
     "price": 1999.0,
-    "stock": 42,
+    "stock": 41,
     "url": "https://www.daivik.in/products/ad-rubygreen-necklace-with-earrings?variant=gid://shopify/ProductVariant/44878478213342",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG-3942.heic?v=1710088520"
   },
@@ -12829,7 +12829,7 @@
     "variant_title": "Default Title",
     "sku": "1683",
     "price": 799.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/antique-kids-jhumkas-1?variant=gid://shopify/ProductVariant/47521442529502",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/326F4D0F-A649-4EF1-B6A8-CD06CB53B495.jpg?v=1757483142"
   },
@@ -15115,7 +15115,7 @@
     "variant_title": "Ruby Green Half moon",
     "sku": "1714",
     "price": 399.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/kemp-bugadi-in-3-variants?variant=gid://shopify/ProductVariant/47618988933342",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4BEE2619-B736-4887-A17E-AE93498A71BC.jpg?v=1760888403"
   },
@@ -20065,7 +20065,7 @@
     "variant_title": "Default Title",
     "sku": "316",
     "price": 1499.0,
-    "stock": 42,
+    "stock": 41,
     "url": "https://www.daivik.in/products/diamond-look-alike-3-layer-flower-neckalace-with-earrings?variant=gid://shopify/ProductVariant/48630564880606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1184.jpg?v=1787466208"
   },
@@ -21887,15 +21887,6 @@
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26351?variant=gid://shopify/ProductVariant/49162124853470",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6654.jpg?v=1791443978"
   },
-  "gid://shopify/ProductVariant/49162124919006": {
-    "product_title": "Diwali Sale Earrings D26352",
-    "variant_title": "Default Title",
-    "sku": "D26352",
-    "price": 749.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26352?variant=gid://shopify/ProductVariant/49162124919006",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6656.jpg?v=1791443988"
-  },
   "gid://shopify/ProductVariant/49162124984542": {
     "product_title": "Diwali Sale Earrings D26354",
     "variant_title": "Default Title",
@@ -21955,7 +21946,7 @@
     "variant_title": "Default Title",
     "sku": "D26362",
     "price": 399.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26362?variant=gid://shopify/ProductVariant/49162125377758",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6686.jpg?v=1791444649"
   },
@@ -22126,7 +22117,7 @@
     "variant_title": "Default Title",
     "sku": "D26380",
     "price": 799.0,
-    "stock": 26,
+    "stock": 25,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26380?variant=gid://shopify/ProductVariant/49162134061278",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6739.jpg?v=1791444849"
   },
@@ -35287,6 +35278,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26342?variant=gid://shopify/ProductVariant/49162124525790",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6634.jpg?v=1791443932"
+  },
+  "gid://shopify/ProductVariant/49162124919006": {
+    "product_title": "Diwali Sale Earrings D26352",
+    "variant_title": "Default Title",
+    "sku": "D26352",
+    "price": 749.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26352?variant=gid://shopify/ProductVariant/49162124919006",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6656.jpg?v=1791443988"
   },
   "gid://shopify/ProductVariant/49166694154462": {
     "product_title": "Diwali Sale Earrings D26353",
