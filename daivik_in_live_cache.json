@@ -4243,7 +4243,7 @@
     "variant_title": "Default Title",
     "sku": "395",
     "price": 799.0,
-    "stock": 20,
+    "stock": 19,
     "url": "https://www.daivik.in/products/untitled-sep5_21-04?variant=gid://shopify/ProductVariant/44335981199582",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/DEE2914A-8A94-4C23-94AB-D692BD547557.jpg?v=1693928121"
   },
@@ -9679,7 +9679,7 @@
     "variant_title": "Default Title",
     "sku": "1525",
     "price": 1299.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/peacock-white-pearl-jhumkas?variant=gid://shopify/ProductVariant/46171746336990",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0596.heic?v=1734962421"
   },
@@ -12586,7 +12586,7 @@
     "variant_title": "Ruby / 2.4",
     "sku": "1670",
     "price": 2299.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/kemp-bangles-in-2-variants?variant=gid://shopify/ProductVariant/47490358804702",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/28E11D59-774C-4D87-BE30-A43AD663C4E2.jpg?v=1756623515"
   },
@@ -15646,7 +15646,7 @@
     "variant_title": "Default Title",
     "sku": "1341",
     "price": 999.0,
-    "stock": 49,
+    "stock": 48,
     "url": "https://www.daivik.in/products/simple-ad-flower-necklace-with-earrings?variant=gid://shopify/ProductVariant/47693867483358",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1741.heic?v=1763479945"
   },
@@ -20938,7 +20938,7 @@
     "variant_title": "Ruby",
     "sku": "D26025",
     "price": 249.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26025?variant=gid://shopify/ProductVariant/49152675971294",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6052.jpg?v=1791221213"
   },
@@ -21526,15 +21526,6 @@
     "stock": 51,
     "url": "https://www.daivik.in/products/simple-lakshmi-antique-jhumkas-with-mattal?variant=gid://shopify/ProductVariant/49149771710686",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5CAECB1D-E61B-4EE3-B4E4-ECA6FD5DF575.jpg?v=1791111265"
-  },
-  "gid://shopify/ProductVariant/49149773906142": {
-    "product_title": "Simple Floral Antique Jhumkas with Mattal",
-    "variant_title": "Default Title",
-    "sku": "1982",
-    "price": 799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/simple-floral-antique-jhumkas-with-mattal?variant=gid://shopify/ProductVariant/49149773906142",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/50290B5C-2D07-4A49-BBB4-F698CCA99EC1.jpg?v=1791111602"
   },
   "gid://shopify/ProductVariant/49149774004446": {
     "product_title": "Simple Antique AD Jhumkas with Mattal",
@@ -35125,6 +35116,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26092?variant=gid://shopify/ProductVariant/49152686424286",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6504_d5d998ed-ac47-4b9d-b4a2-c13565508c7c.jpg?v=1791223830"
+  },
+  "gid://shopify/ProductVariant/49149773906142": {
+    "product_title": "Simple Floral Antique Jhumkas with Mattal",
+    "variant_title": "Default Title",
+    "sku": "1982",
+    "price": 799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/simple-floral-antique-jhumkas-with-mattal?variant=gid://shopify/ProductVariant/49149773906142",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/50290B5C-2D07-4A49-BBB4-F698CCA99EC1.jpg?v=1791111602"
   },
   "gid://shopify/ProductVariant/49155188293854": {
     "product_title": "Diwali Sale Earrings D26302",
