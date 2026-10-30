@@ -8054,15 +8054,6 @@
     "url": "https://www.kanshijewels.com/products/jadau-chokar-2?variant=gid://shopify/ProductVariant/51119680848172",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadauchokar2500.jpg?v=1747994777"
   },
-  "gid://shopify/ProductVariant/51119688548652": {
-    "product_title": "Jadau Chokar",
-    "variant_title": "Default Title",
-    "sku": "NK149",
-    "price": 2205.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-chokar-3?variant=gid://shopify/ProductVariant/51119688548652",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0758.jpg?v=1747994802"
-  },
   "gid://shopify/ProductVariant/51119693103404": {
     "product_title": "Jadau Mango Necklace",
     "variant_title": "Default Title",
@@ -9148,7 +9139,7 @@
     "variant_title": "Default Title",
     "sku": "ER131",
     "price": 920.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.kanshijewels.com/products/jadau-bugadi-1?variant=gid://shopify/ProductVariant/52441936232748",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaubugadi920.jpg?v=1766063307"
   },
@@ -11371,7 +11362,7 @@
     "variant_title": "Default Title",
     "sku": "NK949",
     "price": 2600.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.kanshijewels.com/products/jadau-nakashi-elegant-chokar?variant=gid://shopify/ProductVariant/53420272943404",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/kj17_1.jpg?v=1783577581"
   },
@@ -14047,6 +14038,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/nakashi-necklace?variant=gid://shopify/ProductVariant/51119199945004",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Nakashichokarnecklace2200.jpg?v=1747981892"
+  },
+  "gid://shopify/ProductVariant/51119688548652": {
+    "product_title": "Jadau Chokar",
+    "variant_title": "Default Title",
+    "sku": "NK149",
+    "price": 2205.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-chokar-3?variant=gid://shopify/ProductVariant/51119688548652",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0758.jpg?v=1747994802"
   },
   "gid://shopify/ProductVariant/51119726395692": {
     "product_title": "Coral Pearl Kundan fusion Rani Haram",
