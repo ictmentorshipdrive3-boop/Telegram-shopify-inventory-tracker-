@@ -3644,15 +3644,6 @@
     "url": "https://www.daivik.in/products/a-103?variant=gid://shopify/ProductVariant/44206928593118",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_b0c12209-bf7e-4ad8-9431-f87964cfb95b.heic?v=1685283410"
   },
-  "gid://shopify/ProductVariant/44212089585886": {
-    "product_title": "3 Line Multicolour Mala with earrings",
-    "variant_title": "Default Title",
-    "sku": "898",
-    "price": 2499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/3-line-multicolour-mala-with-earrings?variant=gid://shopify/ProductVariant/44212089585886",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_8b415e5f-a762-4a7e-b286-dcb2b1ac28ec.heic?v=1685632032"
-  },
   "gid://shopify/ProductVariant/44212589330654": {
     "product_title": "Victorian AD Green pearl necklace with earrings",
     "variant_title": "Default Title",
@@ -4378,7 +4369,7 @@
     "variant_title": "2.8",
     "sku": "73",
     "price": 699.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.daivik.in/products/antique-lakshmi-white-stone-bangles?variant=gid://shopify/ProductVariant/44369095033054",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/77947BBF-DB6F-4632-B632-B2DBC4C85B6D.jpg?v=1696002712"
   },
@@ -10642,7 +10633,7 @@
     "variant_title": "Default Title",
     "sku": "1243",
     "price": 799.0,
-    "stock": 44,
+    "stock": 43,
     "url": "https://www.daivik.in/products/ad-droplet-pendant-mangalsutra-with-studs?variant=gid://shopify/ProductVariant/46508274385118",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/13EEA801-9267-4995-8EE2-893E4D64D257.jpg?v=1743229820"
   },
@@ -12811,7 +12802,7 @@
     "variant_title": "Default Title",
     "sku": "1683",
     "price": 799.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/antique-kids-jhumkas-1?variant=gid://shopify/ProductVariant/47521442529502",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/326F4D0F-A649-4EF1-B6A8-CD06CB53B495.jpg?v=1757483142"
   },
@@ -17392,7 +17383,7 @@
     "variant_title": "Default Title",
     "sku": "550",
     "price": 3999.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/rashmika-mandanna-inspired-antique-bridal-jewellery?variant=gid://shopify/ProductVariant/48022270148830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3E051AAE-E0C6-42D0-981A-FF39F43F99FA.jpg?v=1774428452"
   },
@@ -21892,7 +21883,7 @@
     "variant_title": "Default Title",
     "sku": "D26362",
     "price": 399.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26362?variant=gid://shopify/ProductVariant/49162125377758",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6686.jpg?v=1791444649"
   },
@@ -22801,7 +22792,7 @@
     "variant_title": "Default Title",
     "sku": "D26177",
     "price": 499.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26177?variant=gid://shopify/ProductVariant/49169797808350",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7298.jpg?v=1791532803"
   },
@@ -27412,6 +27403,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/ad-changeable-earrings-with-4-colours?variant=gid://shopify/ProductVariant/44210810978526",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_6535067d-d306-40f8-a436-9e20ff72947c.heic?v=1685546180"
+  },
+  "gid://shopify/ProductVariant/44212089585886": {
+    "product_title": "3 Line Multicolour Mala with earrings",
+    "variant_title": "Default Title",
+    "sku": "898",
+    "price": 2499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/3-line-multicolour-mala-with-earrings?variant=gid://shopify/ProductVariant/44212089585886",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_8b415e5f-a762-4a7e-b286-dcb2b1ac28ec.heic?v=1685632032"
   },
   "gid://shopify/ProductVariant/44219189428446": {
     "product_title": "AD leaf gold finish necklace with earrings",
