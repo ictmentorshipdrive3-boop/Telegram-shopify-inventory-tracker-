@@ -110974,7 +110974,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-2448",
     "price": 22851.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/ganisha-stone-mugappu-chain?variant=gid://shopify/ProductVariant/67879146782947",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2448.jpg?v=1793442918"
   },
@@ -111175,6 +111175,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/navisha-nagas-short-necklace?variant=gid://shopify/ProductVariant/67879276609763",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18899.jpg?v=1793446626"
+  },
+  "gid://shopify/ProductVariant/67879314063587": {
+    "product_title": "Jashitha Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18901",
+    "price": 22183.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/jashitha-nagas-short-necklace-1?variant=gid://shopify/ProductVariant/67879314063587",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18901.jpg?v=1793446975"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -151459,14 +151468,5 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangles-24?variant=gid://shopify/ProductVariant/67844289691875",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3642-2.6.jpg?v=1793256522"
-  },
-  "gid://shopify/ProductVariant/67879272644835": {
-    "product_title": "Yalisha Victorian Earings",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17511 - Earings",
-    "price": 13000.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/yalisha-victorian-earings?variant=gid://shopify/ProductVariant/67879272644835",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17511_3.jpg?v=1787212119"
   }
 }
