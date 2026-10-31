@@ -4171,7 +4171,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 3150.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.dulhanjewels.com/products/fresh-water-pearls-mala-with-matching-earrings?variant=gid://shopify/ProductVariant/68033260978482",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-3841.jpg?v=1792833511"
   },
@@ -5606,15 +5606,6 @@
     "url": "https://www.dulhanjewels.com/products/minimal-jadau-kundan-jhumki-earrings?variant=gid://shopify/ProductVariant/67946052190514",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6219710745033773797.jpg?v=1791640851"
   },
-  "gid://shopify/ProductVariant/67946055139634": {
-    "product_title": "Classic Jadau Kundan Jhumka Earrings With Green Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1350.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/classic-jadau-kundan-jhumka-earrings-with-green-drops?variant=gid://shopify/ProductVariant/67946055139634",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6219710745033773789.jpg?v=1791639420"
-  },
   "gid://shopify/ProductVariant/67962362954034": {
     "product_title": "Traditional Peacock Design Jadau Kundan Necklace With Ricepearl Hangings",
     "variant_title": "Default Title",
@@ -6496,6 +6487,15 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/unique-jadau-kundan-chandbali-earrings?variant=gid://shopify/ProductVariant/67931496382770",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_b0011c4d-662d-4a9a-b1ca-82dabf84bab6.jpg?v=1791535563"
+  },
+  "gid://shopify/ProductVariant/67946055139634": {
+    "product_title": "Classic Jadau Kundan Jhumka Earrings With Green Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1350.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/classic-jadau-kundan-jhumka-earrings-with-green-drops?variant=gid://shopify/ProductVariant/67946055139634",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6219710745033773789.jpg?v=1791639420"
   },
   "gid://shopify/ProductVariant/67962527842610": {
     "product_title": "Designer Jadau Kundan Choker With Green Drops",
