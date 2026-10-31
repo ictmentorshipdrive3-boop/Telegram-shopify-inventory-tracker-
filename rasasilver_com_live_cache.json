@@ -16703,15 +16703,6 @@
     "url": "https://www.rasasilver.com/products/vaidehi-stone-matil?variant=gid://shopify/ProductVariant/53269154693417",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262114_resized.jpg?v=1781546530"
   },
-  "gid://shopify/ProductVariant/53269154726185": {
-    "product_title": "Vaidehi Stone Matil",
-    "variant_title": "Ruby Pink",
-    "sku": "R28555",
-    "price": 13430.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/vaidehi-stone-matil?variant=gid://shopify/ProductVariant/53269154726185",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262114_resized.jpg?v=1781546530"
-  },
   "gid://shopify/ProductVariant/53323494293801": {
     "product_title": "Haritha Stone Matil",
     "variant_title": "GREEN",
@@ -21523,7 +21514,7 @@
     "variant_title": "Gold",
     "sku": "R32678",
     "price": 1360.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/yutika-kundan-septum-ring?variant=gid://shopify/ProductVariant/53479005454633",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_4459303.jpg?v=1789110397"
   },
@@ -23560,15 +23551,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/saanvi-nakshi-studs?variant=gid://shopify/ProductVariant/67574035677481",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct21216.jpg?v=1791371732"
-  },
-  "gid://shopify/ProductVariant/67594689904937": {
-    "product_title": "The Windsor Moissanite Ring",
-    "variant_title": "Default Title",
-    "sku": "R30760",
-    "price": 11220.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/the-windsor-victorian-ring?variant=gid://shopify/ProductVariant/67594689904937",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageOct9_2026_11_52_00AM_c061e8e5-7b15-472d-905d-96a954f9a2a2.png?v=1791527037"
   },
   "gid://shopify/ProductVariant/67594987241769": {
     "product_title": "Amara Kundan Kada",
@@ -44918,6 +44900,15 @@
     "url": "https://www.rasasilver.com/products/pear-tara-stone-matil?variant=gid://shopify/ProductVariant/53267713720617",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262096_resized.jpg?v=1781545847"
   },
+  "gid://shopify/ProductVariant/53269154726185": {
+    "product_title": "Vaidehi Stone Matil",
+    "variant_title": "Ruby Pink",
+    "sku": "R28555",
+    "price": 13430.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/vaidehi-stone-matil?variant=gid://shopify/ProductVariant/53269154726185",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262114_resized.jpg?v=1781546530"
+  },
   "gid://shopify/ProductVariant/53323494326569": {
     "product_title": "Haritha Stone Matil",
     "variant_title": "Swarovski",
@@ -49102,6 +49093,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/ruhani-kundan-studs?variant=gid://shopify/ProductVariant/67574170648873",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct21212.jpg?v=1791376944"
+  },
+  "gid://shopify/ProductVariant/67594689904937": {
+    "product_title": "The Windsor Moissanite Ring",
+    "variant_title": "Default Title",
+    "sku": "R30760",
+    "price": 11220.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/the-windsor-victorian-ring?variant=gid://shopify/ProductVariant/67594689904937",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageOct9_2026_11_52_00AM_c061e8e5-7b15-472d-905d-96a954f9a2a2.png?v=1791527037"
   },
   "gid://shopify/ProductVariant/67596706119977": {
     "product_title": "Pearl Blossom CZ Necklace Set",
