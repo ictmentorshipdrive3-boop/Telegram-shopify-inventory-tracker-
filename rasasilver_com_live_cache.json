@@ -656,15 +656,6 @@
     "url": "https://www.rasasilver.com/products/amrapali-earrings?variant=gid://shopify/ProductVariant/50869229355305",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP05539_copy.jpg?v=1743660082"
   },
-  "gid://shopify/ProductVariant/53302306275625": {
-    "product_title": "Amrapali Stone Earrings",
-    "variant_title": "GREEN",
-    "sku": "R31833",
-    "price": 3150.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/amrapali-earrings?variant=gid://shopify/ProductVariant/53302306275625",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP05539_copy.jpg?v=1743660082"
-  },
   "gid://shopify/ProductVariant/50074586120489": {
     "product_title": "Pachai Ratnam Stud Earrings",
     "variant_title": "Default Title",
@@ -688,7 +679,7 @@
     "variant_title": "Default Title",
     "sku": "R20419",
     "price": 2880.0,
-    "stock": 13,
+    "stock": 12,
     "url": "https://www.rasasilver.com/products/flowery-ruby-studs?variant=gid://shopify/ProductVariant/50082055651625",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP05460_copy.jpg?v=1743511206"
   },
@@ -23713,6 +23704,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/surya-prabha-navaratna-necklace?variant=gid://shopify/ProductVariant/50062342521129",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/28.jpg?v=1743503375"
+  },
+  "gid://shopify/ProductVariant/53302306275625": {
+    "product_title": "Amrapali Stone Earrings",
+    "variant_title": "GREEN",
+    "sku": "R31833",
+    "price": 3150.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/amrapali-earrings?variant=gid://shopify/ProductVariant/53302306275625",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP05539_copy.jpg?v=1743660082"
   },
   "gid://shopify/ProductVariant/50869189083433": {
     "product_title": "Raghukul Ratnaraj Studs",
