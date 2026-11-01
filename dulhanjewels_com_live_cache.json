@@ -557,15 +557,6 @@
     "url": "https://www.dulhanjewels.com/products/bridal-emerald-polki-long-necklace-set-with-earrings?variant=gid://shopify/ProductVariant/50904812814642",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/AB243DAC-0DAA-40C3-8166-D751412AD8A7.jpg?v=1732888496"
   },
-  "gid://shopify/ProductVariant/49575221330226": {
-    "product_title": "Opulent Polki Kundan Hanging Earrings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2050.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/opulent-polki-kundan-hanging-earrings?variant=gid://shopify/ProductVariant/49575221330226",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_841b8c94-47fa-4ba3-9c3e-76ba13554e56.jpg?v=1791363278"
-  },
   "gid://shopify/ProductVariant/67870367449394": {
     "product_title": "Bridal Polki Chandbali Earrings",
     "variant_title": "Green",
@@ -3986,15 +3977,6 @@
     "url": "https://www.dulhanjewels.com/products/radiant-lakshmi-devi-pendant-with-emerald-beads?variant=gid://shopify/ProductVariant/51494614303026",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9099.jpg?v=1784631881"
   },
-  "gid://shopify/ProductVariant/51494622527794": {
-    "product_title": "Graceful Laxmi Devi Pendant With Rice Pearls",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1100.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/graceful-laxmi-devi-pendant-with-rice-pearls?variant=gid://shopify/ProductVariant/51494622527794",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9100.jpg?v=1784631881"
-  },
   "gid://shopify/ProductVariant/51501273284914": {
     "product_title": "White Polki Kundan Jhumka Earrings With Green Beads",
     "variant_title": "Default Title",
@@ -5480,15 +5462,6 @@
     "url": "https://www.dulhanjewels.com/products/victorian-emerald-maang-tikka-with-ruby-and-polki-accents?variant=gid://shopify/ProductVariant/67945920069938",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/Replace_background_of_jewelry_image_4K_20261010192728.jpg?v=1791640775"
   },
-  "gid://shopify/ProductVariant/67945953788210": {
-    "product_title": "Phool Design Jadau Kundan Jhumka Earrings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1150.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/phool-design-jadau-kundan-jhumka-earrings?variant=gid://shopify/ProductVariant/67945953788210",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6219710745033773787.jpg?v=1791639420"
-  },
   "gid://shopify/ProductVariant/67945998254386": {
     "product_title": "Chand Studded Jadau Kundan Jhumka Earrings",
     "variant_title": "Default Title",
@@ -6110,6 +6083,15 @@
     "url": "https://www.dulhanjewels.com/products/moissanite-victorian-choker-set-with-maang-tikka-earrings?variant=gid://shopify/ProductVariant/48813700612402",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/EF0462DB-3B85-4BD3-AE20-1340F35D5024.jpg?v=1781002462"
   },
+  "gid://shopify/ProductVariant/49575221330226": {
+    "product_title": "Opulent Polki Kundan Hanging Earrings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2050.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/opulent-polki-kundan-hanging-earrings?variant=gid://shopify/ProductVariant/49575221330226",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_841b8c94-47fa-4ba3-9c3e-76ba13554e56.jpg?v=1791363278"
+  },
   "gid://shopify/ProductVariant/49755210449202": {
     "product_title": "Regal Polki Mehandi Victorian Chand Bali Earrings",
     "variant_title": "Orange",
@@ -6217,6 +6199,15 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/designer-necklace-set-with-matching-earrings?variant=gid://shopify/ProductVariant/51484147286322",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/00238A1B-10CD-42BC-B711-604A25A2B6D9.jpg?v=1784285173"
+  },
+  "gid://shopify/ProductVariant/51494622527794": {
+    "product_title": "Graceful Laxmi Devi Pendant With Rice Pearls",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1100.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/graceful-laxmi-devi-pendant-with-rice-pearls?variant=gid://shopify/ProductVariant/51494622527794",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9100.jpg?v=1784631881"
   },
   "gid://shopify/ProductVariant/51505705189682": {
     "product_title": "Classy Jadau Kundan Bangle With Floral Center",
@@ -6415,6 +6406,15 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/unique-jadau-kundan-chandbali-earrings?variant=gid://shopify/ProductVariant/67931496382770",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_b0011c4d-662d-4a9a-b1ca-82dabf84bab6.jpg?v=1791535563"
+  },
+  "gid://shopify/ProductVariant/67945953788210": {
+    "product_title": "Phool Design Jadau Kundan Jhumka Earrings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1150.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/phool-design-jadau-kundan-jhumka-earrings?variant=gid://shopify/ProductVariant/67945953788210",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6219710745033773787.jpg?v=1791639420"
   },
   "gid://shopify/ProductVariant/67946040590642": {
     "product_title": "Regal Jadau Kundan Jali Necklace With Swarovski Pearls",
