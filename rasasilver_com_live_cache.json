@@ -2434,7 +2434,7 @@
     "variant_title": "GREEN",
     "sku": "R18900",
     "price": 2310.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/gulabika-ring?variant=gid://shopify/ProductVariant/50635362238761",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-5_90677077-fd14-493f-b304-dd08686baf11.jpg?v=1754311817"
   },
@@ -7910,15 +7910,6 @@
     "url": "https://www.rasasilver.com/products/suvarna-gajalakshmi-short-necklace?variant=gid://shopify/ProductVariant/52128574112041",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_29_Pice_19Nov2896_resized.jpg?v=1763787752"
   },
-  "gid://shopify/ProductVariant/52140245319977": {
-    "product_title": "Rosy Shine Victorian Danglers",
-    "variant_title": "GREEN",
-    "sku": "R16555",
-    "price": 8075.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/rosy-shine-victorian-danglers?variant=gid://shopify/ProductVariant/52140245319977",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0056copy_resized_ffa0dafa-34d0-4d9f-a771-4b5636ea7b41.jpg?v=1763983317"
-  },
   "gid://shopify/ProductVariant/52145478730025": {
     "product_title": "Vintage Blush Danglers",
     "variant_title": "Default Title",
@@ -7936,15 +7927,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/pink-blossom-danglers?variant=gid://shopify/ProductVariant/52145575657769",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0013copy_resized.jpg?v=1763984327"
-  },
-  "gid://shopify/ProductVariant/52146351178025": {
-    "product_title": "Emervian Victorian Pendant",
-    "variant_title": "Default Title",
-    "sku": "R16584",
-    "price": 9870.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/pendant?variant=gid://shopify/ProductVariant/52146351178025",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0187_copy_resized.jpg?v=1769673172"
   },
   "gid://shopify/ProductVariant/52146394956073": {
     "product_title": "Empressa Luxe Pendant",
@@ -33173,6 +33155,15 @@
     "url": "https://www.rasasilver.com/products/rosy-shine-victorian-danglers?variant=gid://shopify/ProductVariant/52140245287209",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0056copy_resized_ffa0dafa-34d0-4d9f-a771-4b5636ea7b41.jpg?v=1763983317"
   },
+  "gid://shopify/ProductVariant/52140245319977": {
+    "product_title": "Rosy Shine Victorian Danglers",
+    "variant_title": "GREEN",
+    "sku": "R16555",
+    "price": 8075.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/rosy-shine-victorian-danglers?variant=gid://shopify/ProductVariant/52140245319977",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0056copy_resized_ffa0dafa-34d0-4d9f-a771-4b5636ea7b41.jpg?v=1763983317"
+  },
   "gid://shopify/ProductVariant/52146237505833": {
     "product_title": "Moiss Coraletto Pendant",
     "variant_title": "Default Title",
@@ -33190,6 +33181,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/ruby-vittoria-pendant?variant=gid://shopify/ProductVariant/52147269271849",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0143copy_resized_fe03ae74-31d3-451e-b967-45bd146932f7.jpg?v=1763987133"
+  },
+  "gid://shopify/ProductVariant/52146351178025": {
+    "product_title": "Emervian Victorian Pendant",
+    "variant_title": "Default Title",
+    "sku": "R16584",
+    "price": 9870.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/pendant?variant=gid://shopify/ProductVariant/52146351178025",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0187_copy_resized.jpg?v=1769673172"
   },
   "gid://shopify/ProductVariant/52146430148905": {
     "product_title": "Navique Victorian Pendant Set",
