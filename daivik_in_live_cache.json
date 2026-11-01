@@ -4,7 +4,7 @@
     "variant_title": "Default Title",
     "sku": "18",
     "price": 2799.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/18?variant=gid://shopify/ProductVariant/32600557649979",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_5e6e7a93-bcb3-4c15-a2d3-f871fbf7f3fb.jpg?v=1641477506"
   },
@@ -1669,7 +1669,7 @@
     "variant_title": "Default Title",
     "sku": "985",
     "price": 2499.0,
-    "stock": 35,
+    "stock": 34,
     "url": "https://www.daivik.in/products/heavy-bridal-nagasi-necklace-with-earrings?variant=gid://shopify/ProductVariant/42285497417950",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_1db6eac3-6a3a-464f-8af0-96b606256a54.jpg?v=1640962064"
   },
@@ -5776,15 +5776,6 @@
     "stock": 56,
     "url": "https://www.daivik.in/products/two-line-kids-adult-pearl-choker-with-studs?variant=gid://shopify/ProductVariant/44815359410398",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG-2713.heic?v=1708876092"
-  },
-  "gid://shopify/ProductVariant/44818833735902": {
-    "product_title": "Lakshmi Pendant AD Colour stone Necklace with Earrings",
-    "variant_title": "Light pink",
-    "sku": "868",
-    "price": 1799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/lakshmi-pendant-ad-colour-stone-necklace-with-earrings?variant=gid://shopify/ProductVariant/44818833735902",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8B14E70C-6469-4757-AAD5-B778916A5995.jpg?v=1708960857"
   },
   "gid://shopify/ProductVariant/44831932023006": {
     "product_title": "Victorian Green Beads Necklace with Earrings",
@@ -12442,7 +12433,7 @@
     "variant_title": "Lotus",
     "sku": "1665",
     "price": 1299.0,
-    "stock": 38,
+    "stock": 37,
     "url": "https://www.daivik.in/products/antique-jadau-adjustable-finger-ring?variant=gid://shopify/ProductVariant/47476202602718",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8EBA8974-AE2C-4F0B-B913-2BE70CC184C3.jpg?v=1756399265"
   },
@@ -20605,7 +20596,7 @@
     "variant_title": "Turquoise",
     "sku": "D26010",
     "price": 999.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26010?variant=gid://shopify/ProductVariant/49152684163294",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5957.jpg?v=1791220978"
   },
@@ -21622,7 +21613,7 @@
     "variant_title": "Default Title",
     "sku": "D26344",
     "price": 449.0,
-    "stock": 18,
+    "stock": 17,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26344?variant=gid://shopify/ProductVariant/49162124624094",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6638.jpg?v=1791443952"
   },
@@ -28491,6 +28482,15 @@
     "price": 1799.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/lakshmi-pendant-ad-colour-stone-necklace-with-earrings?variant=gid://shopify/ProductVariant/44818833670366",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8B14E70C-6469-4757-AAD5-B778916A5995.jpg?v=1708960857"
+  },
+  "gid://shopify/ProductVariant/44818833735902": {
+    "product_title": "Lakshmi Pendant AD Colour stone Necklace with Earrings",
+    "variant_title": "Light pink",
+    "sku": "868",
+    "price": 1799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/lakshmi-pendant-ad-colour-stone-necklace-with-earrings?variant=gid://shopify/ProductVariant/44818833735902",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8B14E70C-6469-4757-AAD5-B778916A5995.jpg?v=1708960857"
   },
   "gid://shopify/ProductVariant/44862427726046": {
