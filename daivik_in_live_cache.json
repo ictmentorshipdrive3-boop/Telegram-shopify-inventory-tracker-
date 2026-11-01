@@ -2114,15 +2114,6 @@
     "url": "https://www.daivik.in/products/lakshmi-bridal-long-haram-with-earrings?variant=gid://shopify/ProductVariant/42633681502430",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_2a2c2024-084f-4caf-98ed-9344595c4c31.heic?v=1648826232"
   },
-  "gid://shopify/ProductVariant/42641179345118": {
-    "product_title": "AD White Gold Teeka",
-    "variant_title": "Default Title",
-    "sku": "277",
-    "price": 599.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-white-gold-teeka?variant=gid://shopify/ProductVariant/42641179345118",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_cab7af53-ce70-4200-8b35-a70dcb200b07.heic?v=1648999204"
-  },
   "gid://shopify/ProductVariant/42679268770014": {
     "product_title": "AD Lakshmi Necklace with Earrings",
     "variant_title": "Default Title",
@@ -11920,7 +11911,7 @@
     "variant_title": "Default Title",
     "sku": "1630",
     "price": 499.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/multi-layer-pearl-mattals?variant=gid://shopify/ProductVariant/47088039788766",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2B579089-90CE-42B0-A8B0-8583CF1373FB.jpg?v=1752775998"
   },
@@ -15340,7 +15331,7 @@
     "variant_title": "White",
     "sku": "1335",
     "price": 649.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/ad-mesh-necklace-with-studs-in-5-colours-price-for-each?variant=gid://shopify/ProductVariant/47669942157534",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D2F649D9-0CC0-47ED-8F54-DCF4D0222297.jpg?v=1762878208"
   },
@@ -23863,7 +23854,7 @@
     "variant_title": "Default Title",
     "sku": "1986",
     "price": 399.0,
-    "stock": 56,
+    "stock": 55,
     "url": "https://www.daivik.in/products/lakshmi-kids-adult-jhumkas?variant=gid://shopify/ProductVariant/49203701383390",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6327C5CA-76E2-45CD-95CB-1B7691AAF00E.jpg?v=1791890534"
   },
@@ -25495,6 +25486,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/openable-kemp-peacock-bangles?variant=gid://shopify/ProductVariant/43956913864926",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_14b048ec-b2cb-409d-9d80-12093a540322.heic?v=1648305362"
+  },
+  "gid://shopify/ProductVariant/42641179345118": {
+    "product_title": "AD White Gold Teeka",
+    "variant_title": "Default Title",
+    "sku": "277",
+    "price": 599.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-white-gold-teeka?variant=gid://shopify/ProductVariant/42641179345118",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_cab7af53-ce70-4200-8b35-a70dcb200b07.heic?v=1648999204"
   },
   "gid://shopify/ProductVariant/42679454695646": {
     "product_title": "Simple Embossed Choker with pendant",
