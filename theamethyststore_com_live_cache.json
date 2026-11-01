@@ -2452,7 +2452,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-3266",
     "price": 6076.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/sakshi-stone-studs?variant=gid://shopify/ProductVariant/43323893285091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3266.jpg?v=1662787360"
   },
@@ -2740,7 +2740,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-3749",
     "price": 26400.0,
-    "stock": 3,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/dark-shine-hook-earrings?variant=gid://shopify/ProductVariant/43492365402339",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS09562.jpg?v=1687776990"
   },
@@ -6790,7 +6790,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-5345",
     "price": 18700.0,
-    "stock": 4,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/vatika-pichwai-earrings?variant=gid://shopify/ProductVariant/44348682043619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5345_2.jpg?v=1751289469"
   },
@@ -6799,7 +6799,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-5346",
     "price": 20200.0,
-    "stock": 1,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/riwaaj-handpainted-earrings?variant=gid://shopify/ProductVariant/44348685189347",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5346_2.jpg?v=1751288317"
   },
@@ -77944,7 +77944,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17188",
     "price": 40739.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/dhekshikha-kundan-short-necklace?variant=gid://shopify/ProductVariant/49479185629411",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17188_e0d1095b-c1b1-4458-a52b-722baddb63e2.jpg?v=1786424511"
   },
@@ -80968,7 +80968,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4893",
     "price": 19400.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/unique-diamond-design-pendant?variant=gid://shopify/ProductVariant/49508937236707",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4893.jpg?v=1786106469"
   },
@@ -103787,15 +103787,6 @@
     "url": "https://www.theamethyststore.com/products/luminous-beads-chain?variant=gid://shopify/ProductVariant/67661481050339",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2343.jpg?v=1791721389"
   },
-  "gid://shopify/ProductVariant/67661499465955": {
-    "product_title": "Vishakaa Stone Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-5300",
-    "price": 34374.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/vishakaa-stone-pendant?variant=gid://shopify/ProductVariant/67661499465955",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5300.jpg?v=1791722122"
-  },
   "gid://shopify/ProductVariant/67661650264291": {
     "product_title": "Lord Perumal Stone Pendant",
     "variant_title": "Default Title",
@@ -110164,7 +110155,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18938",
     "price": 23000.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/elegant-diamond-short-necklace?variant=gid://shopify/ProductVariant/67876245962979",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18938.jpg?v=1793423320"
   },
@@ -111130,6 +111121,24 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/versatile-swing-kundan-jhumkas?variant=gid://shopify/ProductVariant/67883050565859",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16838.jpg?v=1793517079"
+  },
+  "gid://shopify/ProductVariant/67883053842659": {
+    "product_title": "Beautiful Art Kundan Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16903",
+    "price": 37900.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/beautiful-art-kundan-jhumkas?variant=gid://shopify/ProductVariant/67883053842659",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16903.jpg?v=1793517362"
+  },
+  "gid://shopify/ProductVariant/67883059740899": {
+    "product_title": "Ganisha Kundan Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16906",
+    "price": 16400.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/ganisha-kundan-jhumkas?variant=gid://shopify/ProductVariant/67883059740899",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16906.jpg?v=1793517726"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -151351,6 +151360,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/radiant-beads-chain?variant=gid://shopify/ProductVariant/67661367050467",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2350.jpg?v=1791717850"
+  },
+  "gid://shopify/ProductVariant/67661499465955": {
+    "product_title": "Vishakaa Stone Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5300",
+    "price": 34374.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vishakaa-stone-pendant?variant=gid://shopify/ProductVariant/67661499465955",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5300.jpg?v=1791722122"
   },
   "gid://shopify/ProductVariant/67661662486755": {
     "product_title": "Blessed Lakshmi Stone Pendant",
