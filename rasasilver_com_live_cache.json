@@ -890,15 +890,6 @@
     "url": "https://www.rasasilver.com/products/the-rosary-studs?variant=gid://shopify/ProductVariant/50869168013609",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06486_copy.jpg?v=1744184967"
   },
-  "gid://shopify/ProductVariant/50158205501737": {
-    "product_title": "Botanique Stud Earrings",
-    "variant_title": "Default Title",
-    "sku": "R15982",
-    "price": 1820.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/botanique-studs?variant=gid://shopify/ProductVariant/50158205501737",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06453_copy.jpg?v=1744184601"
-  },
   "gid://shopify/ProductVariant/50158302298409": {
     "product_title": "Ruby Stone Studs",
     "variant_title": "Default Title",
@@ -2353,7 +2344,7 @@
     "variant_title": "Default Title",
     "sku": "R8393",
     "price": 2100.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/valli-vasundhara-studs?variant=gid://shopify/ProductVariant/50635203215657",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_dee0420e-ccbb-46eb-8493-ce1f00f3a1cb.jpg?v=1754033399"
   },
@@ -23749,6 +23740,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/krishna-s-leaf-earrings?variant=gid://shopify/ProductVariant/50134047654185",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2.3.jpg?v=1743673015"
+  },
+  "gid://shopify/ProductVariant/50158205501737": {
+    "product_title": "Botanique Stud Earrings",
+    "variant_title": "Default Title",
+    "sku": "R15982",
+    "price": 1820.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/botanique-studs?variant=gid://shopify/ProductVariant/50158205501737",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06453_copy.jpg?v=1744184601"
   },
   "gid://shopify/ProductVariant/50173607510313": {
     "product_title": "Edwardian Fleur Studs",
