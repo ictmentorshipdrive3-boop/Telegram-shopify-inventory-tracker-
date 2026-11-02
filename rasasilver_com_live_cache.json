@@ -3887,15 +3887,6 @@
     "url": "https://www.rasasilver.com/products/blush-serenity-choker-set?variant=gid://shopify/ProductVariant/51204909236521",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_83_6Aug24261_resized.jpg?v=1757941006"
   },
-  "gid://shopify/ProductVariant/51205136285993": {
-    "product_title": "Floral Cascade Matil",
-    "variant_title": "Default Title",
-    "sku": "R11210",
-    "price": 36960.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/floral-cascade-matil?variant=gid://shopify/ProductVariant/51205136285993",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_83_6Aug24292_resized.jpg?v=1757939638"
-  },
   "gid://shopify/ProductVariant/51205341970729": {
     "product_title": "Lush Loop Bangles",
     "variant_title": "2.8",
@@ -19786,7 +19777,7 @@
     "variant_title": "Default Title",
     "sku": "R33502",
     "price": 23100.0,
-    "stock": 2,
+    "stock": 9999,
     "url": "https://www.rasasilver.com/products/elephant-stone-necklace?variant=gid://shopify/ProductVariant/53410018361641",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_41_107Pics0548.jpg?v=1786702360"
   },
@@ -25027,6 +25018,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/cz-heavenly-studs?variant=gid://shopify/ProductVariant/51198433886505",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0144copy_resized.jpg?v=1758113375"
+  },
+  "gid://shopify/ProductVariant/51205136285993": {
+    "product_title": "Floral Cascade Matil",
+    "variant_title": "Default Title",
+    "sku": "R11210",
+    "price": 36960.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/floral-cascade-matil?variant=gid://shopify/ProductVariant/51205136285993",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_83_6Aug24292_resized.jpg?v=1757939638"
   },
   "gid://shopify/ProductVariant/51205340627241": {
     "product_title": "Misty Canopy Pendant",
