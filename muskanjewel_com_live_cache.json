@@ -143,15 +143,6 @@
     "url": "https://www.muskanjewel.com/products/jadau-kundan-bangles?variant=gid://shopify/ProductVariant/52878914257212",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/8b25a3f1-a03d-478f-be83-9ce795eddd16.webp?v=1768467672"
   },
-  "gid://shopify/ProductVariant/52628751417660": {
-    "product_title": "Jadau kundan lotus tika with pearl drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 850.0,
-    "stock": 1,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-lotus-tika-with-pearl-drops?variant=gid://shopify/ProductVariant/52628751417660",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/0738092f-ec98-49d8-a76b-ec23ed198d79.webp?v=1768475806"
-  },
   "gid://shopify/ProductVariant/52628832551228": {
     "product_title": "Jadau kundan Navratna bottu mala necklace(without earrings)",
     "variant_title": "Default Title",
@@ -1660,7 +1651,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 1000.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-with-pearls-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/53842508579132",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/image_1.webp?v=1785156973"
   },
@@ -2338,6 +2329,15 @@
     "stock": 0,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-double-layer-bangles?variant=gid://shopify/ProductVariant/52878921367868",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/2f52a31d-8be4-40d3-bc52-effd6c96046f.webp?v=1768466552"
+  },
+  "gid://shopify/ProductVariant/52628751417660": {
+    "product_title": "Jadau kundan lotus tika with pearl drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 850.0,
+    "stock": 0,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-lotus-tika-with-pearl-drops?variant=gid://shopify/ProductVariant/52628751417660",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/0738092f-ec98-49d8-a76b-ec23ed198d79.webp?v=1768475806"
   },
   "gid://shopify/ProductVariant/53016663294268": {
     "product_title": "Temple/Antique goddess laxmi peacock bangles (pair)",
