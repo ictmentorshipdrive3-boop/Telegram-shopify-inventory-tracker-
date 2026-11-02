@@ -40,7 +40,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-1443",
     "price": 69331.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/navarathana-panache-silver-gold-plated-necklace?variant=gid://shopify/ProductVariant/37408893993110",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/3b_1800x1800_db6bb859-f315-4ac0-a513-1a3253350133.jpg?v=1680178456"
   },
@@ -237,8 +237,8 @@
     "product_title": "Ragini Necklace",
     "variant_title": "Default Title",
     "sku": "AMS-102-1540",
-    "price": 100408.0,
-    "stock": 1,
+    "price": 115622.0,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/copy-of-aditi-mango-necklace?variant=gid://shopify/ProductVariant/39282591891606",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-102-1540.jpg?v=1614512148"
   },
@@ -111076,6 +111076,33 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/artfully-crafted-kundan-long-necklace-1?variant=gid://shopify/ProductVariant/67891158024419",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19286.jpg?v=1793603426"
+  },
+  "gid://shopify/ProductVariant/67891195412707": {
+    "product_title": "Dazzle  Kundan Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19287",
+    "price": 66400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/dazzle-kundan-long-necklace?variant=gid://shopify/ProductVariant/67891195412707",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19287.jpg?v=1793603733"
+  },
+  "gid://shopify/ProductVariant/67891245514979": {
+    "product_title": "Famitha Kundan Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19288",
+    "price": 52600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/dazzle-kundan-short-necklace?variant=gid://shopify/ProductVariant/67891245514979",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19288.jpg?v=1793604226"
+  },
+  "gid://shopify/ProductVariant/67891383697635": {
+    "product_title": "Attractive  Victorian Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19296",
+    "price": 85800.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/attractive-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/67891383697635",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19296.jpg?v=1793604581"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
