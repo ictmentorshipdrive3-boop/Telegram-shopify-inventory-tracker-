@@ -4927,7 +4927,7 @@
     "variant_title": "Default Title",
     "sku": "597",
     "price": 499.0,
-    "stock": 25,
+    "stock": 24,
     "url": "https://www.daivik.in/products/ad-changable-studs-with-4-colours?variant=gid://shopify/ProductVariant/44457066922206",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5A2D909A-A4FF-4190-B232-2EA58342B2E0.jpg?v=1698508255"
   },
@@ -15484,7 +15484,7 @@
     "variant_title": "Default Title",
     "sku": "1341",
     "price": 999.0,
-    "stock": 45,
+    "stock": 44,
     "url": "https://www.daivik.in/products/simple-ad-flower-necklace-with-earrings?variant=gid://shopify/ProductVariant/47693867483358",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1741.heic?v=1763479945"
   },
@@ -17473,7 +17473,7 @@
     "variant_title": "2.4",
     "sku": "1854",
     "price": 1499.0,
-    "stock": 41,
+    "stock": 40,
     "url": "https://www.daivik.in/products/victorian-spiral-ruby-ad-bangles?variant=gid://shopify/ProductVariant/48057311953118",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/77147F49-1B98-49B5-9135-B4ACF785E189.jpg?v=1775198787"
   },
@@ -18706,7 +18706,7 @@
     "variant_title": "Ruby",
     "sku": "587",
     "price": 1899.0,
-    "stock": 21,
+    "stock": 20,
     "url": "https://www.daivik.in/products/three-line-mala-with-ad-flower-pendant-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/48304138944734",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5BA575AD-2A27-44C6-8335-632E20AD4BCC.jpg?v=1780498806"
   },
@@ -21775,7 +21775,7 @@
     "variant_title": "Ruby Green",
     "sku": "D26373",
     "price": 349.0,
-    "stock": 21,
+    "stock": 20,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26373?variant=gid://shopify/ProductVariant/49162131472606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6716.jpg?v=1791444804"
   },
@@ -23182,15 +23182,6 @@
     "stock": 3,
     "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26606?variant=gid://shopify/ProductVariant/49178382270686",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7166.jpg?v=1791537254"
-  },
-  "gid://shopify/ProductVariant/49178382336222": {
-    "product_title": "Diwali Sale Other Essentials D26607",
-    "variant_title": "Green",
-    "sku": "D26607",
-    "price": 999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26607?variant=gid://shopify/ProductVariant/49178382336222",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7169.jpg?v=1791537291"
   },
   "gid://shopify/ProductVariant/49178382368990": {
     "product_title": "Diwali Sale Other Essentials D26608",
@@ -35952,6 +35943,15 @@
     "price": 999.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26607?variant=gid://shopify/ProductVariant/49178382303454",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7169.jpg?v=1791537291"
+  },
+  "gid://shopify/ProductVariant/49178382336222": {
+    "product_title": "Diwali Sale Other Essentials D26607",
+    "variant_title": "Green",
+    "sku": "D26607",
+    "price": 999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26607?variant=gid://shopify/ProductVariant/49178382336222",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7169.jpg?v=1791537291"
   },
   "gid://shopify/ProductVariant/49178382696670": {
