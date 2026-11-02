@@ -796,7 +796,7 @@
     "variant_title": "Default Title",
     "sku": "628",
     "price": 1699.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.daivik.in/products/uncut-kemp-guttaspusalu-balis?variant=gid://shopify/ProductVariant/38152291090585",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/uncut-kemp-guttaspusalu-balis-earrings-312.jpg?v=1614006032"
   },
@@ -2929,7 +2929,7 @@
     "variant_title": "Default Title",
     "sku": "38",
     "price": 1999.0,
-    "stock": 42,
+    "stock": 41,
     "url": "https://www.daivik.in/products/a-355?variant=gid://shopify/ProductVariant/43643941847262",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_56e0438e-44c5-4420-a5dd-ad452fe3909b.heic?v=1668178409"
   },
@@ -11416,7 +11416,7 @@
     "variant_title": "White",
     "sku": "1619",
     "price": 1799.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.daivik.in/products/ad-multi-layered-big-balis-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/47018651123934",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AE3F6C15-E9A3-4326-9619-2EACCAB855B5.jpg?v=1750138385"
   },
@@ -21678,15 +21678,6 @@
     "price": 899.0,
     "stock": 5,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26356?variant=gid://shopify/ProductVariant/49162125050078",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6667.jpg?v=1791444148"
-  },
-  "gid://shopify/ProductVariant/49162125082846": {
-    "product_title": "Diwali Sale Earrings D26356",
-    "variant_title": "Green",
-    "sku": "D26356",
-    "price": 899.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26356?variant=gid://shopify/ProductVariant/49162125082846",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6667.jpg?v=1791444148"
   },
   "gid://shopify/ProductVariant/49162125115614": {
@@ -35269,6 +35260,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26353?variant=gid://shopify/ProductVariant/49166694187230",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6659.jpg?v=1791443998"
+  },
+  "gid://shopify/ProductVariant/49162125082846": {
+    "product_title": "Diwali Sale Earrings D26356",
+    "variant_title": "Green",
+    "sku": "D26356",
+    "price": 899.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26356?variant=gid://shopify/ProductVariant/49162125082846",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6667.jpg?v=1791444148"
   },
   "gid://shopify/ProductVariant/49162125148382": {
     "product_title": "Diwali Sale Earrings D26358",
