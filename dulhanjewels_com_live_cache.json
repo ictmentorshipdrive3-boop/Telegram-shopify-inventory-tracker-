@@ -5633,15 +5633,6 @@
     "url": "https://www.dulhanjewels.com/products/royal-jadau-kundan-kasulu-haram-with-lord-krishna-at-center?variant=gid://shopify/ProductVariant/68012711313714",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-3211.jpg?v=1792665540"
   },
-  "gid://shopify/ProductVariant/68070021038386": {
-    "product_title": "Elegant Emerald Victorian Necklace With Pearl Drops And Matching Earrings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 4750.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/elegant-emerald-victorian-necklace-with-pearl-drops-and-matching-earrings?variant=gid://shopify/ProductVariant/68070021038386",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/5742B646-485D-48B4-AFAC-EFF9F2F945F0.jpg?v=1793088424"
-  },
   "gid://shopify/ProductVariant/68070052692274": {
     "product_title": "Opulent Moissanite Polki Mango Haram With Emerald Drops",
     "variant_title": "Default Title",
@@ -5875,15 +5866,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/elegant-jadau-kundan-ring-with-bead-bordering?variant=gid://shopify/ProductVariant/68114615075122",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4341.jpg?v=1793444352"
-  },
-  "gid://shopify/ProductVariant/68114620219698": {
-    "product_title": "Stylish Jadau Kundan Finger Ring",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1000.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/stylish-jadau-kundan-finger-ring?variant=gid://shopify/ProductVariant/68114620219698",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4336.jpg?v=1793444522"
   },
   "gid://shopify/ProductVariant/48813700612402": {
     "product_title": "Moissanite Victorian Choker Set with maang tikka & earrings",
@@ -6272,6 +6254,15 @@
     "url": "https://www.dulhanjewels.com/products/unique-jadau-kundan-earrings-with-green-drops?variant=gid://shopify/ProductVariant/67973815632178",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_f1a9a5e2-b8aa-47fd-af78-13f816c7818b.jpg?v=1792221374"
   },
+  "gid://shopify/ProductVariant/68070021038386": {
+    "product_title": "Elegant Emerald Victorian Necklace With Pearl Drops And Matching Earrings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 4750.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/elegant-emerald-victorian-necklace-with-pearl-drops-and-matching-earrings?variant=gid://shopify/ProductVariant/68070021038386",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/5742B646-485D-48B4-AFAC-EFF9F2F945F0.jpg?v=1793088424"
+  },
   "gid://shopify/ProductVariant/68070039879986": {
     "product_title": "Classic Moissanite Polki Maang Tikka With Green Drops",
     "variant_title": "Default Title",
@@ -6316,5 +6307,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/simple-jadau-kundan-jhumki-earrings?variant=gid://shopify/ProductVariant/68114486067506",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4347.jpg?v=1793450134"
+  },
+  "gid://shopify/ProductVariant/68114620219698": {
+    "product_title": "Stylish Jadau Kundan Finger Ring",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1000.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/stylish-jadau-kundan-finger-ring?variant=gid://shopify/ProductVariant/68114620219698",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4336.jpg?v=1793444522"
   }
 }
