@@ -553,7 +553,7 @@
     "variant_title": "Default Title",
     "sku": "400",
     "price": 1749.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/pure-uncut-kemp-vintage-necklace-with-earrings?variant=gid://shopify/ProductVariant/44178228478174",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C737AC2D-4625-48B3-A0E8-1A1FD009E918.jpg?v=1737636280"
   },
@@ -11407,7 +11407,7 @@
     "variant_title": "Default Title",
     "sku": "1280",
     "price": 1999.0,
-    "stock": 28,
+    "stock": 27,
     "url": "https://www.daivik.in/products/lord-ganesha-ad-peacock-long-necklace?variant=gid://shopify/ProductVariant/47019205001438",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/59677CF9-0216-42A5-8DB0-F4EF84342A21.jpg?v=1750172814"
   },
@@ -14998,7 +14998,7 @@
     "variant_title": "Default Title",
     "sku": "1326",
     "price": 699.0,
-    "stock": 54,
+    "stock": 53,
     "url": "https://www.daivik.in/products/single-line-swarovski-pearl-mala?variant=gid://shopify/ProductVariant/47621544575198",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3F23C14B-348B-40BC-9890-0C59AA9613AF.jpg?v=1761044949"
   },
@@ -24100,15 +24100,6 @@
     "stock": 3,
     "url": "https://www.daivik.in/products/pure-kemp-brass-short-and-long-necklace-with-earrings?variant=gid://shopify/ProductVariant/49270569599198",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0C484D4D-7166-4464-81E9-65AF030B89D5.jpg?v=1792752899"
-  },
-  "gid://shopify/ProductVariant/49272020959454": {
-    "product_title": "3 in 1 Pure kemp Jadau Choker with Jhumlas (Interchangeable Pendants)",
-    "variant_title": "Default Title",
-    "sku": "1032",
-    "price": 2999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/3-in-1-pure-kemp-jadau-choker-interchangeable?variant=gid://shopify/ProductVariant/49272020959454",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C901BDE8-EC59-4D3D-BB1C-5F412AE5A63C.jpg?v=1792775204"
   },
   "gid://shopify/ProductVariant/49273948176606": {
     "product_title": "Antique Pure kemp Brass Peacock HipChain in Dark Green Beads",
@@ -36268,5 +36259,14 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/hydrodoublet-small-balis?variant=gid://shopify/ProductVariant/49230129037534",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3924.heic?v=1792254982"
+  },
+  "gid://shopify/ProductVariant/49272020959454": {
+    "product_title": "3 in 1 Pure kemp Jadau Choker with Jhumlas (Interchangeable Pendants)",
+    "variant_title": "Default Title",
+    "sku": "1032",
+    "price": 2999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/3-in-1-pure-kemp-jadau-choker-interchangeable?variant=gid://shopify/ProductVariant/49272020959454",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C901BDE8-EC59-4D3D-BB1C-5F412AE5A63C.jpg?v=1792775204"
   }
 }
