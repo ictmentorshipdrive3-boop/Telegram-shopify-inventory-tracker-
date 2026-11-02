@@ -49,7 +49,7 @@
     "variant_title": "Default Title",
     "sku": "50",
     "price": 1999.0,
-    "stock": 48,
+    "stock": 47,
     "url": "https://www.daivik.in/products/50?variant=gid://shopify/ProductVariant/32600792236091",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG-20191111-194057-269.jpg?v=1583698444"
   },
@@ -5872,7 +5872,7 @@
     "variant_title": "Default Title",
     "sku": "227",
     "price": 1299.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.daivik.in/products/ruby-green-kemp-choker-with-earrings?variant=gid://shopify/ProductVariant/44913188077790",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9D159F52-02AB-4D3F-915F-5A8818AF4BB4.jpg?v=1710518560"
   },
@@ -11024,15 +11024,6 @@
     "url": "https://www.daivik.in/products/v?variant=gid://shopify/ProductVariant/46684016247006",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B09C89B1-CD44-4D32-94AD-219004D25060.jpg?v=1746886611"
   },
-  "gid://shopify/ProductVariant/46685345841374": {
-    "product_title": "Invisible Kemp Ruby Chain with Earrings",
-    "variant_title": "Default Title",
-    "sku": "1262",
-    "price": 799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/invisible-kemp-ruby-chain-with-earrings?variant=gid://shopify/ProductVariant/46685345841374",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4EB246FF-FAA7-43D0-9CBC-1B0E0DB80847.jpg?v=1746978159"
-  },
   "gid://shopify/ProductVariant/46698157998302": {
     "product_title": "Antique Ruby green Non idol Jhumkas",
     "variant_title": "Default Title",
@@ -16105,7 +16096,7 @@
     "variant_title": "Default Title",
     "sku": "870",
     "price": 3599.0,
-    "stock": 36,
+    "stock": 35,
     "url": "https://www.daivik.in/products/antique-lakshmi-pearl-hanging-necklace-with-balis?variant=gid://shopify/ProductVariant/47797500575966",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C263EF27-F38A-4C5B-8B40-09E9FD67CAA1.jpg?v=1767458681"
   },
@@ -22405,7 +22396,7 @@
     "variant_title": "Default Title",
     "sku": "D26160",
     "price": 199.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26160?variant=gid://shopify/ProductVariant/49169786536158",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70262.jpg?v=1791532501"
   },
@@ -31129,6 +31120,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/v?variant=gid://shopify/ProductVariant/46684016214238",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B09C89B1-CD44-4D32-94AD-219004D25060.jpg?v=1746886611"
+  },
+  "gid://shopify/ProductVariant/46685345841374": {
+    "product_title": "Invisible Kemp Ruby Chain with Earrings",
+    "variant_title": "Default Title",
+    "sku": "1262",
+    "price": 799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/invisible-kemp-ruby-chain-with-earrings?variant=gid://shopify/ProductVariant/46685345841374",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4EB246FF-FAA7-43D0-9CBC-1B0E0DB80847.jpg?v=1746978159"
   },
   "gid://shopify/ProductVariant/46686857953502": {
     "product_title": "Simple Hipchains in 4 Style (Price for Each)",
