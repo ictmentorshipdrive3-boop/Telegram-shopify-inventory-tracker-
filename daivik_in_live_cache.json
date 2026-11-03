@@ -9643,7 +9643,7 @@
     "variant_title": "Default Title",
     "sku": "1203",
     "price": 1899.0,
-    "stock": 29,
+    "stock": 28,
     "url": "https://www.daivik.in/products/coral-ad-pearl-necklace-with-earrings?variant=gid://shopify/ProductVariant/46211770646750",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BBDF8A63-14C5-4E51-A4DE-570E03B00919.jpg?v=1736715564"
   },
@@ -12676,7 +12676,7 @@
     "variant_title": "Default Title",
     "sku": "180",
     "price": 1499.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.daivik.in/products/premium-gj-polish-ad-flower-necklace-with-earrings?variant=gid://shopify/ProductVariant/47530112188638",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EF4D5A6D-D04A-48B9-8A35-E0D79F795796.jpg?v=1757653908"
   },
@@ -15511,7 +15511,7 @@
     "variant_title": "Default Title",
     "sku": "1746",
     "price": 899.0,
-    "stock": 22,
+    "stock": 21,
     "url": "https://www.daivik.in/products/kemp-ruby-green-bugadi-side-earrings?variant=gid://shopify/ProductVariant/47713187889374",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2BD9B327-21E9-458B-B285-28DC0728C63B.jpg?v=1764238620"
   },
@@ -17675,15 +17675,6 @@
     "url": "https://www.daivik.in/products/simple-ad-choker-with-earrings-in-5-colors?variant=gid://shopify/ProductVariant/48078267875550",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_4514.jpg?v=1775884975"
   },
-  "gid://shopify/ProductVariant/48079376810206": {
-    "product_title": "Cluster Pearl Flower Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "480",
-    "price": 1499.0,
-    "stock": 35,
-    "url": "https://www.daivik.in/products/cluster-pearl-flower-necklace-with-earrings-1?variant=gid://shopify/ProductVariant/48079376810206",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9125.jpg?v=1775902381"
-  },
   "gid://shopify/ProductVariant/48079377694942": {
     "product_title": "Pure Kemp Brass Golden Beads Haram with Jhumkas",
     "variant_title": "Default Title",
@@ -18517,7 +18508,7 @@
     "variant_title": "Default Title",
     "sku": "841",
     "price": 799.0,
-    "stock": 20,
+    "stock": 19,
     "url": "https://www.daivik.in/products/sri-balaji-heritage-choker-with-studs?variant=gid://shopify/ProductVariant/48289643102430",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/84DF6BB0-9447-44E6-8BBB-5D467BC5ACC4.jpg?v=1780066755"
   },
@@ -18571,7 +18562,7 @@
     "variant_title": "1",
     "sku": "3539",
     "price": 199.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.daivik.in/products/handmade-lotus-flower-u-pin?variant=gid://shopify/ProductVariant/48294879232222",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6541_901f273f-d515-4509-8c32-1781f48291b7.jpg?v=1780223307"
   },
@@ -20047,7 +20038,7 @@
     "variant_title": "1/12",
     "sku": "1963",
     "price": 799.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.daivik.in/products/kids-lakshmi-ruby-green-bangles?variant=gid://shopify/ProductVariant/49008807674078",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1968.jpg?v=1789041386"
   },
@@ -22054,7 +22045,7 @@
     "variant_title": "Default Title",
     "sku": "D26126",
     "price": 899.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26126?variant=gid://shopify/ProductVariant/49169760878814",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6885.jpg?v=1791457592"
   },
@@ -23917,7 +23908,7 @@
     "variant_title": "Default Title",
     "sku": "1027",
     "price": 699.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.daivik.in/products/simple-ruby-green-necklace-with-earrings-1?variant=gid://shopify/ProductVariant/49267023347934",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3931.heic?v=1792687405"
   },
@@ -33874,6 +33865,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/simple-ad-choker-with-earrings-in-5-colors?variant=gid://shopify/ProductVariant/48078267842782",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_4514.jpg?v=1775884975"
+  },
+  "gid://shopify/ProductVariant/48079376810206": {
+    "product_title": "Cluster Pearl Flower Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "480",
+    "price": 1499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/cluster-pearl-flower-necklace-with-earrings-1?variant=gid://shopify/ProductVariant/48079376810206",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9125.jpg?v=1775902381"
   },
   "gid://shopify/ProductVariant/48079377465566": {
     "product_title": "Designer Symmetric Floral Necklace with Earrings",
