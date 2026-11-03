@@ -73723,7 +73723,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-16799",
     "price": 89100.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/stunning-avikam-necklace-set-2?variant=gid://shopify/ProductVariant/49421283393763",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16799.jpg?v=1784290128"
   },
@@ -74551,7 +74551,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17026",
     "price": 103600.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/eternal-charm-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/49429982740707",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17026.jpg?v=1791548422"
   },
@@ -99841,7 +99841,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18498",
     "price": 96000.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/effortlessly-pretty-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/67614767317219",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18498.jpg?v=1790921802"
   },
@@ -111262,9 +111262,63 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5719",
     "price": 2800.0,
-    "stock": 2,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/numinous-3d-spl-pendant-1?variant=gid://shopify/ProductVariant/67932993093859",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5719.jpg?v=1793704454"
+  },
+  "gid://shopify/ProductVariant/67933537992931": {
+    "product_title": "Lotus Floral Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5476",
+    "price": 41700.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/lotus-floral-pendant?variant=gid://shopify/ProductVariant/67933537992931",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5476.jpg?v=1793704705"
+  },
+  "gid://shopify/ProductVariant/67933596090595": {
+    "product_title": "Goddess Murugan 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5688",
+    "price": 3300.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/goddess-murugan-3d-spl-pendant?variant=gid://shopify/ProductVariant/67933596090595",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5688.jpg?v=1793704739"
+  },
+  "gid://shopify/ProductVariant/67933765730531": {
+    "product_title": "Blissful 3D SPL Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5718",
+    "price": 3300.0,
+    "stock": 5,
+    "url": "https://www.theamethyststore.com/products/blissful-3d-spl-pendant?variant=gid://shopify/ProductVariant/67933765730531",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5718.jpg?v=1793704913"
+  },
+  "gid://shopify/ProductVariant/67933916397795": {
+    "product_title": "Peacock with Vel 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5689",
+    "price": 1300.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/peacock-with-vel-3d-spl-pendant-1?variant=gid://shopify/ProductVariant/67933916397795",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5689.jpg?v=1793705418"
+  },
+  "gid://shopify/ProductVariant/67934049108195": {
+    "product_title": "Murugan Vel 3D SPL Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5679",
+    "price": 3600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/murugan-vel-3d-spl-pendant?variant=gid://shopify/ProductVariant/67934049108195",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5679.jpg?v=1793705091"
+  },
+  "gid://shopify/ProductVariant/67934580703459": {
+    "product_title": "Deeply Revered 3D SPL Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5717",
+    "price": 5500.0,
+    "stock": 4,
+    "url": "https://www.theamethyststore.com/products/deeply-revered-3d-spl-pendant?variant=gid://shopify/ProductVariant/67934580703459",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5717.jpg?v=1793705395"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
