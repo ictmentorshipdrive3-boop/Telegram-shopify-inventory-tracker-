@@ -3514,7 +3514,7 @@
     "variant_title": "Default Title",
     "sku": "817",
     "price": 1199.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/multicolour-pearl-chain?variant=gid://shopify/ProductVariant/44195427713246",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_ee2b36b9-e729-480d-81bf-bf88b3f0d671.heic?v=1684498714"
   },
@@ -7321,7 +7321,7 @@
     "variant_title": "Green",
     "sku": "1503",
     "price": 1299.0,
-    "stock": 15,
+    "stock": 14,
     "url": "https://www.daivik.in/products/mossanite-kundan-balis-in-2-colours?variant=gid://shopify/ProductVariant/45889343553758",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4D32A516-1DA2-4CD3-AA62-C24EB5B9B866.jpg?v=1726379854"
   },
@@ -10714,7 +10714,7 @@
     "variant_title": "Default Title",
     "sku": "1251",
     "price": 999.0,
-    "stock": 24,
+    "stock": 23,
     "url": "https://www.daivik.in/products/lakshmi-coin-ruby-necklace?variant=gid://shopify/ProductVariant/46618661748958",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A82E65E4-33A7-4D83-95F7-6A751A172E9B.jpg?v=1744903477"
   },
@@ -12346,15 +12346,6 @@
     "stock": 54,
     "url": "https://www.daivik.in/products/antique-jadau-adjustable-finger-ring?variant=gid://shopify/ProductVariant/47476202635486",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8EBA8974-AE2C-4F0B-B913-2BE70CC184C3.jpg?v=1756399265"
-  },
-  "gid://shopify/ProductVariant/47488954630366": {
-    "product_title": "Lakshmi Jhumkas with Swan Mattals",
-    "variant_title": "Default Title",
-    "sku": "1666",
-    "price": 1899.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/a-5?variant=gid://shopify/ProductVariant/47488954630366",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/DA525B49-5106-4A3D-A72E-31011A1EAC22.jpg?v=1756554200"
   },
   "gid://shopify/ProductVariant/47489215660254": {
     "product_title": "Traditional Ruby Green Anklets (Price for a Pair)",
@@ -20641,7 +20632,7 @@
     "variant_title": "Green",
     "sku": "D26032",
     "price": 499.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26032?variant=gid://shopify/ProductVariant/49152665813214",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6094.jpg?v=1791221763"
   },
@@ -21811,7 +21802,7 @@
     "variant_title": "Black",
     "sku": "D26100",
     "price": 1399.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26100?variant=gid://shopify/ProductVariant/49169744101598",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6776.jpg?v=1791457328"
   },
@@ -22252,7 +22243,7 @@
     "variant_title": "Default Title",
     "sku": "D26160",
     "price": 199.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26160?variant=gid://shopify/ProductVariant/49169786536158",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70262.jpg?v=1791532501"
   },
@@ -22648,7 +22639,7 @@
     "variant_title": "Default Title",
     "sku": "D26512",
     "price": 1199.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d26512?variant=gid://shopify/ProductVariant/49178380665054",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70652.jpg?v=1791535690"
   },
@@ -31903,6 +31894,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-jadau-adjustable-finger-ring?variant=gid://shopify/ProductVariant/47476202668254",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8EBA8974-AE2C-4F0B-B913-2BE70CC184C3.jpg?v=1756399265"
+  },
+  "gid://shopify/ProductVariant/47488954630366": {
+    "product_title": "Lakshmi Jhumkas with Swan Mattals",
+    "variant_title": "Default Title",
+    "sku": "1666",
+    "price": 1899.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/a-5?variant=gid://shopify/ProductVariant/47488954630366",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/DA525B49-5106-4A3D-A72E-31011A1EAC22.jpg?v=1756554200"
   },
   "gid://shopify/ProductVariant/47489215627486": {
     "product_title": "Traditional Ruby Green Anklets (Price for a Pair)",
