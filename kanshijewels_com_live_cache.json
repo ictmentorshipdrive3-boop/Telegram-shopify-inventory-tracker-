@@ -5723,15 +5723,6 @@
     "url": "https://www.kanshijewels.com/products/jadau-kundan-stud-earrings-56?variant=gid://shopify/ProductVariant/49513762423084",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/KR__84.jpg?v=1722588864"
   },
-  "gid://shopify/ProductVariant/49945920307500": {
-    "product_title": "Coral Jadau Mangalsutra",
-    "variant_title": "Default Title",
-    "sku": "NK411",
-    "price": 945.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/coral-jadau-mangalsutra?variant=gid://shopify/ProductVariant/49945920307500",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Coraljadaumangalsutra900_-_1.jpg?v=1728281388"
-  },
   "gid://shopify/ProductVariant/49945961333036": {
     "product_title": "Ganesha nakashi necklace",
     "variant_title": "Default Title",
@@ -10876,7 +10867,7 @@
     "variant_title": "Default Title",
     "sku": "NK912",
     "price": 2450.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.kanshijewels.com/products/elegant-polki-fusion-set?variant=gid://shopify/ProductVariant/53368925651244",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/ElegantPolkifusionset1999.jpg?v=1782216193"
   },
@@ -13624,6 +13615,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-choker-18?variant=gid://shopify/ProductVariant/49513748103468",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2800_1.jpg?v=1722588488"
+  },
+  "gid://shopify/ProductVariant/49945920307500": {
+    "product_title": "Coral Jadau Mangalsutra",
+    "variant_title": "Default Title",
+    "sku": "NK411",
+    "price": 945.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/coral-jadau-mangalsutra?variant=gid://shopify/ProductVariant/49945920307500",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Coraljadaumangalsutra900_-_1.jpg?v=1728281388"
   },
   "gid://shopify/ProductVariant/49987433824556": {
     "product_title": "Jadau Round Bali",
