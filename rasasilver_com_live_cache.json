@@ -9818,15 +9818,6 @@
     "url": "https://www.rasasilver.com/products/moissflora-danglers?variant=gid://shopify/ProductVariant/52527035646249",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0386copy_resized_ecf22f2f-bf1c-4bc9-a037-378cd5b98865.jpg?v=1770096650"
   },
-  "gid://shopify/ProductVariant/52527055896873": {
-    "product_title": "Peacora Kundan Studs",
-    "variant_title": "Default Title",
-    "sku": "R22096",
-    "price": 9760.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/peacora-kundan-studs?variant=gid://shopify/ProductVariant/52527055896873",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/3_bc9b2698-3bde-4342-9959-a243ac829a98.jpg?v=1770096729"
-  },
   "gid://shopify/ProductVariant/52527154790697": {
     "product_title": "Lady Wini Victorian Studs",
     "variant_title": "Default Title",
@@ -19723,7 +19714,7 @@
     "variant_title": "Default Title",
     "sku": "R33500",
     "price": 23000.0,
-    "stock": 1,
+    "stock": 9999,
     "url": "https://www.rasasilver.com/products/peacock-stone-necklace?variant=gid://shopify/ProductVariant/53410018263337",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_41_107Pics0554.jpg?v=1786702033"
   },
@@ -36610,6 +36601,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/petalyra-victorian-danglers?variant=gid://shopify/ProductVariant/52526726512937",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0481copy_resized.jpg?v=1770096601"
+  },
+  "gid://shopify/ProductVariant/52527055896873": {
+    "product_title": "Peacora Kundan Studs",
+    "variant_title": "Default Title",
+    "sku": "R22096",
+    "price": 9760.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/peacora-kundan-studs?variant=gid://shopify/ProductVariant/52527055896873",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/3_bc9b2698-3bde-4342-9959-a243ac829a98.jpg?v=1770096729"
   },
   "gid://shopify/ProductVariant/52527065465129": {
     "product_title": "Pink Shades Toe Rings",
