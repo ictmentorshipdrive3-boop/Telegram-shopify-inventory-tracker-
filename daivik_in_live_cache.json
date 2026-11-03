@@ -2083,7 +2083,7 @@
     "variant_title": "Default Title",
     "sku": "118",
     "price": 1999.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.daivik.in/products/1-1?variant=gid://shopify/ProductVariant/42679268770014",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_b2eb70ab-b56b-4c92-8e8d-9507a88785eb.heic?v=1649767832"
   },
@@ -9672,15 +9672,6 @@
     "price": 3699.0,
     "stock": 9,
     "url": "https://www.daivik.in/products/pure-kemp-jadau-jhumkas-with-mattal?variant=gid://shopify/ProductVariant/47069494870238",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_a5b21ca3-5546-4aa2-ad44-e75272845a4e.jpg?v=1764743479"
-  },
-  "gid://shopify/ProductVariant/47069494837470": {
-    "product_title": "Pure kemp Jadau Jhumkas with Pearl Mattal",
-    "variant_title": "Green",
-    "sku": "1540",
-    "price": 3699.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/pure-kemp-jadau-jhumkas-with-mattal?variant=gid://shopify/ProductVariant/47069494837470",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_a5b21ca3-5546-4aa2-ad44-e75272845a4e.jpg?v=1764743479"
   },
   "gid://shopify/ProductVariant/46234177568990": {
@@ -19255,7 +19246,7 @@
     "variant_title": "Default Title",
     "sku": "377",
     "price": 499.0,
-    "stock": 13,
+    "stock": 12,
     "url": "https://www.daivik.in/products/simple-leaf-invisible-chain?variant=gid://shopify/ProductVariant/48434484150494",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6F48194E-21F4-470E-AD03-FE1A254608A7.jpg?v=1784029225"
   },
@@ -30148,6 +30139,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/pure-kemp-brass-peacock-ruby-green-earcuff?variant=gid://shopify/ProductVariant/46211795353822",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/56B7827F-66AD-444E-B5FB-86A84EFD38C9.jpg?v=1736717236"
+  },
+  "gid://shopify/ProductVariant/47069494837470": {
+    "product_title": "Pure kemp Jadau Jhumkas with Pearl Mattal",
+    "variant_title": "Green",
+    "sku": "1540",
+    "price": 3699.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/pure-kemp-jadau-jhumkas-with-mattal?variant=gid://shopify/ProductVariant/47069494837470",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_a5b21ca3-5546-4aa2-ad44-e75272845a4e.jpg?v=1764743479"
   },
   "gid://shopify/ProductVariant/46234191954142": {
     "product_title": "Silver Replica Balaji Hipbelt",
