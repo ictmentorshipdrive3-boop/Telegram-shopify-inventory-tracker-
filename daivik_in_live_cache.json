@@ -2843,15 +2843,6 @@
     "url": "https://www.daivik.in/products/small-ad-jhumkas?variant=gid://shopify/ProductVariant/43537462460638",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_8320a2e7-b143-4ff5-88e2-c445e37333e6.heic?v=1666019083"
   },
-  "gid://shopify/ProductVariant/43546226196702": {
-    "product_title": "Simple Ruby and pearl choker with earrings",
-    "variant_title": "Default Title",
-    "sku": "538",
-    "price": 999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/a-327?variant=gid://shopify/ProductVariant/43546226196702",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_53420f7a-2acc-41f8-89b3-e97b3002fb4c.heic?v=1666190684"
-  },
   "gid://shopify/ProductVariant/43546238583006": {
     "product_title": "AD Kemp Choker with Jhumkas",
     "variant_title": "Default Title",
@@ -21100,7 +21091,7 @@
     "variant_title": "Default Title",
     "sku": "D26084",
     "price": 1499.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26084?variant=gid://shopify/ProductVariant/49149627924702",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6480_718149b3-63de-43a4-adb8-571e299c4d4b.jpg?v=1791223760"
   },
@@ -21280,7 +21271,7 @@
     "variant_title": "Blue",
     "sku": "D26314",
     "price": 799.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26314?variant=gid://shopify/ProductVariant/49155191570654",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6571.jpg?v=1791377566"
   },
@@ -21568,7 +21559,7 @@
     "variant_title": "Default Title",
     "sku": "D26354",
     "price": 449.0,
-    "stock": 18,
+    "stock": 17,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26354?variant=gid://shopify/ProductVariant/49162124984542",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6662_1f27bf0d-a2bb-4938-b82a-0917419906e0.jpg?v=1791444102"
   },
@@ -22813,15 +22804,6 @@
     "stock": 5,
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d26522?variant=gid://shopify/ProductVariant/49178381091038",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_73772.jpg?v=1791535804"
-  },
-  "gid://shopify/ProductVariant/49178381156574": {
-    "product_title": "Diwali Sale Bangles D26523",
-    "variant_title": "2.6",
-    "sku": "D26523",
-    "price": 599.0,
-    "stock": 2,
-    "url": "https://www.daivik.in/products/diwali-sale-bangles-d26523?variant=gid://shopify/ProductVariant/49178381156574",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70912.jpg?v=1791535824"
   },
   "gid://shopify/ProductVariant/49178381222110": {
     "product_title": "Diwali Sale Bangles D26524 (Openable Kada)",
@@ -26269,6 +26251,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/a-323?variant=gid://shopify/ProductVariant/43541576974558",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_7e543418-a518-4f71-8daa-861fe66be88d.heic?v=1666110079"
+  },
+  "gid://shopify/ProductVariant/43546226196702": {
+    "product_title": "Simple Ruby and pearl choker with earrings",
+    "variant_title": "Default Title",
+    "sku": "538",
+    "price": 999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/a-327?variant=gid://shopify/ProductVariant/43546226196702",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_53420f7a-2acc-41f8-89b3-e97b3002fb4c.heic?v=1666190684"
   },
   "gid://shopify/ProductVariant/43546241630430": {
     "product_title": "Ad star green pearl choker with earrings",
@@ -35871,6 +35862,15 @@
     "price": 599.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d26523?variant=gid://shopify/ProductVariant/49178381123806",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70912.jpg?v=1791535824"
+  },
+  "gid://shopify/ProductVariant/49178381156574": {
+    "product_title": "Diwali Sale Bangles D26523",
+    "variant_title": "2.6",
+    "sku": "D26523",
+    "price": 599.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-bangles-d26523?variant=gid://shopify/ProductVariant/49178381156574",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70912.jpg?v=1791535824"
   },
   "gid://shopify/ProductVariant/49178381189342": {
