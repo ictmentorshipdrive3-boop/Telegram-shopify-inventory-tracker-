@@ -571,7 +571,7 @@
     "variant_title": "Default Title",
     "sku": "402",
     "price": 849.0,
-    "stock": 51,
+    "stock": 50,
     "url": "https://www.daivik.in/products/golden-pearl-peacock-balis?variant=gid://shopify/ProductVariant/36692498677913",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/golden-pearl-peacock-balis-earrings-519.jpg?v=1602599466"
   },
@@ -1480,7 +1480,7 @@
     "variant_title": "2.6",
     "sku": "951",
     "price": 999.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.daivik.in/products/white-stone-bangles-4-bangles?variant=gid://shopify/ProductVariant/42060609159390",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_2a6687dc-c1be-4dfd-9d83-e59b62d8f05f.jpg?v=1636992035"
   },
@@ -6295,7 +6295,7 @@
     "variant_title": "Default Title",
     "sku": "708",
     "price": 2299.0,
-    "stock": 32,
+    "stock": 31,
     "url": "https://www.daivik.in/products/two-line-necklace-with-earrings?variant=gid://shopify/ProductVariant/45333722759390",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B98339A8-F58B-42BE-A566-F73DD079D750.jpg?v=1715100306"
   },
@@ -10232,15 +10232,6 @@
     "url": "https://www.daivik.in/products/ad-non-idol-pearl-haram-with-balis?variant=gid://shopify/ProductVariant/46343005143262",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3078.heic?v=1741273933"
   },
-  "gid://shopify/ProductVariant/46349036519646": {
-    "product_title": "AD Hasli Dark Green Necklace with Balis",
-    "variant_title": "Default Title",
-    "sku": "1234",
-    "price": 699.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-hasli-dark-green-necklace-with-balis?variant=gid://shopify/ProductVariant/46349036519646",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/063511AC-1CDD-4E77-AC0F-4966AF43C301.jpg?v=1741505033"
-  },
   "gid://shopify/ProductVariant/46354286018782": {
     "product_title": "AD Peacock Kemp Studs",
     "variant_title": "Default Title",
@@ -12676,7 +12667,7 @@
     "variant_title": "Ruby Green",
     "sku": "1684",
     "price": 799.0,
-    "stock": 22,
+    "stock": 21,
     "url": "https://www.daivik.in/products/butterfly-pearl-anklets-in-two-colors-price-for-a-pair?variant=gid://shopify/ProductVariant/47522867249374",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/07556B5D-54C6-4678-8AB2-9C412DC435A9.jpg?v=1757520910"
   },
@@ -21100,7 +21091,7 @@
     "variant_title": "Default Title",
     "sku": "1983",
     "price": 699.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/simple-antique-ad-jhumkas-with-mattal?variant=gid://shopify/ProductVariant/49149774004446",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BBC1D9BD-0761-4C5D-ACA9-806510AD15E1.jpg?v=1791111714"
   },
@@ -30373,6 +30364,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/kemp-bugadi-side-earrings?variant=gid://shopify/ProductVariant/46340555374814",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/rn-image_picker_lib_temp_bd2bc04d-16de-48d7-ba41-3528d83dfa2a.jpg?v=1741185163"
+  },
+  "gid://shopify/ProductVariant/46349036519646": {
+    "product_title": "AD Hasli Dark Green Necklace with Balis",
+    "variant_title": "Default Title",
+    "sku": "1234",
+    "price": 699.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-hasli-dark-green-necklace-with-balis?variant=gid://shopify/ProductVariant/46349036519646",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/063511AC-1CDD-4E77-AC0F-4966AF43C301.jpg?v=1741505033"
   },
   "gid://shopify/ProductVariant/46349378650334": {
     "product_title": "Pure Kemp Brass Teekas",
