@@ -724,7 +724,7 @@
     "variant_title": "Default Title",
     "sku": "R1278",
     "price": 9660.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/starlit-bloom-studs?variant=gid://shopify/ProductVariant/50104519360809",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP07223copy.jpg?v=1744195557"
   },
@@ -3328,15 +3328,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/tulira-studs?variant=gid://shopify/ProductVariant/50829162610985",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP276_89657a22-b287-44e6-9a73-166733fa8a3e.jpg?v=1756546361"
-  },
-  "gid://shopify/ProductVariant/50829222281513": {
-    "product_title": "Nakshi Morvilasika Danglers",
-    "variant_title": "Default Title",
-    "sku": "R11636",
-    "price": 4130.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/nakshi-morvilasika-danglers?variant=gid://shopify/ProductVariant/50829222281513",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP228_5f8267c2-975f-4b8d-90da-dfb5897492c9.jpg?v=1756547268"
   },
   "gid://shopify/ProductVariant/51418983104809": {
     "product_title": "Kusumangan Stud Earrings",
@@ -24433,6 +24424,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/back-belt-1?variant=gid://shopify/ProductVariant/50829204390185",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP130.jpg?v=1756546609"
+  },
+  "gid://shopify/ProductVariant/50829222281513": {
+    "product_title": "Nakshi Morvilasika Danglers",
+    "variant_title": "Default Title",
+    "sku": "R11636",
+    "price": 4130.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/nakshi-morvilasika-danglers?variant=gid://shopify/ProductVariant/50829222281513",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP228_5f8267c2-975f-4b8d-90da-dfb5897492c9.jpg?v=1756547268"
   },
   "gid://shopify/ProductVariant/51418983137577": {
     "product_title": "Kusumangan Stud Earrings",
