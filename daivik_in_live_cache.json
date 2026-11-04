@@ -22,7 +22,7 @@
     "variant_title": "Default Title",
     "sku": "42",
     "price": 2499.0,
-    "stock": 6,
+    "stock": 10,
     "url": "https://www.daivik.in/products/42?variant=gid://shopify/ProductVariant/32600742723643",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_ae83b031-205e-453b-8bb4-cd73dcec54c8.jpg?v=1598451549"
   },
@@ -3590,6 +3590,15 @@
     "url": "https://www.daivik.in/products/a-103?variant=gid://shopify/ProductVariant/44206928593118",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_b0c12209-bf7e-4ad8-9431-f87964cfb95b.heic?v=1685283410"
   },
+  "gid://shopify/ProductVariant/44212089585886": {
+    "product_title": "3 Line Multicolour Mala with earrings",
+    "variant_title": "Default Title",
+    "sku": "898",
+    "price": 2499.0,
+    "stock": 2,
+    "url": "https://www.daivik.in/products/3-line-multicolour-mala-with-earrings?variant=gid://shopify/ProductVariant/44212089585886",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_8b415e5f-a762-4a7e-b286-dcb2b1ac28ec.heic?v=1685632032"
+  },
   "gid://shopify/ProductVariant/44212589330654": {
     "product_title": "Victorian AD Green pearl necklace with earrings",
     "variant_title": "Default Title",
@@ -6070,7 +6079,7 @@
     "variant_title": "Ruby",
     "sku": "881",
     "price": 999.0,
-    "stock": 36,
+    "stock": 18,
     "url": "https://www.daivik.in/products/victorian-ad-choker-with-earrings?variant=gid://shopify/ProductVariant/45204086194398",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0234.jpg?v=1779468898"
   },
@@ -6970,7 +6979,7 @@
     "variant_title": "Dark Green",
     "sku": "190",
     "price": 1799.0,
-    "stock": 3,
+    "stock": 10,
     "url": "https://www.daivik.in/products/victorian-ad-necklace-with-earrings-in-two-colors?variant=gid://shopify/ProductVariant/45910587670750",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/713D1097-1FE7-4DC7-9208-2A4FEBA4689A.jpg?v=1722165269"
   },
@@ -11227,7 +11236,7 @@
     "variant_title": "Short",
     "sku": "687",
     "price": 799.0,
-    "stock": 56,
+    "stock": 8,
     "url": "https://www.daivik.in/products/mango-lakshmi-short-and-long-coin-necklace-with-earrings?variant=gid://shopify/ProductVariant/47005411311838",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A61A0EA3-3605-4B14-8EE8-675549E8D3CD.jpg?v=1749569639"
   },
@@ -11245,7 +11254,7 @@
     "variant_title": "Combo",
     "sku": "687",
     "price": 1799.0,
-    "stock": 13,
+    "stock": 5,
     "url": "https://www.daivik.in/products/mango-lakshmi-short-and-long-coin-necklace-with-earrings?variant=gid://shopify/ProductVariant/47005411377374",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A61A0EA3-3605-4B14-8EE8-675549E8D3CD.jpg?v=1749569639"
   },
@@ -11537,12 +11546,21 @@
     "url": "https://www.daivik.in/products/ruby-green-hasli-necklace-with-earrings?variant=gid://shopify/ProductVariant/47057268900062",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A10DD4B8-8EB6-4A6F-97F7-128E71F54C05.jpg?v=1751718377"
   },
+  "gid://shopify/ProductVariant/47092708573406": {
+    "product_title": "Jyothika Mam Inspired AD Green Pendant Necklace (Prices for Short, Long and Combo)",
+    "variant_title": "Short",
+    "sku": "1295",
+    "price": 799.0,
+    "stock": 56,
+    "url": "https://www.daivik.in/products/jyothika-mam-inspired-ad-green-pendant-necklace?variant=gid://shopify/ProductVariant/47092708573406",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6D306FEB-C930-4743-A32A-FBEB4ECF8E48.jpg?v=1752941521"
+  },
   "gid://shopify/ProductVariant/47092708606174": {
     "product_title": "Jyothika Mam Inspired AD Green Pendant Necklace (Prices for Short, Long and Combo)",
     "variant_title": "Long",
     "sku": "1295",
     "price": 1299.0,
-    "stock": 56,
+    "stock": 5,
     "url": "https://www.daivik.in/products/jyothika-mam-inspired-ad-green-pendant-necklace?variant=gid://shopify/ProductVariant/47092708606174",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6D306FEB-C930-4743-A32A-FBEB4ECF8E48.jpg?v=1752941521"
   },
@@ -14740,15 +14758,6 @@
     "stock": 35,
     "url": "https://www.daivik.in/products/half-moon-jadau-kemp-bugadi-top-earring?variant=gid://shopify/ProductVariant/47580119957726",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/20BED6F1-6438-4730-9089-69B7FE0AB16E.jpg?v=1759420704"
-  },
-  "gid://shopify/ProductVariant/47583155421406": {
-    "product_title": "Butta Antique Jadau Necklace set ( price for Each )",
-    "variant_title": "Only Short Haram",
-    "sku": "598",
-    "price": 1999.0,
-    "stock": 6,
-    "url": "https://www.daivik.in/products/butta-antique-jadau-necklace-set-price-for-each?variant=gid://shopify/ProductVariant/47583155421406",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8995336F-3AD7-454D-BC03-490A54366A40.jpg?v=1759505403"
   },
   "gid://shopify/ProductVariant/47583155454174": {
     "product_title": "Butta Antique Jadau Necklace set ( price for Each )",
@@ -18233,24 +18242,6 @@
     "url": "https://www.daivik.in/products/antique-turtle-kumkum-box?variant=gid://shopify/ProductVariant/48226413084894",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9386.jpg?v=1778424241"
   },
-  "gid://shopify/ProductVariant/48226422128862": {
-    "product_title": "Antique Ruby Kumkum Box",
-    "variant_title": "Default Title",
-    "sku": "1881",
-    "price": 1999.0,
-    "stock": 5,
-    "url": "https://www.daivik.in/products/antique-ruby-kumkum-box?variant=gid://shopify/ProductVariant/48226422128862",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9389.jpg?v=1778424345"
-  },
-  "gid://shopify/ProductVariant/48226422161630": {
-    "product_title": "Antique Flower Petals Kumkum Box",
-    "variant_title": "Default Title",
-    "sku": "1882",
-    "price": 1799.0,
-    "stock": 11,
-    "url": "https://www.daivik.in/products/antique-flower-petals-kumkum-box?variant=gid://shopify/ProductVariant/48226422161630",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9393.jpg?v=1778424443"
-  },
   "gid://shopify/ProductVariant/48226422259934": {
     "product_title": "Classic Floral Kumkum Box",
     "variant_title": "Default Title",
@@ -18481,7 +18472,7 @@
     "variant_title": "Default Title",
     "sku": "1389",
     "price": 1299.0,
-    "stock": 56,
+    "stock": 7,
     "url": "https://www.daivik.in/products/ad-pendant-premium-hasli-with-earrings?variant=gid://shopify/ProductVariant/48286681759966",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BF61EB47-FF06-48A1-BF1B-18AF76B5F198.jpg?v=1779899313"
   },
@@ -21091,7 +21082,7 @@
     "variant_title": "Default Title",
     "sku": "1982",
     "price": 799.0,
-    "stock": 21,
+    "stock": 20,
     "url": "https://www.daivik.in/products/simple-floral-antique-jhumkas-with-mattal?variant=gid://shopify/ProductVariant/49149773906142",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/50290B5C-2D07-4A49-BBB4-F698CCA99EC1.jpg?v=1791111602"
   },
@@ -26130,7 +26121,7 @@
     "product_title": "Simple Ruby and pearl choker with earrings",
     "variant_title": "Default Title",
     "sku": "538",
-    "price": 999.0,
+    "price": 1199.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/a-327?variant=gid://shopify/ProductVariant/43546226196702",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_53420f7a-2acc-41f8-89b3-e97b3002fb4c.heic?v=1666190684"
@@ -26926,15 +26917,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/ad-changeable-earrings-with-4-colours?variant=gid://shopify/ProductVariant/44210810978526",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_6535067d-d306-40f8-a436-9e20ff72947c.heic?v=1685546180"
-  },
-  "gid://shopify/ProductVariant/44212089585886": {
-    "product_title": "3 Line Multicolour Mala with earrings",
-    "variant_title": "Default Title",
-    "sku": "898",
-    "price": 2499.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/3-line-multicolour-mala-with-earrings?variant=gid://shopify/ProductVariant/44212089585886",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_8b415e5f-a762-4a7e-b286-dcb2b1ac28ec.heic?v=1685632032"
   },
   "gid://shopify/ProductVariant/44219189428446": {
     "product_title": "AD leaf gold finish necklace with earrings",
@@ -31328,15 +31310,6 @@
     "url": "https://www.daivik.in/products/diamond-look-alike-floral-necklace-with-earrings?variant=gid://shopify/ProductVariant/47058250170590",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1CE9BAB9-6D33-4B51-8A34-5358DAE8B17C.jpg?v=1790318745"
   },
-  "gid://shopify/ProductVariant/47092708573406": {
-    "product_title": "Jyothika Mam Inspired AD Green Pendant Necklace (Prices for Short, Long and Combo)",
-    "variant_title": "Short",
-    "sku": "1295",
-    "price": 799.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/jyothika-mam-inspired-ad-green-pendant-necklace?variant=gid://shopify/ProductVariant/47092708573406",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6D306FEB-C930-4743-A32A-FBEB4ECF8E48.jpg?v=1752941521"
-  },
   "gid://shopify/ProductVariant/47075079422174": {
     "product_title": "GJ Polish Designer Bracelets (Price for Each)",
     "variant_title": "3",
@@ -32560,6 +32533,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/untitled-oct1_21-35?variant=gid://shopify/ProductVariant/47576335286494",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EA7ABBFB-725E-4587-BBA2-D00441E47ACE.jpg?v=1759334756"
+  },
+  "gid://shopify/ProductVariant/47583155421406": {
+    "product_title": "Butta Antique Jadau Necklace set ( price for Each )",
+    "variant_title": "Only Short Haram",
+    "sku": "598",
+    "price": 1999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/butta-antique-jadau-necklace-set-price-for-each?variant=gid://shopify/ProductVariant/47583155421406",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8995336F-3AD7-454D-BC03-490A54366A40.jpg?v=1759505403"
   },
   "gid://shopify/ProductVariant/47588954177758": {
     "product_title": "AD Bangle Combo (Price for Both Hands)",
@@ -33910,6 +33892,24 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/lakshmi-jadau-antique-kasumalai-coin-haram?variant=gid://shopify/ProductVariant/48189005037790",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BBF62C46-76E2-4841-A17E-923D48FBAC5D.jpg?v=1777653189"
+  },
+  "gid://shopify/ProductVariant/48226422128862": {
+    "product_title": "Antique Ruby Kumkum Box",
+    "variant_title": "Default Title",
+    "sku": "1881",
+    "price": 1999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/antique-ruby-kumkum-box?variant=gid://shopify/ProductVariant/48226422128862",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9389.jpg?v=1778424345"
+  },
+  "gid://shopify/ProductVariant/48226422161630": {
+    "product_title": "Antique Flower Petals Kumkum Box",
+    "variant_title": "Default Title",
+    "sku": "1882",
+    "price": 1799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/antique-flower-petals-kumkum-box?variant=gid://shopify/ProductVariant/48226422161630",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9393.jpg?v=1778424443"
   },
   "gid://shopify/ProductVariant/48238202912990": {
     "product_title": "Mossanite AD Droplets",
