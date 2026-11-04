@@ -10309,7 +10309,7 @@
     "variant_title": "Default Title",
     "sku": "MT01",
     "price": 1699.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.kanshijewels.com/products/jadau-tika-7?variant=gid://shopify/ProductVariant/52737371341100",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_3398.jpg?v=1773127204"
   },
@@ -10336,7 +10336,7 @@
     "variant_title": "Default Title",
     "sku": "AC01",
     "price": 1450.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.kanshijewels.com/products/neelam-jadau-earchain?variant=gid://shopify/ProductVariant/52737473642796",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/NEELAMJADAUEARCHAIN1450.jpg?v=1773132024"
   },
@@ -11698,15 +11698,6 @@
     "stock": 7,
     "url": "https://www.kanshijewels.com/products/handwork-kundan-balls-with-swaroski-kundan-fusion-necklace?variant=gid://shopify/ProductVariant/54005762457900",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/WhatsApp_Image_2026-09-05_at_2.58.37_PM_2.jpg?v=1788601623"
-  },
-  "gid://shopify/ProductVariant/54005782479148": {
-    "product_title": "Handcut Jadau Gold Look Emerald Chokar",
-    "variant_title": "Default Title",
-    "sku": "NK969",
-    "price": 2799.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/handcut-jadau-gold-look-emerald-chokar?variant=gid://shopify/ProductVariant/54005782479148",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/WhatsApp_Image_2026-09-05_at_2.58.43_PM_1.jpg?v=1788604147"
   },
   "gid://shopify/ProductVariant/54005786837292": {
     "product_title": "Elegant Flower Jadau Kundan Chain",
@@ -14650,5 +14641,14 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/moon-kundan-motives-classic-set-1?variant=gid://shopify/ProductVariant/54005697446188",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/WhatsApp_Image_2026-09-05_at_2.58.52_PM_1.jpg?v=1788605759"
+  },
+  "gid://shopify/ProductVariant/54005782479148": {
+    "product_title": "Handcut Jadau Gold Look Emerald Chokar",
+    "variant_title": "Default Title",
+    "sku": "NK969",
+    "price": 2799.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/handcut-jadau-gold-look-emerald-chokar?variant=gid://shopify/ProductVariant/54005782479148",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/WhatsApp_Image_2026-09-05_at_2.58.43_PM_1.jpg?v=1788604147"
   }
 }
