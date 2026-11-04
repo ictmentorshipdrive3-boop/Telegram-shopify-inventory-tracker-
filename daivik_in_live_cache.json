@@ -2344,7 +2344,7 @@
     "variant_title": "Default Title",
     "sku": "94",
     "price": 1399.0,
-    "stock": 25,
+    "stock": 24,
     "url": "https://www.daivik.in/products/a-215?variant=gid://shopify/ProductVariant/43157328003294",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_f61ca97d-154c-44ba-bf5b-967d10a629f9.heic?v=1658503148"
   },
@@ -6520,7 +6520,7 @@
     "variant_title": "Green",
     "sku": "740",
     "price": 2499.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/untitled-jun8_20-19?variant=gid://shopify/ProductVariant/45510607012062",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/554D43F6-817C-4799-9F7B-C39C881BA886.jpg?v=1717858372"
   },
@@ -20600,15 +20600,6 @@
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26031?variant=gid://shopify/ProductVariant/49152667615454",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6085.jpg?v=1791221733"
   },
-  "gid://shopify/ProductVariant/49152665813214": {
-    "product_title": "Diwali Sale Necklace D26032",
-    "variant_title": "Green",
-    "sku": "D26032",
-    "price": 499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26032?variant=gid://shopify/ProductVariant/49152665813214",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6094.jpg?v=1791221763"
-  },
   "gid://shopify/ProductVariant/49152665845982": {
     "product_title": "Diwali Sale Necklace D26032",
     "variant_title": "Ruby Green",
@@ -21829,7 +21820,7 @@
     "variant_title": "Default Title",
     "sku": "D26111",
     "price": 1199.0,
-    "stock": 30,
+    "stock": 29,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26111?variant=gid://shopify/ProductVariant/49169749049566",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_68212.jpg?v=1791457431"
   },
@@ -23993,6 +23984,15 @@
     "url": "https://www.daivik.in/products/hydro-doublet-lakshmi-mango-necklace-with-earrings?variant=gid://shopify/ProductVariant/49348934828254",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/library-17711561-067D-4E17-8DB5-30AD9A0F683A-L0-001.jpg?v=1793634527"
   },
+  "gid://shopify/ProductVariant/49357604651230": {
+    "product_title": "Premium Bridal Lakshmi Antique Short & Long Combo",
+    "variant_title": "Default Title",
+    "sku": "1020",
+    "price": 16799.0,
+    "stock": 3,
+    "url": "https://www.daivik.in/products/premium-bridal-lakshmi-antique-short-long-combo?variant=gid://shopify/ProductVariant/49357604651230",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_2943_cdcb8f9e-32b1-4911-b32f-b2225f273356.jpg?v=1793770317"
+  },
   "gid://shopify/ProductVariant/32849570136123": {
     "product_title": "Kemp Uncut Heavy Choker With Earrings",
     "variant_title": "Default Title",
@@ -25702,15 +25702,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/a-145?variant=gid://shopify/ProductVariant/42938514997470",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_d63168f2-bd2e-452f-b8b9-9625fe761e41.heic?v=1654957806"
-  },
-  "gid://shopify/ProductVariant/42966383395038": {
-    "product_title": "Peacock Kemp Brass Necklace with earrings",
-    "variant_title": "Default Title",
-    "sku": "1020",
-    "price": 10999.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/a-157?variant=gid://shopify/ProductVariant/42966383395038",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_b8429406-f56d-440a-beb1-f81d07b28ee1.heic?v=1655391038"
   },
   "gid://shopify/ProductVariant/42970894663902": {
     "product_title": "Antique Gold Finish Brass Jhumkas",
@@ -34665,6 +34656,15 @@
     "price": 499.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26032?variant=gid://shopify/ProductVariant/49152665780446",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6094.jpg?v=1791221763"
+  },
+  "gid://shopify/ProductVariant/49152665813214": {
+    "product_title": "Diwali Sale Necklace D26032",
+    "variant_title": "Green",
+    "sku": "D26032",
+    "price": 499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26032?variant=gid://shopify/ProductVariant/49152665813214",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6094.jpg?v=1791221763"
   },
   "gid://shopify/ProductVariant/49152663650526": {
