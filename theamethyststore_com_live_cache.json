@@ -111046,7 +111046,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5702",
     "price": 2700.0,
-    "stock": 1,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/eternal-serenity-3d-spl-pendant-1?variant=gid://shopify/ProductVariant/67943033602275",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5702_8e7b6625-bda6-4823-8904-2f5443400ed6.jpg?v=1793710518"
   },
@@ -111091,7 +111091,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-2413",
     "price": 6900.0,
-    "stock": 3,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/grandeur-look-ring-1?variant=gid://shopify/ProductVariant/68026989150435",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2413.jpg?v=1793767814"
   },
@@ -111230,6 +111230,15 @@
     "url": "https://www.theamethyststore.com/products/auspicious-3d-spl-pendant-2?variant=gid://shopify/ProductVariant/68028130001123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5700.jpg?v=1793773390"
   },
+  "gid://shopify/ProductVariant/68028168437987": {
+    "product_title": "Dhivisha Kundan Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16876",
+    "price": 16700.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/dhivisha-kundan-jhumkas?variant=gid://shopify/ProductVariant/68028168437987",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16876.jpg?v=1793773670"
+  },
   "gid://shopify/ProductVariant/68028207497443": {
     "product_title": "Lord  Vinayagar 3D Spl Pendant",
     "variant_title": "Default Title",
@@ -111265,6 +111274,33 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/madurai-meenakshi-3d-spl-pendant?variant=gid://shopify/ProductVariant/68028261040355",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5711.jpg?v=1793774545"
+  },
+  "gid://shopify/ProductVariant/68028305146083": {
+    "product_title": "Lord Venkateshwara 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5712",
+    "price": 2400.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/lord-venkateshwara-3d-spl-pendant?variant=gid://shopify/ProductVariant/68028305146083",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5712.jpg?v=1793774909"
+  },
+  "gid://shopify/ProductVariant/68028357869795": {
+    "product_title": "Vinayagar 3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5741",
+    "price": 2200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/vinayagar-3d-spl-pendant?variant=gid://shopify/ProductVariant/68028357869795",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5741.jpg?v=1793775222"
+  },
+  "gid://shopify/ProductVariant/68028776644835": {
+    "product_title": "Shri Balaji  3D Spl Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5742",
+    "price": 2800.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/shri-balaji-3d-spl-pendant?variant=gid://shopify/ProductVariant/68028776644835",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5742.jpg?v=1793775623"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
