@@ -30892,7 +30892,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-9784",
     "price": 6400.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/ziva-stone-studs?variant=gid://shopify/ProductVariant/47103659802851",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9784_1.jpg?v=1756992278"
   },
@@ -106766,15 +106766,6 @@
     "url": "https://www.theamethyststore.com/products/yaadhavi-stone-mugappu-chain?variant=gid://shopify/ProductVariant/67774612963555",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2429.jpg?v=1792672120"
   },
-  "gid://shopify/ProductVariant/67774627545315": {
-    "product_title": "Preethikaa  Stone Mugappu Chain",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-2400",
-    "price": 21220.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/preethikaa-stone-mugappu-chain?variant=gid://shopify/ProductVariant/67774627545315",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2400.jpg?v=1792672341"
-  },
   "gid://shopify/ProductVariant/67774638850275": {
     "product_title": "Vedhikaa Stone Mugappu Chain",
     "variant_title": "Default Title",
@@ -108544,7 +108535,7 @@
     "variant_title": "2.6",
     "sku": "AMS-107-3764-2.6\"",
     "price": 38000.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/ingenious-charm-pair-bangles?variant=gid://shopify/ProductVariant/67876536254691",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3764-2.6.jpg?v=1793427715"
   },
@@ -109354,7 +109345,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16905",
     "price": 18700.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/radiant-kundan-long-earrings?variant=gid://shopify/ProductVariant/67883041489123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16905.jpg?v=1793516186"
   },
@@ -110524,7 +110515,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5719",
     "price": 2800.0,
-    "stock": 2,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/numinous-3d-spl-pendant-1?variant=gid://shopify/ProductVariant/67932993093859",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5719.jpg?v=1793704454"
   },
@@ -110686,7 +110677,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5708",
     "price": 2800.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/divine-aura-3d-spl-pendant-1?variant=gid://shopify/ProductVariant/67939132309731",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5708.jpg?v=1793708033"
   },
@@ -111019,7 +111010,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16970",
     "price": 25600.0,
-    "stock": 5,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/gorgeous-look-jhumkas?variant=gid://shopify/ProductVariant/68029643129059",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16970.jpg?v=1793776181"
   },
@@ -153439,6 +153430,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/exemplary-3d-spl-jhumkas?variant=gid://shopify/ProductVariant/67773791764707",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16588.jpg?v=1792664381"
+  },
+  "gid://shopify/ProductVariant/67774627545315": {
+    "product_title": "Preethikaa  Stone Mugappu Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2400",
+    "price": 21220.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/preethikaa-stone-mugappu-chain?variant=gid://shopify/ProductVariant/67774627545315",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2400.jpg?v=1792672341"
   },
   "gid://shopify/ProductVariant/67774668734691": {
     "product_title": "Bindhu  Stone Mugappu Chain",
