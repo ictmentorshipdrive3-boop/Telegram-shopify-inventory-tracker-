@@ -9094,7 +9094,7 @@
     "variant_title": "Green",
     "sku": "1158",
     "price": 2199.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/untitled-nov23_21-31?variant=gid://shopify/ProductVariant/46100678508766",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG-0444.heic?v=1732378048"
   },
@@ -9484,15 +9484,6 @@
     "stock": 56,
     "url": "https://www.daivik.in/products/jadau-kemp-lotus-pearl-chain-anklets?variant=gid://shopify/ProductVariant/46152725430494",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/362EB78E-D420-4B06-A79E-4DBCCED82C6A.jpg?v=1734271145"
-  },
-  "gid://shopify/ProductVariant/46618734493918": {
-    "product_title": "Gold Polish Pendant Necklace with Earrings in two colors (Price for Each)",
-    "variant_title": "Ruby",
-    "sku": "1181",
-    "price": 799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/green-pendant-gold-polish-necklace-with-earrings?variant=gid://shopify/ProductVariant/46618734493918",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CD64723A-2812-4A95-8F51-E43296400C15.jpg?v=1734353095"
   },
   "gid://shopify/ProductVariant/46154327163102": {
     "product_title": "Big Green Pendant Necklace",
@@ -29634,6 +29625,15 @@
     "price": 799.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/green-pendant-gold-polish-necklace-with-earrings?variant=gid://shopify/ProductVariant/46618734461150",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CD64723A-2812-4A95-8F51-E43296400C15.jpg?v=1734353095"
+  },
+  "gid://shopify/ProductVariant/46618734493918": {
+    "product_title": "Gold Polish Pendant Necklace with Earrings in two colors (Price for Each)",
+    "variant_title": "Ruby",
+    "sku": "1181",
+    "price": 799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/green-pendant-gold-polish-necklace-with-earrings?variant=gid://shopify/ProductVariant/46618734493918",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CD64723A-2812-4A95-8F51-E43296400C15.jpg?v=1734353095"
   },
   "gid://shopify/ProductVariant/46154974462174": {
