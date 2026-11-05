@@ -4094,15 +4094,6 @@
     "url": "https://www.dulhanjewels.com/products/unique-jadau-kundan-locket-with-emerald-drops?variant=gid://shopify/ProductVariant/51564484854066",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/89456F61-6506-4B20-A9F0-023C91D5D484.jpg?v=1786541733"
   },
-  "gid://shopify/ProductVariant/51564486033714": {
-    "product_title": "Polki Jadau Kundan Gold Plated Maang Tikka Green Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1150.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/polki-jadau-kundan-gold-plated-maang-tikka-green-drops?variant=gid://shopify/ProductVariant/51564486033714",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0148.jpg?v=1786541846"
-  },
   "gid://shopify/ProductVariant/51564498354482": {
     "product_title": "Bridal Jadau Kundan Pendant With Green Bead Hangings",
     "variant_title": "Default Title",
@@ -4787,15 +4778,6 @@
     "url": "https://www.dulhanjewels.com/products/traditional-jadau-kundan-earcuff-with-hangings?variant=gid://shopify/ProductVariant/67589658706226",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-1333.jpg?v=1790419484"
   },
-  "gid://shopify/ProductVariant/67589664670002": {
-    "product_title": "Ethnic Jadau Kundan Maang Tikka With Ricepearl Hangings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1450.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/ethnic-jadau-kundan-maang-tikka-with-ricepearl-hangings?variant=gid://shopify/ProductVariant/67589664670002",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-1955.jpg?v=1791538081"
-  },
   "gid://shopify/ProductVariant/67591018905906": {
     "product_title": "Unique Jadau Kundan Jhumki Earrings With Ricepearl Hangings",
     "variant_title": "Default Title",
@@ -5155,15 +5137,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/victorian-emerald-maang-tikka-with-ruby-and-polki-accents?variant=gid://shopify/ProductVariant/67945920069938",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/Replace_background_of_jewelry_image_4K_20261010192728.jpg?v=1791640775"
-  },
-  "gid://shopify/ProductVariant/67945998254386": {
-    "product_title": "Chand Studded Jadau Kundan Jhumka Earrings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2500.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/chand-studded-jadau-kundan-jhumka-earrings?variant=gid://shopify/ProductVariant/67945998254386",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6219710745033773786.jpg?v=1791639420"
   },
   "gid://shopify/ProductVariant/67946031350066": {
     "product_title": "Elegant Emerald Maang Tikka With Ruby And Polki Accents",
@@ -5984,6 +5957,24 @@
     "url": "https://www.dulhanjewels.com/products/radiant-jadau-kundan-chandbali-earrings-with-hangings?variant=gid://shopify/ProductVariant/51553606304050",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_471e0e9f-54d3-4b9e-9c5b-d48e3ae51815.jpg?v=1786433758"
   },
+  "gid://shopify/ProductVariant/51564486033714": {
+    "product_title": "Polki Jadau Kundan Gold Plated Maang Tikka Green Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1150.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/polki-jadau-kundan-gold-plated-maang-tikka-green-drops?variant=gid://shopify/ProductVariant/51564486033714",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-0148.jpg?v=1786541846"
+  },
+  "gid://shopify/ProductVariant/67589664670002": {
+    "product_title": "Ethnic Jadau Kundan Maang Tikka With Ricepearl Hangings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1450.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/ethnic-jadau-kundan-maang-tikka-with-ricepearl-hangings?variant=gid://shopify/ProductVariant/67589664670002",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-1955.jpg?v=1791538081"
+  },
   "gid://shopify/ProductVariant/67903002280242": {
     "product_title": "Elegant Moissanite Polki Bangles",
     "variant_title": "2.4",
@@ -6019,6 +6010,15 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/phool-design-jadau-kundan-jhumka-earrings?variant=gid://shopify/ProductVariant/67945953788210",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6219710745033773787.jpg?v=1791639420"
+  },
+  "gid://shopify/ProductVariant/67945998254386": {
+    "product_title": "Chand Studded Jadau Kundan Jhumka Earrings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2500.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/chand-studded-jadau-kundan-jhumka-earrings?variant=gid://shopify/ProductVariant/67945998254386",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6219710745033773786.jpg?v=1791639420"
   },
   "gid://shopify/ProductVariant/67973815107890": {
     "product_title": "Designer Jadau Kundan Studs With Pearl Bordering",
