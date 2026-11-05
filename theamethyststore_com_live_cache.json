@@ -24367,7 +24367,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-1026",
     "price": 6100.0,
-    "stock": 3,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/saanvi-chain?variant=gid://shopify/ProductVariant/46971324563683",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1026-_2.jpg?v=1754120122"
   },
@@ -24502,7 +24502,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-10798",
     "price": 26400.0,
-    "stock": 7,
+    "stock": 9,
     "url": "https://www.theamethyststore.com/products/ashikha-short-necklace?variant=gid://shopify/ProductVariant/46971680751843",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10798-_2.jpg?v=1772087596"
   },
@@ -43037,6 +43037,15 @@
     "url": "https://www.theamethyststore.com/products/elegance-nagas-short-necklace-4?variant=gid://shopify/ProductVariant/47686042943715",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13082.jpg?v=1764596471"
   },
+  "gid://shopify/ProductVariant/47686044483811": {
+    "product_title": "Rechal Attigai Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-12710",
+    "price": 67500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/rechal-attigai-necklace?variant=gid://shopify/ProductVariant/47686044483811",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12710.jpg?v=1764596626"
+  },
   "gid://shopify/ProductVariant/47686049071331": {
     "product_title": "Brindha Short Necklace",
     "variant_title": "Default Title",
@@ -43069,7 +43078,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-12716",
     "price": 24400.0,
-    "stock": 6,
+    "stock": 11,
     "url": "https://www.theamethyststore.com/products/ahana-attigai-necklace?variant=gid://shopify/ProductVariant/47690888741091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12716-_2.jpg?v=1772087389"
   },
@@ -43078,7 +43087,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-11266",
     "price": 9400.0,
-    "stock": 3,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/stone-studs-17?variant=gid://shopify/ProductVariant/47690965352675",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11266.jpg?v=1764656582"
   },
@@ -45169,15 +45178,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/kundan-pair-bangle-7?variant=gid://shopify/ProductVariant/47759995797731",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3011.jpg?v=1766647118"
-  },
-  "gid://shopify/ProductVariant/47760028172515": {
-    "product_title": "Gorgeous Kundan Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-13655",
-    "price": 90188.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/gorgeous-kundan-short-necklace?variant=gid://shopify/ProductVariant/47760028172515",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13655.jpg?v=1766650010"
   },
   "gid://shopify/ProductVariant/47760060711139": {
     "product_title": "Prashikha Kundan Short Necklace",
@@ -110974,7 +110974,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-2460",
     "price": 31200.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/effortless-grace-chain?variant=gid://shopify/ProductVariant/68147659440355",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2460.jpg?v=1793874382"
   },
@@ -111334,7 +111334,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16913",
     "price": 10400.0,
-    "stock": 3,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/trendy-look-avikam-studs?variant=gid://shopify/ProductVariant/68160242712803",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16913.jpg?v=1793884782"
   },
@@ -111355,6 +111355,24 @@
     "stock": 3,
     "url": "https://www.theamethyststore.com/products/petite-grace-avikam-studs?variant=gid://shopify/ProductVariant/68161788870883",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-17015.jpg?v=1793885943"
+  },
+  "gid://shopify/ProductVariant/68162627043555": {
+    "product_title": "Floral Shine Diamond Design Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-17007",
+    "price": 8200.0,
+    "stock": 4,
+    "url": "https://www.theamethyststore.com/products/floral-shine-diamond-design-studs?variant=gid://shopify/ProductVariant/68162627043555",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-17007.jpg?v=1793886318"
+  },
+  "gid://shopify/ProductVariant/68162820178147": {
+    "product_title": "Fleur Elegance Avikam Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-17006",
+    "price": 7200.0,
+    "stock": 6,
+    "url": "https://www.theamethyststore.com/products/fleur-elegance-avikam-studs?variant=gid://shopify/ProductVariant/68162820178147",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-17006.jpg?v=1793886770"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -125162,15 +125180,6 @@
     "url": "https://www.theamethyststore.com/products/tanusha-attigai-necklace?variant=gid://shopify/ProductVariant/47686023610595",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12708_361ba9d4-19a5-4e7e-8f7b-b16a162fca76.jpg?v=1764596116"
   },
-  "gid://shopify/ProductVariant/47686044483811": {
-    "product_title": "Rechal Attigai Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-12710",
-    "price": 67500.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/rechal-attigai-necklace?variant=gid://shopify/ProductVariant/47686044483811",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12710.jpg?v=1764596626"
-  },
   "gid://shopify/ProductVariant/47690974331107": {
     "product_title": "Royal Nagas Pair Bangles",
     "variant_title": "2.4\"",
@@ -126367,6 +126376,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/kenisha-kundan-maangtikka?variant=gid://shopify/ProductVariant/47759984853219",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2037.jpg?v=1766646145"
+  },
+  "gid://shopify/ProductVariant/47760028172515": {
+    "product_title": "Gorgeous Kundan Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-13655",
+    "price": 90188.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/gorgeous-kundan-short-necklace?variant=gid://shopify/ProductVariant/47760028172515",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13655.jpg?v=1766650010"
   },
   "gid://shopify/ProductVariant/47790053621987": {
     "product_title": "Traditional Charm Short Necklace",
