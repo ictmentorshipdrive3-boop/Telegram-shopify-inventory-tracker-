@@ -9895,7 +9895,7 @@
     "variant_title": "Default Title",
     "sku": "1218",
     "price": 899.0,
-    "stock": 43,
+    "stock": 42,
     "url": "https://www.daivik.in/products/simple-turquoise-mangalsutra?variant=gid://shopify/ProductVariant/46288773349598",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4B9D2568-4947-47E1-9CAF-C25D8210DC72.jpg?v=1739602960"
   },
@@ -10831,7 +10831,7 @@
     "variant_title": "Ruby",
     "sku": "1255",
     "price": 1199.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.daivik.in/products/ad-elephant-choker-with-earrings-in-two-colors?variant=gid://shopify/ProductVariant/46648538366174",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3D767861-FBDC-45A0-B791-84EAF7E9C6F1.jpg?v=1745940643"
   },
@@ -14984,15 +14984,6 @@
     "url": "https://www.daivik.in/products/moissanite-half-moon-earrings?variant=gid://shopify/ProductVariant/47640477106398",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FF8EAC66-C1A4-4D8E-9D97-698C2789C5DA.jpg?v=1761713469"
   },
-  "gid://shopify/ProductVariant/47832187109598": {
-    "product_title": "Flower Pendant Long Pearl Mala with Earringsin 3 Colors (Price for Each)",
-    "variant_title": "Ruby",
-    "sku": "618",
-    "price": 3199.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/a-29?variant=gid://shopify/ProductVariant/47832187109598",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A6A7F594-2AB9-4FC5-99D1-8352BB019F7E.jpg?v=1768495477"
-  },
   "gid://shopify/ProductVariant/47832187142366": {
     "product_title": "Flower Pendant Long Pearl Mala with Earringsin 3 Colors (Price for Each)",
     "variant_title": "Pink White",
@@ -17239,7 +17230,7 @@
     "variant_title": "Default Title",
     "sku": "1848",
     "price": 3499.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/antique-temple-chariot-style-kum-kum-box?variant=gid://shopify/ProductVariant/48053666808030",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/474BD831-36E2-4CA5-A0F7-69BBC11E846F.jpg?v=1775132371"
   },
@@ -32595,6 +32586,15 @@
     "price": 3199.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/a-29?variant=gid://shopify/ProductVariant/47832187076830",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A6A7F594-2AB9-4FC5-99D1-8352BB019F7E.jpg?v=1768495477"
+  },
+  "gid://shopify/ProductVariant/47832187109598": {
+    "product_title": "Flower Pendant Long Pearl Mala with Earringsin 3 Colors (Price for Each)",
+    "variant_title": "Ruby",
+    "sku": "618",
+    "price": 3199.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/a-29?variant=gid://shopify/ProductVariant/47832187109598",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A6A7F594-2AB9-4FC5-99D1-8352BB019F7E.jpg?v=1768495477"
   },
   "gid://shopify/ProductVariant/47647070126302": {
