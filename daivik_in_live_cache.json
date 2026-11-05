@@ -3622,7 +3622,7 @@
     "variant_title": "Default Title",
     "sku": "898",
     "price": 2499.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/3-line-multicolour-mala-with-earrings?variant=gid://shopify/ProductVariant/44212089585886",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_8b415e5f-a762-4a7e-b286-dcb2b1ac28ec.heic?v=1685632032"
   },
@@ -4135,7 +4135,7 @@
     "variant_title": "Green",
     "sku": "640",
     "price": 1899.0,
-    "stock": 25,
+    "stock": 24,
     "url": "https://www.daivik.in/products/untitled-aug18_20-18?variant=gid://shopify/ProductVariant/44315855749342",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/52F40E8F-17D1-462A-AC2E-4DFFBE610CDB.jpg?v=1716020099"
   },
@@ -5935,7 +5935,7 @@
     "variant_title": "White Pearl",
     "sku": "619",
     "price": 1099.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/peal-ghungroo-mala-in-2-variants?variant=gid://shopify/ProductVariant/44977915494622",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7351AD70-E2E3-4952-84C3-3EC6A8F48A10.jpg?v=1711296390"
   },
@@ -11850,6 +11850,15 @@
     "price": 1699.0,
     "stock": 12,
     "url": "https://www.daivik.in/products/ad-flower-hipchain-in-4-colors-price-for-each?variant=gid://shopify/ProductVariant/47088042803422",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4634CE82-09C8-4263-B83B-572078760513.jpg?v=1752775999"
+  },
+  "gid://shopify/ProductVariant/47088042836190": {
+    "product_title": "AD Flower Hipchain in 4 Colors (Price for Each)",
+    "variant_title": "Green",
+    "sku": "1633",
+    "price": 1699.0,
+    "stock": 10,
+    "url": "https://www.daivik.in/products/ad-flower-hipchain-in-4-colors-price-for-each?variant=gid://shopify/ProductVariant/47088042836190",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4634CE82-09C8-4263-B83B-572078760513.jpg?v=1752775999"
   },
   "gid://shopify/ProductVariant/47088044998878": {
@@ -18823,7 +18832,7 @@
     "variant_title": "Default Title",
     "sku": "1395",
     "price": 2699.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.daivik.in/products/c-1?variant=gid://shopify/ProductVariant/48353947812062",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/08986EAA-3E89-4E9B-AE6E-02F1788FCDF8.jpg?v=1788843113"
   },
@@ -23683,7 +23692,7 @@
     "variant_title": "Default Title",
     "sku": "1027",
     "price": 699.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/simple-ruby-green-necklace-with-earrings-1?variant=gid://shopify/ProductVariant/49267023347934",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3931.heic?v=1792687405"
   },
@@ -31399,15 +31408,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/simple-anklets-designs-in-4-styles-price-for-each?variant=gid://shopify/ProductVariant/47088044933342",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0FA4A463-9185-4FC3-B961-3396687E8270.jpg?v=1752775998"
-  },
-  "gid://shopify/ProductVariant/47088042836190": {
-    "product_title": "AD Flower Hipchain in 4 Colors (Price for Each)",
-    "variant_title": "Green",
-    "sku": "1633",
-    "price": 1699.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/ad-flower-hipchain-in-4-colors-price-for-each?variant=gid://shopify/ProductVariant/47088042836190",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4634CE82-09C8-4263-B83B-572078760513.jpg?v=1752775999"
   },
   "gid://shopify/ProductVariant/47088044966110": {
     "product_title": "Simple AD Flower Teeka in 4 Colors (Price for Each)",
