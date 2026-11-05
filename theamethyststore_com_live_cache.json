@@ -92200,7 +92200,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5130",
     "price": 23400.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/eye-catching-avikam-pendant-set?variant=gid://shopify/ProductVariant/49715214352611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5130.jpg?v=1789045369"
   },
@@ -92272,7 +92272,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5132",
     "price": 23400.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/adoring-diamond-design-pendant?variant=gid://shopify/ProductVariant/49718175989987",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5132.jpg?v=1789103123"
   },
@@ -110983,7 +110983,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-1626",
     "price": 19800.0,
-    "stock": 4,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/gorgeous-kundan-bracelet-3?variant=gid://shopify/ProductVariant/68050715803875",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1626.jpg?v=1793798257"
   },
@@ -111001,7 +111001,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-1627",
     "price": 12900.0,
-    "stock": 5,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/shinning-look-kundan-bracelet?variant=gid://shopify/ProductVariant/68050998034659",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1627.jpg?v=1793798421"
   },
@@ -111139,6 +111139,24 @@
     "stock": 3,
     "url": "https://www.theamethyststore.com/products/extraordinary-art-choker-set?variant=gid://shopify/ProductVariant/68135311016163",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19250.jpg?v=1793862334"
+  },
+  "gid://shopify/ProductVariant/68135649444067": {
+    "product_title": "Exquisite Craft Long Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19358",
+    "price": 100900.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/exquisite-craft-long-necklace-set?variant=gid://shopify/ProductVariant/68135649444067",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19358.jpg?v=1793863890"
+  },
+  "gid://shopify/ProductVariant/68135757971683": {
+    "product_title": "Holds Attention Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19375",
+    "price": 62700.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/holds-attention?variant=gid://shopify/ProductVariant/68135757971683",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19375.jpg?v=1793864460"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
