@@ -13018,7 +13018,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-7657",
     "price": 52610.0,
-    "stock": 3,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/chandralekha-short-necklace?variant=gid://shopify/ProductVariant/45751132848355",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7657.jpg?v=1732622575"
   },
@@ -13090,7 +13090,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-7774",
     "price": 27300.0,
-    "stock": 8,
+    "stock": 10,
     "url": "https://www.theamethyststore.com/products/shaila-short-necklace?variant=gid://shopify/ProductVariant/45756195766499",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7774-_2.jpg?v=1772027292"
   },
@@ -91489,7 +91489,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5053",
     "price": 6100.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/lush-and-luxurious-3d-spl-pendant?variant=gid://shopify/ProductVariant/49708679626979",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5053_72490e41-dd4e-47e9-817d-b4a587d3e8bd.jpg?v=1793684464"
   },
@@ -92002,7 +92002,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5130",
     "price": 23400.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/eye-catching-avikam-pendant-set?variant=gid://shopify/ProductVariant/49715214352611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5130.jpg?v=1789045369"
   },
@@ -92146,7 +92146,7 @@
     "variant_title": "Medium",
     "sku": "AMS-104-5127-M",
     "price": 6200.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/divine-ayyappan-3d-spl-pendant?variant=gid://shopify/ProductVariant/49718263578851",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5127_971def4c-0e7c-4a54-a578-321494490870.jpg?v=1793685810"
   },
@@ -107949,8 +107949,8 @@
     "product_title": "Anshitha Attigai Short Necklace",
     "variant_title": "Default Title",
     "sku": "AMS-102-18941",
-    "price": 21800.0,
-    "stock": 4,
+    "price": 24500.0,
+    "stock": 8,
     "url": "https://www.theamethyststore.com/products/anshitha-attigai-short-necklace?variant=gid://shopify/ProductVariant/67876363763939",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18941.jpg?v=1793433750"
   },
@@ -108058,7 +108058,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18942",
     "price": 22100.0,
-    "stock": 3,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/amazing-attigai-necklace?variant=gid://shopify/ProductVariant/67877661376739",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18942.jpg?v=1793433902"
   },
@@ -110974,7 +110974,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-2460",
     "price": 31200.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/effortless-grace-chain?variant=gid://shopify/ProductVariant/68147659440355",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2460.jpg?v=1793874382"
   },
@@ -111329,6 +111329,33 @@
     "url": "https://www.theamethyststore.com/products/crimson-diamond-design-pendant?variant=gid://shopify/ProductVariant/68160023888099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5771.jpg?v=1793884454"
   },
+  "gid://shopify/ProductVariant/68160242712803": {
+    "product_title": "Trendy Look Avikam Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16913",
+    "price": 10400.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/trendy-look-avikam-studs?variant=gid://shopify/ProductVariant/68160242712803",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16913.jpg?v=1793884782"
+  },
+  "gid://shopify/ProductVariant/68161487864035": {
+    "product_title": "Uniquely Blooms Avikam Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-17020",
+    "price": 8800.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/uniquely-blooms-avikam-studs?variant=gid://shopify/ProductVariant/68161487864035",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-17020.jpg?v=1793885382"
+  },
+  "gid://shopify/ProductVariant/68161788870883": {
+    "product_title": "Petite Grace Avikam Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-17015",
+    "price": 7900.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/petite-grace-avikam-studs?variant=gid://shopify/ProductVariant/68161788870883",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-17015.jpg?v=1793885943"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -111630,7 +111657,7 @@
     "product_title": "Esthetic Mini Choker",
     "variant_title": "Default Title",
     "sku": "AMS-102-2021",
-    "price": 12148.0,
+    "price": 15744.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/esthetic-mini-choker?variant=gid://shopify/ProductVariant/40378332184726",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS09775.jpg?v=1686576948"
