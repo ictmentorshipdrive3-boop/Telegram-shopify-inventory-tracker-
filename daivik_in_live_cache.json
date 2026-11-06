@@ -7294,7 +7294,7 @@
     "variant_title": "Default Title",
     "sku": "312",
     "price": 799.0,
-    "stock": 39,
+    "stock": 38,
     "url": "https://www.daivik.in/products/ad-purple-simple-mangalsutra?variant=gid://shopify/ProductVariant/45863588069598",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6D4CE3E9-4C49-400B-A27B-BAA26B29B141.jpg?v=1725544165"
   },
@@ -7375,7 +7375,7 @@
     "variant_title": "Green",
     "sku": "1503",
     "price": 1299.0,
-    "stock": 9,
+    "stock": 10,
     "url": "https://www.daivik.in/products/mossanite-kundan-balis-in-2-colours?variant=gid://shopify/ProductVariant/45889343553758",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4D32A516-1DA2-4CD3-AA62-C24EB5B9B866.jpg?v=1726379854"
   },
@@ -7384,7 +7384,7 @@
     "variant_title": "Ruby",
     "sku": "1503",
     "price": 1299.0,
-    "stock": 24,
+    "stock": 23,
     "url": "https://www.daivik.in/products/mossanite-kundan-balis-in-2-colours?variant=gid://shopify/ProductVariant/45889343586526",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4D32A516-1DA2-4CD3-AA62-C24EB5B9B866.jpg?v=1726379854"
   },
@@ -9940,7 +9940,7 @@
     "variant_title": "Default Title",
     "sku": "1218",
     "price": 899.0,
-    "stock": 42,
+    "stock": 41,
     "url": "https://www.daivik.in/products/simple-turquoise-mangalsutra?variant=gid://shopify/ProductVariant/46288773349598",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4B9D2568-4947-47E1-9CAF-C25D8210DC72.jpg?v=1739602960"
   },
@@ -16870,7 +16870,7 @@
     "variant_title": "Default Title",
     "sku": "1365",
     "price": 799.0,
-    "stock": 50,
+    "stock": 49,
     "url": "https://www.daivik.in/products/affordable-meenakari-temple-lotus-lakshmi-long-chain-with-earrings?variant=gid://shopify/ProductVariant/47961525289182",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8339.heic?v=1772956167"
   },
@@ -17266,7 +17266,7 @@
     "variant_title": "Default Title",
     "sku": "624",
     "price": 2599.0,
-    "stock": 22,
+    "stock": 21,
     "url": "https://www.daivik.in/products/detachable-lakshmi-pendant-coin-necklace-with-jhumkas?variant=gid://shopify/ProductVariant/48052379549918",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/79579D45-F8E2-4350-BBFC-CE9264DBE36A.jpg?v=1775059054"
   },
@@ -21904,15 +21904,6 @@
     "stock": 9,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26128?variant=gid://shopify/ProductVariant/49169762058462",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6892.jpg?v=1791457622"
-  },
-  "gid://shopify/ProductVariant/49169762877662": {
-    "product_title": "Diwali Sale Necklace D26129",
-    "variant_title": "Green",
-    "sku": "D26129",
-    "price": 749.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26129?variant=gid://shopify/ProductVariant/49169762877662",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6898.jpg?v=1791457636"
   },
   "gid://shopify/ProductVariant/49169763533022": {
     "product_title": "Diwali Sale Necklace D26130",
@@ -35493,6 +35484,15 @@
     "price": 749.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26129?variant=gid://shopify/ProductVariant/49169762844894",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6898.jpg?v=1791457636"
+  },
+  "gid://shopify/ProductVariant/49169762877662": {
+    "product_title": "Diwali Sale Necklace D26129",
+    "variant_title": "Green",
+    "sku": "D26129",
+    "price": 749.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26129?variant=gid://shopify/ProductVariant/49169762877662",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6898.jpg?v=1791457636"
   },
   "gid://shopify/ProductVariant/49169764843742": {
