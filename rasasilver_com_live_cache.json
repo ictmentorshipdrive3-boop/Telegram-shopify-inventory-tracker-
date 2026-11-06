@@ -4337,15 +4337,6 @@
     "url": "https://www.rasasilver.com/products/necklace-set-16?variant=gid://shopify/ProductVariant/51239460798761",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_122_Pics_1Oct29887.jpg?v=1759906293"
   },
-  "gid://shopify/ProductVariant/51240009695529": {
-    "product_title": "Pearloria Fine Necklace",
-    "variant_title": "Default Title",
-    "sku": "R13312",
-    "price": 9450.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/necklace-21?variant=gid://shopify/ProductVariant/51240009695529",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_122_Pics_1Oct29912.jpg?v=1759907675"
-  },
   "gid://shopify/ProductVariant/51247280718121": {
     "product_title": "Shanti Priya Jhumki",
     "variant_title": "Default Title",
@@ -25945,6 +25936,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/mangalsutra-2?variant=gid://shopify/ProductVariant/51239746109737",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS8.jpg?v=1759733494"
+  },
+  "gid://shopify/ProductVariant/51240009695529": {
+    "product_title": "Pearloria Fine Necklace",
+    "variant_title": "Default Title",
+    "sku": "R13312",
+    "price": 9450.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/necklace-21?variant=gid://shopify/ProductVariant/51240009695529",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_122_Pics_1Oct29912.jpg?v=1759907675"
   },
   "gid://shopify/ProductVariant/51248212640041": {
     "product_title": "Garden Court Choker",
@@ -49741,5 +49741,23 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/aadhya-kundan-kaankarela?variant=gid://shopify/ProductVariant/67708344729897",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_53_27Pics_24Oct21669_1_4c2935c4-c5b9-406e-9135-f860aeaa2aa6.jpg?v=1793882780"
+  },
+  "gid://shopify/ProductVariant/67709250994473": {
+    "product_title": "Inaya Kundan KaanKarela",
+    "variant_title": "Default Title",
+    "sku": "R39239",
+    "price": 29240.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/inaya-kundan-kaankarela?variant=gid://shopify/ProductVariant/67709250994473",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_53_27Pics_24Oct21673.jpg?v=1793883010"
+  },
+  "gid://shopify/ProductVariant/67709917757737": {
+    "product_title": "Kiara Nakshi KaanKarela",
+    "variant_title": "Default Title",
+    "sku": "R38617",
+    "price": 23630.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/kiara-nakshi-kaankarela?variant=gid://shopify/ProductVariant/67709917757737",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_53_27Pics_23Oct0508.jpg?v=1793883559"
   }
 }
