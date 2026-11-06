@@ -3685,7 +3685,7 @@
     "variant_title": "Default Title",
     "sku": "916",
     "price": 2499.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/a-22?variant=gid://shopify/ProductVariant/44217492373726",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_f3b61bcb-d213-4d99-afe8-13c1d14c5909.heic?v=1685975640"
   },
@@ -19156,7 +19156,7 @@
     "variant_title": "Default Title",
     "sku": "377",
     "price": 499.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/simple-leaf-invisible-chain?variant=gid://shopify/ProductVariant/48434484150494",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6F48194E-21F4-470E-AD03-FE1A254608A7.jpg?v=1784029225"
   },
@@ -22792,7 +22792,7 @@
     "variant_title": "Default Title",
     "sku": "D26609",
     "price": 129.0,
-    "stock": 43,
+    "stock": 42,
     "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26609?variant=gid://shopify/ProductVariant/49178382401758",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7175.jpg?v=1791537301"
   },
@@ -23008,7 +23008,7 @@
     "variant_title": "Default Title",
     "sku": "D26633",
     "price": 299.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26633?variant=gid://shopify/ProductVariant/49178383352030",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7231.jpg?v=1791537705"
   },
@@ -23344,15 +23344,6 @@
     "stock": 7,
     "url": "https://www.daivik.in/products/premium-moissanite-ad-necklace-with-earrings?variant=gid://shopify/ProductVariant/49184151470302",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/981EDFAE-B6E8-44CE-A0F4-C8234C9EA9CC.jpg?v=1791653669"
-  },
-  "gid://shopify/ProductVariant/49203701383390": {
-    "product_title": "Lakshmi Kids / Adult Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "1986",
-    "price": 399.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/lakshmi-kids-adult-jhumkas?variant=gid://shopify/ProductVariant/49203701383390",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6327C5CA-76E2-45CD-95CB-1B7691AAF00E.jpg?v=1791890534"
   },
   "gid://shopify/ProductVariant/49211278295262": {
     "product_title": "Kid's AD Floral Bangles (For 4 Pcs)",
@@ -36268,6 +36259,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26395?variant=gid://shopify/ProductVariant/49183624298718",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7352.jpg?v=1791627002"
+  },
+  "gid://shopify/ProductVariant/49203701383390": {
+    "product_title": "Lakshmi Kids / Adult Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "1986",
+    "price": 399.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/lakshmi-kids-adult-jhumkas?variant=gid://shopify/ProductVariant/49203701383390",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6327C5CA-76E2-45CD-95CB-1B7691AAF00E.jpg?v=1791890534"
   },
   "gid://shopify/ProductVariant/49230129037534": {
     "product_title": "Hydrodoublet Small Balis",
