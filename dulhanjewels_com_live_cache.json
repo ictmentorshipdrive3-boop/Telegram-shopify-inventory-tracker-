@@ -5165,15 +5165,6 @@
     "url": "https://www.dulhanjewels.com/products/elegant-emerald-maang-tikka-with-ruby-and-polki-accents?variant=gid://shopify/ProductVariant/67946031350066",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/Replace_jewelry_background_image_4K_20261010192726.jpg?v=1791640775"
   },
-  "gid://shopify/ProductVariant/67946040590642": {
-    "product_title": "Regal Jadau Kundan Jali Necklace With Swarovski Pearls",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2050.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/regal-jadau-kundan-jali-necklace-with-swarovski-pearls?variant=gid://shopify/ProductVariant/67946040590642",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/8C4C6132-78DA-4B21-A239-1756175DC226.jpg?v=1791622845"
-  },
   "gid://shopify/ProductVariant/67946052190514": {
     "product_title": "Minimal Jadau Kundan Jhumki Earrings",
     "variant_title": "Default Title",
@@ -5669,15 +5660,6 @@
     "url": "https://www.dulhanjewels.com/products/elegant-jadau-kundan-stud-pearl-earchain?variant=gid://shopify/ProductVariant/68114487345458",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4346.jpg?v=1793450117"
   },
-  "gid://shopify/ProductVariant/68114488164658": {
-    "product_title": "Jadau Kundan Nantad Necklace With Side Lockets",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2350.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/jadau-kundan-nantad-necklace-with-side-lockets?variant=gid://shopify/ProductVariant/68114488164658",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4320.jpg?v=1793437999"
-  },
   "gid://shopify/ProductVariant/68114497962290": {
     "product_title": "Gold Design Jadau Kundan Bottumala Necklace",
     "variant_title": "Default Title",
@@ -6047,6 +6029,15 @@
     "url": "https://www.dulhanjewels.com/products/designer-jadau-kundan-stud-earrings?variant=gid://shopify/ProductVariant/67931489173810",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_d4415633-dc87-4f1b-9081-4720db0d28e2.jpg?v=1791535612"
   },
+  "gid://shopify/ProductVariant/67946040590642": {
+    "product_title": "Regal Jadau Kundan Jali Necklace With Swarovski Pearls",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2050.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/regal-jadau-kundan-jali-necklace-with-swarovski-pearls?variant=gid://shopify/ProductVariant/67946040590642",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/8C4C6132-78DA-4B21-A239-1756175DC226.jpg?v=1791622845"
+  },
   "gid://shopify/ProductVariant/68070047809842": {
     "product_title": "Bridal Jadau Kundan Guttapusalu Necklace",
     "variant_title": "Default Title",
@@ -6073,5 +6064,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/regal-jadau-kundan-choker-with-emerald-drops?variant=gid://shopify/ProductVariant/68114487640370",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4324.jpg?v=1793437860"
+  },
+  "gid://shopify/ProductVariant/68114488164658": {
+    "product_title": "Jadau Kundan Nantad Necklace With Side Lockets",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2350.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/jadau-kundan-nantad-necklace-with-side-lockets?variant=gid://shopify/ProductVariant/68114488164658",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4320.jpg?v=1793437999"
   }
 }
