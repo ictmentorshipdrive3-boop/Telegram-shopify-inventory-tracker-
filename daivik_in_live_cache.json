@@ -2137,7 +2137,7 @@
     "variant_title": "Default Title",
     "sku": "118",
     "price": 1999.0,
-    "stock": 13,
+    "stock": 12,
     "url": "https://www.daivik.in/products/1-1?variant=gid://shopify/ProductVariant/42679268770014",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_b2eb70ab-b56b-4c92-8e8d-9507a88785eb.heic?v=1649767832"
   },
@@ -16811,15 +16811,6 @@
     "url": "https://www.daivik.in/products/ad-pendant-droplet-necklace-with-earrings-in-2-colors-price-for-each?variant=gid://shopify/ProductVariant/48123331838174",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/59E5260C-CD04-41EC-BB55-7EA6BF2E29FF.jpg?v=1772863818"
   },
-  "gid://shopify/ProductVariant/47960892178654": {
-    "product_title": "HydroDoublet Premium Pastel Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "1296",
-    "price": 3299.0,
-    "stock": 19,
-    "url": "https://www.daivik.in/products/hydrodoublet-premium-pastel-necklace-with-earrings?variant=gid://shopify/ProductVariant/47960892178654",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1F04A49C-7EF4-4B4B-A411-9EFBAB18B9E7.jpg?v=1772902093"
-  },
   "gid://shopify/ProductVariant/47961520079070": {
     "product_title": "Affordable Meenakari Balaji and Lakshmi Long Chain with Earrings",
     "variant_title": "Default Title",
@@ -19480,7 +19471,7 @@
     "variant_title": "Default Title",
     "sku": "1150",
     "price": 799.0,
-    "stock": 49,
+    "stock": 48,
     "url": "https://www.daivik.in/products/simple-ad-green-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48550497583326",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/652C9996-8E2A-40F9-87B5-3C976003D04F.jpg?v=1785942584"
   },
@@ -22099,7 +22090,7 @@
     "variant_title": "Default Title",
     "sku": "D26165",
     "price": 399.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26165?variant=gid://shopify/ProductVariant/49169791090910",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7039.jpg?v=1791532559"
   },
@@ -33460,6 +33451,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/ad-pendant-droplet-necklace-with-earrings-in-2-colors-price-for-each?variant=gid://shopify/ProductVariant/47960555421918",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/59E5260C-CD04-41EC-BB55-7EA6BF2E29FF.jpg?v=1772863818"
+  },
+  "gid://shopify/ProductVariant/47960892178654": {
+    "product_title": "HydroDoublet Premium Pastel Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "1296",
+    "price": 3299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/hydrodoublet-premium-pastel-necklace-with-earrings?variant=gid://shopify/ProductVariant/47960892178654",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1F04A49C-7EF4-4B4B-A411-9EFBAB18B9E7.jpg?v=1772902093"
   },
   "gid://shopify/ProductVariant/47961521848542": {
     "product_title": "Affordable Meenakari Lotus Lakshmi Long Chain with Earrings",
