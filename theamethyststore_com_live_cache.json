@@ -8140,7 +8140,7 @@
     "variant_title": "2.4\"",
     "sku": "AMS-107-1205-2.4\"",
     "price": 64762.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/cypress-avikam-bangles?variant=gid://shopify/ProductVariant/45005543801059",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/DSC08329.jpg?v=1729919699"
   },
@@ -8500,7 +8500,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-1119",
     "price": 18406.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/neha-stone-maatal?variant=gid://shopify/ProductVariant/45201696882915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1119.jpg?v=1719571624"
   },
@@ -60619,7 +60619,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-13766",
     "price": 17922.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/githara-jhumkas?variant=gid://shopify/ProductVariant/48908442009827",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13766.jpg?v=1777894425"
   },
@@ -111355,6 +111355,15 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/rosaceous-diamond-design-studs?variant=gid://shopify/ProductVariant/68236239274211",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16979.jpg?v=1793948321"
+  },
+  "gid://shopify/ProductVariant/68236511838435": {
+    "product_title": "Inventive Craft Diamond Design Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16921",
+    "price": 7200.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/inventive-craft-diamond-design-studs?variant=gid://shopify/ProductVariant/68236511838435",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16921.jpg?v=1793949072"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
