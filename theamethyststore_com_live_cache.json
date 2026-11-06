@@ -107009,15 +107009,6 @@
     "url": "https://www.theamethyststore.com/products/shining-radiant-avikam-pendant?variant=gid://shopify/ProductVariant/67835427356899",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5631.jpg?v=1793175575"
   },
-  "gid://shopify/ProductVariant/67835462746339": {
-    "product_title": "Classic Diamond Design Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-5634",
-    "price": 3200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/classic-diamond-design-pendant?variant=gid://shopify/ProductVariant/67835462746339",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5634.jpg?v=1793175889"
-  },
   "gid://shopify/ProductVariant/67836303638755": {
     "product_title": "Catches Attention Avikam Pendant",
     "variant_title": "Default Title",
@@ -108310,7 +108301,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16834",
     "price": 17400.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/vithisha-kundan-long-earrings?variant=gid://shopify/ProductVariant/67883034607843",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16834.jpg?v=1793515474"
   },
@@ -109372,7 +109363,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-19226",
     "price": 96100.0,
-    "stock": 1,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/gloriously-3d-spl-short-necklace-set?variant=gid://shopify/ProductVariant/67926806200547",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19226.jpg?v=1793700279"
   },
@@ -154168,6 +154159,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/dazzling-diamond-design-ring?variant=gid://shopify/ProductVariant/67833923043555",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2420.jpg?v=1793164661"
+  },
+  "gid://shopify/ProductVariant/67835462746339": {
+    "product_title": "Classic Diamond Design Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5634",
+    "price": 3200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/classic-diamond-design-pendant?variant=gid://shopify/ProductVariant/67835462746339",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5634.jpg?v=1793175889"
   },
   "gid://shopify/ProductVariant/67836431270115": {
     "product_title": "Iridescent Diamond Design Pendant",
