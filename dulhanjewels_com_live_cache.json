@@ -3392,15 +3392,6 @@
     "url": "https://www.dulhanjewels.com/products/traditional-jadau-kundan-necklace-with-green-bead-hangings?variant=gid://shopify/ProductVariant/51307431723314",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6910F418-59D3-4EF4-BDD4-9E20F0A26D17.jpg?v=1785759293"
   },
-  "gid://shopify/ProductVariant/51307433230642": {
-    "product_title": "Floral Jadau Kundan Locket With Strawberry Beads",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1950.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/floral-jadau-kundan-locket-with-strawberry-beads?variant=gid://shopify/ProductVariant/51307433230642",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-7919.jpg?v=1781512511"
-  },
   "gid://shopify/ProductVariant/51307822448946": {
     "product_title": "Traditional Jadau Kundan Reversible Mango Haram With Emerald Beads",
     "variant_title": "Default Title",
@@ -5696,15 +5687,6 @@
     "url": "https://www.dulhanjewels.com/products/unique-jadau-kundan-stud-earrings-with-green-drop?variant=gid://shopify/ProductVariant/68114483708210",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4351.jpg?v=1793450030"
   },
-  "gid://shopify/ProductVariant/68114484822322": {
-    "product_title": "Classic Jadau Kundan Sun And Moon Hair Pin",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1050.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/classic-jadau-kundan-sun-and-moon-hair-pin?variant=gid://shopify/ProductVariant/68114484822322",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4312.jpg?v=1793437160"
-  },
   "gid://shopify/ProductVariant/68114485903666": {
     "product_title": "Minimal Jadau Kundan Stud Earrings",
     "variant_title": "Default Title",
@@ -5966,6 +5948,15 @@
     "url": "https://www.dulhanjewels.com/products/stunning-beads-mala-with-cz-side-lockets?variant=gid://shopify/ProductVariant/50909584032050",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/C53767EE-A58F-4AF7-8959-1BD031710A30.jpg?v=1771078119"
   },
+  "gid://shopify/ProductVariant/51307433230642": {
+    "product_title": "Floral Jadau Kundan Locket With Strawberry Beads",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1950.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/floral-jadau-kundan-locket-with-strawberry-beads?variant=gid://shopify/ProductVariant/51307433230642",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-7919.jpg?v=1781512511"
+  },
   "gid://shopify/ProductVariant/51433674473778": {
     "product_title": "Gold Finish Jadau Kundan Bangles With Floral Center Motif",
     "variant_title": "Red / 2/4",
@@ -6073,5 +6064,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/elegant-moissanite-polki-bangles?variant=gid://shopify/ProductVariant/67903002345778",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/BCF26D40-D8EA-4D16-8C16-A841043738E5.jpg?v=1791035570"
+  },
+  "gid://shopify/ProductVariant/68114484822322": {
+    "product_title": "Classic Jadau Kundan Sun And Moon Hair Pin",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1050.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/classic-jadau-kundan-sun-and-moon-hair-pin?variant=gid://shopify/ProductVariant/68114484822322",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4312.jpg?v=1793437160"
   }
 }
