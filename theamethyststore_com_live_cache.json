@@ -34843,7 +34843,7 @@
     "variant_title": "2.8\"",
     "sku": "AMS-107-1953-2.8\"",
     "price": 36200.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/glow-stone-pair-bangle?variant=gid://shopify/ProductVariant/47209050669283",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1953-_2_16c38e90-094c-46bd-9caa-d8cedd65f88e.jpg?v=1758883828"
   },
@@ -101204,15 +101204,6 @@
     "url": "https://www.theamethyststore.com/products/crafted-beauty-long-necklace?variant=gid://shopify/ProductVariant/67656127021283",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18472.jpg?v=1791614702"
   },
-  "gid://shopify/ProductVariant/67656173224163": {
-    "product_title": "Chic Victorian Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-18806",
-    "price": 55800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/chic-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/67656173224163",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18806.jpg?v=1791615122"
-  },
   "gid://shopify/ProductVariant/67656173879523": {
     "product_title": "Radha Krishna 3D Spl Pendant",
     "variant_title": "Default Title",
@@ -101650,7 +101641,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5311",
     "price": 20600.0,
-    "stock": 1,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/vibrant-stone-pendant?variant=gid://shopify/ProductVariant/67661773537507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5311.jpg?v=1791728012"
   },
@@ -104863,7 +104854,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18818",
     "price": 52000.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/unique-nakshi-short-necklace-set?variant=gid://shopify/ProductVariant/67728168517859",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18818.jpg?v=1792322914"
   },
@@ -107734,7 +107725,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18940",
     "price": 24800.0,
-    "stock": 2,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/dazzling-diamond-design-short-necklace?variant=gid://shopify/ProductVariant/67876325884131",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18940.jpg?v=1793424067"
   },
@@ -107743,7 +107734,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18941",
     "price": 24500.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.theamethyststore.com/products/anshitha-attigai-short-necklace?variant=gid://shopify/ProductVariant/67876363763939",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18941.jpg?v=1793433750"
   },
@@ -108562,7 +108553,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16830",
     "price": 32800.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/lovely-kundan-long-earrings?variant=gid://shopify/ProductVariant/67883019796707",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16830.jpg?v=1793514770"
   },
@@ -108715,7 +108706,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16908",
     "price": 17900.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/catchy-chic-kundan-earrings?variant=gid://shopify/ProductVariant/67883746296035",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16908_3d8d9582-b174-4521-9101-64039b0dc429.jpg?v=1793527975"
   },
@@ -109381,7 +109372,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5746",
     "price": 2700.0,
-    "stock": 4,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/om-3d-spl-pendant?variant=gid://shopify/ProductVariant/67922987614435",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5746.jpg?v=1793689552"
   },
@@ -153511,6 +153502,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/navya-dual-tone-long-necklace?variant=gid://shopify/ProductVariant/67656168341731",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11029.jpg?v=1791614975"
+  },
+  "gid://shopify/ProductVariant/67656173224163": {
+    "product_title": "Chic Victorian Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18806",
+    "price": 55800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/chic-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/67656173224163",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18806.jpg?v=1791615122"
   },
   "gid://shopify/ProductVariant/67660648284387": {
     "product_title": "Dazzling Glow Victorian Short Necklace",
