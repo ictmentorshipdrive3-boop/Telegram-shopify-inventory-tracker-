@@ -742,7 +742,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 4100.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.muskanjewel.com/products/jadau-moissonite-jhumkas-with-pearl-and-natural-strawberry-beads-drop?variant=gid://shopify/ProductVariant/52891211759932",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/Copyofhf_20260313_171146_f66aee59-2d3a-4cf1-a17c-b0e16719dce3.jpg?v=1773823033"
   },
@@ -760,27 +760,18 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 3200.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-jhumkas-with-pearl-and-natural-strawberry-beads-8?variant=gid://shopify/ProductVariant/52892314304828",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260313_175400_2f59b689-043e-40f6-b6c7-19239f7dc168_1.webp?v=1773837142"
   },
-  "gid://shopify/ProductVariant/52892339994940": {
-    "product_title": "Jadau kundan full earcuff jhumkas with pearl and natural strawberry beads",
+  "gid://shopify/ProductVariant/52898986688828": {
+    "product_title": "Jadau kundan jhumkas with pearl and natural strawberry beads drop",
     "variant_title": "Default Title",
     "sku": null,
-    "price": 4000.0,
-    "stock": 5,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-full-earcuff-jhumkas-with-pearl-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52892339994940",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260313_175612_f86c7cb0-a739-4cf4-b9aa-19ff322156da_1.webp?v=1773841397"
-  },
-  "gid://shopify/ProductVariant/52892384592188": {
-    "product_title": "Jadau kundan jhumkas with pearl and natural strawberry beads",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2900.0,
-    "stock": 12,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-jhumkas-with-pearl-and-natural-strawberry-beads-9?variant=gid://shopify/ProductVariant/52892384592188",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260313_180317_3cfcf955-fb29-428c-a577-2365dbae7ed8_1.webp?v=1773842748"
+    "price": 2100.0,
+    "stock": 11,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-jhumkas-with-pearl-and-natural-strawberry-beads-drop-6?variant=gid://shopify/ProductVariant/52898986688828",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260313_180504_b41580c3-5bae-43ce-afa4-0a14178aef4c_1.webp?v=1773919457"
   },
   "gid://shopify/ProductVariant/52899274555708": {
     "product_title": "Jadau kundan 2 line peacock long necklace with pearl and natural strawberry beads drop",
@@ -872,21 +863,21 @@
     "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-choker-with-rice-pearl?variant=gid://shopify/ProductVariant/52918786031932",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260314_090808_e6eaa419-5540-465b-83be-82ded2e25de1.webp?v=1774444320"
   },
-  "gid://shopify/ProductVariant/52969053520188": {
-    "product_title": "Jadau kundan fish shape full earcuff jhumkas with pearl and natural strawberry beads",
+  "gid://shopify/ProductVariant/52969031270716": {
+    "product_title": "Jadau kundan peacock jhumkas with pearl and natural strawberry beads",
     "variant_title": "Default Title",
     "sku": null,
-    "price": 2600.0,
+    "price": 1400.0,
     "stock": 7,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-fish-shape-full-earcuff-jhumkas-with-pearl-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52969053520188",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260407_190020_c3c74bdb-b68d-40ae-ad45-fc6e43b8d9d1.webp?v=1775744020"
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-jhumkas-with-pearl-and-natural-strawberry-beads-3?variant=gid://shopify/ProductVariant/52969031270716",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260407_183916_8feb0550-6efa-47c4-8cce-3e7391899c90.webp?v=1775743140"
   },
   "gid://shopify/ProductVariant/52971469013308": {
     "product_title": "Jadau kundan peacock jhumkas with pearls",
     "variant_title": "Default Title",
     "sku": null,
     "price": 2750.0,
-    "stock": 3,
+    "stock": 6,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-jhumkas-with-pearls?variant=gid://shopify/ProductVariant/52971469013308",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260407_192420_13c8b41e-c041-4776-92ba-5c3f854e145a.webp?v=1775824852"
   },
@@ -2320,15 +2311,6 @@
     "stock": 0,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-short-necklace-with-pearl-and-natural-strawberry-beads-drop?variant=gid://shopify/ProductVariant/52903194853692",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260313_200406_994acc42-a21a-4465-80f6-7d3de95b0fbf.webp?v=1773999481"
-  },
-  "gid://shopify/ProductVariant/52971483300156": {
-    "product_title": "Jadau kundan chandbali with pearl and natural strawberry beads",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1500.0,
-    "stock": 0,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-chandbali-with-pearl-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52971483300156",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260407_192745_28eaaf86-6cb1-49f7-8d80-a08c7a24d9ac.webp?v=1775825228"
   },
   "gid://shopify/ProductVariant/53016663294268": {
     "product_title": "Temple/Antique goddess laxmi peacock bangles (pair)",
