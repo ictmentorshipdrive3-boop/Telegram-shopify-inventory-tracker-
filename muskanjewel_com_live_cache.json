@@ -413,15 +413,6 @@
     "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-jhumkas-with-natural-strawberry-beads-drop?variant=gid://shopify/ProductVariant/52804830789948",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260225_232738_f096a6e2-aa2e-47cf-8584-83448f6fcf1a.jpg?v=1772189403"
   },
-  "gid://shopify/ProductVariant/52804925882684": {
-    "product_title": "Jadau kundan studs with pearls",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 900.0,
-    "stock": 9,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-studs-with-pearls-1?variant=gid://shopify/ProductVariant/52804925882684",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260225_233934_169612ba-4291-4a8c-9752-204e75e2c171.jpg?v=1772194824"
-  },
   "gid://shopify/ProductVariant/52804987617596": {
     "product_title": "Jadau kundan floral jhumkas with pearl and natural strawberry beads drop",
     "variant_title": "Default Title",
@@ -484,51 +475,6 @@
     "stock": 12,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-antique-peacock-necklace-set-with-earrings-and-natural-strawberry-beads-drop?variant=gid://shopify/ProductVariant/52817448108348",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260225_222722_e4a9be45-2399-4e09-9ddb-b1fe68e86112.webp?v=1772454454"
-  },
-  "gid://shopify/ProductVariant/52878936310076": {
-    "product_title": "Jadau kundan mango(Ruby+Green) bangle (Pair)",
-    "variant_title": "2.6",
-    "sku": null,
-    "price": 4250.0,
-    "stock": 10,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-mango-bangle-pair?variant=gid://shopify/ProductVariant/52878936310076",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260313_143303_f410d5c2-d94c-42d9-b3e7-c4fa8f97b718_1.webp?v=1773664331"
-  },
-  "gid://shopify/ProductVariant/52878936342844": {
-    "product_title": "Jadau kundan mango(Ruby+Green) bangle (Pair)",
-    "variant_title": "2.8",
-    "sku": null,
-    "price": 4250.0,
-    "stock": 10,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-mango-bangle-pair?variant=gid://shopify/ProductVariant/52878936342844",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260313_143303_f410d5c2-d94c-42d9-b3e7-c4fa8f97b718_1.webp?v=1773664331"
-  },
-  "gid://shopify/ProductVariant/52878992638268": {
-    "product_title": "Jadau kundan mango (Ruby+White) bangle(Pair)",
-    "variant_title": "2.4",
-    "sku": null,
-    "price": 4250.0,
-    "stock": 10,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-mango-ruby-white-banglepair?variant=gid://shopify/ProductVariant/52878992638268",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260313_143331_ac68e601-cd8a-42a4-ad46-50436c1dc264_1.png?v=1773665757"
-  },
-  "gid://shopify/ProductVariant/52878992671036": {
-    "product_title": "Jadau kundan mango (Ruby+White) bangle(Pair)",
-    "variant_title": "2.6",
-    "sku": null,
-    "price": 4250.0,
-    "stock": 9,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-mango-ruby-white-banglepair?variant=gid://shopify/ProductVariant/52878992671036",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260313_143331_ac68e601-cd8a-42a4-ad46-50436c1dc264_1.png?v=1773665757"
-  },
-  "gid://shopify/ProductVariant/52878992703804": {
-    "product_title": "Jadau kundan mango (Ruby+White) bangle(Pair)",
-    "variant_title": "2.8",
-    "sku": null,
-    "price": 4250.0,
-    "stock": 10,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-mango-ruby-white-banglepair?variant=gid://shopify/ProductVariant/52878992703804",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260313_143331_ac68e601-cd8a-42a4-ad46-50436c1dc264_1.png?v=1773665757"
   },
   "gid://shopify/ProductVariant/52879035728188": {
     "product_title": "Jadau kundan heart shape bangle (Pair)",
@@ -2157,6 +2103,24 @@
     "price": 4250.0,
     "stock": 0,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-mango-bangle-pair?variant=gid://shopify/ProductVariant/52878936277308",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260313_143303_f410d5c2-d94c-42d9-b3e7-c4fa8f97b718_1.webp?v=1773664331"
+  },
+  "gid://shopify/ProductVariant/52878936310076": {
+    "product_title": "Jadau kundan mango(Ruby+Green) bangle (Pair)",
+    "variant_title": "2.6",
+    "sku": null,
+    "price": 4250.0,
+    "stock": 0,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-mango-bangle-pair?variant=gid://shopify/ProductVariant/52878936310076",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260313_143303_f410d5c2-d94c-42d9-b3e7-c4fa8f97b718_1.webp?v=1773664331"
+  },
+  "gid://shopify/ProductVariant/52878936342844": {
+    "product_title": "Jadau kundan mango(Ruby+Green) bangle (Pair)",
+    "variant_title": "2.8",
+    "sku": null,
+    "price": 4250.0,
+    "stock": 0,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-mango-bangle-pair?variant=gid://shopify/ProductVariant/52878936342844",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260313_143303_f410d5c2-d94c-42d9-b3e7-c4fa8f97b718_1.webp?v=1773664331"
   },
   "gid://shopify/ProductVariant/52903194853692": {
