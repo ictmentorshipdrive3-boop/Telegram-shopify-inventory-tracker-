@@ -75514,7 +75514,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-17171",
     "price": 71100.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/luxurious-avikam-necklace-set-1?variant=gid://shopify/ProductVariant/49448228913379",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17171.jpg?v=1785065107"
   },
@@ -93194,15 +93194,6 @@
     "url": "https://www.theamethyststore.com/products/vinithaa-kundan-short-necklace-1?variant=gid://shopify/ProductVariant/49748728643811",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18079.jpg?v=1789554659"
   },
-  "gid://shopify/ProductVariant/49748751548643": {
-    "product_title": "Graceful Kundan Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-18081",
-    "price": 111900.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/graceful-kundan-short-necklace?variant=gid://shopify/ProductVariant/49748751548643",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18081.jpg?v=1789554838"
-  },
   "gid://shopify/ProductVariant/49748775370979": {
     "product_title": "Swathikaa Kundan Short Necklace",
     "variant_title": "Default Title",
@@ -94882,7 +94873,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18119",
     "price": 131500.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/dazzling-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/49800056799459",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18119.jpg?v=1790160335"
   },
@@ -95323,7 +95314,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5181",
     "price": 19700.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/crafted-adorably-diamond-design-pendanr?variant=gid://shopify/ProductVariant/50283541561571",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5181.jpg?v=1790247518"
   },
@@ -96394,7 +96385,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18272",
     "price": 44500.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/sarvelle-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/67593531752675",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18272.jpg?v=1790578143"
   },
@@ -107788,7 +107779,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-19336",
     "price": 67600.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/azalea-pink-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/67879276249315",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19336.jpg?v=1793446411"
   },
@@ -108580,7 +108571,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-19296",
     "price": 85800.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/attractive-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/67891383697635",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19296.jpg?v=1793604581"
   },
@@ -109552,7 +109543,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-101-2413",
     "price": 6900.0,
-    "stock": 4,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/grandeur-look-ring-1?variant=gid://shopify/ProductVariant/68026989150435",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2413.jpg?v=1793767814"
   },
@@ -151765,6 +151756,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/bindhu-vibrant-kundan-short-necklace?variant=gid://shopify/ProductVariant/49747632521443",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18075.jpg?v=1789547891"
+  },
+  "gid://shopify/ProductVariant/49748751548643": {
+    "product_title": "Graceful Kundan Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18081",
+    "price": 111900.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/graceful-kundan-short-necklace?variant=gid://shopify/ProductVariant/49748751548643",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18081.jpg?v=1789554838"
   },
   "gid://shopify/ProductVariant/49748855685347": {
     "product_title": "Harishaa Kundan Short  Necklace",
