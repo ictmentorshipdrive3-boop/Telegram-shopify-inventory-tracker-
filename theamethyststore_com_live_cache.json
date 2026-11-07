@@ -15529,7 +15529,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-113-0293",
     "price": 4300.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/samara-stone-nose-pin?variant=gid://shopify/ProductVariant/46120854028515",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0293.jpg?v=1741867836"
   },
@@ -15547,7 +15547,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-1288",
     "price": 56301.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/bridal-kundan-maangtikka?variant=gid://shopify/ProductVariant/46124098420963",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1288.jpg?v=1741933700"
   },
@@ -100471,7 +100471,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18802",
     "price": 87600.0,
-    "stock": 1,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/admirable-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/67655757267171",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18802.jpg?v=1791608845"
   },
@@ -100834,15 +100834,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/crafted-beauty-beads-chain?variant=gid://shopify/ProductVariant/67661432258787",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2347.jpg?v=1791718613"
-  },
-  "gid://shopify/ProductVariant/67661437305059": {
-    "product_title": "Vibrant Art Beads Chain",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-2346",
-    "price": 24007.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/vibrant-art-beads-chain?variant=gid://shopify/ProductVariant/67661437305059",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2346.jpg?v=1791719004"
   },
   "gid://shopify/ProductVariant/67661454475491": {
     "product_title": "Cerise Beads Chain",
@@ -101263,7 +101254,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18784",
     "price": 106000.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/timeless-majesty-avikam-necklace-set?variant=gid://shopify/ProductVariant/67665892770019",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18784.jpg?v=1791801908"
   },
@@ -107158,7 +107149,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18942",
     "price": 22100.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/amazing-attigai-necklace?variant=gid://shopify/ProductVariant/67877661376739",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18942.jpg?v=1793433902"
   },
@@ -107914,7 +107905,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16905",
     "price": 18700.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/radiant-kundan-long-earrings?variant=gid://shopify/ProductVariant/67883041489123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16905.jpg?v=1793516186"
   },
@@ -109066,7 +109057,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5722",
     "price": 2500.0,
-    "stock": 4,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/sacredly-inspired-3d-spl-pendant-1?variant=gid://shopify/ProductVariant/67930438435043",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5722.jpg?v=1793703163"
   },
@@ -109615,7 +109606,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16953",
     "price": 10400.0,
-    "stock": 1,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/stunning-look-drops?variant=gid://shopify/ProductVariant/68030994022627",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16953.jpg?v=1793777326"
   },
@@ -153457,6 +153448,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/radiant-beads-chain?variant=gid://shopify/ProductVariant/67661367050467",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2350.jpg?v=1791717850"
+  },
+  "gid://shopify/ProductVariant/67661437305059": {
+    "product_title": "Vibrant Art Beads Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2346",
+    "price": 24007.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vibrant-art-beads-chain?variant=gid://shopify/ProductVariant/67661437305059",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2346.jpg?v=1791719004"
   },
   "gid://shopify/ProductVariant/67661499465955": {
     "product_title": "Vishakaa Stone Pendant",
