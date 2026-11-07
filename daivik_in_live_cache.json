@@ -19462,7 +19462,7 @@
     "variant_title": "Default Title",
     "sku": "1150",
     "price": 799.0,
-    "stock": 41,
+    "stock": 40,
     "url": "https://www.daivik.in/products/simple-ad-green-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48550497583326",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/652C9996-8E2A-40F9-87B5-3C976003D04F.jpg?v=1785942584"
   },
@@ -23260,7 +23260,7 @@
     "variant_title": "Pink",
     "sku": "D26394",
     "price": 399.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26394?variant=gid://shopify/ProductVariant/49183623741662",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7345.jpg?v=1791626978"
   },
@@ -23278,17 +23278,8 @@
     "variant_title": "Ruby",
     "sku": "D26394",
     "price": 399.0,
-    "stock": 2,
-    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26394?variant=gid://shopify/ProductVariant/49183623807198",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7345.jpg?v=1791626978"
-  },
-  "gid://shopify/ProductVariant/49183623839966": {
-    "product_title": "Diwali Sale Earrings D26394",
-    "variant_title": "Blue",
-    "sku": "D26394",
-    "price": 399.0,
     "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26394?variant=gid://shopify/ProductVariant/49183623839966",
+    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26394?variant=gid://shopify/ProductVariant/49183623807198",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7345.jpg?v=1791626978"
   },
   "gid://shopify/ProductVariant/49183624265950": {
@@ -36196,6 +36187,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26393?variant=gid://shopify/ProductVariant/49183623676126",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7336.jpg?v=1791626957"
+  },
+  "gid://shopify/ProductVariant/49183623839966": {
+    "product_title": "Diwali Sale Earrings D26394",
+    "variant_title": "Blue",
+    "sku": "D26394",
+    "price": 399.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26394?variant=gid://shopify/ProductVariant/49183623839966",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7345.jpg?v=1791626978"
   },
   "gid://shopify/ProductVariant/49183623872734": {
     "product_title": "Diwali Sale Earrings D26394",
