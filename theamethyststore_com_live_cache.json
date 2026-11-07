@@ -104651,15 +104651,6 @@
     "url": "https://www.theamethyststore.com/products/vershikaa-3d-spl-long-earrings?variant=gid://shopify/ProductVariant/67753035530467",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16403.jpg?v=1792498195"
   },
-  "gid://shopify/ProductVariant/67753062465763": {
-    "product_title": "Spectrum-Inspired Stone Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-5519",
-    "price": 8737.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/spectrum-inspired-stone-pendant?variant=gid://shopify/ProductVariant/67753062465763",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5519.jpg?v=1792498371"
-  },
   "gid://shopify/ProductVariant/67753066037475": {
     "product_title": "Avanthika Stone Pendant",
     "variant_title": "Default Title",
@@ -108211,7 +108202,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16908",
     "price": 17900.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/catchy-chic-kundan-earrings?variant=gid://shopify/ProductVariant/67883746296035",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16908_3d8d9582-b174-4521-9101-64039b0dc429.jpg?v=1793527975"
   },
@@ -108571,7 +108562,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-19296",
     "price": 85800.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/attractive-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/67891383697635",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19296.jpg?v=1793604581"
   },
@@ -109309,7 +109300,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5718",
     "price": 3300.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/blissful-3d-spl-pendant?variant=gid://shopify/ProductVariant/67933765730531",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5718.jpg?v=1793704913"
   },
@@ -153952,6 +153943,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/resplendent-stone-pendant?variant=gid://shopify/ProductVariant/67752359428323",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5517.jpg?v=1792496772"
+  },
+  "gid://shopify/ProductVariant/67753062465763": {
+    "product_title": "Spectrum-Inspired Stone Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5519",
+    "price": 8737.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/spectrum-inspired-stone-pendant?variant=gid://shopify/ProductVariant/67753062465763",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5519.jpg?v=1792498371"
   },
   "gid://shopify/ProductVariant/67762949980387": {
     "product_title": "Hariniya 3D Spl Necklace",
