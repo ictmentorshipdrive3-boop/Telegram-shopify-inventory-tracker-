@@ -1781,15 +1781,6 @@
     "url": "https://www.daivik.in/products/set-of-4-ruby-bangles?variant=gid://shopify/ProductVariant/42350501920990",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_2130e194-6654-451d-8e74-d1823cf94060.jpg?v=1642311206"
   },
-  "gid://shopify/ProductVariant/42351495610590": {
-    "product_title": "AD Leaf motif Mattals",
-    "variant_title": "Default Title",
-    "sku": "486",
-    "price": 1599.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-leaf-motif-mattals?variant=gid://shopify/ProductVariant/42351495610590",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_db213c40-3f27-4282-9181-6d5d6ea5a062.jpg?v=1642339852"
-  },
   "gid://shopify/ProductVariant/42370520809694": {
     "product_title": "Pure kemp brass teeka",
     "variant_title": "Default Title",
@@ -7366,7 +7357,7 @@
     "variant_title": "Ruby",
     "sku": "1503",
     "price": 1299.0,
-    "stock": 21,
+    "stock": 20,
     "url": "https://www.daivik.in/products/mossanite-kundan-balis-in-2-colours?variant=gid://shopify/ProductVariant/45889343586526",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4D32A516-1DA2-4CD3-AA62-C24EB5B9B866.jpg?v=1726379854"
   },
@@ -16762,7 +16753,7 @@
     "variant_title": "Ruby",
     "sku": "1829",
     "price": 199.0,
-    "stock": 21,
+    "stock": 20,
     "url": "https://www.daivik.in/products/ad-flower-nosepin-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/47942757613790",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E847D47E-8B9B-40B8-8357-7DF0DAF59373.jpg?v=1772464194"
   },
@@ -22045,7 +22036,7 @@
     "variant_title": "Default Title",
     "sku": "D26165",
     "price": 399.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26165?variant=gid://shopify/ProductVariant/49169791090910",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7039.jpg?v=1791532559"
   },
@@ -24586,6 +24577,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/party-wear-necklaces-in-4-styles-with-earrings?variant=gid://shopify/ProductVariant/42348645318878",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_c39ab61e-01a8-4e26-a5f0-c6b0551be90e.jpg?v=1642256990"
+  },
+  "gid://shopify/ProductVariant/42351495610590": {
+    "product_title": "AD Leaf motif Mattals",
+    "variant_title": "Default Title",
+    "sku": "486",
+    "price": 1599.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-leaf-motif-mattals?variant=gid://shopify/ProductVariant/42351495610590",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_db213c40-3f27-4282-9181-6d5d6ea5a062.jpg?v=1642339852"
   },
   "gid://shopify/ProductVariant/42359493591262": {
     "product_title": "New range of teeka (single pieces)",
