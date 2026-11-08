@@ -4900,7 +4900,7 @@
     "variant_title": "Default Title",
     "sku": "597",
     "price": 499.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.daivik.in/products/ad-changable-studs-with-4-colours?variant=gid://shopify/ProductVariant/44457066922206",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5A2D909A-A4FF-4190-B232-2EA58342B2E0.jpg?v=1698508255"
   },
@@ -6457,7 +6457,7 @@
     "variant_title": "Default Title",
     "sku": "803",
     "price": 1099.0,
-    "stock": 27,
+    "stock": 26,
     "url": "https://www.daivik.in/products/simple-pink-pearl-choker-with-earrings?variant=gid://shopify/ProductVariant/45468034629854",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BF95067F-4EAB-40E1-ABD9-DFD06F0A0973.jpg?v=1717167974"
   },
@@ -7375,7 +7375,7 @@
     "variant_title": "Green",
     "sku": "1503",
     "price": 1299.0,
-    "stock": 8,
+    "stock": 6,
     "url": "https://www.daivik.in/products/mossanite-kundan-balis-in-2-colours?variant=gid://shopify/ProductVariant/45889343553758",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4D32A516-1DA2-4CD3-AA62-C24EB5B9B866.jpg?v=1726379854"
   },
@@ -19723,7 +19723,7 @@
     "variant_title": "Green",
     "sku": "1948",
     "price": 1399.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/ad-hanging-pendants-earcuff-in-2-colors-price-for-each?variant=gid://shopify/ProductVariant/48597123301598",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1249.jpg?v=1786618747"
   },
@@ -20857,7 +20857,7 @@
     "variant_title": "Default Title",
     "sku": "D26071",
     "price": 1799.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26071?variant=gid://shopify/ProductVariant/49149626843358",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6434.jpg?v=1791223509"
   },
@@ -23272,15 +23272,6 @@
     "stock": 1,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26394?variant=gid://shopify/ProductVariant/49183623774430",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7345.jpg?v=1791626978"
-  },
-  "gid://shopify/ProductVariant/49183624265950": {
-    "product_title": "Diwali Sale Earrings D26395",
-    "variant_title": "Blue",
-    "sku": "D26395",
-    "price": 399.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26395?variant=gid://shopify/ProductVariant/49183624265950",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7352.jpg?v=1791627002"
   },
   "gid://shopify/ProductVariant/49184151470302": {
     "product_title": "Premium Moissanite AD Necklace with Earrings",
@@ -36294,6 +36285,15 @@
     "price": 399.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26395?variant=gid://shopify/ProductVariant/49183624233182",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7352.jpg?v=1791627002"
+  },
+  "gid://shopify/ProductVariant/49183624265950": {
+    "product_title": "Diwali Sale Earrings D26395",
+    "variant_title": "Blue",
+    "sku": "D26395",
+    "price": 399.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26395?variant=gid://shopify/ProductVariant/49183624265950",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7352.jpg?v=1791627002"
   },
   "gid://shopify/ProductVariant/49183624298718": {
