@@ -436,7 +436,7 @@
     "variant_title": "Default Title",
     "sku": "347",
     "price": 2299.0,
-    "stock": 20,
+    "stock": 19,
     "url": "https://www.daivik.in/products/pure-kemp-earcuffs?variant=gid://shopify/ProductVariant/35854738849945",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/pure-kemp-earcuffs-earrings-902.jpg?v=1598712410"
   },
@@ -7132,7 +7132,7 @@
     "variant_title": "Green",
     "sku": "131",
     "price": 1499.0,
-    "stock": 13,
+    "stock": 12,
     "url": "https://www.daivik.in/products/premium-ad-peacock-jhumkas-in-2-colours?variant=gid://shopify/ProductVariant/45810550407390",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7027C7DA-3E5D-4D2D-965F-63083BB7B364.jpg?v=1723726611"
   },
@@ -21010,7 +21010,7 @@
     "variant_title": "Default Title",
     "sku": "D26303",
     "price": 249.0,
-    "stock": 56,
+    "stock": 55,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26303?variant=gid://shopify/ProductVariant/49155188523230",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6537_49667f70-b467-4e29-8f33-209e2e5516e8.jpg?v=1791377508"
   },
@@ -23271,15 +23271,6 @@
     "price": 399.0,
     "stock": 1,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26394?variant=gid://shopify/ProductVariant/49183623774430",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7345.jpg?v=1791626978"
-  },
-  "gid://shopify/ProductVariant/49183623807198": {
-    "product_title": "Diwali Sale Earrings D26394",
-    "variant_title": "Ruby",
-    "sku": "D26394",
-    "price": 399.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26394?variant=gid://shopify/ProductVariant/49183623807198",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7345.jpg?v=1791626978"
   },
   "gid://shopify/ProductVariant/49183624265950": {
@@ -36241,6 +36232,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26393?variant=gid://shopify/ProductVariant/49183623676126",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7336.jpg?v=1791626957"
+  },
+  "gid://shopify/ProductVariant/49183623807198": {
+    "product_title": "Diwali Sale Earrings D26394",
+    "variant_title": "Ruby",
+    "sku": "D26394",
+    "price": 399.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26394?variant=gid://shopify/ProductVariant/49183623807198",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7345.jpg?v=1791626978"
   },
   "gid://shopify/ProductVariant/49183623839966": {
     "product_title": "Diwali Sale Earrings D26394",
