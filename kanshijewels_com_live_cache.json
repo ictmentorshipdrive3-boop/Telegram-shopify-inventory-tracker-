@@ -10930,7 +10930,7 @@
     "variant_title": "Default Title",
     "sku": "ER529",
     "price": 1900.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.kanshijewels.com/products/exquisite-polki-statement-earrings?variant=gid://shopify/ProductVariant/53369035063596",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Exquisitepolkistatementearrings1900.jpg?v=1782218711"
   },
@@ -11401,15 +11401,6 @@
     "stock": 20,
     "url": "https://www.kanshijewels.com/products/white-combination-jadau-buttumala?variant=gid://shopify/ProductVariant/53420689326380",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Whitecombinationjadaubuttumala12000.jpg?v=1783586465"
-  },
-  "gid://shopify/ProductVariant/53420765151532": {
-    "product_title": "Dulhan jadau rani maangtika",
-    "variant_title": "Default Title",
-    "sku": "MT76",
-    "price": 1450.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/dulhan-jadau-rani-maangtika?variant=gid://shopify/ProductVariant/53420765151532",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Dulhanjadauranimaangtika1450.jpg?v=1783586526"
   },
   "gid://shopify/ProductVariant/53468187001132": {
     "product_title": "Dulhan bridal jadau hair choti",
@@ -14551,6 +14542,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/victorian-gold-finish?variant=gid://shopify/ProductVariant/53420297486636",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Victoriangoldfinish1999.jpg?v=1783579832"
+  },
+  "gid://shopify/ProductVariant/53420765151532": {
+    "product_title": "Dulhan jadau rani maangtika",
+    "variant_title": "Default Title",
+    "sku": "MT76",
+    "price": 1450.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/dulhan-jadau-rani-maangtika?variant=gid://shopify/ProductVariant/53420765151532",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Dulhanjadauranimaangtika1450.jpg?v=1783586526"
   },
   "gid://shopify/ProductVariant/53714329534764": {
     "product_title": "Classic Jadau Earrings",
