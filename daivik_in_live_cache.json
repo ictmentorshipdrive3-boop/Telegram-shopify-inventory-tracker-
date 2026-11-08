@@ -11083,7 +11083,7 @@
     "variant_title": "Default Title",
     "sku": "1268",
     "price": 999.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/ruby-green-pendant-mesh-necklace-with-earrings?variant=gid://shopify/ProductVariant/46814149083358",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2A4A53B2-26B7-4F04-B7FD-48840E897910.jpg?v=1747925195"
   },
@@ -18445,7 +18445,7 @@
     "variant_title": "Default Title",
     "sku": "1896",
     "price": 399.0,
-    "stock": 39,
+    "stock": 38,
     "url": "https://www.daivik.in/products/diamond-look-alike-solatire-studs-earrings?variant=gid://shopify/ProductVariant/48286468866270",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/97FEC7F1-2A92-46CE-8ABB-EB8A4A9E9F27.jpg?v=1779882463"
   },
@@ -19231,15 +19231,6 @@
     "stock": 42,
     "url": "https://www.daivik.in/products/premium-floral-ad-kada-fits-2-2-2-5?variant=gid://shopify/ProductVariant/48429733544158",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0578.jpg?v=1783946880"
-  },
-  "gid://shopify/ProductVariant/48434484150494": {
-    "product_title": "Simple Leaf Invisible Chain",
-    "variant_title": "Default Title",
-    "sku": "377",
-    "price": 499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/simple-leaf-invisible-chain?variant=gid://shopify/ProductVariant/48434484150494",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6F48194E-21F4-470E-AD03-FE1A254608A7.jpg?v=1784029225"
   },
   "gid://shopify/ProductVariant/48434488639710": {
     "product_title": "AD Earcuff in 4 Colors (Price for Each)",
@@ -20911,7 +20902,7 @@
     "variant_title": "Default Title",
     "sku": "D26078",
     "price": 1499.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26078?variant=gid://shopify/ProductVariant/49149627072734",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6457_4dcd9c02-4105-413a-9017-7b9bd11ad729.jpg?v=1791223573"
   },
@@ -21775,7 +21766,7 @@
     "variant_title": "Default Title",
     "sku": "D26119",
     "price": 999.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26119?variant=gid://shopify/ProductVariant/49169754587358",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6856.jpg?v=1791457524"
   },
@@ -34009,6 +34000,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/isha-ambani-inspired-moissanite-layered-necklace-with-earrings?variant=gid://shopify/ProductVariant/48427442831582",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1B4E58D9-43B1-4597-9531-C4F6BC0296BD.jpg?v=1783873117"
+  },
+  "gid://shopify/ProductVariant/48434484150494": {
+    "product_title": "Simple Leaf Invisible Chain",
+    "variant_title": "Default Title",
+    "sku": "377",
+    "price": 499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/simple-leaf-invisible-chain?variant=gid://shopify/ProductVariant/48434484150494",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6F48194E-21F4-470E-AD03-FE1A254608A7.jpg?v=1784029225"
   },
   "gid://shopify/ProductVariant/48437245870302": {
     "product_title": "Elakkathali Coin Ruby Green Choker with Earrings",
