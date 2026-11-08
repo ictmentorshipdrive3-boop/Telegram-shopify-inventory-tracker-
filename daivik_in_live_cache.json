@@ -31,7 +31,7 @@
     "variant_title": "Default Title",
     "sku": "45",
     "price": 1449.0,
-    "stock": 15,
+    "stock": 14,
     "url": "https://www.daivik.in/products/45?variant=gid://shopify/ProductVariant/32600770707515",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_ec716232-9924-41f1-819a-8bc18601c00b.jpg?v=1599550627"
   },
@@ -4345,15 +4345,6 @@
     "stock": 16,
     "url": "https://www.daivik.in/products/antique-lakshmi-white-stone-bangles?variant=gid://shopify/ProductVariant/44369095033054",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/77947BBF-DB6F-4632-B632-B2DBC4C85B6D.jpg?v=1696002712"
-  },
-  "gid://shopify/ProductVariant/44372797325534": {
-    "product_title": "Antique Gold Green stone  Lakshmi Necklace with earrings",
-    "variant_title": "Default Title",
-    "sku": "255",
-    "price": 2999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/untitled-oct1_21-14?variant=gid://shopify/ProductVariant/44372797325534",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4AA931C1-ADBF-4E12-8848-A4137329D91C.jpg?v=1696175737"
   },
   "gid://shopify/ProductVariant/44381628235998": {
     "product_title": "Lakshmi Ruby Green AD Kadac",
@@ -27448,6 +27439,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-lakshmi-white-stone-bangles?variant=gid://shopify/ProductVariant/46111852888286",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/77947BBF-DB6F-4632-B632-B2DBC4C85B6D.jpg?v=1696002712"
+  },
+  "gid://shopify/ProductVariant/44372797325534": {
+    "product_title": "Antique Gold Green stone  Lakshmi Necklace with earrings",
+    "variant_title": "Default Title",
+    "sku": "255",
+    "price": 2999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/untitled-oct1_21-14?variant=gid://shopify/ProductVariant/44372797325534",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4AA931C1-ADBF-4E12-8848-A4137329D91C.jpg?v=1696175737"
   },
   "gid://shopify/ProductVariant/44374744006878": {
     "product_title": "Cluster of White Pearl Long Chain",
