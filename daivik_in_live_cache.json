@@ -4099,7 +4099,7 @@
     "variant_title": "Default Title",
     "sku": "615",
     "price": 899.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/untitled-aug4_17-06?variant=gid://shopify/ProductVariant/44296801288414",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7904516E-E7B4-46B8-B434-889ACD4A5DF5.jpg?v=1691149387"
   },
@@ -18359,15 +18359,6 @@
     "url": "https://www.daivik.in/products/heritage-pearl-watch-bracelet-in-2-colors-price-for-each?variant=gid://shopify/ProductVariant/48266746986718",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0199_c28b24ed-ccb4-45f7-bc4a-30a911c7d135.jpg?v=1779275572"
   },
-  "gid://shopify/ProductVariant/48266751574238": {
-    "product_title": "Heritage Golden Beads Watch Bracelet",
-    "variant_title": "Default Title",
-    "sku": "4033",
-    "price": 1499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/heritage-golden-beads-watch-bracelet?variant=gid://shopify/ProductVariant/48266751574238",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0201.jpg?v=1779275747"
-  },
   "gid://shopify/ProductVariant/48266754457822": {
     "product_title": "Heritage Beads Watch Bracelet",
     "variant_title": "Default Title",
@@ -20848,7 +20839,7 @@
     "variant_title": "Default Title",
     "sku": "D26065",
     "price": 2499.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26065?variant=gid://shopify/ProductVariant/49149626646750",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6416_fe101725-0615-4262-a234-ed8781f7b3f8.jpg?v=1791223201"
   },
@@ -23674,7 +23665,7 @@
     "variant_title": "White",
     "sku": "2004",
     "price": 799.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/untitled-oct24_09-41-32?variant=gid://shopify/ProductVariant/49275793965278",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4BD7C784-014B-41FA-9BD4-54980C153E51.jpg?v=1792840599"
   },
@@ -33775,6 +33766,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/heritage-pearl-watch-bracelet-in-2-colors-price-for-each?variant=gid://shopify/ProductVariant/48266747019486",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0199_c28b24ed-ccb4-45f7-bc4a-30a911c7d135.jpg?v=1779275572"
+  },
+  "gid://shopify/ProductVariant/48266751574238": {
+    "product_title": "Heritage Golden Beads Watch Bracelet",
+    "variant_title": "Default Title",
+    "sku": "4033",
+    "price": 1499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/heritage-golden-beads-watch-bracelet?variant=gid://shopify/ProductVariant/48266751574238",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0201.jpg?v=1779275747"
   },
   "gid://shopify/ProductVariant/48266836050142": {
     "product_title": "Heritage Jaipuri Stone Watch Bracelet",
