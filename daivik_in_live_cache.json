@@ -71,15 +71,6 @@
     "url": "https://www.daivik.in/products/58?variant=gid://shopify/ProductVariant/32600841584699",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG-20191220-213907-605.jpg?v=1583699464"
   },
-  "gid://shopify/ProductVariant/32600857346107": {
-    "product_title": "Gold Polish Lightweight Balis",
-    "variant_title": "Default Title",
-    "sku": "60",
-    "price": 849.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/60?variant=gid://shopify/ProductVariant/32600857346107",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG-20191231-203737-178.jpg?v=1590224027"
-  },
   "gid://shopify/ProductVariant/35563213521049": {
     "product_title": "Gold Toned Pure Kemp Bangles",
     "variant_title": "2.4",
@@ -7141,7 +7132,7 @@
     "variant_title": "Default Title",
     "sku": "1103",
     "price": 2199.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/kemp-peacock-textured-hipbelt?variant=gid://shopify/ProductVariant/45813244985566",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/53884256-A102-4C5D-A7EC-7A43CE0668C5.jpg?v=1723817570"
   },
@@ -18049,7 +18040,7 @@
     "variant_title": "Default Title",
     "sku": "1382",
     "price": 4299.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/classic-victorian-green-beads-peacock-choker-with-balis?variant=gid://shopify/ProductVariant/48161484013790",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BC2B16EF-EA76-4D7A-9FB8-EB4B1FE5079C.jpg?v=1777201499"
   },
@@ -21244,7 +21235,7 @@
     "variant_title": "Default Title",
     "sku": "D26340",
     "price": 999.0,
-    "stock": 13,
+    "stock": 12,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26340?variant=gid://shopify/ProductVariant/49162124460254",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6630.jpg?v=1791443916"
   },
@@ -23785,6 +23776,15 @@
     "stock": 2,
     "url": "https://www.daivik.in/products/guttapusalu-balaji-long-haram-and-choker-with-earrings-copy?variant=gid://shopify/ProductVariant/49387603165406",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8497.jpg?v=1794242919"
+  },
+  "gid://shopify/ProductVariant/32600857346107": {
+    "product_title": "Gold Polish Lightweight Balis",
+    "variant_title": "Default Title",
+    "sku": "60",
+    "price": 849.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/60?variant=gid://shopify/ProductVariant/32600857346107",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG-20191231-203737-178.jpg?v=1590224027"
   },
   "gid://shopify/ProductVariant/32849570136123": {
     "product_title": "Kemp Uncut Heavy Choker With Earrings",
