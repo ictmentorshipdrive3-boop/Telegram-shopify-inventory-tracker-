@@ -2416,7 +2416,7 @@
     "variant_title": "Default Title",
     "sku": "994",
     "price": 3499.0,
-    "stock": 18,
+    "stock": 17,
     "url": "https://www.daivik.in/products/a-209?variant=gid://shopify/ProductVariant/43108876452062",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_6e6bd1f7-b14e-413c-bc1f-323c2dd4c01e.heic?v=1657809950"
   },
@@ -10750,7 +10750,7 @@
     "variant_title": "Default Title",
     "sku": "1251",
     "price": 999.0,
-    "stock": 22,
+    "stock": 21,
     "url": "https://www.daivik.in/products/lakshmi-coin-ruby-necklace?variant=gid://shopify/ProductVariant/46618661748958",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A82E65E4-33A7-4D83-95F7-6A751A172E9B.jpg?v=1744903477"
   },
@@ -10948,7 +10948,7 @@
     "variant_title": "Default Title",
     "sku": "1258",
     "price": 799.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/half-moon-ad-necklace-with-earrings?variant=gid://shopify/ProductVariant/46675256312030",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F4136161-FB12-4394-8EDD-72E3FE92901F.jpg?v=1746545689"
   },
@@ -11830,7 +11830,7 @@
     "variant_title": "2.4",
     "sku": "1628",
     "price": 999.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/lotus-ruby-necklace-and-bangles-combo?variant=gid://shopify/ProductVariant/47087215050974",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2CBB1143-243C-46DB-BC5F-DF31AF3B5087.jpg?v=1752755144"
   },
@@ -19507,7 +19507,7 @@
     "variant_title": "Default Title",
     "sku": "4043",
     "price": 1899.0,
-    "stock": 13,
+    "stock": 12,
     "url": "https://www.daivik.in/products/heritage-watch-bracelet-13?variant=gid://shopify/ProductVariant/48547818537182",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5648.jpg?v=1785853612"
   },
@@ -20398,7 +20398,7 @@
     "variant_title": "Ruby",
     "sku": "D26014",
     "price": 799.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26014?variant=gid://shopify/ProductVariant/49152680886494",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5990.jpg?v=1791221020"
   },
@@ -20569,7 +20569,7 @@
     "variant_title": "Default Title",
     "sku": "D26035",
     "price": 1999.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26035?variant=gid://shopify/ProductVariant/49149625467102",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6108.jpg?v=1791221801"
   },
@@ -20608,15 +20608,6 @@
     "stock": 4,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26040?variant=gid://shopify/ProductVariant/49149625630942",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6122.jpg?v=1791221830"
-  },
-  "gid://shopify/ProductVariant/49152660472030": {
-    "product_title": "Diwali Sale Necklace D26042",
-    "variant_title": "Purple",
-    "sku": "D26042",
-    "price": 1099.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26042?variant=gid://shopify/ProductVariant/49152660472030",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6137_dbb5cfd0-8b2d-438e-97df-d1876db25269.jpg?v=1791221873"
   },
   "gid://shopify/ProductVariant/49152660504798": {
     "product_title": "Diwali Sale Necklace D26042",
@@ -21280,7 +21271,7 @@
     "variant_title": "Default Title",
     "sku": "D26343",
     "price": 5499.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26343?variant=gid://shopify/ProductVariant/49162124558558",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6636.jpg?v=1791443936"
   },
@@ -34576,6 +34567,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26041?variant=gid://shopify/ProductVariant/49152663748830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6125_7991aa53-93c6-4f52-ae13-3b04345c5b77.jpg?v=1791221858"
+  },
+  "gid://shopify/ProductVariant/49152660472030": {
+    "product_title": "Diwali Sale Necklace D26042",
+    "variant_title": "Purple",
+    "sku": "D26042",
+    "price": 1099.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26042?variant=gid://shopify/ProductVariant/49152660472030",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6137_dbb5cfd0-8b2d-438e-97df-d1876db25269.jpg?v=1791221873"
   },
   "gid://shopify/ProductVariant/49149625729246": {
     "product_title": "Diwali Sale Necklace D26043",
