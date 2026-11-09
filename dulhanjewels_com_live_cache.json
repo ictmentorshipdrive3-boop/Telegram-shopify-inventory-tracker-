@@ -3334,7 +3334,7 @@
     "variant_title": "Default Title",
     "sku": null,
     "price": 9950.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.dulhanjewels.com/products/refined-jadau-kundan-necklace-with-emerald-hangings?variant=gid://shopify/ProductVariant/51423472550194",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/85231E78-B65B-49B7-9C46-BAAE1288D2D9.jpg?v=1783163927"
   },
@@ -4570,15 +4570,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/traditional-jadau-kundan-earcuff-with-hangings?variant=gid://shopify/ProductVariant/67589658706226",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-1333.jpg?v=1790419484"
-  },
-  "gid://shopify/ProductVariant/67591018905906": {
-    "product_title": "Unique Jadau Kundan Jhumki Earrings With Ricepearl Hangings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2450.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/unique-jadau-kundan-jhumki-earrings-with-ricepearl-hangings?variant=gid://shopify/ProductVariant/67591018905906",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/1DDB8AC2-26F4-4548-99B2-B7A9AC7EFAB6.jpg?v=1790447261"
   },
   "gid://shopify/ProductVariant/67596550668594": {
     "product_title": "Bridal Jadau Kundan Mango Haram With Strawberry Beads",
@@ -5821,6 +5812,15 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/stylish-jadau-kundan-kanti-necklace-with-green-drops?variant=gid://shopify/ProductVariant/52270605074738",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/50032752-09E7-4F2B-99F6-BF62D2C96F67.jpg?v=1790239340"
+  },
+  "gid://shopify/ProductVariant/67591018905906": {
+    "product_title": "Unique Jadau Kundan Jhumki Earrings With Ricepearl Hangings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2450.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/unique-jadau-kundan-jhumki-earrings-with-ricepearl-hangings?variant=gid://shopify/ProductVariant/67591018905906",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/1DDB8AC2-26F4-4548-99B2-B7A9AC7EFAB6.jpg?v=1790447261"
   },
   "gid://shopify/ProductVariant/67902808064306": {
     "product_title": "Victorian Polki Emerald Pendant Set with Earrings",
