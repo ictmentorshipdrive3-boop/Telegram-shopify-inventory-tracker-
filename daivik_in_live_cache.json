@@ -4261,7 +4261,7 @@
     "variant_title": "Default Title",
     "sku": "589",
     "price": 1199.0,
-    "stock": 27,
+    "stock": 26,
     "url": "https://www.daivik.in/products/ruby-ad-jhumkas-with-attached-mattal?variant=gid://shopify/ProductVariant/44358526632158",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/DC18AED0-2376-4F2F-AFE9-D6C2CD2A73FF.jpg?v=1695483926"
   },
@@ -5134,7 +5134,7 @@
     "variant_title": "Green",
     "sku": "541",
     "price": 2799.0,
-    "stock": 36,
+    "stock": 35,
     "url": "https://www.daivik.in/products/victorian-peacock-necklace-with-earrings-in-2-colors?variant=gid://shopify/ProductVariant/44605291364574",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/63003919-415E-4B08-B98F-F5DAC6C06AD5.heic?v=1702565544"
   },
@@ -6538,7 +6538,7 @@
     "variant_title": "Ruby",
     "sku": "740",
     "price": 2499.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.daivik.in/products/untitled-jun8_20-19?variant=gid://shopify/ProductVariant/45510606979294",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/554D43F6-817C-4799-9F7B-C39C881BA886.jpg?v=1717858372"
   },
@@ -20965,7 +20965,7 @@
     "variant_title": "Default Title",
     "sku": "1982",
     "price": 799.0,
-    "stock": 30,
+    "stock": 29,
     "url": "https://www.daivik.in/products/simple-floral-antique-jhumkas-with-mattal?variant=gid://shopify/ProductVariant/49149773906142",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/50290B5C-2D07-4A49-BBB4-F698CCA99EC1.jpg?v=1791111602"
   },
@@ -23029,15 +23029,6 @@
     "stock": 6,
     "url": "https://www.daivik.in/products/diwali-sale-anklets-d26704?variant=gid://shopify/ProductVariant/49178383909086",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_72562.jpg?v=1791538010"
-  },
-  "gid://shopify/ProductVariant/49178383941854": {
-    "product_title": "Diwali Sale Anklets D26705",
-    "variant_title": "Default Title",
-    "sku": "D26705",
-    "price": 1799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-anklets-d26705?variant=gid://shopify/ProductVariant/49178383941854",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_72582.jpg?v=1791538014"
   },
   "gid://shopify/ProductVariant/49178384171230": {
     "product_title": "Diwali Sale Hipbelt D26801",
@@ -36007,6 +35998,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-anklets-reversible-d26703?variant=gid://shopify/ProductVariant/49178383843550",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_72542.jpg?v=1791538009"
+  },
+  "gid://shopify/ProductVariant/49178383941854": {
+    "product_title": "Diwali Sale Anklets D26705",
+    "variant_title": "Default Title",
+    "sku": "D26705",
+    "price": 1799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-anklets-d26705?variant=gid://shopify/ProductVariant/49178383941854",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_72582.jpg?v=1791538014"
   },
   "gid://shopify/ProductVariant/49178384203998": {
     "product_title": "Diwali Sale Hipbelt D26802",
