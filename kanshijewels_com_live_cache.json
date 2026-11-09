@@ -9764,15 +9764,6 @@
     "url": "https://www.kanshijewels.com/products/jadau-studs-3?variant=gid://shopify/ProductVariant/52445356065068",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaustuds1400.jpg?v=1766143409"
   },
-  "gid://shopify/ProductVariant/52445356884268": {
-    "product_title": "Jadau jhumkas",
-    "variant_title": "Default Title",
-    "sku": "ER105",
-    "price": 1450.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-jhumkas-7?variant=gid://shopify/ProductVariant/52445356884268",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadauearring1450.jpg?v=1766143527"
-  },
   "gid://shopify/ProductVariant/52445357244716": {
     "product_title": "Jadau studs",
     "variant_title": "Default Title",
@@ -10093,7 +10084,7 @@
     "variant_title": "Default Title",
     "sku": "NK22",
     "price": 2700.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.kanshijewels.com/products/jadau-hasli-necklace?variant=gid://shopify/ProductVariant/52737286144300",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/JADAUHASLI2700.jpg?v=1773122810"
   },
@@ -11578,7 +11569,7 @@
     "variant_title": "Default Title",
     "sku": "AC162",
     "price": 1699.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.kanshijewels.com/products/classic-jadau-handwork-wrist-watch-3?variant=gid://shopify/ProductVariant/54005556019500",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Classicjadauhandworkwristwatch1699_2f53327d-daa5-45ac-b4f3-3a66e2918c9c.png?v=1788338778"
   },
@@ -14380,6 +14371,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/mossanite-studs-5?variant=gid://shopify/ProductVariant/52445344956716",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaustuds1450.jpg?v=1766142924"
+  },
+  "gid://shopify/ProductVariant/52445356884268": {
+    "product_title": "Jadau jhumkas",
+    "variant_title": "Default Title",
+    "sku": "ER105",
+    "price": 1450.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-jhumkas-7?variant=gid://shopify/ProductVariant/52445356884268",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadauearring1450.jpg?v=1766143527"
   },
   "gid://shopify/ProductVariant/52445361602860": {
     "product_title": "Jadau studs",
