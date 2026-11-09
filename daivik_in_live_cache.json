@@ -1048,7 +1048,7 @@
     "variant_title": "Default Title",
     "sku": "749",
     "price": 1899.0,
-    "stock": 13,
+    "stock": 12,
     "url": "https://www.daivik.in/products/set-of-pearl-balis-and-mattals?variant=gid://shopify/ProductVariant/40353148895385",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_591bb99a-07cd-4a22-9333-68692e46aa53.jpg?v=1623942454"
   },
@@ -2101,7 +2101,7 @@
     "variant_title": "White Pearl",
     "sku": "257",
     "price": 1499.0,
-    "stock": 15,
+    "stock": 14,
     "url": "https://www.daivik.in/products/a-2?variant=gid://shopify/ProductVariant/44437456519390",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/68FF1A61-8929-4A32-BE23-F96919FFDAD0.jpg?v=1697904336"
   },
@@ -12211,15 +12211,6 @@
     "stock": 6,
     "url": "https://www.daivik.in/products/ad-three-layer-bridal-choker-with-earrings-and-teeka-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/47451454177502",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C921E334-A301-40DF-854E-CE1A02983E61.jpg?v=1755361582"
-  },
-  "gid://shopify/ProductVariant/47454025547998": {
-    "product_title": "Hanging Pearl Jhumka and Mattal Combo",
-    "variant_title": "Default Title",
-    "sku": "1655",
-    "price": 2999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/hanging-pearl-jhumka-and-mattal-combo?variant=gid://shopify/ProductVariant/47454025547998",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/597642F0-80BE-471C-87BD-326DFBC63690.jpg?v=1755432298"
   },
   "gid://shopify/ProductVariant/47455882871006": {
     "product_title": "Antique Ruby Green Jada Billa/ Hair Accessory",
@@ -31480,6 +31471,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/designer-ad-hairpin?variant=gid://shopify/ProductVariant/47451036811486",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/rn-image_picker_lib_temp_a8c48825-b0b1-4f94-9968-81cb4ce52c69.jpg?v=1755326733"
+  },
+  "gid://shopify/ProductVariant/47454025547998": {
+    "product_title": "Hanging Pearl Jhumka and Mattal Combo",
+    "variant_title": "Default Title",
+    "sku": "1655",
+    "price": 2999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/hanging-pearl-jhumka-and-mattal-combo?variant=gid://shopify/ProductVariant/47454025547998",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/597642F0-80BE-471C-87BD-326DFBC63690.jpg?v=1755432298"
   },
   "gid://shopify/ProductVariant/47463005847774": {
     "product_title": "Antique 3D Hair Clip in 3 Styles",
