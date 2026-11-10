@@ -97249,7 +97249,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-2267",
     "price": 19200.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/serenity-mangalsutra-chain-with-earrings?variant=gid://shopify/ProductVariant/67618676768995",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2267.jpg?v=1791025046"
   },
@@ -97270,15 +97270,6 @@
     "stock": 3,
     "url": "https://www.theamethyststore.com/products/cluster-mangalsutra-chain-with-earrings?variant=gid://shopify/ProductVariant/67619078570211",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2269_191564b0-5756-4c0d-af0b-0d7ceef1575b.jpg?v=1791026076"
-  },
-  "gid://shopify/ProductVariant/67619182608611": {
-    "product_title": "Pretty Precious Bugadi Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-16330",
-    "price": 2748.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/pretty-precious-bugadi-earrings?variant=gid://shopify/ProductVariant/67619182608611",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16330.jpg?v=1791026319"
   },
   "gid://shopify/ProductVariant/67619188605155": {
     "product_title": "Attractive Guttapusalu Necklace",
@@ -98833,7 +98824,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-18725",
     "price": 66900.0,
-    "stock": 1,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/zivara-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/67651864953059",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18725.jpg?v=1791540545"
   },
@@ -102901,7 +102892,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-2565",
     "price": 29034.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/finely-decorated-hair-maatal?variant=gid://shopify/ProductVariant/67727374614755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2565.jpg?v=1792305121"
   },
@@ -107734,7 +107725,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5672",
     "price": 36300.0,
-    "stock": 1,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/ravitha-3d-spl-pendant?variant=gid://shopify/ProductVariant/67927233233123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5672.jpg?v=1793701850"
   },
@@ -107761,7 +107752,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-19345",
     "price": 88900.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/most-lovely-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/67928274272483",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19345.jpg?v=1793703187"
   },
@@ -108544,7 +108535,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-1625",
     "price": 15800.0,
-    "stock": 4,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/dhanvikha-kundan-bracelet?variant=gid://shopify/ProductVariant/68050172674275",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1625.jpg?v=1793797937"
   },
@@ -108562,7 +108553,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-1626",
     "price": 19800.0,
-    "stock": 6,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/gorgeous-kundan-bracelet-3?variant=gid://shopify/ProductVariant/68050715803875",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1626.jpg?v=1793798257"
   },
@@ -108769,7 +108760,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-2461",
     "price": 10500.0,
-    "stock": 4,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/peerless-chain-with-earrings?variant=gid://shopify/ProductVariant/68138010444003",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2461.jpg?v=1793867347"
   },
@@ -152908,6 +152899,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/simply-pretty-bugadi-earrings?variant=gid://shopify/ProductVariant/67618778775779",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16331.jpg?v=1791025250"
+  },
+  "gid://shopify/ProductVariant/67619182608611": {
+    "product_title": "Pretty Precious Bugadi Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16330",
+    "price": 2748.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/pretty-precious-bugadi-earrings?variant=gid://shopify/ProductVariant/67619182608611",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16330.jpg?v=1791026319"
   },
   "gid://shopify/ProductVariant/67619207446755": {
     "product_title": "Vibrant Stone Short Necklace",
