@@ -1498,7 +1498,7 @@
     "variant_title": "Rose gold",
     "sku": "945",
     "price": 1799.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/2-layered-necklace-with-earrings-in-2-colours?variant=gid://shopify/ProductVariant/42034582028510",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/2-layered-necklace-with-earrings-in-colours-272.jpg?v=1636639946"
   },
@@ -4333,7 +4333,7 @@
     "variant_title": "2.4",
     "sku": "980",
     "price": 2199.0,
-    "stock": 23,
+    "stock": 22,
     "url": "https://www.daivik.in/products/lakshmi-ruby-green-ad-kada?variant=gid://shopify/ProductVariant/44381628235998",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_f15bb346-0580-4f5d-9e06-488318882f92.jpg?v=1696515681"
   },
@@ -4846,7 +4846,7 @@
     "variant_title": "Default Title",
     "sku": "417",
     "price": 2799.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/antique-lakshmi-choker-with-earrings?variant=gid://shopify/ProductVariant/44418498101470",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E3D36B20-6DEA-499C-98C3-F132B1E57C0E.jpg?v=1697558833"
   },
@@ -9521,15 +9521,6 @@
     "url": "https://www.daivik.in/products/a-3?variant=gid://shopify/ProductVariant/46169605505246",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D4A3F33F-5DB6-41F4-B8F8-CE21DA8FEFF4.jpg?v=1734874969"
   },
-  "gid://shopify/ProductVariant/46182730268894": {
-    "product_title": "Hasli Lakshmi Pendant Necklace with Earrings in two Colors (Price for Each)",
-    "variant_title": "Purple",
-    "sku": "1191",
-    "price": 2699.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/hasli-lakshmi-pendant-necklace-with-earrings-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/46182730268894",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C7632E9E-4DDF-43CA-A3FD-5412032AE3F7.jpg?v=1735394088"
-  },
   "gid://shopify/ProductVariant/46188375965918": {
     "product_title": "Simple Gold Finish Anklets",
     "variant_title": "Default Title",
@@ -11785,7 +11776,7 @@
     "variant_title": "Default Title",
     "sku": "1310",
     "price": 599.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/three-layer-lakshmi-coin-necklace-with-earrings?variant=gid://shopify/ProductVariant/47082104094942",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/436FE57D-FA62-46B9-9B4C-BEC4F83954BE.jpg?v=1752658366"
   },
@@ -19723,7 +19714,7 @@
     "variant_title": "Default Title",
     "sku": "969",
     "price": 899.0,
-    "stock": 23,
+    "stock": 22,
     "url": "https://www.daivik.in/products/ruby-green-floral-elakkathali-choker-with-studs?variant=gid://shopify/ProductVariant/48605611655390",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9BB3FD0D-97BF-49A7-B86C-9B52460569E8.jpg?v=1786875830"
   },
@@ -29572,6 +29563,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/brass-kemp-manga-white-polish-long-haram?variant=gid://shopify/ProductVariant/46181115363550",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CCEEC489-3C91-4CDD-9F13-EC2731FAA327.jpg?v=1735311400"
+  },
+  "gid://shopify/ProductVariant/46182730268894": {
+    "product_title": "Hasli Lakshmi Pendant Necklace with Earrings in two Colors (Price for Each)",
+    "variant_title": "Purple",
+    "sku": "1191",
+    "price": 2699.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/hasli-lakshmi-pendant-necklace-with-earrings-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/46182730268894",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C7632E9E-4DDF-43CA-A3FD-5412032AE3F7.jpg?v=1735394088"
   },
   "gid://shopify/ProductVariant/46182730301662": {
     "product_title": "Hasli Lakshmi Pendant Necklace with Earrings in two Colors (Price for Each)",
