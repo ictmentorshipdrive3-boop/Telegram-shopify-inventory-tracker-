@@ -4,7 +4,7 @@
     "variant_title": "Default Title",
     "sku": "18",
     "price": 2799.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/18?variant=gid://shopify/ProductVariant/32600557649979",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_5e6e7a93-bcb3-4c15-a2d3-f871fbf7f3fb.jpg?v=1641477506"
   },
@@ -1507,7 +1507,7 @@
     "variant_title": "2.6",
     "sku": "951",
     "price": 999.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/white-stone-bangles-4-bangles?variant=gid://shopify/ProductVariant/42060609159390",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_2a6687dc-c1be-4dfd-9d83-e59b62d8f05f.jpg?v=1636992035"
   },
@@ -1689,15 +1689,6 @@
     "price": 1699.0,
     "stock": 5,
     "url": "https://www.daivik.in/products/set-of-6-kemp-ad-bangles?variant=gid://shopify/ProductVariant/42314249076958",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_02674945-7b6e-4236-9806-2024c9320bd6.jpg?v=1641656256"
-  },
-  "gid://shopify/ProductVariant/42314254418142": {
-    "product_title": "Set of 6 Kemp AD bangles",
-    "variant_title": "2.6",
-    "sku": "988",
-    "price": 1699.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/set-of-6-kemp-ad-bangles?variant=gid://shopify/ProductVariant/42314254418142",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_02674945-7b6e-4236-9806-2024c9320bd6.jpg?v=1641656256"
   },
   "gid://shopify/ProductVariant/42314254450910": {
@@ -17365,7 +17356,7 @@
     "variant_title": "2.8",
     "sku": "1854",
     "price": 1499.0,
-    "stock": 41,
+    "stock": 40,
     "url": "https://www.daivik.in/products/victorian-spiral-ruby-ad-bangles?variant=gid://shopify/ProductVariant/48057312018654",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/77147F49-1B98-49B5-9135-B4ACF785E189.jpg?v=1775198787"
   },
@@ -19741,7 +19732,7 @@
     "variant_title": "Default Title",
     "sku": "316",
     "price": 1499.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/diamond-look-alike-3-layer-flower-neckalace-with-earrings?variant=gid://shopify/ProductVariant/48630564880606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1184.jpg?v=1787466208"
   },
@@ -23359,7 +23350,7 @@
     "variant_title": "Default Title",
     "sku": "1994",
     "price": 799.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/ad-ruby-green-balis?variant=gid://shopify/ProductVariant/49230125564126",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3922.heic?v=1792254792"
   },
@@ -24451,6 +24442,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/ad-star-necklace-choker-with-earrings?variant=gid://shopify/ProductVariant/42268876439774",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_3231edac-4903-4b41-9332-79257de92038.jpg?v=1640618091"
+  },
+  "gid://shopify/ProductVariant/42314254418142": {
+    "product_title": "Set of 6 Kemp AD bangles",
+    "variant_title": "2.6",
+    "sku": "988",
+    "price": 1699.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/set-of-6-kemp-ad-bangles?variant=gid://shopify/ProductVariant/42314254418142",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_02674945-7b6e-4236-9806-2024c9320bd6.jpg?v=1641656256"
   },
   "gid://shopify/ProductVariant/42328076943582": {
     "product_title": "Pure premium Kemp Brass Jhumkas",
