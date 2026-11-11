@@ -15362,15 +15362,6 @@
     "url": "https://www.rasasilver.com/products/floreza-cz-kada?variant=gid://shopify/ProductVariant/53150337958185",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11856_resized.jpg?v=1780835985"
   },
-  "gid://shopify/ProductVariant/53158225707305": {
-    "product_title": "Vruksha Oxidised Jhumki",
-    "variant_title": "Default Title",
-    "sku": "R27999",
-    "price": 7735.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/gulnaar-oxidised-jhumki-copy-2?variant=gid://shopify/ProductVariant/53158225707305",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11645_resized.jpg?v=1780834189"
-  },
   "gid://shopify/ProductVariant/53158326632745": {
     "product_title": "Cubic Kada",
     "variant_title": "Default Title",
@@ -20995,15 +20986,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/sriya-aam-temple-necklace-set?variant=gid://shopify/ProductVariant/54210045280553",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Tast_12Set20893.jpg?v=1789974889"
-  },
-  "gid://shopify/ProductVariant/54210523136297": {
-    "product_title": "Morvalli-Pear Nakshi Maang Tikka",
-    "variant_title": "Default Title",
-    "sku": "R35013",
-    "price": 5185.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/morvalli-pear-nakshi-maang-tikka?variant=gid://shopify/ProductVariant/54210523136297",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Tast_12Set20906.jpg?v=1789992806"
   },
   "gid://shopify/ProductVariant/54215753957673": {
     "product_title": "Neel Nakshi Chandbali",
@@ -44351,6 +44333,15 @@
     "url": "https://www.rasasilver.com/products/orlina-oxidised-jhumki-copy?variant=gid://shopify/ProductVariant/53150349918505",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11675_resized.jpg?v=1780833266"
   },
+  "gid://shopify/ProductVariant/53158225707305": {
+    "product_title": "Vruksha Oxidised Jhumki",
+    "variant_title": "Default Title",
+    "sku": "R27999",
+    "price": 7735.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/gulnaar-oxidised-jhumki-copy-2?variant=gid://shopify/ProductVariant/53158225707305",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11645_resized.jpg?v=1780834189"
+  },
   "gid://shopify/ProductVariant/53158304448809": {
     "product_title": "Aarunya Shine CZ Pendant",
     "variant_title": "GREEN",
@@ -49165,6 +49156,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/mangai-pushpa-nakshi-maang-tikka?variant=gid://shopify/ProductVariant/54210453504297",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__12Sep2297.jpg?v=1789989425"
+  },
+  "gid://shopify/ProductVariant/54210523136297": {
+    "product_title": "Morvalli-Pear Nakshi Maang Tikka",
+    "variant_title": "Default Title",
+    "sku": "R35013",
+    "price": 5185.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/morvalli-pear-nakshi-maang-tikka?variant=gid://shopify/ProductVariant/54210523136297",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Tast_12Set20906.jpg?v=1789992806"
   },
   "gid://shopify/ProductVariant/54210589884713": {
     "product_title": "Mridula Nakshi Maang Tikka",
