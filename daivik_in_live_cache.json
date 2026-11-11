@@ -1480,7 +1480,7 @@
     "variant_title": "2.4",
     "sku": "951",
     "price": 999.0,
-    "stock": 23,
+    "stock": 22,
     "url": "https://www.daivik.in/products/white-stone-bangles-4-bangles?variant=gid://shopify/ProductVariant/42060601163998",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_2a6687dc-c1be-4dfd-9d83-e59b62d8f05f.jpg?v=1636992035"
   },
@@ -6412,7 +6412,7 @@
     "variant_title": "2.4",
     "sku": "705",
     "price": 799.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/simple-purple-stone-bangles?variant=gid://shopify/ProductVariant/45478438273246",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/75796A7E-2A4F-4BD5-8372-A1AD1A4F18CC.jpg?v=1717337783"
   },
@@ -19120,7 +19120,7 @@
     "variant_title": "Default Title",
     "sku": "1925",
     "price": 699.0,
-    "stock": 22,
+    "stock": 21,
     "url": "https://www.daivik.in/products/premium-floral-ad-kada-fits-2-2-2-4?variant=gid://shopify/ProductVariant/48429714374878",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0576.jpg?v=1783946500"
   },
@@ -19366,15 +19366,6 @@
     "stock": 10,
     "url": "https://www.daivik.in/products/cluster-pearl-hanging-kemp-floral-jada-billai-hair-accessories-choti?variant=gid://shopify/ProductVariant/48545439711454",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B005BA21-6870-405D-80B9-23D41F65ED5D.jpg?v=1785773934"
-  },
-  "gid://shopify/ProductVariant/48547559702750": {
-    "product_title": "Carved Lion Stone Look Coin Short Haram with Earrings",
-    "variant_title": "Default Title",
-    "sku": "1145",
-    "price": 3499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/carved-lion-stone-look-coin-short-haram-with-earrings?variant=gid://shopify/ProductVariant/48547559702750",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0859.jpg?v=1785843224"
   },
   "gid://shopify/ProductVariant/48547692445918": {
     "product_title": "Heritage Ruby Green Watch Bracelet",
@@ -20821,7 +20812,7 @@
     "variant_title": "Default Title",
     "sku": "1982",
     "price": 799.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/simple-floral-antique-jhumkas-with-mattal?variant=gid://shopify/ProductVariant/49149773906142",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/50290B5C-2D07-4A49-BBB4-F698CCA99EC1.jpg?v=1791111602"
   },
@@ -33901,6 +33892,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/victorian-moissanite-flower-necklace-with-earrings?variant=gid://shopify/ProductVariant/48525556285662",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0864_93ef71ad-40e1-413f-856b-8167e70a9c61.jpg?v=1785427090"
+  },
+  "gid://shopify/ProductVariant/48547559702750": {
+    "product_title": "Carved Lion Stone Look Coin Short Haram with Earrings",
+    "variant_title": "Default Title",
+    "sku": "1145",
+    "price": 3499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/carved-lion-stone-look-coin-short-haram-with-earrings?variant=gid://shopify/ProductVariant/48547559702750",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0859.jpg?v=1785843224"
   },
   "gid://shopify/ProductVariant/48547820536030": {
     "product_title": "Heritage Antique Watch Bracelet",
