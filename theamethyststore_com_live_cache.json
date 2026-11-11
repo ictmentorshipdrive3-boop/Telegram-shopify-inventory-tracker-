@@ -16577,15 +16577,6 @@
     "url": "https://www.theamethyststore.com/products/angelica-avikam-long-necklace-set?variant=gid://shopify/ProductVariant/46239383683299",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8985.jpg?v=1744263379"
   },
-  "gid://shopify/ProductVariant/46239439159523": {
-    "product_title": "Priscilla Avikam Long Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-8987",
-    "price": 146000.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/priscilla-avikam-long-necklace-set?variant=gid://shopify/ProductVariant/46239439159523",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8987_51fa0e55-5175-4dc2-98d4-655f864fade8.jpg?v=1754110820"
-  },
   "gid://shopify/ProductVariant/46239469633763": {
     "product_title": "Valentina Avikam Long Necklace Set",
     "variant_title": "Default Title",
@@ -16618,7 +16609,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-0813",
     "price": 16500.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/pretiest-mangalsutra-chain-with-earrings?variant=gid://shopify/ProductVariant/46239957909731",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/DSC05028.jpg?v=1754895971"
   },
@@ -17068,7 +17059,7 @@
     "variant_title": "Only Pendant",
     "sku": "AMS-104-2349",
     "price": 10296.0,
-    "stock": 1,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/nishanthi-stone-pendant?variant=gid://shopify/ProductVariant/46276480958691",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2349.jpg?v=1749195054"
   },
@@ -17842,7 +17833,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-8251",
     "price": 21649.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/stylish-hook-earrings?variant=gid://shopify/ProductVariant/46385103798499",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8251.jpg?v=1747808187"
   },
@@ -21082,7 +21073,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-9841",
     "price": 32500.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/colourful-beads-long-necklace?variant=gid://shopify/ProductVariant/46763865866467",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9841.jpg?v=1751261704"
   },
@@ -24331,7 +24322,7 @@
     "variant_title": "2.4\"",
     "sku": "AMS-107-2343-2.4''",
     "price": 27800.0,
-    "stock": 1,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/charika-stone-pair-bangle?variant=gid://shopify/ProductVariant/46976211910883",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2343.jpg?v=1754294131"
   },
@@ -24532,6 +24523,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/attractive-floral-kundan-ring-1?variant=gid://shopify/ProductVariant/46978747007203",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1328.jpg?v=1754310746"
+  },
+  "gid://shopify/ProductVariant/46978755231971": {
+    "product_title": "Tharini Kundan Ring",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-1361",
+    "price": 9043.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/tharini-kundan-ring?variant=gid://shopify/ProductVariant/46978755231971",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1361.jpg?v=1754310785"
   },
   "gid://shopify/ProductVariant/46978815131875": {
     "product_title": "Aarminal Kundan Ring",
@@ -49612,7 +49612,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-12631",
     "price": 22927.0,
-    "stock": 4,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/kundan-jhumkas-4?variant=gid://shopify/ProductVariant/47920448110819",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12631.jpg?v=1770205930"
   },
@@ -49738,7 +49738,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-12640",
     "price": 11600.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/shinning-stud-1?variant=gid://shopify/ProductVariant/47920540942563",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12640.jpg?v=1770211054"
   },
@@ -108580,7 +108580,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-2602",
     "price": 11300.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/timeless-charm-diamond-design-maangtikka?variant=gid://shopify/ProductVariant/68149201502435",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2602.jpg?v=1793875140"
   },
@@ -109069,6 +109069,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/dazzling-diamond-design-drops?variant=gid://shopify/ProductVariant/68516496539875",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-17024.jpg?v=1794392967"
+  },
+  "gid://shopify/ProductVariant/68516780867811": {
+    "product_title": "Crafted Vibrancy Diamond Design Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-17035",
+    "price": 4600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/crafted-vibrancy-diamond-design-drops?variant=gid://shopify/ProductVariant/68516780867811",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-17035.jpg?v=1794394505"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -117961,15 +117970,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/ilakiya-kundan-ring?variant=gid://shopify/ProductVariant/46977938096355",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1353.jpg?v=1754309294"
-  },
-  "gid://shopify/ProductVariant/46978755231971": {
-    "product_title": "Tharini Kundan Ring",
-    "variant_title": "Default Title",
-    "sku": "AMS-101-1361",
-    "price": 9043.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/tharini-kundan-ring?variant=gid://shopify/ProductVariant/46978755231971",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1361.jpg?v=1754310785"
   },
   "gid://shopify/ProductVariant/46979409445091": {
     "product_title": "Grandeur Kundan Ring",
