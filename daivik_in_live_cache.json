@@ -1,13 +1,4 @@
 {
-  "gid://shopify/ProductVariant/32600557649979": {
-    "product_title": "Brass Guttapusalu Short Necklace With Earrings",
-    "variant_title": "Default Title",
-    "sku": "18",
-    "price": 2799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/18?variant=gid://shopify/ProductVariant/32600557649979",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_5e6e7a93-bcb3-4c15-a2d3-f871fbf7f3fb.jpg?v=1641477506"
-  },
   "gid://shopify/ProductVariant/32600664506427": {
     "product_title": "Uncut Kemp Haram with Balis",
     "variant_title": "Default Title",
@@ -10453,7 +10444,7 @@
     "variant_title": "Default Title",
     "sku": "1243",
     "price": 799.0,
-    "stock": 33,
+    "stock": 32,
     "url": "https://www.daivik.in/products/ad-droplet-pendant-mangalsutra-with-studs?variant=gid://shopify/ProductVariant/46508274385118",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/13EEA801-9267-4995-8EE2-893E4D64D257.jpg?v=1743229820"
   },
@@ -16811,15 +16802,6 @@
     "url": "https://www.daivik.in/products/affordable-meenakari-balaji-and-lakshmi-long-chain-with-earrings?variant=gid://shopify/ProductVariant/47961520079070",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8332.heic?v=1772955488"
   },
-  "gid://shopify/ProductVariant/47961520111838": {
-    "product_title": "Affordable Meenakari Balaji and Lakshmi Long Beaded Chain with Earrings",
-    "variant_title": "Default Title",
-    "sku": "1362",
-    "price": 799.0,
-    "stock": 2,
-    "url": "https://www.daivik.in/products/affordable-meenakari-balaji-and-lakshmi-long-beaded-chain-with-earrings?variant=gid://shopify/ProductVariant/47961520111838",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8351.heic?v=1772955734"
-  },
   "gid://shopify/ProductVariant/47961521783006": {
     "product_title": "Affordable Meenakari Lotus Lakshmi Long Beaded Chain with Earrings",
     "variant_title": "Default Title",
@@ -20150,15 +20132,6 @@
     "url": "https://www.daivik.in/products/2-line-malli-go-clip-16-artificial-flower-gajra?variant=gid://shopify/ProductVariant/49114279084254",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5839.jpg?v=1790429614"
   },
-  "gid://shopify/ProductVariant/49116404809950": {
-    "product_title": "Premium Brass Lakshmi Kasumala with Peacock Pendant",
-    "variant_title": "Default Title",
-    "sku": "820",
-    "price": 3999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/premium-brass-lakshmi-kasumalai?variant=gid://shopify/ProductVariant/49116404809950",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/309F5249-1E49-456F-8EA3-5BEA54B97388.jpg?v=1790521525"
-  },
   "gid://shopify/ProductVariant/49118521032926": {
     "product_title": "Simple AD Small Jhumkas",
     "variant_title": "Default Title",
@@ -23390,15 +23363,6 @@
     "url": "https://www.daivik.in/products/simple-green-stone-peacock-necklace-with-earrings?variant=gid://shopify/ProductVariant/49267016630494",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3928.heic?v=1792687405"
   },
-  "gid://shopify/ProductVariant/49267023347934": {
-    "product_title": "Simple Ruby Green Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "1027",
-    "price": 699.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/simple-ruby-green-necklace-with-earrings-1?variant=gid://shopify/ProductVariant/49267023347934",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3931.heic?v=1792687405"
-  },
   "gid://shopify/ProductVariant/49270569599198": {
     "product_title": "Reversible Pure Kemp Brass Short and Long Necklace with Earrings",
     "variant_title": "Default Title",
@@ -23677,6 +23641,15 @@
     "stock": 20,
     "url": "https://www.daivik.in/products/ghungroo-beads-flexible-kada-freesize?variant=gid://shopify/ProductVariant/49396528611550",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5683.jpg?v=1794326331"
+  },
+  "gid://shopify/ProductVariant/32600557649979": {
+    "product_title": "Brass Guttapusalu Short Necklace With Earrings",
+    "variant_title": "Default Title",
+    "sku": "18",
+    "price": 2799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/18?variant=gid://shopify/ProductVariant/32600557649979",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_5e6e7a93-bcb3-4c15-a2d3-f871fbf7f3fb.jpg?v=1641477506"
   },
   "gid://shopify/ProductVariant/32600857346107": {
     "product_title": "Gold Polish Lightweight Balis",
@@ -33263,6 +33236,15 @@
     "url": "https://www.daivik.in/products/hydrodoublet-premium-pastel-necklace-with-earrings?variant=gid://shopify/ProductVariant/47960892178654",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1F04A49C-7EF4-4B4B-A411-9EFBAB18B9E7.jpg?v=1772902093"
   },
+  "gid://shopify/ProductVariant/47961520111838": {
+    "product_title": "Affordable Meenakari Balaji and Lakshmi Long Beaded Chain with Earrings",
+    "variant_title": "Default Title",
+    "sku": "1362",
+    "price": 799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/affordable-meenakari-balaji-and-lakshmi-long-beaded-chain-with-earrings?variant=gid://shopify/ProductVariant/47961520111838",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8351.heic?v=1772955734"
+  },
   "gid://shopify/ProductVariant/47961521848542": {
     "product_title": "Affordable Meenakari Lotus Lakshmi Long Chain with Earrings",
     "variant_title": "Default Title",
@@ -34153,6 +34135,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/ad-pearl-antique-ruby-bangle-combo?variant=gid://shopify/ProductVariant/49099901763806",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/06B2F590-5FE6-4FAA-98FE-5F1586897C02.jpg?v=1790180007"
+  },
+  "gid://shopify/ProductVariant/49116404809950": {
+    "product_title": "Premium Brass Lakshmi Kasumala with Peacock Pendant",
+    "variant_title": "Default Title",
+    "sku": "820",
+    "price": 3999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/premium-brass-lakshmi-kasumalai?variant=gid://shopify/ProductVariant/49116404809950",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/309F5249-1E49-456F-8EA3-5BEA54B97388.jpg?v=1790521525"
   },
   "gid://shopify/ProductVariant/49125769871582": {
     "product_title": "Simple 3 line Pearl Kemp Choker with Earrings",
@@ -36313,5 +36304,14 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/hydrodoublet-small-balis?variant=gid://shopify/ProductVariant/49230129037534",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3924.heic?v=1792254982"
+  },
+  "gid://shopify/ProductVariant/49267023347934": {
+    "product_title": "Simple Ruby Green Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "1027",
+    "price": 699.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/simple-ruby-green-necklace-with-earrings-1?variant=gid://shopify/ProductVariant/49267023347934",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3931.heic?v=1792687405"
   }
 }
