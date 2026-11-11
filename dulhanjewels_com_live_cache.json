@@ -5336,15 +5336,6 @@
     "url": "https://www.dulhanjewels.com/products/stylish-victorian-choker-with-matching-earrings-and-maang-tikka?variant=gid://shopify/ProductVariant/68310252355890",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4415.jpg?v=1793786375"
   },
-  "gid://shopify/ProductVariant/68615988773170": {
-    "product_title": "Regal Victorian Necklace With Emerald Drops And Earrings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 4200.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/regal-victorian-necklace-with-emerald-drops-and-earrings?variant=gid://shopify/ProductVariant/68615988773170",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4724.jpg?v=1794316134"
-  },
   "gid://shopify/ProductVariant/68616220541234": {
     "product_title": "Opulent \tJadau Kundan Kasulu Haram With Hangings",
     "variant_title": "Default Title",
@@ -5722,5 +5713,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/gold-design-jadau-kundan-necklace-with-guttapusalu-hangings?variant=gid://shopify/ProductVariant/68310048211250",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4440.jpg?v=1793785305"
+  },
+  "gid://shopify/ProductVariant/68615988773170": {
+    "product_title": "Regal Victorian Necklace With Emerald Drops And Earrings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 4200.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/regal-victorian-necklace-with-emerald-drops-and-earrings?variant=gid://shopify/ProductVariant/68615988773170",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4724.jpg?v=1794316134"
   }
 }
