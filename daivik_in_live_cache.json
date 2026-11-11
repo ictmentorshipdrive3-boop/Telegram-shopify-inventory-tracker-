@@ -832,7 +832,7 @@
     "variant_title": "Default Title",
     "sku": "661",
     "price": 1499.0,
-    "stock": 26,
+    "stock": 25,
     "url": "https://www.daivik.in/products/kemp-ad-necklace-with-earrings?variant=gid://shopify/ProductVariant/39476421460121",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_d7354f8b-afb9-4897-a577-4986a73512b0.jpg?v=1615818786"
   },
@@ -4891,7 +4891,7 @@
     "variant_title": "Default Title",
     "sku": "955",
     "price": 899.0,
-    "stock": 41,
+    "stock": 40,
     "url": "https://www.daivik.in/products/simple-gold-finish-necklace-with-earrings-1?variant=gid://shopify/ProductVariant/44484582473950",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/59E649AD-2BDE-440C-AF2B-CE543D20A69C.jpg?v=1699097010"
   },
@@ -9157,7 +9157,7 @@
     "variant_title": "2.4",
     "sku": "1514",
     "price": 1299.0,
-    "stock": 38,
+    "stock": 37,
     "url": "https://www.daivik.in/products/ad-green-bangles?variant=gid://shopify/ProductVariant/46122759979230",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BD79C196-27CD-4AE0-9735-781FAFF33BEB.jpg?v=1733241544"
   },
@@ -9454,7 +9454,7 @@
     "variant_title": "Long",
     "sku": "1187",
     "price": 2499.0,
-    "stock": 29,
+    "stock": 28,
     "url": "https://www.daivik.in/products/1187?variant=gid://shopify/ProductVariant/46162809487582",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E458D140-F8E1-4FBC-8260-89D969C318CB.jpg?v=1734533412"
   },
@@ -9953,15 +9953,6 @@
     "url": "https://www.daivik.in/products/cz-antique-real-kemp-hair-clip?variant=gid://shopify/ProductVariant/46307458285790",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6ECC8D85-1210-4B83-A73D-BB6DA5DCC42F.jpg?v=1740203749"
   },
-  "gid://shopify/ProductVariant/46308331061470": {
-    "product_title": "Hasli AD Necklace with Earrings in 2 Colors (Price for Each)",
-    "variant_title": "Green",
-    "sku": "1229",
-    "price": 1399.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/hasli-ad-necklace-with-earrings-in-2-colors?variant=gid://shopify/ProductVariant/46308331061470",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4C9C4178-0BAA-48EE-8287-B254E8847B5B.jpg?v=1740238481"
-  },
   "gid://shopify/ProductVariant/46312480342238": {
     "product_title": "Simple Pearl Jadabillai (Price for Each)",
     "variant_title": "2",
@@ -10435,7 +10426,7 @@
     "variant_title": "Default Title",
     "sku": "1243",
     "price": 799.0,
-    "stock": 30,
+    "stock": 29,
     "url": "https://www.daivik.in/products/ad-droplet-pendant-mangalsutra-with-studs?variant=gid://shopify/ProductVariant/46508274385118",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/13EEA801-9267-4995-8EE2-893E4D64D257.jpg?v=1743229820"
   },
@@ -15043,7 +15034,7 @@
     "variant_title": "Default Title",
     "sku": "3509",
     "price": 299.0,
-    "stock": 30,
+    "stock": 28,
     "url": "https://www.daivik.in/products/b-2?variant=gid://shopify/ProductVariant/47648715538654",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/965E7C72-A319-4666-8B5A-09D882379028.jpg?v=1762013720"
   },
@@ -19102,7 +19093,7 @@
     "variant_title": "Default Title",
     "sku": "283",
     "price": 3499.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.daivik.in/products/victorian-flower-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48423947796702",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9002.jpg?v=1783748787"
   },
@@ -20542,7 +20533,7 @@
     "variant_title": "Default Title",
     "sku": "D26050",
     "price": 4599.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26050?variant=gid://shopify/ProductVariant/49149625991390",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6352.jpg?v=1791222902"
   },
@@ -29886,6 +29877,15 @@
     "price": 1399.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/hasli-ad-necklace-with-earrings-in-2-colors?variant=gid://shopify/ProductVariant/46308331028702",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4C9C4178-0BAA-48EE-8287-B254E8847B5B.jpg?v=1740238481"
+  },
+  "gid://shopify/ProductVariant/46308331061470": {
+    "product_title": "Hasli AD Necklace with Earrings in 2 Colors (Price for Each)",
+    "variant_title": "Green",
+    "sku": "1229",
+    "price": 1399.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/hasli-ad-necklace-with-earrings-in-2-colors?variant=gid://shopify/ProductVariant/46308331061470",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4C9C4178-0BAA-48EE-8287-B254E8847B5B.jpg?v=1740238481"
   },
   "gid://shopify/ProductVariant/46309259018462": {
