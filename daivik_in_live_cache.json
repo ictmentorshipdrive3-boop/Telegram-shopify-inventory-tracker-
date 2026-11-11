@@ -3523,7 +3523,7 @@
     "variant_title": "Default Title",
     "sku": "106",
     "price": 799.0,
-    "stock": 33,
+    "stock": 32,
     "url": "https://www.daivik.in/products/ad-changeable-studs?variant=gid://shopify/ProductVariant/44192837632222",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_08e4ed6b-ba61-47e9-b771-865e36387862.heic?v=1684327210"
   },
@@ -3658,7 +3658,7 @@
     "variant_title": "2.4",
     "sku": "816",
     "price": 1499.0,
-    "stock": 47,
+    "stock": 46,
     "url": "https://www.daivik.in/products/ad-gold-finish-bangles?variant=gid://shopify/ProductVariant/44223373410526",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_3a9dae1b-f5a8-4565-bc8e-a18274b6c0a4.heic?v=1686396576"
   },
@@ -20182,7 +20182,7 @@
     "variant_title": "Default Title",
     "sku": "1405",
     "price": 6999.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/pure-kemp-jadau-short-long-haram?variant=gid://shopify/ProductVariant/49143560929502",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CA82D750-81D8-4ABB-A050-785FDE0C2AF1.jpg?v=1790941715"
   },
@@ -20401,15 +20401,6 @@
     "stock": 31,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26025?variant=gid://shopify/ProductVariant/49152676004062",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6052.jpg?v=1791221213"
-  },
-  "gid://shopify/ProductVariant/49152671744222": {
-    "product_title": "Diwali Sale Necklace D26028",
-    "variant_title": "Ruby",
-    "sku": "D26028",
-    "price": 1999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26028?variant=gid://shopify/ProductVariant/49152671744222",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6061.jpg?v=1791221302"
   },
   "gid://shopify/ProductVariant/49152671776990": {
     "product_title": "Diwali Sale Necklace D26028",
@@ -34440,6 +34431,15 @@
     "price": 1999.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26028?variant=gid://shopify/ProductVariant/49152671711454",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6061.jpg?v=1791221302"
+  },
+  "gid://shopify/ProductVariant/49152671744222": {
+    "product_title": "Diwali Sale Necklace D26028",
+    "variant_title": "Ruby",
+    "sku": "D26028",
+    "price": 1999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26028?variant=gid://shopify/ProductVariant/49152671744222",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6061.jpg?v=1791221302"
   },
   "gid://shopify/ProductVariant/49149625073886": {
