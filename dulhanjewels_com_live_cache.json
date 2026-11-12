@@ -5291,15 +5291,6 @@
     "url": "https://www.dulhanjewels.com/products/gold-style-jadau-kundan-short-necklace?variant=gid://shopify/ProductVariant/68310103884082",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4436.jpg?v=1793785669"
   },
-  "gid://shopify/ProductVariant/68310124429618": {
-    "product_title": "Elegant Jadau Kundan Beads And Pearls Choker",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1500.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/elegant-jadau-kundan-beads-and-pearls-choker?variant=gid://shopify/ProductVariant/68310124429618",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4434.jpg?v=1793785850"
-  },
   "gid://shopify/ProductVariant/68310154543410": {
     "product_title": "Designer Jadau Kundan Chandbali Earrings With Strawberry Hangings",
     "variant_title": "Default Title",
@@ -5650,5 +5641,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/traditional-pearl-beaded-necklace-with-multicolour-kundan-pendant?variant=gid://shopify/ProductVariant/68110747435314",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4279.jpg?v=1793368473"
+  },
+  "gid://shopify/ProductVariant/68310124429618": {
+    "product_title": "Elegant Jadau Kundan Beads And Pearls Choker",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1500.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/elegant-jadau-kundan-beads-and-pearls-choker?variant=gid://shopify/ProductVariant/68310124429618",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4434.jpg?v=1793785850"
   }
 }
