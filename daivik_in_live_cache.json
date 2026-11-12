@@ -1948,7 +1948,7 @@
     "variant_title": "Default Title",
     "sku": "173",
     "price": 11499.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/bridal-brass-kemp-mango-haram-with-jhumkas?variant=gid://shopify/ProductVariant/42552079319262",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_68b0ffd6-91fe-435f-8ccb-6246e03c553f.jpg?v=1646754118"
   },
@@ -7334,15 +7334,6 @@
     "url": "https://www.daivik.in/products/antique-lakshmi-green-stone-choker-with-balis?variant=gid://shopify/ProductVariant/45894061031646",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8AF439E5-A0E5-4842-88F8-26F577FD6BE5.jpg?v=1726586198"
   },
-  "gid://shopify/ProductVariant/45903847719134": {
-    "product_title": "Simple Flower Pearl Combo",
-    "variant_title": "Default Title",
-    "sku": "1115",
-    "price": 2799.0,
-    "stock": 3,
-    "url": "https://www.daivik.in/products/simple-flower-pearl-combo?variant=gid://shopify/ProductVariant/45903847719134",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_7c06fd76-abef-457a-897b-363d1a19d5d6.jpg?v=1726841699"
-  },
   "gid://shopify/ProductVariant/45905761435870": {
     "product_title": "AD Pendant Mangalsutra with Studs",
     "variant_title": "Default Title",
@@ -10870,15 +10861,6 @@
     "stock": 13,
     "url": "https://www.daivik.in/products/a-35?variant=gid://shopify/ProductVariant/46669963952350",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/35ABC6FE-E4E5-4D28-9BD5-8B850B6CE6F6.jpg?v=1746370460"
-  },
-  "gid://shopify/ProductVariant/46675256312030": {
-    "product_title": "Half Moon AD Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "1258",
-    "price": 799.0,
-    "stock": 4,
-    "url": "https://www.daivik.in/products/half-moon-ad-necklace-with-earrings?variant=gid://shopify/ProductVariant/46675256312030",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F4136161-FB12-4394-8EDD-72E3FE92901F.jpg?v=1746545689"
   },
   "gid://shopify/ProductVariant/46677659549918": {
     "product_title": "Microplating Ruby coin Kasumalai (Short , long , Combo - Prices for Each)",
@@ -23624,15 +23606,6 @@
     "url": "https://www.daivik.in/products/pichi-poo-x-suriyan-artificial-flower-hair-accessory?variant=gid://shopify/ProductVariant/49374932893918",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_83452.jpg?v=1793300707"
   },
-  "gid://shopify/ProductVariant/49387603165406": {
-    "product_title": "Green Guttapusalu Balaji Long Haram and Choker with Earrings",
-    "variant_title": "Default Title",
-    "sku": "1023",
-    "price": 7499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/guttapusalu-balaji-long-haram-and-choker-with-earrings-copy?variant=gid://shopify/ProductVariant/49387603165406",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8497.jpg?v=1794242919"
-  },
   "gid://shopify/ProductVariant/49396528611550": {
     "product_title": "Ghungroo beads Flexible Kada (Freesize)",
     "variant_title": "Default Title",
@@ -28628,6 +28601,15 @@
     "url": "https://www.daivik.in/products/bridal-combo?variant=gid://shopify/ProductVariant/45890065236190",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3CD1A221-61AE-4B56-BB78-B4514AE0E08B.jpg?v=1726400342"
   },
+  "gid://shopify/ProductVariant/45903847719134": {
+    "product_title": "Simple Flower Pearl Combo",
+    "variant_title": "Default Title",
+    "sku": "1115",
+    "price": 2799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/simple-flower-pearl-combo?variant=gid://shopify/ProductVariant/45903847719134",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_7c06fd76-abef-457a-897b-363d1a19d5d6.jpg?v=1726841699"
+  },
   "gid://shopify/ProductVariant/45903852241118": {
     "product_title": "Simple Flower Pearl Necklace with Earrings",
     "variant_title": "Default Title",
@@ -30526,6 +30508,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/a-35?variant=gid://shopify/ProductVariant/46669963985118",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/35ABC6FE-E4E5-4D28-9BD5-8B850B6CE6F6.jpg?v=1746370460"
+  },
+  "gid://shopify/ProductVariant/46675256312030": {
+    "product_title": "Half Moon AD Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "1258",
+    "price": 799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/half-moon-ad-necklace-with-earrings?variant=gid://shopify/ProductVariant/46675256312030",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F4136161-FB12-4394-8EDD-72E3FE92901F.jpg?v=1746545689"
   },
   "gid://shopify/ProductVariant/46679641751774": {
     "product_title": "Lotus Pearl Necklace with Studs (Price for Each)",
@@ -36313,5 +36304,14 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/untitled-oct24_09-41-32?variant=gid://shopify/ProductVariant/49275793932510",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4BD7C784-014B-41FA-9BD4-54980C153E51.jpg?v=1792840599"
+  },
+  "gid://shopify/ProductVariant/49387603165406": {
+    "product_title": "Green Guttapusalu Balaji Long Haram and Choker with Earrings",
+    "variant_title": "Default Title",
+    "sku": "1023",
+    "price": 7499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/guttapusalu-balaji-long-haram-and-choker-with-earrings-copy?variant=gid://shopify/ProductVariant/49387603165406",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8497.jpg?v=1794242919"
   }
 }
