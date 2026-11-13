@@ -2506,7 +2506,7 @@
     "variant_title": "Default Title",
     "sku": "R20374",
     "price": 1680.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.rasasilver.com/products/35?variant=gid://shopify/ProductVariant/50712002330921",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_723b0375-1d76-4ccb-a761-ebd44e7148dd.jpg?v=1754916327"
   },
@@ -3166,15 +3166,6 @@
     "stock": 4,
     "url": "https://www.rasasilver.com/products/crimora-oval-studs?variant=gid://shopify/ProductVariant/50809673810217",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2484.jpg?v=1756543252"
-  },
-  "gid://shopify/ProductVariant/53523360153897": {
-    "product_title": "Oviya Stud Earrings",
-    "variant_title": "Ruby Pink",
-    "sku": "R20381",
-    "price": 1840.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/rubora-oval-studs?variant=gid://shopify/ProductVariant/53523360153897",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2508.jpg?v=1756544597"
   },
   "gid://shopify/ProductVariant/50809739837737": {
     "product_title": "Rose Vaibhavam Short Necklace",
@@ -15011,15 +15002,6 @@
     "url": "https://www.rasasilver.com/products/aurora-shine-hoops?variant=gid://shopify/ProductVariant/53130074718505",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0273_resized.jpg?v=1781007274"
   },
-  "gid://shopify/ProductVariant/53131747426601": {
-    "product_title": "Aanya Petal Studs",
-    "variant_title": "Default Title",
-    "sku": "R28368",
-    "price": 6800.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/aanya-petal-cz-studs?variant=gid://shopify/ProductVariant/53131747426601",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_11May0388_resized_07c0faea-427d-4cf8-af72-826b42107683.jpg?v=1785410913"
-  },
   "gid://shopify/ProductVariant/53131759616297": {
     "product_title": "Nakshi Swarnika Jhumki",
     "variant_title": "Default Title",
@@ -22841,6 +22823,15 @@
     "url": "https://www.rasasilver.com/products/mridangini-oxidised-payal?variant=gid://shopify/ProductVariant/67741137994025",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_53_27Pics_23Oct0549.jpg?v=1794032466"
   },
+  "gid://shopify/ProductVariant/67801186435369": {
+    "product_title": "Aurelia Bracelet",
+    "variant_title": "Default Title",
+    "sku": "R37351",
+    "price": 2635.0,
+    "stock": 3,
+    "url": "https://www.rasasilver.com/products/aurelia-bracelet?variant=gid://shopify/ProductVariant/67801186435369",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rose-GoldBraceletonMaroonVelvet.png?v=1794486428"
+  },
   "gid://shopify/ProductVariant/49901877035305": {
     "product_title": "Kamakshi Jadau Oddiyanam/Hip Belts",
     "variant_title": "Default Title",
@@ -24478,6 +24469,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/olivora-glow-studs?variant=gid://shopify/ProductVariant/50809320636713",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2512.jpg?v=1756538126"
+  },
+  "gid://shopify/ProductVariant/53523360153897": {
+    "product_title": "Oviya Stud Earrings",
+    "variant_title": "Ruby Pink",
+    "sku": "R20381",
+    "price": 1840.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/rubora-oval-studs?variant=gid://shopify/ProductVariant/53523360153897",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2508.jpg?v=1756544597"
   },
   "gid://shopify/ProductVariant/53523360186665": {
     "product_title": "Oviya Stud Earrings",
@@ -43685,6 +43685,15 @@
     "url": "https://www.rasasilver.com/products/emerald-moissanite-jhumki-copy?variant=gid://shopify/ProductVariant/53131256299817",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0097_resized.jpg?v=1781007525"
   },
+  "gid://shopify/ProductVariant/53131747426601": {
+    "product_title": "Aanya Petal Studs",
+    "variant_title": "Default Title",
+    "sku": "R28368",
+    "price": 6800.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/aanya-petal-cz-studs?variant=gid://shopify/ProductVariant/53131747426601",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_11May0388_resized_07c0faea-427d-4cf8-af72-826b42107683.jpg?v=1785410913"
+  },
   "gid://shopify/ProductVariant/53131822563625": {
     "product_title": "Radiance Studs",
     "variant_title": "Mint Green",
@@ -49831,14 +49840,5 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/ketaki-kundan-necklace-set?variant=gid://shopify/ProductVariant/67741676208425",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_53_27Pics_24Oct21693.jpg?v=1794033506"
-  },
-  "gid://shopify/ProductVariant/67801186435369": {
-    "product_title": "Aurelia Bracelet",
-    "variant_title": "Default Title",
-    "sku": "R37351",
-    "price": 2635.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/aurelia-bracelet?variant=gid://shopify/ProductVariant/67801186435369",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rose-GoldBraceletonMaroonVelvet.png?v=1794486428"
   }
 }
