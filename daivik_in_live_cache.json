@@ -3451,7 +3451,7 @@
     "variant_title": "Default Title",
     "sku": "75",
     "price": 4199.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/a-75?variant=gid://shopify/ProductVariant/44172631015646",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_f7a47cfe-1883-48be-8296-aaee6e2b6303.heic?v=1683038660"
   },
@@ -4949,15 +4949,6 @@
     "url": "https://www.daivik.in/products/anklets?variant=gid://shopify/ProductVariant/44538347716830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B891EFDC-50F9-4619-9358-6EE1CB63364E.heic?v=1700581000"
   },
-  "gid://shopify/ProductVariant/44544110330078": {
-    "product_title": "AD Changeable Simple Gold Finish Necklace with Changeable Earrings",
-    "variant_title": "Default Title",
-    "sku": "778",
-    "price": 999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-changeable-simple-gold-finish-necklace-with-changeable-earrings?variant=gid://shopify/ProductVariant/44544110330078",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E41EFCFA-ECDF-419B-AFB2-2CDD4A5CD4C8.jpg?v=1700667803"
-  },
   "gid://shopify/ProductVariant/44551102529758": {
     "product_title": "AD Changeable Gold Finish Necklace with Changeable Earrings",
     "variant_title": "Default Title",
@@ -6025,7 +6016,7 @@
     "variant_title": "Ruby",
     "sku": "881",
     "price": 999.0,
-    "stock": 12,
+    "stock": 10,
     "url": "https://www.daivik.in/products/victorian-ad-choker-with-earrings?variant=gid://shopify/ProductVariant/45204086194398",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0234.jpg?v=1779468898"
   },
@@ -9224,15 +9215,6 @@
     "url": "https://www.daivik.in/products/green-mosanite-antique-bangles?variant=gid://shopify/ProductVariant/46122762502366",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B73AF57C-F7FC-416E-A3BF-64728EAA8FB2.jpg?v=1733241857"
   },
-  "gid://shopify/ProductVariant/46122762535134": {
-    "product_title": "Green Mosanite Antique Bangles",
-    "variant_title": "2.6",
-    "sku": "1517",
-    "price": 799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/green-mosanite-antique-bangles?variant=gid://shopify/ProductVariant/46122762535134",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B73AF57C-F7FC-416E-A3BF-64728EAA8FB2.jpg?v=1733241857"
-  },
   "gid://shopify/ProductVariant/46122762567902": {
     "product_title": "Green Mosanite Antique Bangles",
     "variant_title": "2.8",
@@ -9717,15 +9699,6 @@
     "price": 2299.0,
     "stock": 2,
     "url": "https://www.daivik.in/products/elephant-multilayer-pearl-hanging-jhumkas?variant=gid://shopify/ProductVariant/46726586302686",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3B402EB6-4E1F-442A-9A03-42CA2D0AE41F.jpg?v=1747637333"
-  },
-  "gid://shopify/ProductVariant/46726586269918": {
-    "product_title": "Elephant Multilayer Pearl Hanging Jhumkas in two Colors (Price for Each)",
-    "variant_title": "Ruby",
-    "sku": "1555",
-    "price": 2299.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/elephant-multilayer-pearl-hanging-jhumkas?variant=gid://shopify/ProductVariant/46726586269918",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3B402EB6-4E1F-442A-9A03-42CA2D0AE41F.jpg?v=1747637333"
   },
   "gid://shopify/ProductVariant/46259846250718": {
@@ -20308,7 +20281,7 @@
     "variant_title": "Dark Green",
     "sku": "D26025",
     "price": 249.0,
-    "stock": 23,
+    "stock": 22,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26025?variant=gid://shopify/ProductVariant/49152676004062",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6052.jpg?v=1791221213"
   },
@@ -27458,6 +27431,15 @@
     "url": "https://www.daivik.in/products/ad-pendant-pearl-chain-with-earrings?variant=gid://shopify/ProductVariant/44826270990558",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/69C6025C-F323-464D-8D8C-0296C55F15FA.jpg?v=1709036609"
   },
+  "gid://shopify/ProductVariant/44544110330078": {
+    "product_title": "AD Changeable Simple Gold Finish Necklace with Changeable Earrings",
+    "variant_title": "Default Title",
+    "sku": "778",
+    "price": 999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-changeable-simple-gold-finish-necklace-with-changeable-earrings?variant=gid://shopify/ProductVariant/44544110330078",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E41EFCFA-ECDF-419B-AFB2-2CDD4A5CD4C8.jpg?v=1700667803"
+  },
   "gid://shopify/ProductVariant/44546660958430": {
     "product_title": "Traditional Kumkum Box in 4 Variants (Price for Each)",
     "variant_title": "1",
@@ -29204,6 +29186,15 @@
     "url": "https://www.daivik.in/products/1165-reversible?variant=gid://shopify/ProductVariant/46113732591838",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/739E0DC5-37F1-4EA5-B251-F40033D6F4AD.jpg?v=1732877812"
   },
+  "gid://shopify/ProductVariant/46122762535134": {
+    "product_title": "Green Mosanite Antique Bangles",
+    "variant_title": "2.6",
+    "sku": "1517",
+    "price": 799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/green-mosanite-antique-bangles?variant=gid://shopify/ProductVariant/46122762535134",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B73AF57C-F7FC-416E-A3BF-64728EAA8FB2.jpg?v=1733241857"
+  },
   "gid://shopify/ProductVariant/46929456496862": {
     "product_title": "Manasilaayo Manju Warrier Inspired Hasli Necklace set",
     "variant_title": "Ruby",
@@ -29697,6 +29688,15 @@
     "price": 2299.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/elephant-multilayer-pearl-hanging-jhumkas?variant=gid://shopify/ProductVariant/46258868912350",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3B402EB6-4E1F-442A-9A03-42CA2D0AE41F.jpg?v=1747637333"
+  },
+  "gid://shopify/ProductVariant/46726586269918": {
+    "product_title": "Elephant Multilayer Pearl Hanging Jhumkas in two Colors (Price for Each)",
+    "variant_title": "Ruby",
+    "sku": "1555",
+    "price": 2299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/elephant-multilayer-pearl-hanging-jhumkas?variant=gid://shopify/ProductVariant/46726586269918",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3B402EB6-4E1F-442A-9A03-42CA2D0AE41F.jpg?v=1747637333"
   },
   "gid://shopify/ProductVariant/46261310685406": {
