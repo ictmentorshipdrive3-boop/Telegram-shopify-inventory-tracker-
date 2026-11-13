@@ -9697,7 +9697,7 @@
     "variant_title": "Default Title",
     "sku": "1206",
     "price": 1099.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/ad-peacock-ruby-green-choker-with-earrings?variant=gid://shopify/ProductVariant/46254270906590",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CB0F7D4C-70DF-403C-9443-5594681997C6.jpg?v=1738156233"
   },
@@ -11191,7 +11191,7 @@
     "variant_title": "Combo",
     "sku": "687",
     "price": 1799.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/mango-lakshmi-short-and-long-coin-necklace-with-earrings?variant=gid://shopify/ProductVariant/47005411377374",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A61A0EA3-3605-4B14-8EE8-675549E8D3CD.jpg?v=1749569639"
   },
@@ -18809,15 +18809,6 @@
     "url": "https://www.daivik.in/products/untitled-jun22_11-39-48?variant=gid://shopify/ProductVariant/48375886086366",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A51D4055-7BB0-4DD4-8D3F-08086AFF54DF.jpg?v=1782108718"
   },
-  "gid://shopify/ProductVariant/48375886119134": {
-    "product_title": "Diamond Look Alike AD Kada in Two Colors (Price for each)",
-    "variant_title": "Ruby",
-    "sku": "1917",
-    "price": 1499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/untitled-jun22_11-39-48?variant=gid://shopify/ProductVariant/48375886119134",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A51D4055-7BB0-4DD4-8D3F-08086AFF54DF.jpg?v=1782108718"
-  },
   "gid://shopify/ProductVariant/48369095573726": {
     "product_title": "Designer AD Floral Necklace with Earrings",
     "variant_title": "Default Title",
@@ -20830,7 +20821,7 @@
     "variant_title": "Default Title",
     "sku": "D26301",
     "price": 599.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26301?variant=gid://shopify/ProductVariant/49155188162782",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6533.jpg?v=1791377495"
   },
@@ -33784,6 +33775,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/e-2?variant=gid://shopify/ProductVariant/48353947943134",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9224D361-32D9-413E-9459-3CDD5BCDCFE9.jpg?v=1782062295"
+  },
+  "gid://shopify/ProductVariant/48375886119134": {
+    "product_title": "Diamond Look Alike AD Kada in Two Colors (Price for each)",
+    "variant_title": "Ruby",
+    "sku": "1917",
+    "price": 1499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/untitled-jun22_11-39-48?variant=gid://shopify/ProductVariant/48375886119134",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A51D4055-7BB0-4DD4-8D3F-08086AFF54DF.jpg?v=1782108718"
   },
   "gid://shopify/ProductVariant/48447550357726": {
     "product_title": "Invisible Ganesha Chain in Two Colors",
