@@ -83884,7 +83884,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-113-0455",
     "price": 2000.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/vihitha-bullakku-nose-pin?variant=gid://shopify/ProductVariant/49572565483747",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0455.jpg?v=1787320555"
   },
@@ -83902,7 +83902,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-113-0457",
     "price": 2000.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/nithya-bullakku-nose-pin?variant=gid://shopify/ProductVariant/49572572496099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0457.jpg?v=1787320876"
   },
@@ -105322,7 +105322,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16831",
     "price": 25500.0,
-    "stock": 3,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/soulful-kundan-long-earrings?variant=gid://shopify/ProductVariant/67883028480227",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16831.jpg?v=1793515035"
   },
@@ -105340,7 +105340,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16834",
     "price": 17400.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/vithisha-kundan-long-earrings?variant=gid://shopify/ProductVariant/67883034607843",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16834.jpg?v=1793515474"
   },
@@ -105529,7 +105529,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16873",
     "price": 7482.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/ganisha-stone-drops?variant=gid://shopify/ProductVariant/67883838046435",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16873.jpg?v=1793530217"
   },
@@ -109390,7 +109390,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-19419",
     "price": 12600.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/ratnapriya-hasli-necklace?variant=gid://shopify/ProductVariant/68566513156323",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19419.jpg?v=1794567975"
   },
@@ -109573,6 +109573,42 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/classy-nagas-short-necklace?variant=gid://shopify/ProductVariant/68567317217507",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19506.jpg?v=1794573784"
+  },
+  "gid://shopify/ProductVariant/68567336419555": {
+    "product_title": "Classy Look Hasli Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19450",
+    "price": 15700.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/classy-look-hasli-short-necklace?variant=gid://shopify/ProductVariant/68567336419555",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19450.jpg?v=1794574030"
+  },
+  "gid://shopify/ProductVariant/68567343333603": {
+    "product_title": "Elegant Wear Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19512",
+    "price": 25974.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/elegant-wear-nagas-short-necklace?variant=gid://shopify/ProductVariant/68567343333603",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19512.jpg?v=1794574054"
+  },
+  "gid://shopify/ProductVariant/68567368040675": {
+    "product_title": "Raanvikhaa Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19513",
+    "price": 30484.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/raanvikhaa-nagas-short-necklace?variant=gid://shopify/ProductVariant/68567368040675",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19513.jpg?v=1794574323"
+  },
+  "gid://shopify/ProductVariant/68567381639395": {
+    "product_title": "Vinithikaa  Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19514",
+    "price": 36918.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/vinithikaa-nagas-short-necklace?variant=gid://shopify/ProductVariant/68567381639395",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19514.jpg?v=1794574813"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
