@@ -3365,15 +3365,6 @@
     "url": "https://www.daivik.in/products/a-44?variant=gid://shopify/ProductVariant/44131779543262",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_091bb76a-2a60-4347-9eeb-5949c7a4d549.heic?v=1680874629"
   },
-  "gid://shopify/ProductVariant/44136098889950": {
-    "product_title": "Antique Nagasi Kada (for a pair)",
-    "variant_title": "2.4",
-    "sku": "314",
-    "price": 1399.0,
-    "stock": 5,
-    "url": "https://www.daivik.in/products/antique-nagasi-openable-kada-pair-of-2?variant=gid://shopify/ProductVariant/44136098889950",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_577e3b5b-cf1b-4d17-8f90-7746fd642559.heic?v=1681139780"
-  },
   "gid://shopify/ProductVariant/44136098922718": {
     "product_title": "Antique Nagasi Kada (for a pair)",
     "variant_title": "2.6",
@@ -4261,7 +4252,7 @@
     "variant_title": "2.4",
     "sku": "980",
     "price": 2199.0,
-    "stock": 22,
+    "stock": 1,
     "url": "https://www.daivik.in/products/lakshmi-ruby-green-ad-kada?variant=gid://shopify/ProductVariant/44381628235998",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_f15bb346-0580-4f5d-9e06-488318882f92.jpg?v=1696515681"
   },
@@ -4270,7 +4261,7 @@
     "variant_title": "2.6",
     "sku": "980",
     "price": 2199.0,
-    "stock": 29,
+    "stock": 1,
     "url": "https://www.daivik.in/products/lakshmi-ruby-green-ad-kada?variant=gid://shopify/ProductVariant/44381628268766",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_f15bb346-0580-4f5d-9e06-488318882f92.jpg?v=1696515681"
   },
@@ -4279,7 +4270,7 @@
     "variant_title": "2.8",
     "sku": "980",
     "price": 2199.0,
-    "stock": 38,
+    "stock": 1,
     "url": "https://www.daivik.in/products/lakshmi-ruby-green-ad-kada?variant=gid://shopify/ProductVariant/44381628301534",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_f15bb346-0580-4f5d-9e06-488318882f92.jpg?v=1696515681"
   },
@@ -5737,7 +5728,7 @@
     "variant_title": "Default Title",
     "sku": "227",
     "price": 1299.0,
-    "stock": 13,
+    "stock": 12,
     "url": "https://www.daivik.in/products/ruby-green-kemp-choker-with-earrings?variant=gid://shopify/ProductVariant/44913188077790",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9D159F52-02AB-4D3F-915F-5A8818AF4BB4.jpg?v=1710518560"
   },
@@ -5890,7 +5881,7 @@
     "variant_title": "2.4",
     "sku": "542",
     "price": 1099.0,
-    "stock": 8,
+    "stock": 5,
     "url": "https://www.daivik.in/products/lakshmi-ad-rubygreen-bangles?variant=gid://shopify/ProductVariant/45058364440798",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/20F3EC4C-9A6D-47FB-8DC7-060885742334.jpg?v=1712162963"
   },
@@ -5899,7 +5890,7 @@
     "variant_title": "2.6",
     "sku": "542",
     "price": 1099.0,
-    "stock": 3,
+    "stock": 5,
     "url": "https://www.daivik.in/products/lakshmi-ad-rubygreen-bangles?variant=gid://shopify/ProductVariant/45058364473566",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/20F3EC4C-9A6D-47FB-8DC7-060885742334.jpg?v=1712162963"
   },
@@ -5908,7 +5899,7 @@
     "variant_title": "2.8",
     "sku": "542",
     "price": 1099.0,
-    "stock": 32,
+    "stock": 8,
     "url": "https://www.daivik.in/products/lakshmi-ad-rubygreen-bangles?variant=gid://shopify/ProductVariant/45058364506334",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/20F3EC4C-9A6D-47FB-8DC7-060885742334.jpg?v=1712162963"
   },
@@ -26107,6 +26098,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/a-44?variant=gid://shopify/ProductVariant/44131779510494",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_091bb76a-2a60-4347-9eeb-5949c7a4d549.heic?v=1680874629"
+  },
+  "gid://shopify/ProductVariant/44136098889950": {
+    "product_title": "Antique Nagasi Kada (for a pair)",
+    "variant_title": "2.4",
+    "sku": "314",
+    "price": 1399.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/antique-nagasi-openable-kada-pair-of-2?variant=gid://shopify/ProductVariant/44136098889950",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_577e3b5b-cf1b-4d17-8f90-7746fd642559.heic?v=1681139780"
   },
   "gid://shopify/ProductVariant/44142341816542": {
     "product_title": "Agate beads Haram in 2 colours ( price for each )",
