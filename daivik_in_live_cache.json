@@ -4234,7 +4234,7 @@
     "variant_title": "2.6",
     "sku": "73",
     "price": 699.0,
-    "stock": 28,
+    "stock": 27,
     "url": "https://www.daivik.in/products/antique-lakshmi-white-stone-bangles?variant=gid://shopify/ProductVariant/44369095000286",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/77947BBF-DB6F-4632-B632-B2DBC4C85B6D.jpg?v=1696002712"
   },
@@ -9319,7 +9319,7 @@
     "variant_title": "Default Title",
     "sku": "1522",
     "price": 799.0,
-    "stock": 47,
+    "stock": 45,
     "url": "https://www.daivik.in/products/jadau-kemp-lotus-pearl-chain-anklets?variant=gid://shopify/ProductVariant/46152725430494",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/362EB78E-D420-4B06-A79E-4DBCCED82C6A.jpg?v=1734271145"
   },
@@ -12190,7 +12190,7 @@
     "variant_title": "Default Title",
     "sku": "696",
     "price": 2799.0,
-    "stock": 39,
+    "stock": 38,
     "url": "https://www.daivik.in/products/kemp-pearl-ruby-green-necklace?variant=gid://shopify/ProductVariant/47470276247774",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A2B8EDAB-97EA-47E1-8E16-0EF8008A90B3.jpg?v=1756226468"
   },
@@ -17212,7 +17212,7 @@
     "variant_title": "2.6",
     "sku": "1855",
     "price": 1499.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/victorian-spiral-ad-bangles?variant=gid://shopify/ProductVariant/48057312248030",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2039A373-AF0A-428D-8EF3-852A91B74B95.jpg?v=1775198787"
   },
@@ -19552,7 +19552,7 @@
     "variant_title": "Default Title",
     "sku": "316",
     "price": 1499.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/diamond-look-alike-3-layer-flower-neckalace-with-earrings?variant=gid://shopify/ProductVariant/48630564880606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1184.jpg?v=1787466208"
   },
@@ -21221,15 +21221,6 @@
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26383?variant=gid://shopify/ProductVariant/49162135273694",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6746.jpg?v=1791444867"
   },
-  "gid://shopify/ProductVariant/49163418337502": {
-    "product_title": "Mango Kemp Bangles",
-    "variant_title": "2.4",
-    "sku": "1984",
-    "price": 1299.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/mango-kemp-bangles?variant=gid://shopify/ProductVariant/49163418337502",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_2646.jpg?v=1791392348"
-  },
   "gid://shopify/ProductVariant/49163418403038": {
     "product_title": "Mango Kemp Bangles",
     "variant_title": "2.8",
@@ -21415,7 +21406,7 @@
     "variant_title": "Default Title",
     "sku": "D26119",
     "price": 999.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26119?variant=gid://shopify/ProductVariant/49169754587358",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6856.jpg?v=1791457524"
   },
@@ -21982,7 +21973,7 @@
     "variant_title": "2.6",
     "sku": "D26510",
     "price": 649.0,
-    "stock": 38,
+    "stock": 37,
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d26510?variant=gid://shopify/ProductVariant/49178380501214",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70612.jpg?v=1791535669"
   },
@@ -23242,7 +23233,7 @@
     "variant_title": "Default Title",
     "sku": "1036",
     "price": 1399.0,
-    "stock": 56,
+    "stock": 55,
     "url": "https://www.daivik.in/products/white-beads-jali-classic-mala-chain?variant=gid://shopify/ProductVariant/49309334143198",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5119_55cd3324-8c31-412b-96de-0ba5a4eab55f.jpg?v=1793203201"
   },
@@ -35152,6 +35143,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26385?variant=gid://shopify/ProductVariant/49162136453342",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6750.jpg?v=1791444871"
+  },
+  "gid://shopify/ProductVariant/49163418337502": {
+    "product_title": "Mango Kemp Bangles",
+    "variant_title": "2.4",
+    "sku": "1984",
+    "price": 1299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/mango-kemp-bangles?variant=gid://shopify/ProductVariant/49163418337502",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_2646.jpg?v=1791392348"
   },
   "gid://shopify/ProductVariant/49163418370270": {
     "product_title": "Mango Kemp Bangles",
