@@ -1507,7 +1507,7 @@
     "variant_title": "Default Title",
     "sku": "960",
     "price": 1099.0,
-    "stock": 5,
+    "stock": 2,
     "url": "https://www.daivik.in/products/rose-gold-leaf-necklace-with-earrings?variant=gid://shopify/ProductVariant/42098229051614",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_4dc98264-452f-44b1-af51-5e97a11173dc.jpg?v=1637594794"
   },
@@ -1687,7 +1687,7 @@
     "variant_title": "Default Title",
     "sku": "991",
     "price": 3499.0,
-    "stock": 4,
+    "stock": 2,
     "url": "https://www.daivik.in/products/pure-kemp-brass-necklace?variant=gid://shopify/ProductVariant/42319003091166",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_e984317b-89bc-4125-b5de-20587294f825.jpg?v=1641735084"
   },
@@ -20105,15 +20105,6 @@
     "url": "https://www.daivik.in/products/diamond-look-alike-ad-three-line-flower-necklace-with-earrings?variant=gid://shopify/ProductVariant/49139680346334",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_2316.jpg?v=1790862880"
   },
-  "gid://shopify/ProductVariant/49143560929502": {
-    "product_title": "Pure kemp Jadau Short & long Haram",
-    "variant_title": "Default Title",
-    "sku": "1405",
-    "price": 6999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/pure-kemp-jadau-short-long-haram?variant=gid://shopify/ProductVariant/49143560929502",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CA82D750-81D8-4ABB-A050-785FDE0C2AF1.jpg?v=1790941715"
-  },
   "gid://shopify/ProductVariant/49143567089886": {
     "product_title": "Pure kemp Brass Jadau Necklace",
     "variant_title": "Default Title",
@@ -22092,15 +22083,6 @@
     "price": 999.0,
     "stock": 2,
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d26509?variant=gid://shopify/ProductVariant/49178380370142",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70592.jpg?v=1791535657"
-  },
-  "gid://shopify/ProductVariant/49178380402910": {
-    "product_title": "Diwali Sale Bangles D26509",
-    "variant_title": "2.6",
-    "sku": "D26509",
-    "price": 999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-bangles-d26509?variant=gid://shopify/ProductVariant/49178380402910",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70592.jpg?v=1791535657"
   },
   "gid://shopify/ProductVariant/49178380468446": {
@@ -34127,6 +34109,15 @@
     "url": "https://www.daivik.in/products/diamond-look-alike-ad-two-line-floral-necklace-with-earrings?variant=gid://shopify/ProductVariant/49139682083038",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5802.jpg?v=1790874436"
   },
+  "gid://shopify/ProductVariant/49143560929502": {
+    "product_title": "Pure kemp Jadau Short & long Haram",
+    "variant_title": "Default Title",
+    "sku": "1405",
+    "price": 6999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/pure-kemp-jadau-short-long-haram?variant=gid://shopify/ProductVariant/49143560929502",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CA82D750-81D8-4ABB-A050-785FDE0C2AF1.jpg?v=1790941715"
+  },
   "gid://shopify/ProductVariant/49143563256030": {
     "product_title": "Pure kemp Brass Jadau Kasumala",
     "variant_title": "Default Title",
@@ -35728,6 +35719,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d26503?variant=gid://shopify/ProductVariant/49178379813086",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70462.jpg?v=1791535567"
+  },
+  "gid://shopify/ProductVariant/49178380402910": {
+    "product_title": "Diwali Sale Bangles D26509",
+    "variant_title": "2.6",
+    "sku": "D26509",
+    "price": 999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-bangles-d26509?variant=gid://shopify/ProductVariant/49178380402910",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70592.jpg?v=1791535657"
   },
   "gid://shopify/ProductVariant/49178380435678": {
     "product_title": "Diwali Sale Bangles D26509",
