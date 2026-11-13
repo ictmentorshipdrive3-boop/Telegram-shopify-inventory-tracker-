@@ -2308,7 +2308,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R10153",
     "price": 2310.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.rasasilver.com/products/gulabika-ring?variant=gid://shopify/ProductVariant/50635362205993",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-5_90677077-fd14-493f-b304-dd08686baf11.jpg?v=1754311817"
   },
@@ -4570,15 +4570,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/studs-24?variant=gid://shopify/ProductVariant/51350134784297",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS548.jpg?v=1761285388"
-  },
-  "gid://shopify/ProductVariant/51350170468649": {
-    "product_title": "Ruvanya Stone Ring",
-    "variant_title": "Ruby Pink / 12",
-    "sku": "R16060",
-    "price": 2890.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/ring-22?variant=gid://shopify/ProductVariant/51350170468649",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS581.jpg?v=1761283685"
   },
   "gid://shopify/ProductVariant/51353469583657": {
     "product_title": "Roseglint Stud Earrings",
@@ -8432,15 +8423,6 @@
     "url": "https://www.rasasilver.com/products/violet-orb-victorian-ring?variant=gid://shopify/ProductVariant/52333694255401",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0051copy_2.jpg?v=1766994279"
   },
-  "gid://shopify/ProductVariant/52333700153641": {
-    "product_title": "Ivypear Victorian Ring",
-    "variant_title": "Default Title",
-    "sku": "R22044",
-    "price": 3520.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/ivypear-victorian-ring?variant=gid://shopify/ProductVariant/52333700153641",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0041copy_2acc645c-0677-49c6-ab91-8eb8f722f8b2.jpg?v=1766994933"
-  },
   "gid://shopify/ProductVariant/52333734199593": {
     "product_title": "Celest Pear Victorian Ring",
     "variant_title": "Default Title",
@@ -11248,15 +11230,6 @@
     "stock": 2,
     "url": "https://www.rasasilver.com/products/two-layers-antique-mala?variant=gid://shopify/ProductVariant/52668091892009",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4200.jpg?v=1771089792"
-  },
-  "gid://shopify/ProductVariant/52668113486121": {
-    "product_title": "Pink Beaded Antique Mala",
-    "variant_title": "Default Title",
-    "sku": "R24813",
-    "price": 17085.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/pink-beaded-antique-mala?variant=gid://shopify/ProductVariant/52668113486121",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4189.jpg?v=1771089383"
   },
   "gid://shopify/ProductVariant/52668123021609": {
     "product_title": "Panna Beaded Antique Mala",
@@ -26720,6 +26693,15 @@
     "url": "https://www.rasasilver.com/products/ring-22?variant=gid://shopify/ProductVariant/51350170435881",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS581.jpg?v=1761283685"
   },
+  "gid://shopify/ProductVariant/51350170468649": {
+    "product_title": "Ruvanya Stone Ring",
+    "variant_title": "Ruby Pink / 12",
+    "sku": "R16060",
+    "price": 2890.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ring-22?variant=gid://shopify/ProductVariant/51350170468649",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS581.jpg?v=1761283685"
+  },
   "gid://shopify/ProductVariant/52291042574633": {
     "product_title": "Vanklyn Stone Ring",
     "variant_title": "4.7",
@@ -33794,6 +33776,15 @@
     "url": "https://www.rasasilver.com/products/camille-victorian-ring?variant=gid://shopify/ProductVariant/52333672857897",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0034copy.jpg?v=1766994767"
   },
+  "gid://shopify/ProductVariant/52333700153641": {
+    "product_title": "Ivypear Victorian Ring",
+    "variant_title": "Default Title",
+    "sku": "R22044",
+    "price": 3520.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ivypear-victorian-ring?variant=gid://shopify/ProductVariant/52333700153641",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0041copy_2acc645c-0677-49c6-ab91-8eb8f722f8b2.jpg?v=1766994933"
+  },
   "gid://shopify/ProductVariant/52333718274345": {
     "product_title": "Petal court Victorian Ring",
     "variant_title": "Default Title",
@@ -38311,6 +38302,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/antique-beaded-mala?variant=gid://shopify/ProductVariant/52668086419753",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4183.jpg?v=1771090747"
+  },
+  "gid://shopify/ProductVariant/52668113486121": {
+    "product_title": "Pink Beaded Antique Mala",
+    "variant_title": "Default Title",
+    "sku": "R24813",
+    "price": 17085.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/pink-beaded-antique-mala?variant=gid://shopify/ProductVariant/52668113486121",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4189.jpg?v=1771089383"
   },
   "gid://shopify/ProductVariant/52668139471145": {
     "product_title": "Mint-Pearl Antique Mala",
