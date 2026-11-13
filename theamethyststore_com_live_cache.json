@@ -73309,7 +73309,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15498",
     "price": 5800.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/moissanite-studs-5?variant=gid://shopify/ProductVariant/49447209468131",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15498.jpg?v=1784973514"
   },
@@ -86701,7 +86701,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4321",
     "price": 12501.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/graceful-stone-pendant?variant=gid://shopify/ProductVariant/49654603088099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4321.jpg?v=1788268825"
   },
@@ -86935,7 +86935,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15955",
     "price": 4400.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/diamond-design-studs-50?variant=gid://shopify/ProductVariant/49658876035299",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15955.jpg?v=1788328552"
   },
@@ -86989,7 +86989,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15945",
     "price": 9600.0,
-    "stock": 5,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/avikam-jhumkas?variant=gid://shopify/ProductVariant/49658912833763",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15945.jpg?v=1788329564"
   },
@@ -108566,15 +108566,6 @@
     "url": "https://www.theamethyststore.com/products/inventive-diamond-design-studs?variant=gid://shopify/ProductVariant/68532145127651",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16944.jpg?v=1794461879"
   },
-  "gid://shopify/ProductVariant/68532552794339": {
-    "product_title": "Artistic Shine Diamond Design Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-16940",
-    "price": 7000.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/artistic-shine-diamond-design-studs?variant=gid://shopify/ProductVariant/68532552794339",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16940.jpg?v=1794463391"
-  },
   "gid://shopify/ProductVariant/68532945518819": {
     "product_title": "Floral Sage Diamond Design Studs",
     "variant_title": "Default Title",
@@ -108859,7 +108850,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-17010",
     "price": 6600.0,
-    "stock": 3,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/vishikaa-avikam-stud?variant=gid://shopify/ProductVariant/68539128447203",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-17010.jpg?v=1794481776"
   },
@@ -109321,6 +109312,51 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/vibrant-grace-avikam-earrings?variant=gid://shopify/ProductVariant/68550200819939",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-17004.jpg?v=1794546852"
+  },
+  "gid://shopify/ProductVariant/68550375244003": {
+    "product_title": "Sharvani 3D Spl Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19389",
+    "price": 68600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/sharvani-3d-spl-short-necklace?variant=gid://shopify/ProductVariant/68550375244003",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19389.jpg?v=1794547009"
+  },
+  "gid://shopify/ProductVariant/68550789234915": {
+    "product_title": "Harshitha 3D Spl Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19391",
+    "price": 63100.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/harshitha-3d-spl-short-necklace?variant=gid://shopify/ProductVariant/68550789234915",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19391.jpg?v=1794547364"
+  },
+  "gid://shopify/ProductVariant/68550994526435": {
+    "product_title": "Jhanshikaa 3D SPL Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-17064",
+    "price": 41400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/jhanshikaa-3d-spl-jhumkas?variant=gid://shopify/ProductVariant/68550994526435",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-17064.jpg?v=1794547494"
+  },
+  "gid://shopify/ProductVariant/68551059701987": {
+    "product_title": "Mrinalini 3D Spl Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19392",
+    "price": 78800.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/mrinalini-3d-spl-short-necklace?variant=gid://shopify/ProductVariant/68551059701987",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19392.jpg?v=1794547665"
+  },
+  "gid://shopify/ProductVariant/68551237435619": {
+    "product_title": "Vasanthika 3D Spl Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19393",
+    "price": 70300.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/vasanthika-3d-spl-short-necklace?variant=gid://shopify/ProductVariant/68551237435619",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19393.jpg?v=1794547855"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -148917,7 +148953,7 @@
     "product_title": "Navaratna Stone Drops",
     "variant_title": "Default Title",
     "sku": "AMS-106-15184",
-    "price": 6200.0,
+    "price": 6900.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/stone-drops-50?variant=gid://shopify/ProductVariant/49563384152291",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15184.jpg?v=1787221363"
@@ -155203,5 +155239,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/shiv-parvathi-3d-spl-pendant?variant=gid://shopify/ProductVariant/67937852915939",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5686.jpg?v=1793707329"
+  },
+  "gid://shopify/ProductVariant/68532552794339": {
+    "product_title": "Artistic Shine Diamond Design Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16940",
+    "price": 7000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/artistic-shine-diamond-design-studs?variant=gid://shopify/ProductVariant/68532552794339",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16940.jpg?v=1794463391"
   }
 }
