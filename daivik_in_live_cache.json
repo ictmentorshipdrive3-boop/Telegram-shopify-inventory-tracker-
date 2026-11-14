@@ -2978,15 +2978,6 @@
     "url": "https://www.daivik.in/products/a-222?variant=gid://shopify/ProductVariant/43772955164894",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_e1a33571-a61b-4016-a0d1-418e9e209b34.heic?v=1671371509"
   },
-  "gid://shopify/ProductVariant/43784807907550": {
-    "product_title": "Victorian zirconium Necklace with studs in 2 colours",
-    "variant_title": "Green",
-    "sku": "76",
-    "price": 10399.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/victorian-zirconium-necklace-with-studs?variant=gid://shopify/ProductVariant/43784807907550",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_f774f013-08b6-41ab-82a1-e58c2c07520d.jpg?v=1671545668"
-  },
   "gid://shopify/ProductVariant/43814890602718": {
     "product_title": "Pure Kemp Brass Lakshmi Necklace with earrings",
     "variant_title": "Default Title",
@@ -15700,7 +15691,7 @@
     "variant_title": "Default Title",
     "sku": "3522",
     "price": 799.0,
-    "stock": 25,
+    "stock": 24,
     "url": "https://www.daivik.in/products/elegant-bloomed-jasmine-flower-artificial-gajra-4-inch?variant=gid://shopify/ProductVariant/47787814158558",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0556.jpg?v=1766940048"
   },
@@ -18265,7 +18256,7 @@
     "variant_title": "3",
     "sku": "3539",
     "price": 499.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/handmade-lotus-flower-u-pin?variant=gid://shopify/ProductVariant/48294879264990",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6541_901f273f-d515-4509-8c32-1781f48291b7.jpg?v=1780223307"
   },
@@ -20479,7 +20470,7 @@
     "variant_title": "Default Title",
     "sku": "D26065",
     "price": 2499.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26065?variant=gid://shopify/ProductVariant/49149626646750",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6416_fe101725-0615-4262-a234-ed8781f7b3f8.jpg?v=1791223201"
   },
@@ -20515,7 +20506,7 @@
     "variant_title": "Default Title",
     "sku": "D26071",
     "price": 1799.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26071?variant=gid://shopify/ProductVariant/49149626843358",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6434.jpg?v=1791223509"
   },
@@ -22288,7 +22279,7 @@
     "variant_title": "Default Title",
     "sku": "D26602",
     "price": 299.0,
-    "stock": 23,
+    "stock": 22,
     "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26602?variant=gid://shopify/ProductVariant/49178382139614",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7156.jpg?v=1791537209"
   },
@@ -23080,7 +23071,7 @@
     "variant_title": "Default Title",
     "sku": "1999",
     "price": 1199.0,
-    "stock": 42,
+    "stock": 41,
     "url": "https://www.daivik.in/products/nithiyamalli-jathi-mottu-x-suriyan-kemp-artificial-flower-hair-accessory?variant=gid://shopify/ProductVariant/49262201536734",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7958.jpg?v=1792597763"
   },
@@ -23089,7 +23080,7 @@
     "variant_title": "Default Title",
     "sku": "2000",
     "price": 1399.0,
-    "stock": 30,
+    "stock": 29,
     "url": "https://www.daivik.in/products/jathi-mottu-malli-x-lakshmi-jadabilla-artificial-flower-hair-accessory?variant=gid://shopify/ProductVariant/49262208581854",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7956.jpg?v=1792598013"
   },
@@ -25756,6 +25747,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/a-277?variant=gid://shopify/ProductVariant/43772970107102",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_b39cabde-de04-43d6-8d67-460cff0f1ca2.heic?v=1671371759"
+  },
+  "gid://shopify/ProductVariant/43784807907550": {
+    "product_title": "Victorian zirconium Necklace with studs in 2 colours",
+    "variant_title": "Green",
+    "sku": "76",
+    "price": 10399.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/victorian-zirconium-necklace-with-studs?variant=gid://shopify/ProductVariant/43784807907550",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_f774f013-08b6-41ab-82a1-e58c2c07520d.jpg?v=1671545668"
   },
   "gid://shopify/ProductVariant/44033957298398": {
     "product_title": "Victorian zirconium Necklace with studs in 2 colours",
