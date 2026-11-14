@@ -4508,15 +4508,6 @@
     "url": "https://www.dulhanjewels.com/products/mango-design-jadau-kundan-stud-earrings?variant=gid://shopify/ProductVariant/67902903583026",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/40DBD573-36CE-497B-9E4C-558DF755818A.jpg?v=1791034347"
   },
-  "gid://shopify/ProductVariant/67902957322546": {
-    "product_title": "Reversible Gandaberunda Jadau Kundan Pendant",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2850.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/reversible-gandaberunda-jadau-kundan-pendant?variant=gid://shopify/ProductVariant/67902957322546",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/AF75C077-3496-46EF-B87C-DDA2B093C17C.jpg?v=1791033629"
-  },
   "gid://shopify/ProductVariant/67902976590130": {
     "product_title": "Gold Look Jadau Kundan Necklace With Drops",
     "variant_title": "Default Title",
@@ -5084,15 +5075,6 @@
     "url": "https://www.dulhanjewels.com/products/traditional-moissanite-polki-mango-haram-with-strawberry?variant=gid://shopify/ProductVariant/68114529911090",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4326.jpg?v=1793439886"
   },
-  "gid://shopify/ProductVariant/68114530828594": {
-    "product_title": "Regal Jadau Kundan Kasulu Haram With Hangings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 4650.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/regal-jadau-kundan-kasulu-haram-with-hangings?variant=gid://shopify/ProductVariant/68114530828594",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4328.jpg?v=1793440024"
-  },
   "gid://shopify/ProductVariant/68299029414194": {
     "product_title": "Reversible 2 in 1 Jadau Kundan Mango Necklace With Strawberry Beads",
     "variant_title": "Default Title",
@@ -5471,6 +5453,15 @@
     "url": "https://www.dulhanjewels.com/products/traditional-jadau-kundan-earcuff-with-hangings?variant=gid://shopify/ProductVariant/67589658706226",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-1333.jpg?v=1790419484"
   },
+  "gid://shopify/ProductVariant/67902957322546": {
+    "product_title": "Reversible Gandaberunda Jadau Kundan Pendant",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2850.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/reversible-gandaberunda-jadau-kundan-pendant?variant=gid://shopify/ProductVariant/67902957322546",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/AF75C077-3496-46EF-B87C-DDA2B093C17C.jpg?v=1791033629"
+  },
   "gid://shopify/ProductVariant/67902958895410": {
     "product_title": "Minimal Jadau Kundan Hasli With Peacock Design",
     "variant_title": "Default Title",
@@ -5533,5 +5524,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/temple-style-jadau-kundan-double-layer-necklace-with-laxmi-devi-pendant?variant=gid://shopify/ProductVariant/68114504089906",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4316.jpg?v=1793438303"
+  },
+  "gid://shopify/ProductVariant/68114530828594": {
+    "product_title": "Regal Jadau Kundan Kasulu Haram With Hangings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 4650.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/regal-jadau-kundan-kasulu-haram-with-hangings?variant=gid://shopify/ProductVariant/68114530828594",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4328.jpg?v=1793440024"
   }
 }
