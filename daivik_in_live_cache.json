@@ -3901,7 +3901,7 @@
     "variant_title": "Default Title",
     "sku": "237",
     "price": 599.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/navrathna-studs?variant=gid://shopify/ProductVariant/44284788474078",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_574b5078-097b-4908-9d9b-53db6d755c91.heic?v=1690385655"
   },
@@ -9283,7 +9283,7 @@
     "variant_title": "Default Title",
     "sku": "1522",
     "price": 799.0,
-    "stock": 44,
+    "stock": 43,
     "url": "https://www.daivik.in/products/jadau-kemp-lotus-pearl-chain-anklets?variant=gid://shopify/ProductVariant/46152725430494",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/362EB78E-D420-4B06-A79E-4DBCCED82C6A.jpg?v=1734271145"
   },
@@ -11182,7 +11182,7 @@
     "variant_title": "White",
     "sku": "1619",
     "price": 1799.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/ad-multi-layered-big-balis-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/47018651123934",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AE3F6C15-E9A3-4326-9619-2EACCAB855B5.jpg?v=1750138385"
   },
@@ -12129,15 +12129,6 @@
     "price": 6499.0,
     "stock": 1,
     "url": "https://www.daivik.in/products/floral-guttapusalu-short-and-long-necklace-with-earrings-prices-for-combo-short-long?variant=gid://shopify/ProductVariant/47467933139166",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EC33CA76-49ED-4B95-BA5F-F9FA6321FE7A.jpg?v=1756132847"
-  },
-  "gid://shopify/ProductVariant/47467933171934": {
-    "product_title": "Floral Guttapusalu Short and Long Necklace with Earrings (Prices for Combo, Short & Long)",
-    "variant_title": "Short",
-    "sku": "637",
-    "price": 2599.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/floral-guttapusalu-short-and-long-necklace-with-earrings-prices-for-combo-short-long?variant=gid://shopify/ProductVariant/47467933171934",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EC33CA76-49ED-4B95-BA5F-F9FA6321FE7A.jpg?v=1756132847"
   },
   "gid://shopify/ProductVariant/47467933204702": {
@@ -31219,6 +31210,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/traditional-free-size-finger-rings?variant=gid://shopify/ProductVariant/47467760484574",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/786545B4-4868-432B-8640-9A4168BF652A.jpg?v=1756121687"
+  },
+  "gid://shopify/ProductVariant/47467933171934": {
+    "product_title": "Floral Guttapusalu Short and Long Necklace with Earrings (Prices for Combo, Short & Long)",
+    "variant_title": "Short",
+    "sku": "637",
+    "price": 2599.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/floral-guttapusalu-short-and-long-necklace-with-earrings-prices-for-combo-short-long?variant=gid://shopify/ProductVariant/47467933171934",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EC33CA76-49ED-4B95-BA5F-F9FA6321FE7A.jpg?v=1756132847"
   },
   "gid://shopify/ProductVariant/47471681732830": {
     "product_title": "AD Flower Layer Jhumkas",
