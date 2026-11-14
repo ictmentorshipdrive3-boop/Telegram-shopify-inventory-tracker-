@@ -8671,7 +8671,7 @@
     "variant_title": "Ruby",
     "sku": "1509",
     "price": 899.0,
-    "stock": 13,
+    "stock": 12,
     "url": "https://www.daivik.in/products/untitled-nov6_21-01?variant=gid://shopify/ProductVariant/46015087608030",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6150E15F-1268-4A99-B95C-EBECBF4DBD44.jpg?v=1730964493"
   },
@@ -16069,7 +16069,7 @@
     "variant_title": "Default Title",
     "sku": "941",
     "price": 1099.0,
-    "stock": 15,
+    "stock": 14,
     "url": "https://www.daivik.in/products/adults-kids-peacock-pendant-choker-with-earrings?variant=gid://shopify/ProductVariant/47864510644446",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/73D648A1-7323-42C8-B987-0483534F1836.jpg?v=1769616072"
   },
@@ -21418,15 +21418,6 @@
     "stock": 14,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26131?variant=gid://shopify/ProductVariant/49169764188382",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6904.jpg?v=1791468372"
-  },
-  "gid://shopify/ProductVariant/49169764876510": {
-    "product_title": "Diwali Sale Necklace D26133",
-    "variant_title": "Default Title",
-    "sku": "D26133",
-    "price": 2499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26133?variant=gid://shopify/ProductVariant/49169764876510",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_69102.jpg?v=1791468387"
   },
   "gid://shopify/ProductVariant/49169764909278": {
     "product_title": "Diwali Sale Necklace D26134",
@@ -35396,6 +35387,15 @@
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26132?variant=gid://shopify/ProductVariant/49169764843742",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6907.jpg?v=1791468377"
   },
+  "gid://shopify/ProductVariant/49169764876510": {
+    "product_title": "Diwali Sale Necklace D26133",
+    "variant_title": "Default Title",
+    "sku": "D26133",
+    "price": 2499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26133?variant=gid://shopify/ProductVariant/49169764876510",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_69102.jpg?v=1791468387"
+  },
   "gid://shopify/ProductVariant/49169765564638": {
     "product_title": "Diwali Sale Necklace D26135",
     "variant_title": "Default Title",
@@ -36322,5 +36322,14 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/untitled-oct24_09-41-32?variant=gid://shopify/ProductVariant/49275793932510",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4BD7C784-014B-41FA-9BD4-54980C153E51.jpg?v=1792840599"
+  },
+  "gid://shopify/ProductVariant/49444262543582": {
+    "product_title": "Antique Temple Lakshmi Rice Pearl Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 0.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/antique-temple-lakshmi-rice-pearl-necklace-with-earrings?variant=gid://shopify/ProductVariant/49444262543582",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/library-89A13AC9-C1EA-4A49-BCC6-A35300F00667-L0-001.jpg?v=1794672457"
   }
 }
