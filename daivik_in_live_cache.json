@@ -14507,15 +14507,6 @@
     "url": "https://www.daivik.in/products/bangles?variant=gid://shopify/ProductVariant/47563610652894",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AF0E2B11-3791-45CB-B33F-CDFCECACD6F0.jpg?v=1758905092"
   },
-  "gid://shopify/ProductVariant/47564482576606": {
-    "product_title": "AD Designer Openable Kada",
-    "variant_title": "Default Title",
-    "sku": "1700",
-    "price": 499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-designer-openable-kada?variant=gid://shopify/ProductVariant/47564482576606",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F6B8DA98-BEC0-4D00-A394-F6DC0A6DC9CF.jpg?v=1758971638"
-  },
   "gid://shopify/ProductVariant/47564628558046": {
     "product_title": "AD Pearl Mala Set with Earrings in Two Colors (Price for Each)",
     "variant_title": "Ruby",
@@ -22477,7 +22468,7 @@
     "variant_title": "Ruby",
     "sku": "D26624",
     "price": 399.0,
-    "stock": 13,
+    "stock": 12,
     "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26624?variant=gid://shopify/ProductVariant/49178383024350",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7209.jpg?v=1791537410"
   },
@@ -23377,7 +23368,7 @@
     "variant_title": "Default Title",
     "sku": "2015",
     "price": 499.0,
-    "stock": 53,
+    "stock": 52,
     "url": "https://www.daivik.in/products/ad-droplet-earrings?variant=gid://shopify/ProductVariant/49428003848414",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/library-BC294F45-13B3-4C08-8361-0016035795E5-L0-001.jpg?v=1794500826"
   },
@@ -32011,6 +32002,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/bangles?variant=gid://shopify/ProductVariant/47563610685662",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AF0E2B11-3791-45CB-B33F-CDFCECACD6F0.jpg?v=1758905092"
+  },
+  "gid://shopify/ProductVariant/47564482576606": {
+    "product_title": "AD Designer Openable Kada",
+    "variant_title": "Default Title",
+    "sku": "1700",
+    "price": 499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-designer-openable-kada?variant=gid://shopify/ProductVariant/47564482576606",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F6B8DA98-BEC0-4D00-A394-F6DC0A6DC9CF.jpg?v=1758971638"
   },
   "gid://shopify/ProductVariant/47564628525278": {
     "product_title": "AD Pearl Mala Set with Earrings in Two Colors (Price for Each)",
