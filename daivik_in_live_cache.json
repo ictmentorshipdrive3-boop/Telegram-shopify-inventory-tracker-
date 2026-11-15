@@ -292,7 +292,7 @@
     "variant_title": "Default Title",
     "sku": "280",
     "price": 1999.0,
-    "stock": 34,
+    "stock": 33,
     "url": "https://www.daivik.in/products/two-layered-coin-lakshmi-short-haram?variant=gid://shopify/ProductVariant/34623538888857",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/two-layered-coin-lakshmi-short-haram-neckwearnecklace-491.jpg?v=1594481501"
   },
@@ -5953,7 +5953,7 @@
     "variant_title": "Default Title",
     "sku": "840",
     "price": 1599.0,
-    "stock": 25,
+    "stock": 24,
     "url": "https://www.daivik.in/products/ad-pendant-long-chain-with-earrings?variant=gid://shopify/ProductVariant/45167765881054",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/58434AA7-CE46-4464-82BC-A7E246516ADA.jpg?v=1713105126"
   },
@@ -6853,7 +6853,7 @@
     "variant_title": "Ruby",
     "sku": "190",
     "price": 1799.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/victorian-ad-necklace-with-earrings-in-two-colors?variant=gid://shopify/ProductVariant/45910584525022",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/713D1097-1FE7-4DC7-9208-2A4FEBA4689A.jpg?v=1722165269"
   },
@@ -9607,7 +9607,7 @@
     "variant_title": "Default Title",
     "sku": "1206",
     "price": 1099.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/ad-peacock-ruby-green-choker-with-earrings?variant=gid://shopify/ProductVariant/46254270906590",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CB0F7D4C-70DF-403C-9443-5594681997C6.jpg?v=1738156233"
   },
@@ -9769,7 +9769,7 @@
     "variant_title": "Default Title",
     "sku": "1221",
     "price": 999.0,
-    "stock": 55,
+    "stock": 54,
     "url": "https://www.daivik.in/products/kemp-pastel-beads-necklace-with-earrings?variant=gid://shopify/ProductVariant/46297625559262",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B4A933D6-C07F-435B-B139-0299246BAA64.jpg?v=1790318797"
   },
@@ -10939,7 +10939,7 @@
     "variant_title": "Ruby",
     "sku": "1270",
     "price": 1099.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.daivik.in/products/peacock-lakshmi-long-chain-with-jhumkas?variant=gid://shopify/ProductVariant/46838455337182",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BF72B86F-354C-4C76-89BC-326D9C2E6F73.jpg?v=1748275651"
   },
@@ -15226,15 +15226,6 @@
     "stock": 5,
     "url": "https://www.daivik.in/products/traditional-hair-bun-in-4-styles-price-for-each?variant=gid://shopify/ProductVariant/47698857197790",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/rn-image_picker_lib_temp_4c05230c-0665-4524-a5e7-9d5ab8146716.jpg?v=1763630686"
-  },
-  "gid://shopify/ProductVariant/47703677010142": {
-    "product_title": "Green and Golden Beads Lakshmi Coin Mala with Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "567",
-    "price": 2799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/green-and-golden-beads-lakshmi-coin-mala-with-jhumkas?variant=gid://shopify/ProductVariant/47703677010142",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7645.heic?v=1763816192"
   },
   "gid://shopify/ProductVariant/47706493944030": {
     "product_title": "Pure Kemp Brass AD Choker with Balis",
@@ -21307,7 +21298,7 @@
     "variant_title": "Default Title",
     "sku": "D26119",
     "price": 999.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26119?variant=gid://shopify/ProductVariant/49169754587358",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6856.jpg?v=1791457524"
   },
@@ -32317,6 +32308,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-golden-beads-jhumkas-with-ghungroo-mattal?variant=gid://shopify/ProductVariant/47701516320990",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3BE60E17-4341-42AE-8E9B-766BB2263845.jpg?v=1763732738"
+  },
+  "gid://shopify/ProductVariant/47703677010142": {
+    "product_title": "Green and Golden Beads Lakshmi Coin Mala with Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "567",
+    "price": 2799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/green-and-golden-beads-lakshmi-coin-mala-with-jhumkas?variant=gid://shopify/ProductVariant/47703677010142",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7645.heic?v=1763816192"
   },
   "gid://shopify/ProductVariant/47715993616606": {
     "product_title": "AD Ruby Green Stone Bangles",
