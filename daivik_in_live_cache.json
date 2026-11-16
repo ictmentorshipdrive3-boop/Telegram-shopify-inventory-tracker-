@@ -1462,7 +1462,7 @@
     "variant_title": "2.4",
     "sku": "951",
     "price": 999.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/white-stone-bangles-4-bangles?variant=gid://shopify/ProductVariant/42060601163998",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_2a6687dc-c1be-4dfd-9d83-e59b62d8f05f.jpg?v=1636992035"
   },
@@ -1663,15 +1663,6 @@
     "stock": 7,
     "url": "https://www.daivik.in/products/set-of-6-kemp-ad-bangles?variant=gid://shopify/ProductVariant/42314254450910",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_02674945-7b6e-4236-9806-2024c9320bd6.jpg?v=1641656256"
-  },
-  "gid://shopify/ProductVariant/42319003091166": {
-    "product_title": "Pure Kemp Brass Necklace",
-    "variant_title": "Default Title",
-    "sku": "991",
-    "price": 3499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/pure-kemp-brass-necklace?variant=gid://shopify/ProductVariant/42319003091166",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_e984317b-89bc-4125-b5de-20587294f825.jpg?v=1641735084"
   },
   "gid://shopify/ProductVariant/42324428947678": {
     "product_title": "Rosegold Circle Necklace with Earrings",
@@ -23080,7 +23071,7 @@
     "variant_title": "Default Title",
     "sku": "2015",
     "price": 499.0,
-    "stock": 30,
+    "stock": 29,
     "url": "https://www.daivik.in/products/ad-droplet-earrings?variant=gid://shopify/ProductVariant/49428003848414",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/library-BC294F45-13B3-4C08-8361-0016035795E5-L0-001.jpg?v=1794500826"
   },
@@ -23884,6 +23875,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/set-of-6-kemp-ad-bangles?variant=gid://shopify/ProductVariant/42314254418142",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_02674945-7b6e-4236-9806-2024c9320bd6.jpg?v=1641656256"
+  },
+  "gid://shopify/ProductVariant/42319003091166": {
+    "product_title": "Pure Kemp Brass Necklace",
+    "variant_title": "Default Title",
+    "sku": "991",
+    "price": 3499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/pure-kemp-brass-necklace?variant=gid://shopify/ProductVariant/42319003091166",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_e984317b-89bc-4125-b5de-20587294f825.jpg?v=1641735084"
   },
   "gid://shopify/ProductVariant/42328076943582": {
     "product_title": "Pure premium Kemp Brass Jhumkas",
