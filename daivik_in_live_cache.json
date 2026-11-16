@@ -1399,7 +1399,7 @@
     "variant_title": "Default Title",
     "sku": "921",
     "price": 1199.0,
-    "stock": 44,
+    "stock": 43,
     "url": "https://www.daivik.in/products/ad-star-balis?variant=gid://shopify/ProductVariant/41410536079513",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_5f42795d-5631-4d3f-9714-d331e7d47ca2.jpg?v=1635167209"
   },
@@ -9274,7 +9274,7 @@
     "variant_title": "Default Title",
     "sku": "1520",
     "price": 699.0,
-    "stock": 51,
+    "stock": 50,
     "url": "https://www.daivik.in/products/simple-ring-leaf-earrings?variant=gid://shopify/ProductVariant/46159320842462",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/674BC8EE-9A64-479C-A77F-9AC701DAFC85.jpg?v=1734447948"
   },
@@ -18130,7 +18130,7 @@
     "variant_title": "Default Title",
     "sku": "1899",
     "price": 599.0,
-    "stock": 24,
+    "stock": 23,
     "url": "https://www.daivik.in/products/ad-temple-style-lakshmi-earrings?variant=gid://shopify/ProductVariant/48292121084126",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG-0962.jpg?v=1780140382"
   },
@@ -19417,7 +19417,7 @@
     "variant_title": "Default Title",
     "sku": "316",
     "price": 1499.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/diamond-look-alike-3-layer-flower-neckalace-with-earrings?variant=gid://shopify/ProductVariant/48630564880606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1184.jpg?v=1787466208"
   },
@@ -20758,7 +20758,7 @@
     "variant_title": "Default Title",
     "sku": "D26344",
     "price": 449.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26344?variant=gid://shopify/ProductVariant/49162124624094",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6638.jpg?v=1791443952"
   },
@@ -22795,15 +22795,6 @@
     "stock": 3,
     "url": "https://www.daivik.in/products/hipchain-1?variant=gid://shopify/ProductVariant/49219097985246",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D85958B3-3275-41B8-AC90-AF79E87173B9.jpg?v=1792079728"
-  },
-  "gid://shopify/ProductVariant/49230125564126": {
-    "product_title": "AD Ruby Green Balis",
-    "variant_title": "Default Title",
-    "sku": "1994",
-    "price": 799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-ruby-green-balis?variant=gid://shopify/ProductVariant/49230125564126",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3922.heic?v=1792254792"
   },
   "gid://shopify/ProductVariant/49262188462302": {
     "product_title": "Nithiyamalli Jathi Mottu minimal X Chandiran Kemp Artificial Flower Hair Accessory",
@@ -36232,6 +36223,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26395?variant=gid://shopify/ProductVariant/49183624298718",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7352.jpg?v=1791627002"
+  },
+  "gid://shopify/ProductVariant/49230125564126": {
+    "product_title": "AD Ruby Green Balis",
+    "variant_title": "Default Title",
+    "sku": "1994",
+    "price": 799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-ruby-green-balis?variant=gid://shopify/ProductVariant/49230125564126",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3922.heic?v=1792254792"
   },
   "gid://shopify/ProductVariant/49230129037534": {
     "product_title": "Hydrodoublet Small Balis",
