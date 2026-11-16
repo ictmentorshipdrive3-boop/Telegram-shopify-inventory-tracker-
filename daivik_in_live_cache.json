@@ -94,7 +94,7 @@
     "variant_title": "Default Title",
     "sku": "84",
     "price": 1799.0,
-    "stock": 15,
+    "stock": 14,
     "url": "https://www.daivik.in/products/84?variant=gid://shopify/ProductVariant/32623635398715",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_7793.jpg?v=1583856367"
   },
@@ -2338,15 +2338,6 @@
     "stock": 16,
     "url": "https://www.daivik.in/products/a-209?variant=gid://shopify/ProductVariant/43108876452062",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_6e6bd1f7-b14e-413c-bc1f-323c2dd4c01e.heic?v=1657809950"
-  },
-  "gid://shopify/ProductVariant/43129743048926": {
-    "product_title": "Antique Gold Lakshmi Necklace with earrings",
-    "variant_title": "Default Title",
-    "sku": "53",
-    "price": 2399.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/a-211?variant=gid://shopify/ProductVariant/43129743048926",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_36402041-88c3-453c-8e72-46f1b372d11c.heic?v=1658070019"
   },
   "gid://shopify/ProductVariant/43157328003294": {
     "product_title": "AD Kemp Pearl Choker with earring",
@@ -8437,7 +8428,7 @@
     "variant_title": "Default Title",
     "sku": "1508",
     "price": 1499.0,
-    "stock": 40,
+    "stock": 39,
     "url": "https://www.daivik.in/products/premium-ad-mattal?variant=gid://shopify/ProductVariant/45974972793054",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7184C6A1-C3DA-44CC-A1C8-A4F0542CB634.jpg?v=1729613139"
   },
@@ -10660,7 +10651,7 @@
     "variant_title": "Green",
     "sku": "1255",
     "price": 1199.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/ad-elephant-choker-with-earrings-in-two-colors?variant=gid://shopify/ProductVariant/46648538398942",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3D767861-FBDC-45A0-B791-84EAF7E9C6F1.jpg?v=1745940643"
   },
@@ -14980,7 +14971,7 @@
     "variant_title": "Baby pink",
     "sku": "1335",
     "price": 649.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/ad-mesh-necklace-with-studs-in-5-colours-price-for-each?variant=gid://shopify/ProductVariant/47669942091998",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D2F649D9-0CC0-47ED-8F54-DCF4D0222297.jpg?v=1762878208"
   },
@@ -24856,6 +24847,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/a-191?variant=gid://shopify/ProductVariant/43057984766174",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_014333bf-5512-4445-8d6f-96beecf8fbe8.heic?v=1656950058"
+  },
+  "gid://shopify/ProductVariant/43129743048926": {
+    "product_title": "Antique Gold Lakshmi Necklace with earrings",
+    "variant_title": "Default Title",
+    "sku": "53",
+    "price": 2399.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/a-211?variant=gid://shopify/ProductVariant/43129743048926",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_36402041-88c3-453c-8e72-46f1b372d11c.heic?v=1658070019"
   },
   "gid://shopify/ProductVariant/43145567174878": {
     "product_title": "Kemp Guttaspusalu Combo in 3 colours",
