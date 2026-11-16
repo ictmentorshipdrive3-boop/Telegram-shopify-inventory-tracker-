@@ -79420,7 +79420,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4915",
     "price": 10340.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/shinning-kundan-pendant-3?variant=gid://shopify/ProductVariant/49542387466467",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4915.jpg?v=1786862627"
   },
@@ -103013,15 +103013,6 @@
     "url": "https://www.theamethyststore.com/products/vibrant?variant=gid://shopify/ProductVariant/67879215825123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-1012-SURAJ.jpg?v=1793444419"
   },
-  "gid://shopify/ProductVariant/67879218315491": {
-    "product_title": "Trendy Nagas Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-18896",
-    "price": 36435.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/trendy-nagas-long-necklace?variant=gid://shopify/ProductVariant/67879218315491",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18896.jpg?v=1793444265"
-  },
   "gid://shopify/ProductVariant/67879224574179": {
     "product_title": "Spectrum Splendour Victorian Short Necklace Set",
     "variant_title": "Default Title",
@@ -108727,6 +108718,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/vinthirisha-stone-pendant?variant=gid://shopify/ProductVariant/68627614990563",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5603.jpg?v=1794822442"
+  },
+  "gid://shopify/ProductVariant/68628628898019": {
+    "product_title": "Regal Tusks Victorian Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5749",
+    "price": 43700.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/regal-tusks-victorian-pendant-set?variant=gid://shopify/ProductVariant/68628628898019",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5749.jpg?v=1794823066"
   },
   "gid://shopify/ProductVariant/68628808958179": {
     "product_title": "Twinkle Charm Stone Pendant",
@@ -156382,6 +156382,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/vividly-radiant-kundan-vanki?variant=gid://shopify/ProductVariant/67877684281571",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-1019.jpg?v=1793434172"
+  },
+  "gid://shopify/ProductVariant/67879218315491": {
+    "product_title": "Trendy Nagas Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18896",
+    "price": 36435.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/trendy-nagas-long-necklace?variant=gid://shopify/ProductVariant/67879218315491",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18896.jpg?v=1793444265"
   },
   "gid://shopify/ProductVariant/67879371833571": {
     "product_title": "Rakitha Nagas Short Necklace",
