@@ -54769,7 +54769,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-15108",
     "price": 24600.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/pavisha-attigai-necklace?variant=gid://shopify/ProductVariant/48423930036451",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15108-_2.jpg?v=1773064210"
   },
@@ -76129,15 +76129,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/kundan-jada-billa-20?variant=gid://shopify/ProductVariant/49508969578723",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0947.jpg?v=1786108671"
-  },
-  "gid://shopify/ProductVariant/49509090656483": {
-    "product_title": "Shishkaa Nagas Jada Billa",
-    "variant_title": "Default Title",
-    "sku": "AMS-112-0958",
-    "price": 13390.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nagas-jada-billa?variant=gid://shopify/ProductVariant/49509090656483",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0958.jpg?v=1786112163"
   },
   "gid://shopify/ProductVariant/49509091442915": {
     "product_title": "Ashvikaa Nagas Jada Billa",
@@ -147346,6 +147337,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/kundan-jada-billa-22?variant=gid://shopify/ProductVariant/49508997595363",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0957.jpg?v=1786108954"
+  },
+  "gid://shopify/ProductVariant/49509090656483": {
+    "product_title": "Shishkaa Nagas Jada Billa",
+    "variant_title": "Default Title",
+    "sku": "AMS-112-0958",
+    "price": 13390.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nagas-jada-billa?variant=gid://shopify/ProductVariant/49509090656483",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0958.jpg?v=1786112163"
   },
   "gid://shopify/ProductVariant/49514178838755": {
     "product_title": "Renisha Diamond Design Pendant",
