@@ -3109,7 +3109,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-0584",
     "price": 21700.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/shavya-maangtikka?variant=gid://shopify/ProductVariant/43607140663523",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/DSC08160.jpg?v=1729920941"
   },
@@ -7333,15 +7333,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/samaira-necklace-set?variant=gid://shopify/ProductVariant/44562121228515",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5728.jpg?v=1710844432"
-  },
-  "gid://shopify/ProductVariant/44581534957795": {
-    "product_title": "Saavi Victorian Choker",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-5760",
-    "price": 67400.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/saavi-victorian-choker?variant=gid://shopify/ProductVariant/44581534957795",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5760-_2_1ad7b76d-be87-4473-8b32-1a4831893316.jpg?v=1737211657"
   },
   "gid://shopify/ProductVariant/44581620777187": {
     "product_title": "Depanita Victorian Oddiyanam",
@@ -108593,15 +108584,6 @@
     "url": "https://www.theamethyststore.com/products/chromatic-charm-moissanite-short-necklace-set?variant=gid://shopify/ProductVariant/68619166679267",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19259.jpg?v=1794814143"
   },
-  "gid://shopify/ProductVariant/68619267440867": {
-    "product_title": "Nivetha Victorian Earings",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-7933-Earings",
-    "price": 29500.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nivetha-victorian-earings?variant=gid://shopify/ProductVariant/68619267440867",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7933-_3.jpg?v=1734951559"
-  },
   "gid://shopify/ProductVariant/68619310629091": {
     "product_title": "Floral Stone Pendant",
     "variant_title": "Default Title",
@@ -111589,6 +111571,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/pahal-long-earrings?variant=gid://shopify/ProductVariant/44543046713571",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5593.jpg?v=1710502781"
+  },
+  "gid://shopify/ProductVariant/44581534957795": {
+    "product_title": "Saavi Victorian Choker",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-5760",
+    "price": 67400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/saavi-victorian-choker?variant=gid://shopify/ProductVariant/44581534957795",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5760-_2_1ad7b76d-be87-4473-8b32-1a4831893316.jpg?v=1737211657"
   },
   "gid://shopify/ProductVariant/44603149648099": {
     "product_title": "Nadhisi Long Earrings",
@@ -156742,5 +156733,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/graceful-flow-nagas-jhumkas?variant=gid://shopify/ProductVariant/68584420933859",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-17044.jpg?v=1794656484"
+  },
+  "gid://shopify/ProductVariant/68619267440867": {
+    "product_title": "Nivetha Victorian Earings",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-7933-Earings",
+    "price": 29500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nivetha-victorian-earings?variant=gid://shopify/ProductVariant/68619267440867",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7933-_3.jpg?v=1734951559"
   }
 }
