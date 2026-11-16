@@ -38209,7 +38209,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-10667",
     "price": 3468.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/nikitha-stone-studs-1?variant=gid://shopify/ProductVariant/47392910442723",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10667.jpg?v=1761373814"
   },
@@ -68453,15 +68453,6 @@
     "url": "https://www.theamethyststore.com/products/hrishika-moissanite-drops?variant=gid://shopify/ProductVariant/49388932825315",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15180.jpg?v=1783668869"
   },
-  "gid://shopify/ProductVariant/49389014941923": {
-    "product_title": "Feyra Bugadi Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15175",
-    "price": 4700.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/feyra-bugadi-earrings?variant=gid://shopify/ProductVariant/49389014941923",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15175.jpg?v=1783669246"
-  },
   "gid://shopify/ProductVariant/49389015007459": {
     "product_title": "Pranitha Hasli Necklace",
     "variant_title": "Default Title",
@@ -90773,15 +90764,6 @@
     "url": "https://www.theamethyststore.com/products/sahini-victorian-jhumkas?variant=gid://shopify/ProductVariant/49798457032931",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16233.jpg?v=1790143633"
   },
-  "gid://shopify/ProductVariant/49798457622755": {
-    "product_title": "Heritage Fusion Nagas Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-16188",
-    "price": 3715.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/heritage-fusion-nagas-studs?variant=gid://shopify/ProductVariant/49798457622755",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16188.jpg?v=1790143570"
-  },
   "gid://shopify/ProductVariant/49798461882595": {
     "product_title": "Nethraa Victorian Jhumkas",
     "variant_title": "Default Title",
@@ -108808,6 +108790,24 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/marvellous-stone-earrings?variant=gid://shopify/ProductVariant/68639671550179",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16815.jpg?v=1794832012"
+  },
+  "gid://shopify/ProductVariant/68642892382435": {
+    "product_title": "Henisha Lively  Stone Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16816",
+    "price": 17743.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/henisha-lively-stone-earrings?variant=gid://shopify/ProductVariant/68642892382435",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16816.jpg?v=1794832485"
+  },
+  "gid://shopify/ProductVariant/68642976366819": {
+    "product_title": "Garnet Glow Nagas Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-17053",
+    "price": 5373.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/garnet-glow-nagas-studs?variant=gid://shopify/ProductVariant/68642976366819",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-17053.jpg?v=1794832503"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -142991,6 +142991,15 @@
     "url": "https://www.theamethyststore.com/products/hasli-necklace-28?variant=gid://shopify/ProductVariant/49388961792227",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16533.jpg?v=1783669053"
   },
+  "gid://shopify/ProductVariant/49389014941923": {
+    "product_title": "Feyra Bugadi Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15175",
+    "price": 4700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/feyra-bugadi-earrings?variant=gid://shopify/ProductVariant/49389014941923",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15175.jpg?v=1783669246"
+  },
   "gid://shopify/ProductVariant/49389067731171": {
     "product_title": "Pranitha Hasli Necklace",
     "variant_title": "Default Title",
@@ -153727,6 +153736,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/charm-pair-bangles?variant=gid://shopify/ProductVariant/49798438027491",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3527-2.4.jpg?v=1790142048"
+  },
+  "gid://shopify/ProductVariant/49798457622755": {
+    "product_title": "Heritage Fusion Nagas Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16188",
+    "price": 3715.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/heritage-fusion-nagas-studs?variant=gid://shopify/ProductVariant/49798457622755",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16188.jpg?v=1790143570"
   },
   "gid://shopify/ProductVariant/49798587973859": {
     "product_title": "Lovely Bird Diamond Design Necklace Set",
