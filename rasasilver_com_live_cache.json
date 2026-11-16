@@ -796,7 +796,7 @@
     "variant_title": "Default Title",
     "sku": "R11755",
     "price": 4250.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/maangea-pendant-set?variant=gid://shopify/ProductVariant/50152939225385",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP09880copy.jpg?v=1748348834"
   },
@@ -11258,15 +11258,6 @@
     "url": "https://www.rasasilver.com/products/shahi-sparkle-stone-bangles?variant=gid://shopify/ProductVariant/52707645161769",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4063.jpg?v=1771321115"
   },
-  "gid://shopify/ProductVariant/52677489787177": {
-    "product_title": "Temple Kripa Studs",
-    "variant_title": "Default Title",
-    "sku": "R25153",
-    "price": 2805.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/temple-studs?variant=gid://shopify/ProductVariant/52677489787177",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0025copy_1.jpg?v=1771164178"
-  },
   "gid://shopify/ProductVariant/52678141968681": {
     "product_title": "Kundan Pear Ear Cuff",
     "variant_title": "Default Title",
@@ -14633,15 +14624,6 @@
     "url": "https://www.rasasilver.com/products/rectangle-bracelet-not-uploaded-image?variant=gid://shopify/ProductVariant/53125154210089",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11905_resized.jpg?v=1781001486"
   },
-  "gid://shopify/ProductVariant/53126149439785": {
-    "product_title": "Inaya CZ Danglers",
-    "variant_title": "Default Title",
-    "sku": "R28423",
-    "price": 11220.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/inaya-cz-danglers?variant=gid://shopify/ProductVariant/53126149439785",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0025_resized.jpg?v=1781004117"
-  },
   "gid://shopify/ProductVariant/53126211567913": {
     "product_title": "Pearlora CZ Danglers",
     "variant_title": "Default Title",
@@ -14722,6 +14704,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/viona-toe-ring?variant=gid://shopify/ProductVariant/53133895467305",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11792_resized.jpg?v=1781257133"
+  },
+  "gid://shopify/ProductVariant/53133909328169": {
+    "product_title": "Sia-Haara Toe Ring",
+    "variant_title": "Default Title",
+    "sku": "R12377",
+    "price": 1487.5,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/sia-glow-toe-ring?variant=gid://shopify/ProductVariant/53133909328169",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11785_resized.jpg?v=1781258003"
   },
   "gid://shopify/ProductVariant/53138066768169": {
     "product_title": "Samaira Floral Toe Ring",
@@ -38087,6 +38078,15 @@
     "url": "https://www.rasasilver.com/products/bagh-temple-studs?variant=gid://shopify/ProductVariant/52677487591721",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0127copy.jpg?v=1771160364"
   },
+  "gid://shopify/ProductVariant/52677489787177": {
+    "product_title": "Temple Kripa Studs",
+    "variant_title": "Default Title",
+    "sku": "R25153",
+    "price": 2805.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/temple-studs?variant=gid://shopify/ProductVariant/52677489787177",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0025copy_1.jpg?v=1771164178"
+  },
   "gid://shopify/ProductVariant/52677498765609": {
     "product_title": "Tota Kundan Ear Cuff",
     "variant_title": "Default Title",
@@ -43370,6 +43370,15 @@
     "url": "https://www.rasasilver.com/products/aabira-bracelet?variant=gid://shopify/ProductVariant/53126007259433",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11888_resized.jpg?v=1781003693"
   },
+  "gid://shopify/ProductVariant/53126149439785": {
+    "product_title": "Inaya CZ Danglers",
+    "variant_title": "Default Title",
+    "sku": "R28423",
+    "price": 11220.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/inaya-cz-danglers?variant=gid://shopify/ProductVariant/53126149439785",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0025_resized.jpg?v=1781004117"
+  },
   "gid://shopify/ProductVariant/53126267765033": {
     "product_title": "Amayra CZ Danglers",
     "variant_title": "Default Title",
@@ -43594,15 +43603,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/svara-toe-rings?variant=gid://shopify/ProductVariant/53133827703081",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5782_resized.jpg?v=1782386232"
-  },
-  "gid://shopify/ProductVariant/53133909328169": {
-    "product_title": "Sia-Haara Toe Ring",
-    "variant_title": "Default Title",
-    "sku": "R12377",
-    "price": 1487.5,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/sia-glow-toe-ring?variant=gid://shopify/ProductVariant/53133909328169",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11785_resized.jpg?v=1781258003"
   },
   "gid://shopify/ProductVariant/53137971282217": {
     "product_title": "Tattva Toe Ring",
