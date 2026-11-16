@@ -5215,7 +5215,7 @@
     "variant_title": "Default Title",
     "sku": "296",
     "price": 1099.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/simple-gold-ad-triangle-necklace-with-studs?variant=gid://shopify/ProductVariant/44642294497502",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3FA6586C-DE59-4B98-B09A-400F2D9424FD.heic?v=1704209470"
   },
@@ -22265,15 +22265,6 @@
     "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26621?variant=gid://shopify/ProductVariant/49178382893278",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7202.jpg?v=1791537400"
   },
-  "gid://shopify/ProductVariant/49178382926046": {
-    "product_title": "Diwali Sale Other Essentials D26622",
-    "variant_title": "Default Title",
-    "sku": "D26622",
-    "price": 1399.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26622?variant=gid://shopify/ProductVariant/49178382926046",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7204.jpg?v=1791537404"
-  },
   "gid://shopify/ProductVariant/49178382958814": {
     "product_title": "Diwali Sale Other Essentials D26623",
     "variant_title": "Default Title",
@@ -35809,6 +35800,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26615?variant=gid://shopify/ProductVariant/49178382696670",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7188_61656181-ec67-4999-978a-c1a8eac3f7c0.jpg?v=1791537461"
+  },
+  "gid://shopify/ProductVariant/49178382926046": {
+    "product_title": "Diwali Sale Other Essentials D26622",
+    "variant_title": "Default Title",
+    "sku": "D26622",
+    "price": 1399.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-other-essentials-d26622?variant=gid://shopify/ProductVariant/49178382926046",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7204.jpg?v=1791537404"
   },
   "gid://shopify/ProductVariant/49178383089886": {
     "product_title": "Diwali Sale Other Essentials D26626",
