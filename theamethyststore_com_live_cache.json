@@ -13153,7 +13153,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-7933",
     "price": 166300.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/nivetha-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/45829669028067",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7933.jpg?v=1734951559"
   },
@@ -21445,15 +21445,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/trishali-victorian-long-earrings?variant=gid://shopify/ProductVariant/46826847043811",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9356.jpg?v=1752065469"
-  },
-  "gid://shopify/ProductVariant/46827467276515": {
-    "product_title": "Traditional Look Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-10724",
-    "price": 21600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/traditional-look-short-necklace-3?variant=gid://shopify/ProductVariant/46827467276515",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10724.jpg?v=1752068261"
   },
   "gid://shopify/ProductVariant/46831422374115": {
     "product_title": "Sparkle Avikam Long Earrings",
@@ -108989,6 +108980,24 @@
     "url": "https://www.theamethyststore.com/products/hanisha-vibrant-pair-bangles?variant=gid://shopify/ProductVariant/68738575466723",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3864-2.4.jpg?v=1794890414"
   },
+  "gid://shopify/ProductVariant/68739073507555": {
+    "product_title": "Pretty Wear Pair Bangles",
+    "variant_title": "2.4",
+    "sku": "AMS-107-3865-2.4\"",
+    "price": 28000.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/pretty-wear-pair-bangles?variant=gid://shopify/ProductVariant/68739073507555",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3865-2.4.jpg?v=1794890808"
+  },
+  "gid://shopify/ProductVariant/68740023255267": {
+    "product_title": "Grace Pair Bangles",
+    "variant_title": "2.4",
+    "sku": "AMS-107-3866-2.4\"",
+    "price": 21200.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/grace-pair-bangles?variant=gid://shopify/ProductVariant/68740023255267",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3866-2.4.jpg?v=1794891327"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -117322,6 +117331,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/jashvi-avikam-bangles?variant=gid://shopify/ProductVariant/46826057236707",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2219.jpg?v=1752062880"
+  },
+  "gid://shopify/ProductVariant/46827467276515": {
+    "product_title": "Traditional Look Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-10724",
+    "price": 21600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/traditional-look-short-necklace-3?variant=gid://shopify/ProductVariant/46827467276515",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10724.jpg?v=1752068261"
   },
   "gid://shopify/ProductVariant/46836655292643": {
     "product_title": "Shri Varsha Maangtikka",
@@ -156760,14 +156778,5 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/graceful-flow-nagas-jhumkas?variant=gid://shopify/ProductVariant/68584420933859",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-17044.jpg?v=1794656484"
-  },
-  "gid://shopify/ProductVariant/68619267440867": {
-    "product_title": "Nivetha Victorian Earings",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-7933-Earings",
-    "price": 29500.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/nivetha-victorian-earings?variant=gid://shopify/ProductVariant/68619267440867",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7933-_3.jpg?v=1734951559"
   }
 }
