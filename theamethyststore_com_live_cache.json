@@ -18989,15 +18989,6 @@
     "url": "https://www.theamethyststore.com/products/inayat-short-necklace?variant=gid://shopify/ProductVariant/46499851337955",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9683.jpg?v=1749473793"
   },
-  "gid://shopify/ProductVariant/46499862872291": {
-    "product_title": "Nithya Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-9691",
-    "price": 26345.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nithya-short-necklace-1?variant=gid://shopify/ProductVariant/46499862872291",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9691.jpg?v=1749473839"
-  },
   "gid://shopify/ProductVariant/46500271522019": {
     "product_title": "Tishya Short Necklace",
     "variant_title": "Default Title",
@@ -21091,7 +21082,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-0382-S",
     "price": 8000.0,
-    "stock": 27,
+    "stock": 26,
     "url": "https://www.theamethyststore.com/products/mangalsutra-chain-double-layer?variant=gid://shopify/ProductVariant/46779081195747",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-0382_S.jpg?v=1775372483"
   },
@@ -47032,15 +47023,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/reyna-stone-studs?variant=gid://shopify/ProductVariant/47852480856291",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11868.jpg?v=1768830074"
-  },
-  "gid://shopify/ProductVariant/47852486623459": {
-    "product_title": "Aashina Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-12031",
-    "price": 5547.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/aashina-stone-studs?variant=gid://shopify/ProductVariant/47852486623459",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12031.jpg?v=1768830796"
   },
   "gid://shopify/ProductVariant/47852706431203": {
     "product_title": "Vikshikha Kum Kum Box",
@@ -116270,6 +116252,15 @@
     "url": "https://www.theamethyststore.com/products/advitha-short-necklace-1?variant=gid://shopify/ProductVariant/46496137019619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9657.jpg?v=1749468284"
   },
+  "gid://shopify/ProductVariant/46499862872291": {
+    "product_title": "Nithya Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-9691",
+    "price": 26345.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nithya-short-necklace-1?variant=gid://shopify/ProductVariant/46499862872291",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9691.jpg?v=1749473839"
+  },
   "gid://shopify/ProductVariant/46500470784227": {
     "product_title": "Stunning Nagas Necklace",
     "variant_title": "Default Title",
@@ -127321,6 +127312,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/kum-kum-box-1?variant=gid://shopify/ProductVariant/47852475777251",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-111-0237.jpg?v=1768829617"
+  },
+  "gid://shopify/ProductVariant/47852486623459": {
+    "product_title": "Aashina Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-12031",
+    "price": 5547.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/aashina-stone-studs?variant=gid://shopify/ProductVariant/47852486623459",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12031.jpg?v=1768830796"
   },
   "gid://shopify/ProductVariant/47852698927331": {
     "product_title": "Sherlin Stone Studs",
