@@ -778,7 +778,7 @@
     "variant_title": "Default Title",
     "sku": "629",
     "price": 1399.0,
-    "stock": 45,
+    "stock": 44,
     "url": "https://www.daivik.in/products/big-gold-polish-teeka?variant=gid://shopify/ProductVariant/38170188677273",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_027b4c02-a6f2-4180-90fb-425424447c2e.jpg?v=1614089842"
   },
@@ -4747,7 +4747,7 @@
     "variant_title": "Default Title",
     "sku": "386",
     "price": 1999.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/ad-uncut-necklace-with-earrings?variant=gid://shopify/ProductVariant/44440279449822",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9A15156A-F2F5-401E-964A-288A2AA9824C.jpg?v=1697989253"
   },
@@ -5251,7 +5251,7 @@
     "variant_title": "Default Title",
     "sku": "337",
     "price": 1499.0,
-    "stock": 38,
+    "stock": 28,
     "url": "https://www.daivik.in/products/2-line-ad-droplet-necklace-with-earrings?variant=gid://shopify/ProductVariant/44659167101150",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CDF01663-3E25-4D34-985D-84EF924E2F26.jpg?v=1704901396"
   },
@@ -14894,15 +14894,6 @@
     "url": "https://www.daivik.in/products/a-32?variant=gid://shopify/ProductVariant/48347915288798",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6E16E45C-3BEA-4143-81B8-8D643B95A2BC.jpg?v=1762013592"
   },
-  "gid://shopify/ProductVariant/47648715538654": {
-    "product_title": "Real Look alike Foam Handmade Jasmine Elastic Rubber Band / Hair Tie (Price for 1 pc )",
-    "variant_title": "Default Title",
-    "sku": "3509",
-    "price": 299.0,
-    "stock": 26,
-    "url": "https://www.daivik.in/products/b-2?variant=gid://shopify/ProductVariant/47648715538654",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/965E7C72-A319-4666-8B5A-09D882379028.jpg?v=1762013720"
-  },
   "gid://shopify/ProductVariant/47650983706846": {
     "product_title": "Peacock Green Bangles (Price for Both Hands)",
     "variant_title": "2.4",
@@ -18166,7 +18157,7 @@
     "variant_title": "Default Title",
     "sku": "1388",
     "price": 1399.0,
-    "stock": 18,
+    "stock": 17,
     "url": "https://www.daivik.in/products/a-31?variant=gid://shopify/ProductVariant/48267346772190",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CF4CC19F-42B5-4786-BFF0-3476E06D63F1.jpg?v=1779290628"
   },
@@ -20065,7 +20056,7 @@
     "variant_title": "Turquoise",
     "sku": "D26010",
     "price": 999.0,
-    "stock": 3,
+    "stock": 1,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26010?variant=gid://shopify/ProductVariant/49152684163294",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5957.jpg?v=1791220978"
   },
@@ -20074,7 +20065,7 @@
     "variant_title": "Dark Green",
     "sku": "D26010",
     "price": 999.0,
-    "stock": 8,
+    "stock": 6,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26010?variant=gid://shopify/ProductVariant/49152684228830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5957.jpg?v=1791220978"
   },
@@ -20083,7 +20074,7 @@
     "variant_title": "Ruby",
     "sku": "D26014",
     "price": 799.0,
-    "stock": 3,
+    "stock": 1,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26014?variant=gid://shopify/ProductVariant/49152680886494",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5990.jpg?v=1791221020"
   },
@@ -23188,7 +23179,7 @@
     "variant_title": "Default Title",
     "sku": "2015",
     "price": 499.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.daivik.in/products/ad-droplet-earrings?variant=gid://shopify/ProductVariant/49428003848414",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/library-BC294F45-13B3-4C08-8361-0016035795E5-L0-001.jpg?v=1794500826"
   },
@@ -31957,6 +31948,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/a-32?variant=gid://shopify/ProductVariant/48347915321566",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6E16E45C-3BEA-4143-81B8-8D643B95A2BC.jpg?v=1762013592"
+  },
+  "gid://shopify/ProductVariant/47648715538654": {
+    "product_title": "Real Look alike Foam Handmade Jasmine Elastic Rubber Band / Hair Tie (Price for 1 pc )",
+    "variant_title": "Default Title",
+    "sku": "3509",
+    "price": 299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/b-2?variant=gid://shopify/ProductVariant/47648715538654",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/965E7C72-A319-4666-8B5A-09D882379028.jpg?v=1762013720"
   },
   "gid://shopify/ProductVariant/47650983739614": {
     "product_title": "Peacock Green Bangles (Price for Both Hands)",
