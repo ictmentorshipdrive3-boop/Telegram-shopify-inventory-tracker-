@@ -2321,15 +2321,6 @@
     "url": "https://www.daivik.in/products/a-199?variant=gid://shopify/ProductVariant/43082516758750",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_b6ae1744-c136-4e29-ad40-0a2723f2db55.heic?v=1657294604"
   },
-  "gid://shopify/ProductVariant/43086874050782": {
-    "product_title": "Box Zirconium Rosegold necklace with earrings",
-    "variant_title": "Default Title",
-    "sku": "595",
-    "price": 1699.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/a-201?variant=gid://shopify/ProductVariant/43086874050782",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_6aa1d8ee-8a0c-4208-a81e-bc6724399b0a.heic?v=1657371544"
-  },
   "gid://shopify/ProductVariant/43108876452062": {
     "product_title": "AD Bridal Choker with Jhumkas",
     "variant_title": "Default Title",
@@ -20560,7 +20551,7 @@
     "variant_title": "Default Title",
     "sku": "1983",
     "price": 699.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/simple-antique-ad-jhumkas-with-mattal?variant=gid://shopify/ProductVariant/49149774004446",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BBC1D9BD-0761-4C5D-ACA9-806510AD15E1.jpg?v=1791111714"
   },
@@ -24964,6 +24955,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/a-191?variant=gid://shopify/ProductVariant/43057984766174",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_014333bf-5512-4445-8d6f-96beecf8fbe8.heic?v=1656950058"
+  },
+  "gid://shopify/ProductVariant/43086874050782": {
+    "product_title": "Box Zirconium Rosegold necklace with earrings",
+    "variant_title": "Default Title",
+    "sku": "595",
+    "price": 1699.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/a-201?variant=gid://shopify/ProductVariant/43086874050782",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_6aa1d8ee-8a0c-4208-a81e-bc6724399b0a.heic?v=1657371544"
   },
   "gid://shopify/ProductVariant/43129743048926": {
     "product_title": "Antique Gold Lakshmi Necklace with earrings",
