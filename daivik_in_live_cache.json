@@ -9202,7 +9202,7 @@
     "variant_title": "Purple",
     "sku": "1170",
     "price": 1499.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/manasilaayo-manju-warrier-inspired-hasli-necklace-set?variant=gid://shopify/ProductVariant/46929456464094",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5F5CC9DE-5D54-47FB-BD9F-98367C7C26CB.jpg?v=1748703461"
   },
@@ -18422,15 +18422,6 @@
     "url": "https://www.daivik.in/products/three-line-mala-with-ad-flower-pendant-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/48304138977502",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5BA575AD-2A27-44C6-8335-632E20AD4BCC.jpg?v=1780498806"
   },
-  "gid://shopify/ProductVariant/48306973343966": {
-    "product_title": "AD Pearl Flower Bangles",
-    "variant_title": "2.6",
-    "sku": "1903",
-    "price": 1799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-pearl-flower-bangle?variant=gid://shopify/ProductVariant/48306973343966",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D0B49F8C-2E93-472D-BEBC-A910B088AC6B.jpg?v=1780570794"
-  },
   "gid://shopify/ProductVariant/48306973376734": {
     "product_title": "AD Pearl Flower Bangles",
     "variant_title": "2.8",
@@ -20294,15 +20285,6 @@
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26040?variant=gid://shopify/ProductVariant/49149625630942",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6122.jpg?v=1791221830"
   },
-  "gid://shopify/ProductVariant/49152659456222": {
-    "product_title": "Diwali Sale Necklace D26045",
-    "variant_title": "Ruby Green",
-    "sku": "D26045",
-    "price": 849.0,
-    "stock": 3,
-    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26045?variant=gid://shopify/ProductVariant/49152659456222",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6149.jpg?v=1791222360"
-  },
   "gid://shopify/ProductVariant/49149625860318": {
     "product_title": "Diwali Sale Necklace D26046",
     "variant_title": "Default Title",
@@ -20623,7 +20605,7 @@
     "variant_title": "Default Title",
     "sku": "1983",
     "price": 699.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/simple-antique-ad-jhumkas-with-mattal?variant=gid://shopify/ProductVariant/49149774004446",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BBC1D9BD-0761-4C5D-ACA9-806510AD15E1.jpg?v=1791111714"
   },
@@ -21190,7 +21172,7 @@
     "variant_title": "Default Title",
     "sku": "D26096",
     "price": 699.0,
-    "stock": 17,
+    "stock": 16,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26096?variant=gid://shopify/ProductVariant/49169742135518",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6758.jpg?v=1791457250"
   },
@@ -21208,7 +21190,7 @@
     "variant_title": "Green",
     "sku": "D26098",
     "price": 1399.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26098?variant=gid://shopify/ProductVariant/49169743380702",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6767.jpg?v=1791457292"
   },
@@ -22723,15 +22705,6 @@
     "stock": 3,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26390?variant=gid://shopify/ProductVariant/49183623381214",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7329.jpg?v=1791626946"
-  },
-  "gid://shopify/ProductVariant/49183623774430": {
-    "product_title": "Diwali Sale Earrings D26394",
-    "variant_title": "Green",
-    "sku": "D26394",
-    "price": 399.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26394?variant=gid://shopify/ProductVariant/49183623774430",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7345.jpg?v=1791626978"
   },
   "gid://shopify/ProductVariant/49184151470302": {
     "product_title": "Premium Moissanite AD Necklace with Earrings",
@@ -33380,6 +33353,15 @@
     "url": "https://www.daivik.in/products/ad-pearl-flower-bangle?variant=gid://shopify/ProductVariant/48306973311198",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D0B49F8C-2E93-472D-BEBC-A910B088AC6B.jpg?v=1780570794"
   },
+  "gid://shopify/ProductVariant/48306973343966": {
+    "product_title": "AD Pearl Flower Bangles",
+    "variant_title": "2.6",
+    "sku": "1903",
+    "price": 1799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-pearl-flower-bangle?variant=gid://shopify/ProductVariant/48306973343966",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D0B49F8C-2E93-472D-BEBC-A910B088AC6B.jpg?v=1780570794"
+  },
   "gid://shopify/ProductVariant/48309064794334": {
     "product_title": "Premium AD Jada Billa with Mattal",
     "variant_title": "Default Title",
@@ -34341,6 +34323,15 @@
     "price": 849.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26045?variant=gid://shopify/ProductVariant/49152659423454",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6149.jpg?v=1791222360"
+  },
+  "gid://shopify/ProductVariant/49152659456222": {
+    "product_title": "Diwali Sale Necklace D26045",
+    "variant_title": "Ruby Green",
+    "sku": "D26045",
+    "price": 849.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26045?variant=gid://shopify/ProductVariant/49152659456222",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6149.jpg?v=1791222360"
   },
   "gid://shopify/ProductVariant/49149626155230": {
@@ -36132,6 +36123,15 @@
     "price": 399.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26394?variant=gid://shopify/ProductVariant/49183623741662",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7345.jpg?v=1791626978"
+  },
+  "gid://shopify/ProductVariant/49183623774430": {
+    "product_title": "Diwali Sale Earrings D26394",
+    "variant_title": "Green",
+    "sku": "D26394",
+    "price": 399.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26394?variant=gid://shopify/ProductVariant/49183623774430",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7345.jpg?v=1791626978"
   },
   "gid://shopify/ProductVariant/49183623807198": {
