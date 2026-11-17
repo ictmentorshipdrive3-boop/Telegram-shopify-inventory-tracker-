@@ -1399,7 +1399,7 @@
     "variant_title": "Default Title",
     "sku": "909",
     "price": 1099.0,
-    "stock": 47,
+    "stock": 46,
     "url": "https://www.daivik.in/products/simple-kemp-studs-in-2-variants?variant=gid://shopify/ProductVariant/41359794864281",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_858e6c74-1aac-4152-b929-262cb3e584d2.jpg?v=1634309760"
   },
@@ -3874,7 +3874,7 @@
     "variant_title": "Default Title",
     "sku": "237",
     "price": 599.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/navrathna-studs?variant=gid://shopify/ProductVariant/44284788474078",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_574b5078-097b-4908-9d9b-53db6d755c91.heic?v=1690385655"
   },
@@ -5944,7 +5944,7 @@
     "variant_title": "Ruby",
     "sku": "881",
     "price": 999.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.daivik.in/products/victorian-ad-choker-with-earrings?variant=gid://shopify/ProductVariant/45204086194398",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0234.jpg?v=1779468898"
   },
@@ -10570,7 +10570,7 @@
     "variant_title": "Default Title",
     "sku": "1251",
     "price": 999.0,
-    "stock": 20,
+    "stock": 19,
     "url": "https://www.daivik.in/products/lakshmi-coin-ruby-necklace?variant=gid://shopify/ProductVariant/46618661748958",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A82E65E4-33A7-4D83-95F7-6A751A172E9B.jpg?v=1744903477"
   },
@@ -10741,7 +10741,7 @@
     "variant_title": "Default Title",
     "sku": "1603",
     "price": 1699.0,
-    "stock": 13,
+    "stock": 12,
     "url": "https://www.daivik.in/products/premium-ad-layered-droplet-earrings?variant=gid://shopify/ProductVariant/46662363939038",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B62002F0-A3B3-451A-AB9B-4F9A89D4BE40.jpg?v=1746167784"
   },
@@ -20653,15 +20653,6 @@
     "stock": 4,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26316?variant=gid://shopify/ProductVariant/49155192127710",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6574.jpg?v=1791377655"
-  },
-  "gid://shopify/ProductVariant/49155192226014": {
-    "product_title": "Diwali Sale Earrings D26317",
-    "variant_title": "Default Title",
-    "sku": "D26317",
-    "price": 1499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26317?variant=gid://shopify/ProductVariant/49155192226014",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6577.jpg?v=1791377657"
   },
   "gid://shopify/ProductVariant/49155192520926": {
     "product_title": "Diwali Sale Earrings D26319",
@@ -34639,6 +34630,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26314?variant=gid://shopify/ProductVariant/49155191603422",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6571.jpg?v=1791377566"
+  },
+  "gid://shopify/ProductVariant/49155192226014": {
+    "product_title": "Diwali Sale Earrings D26317",
+    "variant_title": "Default Title",
+    "sku": "D26317",
+    "price": 1499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26317?variant=gid://shopify/ProductVariant/49155192226014",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6577.jpg?v=1791377657"
   },
   "gid://shopify/ProductVariant/49155192389854": {
     "product_title": "Diwali Sale Earrings D26318",
