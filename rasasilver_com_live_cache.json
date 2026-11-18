@@ -11110,7 +11110,7 @@
     "variant_title": "GREEN / 2.5",
     "sku": "R25325",
     "price": 20485.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/oval-rosy-stone-bangles?variant=gid://shopify/ProductVariant/52707604726057",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4110.jpg?v=1771394635"
   },
@@ -11119,7 +11119,7 @@
     "variant_title": "GREEN / 2.6",
     "sku": "R25325",
     "price": 24100.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/oval-rosy-stone-bangles?variant=gid://shopify/ProductVariant/52707604758825",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4110.jpg?v=1771394635"
   },
@@ -11128,7 +11128,7 @@
     "variant_title": "GREEN / 2.8",
     "sku": "R25325",
     "price": 24100.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/oval-rosy-stone-bangles?variant=gid://shopify/ProductVariant/52707604791593",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4110.jpg?v=1771394635"
   },
@@ -11716,15 +11716,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/kundan-choker-1?variant=gid://shopify/ProductVariant/52789089665321",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5490_resized.jpg?v=1772693669"
-  },
-  "gid://shopify/ProductVariant/52748056625449": {
-    "product_title": "Pakshini Kundan Pendant",
-    "variant_title": "Default Title",
-    "sku": "R21453",
-    "price": 23680.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/pakshini-kundan-pendant?variant=gid://shopify/ProductVariant/52748056625449",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5559_resized.jpg?v=1772537801"
   },
   "gid://shopify/ProductVariant/52748266471721": {
     "product_title": "Dakshina Kundan Pendant",
@@ -16721,15 +16712,6 @@
     "url": "https://www.rasasilver.com/products/bdhjbdc?variant=gid://shopify/ProductVariant/53324695732521",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41372_resized_f29768c7-d2e0-4c54-be52-03531a48e1cb.jpg?v=1783755368"
   },
-  "gid://shopify/ProductVariant/53324691341609": {
-    "product_title": "Phool-Kesar Stone Bangles",
-    "variant_title": "2.6",
-    "sku": "R31261",
-    "price": 22440.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/phool-kesar-stone-bangles?variant=gid://shopify/ProductVariant/53324691341609",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41403_resized.jpg?v=1783755249"
-  },
   "gid://shopify/ProductVariant/53324724568361": {
     "product_title": "Ratna Utsava Stone Bangles",
     "variant_title": "GREEN / 2.9",
@@ -16753,7 +16735,7 @@
     "variant_title": "2.6",
     "sku": "R31273",
     "price": 22695.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.rasasilver.com/products/navaratna-shine-bangles?variant=gid://shopify/ProductVariant/53324715819305",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41428_resized.jpg?v=1783757105"
   },
@@ -21958,15 +21940,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/glitz-feather-cz-ear-cuff?variant=gid://shopify/ProductVariant/67683827024169",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_53_27Pics_23Oct05871.jpg?v=1793880231"
-  },
-  "gid://shopify/ProductVariant/67683853467945": {
-    "product_title": "Twinkle Pear CZ Ear Cuff",
-    "variant_title": "Default Title",
-    "sku": "R39265",
-    "price": 19550.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/twinkle-pear-cz-ear-cuff?variant=gid://shopify/ProductVariant/67683853467945",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_53_27Pics_23Oct0591.jpg?v=1793880850"
   },
   "gid://shopify/ProductVariant/67683863363881": {
     "product_title": "Elara Crystal CZ Ear Cuff",
@@ -39194,6 +39167,15 @@
     "url": "https://www.rasasilver.com/products/pushpitha-kundan-bangles?variant=gid://shopify/ProductVariant/52789990392105",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5470_resized.jpg?v=1772537655"
   },
+  "gid://shopify/ProductVariant/52748056625449": {
+    "product_title": "Pakshini Kundan Pendant",
+    "variant_title": "Default Title",
+    "sku": "R21453",
+    "price": 23680.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/pakshini-kundan-pendant?variant=gid://shopify/ProductVariant/52748056625449",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5559_resized.jpg?v=1772537801"
+  },
   "gid://shopify/ProductVariant/52748086739241": {
     "product_title": "Chakra-Padma Kundan Pendant",
     "variant_title": "Default Title",
@@ -46907,6 +46889,15 @@
     "url": "https://www.rasasilver.com/products/recta-orange-stone-bangles?variant=gid://shopify/ProductVariant/53324630065449",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41417_resized.jpg?v=1783752047"
   },
+  "gid://shopify/ProductVariant/53324691341609": {
+    "product_title": "Phool-Kesar Stone Bangles",
+    "variant_title": "2.6",
+    "sku": "R31261",
+    "price": 22440.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/phool-kesar-stone-bangles?variant=gid://shopify/ProductVariant/53324691341609",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41403_resized.jpg?v=1783755249"
+  },
   "gid://shopify/ProductVariant/53324731121961": {
     "product_title": "Ganesh Temple Ring",
     "variant_title": "15",
@@ -49804,6 +49795,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/mayil-priya-nakshi-choker?variant=gid://shopify/ProductVariant/67677130719529",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_53_27Pics_23Oct0460.jpg?v=1793872683"
+  },
+  "gid://shopify/ProductVariant/67683853467945": {
+    "product_title": "Twinkle Pear CZ Ear Cuff",
+    "variant_title": "Default Title",
+    "sku": "R39265",
+    "price": 19550.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/twinkle-pear-cz-ear-cuff?variant=gid://shopify/ProductVariant/67683853467945",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_53_27Pics_23Oct0591.jpg?v=1793880850"
   },
   "gid://shopify/ProductVariant/67700228587817": {
     "product_title": "Muktamala Stone Kanti",
