@@ -692,15 +692,6 @@
     "url": "https://www.daivik.in/products/3-layered-lakshmi-long-haram-with-earrings?variant=gid://shopify/ProductVariant/37736906752153",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_ea8254a6-2db2-49d1-ae9d-d17589b5e881.jpg?v=1610204549"
   },
-  "gid://shopify/ProductVariant/37826102591641": {
-    "product_title": "Pure kemp antique teeka",
-    "variant_title": "Default Title",
-    "sku": "549",
-    "price": 1499.0,
-    "stock": 9,
-    "url": "https://www.daivik.in/products/pure-kemp-antique-teeka?variant=gid://shopify/ProductVariant/37826102591641",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/pure-kemp-antique-teeka-other-essentials-516.jpg?v=1610892151"
-  },
   "gid://shopify/ProductVariant/37826167636121": {
     "product_title": "Lakshmi Nagasi teeka",
     "variant_title": "Default Title",
@@ -5251,7 +5242,7 @@
     "variant_title": "Default Title",
     "sku": "337",
     "price": 1499.0,
-    "stock": 27,
+    "stock": 26,
     "url": "https://www.daivik.in/products/2-line-ad-droplet-necklace-with-earrings?variant=gid://shopify/ProductVariant/44659167101150",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CDF01663-3E25-4D34-985D-84EF924E2F26.jpg?v=1704901396"
   },
@@ -23116,7 +23107,7 @@
     "variant_title": "Default Title",
     "sku": "2015",
     "price": 499.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.daivik.in/products/ad-droplet-earrings?variant=gid://shopify/ProductVariant/49428003848414",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/library-BC294F45-13B3-4C08-8361-0016035795E5-L0-001.jpg?v=1794500826"
   },
@@ -23290,6 +23281,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/simple-flower-mattals?variant=gid://shopify/ProductVariant/37808640917657",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_5333bce4-59b1-4225-83b3-f2b5ea1d529e.jpg?v=1610699250"
+  },
+  "gid://shopify/ProductVariant/37826102591641": {
+    "product_title": "Pure kemp antique teeka",
+    "variant_title": "Default Title",
+    "sku": "549",
+    "price": 1499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/pure-kemp-antique-teeka?variant=gid://shopify/ProductVariant/37826102591641",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/pure-kemp-antique-teeka-other-essentials-516.jpg?v=1610892151"
   },
   "gid://shopify/ProductVariant/43923929956574": {
     "product_title": "Screw openable Coin Lakshmi kada",
