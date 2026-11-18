@@ -3352,7 +3352,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-4049",
     "price": 8352.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/blaze-stone-drops?variant=gid://shopify/ProductVariant/43666817843427",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-4049.jpg?v=1674202346"
   },
@@ -14029,15 +14029,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/agana-short-necklace?variant=gid://shopify/ProductVariant/46001735565539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8469.jpg?v=1739336076"
-  },
-  "gid://shopify/ProductVariant/46001797005539": {
-    "product_title": "Bhuvana Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-8476",
-    "price": 70236.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/bhuvana-short-necklace?variant=gid://shopify/ProductVariant/46001797005539",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8476.jpg?v=1739336526"
   },
   "gid://shopify/ProductVariant/46002107842787": {
     "product_title": "Elisha Short Necklace",
@@ -114199,6 +114190,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/dipti-layered-long-necklace?variant=gid://shopify/ProductVariant/46001665048803",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8465.jpg?v=1739335204"
+  },
+  "gid://shopify/ProductVariant/46001797005539": {
+    "product_title": "Bhuvana Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-8476",
+    "price": 70236.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/bhuvana-short-necklace?variant=gid://shopify/ProductVariant/46001797005539",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8476.jpg?v=1739336526"
   },
   "gid://shopify/ProductVariant/46001922506979": {
     "product_title": "Renita Short Necklace",
