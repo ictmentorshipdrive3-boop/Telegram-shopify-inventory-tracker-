@@ -27877,7 +27877,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-10904",
     "price": 49300.0,
-    "stock": 5,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/glittering-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/47070658887907",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10904_1.jpg?v=1756291719"
   },
@@ -35671,7 +35671,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-12060",
     "price": 51257.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/classy-spark-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/47261259989219",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12060.jpg?v=1759920733"
   },
@@ -63422,15 +63422,6 @@
     "url": "https://www.theamethyststore.com/products/fabulous-stone-jada?variant=gid://shopify/ProductVariant/49295019311331",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0816.jpg?v=1782198816"
   },
-  "gid://shopify/ProductVariant/49295100575971": {
-    "product_title": "Yanisha Stone Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14396",
-    "price": 6721.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/yanisha-stone-drops?variant=gid://shopify/ProductVariant/49295100575971",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14396.jpg?v=1782199639"
-  },
   "gid://shopify/ProductVariant/49295113060579": {
     "product_title": "Dhanisha Stone Drops",
     "variant_title": "Default Title",
@@ -79649,6 +79640,15 @@
     "url": "https://www.theamethyststore.com/products/glowing-kundan-ear-cuff-jhumkas?variant=gid://shopify/ProductVariant/49552484925667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15732.jpg?v=1787028255"
   },
+  "gid://shopify/ProductVariant/49552587555043": {
+    "product_title": "Varuna Kundan Long Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15733",
+    "price": 20942.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/varuna-kundan-long-earrings?variant=gid://shopify/ProductVariant/49552587555043",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15733.jpg?v=1787028869"
+  },
   "gid://shopify/ProductVariant/49552659185891": {
     "product_title": "Shahima Kundan Long Earrings",
     "variant_title": "Default Title",
@@ -81187,15 +81187,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/kundan-ring-30?variant=gid://shopify/ProductVariant/49570376188131",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2280.jpg?v=1787292572"
-  },
-  "gid://shopify/ProductVariant/49570380906723": {
-    "product_title": "Heshitha Kundan Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15533",
-    "price": 11241.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/heshitha-kundan-drops?variant=gid://shopify/ProductVariant/49570380906723",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15533.jpg?v=1787292811"
   },
   "gid://shopify/ProductVariant/49570417279203": {
     "product_title": "Dual Birds Kundan Drops",
@@ -139904,6 +139895,15 @@
     "url": "https://www.theamethyststore.com/products/layana-stone-drops?variant=gid://shopify/ProductVariant/49295082291427",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14416.jpg?v=1782199465"
   },
+  "gid://shopify/ProductVariant/49295100575971": {
+    "product_title": "Yanisha Stone Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14396",
+    "price": 6721.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/yanisha-stone-drops?variant=gid://shopify/ProductVariant/49295100575971",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14396.jpg?v=1782199639"
+  },
   "gid://shopify/ProductVariant/49295148155107": {
     "product_title": "Thrishya Stone Drops",
     "variant_title": "Default Title",
@@ -149804,15 +149804,6 @@
     "url": "https://www.theamethyststore.com/products/dheekshi-kundan-long-earrings?variant=gid://shopify/ProductVariant/49552569204963",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15730.jpg?v=1787028692"
   },
-  "gid://shopify/ProductVariant/49552587555043": {
-    "product_title": "Varuna Kundan Long Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15733",
-    "price": 20942.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/varuna-kundan-long-earrings?variant=gid://shopify/ProductVariant/49552587555043",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15733.jpg?v=1787028869"
-  },
   "gid://shopify/ProductVariant/49552615407843": {
     "product_title": "Srisha Kundan Long Earrings",
     "variant_title": "Default Title",
@@ -150361,6 +150352,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/jesintha-kundan-drops?variant=gid://shopify/ProductVariant/49570371567843",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15527.jpg?v=1787292407"
+  },
+  "gid://shopify/ProductVariant/49570380906723": {
+    "product_title": "Heshitha Kundan Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15533",
+    "price": 11241.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/heshitha-kundan-drops?variant=gid://shopify/ProductVariant/49570380906723",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15533.jpg?v=1787292811"
   },
   "gid://shopify/ProductVariant/49570473640163": {
     "product_title": "Ashika Kundan Pendant Set",
