@@ -27886,7 +27886,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-10904",
     "price": 49300.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/glittering-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/47070658887907",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10904_1.jpg?v=1756291719"
   },
@@ -60667,15 +60667,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/rahini-kundan-long-necklace?variant=gid://shopify/ProductVariant/48993795145955",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15877.jpg?v=1779275238"
-  },
-  "gid://shopify/ProductVariant/48993800224995": {
-    "product_title": "Shivikha Kundan Pendant",
-    "variant_title": "Only Pendant",
-    "sku": "AMS-104-4128",
-    "price": 12335.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/shivikha-kundan-pendant?variant=gid://shopify/ProductVariant/48993800224995",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4128.jpg?v=1779276054"
   },
   "gid://shopify/ProductVariant/48993800880355": {
     "product_title": "Nivisha Kundan Pendant",
@@ -109034,6 +109025,42 @@
     "url": "https://www.theamethyststore.com/products/captivating-nagas-studs-1?variant=gid://shopify/ProductVariant/68856812273891",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16749.jpg?v=1795007710"
   },
+  "gid://shopify/ProductVariant/68856831869155": {
+    "product_title": "Ethereal Tradition Nagas Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19170",
+    "price": 112433.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/ethereal-tradition-nagas-long-necklace?variant=gid://shopify/ProductVariant/68856831869155",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19170.jpg?v=1795008040"
+  },
+  "gid://shopify/ProductVariant/68856848974051": {
+    "product_title": "Floral Nagas Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16750",
+    "price": 5136.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/floral-nagas-studs?variant=gid://shopify/ProductVariant/68856848974051",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16750.jpg?v=1795008272"
+  },
+  "gid://shopify/ProductVariant/68856850645219": {
+    "product_title": "Divine Ornament Nagas Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19172",
+    "price": 133972.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/divine-ornament-nagas-long-necklace?variant=gid://shopify/ProductVariant/68856850645219",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19172.jpg?v=1795008370"
+  },
+  "gid://shopify/ProductVariant/68856855494883": {
+    "product_title": "Ganisha  Nagas Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16751",
+    "price": 4150.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/ganisha-nagas-studs?variant=gid://shopify/ProductVariant/68856855494883",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16751.jpg?v=1795008500"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -136159,6 +136186,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/kundan-pendant-24?variant=gid://shopify/ProductVariant/48993798389987",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4127.jpg?v=1779275834"
+  },
+  "gid://shopify/ProductVariant/48993800224995": {
+    "product_title": "Shivikha Kundan Pendant",
+    "variant_title": "Only Pendant",
+    "sku": "AMS-104-4128",
+    "price": 12335.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/shivikha-kundan-pendant?variant=gid://shopify/ProductVariant/48993800224995",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4128.jpg?v=1779276054"
   },
   "gid://shopify/ProductVariant/48993804878051": {
     "product_title": "Siya Nagas Long Necklace",
