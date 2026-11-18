@@ -1277,15 +1277,6 @@
     "url": "https://www.theamethyststore.com/products/shasha-bead-choker?variant=gid://shopify/ProductVariant/42814043062499",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-2685-_2.jpg?v=1771392291"
   },
-  "gid://shopify/ProductVariant/49674786013411": {
-    "product_title": "Chittra Single Bangles",
-    "variant_title": "2.4\"",
-    "sku": "AMS-107-0476-2.4\"",
-    "price": 18460.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/chittra-pair-bangles?variant=gid://shopify/ProductVariant/49674786013411",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-0476.jpg?v=1696492832"
-  },
   "gid://shopify/ProductVariant/42890243997923": {
     "product_title": "Steller Earrings",
     "variant_title": "Default Title",
@@ -35689,7 +35680,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-12060",
     "price": 51257.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/classy-spark-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/47261259989219",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12060.jpg?v=1759920733"
   },
@@ -101123,15 +101114,6 @@
     "url": "https://www.theamethyststore.com/products/vibrant-sparkle-avikam-short-necklace?variant=gid://shopify/ProductVariant/67835351531747",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19198.jpg?v=1793174950"
   },
-  "gid://shopify/ProductVariant/67835427356899": {
-    "product_title": "Shining Radiant Avikam Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-5631",
-    "price": 2300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/shining-radiant-avikam-pendant?variant=gid://shopify/ProductVariant/67835427356899",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5631.jpg?v=1793175575"
-  },
   "gid://shopify/ProductVariant/67837066871011": {
     "product_title": "Dazzling Radiance Avikam Pendant Set",
     "variant_title": "Default Title",
@@ -108899,6 +108881,42 @@
     "url": "https://www.theamethyststore.com/products/heritage-reimagined-nagas-short-necklace?variant=gid://shopify/ProductVariant/68856658559203",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19043.jpg?v=1795003949"
   },
+  "gid://shopify/ProductVariant/68856670093539": {
+    "product_title": "Royal Devotion Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19044",
+    "price": 16640.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/royal-devotion-nagas-short-necklace?variant=gid://shopify/ProductVariant/68856670093539",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19044.jpg?v=1795004230"
+  },
+  "gid://shopify/ProductVariant/68856676712675": {
+    "product_title": "Lakshmi Divine Nagas Tikka",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2582",
+    "price": 7012.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/lakshmi-divine-nagas-tikka?variant=gid://shopify/ProductVariant/68856676712675",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2582.jpg?v=1795004316"
+  },
+  "gid://shopify/ProductVariant/68856681136355": {
+    "product_title": "Traditional Grace Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19045",
+    "price": 10016.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/traditional-grace-nagas-short-necklace?variant=gid://shopify/ProductVariant/68856681136355",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19045.jpg?v=1795004540"
+  },
+  "gid://shopify/ProductVariant/68856700141795": {
+    "product_title": "Timeless Divinity Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19053",
+    "price": 12906.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/timeless-divinity-nagas-short-necklace?variant=gid://shopify/ProductVariant/68856700141795",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19053.jpg?v=1795005031"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -109483,6 +109501,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/navarathna-studs?variant=gid://shopify/ProductVariant/42820733206755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-2497_7f4acb4f-db93-4f34-90e3-bbc5068a165d.jpg?v=1687325143"
+  },
+  "gid://shopify/ProductVariant/49674786013411": {
+    "product_title": "Chittra Single Bangles",
+    "variant_title": "2.4\"",
+    "sku": "AMS-107-0476-2.4\"",
+    "price": 18460.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/chittra-pair-bangles?variant=gid://shopify/ProductVariant/49674786013411",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-0476.jpg?v=1696492832"
   },
   "gid://shopify/ProductVariant/49681941954787": {
     "product_title": "Chittra Single Bangles",
@@ -156778,6 +156805,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/brilliant-shine-diamond-design-ring?variant=gid://shopify/ProductVariant/67833942671587",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2421.jpg?v=1793165108"
+  },
+  "gid://shopify/ProductVariant/67835427356899": {
+    "product_title": "Shining Radiant Avikam Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5631",
+    "price": 2300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/shining-radiant-avikam-pendant?variant=gid://shopify/ProductVariant/67835427356899",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5631.jpg?v=1793175575"
   },
   "gid://shopify/ProductVariant/67835462746339": {
     "product_title": "Classic Diamond Design Pendant",
