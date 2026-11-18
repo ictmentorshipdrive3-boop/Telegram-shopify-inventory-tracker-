@@ -4769,15 +4769,6 @@
     "url": "https://www.dulhanjewels.com/products/majestic-bridal-jadau-kundan-necklace-with-strawberry-beads?variant=gid://shopify/ProductVariant/67996056125746",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/11B4861B-201A-4DDF-AF0F-7A6F3138D700.jpg?v=1792400838"
   },
-  "gid://shopify/ProductVariant/68012601934130": {
-    "product_title": "Unique Jadau Kundan Nantad Necklace",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 2100.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/unique-jadau-kundan-nantad-necklace?variant=gid://shopify/ProductVariant/68012601934130",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/22FCF972-6C95-4870-8A87-C6107C95E8EB.jpg?v=1792664183"
-  },
   "gid://shopify/ProductVariant/68012647022898": {
     "product_title": "Classic Victorian Stud Earrings With Pearl Drops",
     "variant_title": "Default Title",
@@ -4822,15 +4813,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/gold-style-jadau-kundan-necklace-with-green-beads-and-ricepearl-hangings?variant=gid://shopify/ProductVariant/68085652619570",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4066.jpg?v=1793178671"
-  },
-  "gid://shopify/ProductVariant/68110245396786": {
-    "product_title": "Peacock Design Emerald Victorian Necklace With Earrings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 4350.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/peacock-design-emerald-victorian-necklace-with-earrings?variant=gid://shopify/ProductVariant/68110245396786",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4247.jpg?v=1793365429"
   },
   "gid://shopify/ProductVariant/68110294548786": {
     "product_title": "Stylish Ruby Victorian Necklace With Matching Earrings",
@@ -5461,5 +5443,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/designer-jadau-kundan-stud-earrings?variant=gid://shopify/ProductVariant/67931489173810",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FullSizeRender_d4415633-dc87-4f1b-9081-4720db0d28e2.jpg?v=1791535612"
+  },
+  "gid://shopify/ProductVariant/68012601934130": {
+    "product_title": "Unique Jadau Kundan Nantad Necklace",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2100.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/unique-jadau-kundan-nantad-necklace?variant=gid://shopify/ProductVariant/68012601934130",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/22FCF972-6C95-4870-8A87-C6107C95E8EB.jpg?v=1792664183"
   }
 }
