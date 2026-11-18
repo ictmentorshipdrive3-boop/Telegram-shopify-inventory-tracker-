@@ -3271,7 +3271,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-3881",
     "price": 36830.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/mothika-red-stone-necklace?variant=gid://shopify/ProductVariant/43642226639075",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-102-3881.jpg?v=1673246364"
   },
@@ -91223,15 +91223,6 @@
     "url": "https://www.theamethyststore.com/products/traditional-glow-nagas-long-necklace?variant=gid://shopify/ProductVariant/67588524310755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18329.jpg?v=1790513179"
   },
-  "gid://shopify/ProductVariant/67588529357027": {
-    "product_title": "Elegantly Shines Nagas Long Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-18328",
-    "price": 95708.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/elegantly-shines-nagas-long-necklace?variant=gid://shopify/ProductVariant/67588529357027",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18328_2.jpg?v=1790513580"
-  },
   "gid://shopify/ProductVariant/67588548395235": {
     "product_title": "Glowing Nagas Long Necklace",
     "variant_title": "Default Title",
@@ -108745,6 +108736,24 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/vibrant-nagas-pendant-1?variant=gid://shopify/ProductVariant/68855858725091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5583.jpg?v=1794996637"
+  },
+  "gid://shopify/ProductVariant/68855894376675": {
+    "product_title": "Heavenly Bliss Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18979",
+    "price": 36388.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/heavenly-bliss-nagas-short-necklace?variant=gid://shopify/ProductVariant/68855894376675",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18979.jpg?v=1794996933"
+  },
+  "gid://shopify/ProductVariant/68855894999267": {
+    "product_title": "Divine Lakshmi Nagas Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5589",
+    "price": 3809.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/divine-lakshmi-nagas-pendant-1?variant=gid://shopify/ProductVariant/68855894999267",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5589.jpg?v=1794996952"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -154366,6 +154375,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/beyond-trends-nagas-long-necklace?variant=gid://shopify/ProductVariant/67588475715811",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18331.jpg?v=1790512358"
+  },
+  "gid://shopify/ProductVariant/67588529357027": {
+    "product_title": "Elegantly Shines Nagas Long Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18328",
+    "price": 95708.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/elegantly-shines-nagas-long-necklace?variant=gid://shopify/ProductVariant/67588529357027",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18328_2.jpg?v=1790513580"
   },
   "gid://shopify/ProductVariant/67588836884707": {
     "product_title": "Grandeur Nagas Short Necklace",
