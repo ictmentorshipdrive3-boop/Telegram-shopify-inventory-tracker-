@@ -8041,7 +8041,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-6047",
     "price": 6622.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/rechal-stone-studs?variant=gid://shopify/ProductVariant/45197930758371",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6047_529fa65c-c307-43ff-aed8-c00c0527dc87.jpg?v=1735648800"
   },
@@ -11389,7 +11389,7 @@
     "variant_title": "2.6\"",
     "sku": "AMS-107-1461-2.6\"",
     "price": 27600.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/ditiya-stone-pair-bangles?variant=gid://shopify/ProductVariant/49674884251875",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1461-_2.jpg?v=1728973828"
   },
@@ -62522,15 +62522,6 @@
     "url": "https://www.theamethyststore.com/products/nagas-vanki-2?variant=gid://shopify/ProductVariant/49279017681123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0828.jpg?v=1781853915"
   },
-  "gid://shopify/ProductVariant/49279109955811": {
-    "product_title": "Dhananya Kundan Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16222",
-    "price": 32819.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/dhananya-kundan-short-necklace-1?variant=gid://shopify/ProductVariant/49279109955811",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16222.jpg?v=1781855104"
-  },
   "gid://shopify/ProductVariant/49279124537571": {
     "product_title": "Fabulous Kundan Short Necklace",
     "variant_title": "Default Title",
@@ -81670,7 +81661,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-113-0460",
     "price": 2000.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/bullakku-nose-pin-4?variant=gid://shopify/ProductVariant/49575227130083",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0460.jpg?v=1787376146"
   },
@@ -108871,6 +108862,42 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/pioneering-nagas-short-necklace?variant=gid://shopify/ProductVariant/68856601510115",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19030.jpg?v=1795003007"
+  },
+  "gid://shopify/ProductVariant/68856608686307": {
+    "product_title": "Bridal jada billa",
+    "variant_title": "Chandran",
+    "sku": "AMS-112-1023-Chaand",
+    "price": 6416.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/bridal-jada-billa-1?variant=gid://shopify/ProductVariant/68856608686307",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-1023-Chaand.jpg?v=1795003194"
+  },
+  "gid://shopify/ProductVariant/68856608719075": {
+    "product_title": "Bridal jada billa",
+    "variant_title": "Suryan",
+    "sku": "AMS-112-1023-Suraj",
+    "price": 6515.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/bridal-jada-billa-1?variant=gid://shopify/ProductVariant/68856608719075",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-1023-Chaand.jpg?v=1795003194"
+  },
+  "gid://shopify/ProductVariant/68856611340515": {
+    "product_title": "Sacred Tradition Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19040",
+    "price": 13835.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/sacred-tradition-nagas-short-necklace?variant=gid://shopify/ProductVariant/68856611340515",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19040.jpg?v=1795003556"
+  },
+  "gid://shopify/ProductVariant/68856658559203": {
+    "product_title": "Heritage Reimagined Nagas Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19043",
+    "price": 32853.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/heritage-reimagined-nagas-short-necklace?variant=gid://shopify/ProductVariant/68856658559203",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19043.jpg?v=1795003949"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -138463,6 +138490,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/dewni-stone-studs?variant=gid://shopify/ProductVariant/49279056085219",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14054.jpg?v=1781854741"
+  },
+  "gid://shopify/ProductVariant/49279109955811": {
+    "product_title": "Dhananya Kundan Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16222",
+    "price": 32819.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/dhananya-kundan-short-necklace-1?variant=gid://shopify/ProductVariant/49279109955811",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16222.jpg?v=1781855104"
   },
   "gid://shopify/ProductVariant/49279115657443": {
     "product_title": "Neha Stone Studs",
