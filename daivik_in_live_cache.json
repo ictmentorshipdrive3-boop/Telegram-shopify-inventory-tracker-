@@ -7294,7 +7294,7 @@
     "variant_title": "2.6",
     "sku": "1503",
     "price": 3299.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/c?variant=gid://shopify/ProductVariant/45908646854878",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_a65ea7d9-3428-4630-ac3c-113d8e2c52c3.jpg?v=1727018763"
   },
@@ -21743,15 +21743,6 @@
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d26508?variant=gid://shopify/ProductVariant/49178380337374",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70572.jpg?v=1791535653"
   },
-  "gid://shopify/ProductVariant/49178380370142": {
-    "product_title": "Diwali Sale Bangles D26509",
-    "variant_title": "2.4",
-    "sku": "D26509",
-    "price": 999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-bangles-d26509?variant=gid://shopify/ProductVariant/49178380370142",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70592.jpg?v=1791535657"
-  },
   "gid://shopify/ProductVariant/49178380468446": {
     "product_title": "Diwali Sale Bangles D26510",
     "variant_title": "2.4",
@@ -22621,7 +22612,7 @@
     "variant_title": "Default Title",
     "sku": "1986",
     "price": 399.0,
-    "stock": 32,
+    "stock": 31,
     "url": "https://www.daivik.in/products/lakshmi-kids-adult-jhumkas?variant=gid://shopify/ProductVariant/49203701383390",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6327C5CA-76E2-45CD-95CB-1B7691AAF00E.jpg?v=1791890534"
   },
@@ -35620,6 +35611,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d26503?variant=gid://shopify/ProductVariant/49178379813086",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70462.jpg?v=1791535567"
+  },
+  "gid://shopify/ProductVariant/49178380370142": {
+    "product_title": "Diwali Sale Bangles D26509",
+    "variant_title": "2.4",
+    "sku": "D26509",
+    "price": 999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-bangles-d26509?variant=gid://shopify/ProductVariant/49178380370142",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70592.jpg?v=1791535657"
   },
   "gid://shopify/ProductVariant/49178380402910": {
     "product_title": "Diwali Sale Bangles D26509",
