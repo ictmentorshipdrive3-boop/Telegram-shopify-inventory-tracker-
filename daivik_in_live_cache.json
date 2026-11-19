@@ -1021,7 +1021,7 @@
     "variant_title": "Default Title",
     "sku": "768",
     "price": 1499.0,
-    "stock": 41,
+    "stock": 40,
     "url": "https://www.daivik.in/products/kids-mini-choker?variant=gid://shopify/ProductVariant/40510053089433",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_b84b91f3-39db-464f-a5f2-32b92eb228b7.jpg?v=1625765057"
   },
@@ -4783,7 +4783,7 @@
     "variant_title": "Default Title",
     "sku": "597",
     "price": 499.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.daivik.in/products/ad-changable-studs-with-4-colours?variant=gid://shopify/ProductVariant/44457066922206",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5A2D909A-A4FF-4190-B232-2EA58342B2E0.jpg?v=1698508255"
   },
@@ -16928,15 +16928,6 @@
     "url": "https://www.daivik.in/products/floral-white-earcuff-with-jhumka-mattal?variant=gid://shopify/ProductVariant/48015213691102",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F6AD7892-89C6-4122-B350-9D8B36FCA38C.jpg?v=1774163919"
   },
-  "gid://shopify/ProductVariant/48017603297502": {
-    "product_title": "AD Drop Nose Pin/Nath",
-    "variant_title": "Default Title",
-    "sku": "1833",
-    "price": 299.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-drop-nose-pin-nath?variant=gid://shopify/ProductVariant/48017603297502",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8632.jpg?v=1774274079"
-  },
   "gid://shopify/ProductVariant/48017605001438": {
     "product_title": "AD Nose Pin/Nath",
     "variant_title": "Default Title",
@@ -19660,7 +19651,7 @@
     "variant_title": "Default Title",
     "sku": "722",
     "price": 699.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/lakshmi-rashmika-inspired-mangalsutra?variant=gid://shopify/ProductVariant/48801242218718",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1820.jpg?v=1788005030"
   },
@@ -32911,6 +32902,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/antique-designer-watch-bracelet-3?variant=gid://shopify/ProductVariant/47972935499998",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3792.heic?v=1773239653"
+  },
+  "gid://shopify/ProductVariant/48017603297502": {
+    "product_title": "AD Drop Nose Pin/Nath",
+    "variant_title": "Default Title",
+    "sku": "1833",
+    "price": 299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-drop-nose-pin-nath?variant=gid://shopify/ProductVariant/48017603297502",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8632.jpg?v=1774274079"
   },
   "gid://shopify/ProductVariant/48017605394654": {
     "product_title": "AD Ruby Green Nose Pin/Nath (Screw Type)",
