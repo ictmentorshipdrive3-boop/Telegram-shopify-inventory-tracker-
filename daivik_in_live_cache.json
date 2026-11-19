@@ -4225,7 +4225,7 @@
     "variant_title": "Default Title",
     "sku": "255",
     "price": 2999.0,
-    "stock": 20,
+    "stock": 19,
     "url": "https://www.daivik.in/products/untitled-oct1_21-14?variant=gid://shopify/ProductVariant/44372797325534",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4AA931C1-ADBF-4E12-8848-A4137329D91C.jpg?v=1696175737"
   },
@@ -5665,7 +5665,7 @@
     "variant_title": "Default Title",
     "sku": "848",
     "price": 1999.0,
-    "stock": 31,
+    "stock": 30,
     "url": "https://www.daivik.in/products/ad-rubygreen-necklace-with-earrings?variant=gid://shopify/ProductVariant/44878478213342",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG-3942.heic?v=1710088520"
   },
@@ -7222,7 +7222,7 @@
     "variant_title": "Default Title",
     "sku": "1113",
     "price": 1199.0,
-    "stock": 44,
+    "stock": 43,
     "url": "https://www.daivik.in/products/kids-adult-kemp-pearl-choker?variant=gid://shopify/ProductVariant/45885074571486",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3906CCD9-E87A-4AFC-B898-C5D7FA1F8414.jpg?v=1726241478"
   },
@@ -7339,7 +7339,7 @@
     "variant_title": "Default Title",
     "sku": "1119",
     "price": 1799.0,
-    "stock": 49,
+    "stock": 48,
     "url": "https://www.daivik.in/products/coral-ad-green-stone-necklace-with-studs?variant=gid://shopify/ProductVariant/45915404501214",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F88CAC1A-BAC3-4FF6-9796-B0F957142D9D.jpg?v=1727277842"
   },
@@ -21148,6 +21148,33 @@
     "stock": 9,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26383?variant=gid://shopify/ProductVariant/49162135273694",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6746.jpg?v=1791444867"
+  },
+  "gid://shopify/ProductVariant/49163418337502": {
+    "product_title": "Mango Kemp Bangles",
+    "variant_title": "2.4",
+    "sku": "1984",
+    "price": 1299.0,
+    "stock": 19,
+    "url": "https://www.daivik.in/products/mango-kemp-bangles?variant=gid://shopify/ProductVariant/49163418337502",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_2646.jpg?v=1791392348"
+  },
+  "gid://shopify/ProductVariant/49163418370270": {
+    "product_title": "Mango Kemp Bangles",
+    "variant_title": "2.6",
+    "sku": "1984",
+    "price": 1299.0,
+    "stock": 32,
+    "url": "https://www.daivik.in/products/mango-kemp-bangles?variant=gid://shopify/ProductVariant/49163418370270",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_2646.jpg?v=1791392348"
+  },
+  "gid://shopify/ProductVariant/49163418403038": {
+    "product_title": "Mango Kemp Bangles",
+    "variant_title": "2.8",
+    "sku": "1984",
+    "price": 1299.0,
+    "stock": 24,
+    "url": "https://www.daivik.in/products/mango-kemp-bangles?variant=gid://shopify/ProductVariant/49163418403038",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_2646.jpg?v=1791392348"
   },
   "gid://shopify/ProductVariant/49163421221086": {
     "product_title": "Ruby Green AD Kemp Bangles Combo",
@@ -35008,33 +35035,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26385?variant=gid://shopify/ProductVariant/49162136453342",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6750.jpg?v=1791444871"
-  },
-  "gid://shopify/ProductVariant/49163418337502": {
-    "product_title": "Mango Kemp Bangles",
-    "variant_title": "2.4",
-    "sku": "1984",
-    "price": 1299.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/mango-kemp-bangles?variant=gid://shopify/ProductVariant/49163418337502",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_2646.jpg?v=1791392348"
-  },
-  "gid://shopify/ProductVariant/49163418370270": {
-    "product_title": "Mango Kemp Bangles",
-    "variant_title": "2.6",
-    "sku": "1984",
-    "price": 1299.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/mango-kemp-bangles?variant=gid://shopify/ProductVariant/49163418370270",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_2646.jpg?v=1791392348"
-  },
-  "gid://shopify/ProductVariant/49163418403038": {
-    "product_title": "Mango Kemp Bangles",
-    "variant_title": "2.8",
-    "sku": "1984",
-    "price": 1299.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/mango-kemp-bangles?variant=gid://shopify/ProductVariant/49163418403038",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_2646.jpg?v=1791392348"
   },
   "gid://shopify/ProductVariant/49163421155550": {
     "product_title": "Ruby Green AD Kemp Bangles Combo",
