@@ -121,7 +121,7 @@
     "variant_title": "Default Title",
     "sku": "105",
     "price": 999.0,
-    "stock": 26,
+    "stock": 25,
     "url": "https://www.daivik.in/products/105?variant=gid://shopify/ProductVariant/32649702342715",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_7948.jpg?v=1584428326"
   },
@@ -9310,7 +9310,7 @@
     "variant_title": "Default Title",
     "sku": "1522",
     "price": 799.0,
-    "stock": 39,
+    "stock": 38,
     "url": "https://www.daivik.in/products/jadau-kemp-lotus-pearl-chain-anklets?variant=gid://shopify/ProductVariant/46152725430494",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/362EB78E-D420-4B06-A79E-4DBCCED82C6A.jpg?v=1734271145"
   },
@@ -20195,15 +20195,6 @@
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26022?variant=gid://shopify/ProductVariant/49149623632094",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6039.jpg?v=1791221141"
   },
-  "gid://shopify/ProductVariant/49152676004062": {
-    "product_title": "Diwali Sale Necklace D26025",
-    "variant_title": "Dark Green",
-    "sku": "D26025",
-    "price": 249.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26025?variant=gid://shopify/ProductVariant/49152676004062",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6052.jpg?v=1791221213"
-  },
   "gid://shopify/ProductVariant/49152671776990": {
     "product_title": "Diwali Sale Necklace D26028",
     "variant_title": "Ruby Green",
@@ -23188,7 +23179,7 @@
     "variant_title": "Default Title",
     "sku": "1023",
     "price": 7499.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/guttapusalu-balaji-long-haram-and-choker-with-earrings-copy?variant=gid://shopify/ProductVariant/49387603165406",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8497.jpg?v=1794242919"
   },
@@ -34089,6 +34080,15 @@
     "price": 249.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26025?variant=gid://shopify/ProductVariant/49152675971294",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6052.jpg?v=1791221213"
+  },
+  "gid://shopify/ProductVariant/49152676004062": {
+    "product_title": "Diwali Sale Necklace D26025",
+    "variant_title": "Dark Green",
+    "sku": "D26025",
+    "price": 249.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26025?variant=gid://shopify/ProductVariant/49152676004062",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6052.jpg?v=1791221213"
   },
   "gid://shopify/ProductVariant/49152676036830": {
