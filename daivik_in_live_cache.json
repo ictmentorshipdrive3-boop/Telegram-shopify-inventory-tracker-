@@ -15223,7 +15223,7 @@
     "variant_title": "Default Title",
     "sku": "3511",
     "price": 249.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/real-look-alike-foam-handmade-malli-pink-shade-u-pin-price-for-1-pc?variant=gid://shopify/ProductVariant/47686674022622",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7495.heic?v=1763301107"
   },
@@ -18773,15 +18773,6 @@
     "url": "https://www.daivik.in/products/diamond-look-alike-rose-floral-hasli-with-earrings?variant=gid://shopify/ProductVariant/48353948467422",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D55AA4E3-924A-4789-B0BE-1170A04C6E35.jpg?v=1782062607"
   },
-  "gid://shopify/ProductVariant/48375886086366": {
-    "product_title": "Diamond Look Alike AD Kada in Two Colors (Price for each)",
-    "variant_title": "Green",
-    "sku": "1917",
-    "price": 1499.0,
-    "stock": 2,
-    "url": "https://www.daivik.in/products/untitled-jun22_11-39-48?variant=gid://shopify/ProductVariant/48375886086366",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A51D4055-7BB0-4DD4-8D3F-08086AFF54DF.jpg?v=1782108718"
-  },
   "gid://shopify/ProductVariant/48369095573726": {
     "product_title": "Designer AD Floral Necklace with Earrings",
     "variant_title": "Default Title",
@@ -18862,15 +18853,6 @@
     "stock": 11,
     "url": "https://www.daivik.in/products/invisible-green-ganesha-chain?variant=gid://shopify/ProductVariant/48447550390494",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/ADD05F51-8F3A-4262-86A7-4E853BC4FB59.jpg?v=1782904755"
-  },
-  "gid://shopify/ProductVariant/48400077258974": {
-    "product_title": "Pachi Pearl Jali Necklace",
-    "variant_title": "Default Title",
-    "sku": "491",
-    "price": 2999.0,
-    "stock": 6,
-    "url": "https://www.daivik.in/products/pachi-pearl-jali-necklace?variant=gid://shopify/ProductVariant/48400077258974",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_83502.jpg?v=1782925422"
   },
   "gid://shopify/ProductVariant/48403799408862": {
     "product_title": "Elakkathali Ruby Choker with Earrings",
@@ -20227,7 +20209,7 @@
     "variant_title": "Dark Green",
     "sku": "D26025",
     "price": 249.0,
-    "stock": 5,
+    "stock": 3,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26025?variant=gid://shopify/ProductVariant/49152676004062",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6052.jpg?v=1791221213"
   },
@@ -33452,6 +33434,15 @@
     "url": "https://www.daivik.in/products/e-2?variant=gid://shopify/ProductVariant/48353947943134",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9224D361-32D9-413E-9459-3CDD5BCDCFE9.jpg?v=1782062295"
   },
+  "gid://shopify/ProductVariant/48375886086366": {
+    "product_title": "Diamond Look Alike AD Kada in Two Colors (Price for each)",
+    "variant_title": "Green",
+    "sku": "1917",
+    "price": 1499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/untitled-jun22_11-39-48?variant=gid://shopify/ProductVariant/48375886086366",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A51D4055-7BB0-4DD4-8D3F-08086AFF54DF.jpg?v=1782108718"
+  },
   "gid://shopify/ProductVariant/48375886119134": {
     "product_title": "Diamond Look Alike AD Kada in Two Colors (Price for each)",
     "variant_title": "Ruby",
@@ -33469,6 +33460,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/invisible-green-ganesha-chain?variant=gid://shopify/ProductVariant/48447550357726",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/ADD05F51-8F3A-4262-86A7-4E853BC4FB59.jpg?v=1782904755"
+  },
+  "gid://shopify/ProductVariant/48400077258974": {
+    "product_title": "Pachi Pearl Jali Necklace",
+    "variant_title": "Default Title",
+    "sku": "491",
+    "price": 2999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/pachi-pearl-jali-necklace?variant=gid://shopify/ProductVariant/48400077258974",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_83502.jpg?v=1782925422"
   },
   "gid://shopify/ProductVariant/48411408105694": {
     "product_title": "Simple AD Pendant Chain with Earrings in 3 Colors (Price for Each)",
