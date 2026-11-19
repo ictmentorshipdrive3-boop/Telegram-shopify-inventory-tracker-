@@ -7055,15 +7055,6 @@
     "url": "https://www.theamethyststore.com/products/copy-of-marina-jhumkas?variant=gid://shopify/ProductVariant/44521830482147",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5570.jpg?v=1710148765"
   },
-  "gid://shopify/ProductVariant/44522072506595": {
-    "product_title": "Cheerful Avikam Bracelet",
-    "variant_title": "Default Title",
-    "sku": "AMS-103-0418",
-    "price": 21400.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/cheerful-avikam-bracelet?variant=gid://shopify/ProductVariant/44522072506595",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-0418-_3.jpg?v=1710155263"
-  },
   "gid://shopify/ProductVariant/44536649941219": {
     "product_title": "Beauty Pichwai Earrings",
     "variant_title": "Default Title",
@@ -85045,7 +85036,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4996",
     "price": 15100.0,
-    "stock": 2,
+    "stock": 7,
     "url": "https://www.theamethyststore.com/products/impressively-crafted-diamond-design-pendant?variant=gid://shopify/ProductVariant/49667813376227",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4996.jpg?v=1788502887"
   },
@@ -85054,7 +85045,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4997",
     "price": 20600.0,
-    "stock": 2,
+    "stock": 4,
     "url": "https://www.theamethyststore.com/products/grand-and-luxurious-diamond-design-pendant?variant=gid://shopify/ProductVariant/49667827400931",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4997.jpg?v=1788503219"
   },
@@ -112273,6 +112264,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/aviya-short-necklace?variant=gid://shopify/ProductVariant/44494322303203",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5711.jpg?v=1709793819"
+  },
+  "gid://shopify/ProductVariant/44522072506595": {
+    "product_title": "Cheerful Avikam Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-0418",
+    "price": 21400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/cheerful-avikam-bracelet?variant=gid://shopify/ProductVariant/44522072506595",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-0418-_3.jpg?v=1710155263"
   },
   "gid://shopify/ProductVariant/44536935022819": {
     "product_title": "Nasira Stone Necklace Set",
