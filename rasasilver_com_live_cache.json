@@ -4301,15 +4301,6 @@
     "url": "https://www.rasasilver.com/products/necklace-set-42?variant=gid://shopify/ProductVariant/51274658939177",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_122_Pics_1Oct29835.jpg?v=1759841386"
   },
-  "gid://shopify/ProductVariant/51274686300457": {
-    "product_title": "Florisra Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R14535",
-    "price": 33530.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/necklace-set-43?variant=gid://shopify/ProductVariant/51274686300457",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_122_Pics_1Oct29846.jpg?v=1759902451"
-  },
   "gid://shopify/ProductVariant/51274731913513": {
     "product_title": "Moonbelle Necklace Set",
     "variant_title": "Default Title",
@@ -21788,15 +21779,6 @@
     "url": "https://www.rasasilver.com/products/aadhya-kundan-kaankarela?variant=gid://shopify/ProductVariant/67708344729897",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_53_27Pics_24Oct21669_1_4c2935c4-c5b9-406e-9135-f860aeaa2aa6.jpg?v=1793882780"
   },
-  "gid://shopify/ProductVariant/67709917757737": {
-    "product_title": "Kiara Nakshi KaanKarela",
-    "variant_title": "Default Title",
-    "sku": "R38617",
-    "price": 23630.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/kiara-nakshi-kaankarela?variant=gid://shopify/ProductVariant/67709917757737",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_53_27Pics_23Oct0508.jpg?v=1793883559"
-  },
   "gid://shopify/ProductVariant/67724472779049": {
     "product_title": "Nidhika Temple Necklace",
     "variant_title": "Default Title",
@@ -25045,6 +25027,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/necklace-60?variant=gid://shopify/ProductVariant/51274640884009",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_122_Pics_1Oct29900.jpg?v=1759907046"
+  },
+  "gid://shopify/ProductVariant/51274686300457": {
+    "product_title": "Florisra Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R14535",
+    "price": 33530.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/necklace-set-43?variant=gid://shopify/ProductVariant/51274686300457",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_122_Pics_1Oct29846.jpg?v=1759902451"
   },
   "gid://shopify/ProductVariant/51274740695337": {
     "product_title": "Florabead Antique Studs",
@@ -49822,6 +49813,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/inaya-kundan-kaankarela?variant=gid://shopify/ProductVariant/67709250994473",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_53_27Pics_24Oct21673.jpg?v=1793883010"
+  },
+  "gid://shopify/ProductVariant/67709917757737": {
+    "product_title": "Kiara Nakshi KaanKarela",
+    "variant_title": "Default Title",
+    "sku": "R38617",
+    "price": 23630.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/kiara-nakshi-kaankarela?variant=gid://shopify/ProductVariant/67709917757737",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_53_27Pics_23Oct0508.jpg?v=1793883559"
   },
   "gid://shopify/ProductVariant/67717543690537": {
     "product_title": "Meena Nakshi Kaankarela",
