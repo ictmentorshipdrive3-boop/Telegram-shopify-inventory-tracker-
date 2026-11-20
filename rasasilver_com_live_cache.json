@@ -14624,15 +14624,6 @@
     "url": "https://www.rasasilver.com/products/pushmira-oxidized-payal?variant=gid://shopify/ProductVariant/53149816979753",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0666_resized.jpg?v=1780937373"
   },
-  "gid://shopify/ProductVariant/53149829857577": {
-    "product_title": "Floriva Oxidized Payal",
-    "variant_title": "Default Title",
-    "sku": "R16515",
-    "price": 12162.5,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/floriva-oxidized-payal?variant=gid://shopify/ProductVariant/53149829857577",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0672_resized.jpg?v=1780937878"
-  },
   "gid://shopify/ProductVariant/53149878681897": {
     "product_title": "Gulvira Oxidized Payal",
     "variant_title": "Ruby Pink",
@@ -15857,6 +15848,15 @@
     "url": "https://www.rasasilver.com/products/flutter-grace-toe-ring?variant=gid://shopify/ProductVariant/53289183969577",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5817_resized.jpg?v=1782388692"
   },
+  "gid://shopify/ProductVariant/53290333864233": {
+    "product_title": "Mugilu Mist Stone Danglers",
+    "variant_title": "Default Title",
+    "sku": "R31493",
+    "price": 3910.0,
+    "stock": 5,
+    "url": "https://www.rasasilver.com/products/mugilu-mist-danglers?variant=gid://shopify/ProductVariant/53290333864233",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2335_resized.jpg?v=1784352810"
+  },
   "gid://shopify/ProductVariant/53290379772201": {
     "product_title": "Mrudu Shine Stone Danglers",
     "variant_title": "Default Title",
@@ -15866,6 +15866,24 @@
     "url": "https://www.rasasilver.com/products/mrudu-shine-stone-danglers?variant=gid://shopify/ProductVariant/53290379772201",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2371_resized.jpg?v=1784353249"
   },
+  "gid://shopify/ProductVariant/53290385572137": {
+    "product_title": "Vana Mallika Stone Danglers",
+    "variant_title": "Default Title",
+    "sku": "R31502",
+    "price": 3060.0,
+    "stock": 6,
+    "url": "https://www.rasasilver.com/products/vana-mallika-stone-danglers?variant=gid://shopify/ProductVariant/53290385572137",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2376_resized.jpg?v=1784353414"
+  },
+  "gid://shopify/ProductVariant/53290402021673": {
+    "product_title": "Manikya Pear Stone Danglers",
+    "variant_title": "Default Title",
+    "sku": "R31873",
+    "price": 3485.0,
+    "stock": 6,
+    "url": "https://www.rasasilver.com/products/manikya-pear-stone-danglers?variant=gid://shopify/ProductVariant/53290402021673",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2388_resized.jpg?v=1784353514"
+  },
   "gid://shopify/ProductVariant/53290441769257": {
     "product_title": "Blossom-Peacock Nakshi Danglers",
     "variant_title": "Default Title",
@@ -15874,6 +15892,15 @@
     "stock": 3,
     "url": "https://www.rasasilver.com/products/blossom-peacock-nakshi-danglers?variant=gid://shopify/ProductVariant/53290441769257",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2248_resized.jpg?v=1782736017"
+  },
+  "gid://shopify/ProductVariant/53290448814377": {
+    "product_title": "Padmajyoti Temple Danglers",
+    "variant_title": "Default Title",
+    "sku": "R31963",
+    "price": 4420.0,
+    "stock": 6,
+    "url": "https://www.rasasilver.com/products/padmajyoti-temple-danglers?variant=gid://shopify/ProductVariant/53290448814377",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2264_resized.jpg?v=1782736208"
   },
   "gid://shopify/ProductVariant/53290501013801": {
     "product_title": "Mor-Vilasa Pendant Set",
@@ -15965,6 +15992,15 @@
     "url": "https://www.rasasilver.com/products/stone-gleam-ring?variant=gid://shopify/ProductVariant/53290729341225",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0694_resized.jpg?v=1783590985"
   },
+  "gid://shopify/ProductVariant/53290730422569": {
+    "product_title": "Manika Stone Ring",
+    "variant_title": "Default Title",
+    "sku": "R31973",
+    "price": 3145.0,
+    "stock": 6,
+    "url": "https://www.rasasilver.com/products/manika-stone-ring?variant=gid://shopify/ProductVariant/53290730422569",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0683_resized.jpg?v=1783592687"
+  },
   "gid://shopify/ProductVariant/53290731012393": {
     "product_title": "Rose Mist Stone Ring",
     "variant_title": "Default Title",
@@ -16001,12 +16037,30 @@
     "url": "https://www.rasasilver.com/products/stonique-stone-studs?variant=gid://shopify/ProductVariant/53292133089577",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2151_resized.jpg?v=1782737569"
   },
+  "gid://shopify/ProductVariant/53292139053353": {
+    "product_title": "Panna Kamal Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "R31445",
+    "price": 2890.0,
+    "stock": 2,
+    "url": "https://www.rasasilver.com/products/panna-kamal-stone-studs?variant=gid://shopify/ProductVariant/53292139053353",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2384_resized.jpg?v=1784354085"
+  },
+  "gid://shopify/ProductVariant/53292161990953": {
+    "product_title": "Pachai-Phool Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "R31451",
+    "price": 2550.0,
+    "stock": 7,
+    "url": "https://www.rasasilver.com/products/pachai-phool-stone-studs?variant=gid://shopify/ProductVariant/53292161990953",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2191_resized_e24d80bd-ae56-48ee-bfa8-6f50574b26d1.jpg?v=1785234061"
+  },
   "gid://shopify/ProductVariant/53292177686825": {
     "product_title": "Rect-Spark Stone Studs",
     "variant_title": "Default Title",
     "sku": "R31457",
     "price": 3400.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/rect-spark-stone-studs?variant=gid://shopify/ProductVariant/53292177686825",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2233_resized.jpg?v=1782812882"
   },
@@ -16019,14 +16073,59 @@
     "url": "https://www.rasasilver.com/products/verdant-stone-studs?variant=gid://shopify/ProductVariant/53292183814441",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2309_resized.jpg?v=1784354178"
   },
+  "gid://shopify/ProductVariant/53292193153321": {
+    "product_title": "Pear-Glow Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "R31461",
+    "price": 2550.0,
+    "stock": 9,
+    "url": "https://www.rasasilver.com/products/pear-glow-stone-studs?variant=gid://shopify/ProductVariant/53292193153321",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2227_resized.jpg?v=1782814170"
+  },
+  "gid://shopify/ProductVariant/53292197839145": {
+    "product_title": "Verde Luxe Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "R31463",
+    "price": 3570.0,
+    "stock": 7,
+    "url": "https://www.rasasilver.com/products/verde-luxe-stone-studs?variant=gid://shopify/ProductVariant/53292197839145",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2316_resized.jpg?v=1784354321"
+  },
+  "gid://shopify/ProductVariant/53292205048105": {
+    "product_title": "Chakra-Beads Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "R31465",
+    "price": 2380.0,
+    "stock": 9,
+    "url": "https://www.rasasilver.com/products/chakra-beads-stone-studs?variant=gid://shopify/ProductVariant/53292205048105",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2324_resized.jpg?v=1784354560"
+  },
+  "gid://shopify/ProductVariant/53300553023785": {
+    "product_title": "Green-Luxe Stone Studs",
+    "variant_title": "GREEN",
+    "sku": "R31472",
+    "price": 3485.0,
+    "stock": 7,
+    "url": "https://www.rasasilver.com/products/green-luxe-stone-studs?variant=gid://shopify/ProductVariant/53300553023785",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2133_resized.jpg?v=1782820309"
+  },
   "gid://shopify/ProductVariant/53300553056553": {
     "product_title": "Green-Luxe Stone Studs",
     "variant_title": "Ruby Pink",
     "sku": "R31906",
     "price": 3570.0,
-    "stock": 1,
+    "stock": 8,
     "url": "https://www.rasasilver.com/products/green-luxe-stone-studs?variant=gid://shopify/ProductVariant/53300553056553",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2133_resized.jpg?v=1782820309"
+  },
+  "gid://shopify/ProductVariant/53292340707625": {
+    "product_title": "Nava Elite Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "R31478",
+    "price": 3825.0,
+    "stock": 7,
+    "url": "https://www.rasasilver.com/products/nava-elite-stone-studs?variant=gid://shopify/ProductVariant/53292340707625",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2127_resized.jpg?v=1782802250"
   },
   "gid://shopify/ProductVariant/53292346999081": {
     "product_title": "Ratna Harmony Studs",
@@ -16037,12 +16136,21 @@
     "url": "https://www.rasasilver.com/products/ratna-harmony-studs?variant=gid://shopify/ProductVariant/53292346999081",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2236_resized.jpg?v=1782803156"
   },
+  "gid://shopify/ProductVariant/53292357779753": {
+    "product_title": "Mangora Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "R31480",
+    "price": 4250.0,
+    "stock": 6,
+    "url": "https://www.rasasilver.com/products/mangora-stone-studs?variant=gid://shopify/ProductVariant/53292357779753",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2124_resized.jpg?v=1782803549"
+  },
   "gid://shopify/ProductVariant/53292360827177": {
     "product_title": "Lotus Luxe Stone Studs",
     "variant_title": "Default Title",
     "sku": "R31482",
     "price": 4760.0,
-    "stock": 1,
+    "stock": 6,
     "url": "https://www.rasasilver.com/products/lotus-luxe-studs?variant=gid://shopify/ProductVariant/53292360827177",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2287_resized.jpg?v=1782804633"
   },
@@ -16051,9 +16159,27 @@
     "variant_title": "Default Title",
     "sku": "R31923",
     "price": 4845.0,
-    "stock": 1,
+    "stock": 7,
     "url": "https://www.rasasilver.com/products/ratna-pushpam-stone-studs?variant=gid://shopify/ProductVariant/53292365021481",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2267_resized.jpg?v=1782893261"
+  },
+  "gid://shopify/ProductVariant/53296567877929": {
+    "product_title": "Petal Sparkle Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "R31924",
+    "price": 2040.0,
+    "stock": 9,
+    "url": "https://www.rasasilver.com/products/petal-sparkle-stone-studs?variant=gid://shopify/ProductVariant/53296567877929",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2197_resized.jpg?v=1782893595"
+  },
+  "gid://shopify/ProductVariant/53296568140073": {
+    "product_title": "Parijata Luxe Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "R31926",
+    "price": 2805.0,
+    "stock": 8,
+    "url": "https://www.rasasilver.com/products/parijata-luxe-stone-studs?variant=gid://shopify/ProductVariant/53296568140073",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2187_resized.jpg?v=1782894113"
   },
   "gid://shopify/ProductVariant/53296582656297": {
     "product_title": "Shreya Temple Studs",
@@ -16064,21 +16190,57 @@
     "url": "https://www.rasasilver.com/products/shreya-temple-studs?variant=gid://shopify/ProductVariant/53296582656297",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2356_resized.jpg?v=1784355032"
   },
+  "gid://shopify/ProductVariant/53296583180585": {
+    "product_title": "Shriya Temple Studs",
+    "variant_title": "Default Title",
+    "sku": "R31955",
+    "price": 4080.0,
+    "stock": 4,
+    "url": "https://www.rasasilver.com/products/shriya-temple-studs?variant=gid://shopify/ProductVariant/53296583180585",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2110_resized.jpg?v=1782900140"
+  },
+  "gid://shopify/ProductVariant/53296590061865": {
+    "product_title": "Shree Siri Temple Studs",
+    "variant_title": "GREEN",
+    "sku": "R31956",
+    "price": 5270.0,
+    "stock": 2,
+    "url": "https://www.rasasilver.com/products/shree-siri-temple-studs?variant=gid://shopify/ProductVariant/53296590061865",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2342_resized.jpg?v=1784370593"
+  },
   "gid://shopify/ProductVariant/53296605528361": {
     "product_title": "Mango-Flora Stone Studs",
     "variant_title": "Default Title",
     "sku": "R31485",
     "price": 4080.0,
-    "stock": 1,
+    "stock": 12,
     "url": "https://www.rasasilver.com/products/mango-flora-stone-studs?variant=gid://shopify/ProductVariant/53296605528361",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2114_resized.jpg?v=1782825543"
+  },
+  "gid://shopify/ProductVariant/53296613753129": {
+    "product_title": "Panna-Manik Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "R31489",
+    "price": 2465.0,
+    "stock": 7,
+    "url": "https://www.rasasilver.com/products/panna-manik-stone-studs?variant=gid://shopify/ProductVariant/53296613753129",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2230_resized.jpg?v=1782826064"
+  },
+  "gid://shopify/ProductVariant/53296644522281": {
+    "product_title": "Mallika Glow Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "R31491",
+    "price": 2550.0,
+    "stock": 6,
+    "url": "https://www.rasasilver.com/products/mallika-glow-stone-studs?variant=gid://shopify/ProductVariant/53296644522281",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2224_resized.jpg?v=1782826465"
   },
   "gid://shopify/ProductVariant/53296661889321": {
     "product_title": "Panna-Moti Stone Danglers",
     "variant_title": "Default Title",
     "sku": "R31497",
     "price": 4250.0,
-    "stock": 1,
+    "stock": 6,
     "url": "https://www.rasasilver.com/products/panna-moti-stone-danglers?variant=gid://shopify/ProductVariant/53296661889321",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2365_resized.jpg?v=1784354782"
   },
@@ -16105,7 +16267,7 @@
     "variant_title": "Default Title",
     "sku": "R31822",
     "price": 5440.0,
-    "stock": 1,
+    "stock": 6,
     "url": "https://www.rasasilver.com/products/mandara-pearl-stone-studs?variant=gid://shopify/ProductVariant/53296690069801",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2280_resized.jpg?v=1782889077"
   },
@@ -16132,7 +16294,7 @@
     "variant_title": "Default Title",
     "sku": "R31866",
     "price": 4165.0,
-    "stock": 1,
+    "stock": 6,
     "url": "https://www.rasasilver.com/products/crimson-stone-studs?variant=gid://shopify/ProductVariant/53297237754153",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2154_resized.jpg?v=1782886695"
   },
@@ -16162,6 +16324,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/stone-rosara-studs?variant=gid://shopify/ProductVariant/53300426703145",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2142_resized.jpg?v=1782731724"
+  },
+  "gid://shopify/ProductVariant/53298197168425": {
+    "product_title": "Lalima Blossom Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "R31920",
+    "price": 4505.0,
+    "stock": 6,
+    "url": "https://www.rasasilver.com/products/stone-studs-1?variant=gid://shopify/ProductVariant/53298197168425",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2139.jpg?v=1782735728"
   },
   "gid://shopify/ProductVariant/53299554255145": {
     "product_title": "Flora-Whisper Stone Kada",
@@ -43640,6 +43811,15 @@
     "url": "https://www.rasasilver.com/products/rajwada-jadau-choker-set?variant=gid://shopify/ProductVariant/53149815832873",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0559_resized.jpg?v=1780487318"
   },
+  "gid://shopify/ProductVariant/53149829857577": {
+    "product_title": "Floriva Oxidized Payal",
+    "variant_title": "Default Title",
+    "sku": "R16515",
+    "price": 12162.5,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/floriva-oxidized-payal?variant=gid://shopify/ProductVariant/53149829857577",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0672_resized.jpg?v=1780937878"
+  },
   "gid://shopify/ProductVariant/53149867016489": {
     "product_title": "Parijata Stone Jhumki",
     "variant_title": "Default Title",
@@ -45701,15 +45881,6 @@
     "url": "https://www.rasasilver.com/products/heart-halo-toe-ring?variant=gid://shopify/ProductVariant/53289149301033",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5793_resized.jpg?v=1782388037"
   },
-  "gid://shopify/ProductVariant/53290333864233": {
-    "product_title": "Mugilu Mist Stone Danglers",
-    "variant_title": "Default Title",
-    "sku": "R31493",
-    "price": 3910.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/mugilu-mist-danglers?variant=gid://shopify/ProductVariant/53290333864233",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2335_resized.jpg?v=1784352810"
-  },
   "gid://shopify/ProductVariant/53290354442537": {
     "product_title": "Aakruthi Drops Stone Danglers",
     "variant_title": "Default Title",
@@ -45727,15 +45898,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/mayura-manjari-stone-danglers?variant=gid://shopify/ProductVariant/53290361094441",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2257_resized.jpg?v=1782735702"
-  },
-  "gid://shopify/ProductVariant/53290385572137": {
-    "product_title": "Vana Mallika Stone Danglers",
-    "variant_title": "Default Title",
-    "sku": "R31502",
-    "price": 3060.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/vana-mallika-stone-danglers?variant=gid://shopify/ProductVariant/53290385572137",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2376_resized.jpg?v=1784353414"
   },
   "gid://shopify/ProductVariant/53290441408809": {
     "product_title": "Zariya Stone Danglers",
@@ -45763,24 +45925,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/belli-spark-stone-danglers?variant=gid://shopify/ProductVariant/53290401956137",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2306_resized_1.jpg?v=1782735926"
-  },
-  "gid://shopify/ProductVariant/53290402021673": {
-    "product_title": "Manikya Pear Stone Danglers",
-    "variant_title": "Default Title",
-    "sku": "R31873",
-    "price": 3485.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/manikya-pear-stone-danglers?variant=gid://shopify/ProductVariant/53290402021673",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2388_resized.jpg?v=1784353514"
-  },
-  "gid://shopify/ProductVariant/53290448814377": {
-    "product_title": "Padmajyoti Temple Danglers",
-    "variant_title": "Default Title",
-    "sku": "R31963",
-    "price": 4420.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/padmajyoti-temple-danglers?variant=gid://shopify/ProductVariant/53290448814377",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2264_resized.jpg?v=1782736208"
   },
   "gid://shopify/ProductVariant/53290470867241": {
     "product_title": "Pear-Navaratna Pendant Set",
@@ -45890,15 +46034,6 @@
     "url": "https://www.rasasilver.com/products/spring-blossom-ring?variant=gid://shopify/ProductVariant/53290730389801",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0677_resized.jpg?v=1783591650"
   },
-  "gid://shopify/ProductVariant/53290730422569": {
-    "product_title": "Manika Stone Ring",
-    "variant_title": "Default Title",
-    "sku": "R31973",
-    "price": 3145.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/manika-stone-ring?variant=gid://shopify/ProductVariant/53290730422569",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0683_resized.jpg?v=1783592687"
-  },
   "gid://shopify/ProductVariant/53290769842473": {
     "product_title": "Crystal Drop Stone Necklace",
     "variant_title": "Default Title",
@@ -45971,15 +46106,6 @@
     "url": "https://www.rasasilver.com/products/panna-kanti-stone-studs?variant=gid://shopify/ProductVariant/53292125552937",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2159_resized.jpg?v=1782810514"
   },
-  "gid://shopify/ProductVariant/53292139053353": {
-    "product_title": "Panna Kamal Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "R31445",
-    "price": 2890.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/panna-kamal-stone-studs?variant=gid://shopify/ProductVariant/53292139053353",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2384_resized.jpg?v=1784354085"
-  },
   "gid://shopify/ProductVariant/53292141805865": {
     "product_title": "Green-Flora Stone Studs",
     "variant_title": "Default Title",
@@ -45998,51 +46124,6 @@
     "url": "https://www.rasasilver.com/products/avira-stone-studs?variant=gid://shopify/ProductVariant/53292155797801",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2203_resized.jpg?v=1782812338"
   },
-  "gid://shopify/ProductVariant/53292161990953": {
-    "product_title": "Pachai-Phool Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "R31451",
-    "price": 2550.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/pachai-phool-stone-studs?variant=gid://shopify/ProductVariant/53292161990953",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2191_resized_e24d80bd-ae56-48ee-bfa8-6f50574b26d1.jpg?v=1785234061"
-  },
-  "gid://shopify/ProductVariant/53292193153321": {
-    "product_title": "Pear-Glow Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "R31461",
-    "price": 2550.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/pear-glow-stone-studs?variant=gid://shopify/ProductVariant/53292193153321",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2227_resized.jpg?v=1782814170"
-  },
-  "gid://shopify/ProductVariant/53292197839145": {
-    "product_title": "Verde Luxe Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "R31463",
-    "price": 3570.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/verde-luxe-stone-studs?variant=gid://shopify/ProductVariant/53292197839145",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2316_resized.jpg?v=1784354321"
-  },
-  "gid://shopify/ProductVariant/53292205048105": {
-    "product_title": "Chakra-Beads Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "R31465",
-    "price": 2380.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/chakra-beads-stone-studs?variant=gid://shopify/ProductVariant/53292205048105",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2324_resized.jpg?v=1784354560"
-  },
-  "gid://shopify/ProductVariant/53300553023785": {
-    "product_title": "Green-Luxe Stone Studs",
-    "variant_title": "GREEN",
-    "sku": "R31472",
-    "price": 3485.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/green-luxe-stone-studs?variant=gid://shopify/ProductVariant/53300553023785",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2133_resized.jpg?v=1782820309"
-  },
   "gid://shopify/ProductVariant/53292327338281": {
     "product_title": "Navamani Stone Studs",
     "variant_title": "Default Title",
@@ -46051,42 +46132,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/navamani-stone-studs?variant=gid://shopify/ProductVariant/53292327338281",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2145_resized.jpg?v=1782801507"
-  },
-  "gid://shopify/ProductVariant/53292340707625": {
-    "product_title": "Nava Elite Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "R31478",
-    "price": 3825.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/nava-elite-stone-studs?variant=gid://shopify/ProductVariant/53292340707625",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2127_resized.jpg?v=1782802250"
-  },
-  "gid://shopify/ProductVariant/53292357779753": {
-    "product_title": "Mangora Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "R31480",
-    "price": 4250.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/mangora-stone-studs?variant=gid://shopify/ProductVariant/53292357779753",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2124_resized.jpg?v=1782803549"
-  },
-  "gid://shopify/ProductVariant/53296567877929": {
-    "product_title": "Petal Sparkle Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "R31924",
-    "price": 2040.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/petal-sparkle-stone-studs?variant=gid://shopify/ProductVariant/53296567877929",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2197_resized.jpg?v=1782893595"
-  },
-  "gid://shopify/ProductVariant/53296568140073": {
-    "product_title": "Parijata Luxe Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "R31926",
-    "price": 2805.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/parijata-luxe-stone-studs?variant=gid://shopify/ProductVariant/53296568140073",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2187_resized.jpg?v=1782894113"
   },
   "gid://shopify/ProductVariant/53296571384105": {
     "product_title": "Kasu Sundari Temple Studs",
@@ -46105,24 +46150,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/riddhi-glow-temple-studs?variant=gid://shopify/ProductVariant/53296571449641",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2121_resized.jpg?v=1782899796"
-  },
-  "gid://shopify/ProductVariant/53296583180585": {
-    "product_title": "Shriya Temple Studs",
-    "variant_title": "Default Title",
-    "sku": "R31955",
-    "price": 4080.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/shriya-temple-studs?variant=gid://shopify/ProductVariant/53296583180585",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2110_resized.jpg?v=1782900140"
-  },
-  "gid://shopify/ProductVariant/53296590061865": {
-    "product_title": "Shree Siri Temple Studs",
-    "variant_title": "GREEN",
-    "sku": "R31956",
-    "price": 5270.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/shree-siri-temple-studs?variant=gid://shopify/ProductVariant/53296590061865",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2342_resized.jpg?v=1784370593"
   },
   "gid://shopify/ProductVariant/53296590094633": {
     "product_title": "Shree Siri Temple Studs",
@@ -46159,24 +46186,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/siri-vaibhava-temple-studs?variant=gid://shopify/ProductVariant/53296605593897",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2331_resized.jpg?v=1784355178"
-  },
-  "gid://shopify/ProductVariant/53296613753129": {
-    "product_title": "Panna-Manik Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "R31489",
-    "price": 2465.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/panna-manik-stone-studs?variant=gid://shopify/ProductVariant/53296613753129",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2230_resized.jpg?v=1782826064"
-  },
-  "gid://shopify/ProductVariant/53296644522281": {
-    "product_title": "Mallika Glow Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "R31491",
-    "price": 2550.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/mallika-glow-stone-studs?variant=gid://shopify/ProductVariant/53296644522281",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2224_resized.jpg?v=1782826465"
   },
   "gid://shopify/ProductVariant/53296682467625": {
     "product_title": "Petal Glow Stone Studs",
@@ -46249,15 +46258,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/floral-of-stone-studs?variant=gid://shopify/ProductVariant/53298181243177",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2260_resized.jpg?v=1782734303"
-  },
-  "gid://shopify/ProductVariant/53298197168425": {
-    "product_title": "Lalima Blossom Stone Studs",
-    "variant_title": "Default Title",
-    "sku": "R31920",
-    "price": 4505.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/stone-studs-1?variant=gid://shopify/ProductVariant/53298197168425",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2139.jpg?v=1782735728"
   },
   "gid://shopify/ProductVariant/53299616579881": {
     "product_title": "Laksh Temple Kada",
