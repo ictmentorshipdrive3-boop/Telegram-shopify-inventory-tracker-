@@ -7334,15 +7334,6 @@
     "url": "https://www.daivik.in/products/b?variant=gid://shopify/ProductVariant/45908637941982",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/72BF5E15-1BC7-41A4-A20E-B253A4DC20C7.jpg?v=1727017441"
   },
-  "gid://shopify/ProductVariant/45908646822110": {
-    "product_title": "Lakshmi Coral Red Set of 6 Bangles",
-    "variant_title": "2.4",
-    "sku": "1503",
-    "price": 3299.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/c?variant=gid://shopify/ProductVariant/45908646822110",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_a65ea7d9-3428-4630-ac3c-113d8e2c52c3.jpg?v=1727018763"
-  },
   "gid://shopify/ProductVariant/45908646854878": {
     "product_title": "Lakshmi Coral Red Set of 6 Bangles",
     "variant_title": "2.6",
@@ -9013,7 +9004,7 @@
     "variant_title": "Purple",
     "sku": "1162",
     "price": 1399.0,
-    "stock": 32,
+    "stock": 30,
     "url": "https://www.daivik.in/products/1162?variant=gid://shopify/ProductVariant/46113758675166",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9D60915E-642D-4FF4-8517-D344055B2E24.jpg?v=1732877706"
   },
@@ -9085,7 +9076,7 @@
     "variant_title": "2.4",
     "sku": "1513",
     "price": 1299.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/ad-purple-bangles?variant=gid://shopify/ProductVariant/46122755915998",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/38F75A55-D125-4AF9-8AD7-19BBFA74A4B5.jpg?v=1733241449"
   },
@@ -23278,7 +23269,7 @@
     "variant_title": "Default Title",
     "sku": "358",
     "price": 699.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.daivik.in/products/ghungroo-beads-pearl-choker-with-earrings?variant=gid://shopify/ProductVariant/49477109383390",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5783.jpg?v=1795154861"
   },
@@ -28267,6 +28258,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/b?variant=gid://shopify/ProductVariant/45908637909214",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/72BF5E15-1BC7-41A4-A20E-B253A4DC20C7.jpg?v=1727017441"
+  },
+  "gid://shopify/ProductVariant/45908646822110": {
+    "product_title": "Lakshmi Coral Red Set of 6 Bangles",
+    "variant_title": "2.4",
+    "sku": "1503",
+    "price": 3299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/c?variant=gid://shopify/ProductVariant/45908646822110",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_a65ea7d9-3428-4630-ac3c-113d8e2c52c3.jpg?v=1727018763"
   },
   "gid://shopify/ProductVariant/45928214724830": {
     "product_title": "Green & Golden Beads Lakshmi Motif Choker , Long Haram",
