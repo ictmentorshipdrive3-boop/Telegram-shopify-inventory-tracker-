@@ -4769,15 +4769,6 @@
     "url": "https://www.dulhanjewels.com/products/royal-jadau-kundan-kasulu-haram-with-emerald-drops?variant=gid://shopify/ProductVariant/68309932769586",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4424.jpg?v=1793783838"
   },
-  "gid://shopify/ProductVariant/68309937652018": {
-    "product_title": "Traditional Jadau Kundan Kasulu Haram With Hangings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 4250.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/traditional-jadau-kundan-kasulu-haram-with-hangings?variant=gid://shopify/ProductVariant/68309937652018",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4426.jpg?v=1793783966"
-  },
   "gid://shopify/ProductVariant/68309942993202": {
     "product_title": "Elegant Jadau Kundan Kasulu Haram With Peacock Pendant",
     "variant_title": "Default Title",
@@ -5011,15 +5002,6 @@
     "stock": 1,
     "url": "https://www.dulhanjewels.com/products/dazzling-mango-necklace-set-with-moissanite-polki-stones-matching-earrings?variant=gid://shopify/ProductVariant/68728429642034",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4918.jpg?v=1794995223"
-  },
-  "gid://shopify/ProductVariant/68728583979314": {
-    "product_title": "Stylish Floral Jadau Kundan Choker With Emerald Beads",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 3200.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/stylish-floral-jadau-kundan-choker-with-emerald-beads?variant=gid://shopify/ProductVariant/68728583979314",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4914.jpg?v=1794995900"
   },
   "gid://shopify/ProductVariant/68728719704370": {
     "product_title": "Graceful Jadau Kundan Choker With Green Drops",
@@ -5327,6 +5309,15 @@
     "url": "https://www.dulhanjewels.com/products/pearl-jadau-kundan-champasaralu-with-green-drops?variant=gid://shopify/ProductVariant/67902982029618",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/78174C0E-18F0-486D-A61B-01360BC4BD6E.jpg?v=1791034347"
   },
+  "gid://shopify/ProductVariant/68309937652018": {
+    "product_title": "Traditional Jadau Kundan Kasulu Haram With Hangings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 4250.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/traditional-jadau-kundan-kasulu-haram-with-hangings?variant=gid://shopify/ProductVariant/68309937652018",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4426.jpg?v=1793783966"
+  },
   "gid://shopify/ProductVariant/68616220541234": {
     "product_title": "Opulent \tJadau Kundan Kasulu Haram With Hangings",
     "variant_title": "Default Title",
@@ -5335,5 +5326,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/opulent-jadau-kundan-kasulu-haram-with-hangings?variant=gid://shopify/ProductVariant/68616220541234",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4729.jpg?v=1794316374"
+  },
+  "gid://shopify/ProductVariant/68728583979314": {
+    "product_title": "Stylish Floral Jadau Kundan Choker With Emerald Beads",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 3200.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/stylish-floral-jadau-kundan-choker-with-emerald-beads?variant=gid://shopify/ProductVariant/68728583979314",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4914.jpg?v=1794995900"
   }
 }
