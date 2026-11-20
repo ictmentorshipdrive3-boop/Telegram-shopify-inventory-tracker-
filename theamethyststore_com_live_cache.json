@@ -69763,7 +69763,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-14995",
     "price": 7500.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/victorian-studs-12?variant=gid://shopify/ProductVariant/49426892521699",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14995.jpg?v=1784469205"
   },
@@ -73141,15 +73141,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/avikam-earrings-8?variant=gid://shopify/ProductVariant/49483469127907",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15073.jpg?v=1785582171"
-  },
-  "gid://shopify/ProductVariant/49483503698147": {
-    "product_title": "Vithikaa Avikam Earrings",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15074",
-    "price": 6300.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/avikam-earrings-9?variant=gid://shopify/ProductVariant/49483503698147",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15074.jpg?v=1785582525"
   },
   "gid://shopify/ProductVariant/49483527815395": {
     "product_title": "Larina Avikam Earrings",
@@ -88477,15 +88468,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/radiant-heritage-kundan-earrings?variant=gid://shopify/ProductVariant/49769489498339",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16028.jpg?v=1789730003"
-  },
-  "gid://shopify/ProductVariant/49769654059235": {
-    "product_title": "Brilliantly Crafted Avikam Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-18122",
-    "price": 52600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/brilliantly-crafted-avikam-short-necklace?variant=gid://shopify/ProductVariant/49769654059235",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18122.jpg?v=1789731832"
   },
   "gid://shopify/ProductVariant/49769928851683": {
     "product_title": "Fit-For-Royal Avikam Long Necklace",
@@ -110104,6 +110086,60 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/vamikaa-kundan-studs?variant=gid://shopify/ProductVariant/68879613231331",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16721.jpg?v=1795173116"
+  },
+  "gid://shopify/ProductVariant/68879614247139": {
+    "product_title": "Tejas Radiance Nagas Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5588",
+    "price": 8045.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/tejas-radiance-nagas-pendant?variant=gid://shopify/ProductVariant/68879614247139",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5588.jpg?v=1795173194"
+  },
+  "gid://shopify/ProductVariant/68879658516707": {
+    "product_title": "Brindha Kundan Jadabilla",
+    "variant_title": "Suriyan",
+    "sku": "AMS-112-1007-SURAJ",
+    "price": 7581.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/brindha-kundan-jadabilla?variant=gid://shopify/ProductVariant/68879658516707",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-1007-SURAJ_e82a27e4-0161-4544-b7e7-2b5c9673687b.jpg?v=1795174276"
+  },
+  "gid://shopify/ProductVariant/68879658549475": {
+    "product_title": "Brindha Kundan Jadabilla",
+    "variant_title": "Chandran",
+    "sku": "AMS-112-1007-CHAAND",
+    "price": 6468.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/brindha-kundan-jadabilla?variant=gid://shopify/ProductVariant/68879658549475",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-1007-SURAJ_e82a27e4-0161-4544-b7e7-2b5c9673687b.jpg?v=1795174276"
+  },
+  "gid://shopify/ProductVariant/68879697019107": {
+    "product_title": "Swinging Bloom Kundan Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16729",
+    "price": 21736.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/swinging-bloom-kundan-jhumkas?variant=gid://shopify/ProductVariant/68879697019107",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16729.jpg?v=1795174927"
+  },
+  "gid://shopify/ProductVariant/68879712485603": {
+    "product_title": "Grand Bridal Jada Billa",
+    "variant_title": "Suriyan",
+    "sku": "AMS-112-1016-SURAJ",
+    "price": 7765.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/finshajada-billa?variant=gid://shopify/ProductVariant/68879712485603",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-1016-SURAJ.jpg?v=1795174832"
+  },
+  "gid://shopify/ProductVariant/68879712518371": {
+    "product_title": "Grand Bridal Jada Billa",
+    "variant_title": "Chandran",
+    "sku": "AMS-112-1016-Chaand",
+    "price": 8956.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/finshajada-billa?variant=gid://shopify/ProductVariant/68879712518371",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-1016-SURAJ.jpg?v=1795174832"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -147635,6 +147671,15 @@
     "url": "https://www.theamethyststore.com/products/gorgeous-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49483423908067",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16926.jpg?v=1785580217"
   },
+  "gid://shopify/ProductVariant/49483503698147": {
+    "product_title": "Vithikaa Avikam Earrings",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15074",
+    "price": 6300.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/avikam-earrings-9?variant=gid://shopify/ProductVariant/49483503698147",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15074.jpg?v=1785582525"
+  },
   "gid://shopify/ProductVariant/49483524440291": {
     "product_title": "Fabulous Pakshi Short Necklace Set",
     "variant_title": "Default Title",
@@ -154996,6 +155041,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/shining-legacy-avikam-short-necklace?variant=gid://shopify/ProductVariant/49769590948067",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18093.jpg?v=1789731156"
+  },
+  "gid://shopify/ProductVariant/49769654059235": {
+    "product_title": "Brilliantly Crafted Avikam Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18122",
+    "price": 52600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/brilliantly-crafted-avikam-short-necklace?variant=gid://shopify/ProductVariant/49769654059235",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18122.jpg?v=1789731832"
   },
   "gid://shopify/ProductVariant/49769863610595": {
     "product_title": "Simply Dazzle Diamond Design Necklace",
