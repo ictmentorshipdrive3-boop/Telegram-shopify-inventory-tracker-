@@ -1489,7 +1489,7 @@
     "variant_title": "Default Title",
     "sku": "AC136",
     "price": 1365.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-maang-tika-50?variant=gid://shopify/ProductVariant/45462707863852",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_1248.jpg?v=1687353079"
   },
@@ -9170,15 +9170,6 @@
     "url": "https://www.kanshijewels.com/products/jadau-bugadi-1?variant=gid://shopify/ProductVariant/52441936232748",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaubugadi920.jpg?v=1766063307"
   },
-  "gid://shopify/ProductVariant/52441939444012": {
-    "product_title": "Jadau hair accessory",
-    "variant_title": "Default Title",
-    "sku": "AC36",
-    "price": 980.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-hair-accessory?variant=gid://shopify/ProductVariant/52441939444012",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadauhairaccessory980.jpg?v=1766063399"
-  },
   "gid://shopify/ProductVariant/52441940885804": {
     "product_title": "Jadau bugadi",
     "variant_title": "Default Title",
@@ -14389,6 +14380,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/nakashi-jhumkas?variant=gid://shopify/ProductVariant/52436703904044",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Nakashijhumkas900.jpg?v=1765969619"
+  },
+  "gid://shopify/ProductVariant/52441939444012": {
+    "product_title": "Jadau hair accessory",
+    "variant_title": "Default Title",
+    "sku": "AC36",
+    "price": 980.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-hair-accessory?variant=gid://shopify/ProductVariant/52441939444012",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadauhairaccessory980.jpg?v=1766063399"
   },
   "gid://shopify/ProductVariant/52445221486892": {
     "product_title": "Ruby sleek necklace earring set",
