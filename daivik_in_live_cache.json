@@ -2092,7 +2092,7 @@
     "variant_title": "Default Title",
     "sku": "118",
     "price": 1999.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/1-1?variant=gid://shopify/ProductVariant/42679268770014",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_b2eb70ab-b56b-4c92-8e8d-9507a88785eb.heic?v=1649767832"
   },
@@ -2857,7 +2857,7 @@
     "variant_title": "Default Title",
     "sku": "38",
     "price": 1999.0,
-    "stock": 40,
+    "stock": 39,
     "url": "https://www.daivik.in/products/a-355?variant=gid://shopify/ProductVariant/43643941847262",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_56e0438e-44c5-4420-a5dd-ad452fe3909b.heic?v=1668178409"
   },
@@ -23281,6 +23281,15 @@
     "stock": 43,
     "url": "https://www.daivik.in/products/ad-leaf-jhumkas-in-2-colors?variant=gid://shopify/ProductVariant/49467519566046",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/library-899788FB-7C17-441A-AA3F-95113C7E52D3-L0-001.jpg?v=1795020307"
+  },
+  "gid://shopify/ProductVariant/49477109383390": {
+    "product_title": "Asthapelu Ghungroo Beads Pearl Choker with Earrings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 699.0,
+    "stock": 20,
+    "url": "https://www.daivik.in/products/ghungroo-beads-pearl-choker-with-earrings?variant=gid://shopify/ProductVariant/49477109383390",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5783.jpg?v=1795154861"
   },
   "gid://shopify/ProductVariant/32600557649979": {
     "product_title": "Brass Guttapusalu Short Necklace With Earrings",
