@@ -23507,15 +23507,6 @@
     "url": "https://www.theamethyststore.com/products/charika-stone-pair-bangle?variant=gid://shopify/ProductVariant/46976211910883",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2343.jpg?v=1754294131"
   },
-  "gid://shopify/ProductVariant/49695950143715": {
-    "product_title": "Charika Stone Pair Bangle",
-    "variant_title": "2.6\"",
-    "sku": "AMS-107-2343-2.6''",
-    "price": 28000.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/charika-stone-pair-bangle?variant=gid://shopify/ProductVariant/49695950143715",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2343.jpg?v=1754294131"
-  },
   "gid://shopify/ProductVariant/46976222560483": {
     "product_title": "Tenishka Stone Studs",
     "variant_title": "Default Title",
@@ -80855,15 +80846,6 @@
     "url": "https://www.theamethyststore.com/products/yalisha-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/49570245083363",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17673.jpg?v=1787289257"
   },
-  "gid://shopify/ProductVariant/49570298167523": {
-    "product_title": "Layer Charm Diamond Design Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17665",
-    "price": 213200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/sparkle-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/49570298167523",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17665.jpg?v=1787289966"
-  },
   "gid://shopify/ProductVariant/49570299969763": {
     "product_title": "Lavisha Kundan Ring",
     "variant_title": "Default Title",
@@ -92338,15 +92320,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/delicate-delight-earrings?variant=gid://shopify/ProductVariant/67609011519715",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16392.jpg?v=1790838701"
-  },
-  "gid://shopify/ProductVariant/67609028624611": {
-    "product_title": "Attractive Attigai Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-18403",
-    "price": 19200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/attractive-attigai-necklace-1?variant=gid://shopify/ProductVariant/67609028624611",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18403.jpg?v=1790839270"
   },
   "gid://shopify/ProductVariant/67609039732963": {
     "product_title": "Pretty Precious Stone Single Bangle",
@@ -119338,6 +119311,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/shervikhasri-attigai-necklace?variant=gid://shopify/ProductVariant/46971781841123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10808.jpg?v=1754131294"
+  },
+  "gid://shopify/ProductVariant/49695950143715": {
+    "product_title": "Charika Stone Pair Bangle",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-2343-2.6''",
+    "price": 28000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/charika-stone-pair-bangle?variant=gid://shopify/ProductVariant/49695950143715",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2343.jpg?v=1754294131"
   },
   "gid://shopify/ProductVariant/46976714309859": {
     "product_title": "Aviva Kundan Ring",
@@ -151442,6 +151424,15 @@
     "url": "https://www.theamethyststore.com/products/ravisha-kundan-ring?variant=gid://shopify/ProductVariant/49570161197283",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2265.jpg?v=1787287539"
   },
+  "gid://shopify/ProductVariant/49570298167523": {
+    "product_title": "Layer Charm Diamond Design Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17665",
+    "price": 213200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/sparkle-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/49570298167523",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17665.jpg?v=1787289966"
+  },
   "gid://shopify/ProductVariant/49570364162275": {
     "product_title": "Attractive Kundan Drops",
     "variant_title": "Default Title",
@@ -156364,6 +156355,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/endearing-earrings?variant=gid://shopify/ProductVariant/67609023185123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16410.jpg?v=1790839130"
+  },
+  "gid://shopify/ProductVariant/67609028624611": {
+    "product_title": "Attractive Attigai Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-18403",
+    "price": 19200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/attractive-attigai-necklace-1?variant=gid://shopify/ProductVariant/67609028624611",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18403.jpg?v=1790839270"
   },
   "gid://shopify/ProductVariant/67609037439203": {
     "product_title": "Anitha Attigai Necklace",
