@@ -1255,7 +1255,7 @@
     "variant_title": "Default Title",
     "sku": "856",
     "price": 1699.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/kemp-guttaspusalu-short-necklace-with-earrings?variant=gid://shopify/ProductVariant/41060116988057",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_d9ebaed7-4533-45b2-9ede-cf9767cd5b0e.jpg?v=1631284312"
   },
@@ -8215,15 +8215,6 @@
     "stock": 7,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d24353?variant=gid://shopify/ProductVariant/45947694743774",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1450.jpg?v=1728594691"
-  },
-  "gid://shopify/ProductVariant/45948740010206": {
-    "product_title": "AD Designer Mangalsutra (Prices for Each)",
-    "variant_title": "Purple",
-    "sku": "1123",
-    "price": 649.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ad-designer-mangalsutra-prices-for-each?variant=gid://shopify/ProductVariant/45948740010206",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4561EA22-5E5D-4C06-8C1E-576C8A8FCDA2.jpg?v=1728493290"
   },
   "gid://shopify/ProductVariant/45950543364318": {
     "product_title": "Diwali Sale Bangles D24403",
@@ -28446,6 +28437,15 @@
     "price": 649.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/ad-designer-mangalsutra-prices-for-each?variant=gid://shopify/ProductVariant/45948739977438",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4561EA22-5E5D-4C06-8C1E-576C8A8FCDA2.jpg?v=1728493290"
+  },
+  "gid://shopify/ProductVariant/45948740010206": {
+    "product_title": "AD Designer Mangalsutra (Prices for Each)",
+    "variant_title": "Purple",
+    "sku": "1123",
+    "price": 649.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ad-designer-mangalsutra-prices-for-each?variant=gid://shopify/ProductVariant/45948740010206",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4561EA22-5E5D-4C06-8C1E-576C8A8FCDA2.jpg?v=1728493290"
   },
   "gid://shopify/ProductVariant/45950543331550": {
