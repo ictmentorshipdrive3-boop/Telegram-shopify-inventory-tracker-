@@ -7501,7 +7501,7 @@
     "variant_title": "Ruby Pink / 5.4",
     "sku": "R16685",
     "price": 2660.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.rasasilver.com/products/rosalya-ring?variant=gid://shopify/ProductVariant/52166987907369",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0045copy_resized.jpg?v=1763971241"
   },
@@ -19978,15 +19978,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/ridhanya-kundan-jhumki?variant=gid://shopify/ProductVariant/54118466683177",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Ridhanya_Kundan_Jhumki.jpg?v=1789554692"
-  },
-  "gid://shopify/ProductVariant/54118501024041": {
-    "product_title": "Vamisha Nakshi Jhumki",
-    "variant_title": "Default Title",
-    "sku": "R35181",
-    "price": 14365.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/vamisha-kundan-jhumki?variant=gid://shopify/ProductVariant/54118501024041",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1643.jpg?v=1789453132"
   },
   "gid://shopify/ProductVariant/54118525632809": {
     "product_title": "Yuvrisha Nakshi Jhumki",
@@ -48778,6 +48769,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/aarnisha-kundan-jhumki?variant=gid://shopify/ProductVariant/54118445351209",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1659.jpg?v=1789448541"
+  },
+  "gid://shopify/ProductVariant/54118501024041": {
+    "product_title": "Vamisha Nakshi Jhumki",
+    "variant_title": "Default Title",
+    "sku": "R35181",
+    "price": 14365.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/vamisha-kundan-jhumki?variant=gid://shopify/ProductVariant/54118501024041",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1643.jpg?v=1789453132"
   },
   "gid://shopify/ProductVariant/54120132116777": {
     "product_title": "Kavyara Kundan Maang Tikka",
