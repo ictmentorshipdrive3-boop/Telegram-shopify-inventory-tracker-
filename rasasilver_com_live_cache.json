@@ -17558,15 +17558,6 @@
     "url": "https://www.rasasilver.com/products/raga-pearl-moissanite-maang-tikka?variant=gid://shopify/ProductVariant/53362555388201",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0113.jpg?v=1786369253"
   },
-  "gid://shopify/ProductVariant/53362558533929": {
-    "product_title": "Royal Pear Moissanite Maang Tikka",
-    "variant_title": "Default Title",
-    "sku": "R30787",
-    "price": 12750.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/royal-pear-moissanite-maang-tikka?variant=gid://shopify/ProductVariant/53362558533929",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0130.jpg?v=1786368942"
-  },
   "gid://shopify/ProductVariant/53362596577577": {
     "product_title": "Lotus-Glow Moissanite Maang Tikka",
     "variant_title": "Default Title",
@@ -17890,15 +17881,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/auravelle-moissanite-haath-phool?variant=gid://shopify/ProductVariant/53370251542825",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2600_resized.jpg?v=1785238170"
-  },
-  "gid://shopify/ProductVariant/53373083517225": {
-    "product_title": "Mosaic Luxe Gemstone Chain",
-    "variant_title": "Default Title",
-    "sku": "R31106",
-    "price": 15000.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/mosaic-luxe-gemstone-chain?variant=gid://shopify/ProductVariant/53373083517225",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July09481.jpg?v=1786345760"
   },
   "gid://shopify/ProductVariant/53374108827945": {
     "product_title": "Heera Gulab Moissanite Chandbali",
@@ -47258,6 +47240,15 @@
     "url": "https://www.rasasilver.com/products/orange-beads-antique-mala?variant=gid://shopify/ProductVariant/53362408554793",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July04481.jpg?v=1786362285"
   },
+  "gid://shopify/ProductVariant/53362558533929": {
+    "product_title": "Royal Pear Moissanite Maang Tikka",
+    "variant_title": "Default Title",
+    "sku": "R30787",
+    "price": 12750.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/royal-pear-moissanite-maang-tikka?variant=gid://shopify/ProductVariant/53362558533929",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0130.jpg?v=1786368942"
+  },
   "gid://shopify/ProductVariant/53362568462633": {
     "product_title": "Amodini Moissanite Maang Tikka",
     "variant_title": "Default Title",
@@ -47536,6 +47527,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/laurel-arc-kundan-ear-cuff?variant=gid://shopify/ProductVariant/53370250297641",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0254.jpg?v=1786340716"
+  },
+  "gid://shopify/ProductVariant/53373083517225": {
+    "product_title": "Mosaic Luxe Gemstone Chain",
+    "variant_title": "Default Title",
+    "sku": "R31106",
+    "price": 15000.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/mosaic-luxe-gemstone-chain?variant=gid://shopify/ProductVariant/53373083517225",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July09481.jpg?v=1786345760"
   },
   "gid://shopify/ProductVariant/53374196252969": {
     "product_title": "Flora-Link Moissanite Choker",
