@@ -15560,15 +15560,6 @@
     "url": "https://www.theamethyststore.com/products/swathi-earrings?variant=gid://shopify/ProductVariant/46196438892771",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-7955_0b49d403-17c6-443a-9f0e-047b364cdd39.jpg?v=1748342485"
   },
-  "gid://shopify/ProductVariant/49674850861283": {
-    "product_title": "Vaishnavi Moissanite Pair Bangles",
-    "variant_title": "2.4\"",
-    "sku": "AMS-107-1807-2.4\"",
-    "price": 49200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/vaishnavi-moissanite-pair-bangles?variant=gid://shopify/ProductVariant/49674850861283",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/DSC06869.jpg?v=1748411163"
-  },
   "gid://shopify/ProductVariant/49681965220067": {
     "product_title": "Vaishnavi Moissanite Pair Bangles",
     "variant_title": "2.6\"",
@@ -22435,15 +22426,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/camille-kundan-jhumkhas?variant=gid://shopify/ProductVariant/46939728183523",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9570.jpg?v=1753447897"
-  },
-  "gid://shopify/ProductVariant/46942677795043": {
-    "product_title": "Shrishali Kundan Maatal",
-    "variant_title": "Default Title",
-    "sku": "AMS-109-1757",
-    "price": 26235.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/shrishali-kundan-maatal?variant=gid://shopify/ProductVariant/46942677795043",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1757.jpg?v=1753504877"
   },
   "gid://shopify/ProductVariant/46942679761123": {
     "product_title": "Mansi Kundan Maatal",
@@ -115694,6 +115676,15 @@
     "url": "https://www.theamethyststore.com/products/cute-green-studs?variant=gid://shopify/ProductVariant/46196361036003",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-7948_8284d3f5-3dcc-4447-8084-5e85ef5343f2.jpg?v=1748341752"
   },
+  "gid://shopify/ProductVariant/49674850861283": {
+    "product_title": "Vaishnavi Moissanite Pair Bangles",
+    "variant_title": "2.4\"",
+    "sku": "AMS-107-1807-2.4\"",
+    "price": 49200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vaishnavi-moissanite-pair-bangles?variant=gid://shopify/ProductVariant/49674850861283",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/DSC06869.jpg?v=1748411163"
+  },
   "gid://shopify/ProductVariant/46197083799779": {
     "product_title": "Clarika Sheeshphool",
     "variant_title": "Default Title",
@@ -118870,6 +118861,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/virshali-short-necklace-set?variant=gid://shopify/ProductVariant/46939009351907",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10236.jpg?v=1753427891"
+  },
+  "gid://shopify/ProductVariant/46942677795043": {
+    "product_title": "Shrishali Kundan Maatal",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-1757",
+    "price": 26235.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/shrishali-kundan-maatal?variant=gid://shopify/ProductVariant/46942677795043",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1757.jpg?v=1753504877"
   },
   "gid://shopify/ProductVariant/46942730322147": {
     "product_title": "Fabulous Kundan Maatal",
