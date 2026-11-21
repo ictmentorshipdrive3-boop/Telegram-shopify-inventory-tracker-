@@ -7393,7 +7393,7 @@
     "variant_title": "Default Title",
     "sku": "NK210",
     "price": 2310.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.kanshijewels.com/products/pearl-necklace-1?variant=gid://shopify/ProductVariant/50702732788012",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2200_-pearlsnecklace.jpg?v=1741257363"
   },
@@ -10007,15 +10007,6 @@
     "url": "https://www.kanshijewels.com/products/jadau-jhumkas-9?variant=gid://shopify/ProductVariant/52445394534700",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaujhumkas4200_-_1.jpg?v=1766144896"
   },
-  "gid://shopify/ProductVariant/52445396173100": {
-    "product_title": "Jadau earrings",
-    "variant_title": "Default Title",
-    "sku": "ER86",
-    "price": 3300.0,
-    "stock": 1,
-    "url": "https://www.kanshijewels.com/products/jadau-earrings-copy-1?variant=gid://shopify/ProductVariant/52445396173100",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadauearrings3300.jpg?v=1766145019"
-  },
   "gid://shopify/ProductVariant/52445396959532": {
     "product_title": "Jadau jhumkas",
     "variant_title": "Default Title",
@@ -12370,7 +12361,7 @@
     "variant_title": "Default Title",
     "sku": "NK1009",
     "price": 999.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.kanshijewels.com/products/super-elegant-krishna-pendant-with-detachable-hasli?variant=gid://shopify/ProductVariant/67661423575340",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/WhatsAppImage2026-10-24at3.35.10PM_1.jpg?v=1792836601"
   },
@@ -14515,6 +14506,15 @@
     "stock": 0,
     "url": "https://www.kanshijewels.com/products/jadau-nakashi-jhumkas?variant=gid://shopify/ProductVariant/52445380673836",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaujhumkas4450.jpg?v=1766144502"
+  },
+  "gid://shopify/ProductVariant/52445396173100": {
+    "product_title": "Jadau earrings",
+    "variant_title": "Default Title",
+    "sku": "ER86",
+    "price": 3300.0,
+    "stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-earrings-copy-1?variant=gid://shopify/ProductVariant/52445396173100",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadauearrings3300.jpg?v=1766145019"
   },
   "gid://shopify/ProductVariant/52737255866668": {
     "product_title": "Jadau Earrings",
