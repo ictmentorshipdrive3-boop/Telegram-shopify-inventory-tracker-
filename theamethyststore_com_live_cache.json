@@ -59080,7 +59080,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-103-1315",
     "price": 11300.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/mahaghosha-avikam-bracelet?variant=gid://shopify/ProductVariant/48931743727843",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1315.jpg?v=1778506179"
   },
@@ -70825,7 +70825,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-15503",
     "price": 6800.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/moissanite-studs-9?variant=gid://shopify/ProductVariant/49447281819875",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15503.jpg?v=1784974320"
   },
@@ -84122,15 +84122,6 @@
     "url": "https://www.theamethyststore.com/products/diamond-design-necklace-set-14?variant=gid://shopify/ProductVariant/49660279718115",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17753.jpg?v=1788356882"
   },
-  "gid://shopify/ProductVariant/49660282339555": {
-    "product_title": "Flower-Inspired Avikam Maangtikka",
-    "variant_title": "Default Title",
-    "sku": "AMS-109-2496",
-    "price": 10700.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/flower-inspired-avikam-maangtikka?variant=gid://shopify/ProductVariant/49660282339555",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2496.jpg?v=1788357056"
-  },
   "gid://shopify/ProductVariant/49660295971043": {
     "product_title": "Glitzz Diamond Design Necklace Set",
     "variant_title": "Default Title",
@@ -86197,7 +86188,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-109-2319",
     "price": 10200.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/graceful-bridal-avikam-maangtikkam?variant=gid://shopify/ProductVariant/49714942050531",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2319_3e980753-9c84-4ff5-8d9e-5d8eb6dffae8.jpg?v=1793694044"
   },
@@ -110221,6 +110212,24 @@
     "stock": 3,
     "url": "https://www.theamethyststore.com/products/flowing-masterpiece-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/68885190344931",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19596.jpg?v=1795261140"
+  },
+  "gid://shopify/ProductVariant/68885197652195": {
+    "product_title": "Artistic Grandeur Avikam Hair Maatal",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2620",
+    "price": 37500.0,
+    "stock": 4,
+    "url": "https://www.theamethyststore.com/products/artistic-grandeur-avikam-hair-maatal?variant=gid://shopify/ProductVariant/68885197652195",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2620.jpg?v=1795261524"
+  },
+  "gid://shopify/ProductVariant/68885201715427": {
+    "product_title": "Cute Floral  Avikam Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19714",
+    "price": 30000.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/cute-floral-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/68885201715427",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19714.jpg?v=1795261658"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -153592,6 +153601,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/eye-catching-avikam-maangtikka?variant=gid://shopify/ProductVariant/49660278571235",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2497.jpg?v=1788356798"
+  },
+  "gid://shopify/ProductVariant/49660282339555": {
+    "product_title": "Flower-Inspired Avikam Maangtikka",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2496",
+    "price": 10700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/flower-inspired-avikam-maangtikka?variant=gid://shopify/ProductVariant/49660282339555",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2496.jpg?v=1788357056"
   },
   "gid://shopify/ProductVariant/49660305703139": {
     "product_title": "Beautiful Diamond Design Necklace Set",
