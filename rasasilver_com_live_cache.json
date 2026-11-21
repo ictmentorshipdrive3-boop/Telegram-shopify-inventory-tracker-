@@ -15722,15 +15722,6 @@
     "url": "https://www.rasasilver.com/products/flutter-grace-toe-ring?variant=gid://shopify/ProductVariant/53289183936809",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5817_resized.jpg?v=1782388692"
   },
-  "gid://shopify/ProductVariant/53289183969577": {
-    "product_title": "Flutter Grace Toe Ring",
-    "variant_title": "Silver",
-    "sku": "R31654",
-    "price": 2295.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/flutter-grace-toe-ring?variant=gid://shopify/ProductVariant/53289183969577",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5817_resized.jpg?v=1782388692"
-  },
   "gid://shopify/ProductVariant/53290333864233": {
     "product_title": "Mugilu Mist Stone Danglers",
     "variant_title": "Default Title",
@@ -17800,15 +17791,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/cz-ear-cuff?variant=gid://shopify/ProductVariant/53365651865897",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0156.jpg?v=1786350545"
-  },
-  "gid://shopify/ProductVariant/53365659795753": {
-    "product_title": "Fleurance Moissanite Haath Phool",
-    "variant_title": "Default Title",
-    "sku": "R31028",
-    "price": 24990.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/fleurance-moissanite-haath-phool?variant=gid://shopify/ProductVariant/53365659795753",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2592_resized.jpg?v=1785238650"
   },
   "gid://shopify/ProductVariant/53369987432745": {
     "product_title": "LumiGem Gemstone Hangings",
@@ -45863,6 +45845,15 @@
     "url": "https://www.rasasilver.com/products/heart-halo-toe-ring?variant=gid://shopify/ProductVariant/53289149301033",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5793_resized.jpg?v=1782388037"
   },
+  "gid://shopify/ProductVariant/53289183969577": {
+    "product_title": "Flutter Grace Toe Ring",
+    "variant_title": "Silver",
+    "sku": "R31654",
+    "price": 2295.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/flutter-grace-toe-ring?variant=gid://shopify/ProductVariant/53289183969577",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5817_resized.jpg?v=1782388692"
+  },
   "gid://shopify/ProductVariant/53290354442537": {
     "product_title": "Aakruthi Drops Stone Danglers",
     "variant_title": "Default Title",
@@ -47446,6 +47437,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/pear-green-cz-ear-cuff?variant=gid://shopify/ProductVariant/53365659271465",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0161.jpg?v=1786360040"
+  },
+  "gid://shopify/ProductVariant/53365659795753": {
+    "product_title": "Fleurance Moissanite Haath Phool",
+    "variant_title": "Default Title",
+    "sku": "R31028",
+    "price": 24990.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/fleurance-moissanite-haath-phool?variant=gid://shopify/ProductVariant/53365659795753",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2592_resized.jpg?v=1785238650"
   },
   "gid://shopify/ProductVariant/53365661303081": {
     "product_title": "Pear-Flori CZ Ear Cuff",
