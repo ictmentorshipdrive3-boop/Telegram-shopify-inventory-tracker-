@@ -1300,7 +1300,7 @@
     "variant_title": "Default Title",
     "sku": "884",
     "price": 1499.0,
-    "stock": 55,
+    "stock": 54,
     "url": "https://www.daivik.in/products/spike-kemp-ad-necklace-with-earrings?variant=gid://shopify/ProductVariant/41232704995481",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_78d9195b-6998-4cd2-9be0-19bb153b5b3f.jpg?v=1632842646"
   },
@@ -9742,7 +9742,7 @@
     "variant_title": "Default Title",
     "sku": "1221",
     "price": 999.0,
-    "stock": 47,
+    "stock": 46,
     "url": "https://www.daivik.in/products/kemp-pastel-beads-necklace-with-earrings?variant=gid://shopify/ProductVariant/46297625559262",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B4A933D6-C07F-435B-B139-0299246BAA64.jpg?v=1790318797"
   },
@@ -9760,7 +9760,7 @@
     "variant_title": "Default Title",
     "sku": "1223",
     "price": 799.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/invisible-kemp-ruby-green-chain-with-earrings?variant=gid://shopify/ProductVariant/46298362314974",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AF90BFEA-40A9-4531-B823-5FBA4552335A.jpg?v=1739975062"
   },
@@ -10876,7 +10876,7 @@
     "variant_title": "Default Title",
     "sku": "1266",
     "price": 1799.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.daivik.in/products/ad-pendant-flower-necklace-with-earrings?variant=gid://shopify/ProductVariant/46813927243998",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C971D71F-3CE6-45A1-B760-CE5864EB1EC7.jpg?v=1747924955"
   },
@@ -11380,7 +11380,7 @@
     "variant_title": "Short",
     "sku": "1295",
     "price": 799.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/jyothika-mam-inspired-ad-green-pendant-necklace?variant=gid://shopify/ProductVariant/47092708573406",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6D306FEB-C930-4743-A32A-FBEB4ECF8E48.jpg?v=1752941521"
   },
@@ -17824,7 +17824,7 @@
     "variant_title": "Default Title",
     "sku": "1380",
     "price": 1299.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.daivik.in/products/moissanite-flower-necklace-with-earrings?variant=gid://shopify/ProductVariant/48149264629982",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_4526.jpg?v=1776961897"
   },
@@ -20101,7 +20101,7 @@
     "variant_title": "Default Title",
     "sku": "D26021",
     "price": 399.0,
-    "stock": 20,
+    "stock": 19,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26021?variant=gid://shopify/ProductVariant/49149623566558",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6036_29637609-0d5b-464a-bb64-7d4ae3a8778c.jpg?v=1791221134"
   },
@@ -21220,15 +21220,6 @@
     "stock": 3,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26122?variant=gid://shopify/ProductVariant/49169756356830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6864.jpg?v=1791457534"
-  },
-  "gid://shopify/ProductVariant/49169757012190": {
-    "product_title": "Diwali Sale Necklace D26123",
-    "variant_title": "White",
-    "sku": "D26123",
-    "price": 849.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26123?variant=gid://shopify/ProductVariant/49169757012190",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6870.jpg?v=1791457562"
   },
   "gid://shopify/ProductVariant/49169762058462": {
     "product_title": "Diwali Sale Necklace D26128",
@@ -35160,6 +35151,15 @@
     "price": 849.0,
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26123?variant=gid://shopify/ProductVariant/49169756979422",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6870.jpg?v=1791457562"
+  },
+  "gid://shopify/ProductVariant/49169757012190": {
+    "product_title": "Diwali Sale Necklace D26123",
+    "variant_title": "White",
+    "sku": "D26123",
+    "price": 849.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26123?variant=gid://shopify/ProductVariant/49169757012190",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6870.jpg?v=1791457562"
   },
   "gid://shopify/ProductVariant/49169757602014": {
