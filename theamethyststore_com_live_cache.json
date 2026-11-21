@@ -53081,15 +53081,6 @@
     "url": "https://www.theamethyststore.com/products/vihana-nagas-tikka?variant=gid://shopify/ProductVariant/48324200792291",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2234.jpg?v=1772371379"
   },
-  "gid://shopify/ProductVariant/48324217667811": {
-    "product_title": "Menakshi  Nagas Tikka",
-    "variant_title": "Default Title",
-    "sku": "AMS-109-2237",
-    "price": 14165.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/menakshi-nagas-tikka?variant=gid://shopify/ProductVariant/48324217667811",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2237-_2.jpg?v=1772371993"
-  },
   "gid://shopify/ProductVariant/48333909819619": {
     "product_title": "Nithra Stone Short Necklace",
     "variant_title": "Default Title",
@@ -92663,24 +92654,6 @@
     "url": "https://www.theamethyststore.com/products/floral-sparke-oxidised-hook-drops?variant=gid://shopify/ProductVariant/67617005764835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16427.jpg?v=1791011530"
   },
-  "gid://shopify/ProductVariant/67617034862819": {
-    "product_title": "Elegant Wear Nagas Pair Bangles",
-    "variant_title": "2.6",
-    "sku": "AMS-107-3692-2.6\"",
-    "price": 33150.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/elegant-wear-nagas-pair-bangles?variant=gid://shopify/ProductVariant/67617034862819",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3692-2.6.jpg?v=1791012344"
-  },
-  "gid://shopify/ProductVariant/67617235075299": {
-    "product_title": "Enchanting Nagas Pair Bangles",
-    "variant_title": "2.6",
-    "sku": "AMS-107-3691-2.6\"",
-    "price": 34477.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/enchanting-nagas-pair-bangles?variant=gid://shopify/ProductVariant/67617235075299",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3691-2.6.jpg?v=1791012772"
-  },
   "gid://shopify/ProductVariant/67617271939299": {
     "product_title": "Bright Brilliant Nagas Pair Bangles",
     "variant_title": "2.6",
@@ -109978,6 +109951,33 @@
     "stock": 3,
     "url": "https://www.theamethyststore.com/products/divine-perumal-diamond-design-long-necklace?variant=gid://shopify/ProductVariant/68884239057123",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19578.jpg?v=1795242420"
+  },
+  "gid://shopify/ProductVariant/68884248461539": {
+    "product_title": "Floral Fantasy Diamond Design Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-17105",
+    "price": 13000.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/floral-fantasy-diamond-design-studs?variant=gid://shopify/ProductVariant/68884248461539",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-17105.jpg?v=1795242696"
+  },
+  "gid://shopify/ProductVariant/68884253475043": {
+    "product_title": "Vershikaa  Stone Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19709",
+    "price": 23174.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/vershikaa-stone-short-necklace-set?variant=gid://shopify/ProductVariant/68884253475043",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19709.jpg?v=1795242856"
+  },
+  "gid://shopify/ProductVariant/68884259668195": {
+    "product_title": "Mayura Charm Diamond Design Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16966",
+    "price": 7500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/mayura-charm-diamond-design-studs?variant=gid://shopify/ProductVariant/68884259668195",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16966.jpg?v=1795243179"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -131803,6 +131803,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/riyona-nagas-tikka?variant=gid://shopify/ProductVariant/48324210983139",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2236.jpg?v=1772371781"
+  },
+  "gid://shopify/ProductVariant/48324217667811": {
+    "product_title": "Menakshi  Nagas Tikka",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2237",
+    "price": 14165.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/menakshi-nagas-tikka?variant=gid://shopify/ProductVariant/48324217667811",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2237-_2.jpg?v=1772371993"
   },
   "gid://shopify/ProductVariant/48340603699427": {
     "product_title": "Lavikha Kundan Short Necklace",
@@ -156571,6 +156580,24 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/unique-bloom-earrings?variant=gid://shopify/ProductVariant/67616996688099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16416.jpg?v=1791010880"
+  },
+  "gid://shopify/ProductVariant/67617034862819": {
+    "product_title": "Elegant Wear Nagas Pair Bangles",
+    "variant_title": "2.6",
+    "sku": "AMS-107-3692-2.6\"",
+    "price": 33150.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/elegant-wear-nagas-pair-bangles?variant=gid://shopify/ProductVariant/67617034862819",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3692-2.6.jpg?v=1791012344"
+  },
+  "gid://shopify/ProductVariant/67617235075299": {
+    "product_title": "Enchanting Nagas Pair Bangles",
+    "variant_title": "2.6",
+    "sku": "AMS-107-3691-2.6\"",
+    "price": 34477.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/enchanting-nagas-pair-bangles?variant=gid://shopify/ProductVariant/67617235075299",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3691-2.6.jpg?v=1791012772"
   },
   "gid://shopify/ProductVariant/67617255948515": {
     "product_title": "Effortlessly Wearable Nagas Pair Bangles",
