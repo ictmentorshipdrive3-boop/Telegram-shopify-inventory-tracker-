@@ -4882,7 +4882,7 @@
     "variant_title": "Default Title",
     "sku": "849",
     "price": 1399.0,
-    "stock": 35,
+    "stock": 33,
     "url": "https://www.daivik.in/products/pure-kemp-peacock-pearl-choker?variant=gid://shopify/ProductVariant/44556701270238",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6B52F17A-1607-4A36-9E9F-9F9A0E0E02A8.heic?v=1701014519"
   },
@@ -5818,7 +5818,7 @@
     "variant_title": "2.6",
     "sku": "542",
     "price": 1099.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/lakshmi-ad-rubygreen-bangles?variant=gid://shopify/ProductVariant/45058364473566",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/20F3EC4C-9A6D-47FB-8DC7-060885742334.jpg?v=1712162963"
   },
@@ -10102,7 +10102,7 @@
     "variant_title": "2.4",
     "sku": "1576",
     "price": 1499.0,
-    "stock": 44,
+    "stock": 43,
     "url": "https://www.daivik.in/products/ad-stone-ruby-bangles-price-for-a-pair?variant=gid://shopify/ProductVariant/46401149731038",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3682.heic?v=1742104825"
   },
@@ -10507,7 +10507,7 @@
     "variant_title": "Default Title",
     "sku": "1249",
     "price": 1499.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/green-ad-three-line-choker-with-studs?variant=gid://shopify/ProductVariant/46605022134494",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4B95E02E-BABE-4B68-8A47-045232E9A067.jpg?v=1744645112"
   },
@@ -11047,7 +11047,7 @@
     "variant_title": "Default Title",
     "sku": "1614",
     "price": 2699.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/ad-hipbelt?variant=gid://shopify/ProductVariant/46998726443230",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F8958784-714D-4D25-ABA8-23502DCE510A.jpg?v=1749294688"
   },
@@ -20771,15 +20771,6 @@
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26343?variant=gid://shopify/ProductVariant/49162124558558",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6636.jpg?v=1791443936"
   },
-  "gid://shopify/ProductVariant/49162124624094": {
-    "product_title": "Diwali Sale Earrings D26344",
-    "variant_title": "Default Title",
-    "sku": "D26344",
-    "price": 449.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26344?variant=gid://shopify/ProductVariant/49162124624094",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6638.jpg?v=1791443952"
-  },
   "gid://shopify/ProductVariant/49162124689630": {
     "product_title": "Diwali Sale Earrings D26346",
     "variant_title": "Default Title",
@@ -26728,15 +26719,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/cluster-of-white-pearl-long-chain?variant=gid://shopify/ProductVariant/44374744006878",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/03101DD1-D1A3-4B75-8451-4C6957C397DA.jpg?v=1696262934"
-  },
-  "gid://shopify/ProductVariant/44379719565534": {
-    "product_title": "Victorian Mossanite Peacock Necklace with Earrings & Teeka",
-    "variant_title": "Default Title",
-    "sku": "990",
-    "price": 10999.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/untitled-oct4_21-04?variant=gid://shopify/ProductVariant/44379719565534",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2287F884-F070-451F-A5B6-501299261359.jpg?v=1696434041"
   },
   "gid://shopify/ProductVariant/44402779128030": {
     "product_title": "Diwali sale Necklace 56",
@@ -34684,6 +34666,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26342?variant=gid://shopify/ProductVariant/49162124525790",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6634.jpg?v=1791443932"
+  },
+  "gid://shopify/ProductVariant/49162124624094": {
+    "product_title": "Diwali Sale Earrings D26344",
+    "variant_title": "Default Title",
+    "sku": "D26344",
+    "price": 449.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-earrings-d26344?variant=gid://shopify/ProductVariant/49162124624094",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6638.jpg?v=1791443952"
   },
   "gid://shopify/ProductVariant/49162124656862": {
     "product_title": "Diwali Sale Earrings D26345",
