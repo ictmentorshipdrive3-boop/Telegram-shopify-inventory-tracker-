@@ -3244,7 +3244,7 @@
     "variant_title": "Default Title",
     "sku": "51",
     "price": 1299.0,
-    "stock": 18,
+    "stock": 17,
     "url": "https://www.daivik.in/products/a-18?variant=gid://shopify/ProductVariant/44091056062686",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_58993e3f-e76b-448c-99e2-c5f169092d53.heic?v=1679324285"
   },
@@ -4045,7 +4045,7 @@
     "variant_title": "Default Title",
     "sku": "919",
     "price": 799.0,
-    "stock": 5,
+    "stock": 4,
     "url": "https://www.daivik.in/products/untitled-sep7_21-10?variant=gid://shopify/ProductVariant/44338671747294",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/88F79A78-9A2E-4FE2-93D9-5F3C2F113359.jpg?v=1694101328"
   },
@@ -9418,7 +9418,7 @@
     "variant_title": "Default Title",
     "sku": "1203",
     "price": 1899.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/coral-ad-pearl-necklace-with-earrings?variant=gid://shopify/ProductVariant/46211770646750",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BBDF8A63-14C5-4E51-A4DE-570E03B00919.jpg?v=1736715564"
   },
@@ -9727,15 +9727,6 @@
     "stock": 6,
     "url": "https://www.daivik.in/products/invisible-ad-chain-with-earrings-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/46298739376350",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/62325549-FA3A-450A-9A0A-FEE95A453473.jpg?v=1739974848"
-  },
-  "gid://shopify/ProductVariant/46298362314974": {
-    "product_title": "Invisible Kemp Ruby Green Chain with Earrings",
-    "variant_title": "Default Title",
-    "sku": "1223",
-    "price": 799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/invisible-kemp-ruby-green-chain-with-earrings?variant=gid://shopify/ProductVariant/46298362314974",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AF90BFEA-40A9-4531-B823-5FBA4552335A.jpg?v=1739975062"
   },
   "gid://shopify/ProductVariant/46298390823134": {
     "product_title": "Invisible Half Moon Chain",
@@ -18184,7 +18175,7 @@
     "variant_title": "Default Title",
     "sku": "1389",
     "price": 1299.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/ad-pendant-premium-hasli-with-earrings?variant=gid://shopify/ProductVariant/48286681759966",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BF61EB47-FF06-48A1-BF1B-18AF76B5F198.jpg?v=1779899313"
   },
@@ -18922,7 +18913,7 @@
     "variant_title": "Default Title",
     "sku": "1925",
     "price": 699.0,
-    "stock": 20,
+    "stock": 19,
     "url": "https://www.daivik.in/products/premium-floral-ad-kada-fits-2-2-2-4?variant=gid://shopify/ProductVariant/48429714374878",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0576.jpg?v=1783946500"
   },
@@ -29356,6 +29347,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/invisible-ad-chain-with-earrings-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/46298739409118",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/62325549-FA3A-450A-9A0A-FEE95A453473.jpg?v=1739974848"
+  },
+  "gid://shopify/ProductVariant/46298362314974": {
+    "product_title": "Invisible Kemp Ruby Green Chain with Earrings",
+    "variant_title": "Default Title",
+    "sku": "1223",
+    "price": 799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/invisible-kemp-ruby-green-chain-with-earrings?variant=gid://shopify/ProductVariant/46298362314974",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/AF90BFEA-40A9-4531-B823-5FBA4552335A.jpg?v=1739975062"
   },
   "gid://shopify/ProductVariant/46298429292766": {
     "product_title": "Invisible Kemp Flower Chain",
