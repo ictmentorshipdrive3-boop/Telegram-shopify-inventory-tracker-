@@ -715,7 +715,7 @@
     "variant_title": "Default Title",
     "sku": "604",
     "price": 1399.0,
-    "stock": 33,
+    "stock": 32,
     "url": "https://www.daivik.in/products/ad-peacock-jhumkas-1?variant=gid://shopify/ProductVariant/38058936402073",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/ad-peacock-jhumkas-earrings-269.jpg?v=1613143353"
   },
@@ -1066,7 +1066,7 @@
     "variant_title": "Default Title",
     "sku": "780",
     "price": 2799.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/ad-short-haram-with-earrings?variant=gid://shopify/ProductVariant/40591824093337",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_e1727bec-c36a-44dd-a14d-4d43574316b4.jpg?v=1626534532"
   },
@@ -2533,7 +2533,7 @@
     "variant_title": "2.6",
     "sku": "929",
     "price": 1199.0,
-    "stock": 11,
+    "stock": 10,
     "url": "https://www.daivik.in/products/a-302?variant=gid://shopify/ProductVariant/43479581130974",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_6a23397a-390f-4fae-a298-e6f1ac6ba3b9.heic?v=1664687431"
   },
@@ -14260,7 +14260,7 @@
     "variant_title": "8 Inches String - Half Moolam",
     "sku": "3507",
     "price": 1299.0,
-    "stock": 39,
+    "stock": 38,
     "url": "https://www.daivik.in/products/elegant-jasmine-mullai-flower-artificial-gajra-16-inches?variant=gid://shopify/ProductVariant/47542601515230",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0344.heic?v=1758199863"
   },
@@ -17170,15 +17170,6 @@
     "stock": 4,
     "url": "https://www.daivik.in/products/victorian-spiral-ruby-ad-bangles?variant=gid://shopify/ProductVariant/48308142309598",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/77147F49-1B98-49B5-9135-B4ACF785E189.jpg?v=1775198787"
-  },
-  "gid://shopify/ProductVariant/48057312215262": {
-    "product_title": "Victorian Spiral AD Bangles",
-    "variant_title": "2.4",
-    "sku": "1855",
-    "price": 1499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/victorian-spiral-ad-bangles?variant=gid://shopify/ProductVariant/48057312215262",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2039A373-AF0A-428D-8EF3-852A91B74B95.jpg?v=1775198787"
   },
   "gid://shopify/ProductVariant/48057312248030": {
     "product_title": "Victorian Spiral AD Bangles",
@@ -32866,6 +32857,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/victorian-spiral-green-ad-bangles?variant=gid://shopify/ProductVariant/48057311527134",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1BA1CA10-F8E9-4ABC-B6A7-A908A93CB61C.jpg?v=1775198787"
+  },
+  "gid://shopify/ProductVariant/48057312215262": {
+    "product_title": "Victorian Spiral AD Bangles",
+    "variant_title": "2.4",
+    "sku": "1855",
+    "price": 1499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/victorian-spiral-ad-bangles?variant=gid://shopify/ProductVariant/48057312215262",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2039A373-AF0A-428D-8EF3-852A91B74B95.jpg?v=1775198787"
   },
   "gid://shopify/ProductVariant/48066310668510": {
     "product_title": "Vintage Temple Style Adjustable Finger Watch Ring in 2 Colors (Price for Each)",
