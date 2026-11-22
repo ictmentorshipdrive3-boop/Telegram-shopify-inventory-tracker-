@@ -1669,7 +1669,7 @@
     "variant_title": "Default Title",
     "sku": "402",
     "price": 1599.0,
-    "stock": 45,
+    "stock": 44,
     "url": "https://www.daivik.in/products/simple-floral-ad-kemp-necklace-with-earrings?variant=gid://shopify/ProductVariant/42331638989022",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_425e3745-a388-46dc-bd87-3b3b6eee7169.jpg?v=1641996550"
   },
@@ -5035,7 +5035,7 @@
     "variant_title": "Default Title",
     "sku": "554",
     "price": 2799.0,
-    "stock": 55,
+    "stock": 54,
     "url": "https://www.daivik.in/products/untitled-dec16_20-42?variant=gid://shopify/ProductVariant/45047190094046",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/212AD327-4557-4374-92F2-BEC7287683D6.heic?v=1712585962"
   },
@@ -6295,7 +6295,7 @@
     "variant_title": "2.8",
     "sku": "705",
     "price": 799.0,
-    "stock": 24,
+    "stock": 23,
     "url": "https://www.daivik.in/products/simple-purple-stone-bangles?variant=gid://shopify/ProductVariant/45478438437086",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/75796A7E-2A4F-4BD5-8372-A1AD1A4F18CC.jpg?v=1717337783"
   },
@@ -9067,7 +9067,7 @@
     "variant_title": "2.6",
     "sku": "1516",
     "price": 799.0,
-    "stock": 44,
+    "stock": 43,
     "url": "https://www.daivik.in/products/red-mossanite-antique-bangles?variant=gid://shopify/ProductVariant/46122761847006",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/129A8154-3F7E-4911-B434-C614A4B89D90.jpg?v=1733241760"
   },
@@ -16910,15 +16910,6 @@
     "url": "https://www.daivik.in/products/rashmika-mandanna-inspired-antique-bridal-jewellery?variant=gid://shopify/ProductVariant/48022270148830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3E051AAE-E0C6-42D0-981A-FF39F43F99FA.jpg?v=1774428452"
   },
-  "gid://shopify/ProductVariant/48029690036446": {
-    "product_title": "Premium Pearl AD Flower Kada",
-    "variant_title": "Default Title",
-    "sku": "1839",
-    "price": 799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/premium-pearl-ad-flower-kada?variant=gid://shopify/ProductVariant/48029690036446",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8694.jpg?v=1774524235"
-  },
   "gid://shopify/ProductVariant/48036280369374": {
     "product_title": "Antique Bridal Temple Handcrafted Necklace with Jhumkas",
     "variant_title": "Default Title",
@@ -19606,7 +19597,7 @@
     "variant_title": "2.8",
     "sku": "1957",
     "price": 1799.0,
-    "stock": 54,
+    "stock": 53,
     "url": "https://www.daivik.in/products/openable-ad-kada-with-interchangeable-colour-bangles-12-shades?variant=gid://shopify/ProductVariant/48965767069918",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1886.jpg?v=1788191390"
   },
@@ -19696,7 +19687,7 @@
     "variant_title": "1/12",
     "sku": "1963",
     "price": 799.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.daivik.in/products/kids-lakshmi-ruby-green-bangles?variant=gid://shopify/ProductVariant/49008807674078",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1968.jpg?v=1789041386"
   },
@@ -32785,6 +32776,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/simple-ad-ruby-green-nose-pin-nath-screw-type?variant=gid://shopify/ProductVariant/48017605394654",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8636.jpg?v=1774274426"
+  },
+  "gid://shopify/ProductVariant/48029690036446": {
+    "product_title": "Premium Pearl AD Flower Kada",
+    "variant_title": "Default Title",
+    "sku": "1839",
+    "price": 799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/premium-pearl-ad-flower-kada?variant=gid://shopify/ProductVariant/48029690036446",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8694.jpg?v=1774524235"
   },
   "gid://shopify/ProductVariant/48029717856478": {
     "product_title": "Premium Pearl AD Kada",
