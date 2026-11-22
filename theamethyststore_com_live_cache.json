@@ -42259,7 +42259,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-11596",
     "price": 16688.0,
-    "stock": 1,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/kanishka-jhumkas-1?variant=gid://shopify/ProductVariant/47737696485603",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11596.jpg?v=1765804813"
   },
@@ -88316,15 +88316,6 @@
     "url": "https://www.theamethyststore.com/products/vinthikaa-kaasu-maalai-necklace?variant=gid://shopify/ProductVariant/49777279533283",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17970.jpg?v=1789887935"
   },
-  "gid://shopify/ProductVariant/49777301749987": {
-    "product_title": "Yashikaa Kaasu Maalai Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17972",
-    "price": 62388.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/yashikaa-kaasu-maalai-necklace?variant=gid://shopify/ProductVariant/49777301749987",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17972.jpg?v=1789888434"
-  },
   "gid://shopify/ProductVariant/49777323245795": {
     "product_title": "Nithikaa Nagas Long Necklace",
     "variant_title": "Default Title",
@@ -90232,15 +90223,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/beyond-ordinary-nagas-jhumkas?variant=gid://shopify/ProductVariant/67582758224099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16371.jpg?v=1790422746"
-  },
-  "gid://shopify/ProductVariant/67582775034083": {
-    "product_title": "Heritage Swing Nagas Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-16370",
-    "price": 7087.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/heritage-swing-nagas-jhumkas?variant=gid://shopify/ProductVariant/67582775034083",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16370.jpg?v=1790423677"
   },
   "gid://shopify/ProductVariant/67582788600035": {
     "product_title": "Love Fall Diamond Design Necklace Set",
@@ -95623,15 +95605,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/prismatic-kundan-pendant?variant=gid://shopify/ProductVariant/67672786469091",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5239.jpg?v=1791875433"
-  },
-  "gid://shopify/ProductVariant/67672834670819": {
-    "product_title": "Unique Opulent Kundan Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-5240",
-    "price": 16556.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/unique-opulent-kundan-pendant?variant=gid://shopify/ProductVariant/67672834670819",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5240.jpg?v=1791875839"
   },
   "gid://shopify/ProductVariant/67672995463395": {
     "product_title": "Gaja Chronicles Victorian Pendant",
@@ -110248,6 +110221,15 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/bloom-floral-avikam-pendant-set?variant=gid://shopify/ProductVariant/68892987162851",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5657.jpg?v=1795336208"
+  },
+  "gid://shopify/ProductVariant/68893011149027": {
+    "product_title": "Vibrant  Avikam Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19373",
+    "price": 82000.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/vibrant-avikam-short-necklace?variant=gid://shopify/ProductVariant/68893011149027",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19373.jpg?v=1795342393"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -155375,6 +155357,15 @@
     "url": "https://www.theamethyststore.com/products/stunning-design-kundan-necklace?variant=gid://shopify/ProductVariant/49777214128355",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17959.jpg?v=1789885600"
   },
+  "gid://shopify/ProductVariant/49777301749987": {
+    "product_title": "Yashikaa Kaasu Maalai Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17972",
+    "price": 62388.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/yashikaa-kaasu-maalai-necklace?variant=gid://shopify/ProductVariant/49777301749987",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17972.jpg?v=1789888434"
+  },
   "gid://shopify/ProductVariant/49777536172259": {
     "product_title": "Priyankaa  Nagas Long Necklace",
     "variant_title": "Default Title",
@@ -156139,6 +156130,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/mystical-nagas-jhumkas?variant=gid://shopify/ProductVariant/67582733517027",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16372.jpg?v=1790422032"
+  },
+  "gid://shopify/ProductVariant/67582775034083": {
+    "product_title": "Heritage Swing Nagas Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16370",
+    "price": 7087.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/heritage-swing-nagas-jhumkas?variant=gid://shopify/ProductVariant/67582775034083",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16370.jpg?v=1790423677"
   },
   "gid://shopify/ProductVariant/67582921277667": {
     "product_title": "Adorned  Diamond Design Necklace Set",
@@ -157687,6 +157687,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/enchanting-3d-spl-pendant?variant=gid://shopify/ProductVariant/67666252562659",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5468.jpg?v=1791811563"
+  },
+  "gid://shopify/ProductVariant/67672834670819": {
+    "product_title": "Unique Opulent Kundan Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5240",
+    "price": 16556.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/unique-opulent-kundan-pendant?variant=gid://shopify/ProductVariant/67672834670819",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5240.jpg?v=1791875839"
   },
   "gid://shopify/ProductVariant/67672869667043": {
     "product_title": "Resplendent Kundan Pendant",
