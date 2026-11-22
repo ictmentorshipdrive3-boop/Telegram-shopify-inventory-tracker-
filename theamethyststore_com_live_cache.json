@@ -45976,7 +45976,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-11926",
     "price": 7447.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/blaze-stone-drops-1?variant=gid://shopify/ProductVariant/47852128862435",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11926.jpg?v=1768804774"
   },
@@ -83329,15 +83329,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/stone-drops-53?variant=gid://shopify/ProductVariant/49654270984419",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15133.jpg?v=1788262103"
-  },
-  "gid://shopify/ProductVariant/49654281830627": {
-    "product_title": "Yakshitha Stone Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15136",
-    "price": 5361.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/stone-drops-55?variant=gid://shopify/ProductVariant/49654281830627",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15136.jpg?v=1788262583"
   },
   "gid://shopify/ProductVariant/49654308372707": {
     "product_title": "Nethra Stone Drops",
@@ -153394,6 +153385,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/warm-and-glow-nagas-studs?variant=gid://shopify/ProductVariant/49654277767395",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15391.jpg?v=1788262470"
+  },
+  "gid://shopify/ProductVariant/49654281830627": {
+    "product_title": "Yakshitha Stone Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15136",
+    "price": 5361.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/stone-drops-55?variant=gid://shopify/ProductVariant/49654281830627",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15136.jpg?v=1788262583"
   },
   "gid://shopify/ProductVariant/49654316531939": {
     "product_title": "Anitha Stone Drops",
