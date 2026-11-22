@@ -1768,7 +1768,7 @@
     "variant_title": "2.6",
     "sku": "297",
     "price": 1899.0,
-    "stock": 45,
+    "stock": 44,
     "url": "https://www.daivik.in/products/set-of-6-golden-pearl-bangles?variant=gid://shopify/ProductVariant/42401516486878",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_de21c8da-8f58-45ec-bfdd-cbbc22c6f912.jpg?v=1643295985"
   },
@@ -6775,15 +6775,6 @@
     "stock": 7,
     "url": "https://www.daivik.in/products/antique-lakshmi-necklace-with-earrings-in-two-colors?variant=gid://shopify/ProductVariant/45768320811230",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/86A4664B-A4DB-483A-872A-469CE2A43FD9.jpg?v=1722164981"
-  },
-  "gid://shopify/ProductVariant/45768323629278": {
-    "product_title": "Victorian AD Necklace with Earrings in Four Colors",
-    "variant_title": "Purple",
-    "sku": "190",
-    "price": 1799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/victorian-ad-necklace-with-earrings-in-two-colors?variant=gid://shopify/ProductVariant/45768323629278",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/713D1097-1FE7-4DC7-9208-2A4FEBA4689A.jpg?v=1722165269"
   },
   "gid://shopify/ProductVariant/45768323662046": {
     "product_title": "Victorian AD Necklace with Earrings in Four Colors",
@@ -27961,6 +27952,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/ad-hasli-peacock-necklace-with-earrings-in-two-colors?variant=gid://shopify/ProductVariant/45768318025950",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/90847549-A06D-4400-A435-45C9FA883788.jpg?v=1722164698"
+  },
+  "gid://shopify/ProductVariant/45768323629278": {
+    "product_title": "Victorian AD Necklace with Earrings in Four Colors",
+    "variant_title": "Purple",
+    "sku": "190",
+    "price": 1799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/victorian-ad-necklace-with-earrings-in-two-colors?variant=gid://shopify/ProductVariant/45768323629278",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/713D1097-1FE7-4DC7-9208-2A4FEBA4689A.jpg?v=1722165269"
   },
   "gid://shopify/ProductVariant/45768326775006": {
     "product_title": "Premium Zirconiun Stone Choker with Earrings",
