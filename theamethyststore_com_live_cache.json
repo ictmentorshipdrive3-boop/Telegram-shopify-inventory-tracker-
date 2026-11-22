@@ -3208,7 +3208,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-3904",
     "price": 24168.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/anya-stone-necklace?variant=gid://shopify/ProductVariant/43642624180451",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-3904.jpg?v=1749616371"
   },
@@ -6946,15 +6946,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/priscilla-kundan-choker?variant=gid://shopify/ProductVariant/44503031283939",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5630.jpg?v=1709884562"
-  },
-  "gid://shopify/ProductVariant/44503355949283": {
-    "product_title": "Malina Stone Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-5576",
-    "price": 9864.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/malina-stone-drops?variant=gid://shopify/ProductVariant/44503355949283",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5576_82c46366-3aef-4e38-9c33-5ab2cc167795.jpg?v=1754049898"
   },
   "gid://shopify/ProductVariant/44521830482147": {
     "product_title": "Monali Hook Earrings",
@@ -12307,7 +12298,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-7657",
     "price": 47470.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/chandralekha-short-necklace?variant=gid://shopify/ProductVariant/45751132848355",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7657.jpg?v=1732622575"
   },
@@ -18610,15 +18601,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/aarvi-short-necklace?variant=gid://shopify/ProductVariant/46499030630627",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9679.jpg?v=1749472596"
-  },
-  "gid://shopify/ProductVariant/46499851337955": {
-    "product_title": "Inayat Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-9683",
-    "price": 35568.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/inayat-short-necklace?variant=gid://shopify/ProductVariant/46499851337955",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9683.jpg?v=1749473793"
   },
   "gid://shopify/ProductVariant/46500271522019": {
     "product_title": "Tishya Short Necklace",
@@ -112850,6 +112832,15 @@
     "url": "https://www.theamethyststore.com/products/aviya-short-necklace?variant=gid://shopify/ProductVariant/44494322303203",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5711.jpg?v=1709793819"
   },
+  "gid://shopify/ProductVariant/44503355949283": {
+    "product_title": "Malina Stone Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-5576",
+    "price": 9864.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/malina-stone-drops?variant=gid://shopify/ProductVariant/44503355949283",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5576_82c46366-3aef-4e38-9c33-5ab2cc167795.jpg?v=1754049898"
+  },
   "gid://shopify/ProductVariant/44522072506595": {
     "product_title": "Cheerful Avikam Bracelet",
     "variant_title": "Default Title",
@@ -117331,6 +117322,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/advitha-short-necklace-1?variant=gid://shopify/ProductVariant/46496137019619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9657.jpg?v=1749468284"
+  },
+  "gid://shopify/ProductVariant/46499851337955": {
+    "product_title": "Inayat Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-9683",
+    "price": 35568.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/inayat-short-necklace?variant=gid://shopify/ProductVariant/46499851337955",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9683.jpg?v=1749473793"
   },
   "gid://shopify/ProductVariant/46499862872291": {
     "product_title": "Nithya Short Necklace",
