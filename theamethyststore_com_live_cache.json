@@ -94796,15 +94796,6 @@
     "url": "https://www.theamethyststore.com/products/navaratna-stone-pendant?variant=gid://shopify/ProductVariant/67660848398563",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5289_2.jpg?v=1791706360"
   },
-  "gid://shopify/ProductVariant/67660853969123": {
-    "product_title": "Sacred Legacy Victorian Mangalsutra",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-2300",
-    "price": 19500.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/sacred-legacy-victorian-mangalsutra?variant=gid://shopify/ProductVariant/67660853969123",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2300.jpg?v=1791705439"
-  },
   "gid://shopify/ProductVariant/67660936020195": {
     "product_title": "Devotional Elegance Victorian Pendant",
     "variant_title": "Default Title",
@@ -110001,7 +109992,7 @@
     "product_title": "Commendable Kundan Drops",
     "variant_title": "Default Title",
     "sku": "AMS-106-16735",
-    "price": 5499.0,
+    "price": 5002.0,
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/commendable-kundan-drops?variant=gid://shopify/ProductVariant/68885101117667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16735.jpg?v=1795255318"
@@ -110037,7 +110028,7 @@
     "product_title": "Bird-Inspired Kundan Drops",
     "variant_title": "Default Title",
     "sku": "AMS-106-17199",
-    "price": 7504.0,
+    "price": 6825.0,
     "stock": 3,
     "url": "https://www.theamethyststore.com/products/bird-inspired-kundan-drops?variant=gid://shopify/ProductVariant/68885112717539",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-17199.jpg?v=1795256312"
@@ -157462,6 +157453,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/paradise-shine-mugappu-chain?variant=gid://shopify/ProductVariant/67660770738403",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2365_89225e36-c64d-4873-8ad8-c0f11459388e.jpg?v=1791701240"
+  },
+  "gid://shopify/ProductVariant/67660853969123": {
+    "product_title": "Sacred Legacy Victorian Mangalsutra",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2300",
+    "price": 19500.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/sacred-legacy-victorian-mangalsutra?variant=gid://shopify/ProductVariant/67660853969123",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2300.jpg?v=1791705439"
   },
   "gid://shopify/ProductVariant/67661061325027": {
     "product_title": "Divine Stone Pendant",
