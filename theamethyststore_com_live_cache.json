@@ -29263,7 +29263,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-112-0551",
     "price": 6193.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/prishika-stone-jada-billa?variant=gid://shopify/ProductVariant/47102412259555",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0551.jpg?v=1756972700"
   },
@@ -75563,15 +75563,6 @@
     "url": "https://www.theamethyststore.com/products/3d-spl-short-necklace-set-7?variant=gid://shopify/ProductVariant/49520515416291",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17279.jpg?v=1786446151"
   },
-  "gid://shopify/ProductVariant/49681949130979": {
-    "product_title": "Traditional Jada Billa",
-    "variant_title": "Suryan",
-    "sku": "AMS-112-0909-SURAJ",
-    "price": 5926.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/jada-billa-22?variant=gid://shopify/ProductVariant/49681949130979",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0909_3.jpg?v=1786452265"
-  },
   "gid://shopify/ProductVariant/49523972145379": {
     "product_title": "Grand Nagas Long Necklace",
     "variant_title": "Default Title",
@@ -75760,15 +75751,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/kundan-palm-bracelet-4?variant=gid://shopify/ProductVariant/49524133200099",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1454.jpg?v=1786517346"
-  },
-  "gid://shopify/ProductVariant/49524135166179": {
-    "product_title": "Shinning Moissanite Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15617",
-    "price": 9800.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/shinning-moissanite-studs?variant=gid://shopify/ProductVariant/49524135166179",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15617.jpg?v=1786517523"
   },
   "gid://shopify/ProductVariant/49524138311907": {
     "product_title": "Modern Kundan Palm Bracelet",
@@ -150020,6 +150002,15 @@
     "url": "https://www.theamethyststore.com/products/jada-billa-22?variant=gid://shopify/ProductVariant/49674848764131",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0909_3.jpg?v=1786452265"
   },
+  "gid://shopify/ProductVariant/49681949130979": {
+    "product_title": "Traditional Jada Billa",
+    "variant_title": "Suryan",
+    "sku": "AMS-112-0909-SURAJ",
+    "price": 5926.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/jada-billa-22?variant=gid://shopify/ProductVariant/49681949130979",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0909_3.jpg?v=1786452265"
+  },
   "gid://shopify/ProductVariant/49524014448867": {
     "product_title": "Srisha Nagas Choker",
     "variant_title": "Default Title",
@@ -150046,6 +150037,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/kundan-brooch-pin-1?variant=gid://shopify/ProductVariant/49524094533859",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-121-0194.jpg?v=1786514563"
+  },
+  "gid://shopify/ProductVariant/49524135166179": {
+    "product_title": "Shinning Moissanite Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15617",
+    "price": 9800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/shinning-moissanite-studs?variant=gid://shopify/ProductVariant/49524135166179",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15617.jpg?v=1786517523"
   },
   "gid://shopify/ProductVariant/49524142735587": {
     "product_title": "Sparkling Moissanite Studs",
