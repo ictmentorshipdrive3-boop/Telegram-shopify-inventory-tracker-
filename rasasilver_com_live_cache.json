@@ -18476,6 +18476,15 @@
     "url": "https://www.rasasilver.com/products/cupid-blush-necklace?variant=gid://shopify/ProductVariant/53403110572329",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19537.jpg?v=1786624453"
   },
+  "gid://shopify/ProductVariant/53403196129577": {
+    "product_title": "Radha-Krishna Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R33404",
+    "price": 38500.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/radha-krishna-temple-necklace?variant=gid://shopify/ProductVariant/53403196129577",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_41_107Pics0464_2.jpg?v=1786624800"
+  },
   "gid://shopify/ProductVariant/53403228700969": {
     "product_title": "Lakshmikaa Temple Necklace",
     "variant_title": "Default Title",
@@ -19246,7 +19255,7 @@
     "variant_title": "Default Title",
     "sku": "R30484",
     "price": 4300.0,
-    "stock": 41,
+    "stock": 43,
     "url": "https://www.rasasilver.com/products/back-chain?variant=gid://shopify/ProductVariant/53426656870697",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageAug24_2026_12_36_13PM.png?v=1787555201"
   },
@@ -20284,15 +20293,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/vihaan-nakshi-danglers?variant=gid://shopify/ProductVariant/54216113389865",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_22Sep60731.jpg?v=1790665124"
-  },
-  "gid://shopify/ProductVariant/54216181121321": {
-    "product_title": "Shree Balaji Temple Studs",
-    "variant_title": "Default Title",
-    "sku": "R37481",
-    "price": 4590.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/neelansh-nakshi-danglers?variant=gid://shopify/ProductVariant/54216181121321",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_49_81Pics_22Sep21127_c5d7254d-ceee-42ce-9c60-b242fb696dec.jpg?v=1790667021"
   },
   "gid://shopify/ProductVariant/54216358789417": {
     "product_title": "Keri Nakshi Jhumki",
@@ -47807,15 +47807,6 @@
     "url": "https://www.rasasilver.com/products/aaradhya-temple-necklace?variant=gid://shopify/ProductVariant/53399103734057",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-08-03at5.01.09PM_1.jpg?v=1785757932"
   },
-  "gid://shopify/ProductVariant/53403196129577": {
-    "product_title": "Radha-Krishna Temple Necklace",
-    "variant_title": "Default Title",
-    "sku": "R33404",
-    "price": 38500.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/radha-krishna-temple-necklace?variant=gid://shopify/ProductVariant/53403196129577",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_41_107Pics0464_2.jpg?v=1786624800"
-  },
   "gid://shopify/ProductVariant/53403237384489": {
     "product_title": "Sampath-Devi Temple Necklace",
     "variant_title": "Default Title",
@@ -49058,6 +49049,15 @@
     "url": "https://www.rasasilver.com/products/anvitha-temple-oddiyanam?variant=gid://shopify/ProductVariant/54216090812713",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_22Sep607891.jpg?v=1790662744"
   },
+  "gid://shopify/ProductVariant/54216181121321": {
+    "product_title": "Shree Balaji Temple Studs",
+    "variant_title": "Default Title",
+    "sku": "R37481",
+    "price": 4590.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/neelansh-nakshi-danglers?variant=gid://shopify/ProductVariant/54216181121321",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_49_81Pics_22Sep21127_c5d7254d-ceee-42ce-9c60-b242fb696dec.jpg?v=1790667021"
+  },
   "gid://shopify/ProductVariant/54216501690665": {
     "product_title": "Morik Nakshi Jhumki",
     "variant_title": "Default Title",
@@ -50029,5 +50029,41 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/kanti-necklace?variant=gid://shopify/ProductVariant/67849887973673",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_13Nov2815.jpg?v=1795438485"
+  },
+  "gid://shopify/ProductVariant/67849888366889": {
+    "product_title": "Hari Kasu Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R39662",
+    "price": 18870.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/kasu-necklace?variant=gid://shopify/ProductVariant/67849888366889",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_13Nov2776.jpg?v=1795438204"
+  },
+  "gid://shopify/ProductVariant/67849888399657": {
+    "product_title": "Padmika Temple Kanti",
+    "variant_title": "Default Title",
+    "sku": "R39742",
+    "price": 9775.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/kanti-necklace-1?variant=gid://shopify/ProductVariant/67849888399657",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_54_34Pics_13Nov21951.jpg?v=1795438849"
+  },
+  "gid://shopify/ProductVariant/67849888530729": {
+    "product_title": "Shreevanshika Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R39781",
+    "price": 53040.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/lakshmi-necklace?variant=gid://shopify/ProductVariant/67849888530729",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_13Nov2791.jpg?v=1795439053"
+  },
+  "gid://shopify/ProductVariant/67849888760105": {
+    "product_title": "Shreeprada Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R39783",
+    "price": 64260.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/temple-necklace-7?variant=gid://shopify/ProductVariant/67849888760105",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_13Nov2802.jpg?v=1795439361"
   }
 }
