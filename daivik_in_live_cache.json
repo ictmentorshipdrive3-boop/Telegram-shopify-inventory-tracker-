@@ -16046,15 +16046,6 @@
     "url": "https://www.daivik.in/products/designer-diamond-look-alike-floral-necklace-with-earrings?variant=gid://shopify/ProductVariant/47858398396638",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2DF94169-600D-4AEA-9780-3F1D5AC61A5F.jpg?v=1769445327"
   },
-  "gid://shopify/ProductVariant/47859902054622": {
-    "product_title": "Simple Leaf Pendant set with Chain",
-    "variant_title": "Default Title",
-    "sku": "1355",
-    "price": 899.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/simple-leaf-pendant-set-with-chain?variant=gid://shopify/ProductVariant/47859902054622",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/551D8B1E-D27E-4370-B603-96FBE79272A6.jpg?v=1769531615"
-  },
   "gid://shopify/ProductVariant/47859902709982": {
     "product_title": "Simple Geometric Pendant Set with Chain",
     "variant_title": "Default Title",
@@ -17194,7 +17185,7 @@
     "variant_title": "Default Title",
     "sku": "715",
     "price": 1199.0,
-    "stock": 35,
+    "stock": 34,
     "url": "https://www.daivik.in/products/antique-lakshmi-and-elephant-hasli-necklace-with-earrings?variant=gid://shopify/ProductVariant/48063663407326",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/72D97AF6-49FA-4872-BC7E-862E937F67A8.jpg?v=1775406617"
   },
@@ -18724,7 +18715,7 @@
     "variant_title": "Baby Pink",
     "sku": "672",
     "price": 999.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/invisible-green-ganesha-chain?variant=gid://shopify/ProductVariant/48447550390494",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/ADD05F51-8F3A-4262-86A7-4E853BC4FB59.jpg?v=1782904755"
   },
@@ -19417,7 +19408,7 @@
     "variant_title": "Default Title",
     "sku": "969",
     "price": 899.0,
-    "stock": 19,
+    "stock": 18,
     "url": "https://www.daivik.in/products/ruby-green-floral-elakkathali-choker-with-studs?variant=gid://shopify/ProductVariant/48605611655390",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9BB3FD0D-97BF-49A7-B86C-9B52460569E8.jpg?v=1786875830"
   },
@@ -20083,7 +20074,7 @@
     "variant_title": "Ruby",
     "sku": "D26031",
     "price": 499.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26031?variant=gid://shopify/ProductVariant/49152667615454",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6085.jpg?v=1791221733"
   },
@@ -22783,7 +22774,7 @@
     "variant_title": "White",
     "sku": "2004",
     "price": 799.0,
-    "stock": 14,
+    "stock": 12,
     "url": "https://www.daivik.in/products/untitled-oct24_09-41-32?variant=gid://shopify/ProductVariant/49275793965278",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4BD7C784-014B-41FA-9BD4-54980C153E51.jpg?v=1792840599"
   },
@@ -23062,7 +23053,7 @@
     "variant_title": "Default Title",
     "sku": "537",
     "price": 1999.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/hydro-doublet-baby-pink-heart-necklace-with-earrings?variant=gid://shopify/ProductVariant/49479851737310",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8546_603e3a6d-7eb2-432e-9e3a-858def03e7fd.jpg?v=1795192301"
   },
@@ -32461,6 +32452,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/pure-kemp-brass-ruby-green-jhumka-with-mattals?variant=gid://shopify/ProductVariant/47856914628830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/18DFD212-9E7A-466A-8912-107E4BC889D0.jpg?v=1769340031"
+  },
+  "gid://shopify/ProductVariant/47859902054622": {
+    "product_title": "Simple Leaf Pendant set with Chain",
+    "variant_title": "Default Title",
+    "sku": "1355",
+    "price": 899.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/simple-leaf-pendant-set-with-chain?variant=gid://shopify/ProductVariant/47859902054622",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/551D8B1E-D27E-4370-B603-96FBE79272A6.jpg?v=1769531615"
   },
   "gid://shopify/ProductVariant/47859906314462": {
     "product_title": "Simple Pearl AD Pendant set with Chain",
