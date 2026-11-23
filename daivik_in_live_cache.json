@@ -1678,7 +1678,7 @@
     "variant_title": "Default Title",
     "sku": "402",
     "price": 1599.0,
-    "stock": 44,
+    "stock": 43,
     "url": "https://www.daivik.in/products/simple-floral-ad-kemp-necklace-with-earrings?variant=gid://shopify/ProductVariant/42331638989022",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_425e3745-a388-46dc-bd87-3b3b6eee7169.jpg?v=1641996550"
   },
@@ -1978,15 +1978,6 @@
     "stock": 5,
     "url": "https://www.daivik.in/products/ad-leaf-motif-kadas?variant=gid://shopify/ProductVariant/42576988635358",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_dccf3799-38d9-401a-b21e-e8740e44529d.jpg?v=1647441808"
-  },
-  "gid://shopify/ProductVariant/42576990961886": {
-    "product_title": "Floral Kemp Bangles",
-    "variant_title": "2.4",
-    "sku": "220",
-    "price": 999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/floral-kemp-bangles-1?variant=gid://shopify/ProductVariant/42576990961886",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_22ba0319-7904-4892-bac7-bfdc8ae1981c.jpg?v=1647441956"
   },
   "gid://shopify/ProductVariant/42589689348318": {
     "product_title": "Pure Kemp Bras pendant with Layered pearl Haram",
@@ -10309,7 +10300,7 @@
     "variant_title": "Ruby",
     "sku": "697",
     "price": 1799.0,
-    "stock": 34,
+    "stock": 33,
     "url": "https://www.daivik.in/products/ad-peacock-long-chain-with-earrings-in-2-colors?variant=gid://shopify/ProductVariant/46517284798686",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/EE3D287A-B2CE-4854-8BD0-134F555888F3.jpg?v=1743600253"
   },
@@ -24190,6 +24181,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/set-of-6-ad-kemp-bangles?variant=gid://shopify/ProductVariant/42605651656926",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_ff43fbfb-f072-4cd8-aa4f-6694f508e605.jpg?v=1647337594"
+  },
+  "gid://shopify/ProductVariant/42576990961886": {
+    "product_title": "Floral Kemp Bangles",
+    "variant_title": "2.4",
+    "sku": "220",
+    "price": 999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/floral-kemp-bangles-1?variant=gid://shopify/ProductVariant/42576990961886",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_22ba0319-7904-4892-bac7-bfdc8ae1981c.jpg?v=1647441956"
   },
   "gid://shopify/ProductVariant/42576998596830": {
     "product_title": "Floral Kemp Bangles",
