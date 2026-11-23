@@ -247,7 +247,7 @@
     "variant_title": "2.4",
     "sku": "268",
     "price": 1699.0,
-    "stock": 28,
+    "stock": 27,
     "url": "https://www.daivik.in/products/ad-stone-motif-bangles?variant=gid://shopify/ProductVariant/34498045149337",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_4180.jpg?v=1590765434"
   },
@@ -967,7 +967,7 @@
     "variant_title": "2.4",
     "sku": "746",
     "price": 2299.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/kemp-ad-set-of-6-bangles?variant=gid://shopify/ProductVariant/40292754129049",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_b1c40f43-08d8-4720-b54c-7cea1e8151eb.jpg?v=1623254923"
   },
@@ -3460,7 +3460,7 @@
     "variant_title": "Default Title",
     "sku": "1005",
     "price": 1799.0,
-    "stock": 15,
+    "stock": 14,
     "url": "https://www.daivik.in/products/a-96?variant=gid://shopify/ProductVariant/44200836563166",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_5ddff812-ad16-4e41-897d-081f5a44094f.heic?v=1684939937"
   },
@@ -3550,7 +3550,7 @@
     "variant_title": "2.4",
     "sku": "816",
     "price": 1499.0,
-    "stock": 46,
+    "stock": 45,
     "url": "https://www.daivik.in/products/ad-gold-finish-bangles?variant=gid://shopify/ProductVariant/44223373410526",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_3a9dae1b-f5a8-4565-bc8e-a18274b6c0a4.heic?v=1686396576"
   },
@@ -4720,7 +4720,7 @@
     "variant_title": "Default Title",
     "sku": "160",
     "price": 4999.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/mossanite-stones-necklace-with-earrings?variant=gid://shopify/ProductVariant/44430148927710",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A91F8D76-F939-4907-9F1E-A1DC62987A53.jpg?v=1697731502"
   },
@@ -5866,15 +5866,6 @@
     "stock": 56,
     "url": "https://www.daivik.in/products/five-layered-pearl-mala?variant=gid://shopify/ProductVariant/45118408720606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0D90D567-5262-4FC7-8E74-83B341E15D3A.jpg?v=1712766577"
-  },
-  "gid://shopify/ProductVariant/45131651154142": {
-    "product_title": "Victorian two line Mossanite Necklace with Studs",
-    "variant_title": "Ruby Green",
-    "sku": "918",
-    "price": 3499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/victorian-two-line-mossanite-necklace-with-studs?variant=gid://shopify/ProductVariant/45131651154142",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_50a705dc-cdfa-4fe4-acf3-e326a4459740.heic?v=1712851887"
   },
   "gid://shopify/ProductVariant/45146133659870": {
     "product_title": "Antique Lakshmi AD Necklace with Earrings in Two Variants",
@@ -27448,6 +27439,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/victorian-mossanite-necklace-with-earrings?variant=gid://shopify/ProductVariant/45099703828702",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/24A615F1-6F55-4B02-A536-27439604250E.jpg?v=1712592032"
+  },
+  "gid://shopify/ProductVariant/45131651154142": {
+    "product_title": "Victorian two line Mossanite Necklace with Studs",
+    "variant_title": "Ruby Green",
+    "sku": "918",
+    "price": 3499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/victorian-two-line-mossanite-necklace-with-studs?variant=gid://shopify/ProductVariant/45131651154142",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_50a705dc-cdfa-4fe4-acf3-e326a4459740.heic?v=1712851887"
   },
   "gid://shopify/ProductVariant/45131651186910": {
     "product_title": "Victorian two line Mossanite Necklace with Studs",
