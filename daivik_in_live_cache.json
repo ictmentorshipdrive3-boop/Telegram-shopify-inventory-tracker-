@@ -4027,7 +4027,7 @@
     "variant_title": "Default Title",
     "sku": "910",
     "price": 1099.0,
-    "stock": 47,
+    "stock": 46,
     "url": "https://www.daivik.in/products/untitled-sep7_21-09?variant=gid://shopify/ProductVariant/44338668208350",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D54EFA73-AB4B-4A50-8663-86F80E2924BA.jpg?v=1694101215"
   },
@@ -7150,7 +7150,7 @@
     "variant_title": "Green",
     "sku": "1503",
     "price": 1299.0,
-    "stock": 28,
+    "stock": 27,
     "url": "https://www.daivik.in/products/mossanite-kundan-balis-in-2-colours?variant=gid://shopify/ProductVariant/45889343553758",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4D32A516-1DA2-4CD3-AA62-C24EB5B9B866.jpg?v=1726379854"
   },
@@ -15529,7 +15529,7 @@
     "variant_title": "Default Title",
     "sku": "282",
     "price": 1199.0,
-    "stock": 33,
+    "stock": 32,
     "url": "https://www.daivik.in/products/carved-moissanite-necklace-with-earrings?variant=gid://shopify/ProductVariant/47758182514910",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8481.heic?v=1765891457"
   },
@@ -17675,15 +17675,6 @@
     "url": "https://www.daivik.in/products/heritage-watch-bracelet-6?variant=gid://shopify/ProductVariant/48128940671198",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5119.jpg?v=1776594364"
   },
-  "gid://shopify/ProductVariant/48128940703966": {
-    "product_title": "Heritage Watch Bracelet",
-    "variant_title": "Default Title",
-    "sku": "4028",
-    "price": 3499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/heritage-watch-bracelet-7?variant=gid://shopify/ProductVariant/48128940703966",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5121.jpg?v=1776594365"
-  },
   "gid://shopify/ProductVariant/48128940736734": {
     "product_title": "Heritage Watch Bracelet",
     "variant_title": "Default Title",
@@ -18139,7 +18130,7 @@
     "variant_title": "Default Title",
     "sku": "1389",
     "price": 1299.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/ad-pendant-premium-hasli-with-earrings?variant=gid://shopify/ProductVariant/48286681759966",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BF61EB47-FF06-48A1-BF1B-18AF76B5F198.jpg?v=1779899313"
   },
@@ -19165,7 +19156,7 @@
     "variant_title": "Default Title",
     "sku": "4042",
     "price": 1599.0,
-    "stock": 25,
+    "stock": 24,
     "url": "https://www.daivik.in/products/heritage-ruby-flower-watch-bracelet?variant=gid://shopify/ProductVariant/48547818143966",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5646.jpg?v=1785853512"
   },
@@ -20443,7 +20434,7 @@
     "variant_title": "Default Title",
     "sku": "D26303",
     "price": 249.0,
-    "stock": 44,
+    "stock": 43,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26303?variant=gid://shopify/ProductVariant/49155188523230",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6537_49667f70-b467-4e29-8f33-209e2e5516e8.jpg?v=1791377508"
   },
@@ -20812,7 +20803,7 @@
     "variant_title": "Green",
     "sku": "D26372",
     "price": 549.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.daivik.in/products/diwali-sale-earrings-d26372?variant=gid://shopify/ProductVariant/49162130751710",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6712.jpg?v=1791444790"
   },
@@ -22945,7 +22936,7 @@
     "variant_title": "Default Title",
     "sku": "2015",
     "price": 499.0,
-    "stock": 27,
+    "stock": 26,
     "url": "https://www.daivik.in/products/ad-droplet-earrings?variant=gid://shopify/ProductVariant/49428003848414",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/library-BC294F45-13B3-4C08-8361-0016035795E5-L0-001.jpg?v=1794500826"
   },
@@ -33028,6 +33019,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/heritage-pearl-watch-bracelet?variant=gid://shopify/ProductVariant/48128940605662",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5115.jpg?v=1776594364"
+  },
+  "gid://shopify/ProductVariant/48128940703966": {
+    "product_title": "Heritage Watch Bracelet",
+    "variant_title": "Default Title",
+    "sku": "4028",
+    "price": 3499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/heritage-watch-bracelet-7?variant=gid://shopify/ProductVariant/48128940703966",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5121.jpg?v=1776594365"
   },
   "gid://shopify/ProductVariant/48135262634206": {
     "product_title": "Floral Kemp Jadau Jhumkas with Mattal",
