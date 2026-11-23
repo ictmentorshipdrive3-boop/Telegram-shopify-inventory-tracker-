@@ -53261,15 +53261,6 @@
     "url": "https://www.theamethyststore.com/products/nethrika-kundan-short-necklace?variant=gid://shopify/ProductVariant/48406491693283",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15077.jpg?v=1772606216"
   },
-  "gid://shopify/ProductVariant/48406535405795": {
-    "product_title": "Kanvika Stone Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-14969",
-    "price": 30046.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kanvika-stone-short-necklace?variant=gid://shopify/ProductVariant/48406535405795",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14969-_2.jpg?v=1772607130"
-  },
   "gid://shopify/ProductVariant/48406550282467": {
     "product_title": "Trendy Hair Maatal",
     "variant_title": "Default Title",
@@ -57949,15 +57940,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/kundan-bracelet-9?variant=gid://shopify/ProductVariant/48921477578979",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1254_2.jpg?v=1778220418"
-  },
-  "gid://shopify/ProductVariant/48921502220515": {
-    "product_title": "Janaranjani Kundan Bracelet",
-    "variant_title": "Default Title",
-    "sku": "AMS-103-1256",
-    "price": 8895.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/kundan-bracelet-10?variant=gid://shopify/ProductVariant/48921502220515",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1256_2.jpg?v=1778221009"
   },
   "gid://shopify/ProductVariant/48921621135587": {
     "product_title": "Anantanitya Kundan Bracelet",
@@ -100277,15 +100259,6 @@
     "url": "https://www.theamethyststore.com/products/uniquely-styled-avikam-studs?variant=gid://shopify/ProductVariant/67837679304931",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16827.jpg?v=1793191751"
   },
-  "gid://shopify/ProductVariant/67847061438691": {
-    "product_title": "Prismatic Stone Pair Bangle",
-    "variant_title": "2.6",
-    "sku": "AMS-107-3643-2.6\"",
-    "price": 40896.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/prismatic-stone-pair-bangle?variant=gid://shopify/ProductVariant/67847061438691",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3643-2.6.jpg?v=1793280285"
-  },
   "gid://shopify/ProductVariant/67847411368163": {
     "product_title": "Admiring Stone Earrings",
     "variant_title": "Default Title",
@@ -132272,6 +132245,15 @@
     "url": "https://www.theamethyststore.com/products/traditional-boho-pendants?variant=gid://shopify/ProductVariant/48406425993443",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3227.jpg?v=1772603635"
   },
+  "gid://shopify/ProductVariant/48406535405795": {
+    "product_title": "Kanvika Stone Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-14969",
+    "price": 30046.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kanvika-stone-short-necklace?variant=gid://shopify/ProductVariant/48406535405795",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14969-_2.jpg?v=1772607130"
+  },
   "gid://shopify/ProductVariant/48406543597795": {
     "product_title": "Gaurika Kundan Maatal",
     "variant_title": "Default Title",
@@ -135673,6 +135655,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/avikam-long-earrings-5?variant=gid://shopify/ProductVariant/48916895498467",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13607.png?v=1778159647"
+  },
+  "gid://shopify/ProductVariant/48921502220515": {
+    "product_title": "Janaranjani Kundan Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1256",
+    "price": 8895.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/kundan-bracelet-10?variant=gid://shopify/ProductVariant/48921502220515",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1256_2.jpg?v=1778221009"
   },
   "gid://shopify/ProductVariant/48921537773795": {
     "product_title": "Nityagata Kundan Bracelet",
@@ -158596,6 +158587,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangles-24?variant=gid://shopify/ProductVariant/67844289691875",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3642-2.6.jpg?v=1793256522"
+  },
+  "gid://shopify/ProductVariant/67847061438691": {
+    "product_title": "Prismatic Stone Pair Bangle",
+    "variant_title": "2.6",
+    "sku": "AMS-107-3643-2.6\"",
+    "price": 40896.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/prismatic-stone-pair-bangle?variant=gid://shopify/ProductVariant/67847061438691",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3643-2.6.jpg?v=1793280285"
   },
   "gid://shopify/ProductVariant/67877684281571": {
     "product_title": "Vividly Radiant Kundan Vanki",
