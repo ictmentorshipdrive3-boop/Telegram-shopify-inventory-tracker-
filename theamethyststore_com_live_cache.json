@@ -17243,15 +17243,6 @@
     "url": "https://www.theamethyststore.com/products/stunning-cufflinks?variant=gid://shopify/ProductVariant/46395746713827",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-120-0027.jpg?v=1748178944"
   },
-  "gid://shopify/ProductVariant/46395764900067": {
-    "product_title": "Lavish Cufflinks",
-    "variant_title": "Default Title",
-    "sku": "AMS-120-0028",
-    "price": 15200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/lavish-cufflinks?variant=gid://shopify/ProductVariant/46395764900067",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-120-0028.jpg?v=1748180207"
-  },
   "gid://shopify/ProductVariant/46395768668387": {
     "product_title": "Square brown Cufflinks",
     "variant_title": "Default Title",
@@ -35554,7 +35545,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-120-0137",
     "price": 11700.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/mesmerizing-cufflinks?variant=gid://shopify/ProductVariant/47262292115683",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-120-0137.jpg?v=1759930888"
   },
@@ -110323,12 +110314,30 @@
   },
   "gid://shopify/ProductVariant/68900227383523": {
     "product_title": "Beryl Brilliance Stone Single Bangle",
-    "variant_title": "Default Title",
+    "variant_title": "2.6",
     "sku": "AMS-107-3759-2.6\"",
     "price": 23925.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/beryl-brilliance-stone-single-bangle?variant=gid://shopify/ProductVariant/68900227383523",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3759-2.6.jpg?v=1795435742"
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3759-2.6.jpg?v=1795436731"
+  },
+  "gid://shopify/ProductVariant/68900287709411": {
+    "product_title": "Azalea Pink Stone Pair Bangle",
+    "variant_title": "2.6",
+    "sku": "AMS-107-3775-2.6\"",
+    "price": 26440.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/azalea-pink-stone-pair-bangle?variant=gid://shopify/ProductVariant/68900287709411",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3775-2.6.jpg?v=1795436786"
+  },
+  "gid://shopify/ProductVariant/68900378280163": {
+    "product_title": "Cerulean Blue Stone Pair Bangles",
+    "variant_title": "2.4",
+    "sku": "AMS-107-3785-2.4\"",
+    "price": 19308.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/cerulean-blue-stone-pair-bangles?variant=gid://shopify/ProductVariant/68900378280163",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3785-2.4.jpg?v=1795437639"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -116746,6 +116755,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/highlighting-h-cufflinks?variant=gid://shopify/ProductVariant/46395577663715",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-120-0017.jpg?v=1748170664"
+  },
+  "gid://shopify/ProductVariant/46395764900067": {
+    "product_title": "Lavish Cufflinks",
+    "variant_title": "Default Title",
+    "sku": "AMS-120-0028",
+    "price": 15200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/lavish-cufflinks?variant=gid://shopify/ProductVariant/46395764900067",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-120-0028.jpg?v=1748180207"
   },
   "gid://shopify/ProductVariant/46401654456547": {
     "product_title": "Gorgeous Kundan Pendant",
