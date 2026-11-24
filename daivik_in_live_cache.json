@@ -143,15 +143,6 @@
     "url": "https://www.daivik.in/products/146?variant=gid://shopify/ProductVariant/44177048076510",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_487e8ae0-73cf-4ff5-beab-6c67acc607b2.jpg?v=1601119672"
   },
-  "gid://shopify/ProductVariant/32849495556155": {
-    "product_title": "Lakshmi Choker With Earrings.",
-    "variant_title": "Default Title",
-    "sku": "159",
-    "price": 1799.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/159?variant=gid://shopify/ProductVariant/32849495556155",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_0009.jpg?v=1584719871"
-  },
   "gid://shopify/ProductVariant/32849592221755": {
     "product_title": "Guttaspusalu Necklace With Earrings",
     "variant_title": "Default Title",
@@ -5062,7 +5053,7 @@
     "variant_title": "Default Title",
     "sku": "554",
     "price": 2799.0,
-    "stock": 53,
+    "stock": 52,
     "url": "https://www.daivik.in/products/untitled-dec16_20-42?variant=gid://shopify/ProductVariant/45047190094046",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/212AD327-4557-4374-92F2-BEC7287683D6.heic?v=1712585962"
   },
@@ -15808,7 +15799,7 @@
     "variant_title": "Default Title",
     "sku": "870",
     "price": 3599.0,
-    "stock": 25,
+    "stock": 24,
     "url": "https://www.daivik.in/products/antique-lakshmi-pearl-hanging-necklace-with-balis?variant=gid://shopify/ProductVariant/47797500575966",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C263EF27-F38A-4C5B-8B40-09E9FD67CAA1.jpg?v=1767458681"
   },
@@ -18670,7 +18661,7 @@
     "variant_title": "Default Title",
     "sku": "3542",
     "price": 999.0,
-    "stock": 45,
+    "stock": 44,
     "url": "https://www.daivik.in/products/real-look-alike-foam-handmade-malli-pink-lotus-center-hair-clips?variant=gid://shopify/ProductVariant/48377641304286",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8286.jpg?v=1782546536"
   },
@@ -22963,7 +22954,7 @@
     "variant_title": "Default Title",
     "sku": "2015",
     "price": 499.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.daivik.in/products/ad-droplet-earrings?variant=gid://shopify/ProductVariant/49428003848414",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/library-BC294F45-13B3-4C08-8361-0016035795E5-L0-001.jpg?v=1794500826"
   },
@@ -23119,6 +23110,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/18?variant=gid://shopify/ProductVariant/32600557649979",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_5e6e7a93-bcb3-4c15-a2d3-f871fbf7f3fb.jpg?v=1641477506"
+  },
+  "gid://shopify/ProductVariant/32849495556155": {
+    "product_title": "Lakshmi Choker With Earrings.",
+    "variant_title": "Default Title",
+    "sku": "159",
+    "price": 1799.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/159?variant=gid://shopify/ProductVariant/32849495556155",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_0009.jpg?v=1584719871"
   },
   "gid://shopify/ProductVariant/32849570136123": {
     "product_title": "Kemp Uncut Heavy Choker With Earrings",
