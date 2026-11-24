@@ -37030,7 +37030,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-7680",
     "price": 52020.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/nilana-kundan-earrings?variant=gid://shopify/ProductVariant/47379617710307",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-7680.jpg?v=1761205864"
   },
@@ -71954,15 +71954,6 @@
     "url": "https://www.theamethyststore.com/products/grandeur-kundan-choker-1?variant=gid://shopify/ProductVariant/49479495909603",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17138.jpg?v=1785485973"
   },
-  "gid://shopify/ProductVariant/49479503184099": {
-    "product_title": "Luxurious Kundan Choker",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-17149",
-    "price": 51615.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/luxurious-kundan-choker-1?variant=gid://shopify/ProductVariant/49479503184099",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17149.jpg?v=1785486210"
-  },
   "gid://shopify/ProductVariant/49480139505891": {
     "product_title": "Gorgeous Kundan Choker",
     "variant_title": "Default Title",
@@ -77821,15 +77812,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/roshika-kundan-earrings?variant=gid://shopify/ProductVariant/49542409715939",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15705.jpg?v=1786864295"
-  },
-  "gid://shopify/ProductVariant/49542411387107": {
-    "product_title": "Nivara Kundan Studs",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-15702",
-    "price": 16820.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nivara-kundan-studs?variant=gid://shopify/ProductVariant/49542411387107",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15702.jpg?v=1786864498"
   },
   "gid://shopify/ProductVariant/49542420889827": {
     "product_title": "Charvi Kundan Studs",
@@ -147770,6 +147752,15 @@
     "url": "https://www.theamethyststore.com/products/stunning-look-avikam-necklace-set-1?variant=gid://shopify/ProductVariant/49479200571619",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17161.jpg?v=1785480372"
   },
+  "gid://shopify/ProductVariant/49479503184099": {
+    "product_title": "Luxurious Kundan Choker",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17149",
+    "price": 51615.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/luxurious-kundan-choker-1?variant=gid://shopify/ProductVariant/49479503184099",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17149.jpg?v=1785486210"
+  },
   "gid://shopify/ProductVariant/49480141406435": {
     "product_title": "Attractive Avikam Pair Bangles",
     "variant_title": "2.6\"",
@@ -151072,6 +151063,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/yashvi-kundan-earrings?variant=gid://shopify/ProductVariant/49542399557859",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15710.jpg?v=1786863760"
+  },
+  "gid://shopify/ProductVariant/49542411387107": {
+    "product_title": "Nivara Kundan Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15702",
+    "price": 16820.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nivara-kundan-studs?variant=gid://shopify/ProductVariant/49542411387107",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15702.jpg?v=1786864498"
   },
   "gid://shopify/ProductVariant/49542415679715": {
     "product_title": "Kiyana Kundan Studs",
