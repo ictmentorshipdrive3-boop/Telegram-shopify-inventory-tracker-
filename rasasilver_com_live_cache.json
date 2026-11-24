@@ -1916,15 +1916,6 @@
     "url": "https://www.rasasilver.com/products/pushpanjali-vriksha-danglers?variant=gid://shopify/ProductVariant/50564669145385",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_2d2a08f1-134b-4803-95c3-488114565beb.jpg?v=1751628646"
   },
-  "gid://shopify/ProductVariant/50564847370537": {
-    "product_title": "Ardhanari Shringar Choker",
-    "variant_title": "Default Title",
-    "sku": "R9089",
-    "price": 31430.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/ardhanari-shringar-choker?variant=gid://shopify/ProductVariant/50564847370537",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2_7f757899-b4e3-4f2a-a12b-1a710ba44439.jpg?v=1757489092"
-  },
   "gid://shopify/ProductVariant/50565151752489": {
     "product_title": "Nefertari Charm Necklace",
     "variant_title": "Default Title",
@@ -2200,7 +2191,7 @@
     "variant_title": "Default Title",
     "sku": "R16163",
     "price": 1680.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/florra-studs?variant=gid://shopify/ProductVariant/50635286053161",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2_d74190e2-0c48-41bf-a66c-8cd8e91a58bb.jpg?v=1754112549"
   },
@@ -22534,6 +22525,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/vasuki-madhuram-haaram?variant=gid://shopify/ProductVariant/50564320821545",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_73c4b5d7-4d80-4be2-ada7-2642ccdf23dc.jpg?v=1751628336"
+  },
+  "gid://shopify/ProductVariant/50564847370537": {
+    "product_title": "Ardhanari Shringar Choker",
+    "variant_title": "Default Title",
+    "sku": "R9089",
+    "price": 31430.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ardhanari-shringar-choker?variant=gid://shopify/ProductVariant/50564847370537",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2_7f757899-b4e3-4f2a-a12b-1a710ba44439.jpg?v=1757489092"
   },
   "gid://shopify/ProductVariant/50576983982377": {
     "product_title": "Glimmer Lantern Hangings",
