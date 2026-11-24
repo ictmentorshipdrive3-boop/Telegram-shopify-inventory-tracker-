@@ -50836,7 +50836,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-14457",
     "price": 15800.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/chic-glow-beads-necklace?variant=gid://shopify/ProductVariant/48275138871523",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14457.jpg?v=1771044581"
   },
@@ -109957,7 +109957,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5652",
     "price": 5500.0,
-    "stock": 3,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/effortless-grace-avikam-pendant-set?variant=gid://shopify/ProductVariant/68892869787875",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5652.jpg?v=1795331718"
   },
@@ -110509,6 +110509,24 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/unique-stone-pendant?variant=gid://shopify/ProductVariant/68911549087971",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5937.jpg?v=1795518803"
+  },
+  "gid://shopify/ProductVariant/68911560261859": {
+    "product_title": "Amazing Stone Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5938",
+    "price": 9460.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/amazing-stone-pendant-1?variant=gid://shopify/ProductVariant/68911560261859",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5938.jpg?v=1795519174"
+  },
+  "gid://shopify/ProductVariant/68911581855971": {
+    "product_title": "Refined Allure Stone Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5962",
+    "price": 9864.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/refined-allure-stone-pendant?variant=gid://shopify/ProductVariant/68911581855971",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5962.jpg?v=1795519494"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
