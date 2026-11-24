@@ -3046,7 +3046,7 @@
     "variant_title": "Green",
     "sku": "R11762",
     "price": 1330.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.rasasilver.com/products/emerovia-pendant?variant=gid://shopify/ProductVariant/50809107087657",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2606.jpg?v=1756541009"
   },
@@ -18601,15 +18601,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/cupid-blush-necklace?variant=gid://shopify/ProductVariant/53403110572329",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19537.jpg?v=1786624453"
-  },
-  "gid://shopify/ProductVariant/53403196129577": {
-    "product_title": "Radha-Krishna Temple Necklace",
-    "variant_title": "Default Title",
-    "sku": "R33404",
-    "price": 38500.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/radha-krishna-temple-necklace?variant=gid://shopify/ProductVariant/53403196129577",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_41_107Pics0464_2.jpg?v=1786624800"
   },
   "gid://shopify/ProductVariant/53403228700969": {
     "product_title": "Lakshmikaa Temple Necklace",
@@ -47797,6 +47788,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/aaradhya-temple-necklace?variant=gid://shopify/ProductVariant/53399103734057",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-08-03at5.01.09PM_1.jpg?v=1785757932"
+  },
+  "gid://shopify/ProductVariant/53403196129577": {
+    "product_title": "Radha-Krishna Temple Necklace",
+    "variant_title": "Default Title",
+    "sku": "R33404",
+    "price": 38500.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/radha-krishna-temple-necklace?variant=gid://shopify/ProductVariant/53403196129577",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_41_107Pics0464_2.jpg?v=1786624800"
   },
   "gid://shopify/ProductVariant/53403237384489": {
     "product_title": "Sampath-Devi Temple Necklace",
