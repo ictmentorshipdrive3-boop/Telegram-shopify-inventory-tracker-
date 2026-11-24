@@ -3194,15 +3194,6 @@
     "url": "https://www.theamethyststore.com/products/nandhi-3d-solid-idol?variant=gid://shopify/ProductVariant/43801428099299",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-115-0117.jpg?v=1673180161"
   },
-  "gid://shopify/ProductVariant/43642226639075": {
-    "product_title": "Mothika Red Stone Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-3881",
-    "price": 33231.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/mothika-red-stone-necklace?variant=gid://shopify/ProductVariant/43642226639075",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-102-3881.jpg?v=1673246364"
-  },
   "gid://shopify/ProductVariant/43642624180451": {
     "product_title": "Anya Stone Necklace",
     "variant_title": "Default Title",
@@ -53581,7 +53572,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-15108",
     "price": 24600.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/pavisha-attigai-necklace?variant=gid://shopify/ProductVariant/48423930036451",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15108-_2.jpg?v=1773064210"
   },
@@ -93392,15 +93383,6 @@
     "url": "https://www.theamethyststore.com/products/richly-decorated-moissanite-earrings?variant=gid://shopify/ProductVariant/67645277274339",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16522.jpg?v=1791454569"
   },
-  "gid://shopify/ProductVariant/67645876044003": {
-    "product_title": "Eye-Catching Moissanite Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-16518",
-    "price": 44400.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/eye-catching-moissanite-jhumkas?variant=gid://shopify/ProductVariant/67645876044003",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16518.jpg?v=1791457026"
-  },
   "gid://shopify/ProductVariant/67646180491491": {
     "product_title": "Whimsical Swing Moissanite Jhumkas",
     "variant_title": "Default Title",
@@ -109875,7 +109857,7 @@
     "product_title": "Luminous Artistry Avikam Pendant Set",
     "variant_title": "Default Title",
     "sku": "AMS-104-5663",
-    "price": 6500.0,
+    "price": 6600.0,
     "stock": 5,
     "url": "https://www.theamethyststore.com/products/luminous-artistry-avikam-pendant-set?variant=gid://shopify/ProductVariant/68885332000995",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5663.jpg?v=1795266471"
@@ -110384,6 +110366,15 @@
     "url": "https://www.theamethyststore.com/products/distinctive-charm-stone-pendant?variant=gid://shopify/ProductVariant/68909079462115",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5968.jpg?v=1795508806"
   },
+  "gid://shopify/ProductVariant/68909123961059": {
+    "product_title": "Hanisha Stone Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19594",
+    "price": 32586.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/hanisha-stone-short-necklace?variant=gid://shopify/ProductVariant/68909123961059",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19594.jpg?v=1795523113"
+  },
   "gid://shopify/ProductVariant/68911245328611": {
     "product_title": "Grace Stone Pendant",
     "variant_title": "Default Title",
@@ -110545,6 +110536,33 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/infinite-charm-stone-pendant?variant=gid://shopify/ProductVariant/68911667151075",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5959.jpg?v=1795520886"
+  },
+  "gid://shopify/ProductVariant/68911695659235": {
+    "product_title": "Timeless Artistry Stone Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5958",
+    "price": 8894.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/timeless-artistry-stone-pendant?variant=gid://shopify/ProductVariant/68911695659235",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5958.jpg?v=1795521486"
+  },
+  "gid://shopify/ProductVariant/68911756148963": {
+    "product_title": "Vibrant Stone Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5941",
+    "price": 18233.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/stone-pendant-2?variant=gid://shopify/ProductVariant/68911756148963",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5941.jpg?v=1795522527"
+  },
+  "gid://shopify/ProductVariant/68911836201187": {
+    "product_title": "Saishaa Stone Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5942",
+    "price": 10147.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/saishaa-stone-pendant?variant=gid://shopify/ProductVariant/68911836201187",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5942.jpg?v=1795522939"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -111787,6 +111805,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nandhi-3d-solid-idol?variant=gid://shopify/ProductVariant/49678902132963",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-115-0117.jpg?v=1673180161"
+  },
+  "gid://shopify/ProductVariant/43642226639075": {
+    "product_title": "Mothika Red Stone Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-3881",
+    "price": 33231.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/mothika-red-stone-necklace?variant=gid://shopify/ProductVariant/43642226639075",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-102-3881.jpg?v=1673246364"
   },
   "gid://shopify/ProductVariant/43642244399331": {
     "product_title": "Jogi Short Necklace",
@@ -157615,6 +157642,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/luscious-craft-moissanite-jhumkas?variant=gid://shopify/ProductVariant/67645770989795",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16520.jpg?v=1791456602"
+  },
+  "gid://shopify/ProductVariant/67645876044003": {
+    "product_title": "Eye-Catching Moissanite Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-16518",
+    "price": 44400.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/eye-catching-moissanite-jhumkas?variant=gid://shopify/ProductVariant/67645876044003",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16518.jpg?v=1791457026"
   },
   "gid://shopify/ProductVariant/67646306484451": {
     "product_title": "Ethereal Moissanite Pendant Set",
