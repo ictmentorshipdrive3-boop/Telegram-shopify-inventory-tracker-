@@ -256,7 +256,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-0437",
     "price": 6153.0,
-    "stock": 2,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/shuchi-pendant?variant=gid://shopify/ProductVariant/39563688050838",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-0437.jpg?v=1719393413"
   },
@@ -53063,15 +53063,6 @@
     "url": "https://www.theamethyststore.com/products/twisha-kundan-choker?variant=gid://shopify/ProductVariant/48349655302371",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14984.jpg?v=1772457942"
   },
-  "gid://shopify/ProductVariant/48350357946595": {
-    "product_title": "Magisha Diamond Design Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-3824",
-    "price": 12800.0,
-    "stock": 2,
-    "url": "https://www.theamethyststore.com/products/magisha-diamond-design-pendant?variant=gid://shopify/ProductVariant/48350357946595",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3824.jpg?v=1772458875"
-  },
   "gid://shopify/ProductVariant/48350650859747": {
     "product_title": "Shreya Nagas Short Necklace",
     "variant_title": "Default Title",
@@ -67858,6 +67849,15 @@
     "stock": 2,
     "url": "https://www.theamethyststore.com/products/avikam-choker-set-1?variant=gid://shopify/ProductVariant/49410616262883",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16767.jpg?v=1784113297"
+  },
+  "gid://shopify/ProductVariant/49410617573603": {
+    "product_title": "Amazing Avikam Long Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16704",
+    "price": 45400.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/amazing-avikam-long-necklace-set-1?variant=gid://shopify/ProductVariant/49410617573603",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16704.jpg?v=1784113529"
   },
   "gid://shopify/ProductVariant/49410618818787": {
     "product_title": "Zyvana Avikam Choker Set",
@@ -114132,7 +114132,7 @@
     "product_title": "Dainty Avikam Choker Set",
     "variant_title": "Default Title",
     "sku": "AMS-102-6519",
-    "price": 20900.0,
+    "price": 95700.0,
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/dainty-avikam-choker-set?variant=gid://shopify/ProductVariant/45281558757603",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-6519.jpg?v=1721305051"
@@ -132767,6 +132767,15 @@
     "url": "https://www.theamethyststore.com/products/lakshmi-kundan-pendant?variant=gid://shopify/ProductVariant/48347613298915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3839.jpg?v=1772455531"
   },
+  "gid://shopify/ProductVariant/48350357946595": {
+    "product_title": "Magisha Diamond Design Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-3824",
+    "price": 12800.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/magisha-diamond-design-pendant?variant=gid://shopify/ProductVariant/48350357946595",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3824.jpg?v=1772458875"
+  },
   "gid://shopify/ProductVariant/48350826823907": {
     "product_title": "Temple Designed Nagas Oddiyanam",
     "variant_title": "Default Title",
@@ -146401,15 +146410,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/amazing-avikam-long-necklace-set?variant=gid://shopify/ProductVariant/49410616131811",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16703.jpg?v=1784113284"
-  },
-  "gid://shopify/ProductVariant/49410617573603": {
-    "product_title": "Amazing Avikam Long Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16704",
-    "price": 45400.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/amazing-avikam-long-necklace-set-1?variant=gid://shopify/ProductVariant/49410617573603",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16704.jpg?v=1784113529"
   },
   "gid://shopify/ProductVariant/49410629435619": {
     "product_title": "Dazzling Avikam Short Necklace Set",
