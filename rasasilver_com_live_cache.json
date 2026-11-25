@@ -2236,7 +2236,7 @@
     "variant_title": "Ruby Pink",
     "sku": "R10153",
     "price": 2310.0,
-    "stock": 4,
+    "stock": 5,
     "url": "https://www.rasasilver.com/products/gulabika-ring?variant=gid://shopify/ProductVariant/50635362205993",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-5_90677077-fd14-493f-b304-dd08686baf11.jpg?v=1754311817"
   },
@@ -7135,15 +7135,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/rectarya-nine-gems-bangles?variant=gid://shopify/ProductVariant/52273350213929",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa-10Nov_Sann0100_resized.jpg?v=1763373872"
-  },
-  "gid://shopify/ProductVariant/51864696979753": {
-    "product_title": "Ziryana Sparkle Pendant Set",
-    "variant_title": "Default Title",
-    "sku": "R18612",
-    "price": 6640.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/ziryana-sparkle-pendant-set?variant=gid://shopify/ProductVariant/51864696979753",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2427_resized.jpg?v=1763468484"
   },
   "gid://shopify/ProductVariant/51866778763561": {
     "product_title": "Emerald Quadline Necklace Set",
@@ -31480,6 +31471,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/oceanique-curve-bracelet-copy?variant=gid://shopify/ProductVariant/51863500095785",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2454_resized.jpg?v=1763469575"
+  },
+  "gid://shopify/ProductVariant/51864696979753": {
+    "product_title": "Ziryana Sparkle Pendant Set",
+    "variant_title": "Default Title",
+    "sku": "R18612",
+    "price": 6640.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ziryana-sparkle-pendant-set?variant=gid://shopify/ProductVariant/51864696979753",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2427_resized.jpg?v=1763468484"
   },
   "gid://shopify/ProductVariant/51865052119337": {
     "product_title": "Ruby Ziana Pendant Set",
