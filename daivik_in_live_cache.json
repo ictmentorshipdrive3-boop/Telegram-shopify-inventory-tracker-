@@ -8455,7 +8455,7 @@
     "variant_title": "Green",
     "sku": "1507",
     "price": 999.0,
-    "stock": 6,
+    "stock": 1,
     "url": "https://www.daivik.in/products/ghungroo-ball-anklets-in-2-variants?variant=gid://shopify/ProductVariant/45977953566942",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/62595D49-FB69-4540-95E6-67BAA0D9B5FE.jpg?v=1729698566"
   },
@@ -17738,15 +17738,6 @@
     "url": "https://www.daivik.in/products/kemp-jhumkas-with-kemp-mattal?variant=gid://shopify/ProductVariant/48143141667038",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2049B20A-0E46-4E07-B91C-71BFC1D59A54.jpg?v=1776858167"
   },
-  "gid://shopify/ProductVariant/48149264629982": {
-    "product_title": "Moissanite Flower Necklace with Earrings",
-    "variant_title": "Default Title",
-    "sku": "1380",
-    "price": 1299.0,
-    "stock": 12,
-    "url": "https://www.daivik.in/products/moissanite-flower-necklace-with-earrings?variant=gid://shopify/ProductVariant/48149264629982",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_4526.jpg?v=1776961897"
-  },
   "gid://shopify/ProductVariant/48156921692382": {
     "product_title": "Pure kemp Jadau Hair accessories ( JadaBillai + Mattal )",
     "variant_title": "Default Title",
@@ -21730,7 +21721,7 @@
     "variant_title": "2.4",
     "sku": "D26524",
     "price": 1899.0,
-    "stock": 9,
+    "stock": 8,
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d26524?variant=gid://shopify/ProductVariant/49178381222110",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70932_815d1198-e580-47ee-a164-e656eb41808b.jpg?v=1791536316"
   },
@@ -33064,6 +33055,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/manga-kemp-bridal-combo?variant=gid://shopify/ProductVariant/48135850688734",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A4B79477-1E05-489D-BF83-848ADAF50502.jpg?v=1776786791"
+  },
+  "gid://shopify/ProductVariant/48149264629982": {
+    "product_title": "Moissanite Flower Necklace with Earrings",
+    "variant_title": "Default Title",
+    "sku": "1380",
+    "price": 1299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/moissanite-flower-necklace-with-earrings?variant=gid://shopify/ProductVariant/48149264629982",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_4526.jpg?v=1776961897"
   },
   "gid://shopify/ProductVariant/48161484308702": {
     "product_title": "Antique kemp Flower Mesh Bracelet/Kada",
