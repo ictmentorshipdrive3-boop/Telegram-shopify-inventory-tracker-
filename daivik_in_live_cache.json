@@ -112,7 +112,7 @@
     "variant_title": "Default Title",
     "sku": "86",
     "price": 1799.0,
-    "stock": 30,
+    "stock": 29,
     "url": "https://www.daivik.in/products/86?variant=gid://shopify/ProductVariant/32623656271931",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/antique-polish-temple-jhumkas-earrings-444.jpg?v=1594319693"
   },
@@ -3361,7 +3361,7 @@
     "variant_title": "Default Title",
     "sku": "504",
     "price": 2999.0,
-    "stock": 12,
+    "stock": 11,
     "url": "https://www.daivik.in/products/a-56?variant=gid://shopify/ProductVariant/44145944592606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_d5c2980b-bc98-4693-8bbb-0302ee5acacf.heic?v=1681570569"
   },
@@ -4201,15 +4201,6 @@
     "stock": 17,
     "url": "https://www.daivik.in/products/untitled-oct1_21-14?variant=gid://shopify/ProductVariant/44372797325534",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4AA931C1-ADBF-4E12-8848-A4137329D91C.jpg?v=1696175737"
-  },
-  "gid://shopify/ProductVariant/44381628235998": {
-    "product_title": "Lakshmi Ruby Green AD Kadac",
-    "variant_title": "2.4",
-    "sku": "980",
-    "price": 2199.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/lakshmi-ruby-green-ad-kada?variant=gid://shopify/ProductVariant/44381628235998",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_f15bb346-0580-4f5d-9e06-488318882f92.jpg?v=1696515681"
   },
   "gid://shopify/ProductVariant/44381628268766": {
     "product_title": "Lakshmi Ruby Green AD Kadac",
@@ -14125,7 +14116,7 @@
     "variant_title": "8 Inches String - Half Moolam",
     "sku": "3501",
     "price": 1299.0,
-    "stock": 36,
+    "stock": 35,
     "url": "https://www.daivik.in/products/jathi-malli-pink-shade-flower-reusable-gajra-16-inches?variant=gid://shopify/ProductVariant/47542602006750",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0342.heic?v=1758199868"
   },
@@ -26611,6 +26602,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/cluster-of-white-pearl-long-chain?variant=gid://shopify/ProductVariant/44374744006878",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/03101DD1-D1A3-4B75-8451-4C6957C397DA.jpg?v=1696262934"
+  },
+  "gid://shopify/ProductVariant/44381628235998": {
+    "product_title": "Lakshmi Ruby Green AD Kadac",
+    "variant_title": "2.4",
+    "sku": "980",
+    "price": 2199.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/lakshmi-ruby-green-ad-kada?variant=gid://shopify/ProductVariant/44381628235998",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_f15bb346-0580-4f5d-9e06-488318882f92.jpg?v=1696515681"
   },
   "gid://shopify/ProductVariant/44402779128030": {
     "product_title": "Diwali sale Necklace 56",
