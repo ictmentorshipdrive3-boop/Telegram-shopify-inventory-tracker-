@@ -8450,15 +8450,6 @@
     "url": "https://www.daivik.in/products/premium-ad-mattal?variant=gid://shopify/ProductVariant/45974972793054",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7184C6A1-C3DA-44CC-A1C8-A4F0542CB634.jpg?v=1729613139"
   },
-  "gid://shopify/ProductVariant/45977953566942": {
-    "product_title": "Ghungroo Ball Anklets in 2 Variants",
-    "variant_title": "Green",
-    "sku": "1507",
-    "price": 999.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/ghungroo-ball-anklets-in-2-variants?variant=gid://shopify/ProductVariant/45977953566942",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/62595D49-FB69-4540-95E6-67BAA0D9B5FE.jpg?v=1729698566"
-  },
   "gid://shopify/ProductVariant/45980765520094": {
     "product_title": "Premium Two Layered AD Necklace with Earrings in Five Colors",
     "variant_title": "Purple",
@@ -10447,15 +10438,6 @@
     "stock": 2,
     "url": "https://www.daivik.in/products/bridal-pure-kemp-jadau-peacock-green-stones-white-polish-kasumalai-necklace-with-earrings?variant=gid://shopify/ProductVariant/46600501985502",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8238B949-5492-4B95-BEA3-9B76B7A0F355.jpg?v=1744467759"
-  },
-  "gid://shopify/ProductVariant/46601934045406": {
-    "product_title": "Invisible AD Leaf Necklace with Earrings in two Colors (Price for Each)",
-    "variant_title": "Ruby Green",
-    "sku": "982",
-    "price": 699.0,
-    "stock": 11,
-    "url": "https://www.daivik.in/products/invisible-ad-leaf-necklace-with-earrings-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/46601934045406",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1BC5AE9E-3283-41C7-AE2B-A526038DB48D.jpg?v=1744559542"
   },
   "gid://shopify/ProductVariant/46601934078174": {
     "product_title": "Invisible AD Leaf Necklace with Earrings in two Colors (Price for Each)",
@@ -16573,7 +16555,7 @@
     "variant_title": "Default Title",
     "sku": "571",
     "price": 1299.0,
-    "stock": 50,
+    "stock": 49,
     "url": "https://www.daivik.in/products/lakshmi-pendant-beads-choker-with-earrings?variant=gid://shopify/ProductVariant/47950387085534",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/714FE7F9-2484-4B71-87EE-D2E7981905EC.jpg?v=1772728689"
   },
@@ -19246,7 +19228,7 @@
     "variant_title": "2.8",
     "sku": "1943",
     "price": 1999.0,
-    "stock": 28,
+    "stock": 27,
     "url": "https://www.daivik.in/products/premium-gold-look-alike-antique-kada?variant=gid://shopify/ProductVariant/48584804761822",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B64A32E3-F256-4FBB-9AFC-A8820BE399C2.jpg?v=1786206007"
   },
@@ -19408,7 +19390,7 @@
     "variant_title": "Default Title",
     "sku": "928",
     "price": 7499.0,
-    "stock": 1,
+    "stock": 10,
     "url": "https://www.daivik.in/products/balaji-haram?variant=gid://shopify/ProductVariant/48624208937182",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5F1292F7-1238-4DCB-B513-CCB1A7D8A251.jpg?v=1787331525"
   },
@@ -28412,6 +28394,15 @@
     "url": "https://www.daivik.in/products/bridal-lakshmi-and-peacock-green-and-golden-beads-long-haram-with-jhumkas?variant=gid://shopify/ProductVariant/45972910702814",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FD7C5660-B3DE-4D18-BD1B-88DC6B7F5989.jpg?v=1729520599"
   },
+  "gid://shopify/ProductVariant/45977953566942": {
+    "product_title": "Ghungroo Ball Anklets in 2 Variants",
+    "variant_title": "Green",
+    "sku": "1507",
+    "price": 999.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/ghungroo-ball-anklets-in-2-variants?variant=gid://shopify/ProductVariant/45977953566942",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/62595D49-FB69-4540-95E6-67BAA0D9B5FE.jpg?v=1729698566"
+  },
   "gid://shopify/ProductVariant/45977953599710": {
     "product_title": "Ghungroo Ball Anklets in 2 Variants",
     "variant_title": "Ruby",
@@ -29770,6 +29761,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/moissanite-antique-strawberry-green-beads-jhumkas?variant=gid://shopify/ProductVariant/46601433055454",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E5BCE816-21FE-4422-981D-AD4B501C384E.jpg?v=1744526067"
+  },
+  "gid://shopify/ProductVariant/46601934045406": {
+    "product_title": "Invisible AD Leaf Necklace with Earrings in two Colors (Price for Each)",
+    "variant_title": "Ruby Green",
+    "sku": "982",
+    "price": 699.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/invisible-ad-leaf-necklace-with-earrings-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/46601934045406",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1BC5AE9E-3283-41C7-AE2B-A526038DB48D.jpg?v=1744559542"
   },
   "gid://shopify/ProductVariant/46608572973278": {
     "product_title": "Simple Flower AD Necklace with Earrings",
