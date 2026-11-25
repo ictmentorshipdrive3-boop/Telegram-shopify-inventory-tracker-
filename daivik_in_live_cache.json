@@ -3505,7 +3505,7 @@
     "variant_title": "Default Title",
     "sku": "898",
     "price": 2499.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.daivik.in/products/3-line-multicolour-mala-with-earrings?variant=gid://shopify/ProductVariant/44212089585886",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_8b415e5f-a762-4a7e-b286-dcb2b1ac28ec.heic?v=1685632032"
   },
@@ -9304,15 +9304,6 @@
     "stock": 56,
     "url": "https://www.daivik.in/products/simple-gold-finish-anklets-1?variant=gid://shopify/ProductVariant/46188375965918",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/129BD151-AFAD-4AC4-A66C-66BC6FD1559C.jpg?v=1735653418"
-  },
-  "gid://shopify/ProductVariant/46188385566942": {
-    "product_title": "Simple White Beads Anklets in two Colors (Prices for a Pair)",
-    "variant_title": "Ruby",
-    "sku": "1530",
-    "price": 499.0,
-    "stock": 17,
-    "url": "https://www.daivik.in/products/simple-white-beads-anklets-in-two-colors-prices-for-a-pair?variant=gid://shopify/ProductVariant/46188385566942",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2641B11F-41C6-4D63-AF30-468B6FBABACD.jpg?v=1735654225"
   },
   "gid://shopify/ProductVariant/46188385599710": {
     "product_title": "Simple White Beads Anklets in two Colors (Prices for a Pair)",
@@ -20042,15 +20033,6 @@
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26035?variant=gid://shopify/ProductVariant/49149625467102",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6108.jpg?v=1791221801"
   },
-  "gid://shopify/ProductVariant/49149625532638": {
-    "product_title": "Diwali Sale Necklace D26037",
-    "variant_title": "Default Title",
-    "sku": "D26037",
-    "price": 4599.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26037?variant=gid://shopify/ProductVariant/49149625532638",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6113_2267d398-3135-41c6-83b2-2c93469c9870.jpg?v=1791221808"
-  },
   "gid://shopify/ProductVariant/49149625565406": {
     "product_title": "Diwali Sale Necklace D26038",
     "variant_title": "Default Title",
@@ -23044,7 +23026,7 @@
     "variant_title": "Default Title",
     "sku": "4046",
     "price": 4799.0,
-    "stock": 10,
+    "stock": 19,
     "url": "https://www.daivik.in/products/ghunjroo-heritage-antique-watch-bracelet?variant=gid://shopify/ProductVariant/49492481704158",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8895.jpg?v=1795538048"
   },
@@ -23053,7 +23035,7 @@
     "variant_title": "Default Title",
     "sku": "4047",
     "price": 5499.0,
-    "stock": 10,
+    "stock": 17,
     "url": "https://www.daivik.in/products/ghunjroo-heritage-antique-watch-bracelet-1?variant=gid://shopify/ProductVariant/49492482490590",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8897.jpg?v=1795538104"
   },
@@ -28988,6 +28970,15 @@
     "url": "https://www.daivik.in/products/simple-ruby-green-flower-anklets?variant=gid://shopify/ProductVariant/46188373967070",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8B4FDF10-175A-4A91-B3B0-F7FB02EF6BD6.jpg?v=1735652752"
   },
+  "gid://shopify/ProductVariant/46188385566942": {
+    "product_title": "Simple White Beads Anklets in two Colors (Prices for a Pair)",
+    "variant_title": "Ruby",
+    "sku": "1530",
+    "price": 499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/simple-white-beads-anklets-in-two-colors-prices-for-a-pair?variant=gid://shopify/ProductVariant/46188385566942",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2641B11F-41C6-4D63-AF30-468B6FBABACD.jpg?v=1735654225"
+  },
   "gid://shopify/ProductVariant/46193503568094": {
     "product_title": "Antique Cage Hair Bun",
     "variant_title": "Default Title",
@@ -34144,6 +34135,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26036?variant=gid://shopify/ProductVariant/49149625499870",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6111_789e04e6-ac6f-4502-accf-a2a482b401c3.jpg?v=1791221803"
+  },
+  "gid://shopify/ProductVariant/49149625532638": {
+    "product_title": "Diwali Sale Necklace D26037",
+    "variant_title": "Default Title",
+    "sku": "D26037",
+    "price": 4599.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-necklace-d26037?variant=gid://shopify/ProductVariant/49149625532638",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6113_2267d398-3135-41c6-83b2-2c93469c9870.jpg?v=1791221808"
   },
   "gid://shopify/ProductVariant/49152663650526": {
     "product_title": "Diwali Sale Necklace D26041",
