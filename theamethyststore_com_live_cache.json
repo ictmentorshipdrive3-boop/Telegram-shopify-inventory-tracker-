@@ -82142,15 +82142,6 @@
     "url": "https://www.theamethyststore.com/products/ahitha-nagas-drops?variant=gid://shopify/ProductVariant/49618650038499",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14907.jpg?v=1787832260"
   },
-  "gid://shopify/ProductVariant/49618680414435": {
-    "product_title": "Nithra Nagas Drops",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14958",
-    "price": 5522.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/nithra-nagas-drops?variant=gid://shopify/ProductVariant/49618680414435",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14958.jpg?v=1787832400"
-  },
   "gid://shopify/ProductVariant/49618680447203": {
     "product_title": "Catchy Nagas Drops",
     "variant_title": "Default Title",
@@ -103243,7 +103234,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-16969",
     "price": 27400.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/opulent-allure-chandhubaali-earrings?variant=gid://shopify/ProductVariant/68137779495139",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16969.jpg?v=1793866574"
   },
@@ -148400,15 +148391,6 @@
     "url": "https://www.theamethyststore.com/products/tenisha-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49483380556003",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16910.jpg?v=1785578931"
   },
-  "gid://shopify/ProductVariant/49483388256483": {
-    "product_title": "Amazing Pakshi Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16915",
-    "price": 54900.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/amazing-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49483388256483",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16915.jpg?v=1785579194"
-  },
   "gid://shopify/ProductVariant/49483391533283": {
     "product_title": "Advika Diamond Design Studs",
     "variant_title": "Default Title",
@@ -153304,6 +153286,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/nagas-drops?variant=gid://shopify/ProductVariant/49618642174179",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15322.jpg?v=1787832227"
+  },
+  "gid://shopify/ProductVariant/49618680414435": {
+    "product_title": "Nithra Nagas Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14958",
+    "price": 5522.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/nithra-nagas-drops?variant=gid://shopify/ProductVariant/49618680414435",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14958.jpg?v=1787832400"
   },
   "gid://shopify/ProductVariant/49618710003939": {
     "product_title": "Avinthaa Nagas Drops",
