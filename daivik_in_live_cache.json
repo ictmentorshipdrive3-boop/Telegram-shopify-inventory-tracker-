@@ -17473,7 +17473,7 @@
     "variant_title": "2.4",
     "sku": "1861",
     "price": 1799.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.daivik.in/products/manga-pure-kemp-bangles?variant=gid://shopify/ProductVariant/48086454436062",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/91A12708-AC32-473E-B57E-E240D95BA0BD.jpg?v=1776078743"
   },
@@ -19375,15 +19375,6 @@
     "stock": 56,
     "url": "https://www.daivik.in/products/simple-thin-hipchain-in-3-variants-price-for-each?variant=gid://shopify/ProductVariant/48632739102942",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1564_23be5796-b199-4b04-937d-77f96fe88e88.jpg?v=1787586721"
-  },
-  "gid://shopify/ProductVariant/48635760181470": {
-    "product_title": "Kemp Ruby Green Jhumka with Mattal Combo",
-    "variant_title": "Default Title",
-    "sku": "1953",
-    "price": 3499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/kemp-ruby-green-jhumka-with-mattal-combo?variant=gid://shopify/ProductVariant/48635760181470",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1461.jpg?v=1787656910"
   },
   "gid://shopify/ProductVariant/48640380109022": {
     "product_title": "Traditional Flower Mesh Adigai Necklace with Earrings",
@@ -33586,6 +33577,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/diamond-look-alike-2-layer-flower-necklace-with-earrings?variant=gid://shopify/ProductVariant/48630569435358",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1190.jpg?v=1787466710"
+  },
+  "gid://shopify/ProductVariant/48635760181470": {
+    "product_title": "Kemp Ruby Green Jhumka with Mattal Combo",
+    "variant_title": "Default Title",
+    "sku": "1953",
+    "price": 3499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/kemp-ruby-green-jhumka-with-mattal-combo?variant=gid://shopify/ProductVariant/48635760181470",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1461.jpg?v=1787656910"
   },
   "gid://shopify/ProductVariant/48640261947614": {
     "product_title": "Triple Pendant Mesh Adigai Necklace with Earrings",
