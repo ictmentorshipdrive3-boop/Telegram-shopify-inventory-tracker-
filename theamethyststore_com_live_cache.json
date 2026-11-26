@@ -63445,7 +63445,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4379",
     "price": 3200.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/adhivel-3d-spl-pendant?variant=gid://shopify/ProductVariant/49320478638307",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4379.jpg?v=1782562947"
   },
@@ -63949,7 +63949,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4362",
     "price": 3700.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/3d-spl-pendant-52?variant=gid://shopify/ProductVariant/49327826239715",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4362.jpg?v=1782740900"
   },
@@ -63976,7 +63976,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4369",
     "price": 2800.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/3d-spl-pendant-56?variant=gid://shopify/ProductVariant/49327936897251",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4369.jpg?v=1782741662"
   },
@@ -88654,7 +88654,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-2241",
     "price": 10738.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/attractive-plain-chain?variant=gid://shopify/ProductVariant/49795830153443",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2241.jpg?v=1790079663"
   },
@@ -90858,10 +90858,10 @@
     "product_title": "Glowing Royal Stone Drops",
     "variant_title": "Default Title",
     "sku": "AMS-106-16286",
-    "price": 4843.0,
+    "price": 4835.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/glowing-royal-stone-drops?variant=gid://shopify/ProductVariant/67597922468067",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16286.jpg?v=1790660091"
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16286.jpg?v=1795676449"
   },
   "gid://shopify/ProductVariant/67597936099555": {
     "product_title": "Delicate Stone Drops",
@@ -110815,6 +110815,42 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/attractive-stone-studs-1?variant=gid://shopify/ProductVariant/68924941402339",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-17090.jpg?v=1795675411"
+  },
+  "gid://shopify/ProductVariant/68924954640611": {
+    "product_title": "Traditional Grace 3D SPL Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19686",
+    "price": 72500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/traditional-grace-3d-spl-short-necklace?variant=gid://shopify/ProductVariant/68924954640611",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19686.jpg?v=1795675686"
+  },
+  "gid://shopify/ProductVariant/68924969353443": {
+    "product_title": "Jeshvikaa Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-17093",
+    "price": 6121.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/jeshvikaa-stone-studs?variant=gid://shopify/ProductVariant/68924969353443",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-17093.jpg?v=1795675718"
+  },
+  "gid://shopify/ProductVariant/68924987539683": {
+    "product_title": "Majestic Stone Studs",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-17202",
+    "price": 3905.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/majestic-stone-studs-1?variant=gid://shopify/ProductVariant/68924987539683",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-17202.jpg?v=1795676009"
+  },
+  "gid://shopify/ProductVariant/68924990914787": {
+    "product_title": "Temple Elegance 3D SPL Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19689",
+    "price": 74500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/temple-elegance-3d-spl-short-necklace?variant=gid://shopify/ProductVariant/68924990914787",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19689.jpg?v=1795676134"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
