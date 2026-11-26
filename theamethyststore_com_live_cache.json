@@ -2938,7 +2938,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-3641",
     "price": 28016.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/sarinika-earrings?variant=gid://shopify/ProductVariant/43586910290147",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-3641_2b43140a-1795-49eb-a396-bf02b62722af.jpg?v=1771572040"
   },
@@ -83132,15 +83132,6 @@
     "url": "https://www.theamethyststore.com/products/exceptionally-beautiful-stone-pendant?variant=gid://shopify/ProductVariant/49654682845411",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5008.jpg?v=1788269719"
   },
-  "gid://shopify/ProductVariant/49654704603363": {
-    "product_title": "Fantastic Hair Maatal",
-    "variant_title": "Default Title",
-    "sku": "AMS-109-2309",
-    "price": 13357.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/hair-maatal?variant=gid://shopify/ProductVariant/49654704603363",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2309.jpg?v=1788269804"
-  },
   "gid://shopify/ProductVariant/49654717776099": {
     "product_title": "Vinitha Hair Maatal",
     "variant_title": "Default Title",
@@ -111031,6 +111022,24 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/absolute-grace-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/68926488281315",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-20151.jpg?v=1795690940"
+  },
+  "gid://shopify/ProductVariant/68926592811235": {
+    "product_title": "Scarlet Radiance Avikam Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-6092",
+    "price": 9600.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/scarlet-radiance-avikam-pendant?variant=gid://shopify/ProductVariant/68926592811235",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-6092.jpg?v=1795692061"
+  },
+  "gid://shopify/ProductVariant/68926629019875": {
+    "product_title": "Effortless Grace Stone Pair Bangles",
+    "variant_title": "2.6",
+    "sku": "AMS-107-3839-2.6\"",
+    "price": 26617.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/effortless-grace-stone-pair-bangles?variant=gid://shopify/ProductVariant/68926629019875",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3839-2.6_2.jpg?v=1795692428"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -154384,6 +154393,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/heritage-stone-jhumkas?variant=gid://shopify/ProductVariant/49654454878435",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15883.jpg?v=1788266620"
+  },
+  "gid://shopify/ProductVariant/49654704603363": {
+    "product_title": "Fantastic Hair Maatal",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2309",
+    "price": 13357.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/hair-maatal?variant=gid://shopify/ProductVariant/49654704603363",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2309.jpg?v=1788269804"
   },
   "gid://shopify/ProductVariant/49654722986211": {
     "product_title": "Pretty and Precious Stone Studs",
