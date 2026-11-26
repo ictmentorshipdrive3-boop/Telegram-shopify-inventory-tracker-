@@ -21370,7 +21370,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-9191",
     "price": 8800.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/tanishasri-kundan-studs?variant=gid://shopify/ProductVariant/46884906729699",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9191.jpg?v=1752734398"
   },
@@ -83636,15 +83636,6 @@
     "url": "https://www.theamethyststore.com/products/diamond-design-necklace-set-14?variant=gid://shopify/ProductVariant/49660279718115",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17753.jpg?v=1788356882"
   },
-  "gid://shopify/ProductVariant/49660282339555": {
-    "product_title": "Flower-Inspired Avikam Maangtikka",
-    "variant_title": "Default Title",
-    "sku": "AMS-109-2496",
-    "price": 10700.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/flower-inspired-avikam-maangtikka?variant=gid://shopify/ProductVariant/49660282339555",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2496.jpg?v=1788357056"
-  },
   "gid://shopify/ProductVariant/49660295971043": {
     "product_title": "Glitzz Diamond Design Necklace Set",
     "variant_title": "Default Title",
@@ -110887,6 +110878,15 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/royal-look-stone-earrings?variant=gid://shopify/ProductVariant/68925063659747",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-17091.jpg?v=1795677443"
+  },
+  "gid://shopify/ProductVariant/68925176938723": {
+    "product_title": "Mithraya Nagas Bracelet",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-3836",
+    "price": 17382.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/mithraya-nagas-bracelet-2?variant=gid://shopify/ProductVariant/68925176938723",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-3836.jpg?v=1795679959"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -154429,6 +154429,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/eye-catching-avikam-maangtikka?variant=gid://shopify/ProductVariant/49660278571235",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2497.jpg?v=1788356798"
+  },
+  "gid://shopify/ProductVariant/49660282339555": {
+    "product_title": "Flower-Inspired Avikam Maangtikka",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2496",
+    "price": 10700.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/flower-inspired-avikam-maangtikka?variant=gid://shopify/ProductVariant/49660282339555",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2496.jpg?v=1788357056"
   },
   "gid://shopify/ProductVariant/49660305703139": {
     "product_title": "Beautiful Diamond Design Necklace Set",
