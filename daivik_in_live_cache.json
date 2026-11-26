@@ -2767,7 +2767,7 @@
     "variant_title": "Default Title",
     "sku": "538",
     "price": 1199.0,
-    "stock": 3,
+    "stock": 56,
     "url": "https://www.daivik.in/products/a-327?variant=gid://shopify/ProductVariant/43546226196702",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_53420f7a-2acc-41f8-89b3-e97b3002fb4c.heic?v=1666190684"
   },
@@ -3496,7 +3496,7 @@
     "variant_title": "Default Title",
     "sku": "898",
     "price": 2499.0,
-    "stock": 2,
+    "stock": 50,
     "url": "https://www.daivik.in/products/3-line-multicolour-mala-with-earrings?variant=gid://shopify/ProductVariant/44212089585886",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_8b415e5f-a762-4a7e-b286-dcb2b1ac28ec.heic?v=1685632032"
   },
@@ -7150,7 +7150,7 @@
     "variant_title": "Green",
     "sku": "1503",
     "price": 1299.0,
-    "stock": 24,
+    "stock": 23,
     "url": "https://www.daivik.in/products/mossanite-kundan-balis-in-2-colours?variant=gid://shopify/ProductVariant/45889343553758",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4D32A516-1DA2-4CD3-AA62-C24EB5B9B866.jpg?v=1726379854"
   },
@@ -16271,6 +16271,15 @@
     "url": "https://www.daivik.in/products/two-line-nose-pin-nath?variant=gid://shopify/ProductVariant/47916122243294",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/999CCA77-DFB9-42FD-ABC3-984B1A193EBB.jpg?v=1771690781"
   },
+  "gid://shopify/ProductVariant/47916122767582": {
+    "product_title": "Simple Nose Pin/Nath",
+    "variant_title": "Default Title",
+    "sku": "1818",
+    "price": 299.0,
+    "stock": 56,
+    "url": "https://www.daivik.in/products/simple-nose-pin-nath?variant=gid://shopify/ProductVariant/47916122767582",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CA3D0489-C81E-4F69-BA8E-B010023F93FF.jpg?v=1771690856"
+  },
   "gid://shopify/ProductVariant/47916123619550": {
     "product_title": "Simple AD Droplet Nose Pin/Nath",
     "variant_title": "Default Title",
@@ -18859,7 +18868,7 @@
     "variant_title": "Turquoise",
     "sku": "1927",
     "price": 1099.0,
-    "stock": 20,
+    "stock": 19,
     "url": "https://www.daivik.in/products/ad-earcuff-in-4-colors-price-for-each?variant=gid://shopify/ProductVariant/48434488738014",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5594.jpg?v=1784029118"
   },
@@ -22864,7 +22873,7 @@
     "variant_title": "Default Title",
     "sku": "2015",
     "price": 499.0,
-    "stock": 8,
+    "stock": 7,
     "url": "https://www.daivik.in/products/ad-droplet-earrings?variant=gid://shopify/ProductVariant/49428003848414",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/library-BC294F45-13B3-4C08-8361-0016035795E5-L0-001.jpg?v=1794500826"
   },
@@ -32668,15 +32677,6 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/temple-style-ruby-coin-necklace-with-earrings?variant=gid://shopify/ProductVariant/47914033610974",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2911B71D-4B58-4B58-887F-A9BB8D08322A.jpg?v=1771593697"
-  },
-  "gid://shopify/ProductVariant/47916122767582": {
-    "product_title": "Simple Nose Pin/Nath",
-    "variant_title": "Default Title",
-    "sku": "1818",
-    "price": 299.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/simple-nose-pin-nath?variant=gid://shopify/ProductVariant/47916122767582",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CA3D0489-C81E-4F69-BA8E-B010023F93FF.jpg?v=1771690856"
   },
   "gid://shopify/ProductVariant/47916989251806": {
     "product_title": "Antique Ruby Green Hipchain in 3 Styles (Price for Each)",
