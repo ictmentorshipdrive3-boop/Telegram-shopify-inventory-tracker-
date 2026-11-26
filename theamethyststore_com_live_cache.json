@@ -5107,7 +5107,7 @@
     "variant_title": "2.4\"",
     "sku": "AMS-107-0981-2.4\"",
     "price": 49000.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/superise-diamond-design-bangles?variant=gid://shopify/ProductVariant/49674885202147",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-0981.jpg?v=1695025369"
   },
@@ -47537,15 +47537,6 @@
     "url": "https://www.theamethyststore.com/products/larvin-toe-ring-1?variant=gid://shopify/ProductVariant/47920246718691",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0674.jpg?v=1770203494"
   },
-  "gid://shopify/ProductVariant/47920252125411": {
-    "product_title": "Juliya Hook Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-12128",
-    "price": 5765.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/juliya-hook-jhumkas?variant=gid://shopify/ProductVariant/47920252125411",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12128.jpg?v=1770203596"
-  },
   "gid://shopify/ProductVariant/47920267821283": {
     "product_title": "Anisha Kundan Long Necklace",
     "variant_title": "Default Title",
@@ -60946,15 +60937,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/luxurious-kundan-oddiyanam?variant=gid://shopify/ProductVariant/49267930267875",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0912.jpg?v=1781605444"
-  },
-  "gid://shopify/ProductVariant/49267931840739": {
-    "product_title": "Elinika Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16181",
-    "price": 68000.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/short-necklace-set-65?variant=gid://shopify/ProductVariant/49267931840739",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16181.jpg?v=1781605472"
   },
   "gid://shopify/ProductVariant/49267954319587": {
     "product_title": "Ellenika Short Necklace Set",
@@ -88653,7 +88635,7 @@
     "product_title": "Attractive Plain Chain",
     "variant_title": "Default Title",
     "sku": "AMS-105-2241",
-    "price": 10738.0,
+    "price": 10172.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/attractive-plain-chain?variant=gid://shopify/ProductVariant/49795830153443",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2241.jpg?v=1790079663"
@@ -110852,6 +110834,42 @@
     "url": "https://www.theamethyststore.com/products/temple-elegance-3d-spl-short-necklace?variant=gid://shopify/ProductVariant/68924990914787",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19689.jpg?v=1795676134"
   },
+  "gid://shopify/ProductVariant/68925013000419": {
+    "product_title": "Timeless Divinity 3D SPL Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19691",
+    "price": 65400.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/timeless-divinity-3d-spl-short-necklace?variant=gid://shopify/ProductVariant/68925013000419",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19691.jpg?v=1795676540"
+  },
+  "gid://shopify/ProductVariant/68925025419491": {
+    "product_title": "Nivetha Stone Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-17085",
+    "price": 8546.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/nivetha-stone-drops?variant=gid://shopify/ProductVariant/68925025419491",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-17085.jpg?v=1795676766"
+  },
+  "gid://shopify/ProductVariant/68925038592227": {
+    "product_title": "Henisha  Stone Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-17200",
+    "price": 4851.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/henisha-stone-drops?variant=gid://shopify/ProductVariant/68925038592227",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-17200.jpg?v=1795677001"
+  },
+  "gid://shopify/ProductVariant/68925045014755": {
+    "product_title": "Ancestral Charm 3D SPL Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19692",
+    "price": 77500.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/ancestral-charm-3d-spl-short-necklace?variant=gid://shopify/ProductVariant/68925045014755",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19692.jpg?v=1795677141"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -129797,6 +129815,15 @@
     "url": "https://www.theamethyststore.com/products/aashvi-hook-drops?variant=gid://shopify/ProductVariant/47920173252835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12285.jpg?v=1770202011"
   },
+  "gid://shopify/ProductVariant/47920252125411": {
+    "product_title": "Juliya Hook Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-12128",
+    "price": 5765.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/juliya-hook-jhumkas?variant=gid://shopify/ProductVariant/47920252125411",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12128.jpg?v=1770203596"
+  },
   "gid://shopify/ProductVariant/47920266445027": {
     "product_title": "Tishya  Hook Jhumkas",
     "variant_title": "Default Title",
@@ -139606,6 +139633,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/kundan-oddiyanam-5?variant=gid://shopify/ProductVariant/49267869778147",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0914.jpg?v=1781604408"
+  },
+  "gid://shopify/ProductVariant/49267931840739": {
+    "product_title": "Elinika Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16181",
+    "price": 68000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/short-necklace-set-65?variant=gid://shopify/ProductVariant/49267931840739",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16181.jpg?v=1781605472"
   },
   "gid://shopify/ProductVariant/49267939016931": {
     "product_title": "Nadhiyasri Kundan Oddiyanam",
