@@ -661,7 +661,7 @@
     "variant_title": "Default Title",
     "sku": "R18885",
     "price": 15280.0,
-    "stock": 6,
+    "stock": 8,
     "url": "https://www.rasasilver.com/products/stellar-nine-short-necklace?variant=gid://shopify/ProductVariant/50083435872553",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/22_26864588-0f79-45e3-9e00-abb12fcedf8b.jpg?v=1743842365"
   },
@@ -2770,6 +2770,15 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/lotus-diadem-hip-belt?variant=gid://shopify/ProductVariant/50758256754985",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_c9cbcf70-4928-46c6-9b6a-d005563eea38.jpg?v=1755595162"
+  },
+  "gid://shopify/ProductVariant/50758387106089": {
+    "product_title": "Fiorelle Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R11557",
+    "price": 34160.0,
+    "stock": 1,
+    "url": "https://www.rasasilver.com/products/fiorelle-short-necklace-set?variant=gid://shopify/ProductVariant/50758387106089",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-5_0994240a-a177-4506-a91f-5efd687f0fd6.jpg?v=1755687949"
   },
   "gid://shopify/ProductVariant/50758458933545": {
     "product_title": "Jasmine Jive Danglers",
@@ -21050,15 +21059,6 @@
     "url": "https://www.rasasilver.com/products/tarunika-temple-maang-tikka?variant=gid://shopify/ProductVariant/67568181608745",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct212661.jpg?v=1791368553"
   },
-  "gid://shopify/ProductVariant/67568197042473": {
-    "product_title": "Mohini Temple Maang Tikka",
-    "variant_title": "Default Title",
-    "sku": "R37987",
-    "price": 5525.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/mohini-temple-maang-tikka?variant=gid://shopify/ProductVariant/67568197042473",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct21269.jpg?v=1791368913"
-  },
   "gid://shopify/ProductVariant/67568346988841": {
     "product_title": "Suvarnika Kundan Bangles",
     "variant_title": "2.4",
@@ -23533,15 +23533,6 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/petal-paisley-hip-belt?variant=gid://shopify/ProductVariant/50758334972201",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug47050_1_-2.jpg?v=1756797033"
-  },
-  "gid://shopify/ProductVariant/50758387106089": {
-    "product_title": "Fiorelle Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R11557",
-    "price": 34160.0,
-    "stock": 0,
-    "url": "https://www.rasasilver.com/products/fiorelle-short-necklace-set?variant=gid://shopify/ProductVariant/50758387106089",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-5_0994240a-a177-4506-a91f-5efd687f0fd6.jpg?v=1755687949"
   },
   "gid://shopify/ProductVariant/50815899205929": {
     "product_title": "Elira Bangles",
@@ -49669,6 +49660,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/kanaklata-nakshi-maang-tikka?variant=gid://shopify/ProductVariant/67568159162665",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct21263.jpg?v=1791368296"
+  },
+  "gid://shopify/ProductVariant/67568197042473": {
+    "product_title": "Mohini Temple Maang Tikka",
+    "variant_title": "Default Title",
+    "sku": "R37987",
+    "price": 5525.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/mohini-temple-maang-tikka?variant=gid://shopify/ProductVariant/67568197042473",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Cat_50_54Pics_1Oct21269.jpg?v=1791368913"
   },
   "gid://shopify/ProductVariant/67568215687465": {
     "product_title": "Kundanika Kundan Choker",
