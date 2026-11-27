@@ -23233,7 +23233,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-9395",
     "price": 9200.0,
-    "stock": 6,
+    "stock": 5,
     "url": "https://www.theamethyststore.com/products/tenishka-stone-studs?variant=gid://shopify/ProductVariant/46976222560483",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9395.jpg?v=1754295158"
   },
@@ -33037,15 +33037,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/glisten-long-necklace?variant=gid://shopify/ProductVariant/47209041920227",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11470.jpg?v=1758883055"
-  },
-  "gid://shopify/ProductVariant/47209050669283": {
-    "product_title": "Glow Diamond Design Pair Bangle",
-    "variant_title": "2.8\"",
-    "sku": "AMS-107-1953-2.8\"",
-    "price": 36200.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/glow-stone-pair-bangle?variant=gid://shopify/ProductVariant/47209050669283",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1953-_2_16c38e90-094c-46bd-9caa-d8cedd65f88e.jpg?v=1758883828"
   },
   "gid://shopify/ProductVariant/47209144680675": {
     "product_title": "Beautiful Diamond Design Pair Bangle",
@@ -123487,6 +123478,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/majestic-charm-toe-ring?variant=gid://shopify/ProductVariant/47208981627107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0534.jpg?v=1758880756"
+  },
+  "gid://shopify/ProductVariant/47209050669283": {
+    "product_title": "Glow Diamond Design Pair Bangle",
+    "variant_title": "2.8\"",
+    "sku": "AMS-107-1953-2.8\"",
+    "price": 36200.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/glow-stone-pair-bangle?variant=gid://shopify/ProductVariant/47209050669283",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1953-_2_16c38e90-094c-46bd-9caa-d8cedd65f88e.jpg?v=1758883828"
   },
   "gid://shopify/ProductVariant/47209215820003": {
     "product_title": "Garnet Glow Short Necklace",
