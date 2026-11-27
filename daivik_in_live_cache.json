@@ -3991,7 +3991,7 @@
     "variant_title": "Default Title",
     "sku": "718",
     "price": 2199.0,
-    "stock": 50,
+    "stock": 49,
     "url": "https://www.daivik.in/products/untitled-sep1_16-36?variant=gid://shopify/ProductVariant/44331700420830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/92C24D0A-E139-4298-962E-70307E84AB68.jpg?v=1693566466"
   },
@@ -8458,15 +8458,6 @@
     "stock": 16,
     "url": "https://www.daivik.in/products/premium-theo-layered-ad-necklace-with-earrings-in-two-colors?variant=gid://shopify/ProductVariant/47802349617374",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4828EA89-4A8D-49E9-B361-49644B5A9F79.jpg?v=1729782234"
-  },
-  "gid://shopify/ProductVariant/45993466134750": {
-    "product_title": "Coral Red Lakshmi Mala with Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "1134",
-    "price": 1299.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/coral-red-lakshmi-mala-with-jhumkas?variant=gid://shopify/ProductVariant/45993466134750",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8A997E64-6F11-456A-B608-FB48DBA676E3.jpg?v=1730210854"
   },
   "gid://shopify/ProductVariant/45993472786654": {
     "product_title": "Reversible 2 sided Box Lakshmi and Ruby green necklace with 2 pairs of Earrings",
@@ -17104,7 +17095,7 @@
     "variant_title": "Default Title",
     "sku": "715",
     "price": 1199.0,
-    "stock": 34,
+    "stock": 33,
     "url": "https://www.daivik.in/products/antique-lakshmi-and-elephant-hasli-necklace-with-earrings?variant=gid://shopify/ProductVariant/48063663407326",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/72D97AF6-49FA-4872-BC7E-862E937F67A8.jpg?v=1775406617"
   },
@@ -18607,7 +18598,7 @@
     "variant_title": "Default Title",
     "sku": "485",
     "price": 899.0,
-    "stock": 55,
+    "stock": 54,
     "url": "https://www.daivik.in/products/elakkathali-ruby-choker-with-earrings?variant=gid://shopify/ProductVariant/48403799408862",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6A18C555-AF72-4C73-B410-F4E8C48D53A0.jpg?v=1782993326"
   },
@@ -23008,7 +22999,7 @@
     "variant_title": "Default Title",
     "sku": "2021",
     "price": 999.0,
-    "stock": 16,
+    "stock": 15,
     "url": "https://www.daivik.in/products/moissanite-ad-earrings-studs-with-mattal?variant=gid://shopify/ProductVariant/49503841616094",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8975.jpg?v=1795708199"
   },
@@ -28429,6 +28420,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/premium-theo-layered-ad-necklace-with-earrings-in-two-colors?variant=gid://shopify/ProductVariant/45980765552862",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4828EA89-4A8D-49E9-B361-49644B5A9F79.jpg?v=1729782234"
+  },
+  "gid://shopify/ProductVariant/45993466134750": {
+    "product_title": "Coral Red Lakshmi Mala with Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "1134",
+    "price": 1299.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/coral-red-lakshmi-mala-with-jhumkas?variant=gid://shopify/ProductVariant/45993466134750",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8A997E64-6F11-456A-B608-FB48DBA676E3.jpg?v=1730210854"
   },
   "gid://shopify/ProductVariant/45993467281630": {
     "product_title": "Lakshmi Pendant Golden Beads Long Chain with Jhumkas",
