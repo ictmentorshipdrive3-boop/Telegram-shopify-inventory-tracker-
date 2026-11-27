@@ -3707,15 +3707,6 @@
     "url": "https://www.dulhanjewels.com/products/elegant-moissanite-polki-gandaberunda-pendant?variant=gid://shopify/ProductVariant/51736853905714",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6144BCF6-3043-45C8-8165-F4D349612E76.jpg?v=1788857825"
   },
-  "gid://shopify/ProductVariant/51736882676018": {
-    "product_title": "Opulent Victorian Style Emerald Pendant With Green Drops",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1000.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/opulent-victorian-style-emerald-pendant-with-green-drops?variant=gid://shopify/ProductVariant/51736882676018",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/BC5EDD8E-E480-4960-98B1-F657A100CCCE.jpg?v=1788857802"
-  },
   "gid://shopify/ProductVariant/51822956413234": {
     "product_title": "Designer Polki Single Kada With Statement Gold Detailing",
     "variant_title": "2/6",
@@ -4598,15 +4589,6 @@
     "url": "https://www.dulhanjewels.com/products/stylish-floral-jadau-kundan-choker-with-emerald-beads?variant=gid://shopify/ProductVariant/68728583979314",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4914.jpg?v=1794995900"
   },
-  "gid://shopify/ProductVariant/68728795136306": {
-    "product_title": "Classic Jadau Kundan Kasulu Haram With Floral Pendant",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 3500.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/classic-jadau-kundan-kasulu-haram-with-floral-pendant?variant=gid://shopify/ProductVariant/68728795136306",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4927.jpg?v=1794996531"
-  },
   "gid://shopify/ProductVariant/68729124258098": {
     "product_title": "Traditional Long Jadau Kundan Kasulu Haram With Strawberry Beads",
     "variant_title": "Default Title",
@@ -4958,6 +4940,15 @@
     "url": "https://www.dulhanjewels.com/products/mango-design-jadau-kundan-bangles?variant=gid://shopify/ProductVariant/68097869807922",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/E8B16080-CB7D-4C32-9714-F771C6B210C1.jpg?v=1787999441"
   },
+  "gid://shopify/ProductVariant/51736882676018": {
+    "product_title": "Opulent Victorian Style Emerald Pendant With Green Drops",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1000.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/opulent-victorian-style-emerald-pendant-with-green-drops?variant=gid://shopify/ProductVariant/51736882676018",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/BC5EDD8E-E480-4960-98B1-F657A100CCCE.jpg?v=1788857802"
+  },
   "gid://shopify/ProductVariant/51822956380466": {
     "product_title": "Designer Polki Single Kada With Statement Gold Detailing",
     "variant_title": "2/4",
@@ -5038,5 +5029,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/gold-look-jadau-kundan-multi-colour-choker?variant=gid://shopify/ProductVariant/67934671536434",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-1895.jpg?v=1791453523"
+  },
+  "gid://shopify/ProductVariant/68728795136306": {
+    "product_title": "Classic Jadau Kundan Kasulu Haram With Floral Pendant",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 3500.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/classic-jadau-kundan-kasulu-haram-with-floral-pendant?variant=gid://shopify/ProductVariant/68728795136306",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4927.jpg?v=1794996531"
   }
 }
