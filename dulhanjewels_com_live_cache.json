@@ -2762,15 +2762,6 @@
     "url": "https://www.dulhanjewels.com/products/ethnic-jadau-kundan-necklace-with-emerald-beads?variant=gid://shopify/ProductVariant/51254285467954",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/FCB07081-659B-4EB5-9CDF-A1A3CCC648A5.jpg?v=1785760486"
   },
-  "gid://shopify/ProductVariant/51254752903474": {
-    "product_title": "Elegant Bottumala Necklace With Polki Stones",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 8350.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/elegant-bottumala-necklace-with-polki-stones?variant=gid://shopify/ProductVariant/51254752903474",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-7227_8640f62a-c88f-4fee-9b6b-8ce6c8265941.jpg?v=1780489957"
-  },
   "gid://shopify/ProductVariant/51254795305266": {
     "product_title": "Regal Jadau Kundan Necklace With Emerald Beads",
     "variant_title": "Default Title",
@@ -4589,15 +4580,6 @@
     "url": "https://www.dulhanjewels.com/products/elegant-polki-kasulu-necklace-with-earrings?variant=gid://shopify/ProductVariant/68720535601458",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG_4861.jpg?v=1794915140"
   },
-  "gid://shopify/ProductVariant/68727232102706": {
-    "product_title": "Unique Design Jadau Kundan Kasulu Necklace With Earrings",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 3550.0,
-    "stock": 1,
-    "url": "https://www.dulhanjewels.com/products/unique-design-jadau-kundan-kasulu-necklace-with-earrings?variant=gid://shopify/ProductVariant/68727232102706",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/MG_0898.jpg?v=1794990956"
-  },
   "gid://shopify/ProductVariant/68728176116018": {
     "product_title": "Splendid Victorian Floral Design Necklace Set With Earrings",
     "variant_title": "Default Title",
@@ -4750,6 +4732,15 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/regal-jadau-kundan-stud-earrings-with-pearl-bordering?variant=gid://shopify/ProductVariant/51234782576946",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-1139.jpg?v=1789635997"
+  },
+  "gid://shopify/ProductVariant/51254752903474": {
+    "product_title": "Elegant Bottumala Necklace With Polki Stones",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 8350.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/elegant-bottumala-necklace-with-polki-stones?variant=gid://shopify/ProductVariant/51254752903474",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-7227_8640f62a-c88f-4fee-9b6b-8ce6c8265941.jpg?v=1780489957"
   },
   "gid://shopify/ProductVariant/51269582782770": {
     "product_title": "Designer Victorian Necklace With Elegant Matching Earrings",
@@ -5029,5 +5020,14 @@
     "stock": 0,
     "url": "https://www.dulhanjewels.com/products/minimal-jadau-kundan-jhumki-earrings?variant=gid://shopify/ProductVariant/67946052190514",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6219710745033773797.jpg?v=1791640851"
+  },
+  "gid://shopify/ProductVariant/68727232102706": {
+    "product_title": "Unique Design Jadau Kundan Kasulu Necklace With Earrings",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 3550.0,
+    "stock": 0,
+    "url": "https://www.dulhanjewels.com/products/unique-design-jadau-kundan-kasulu-necklace-with-earrings?variant=gid://shopify/ProductVariant/68727232102706",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/MG_0898.jpg?v=1794990956"
   }
 }
