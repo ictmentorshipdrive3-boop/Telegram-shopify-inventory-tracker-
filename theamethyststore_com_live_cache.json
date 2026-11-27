@@ -72058,7 +72058,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4851",
     "price": 34000.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/victorian-pendant-1?variant=gid://shopify/ProductVariant/49483001790691",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4851.jpg?v=1785567348"
   },
@@ -100151,15 +100151,6 @@
     "url": "https://www.theamethyststore.com/products/glistening-stone-pendant?variant=gid://shopify/ProductVariant/67877984108771",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5604.jpg?v=1793439680"
   },
-  "gid://shopify/ProductVariant/67878932545763": {
-    "product_title": "Zara Stone Mugappu Chain",
-    "variant_title": "Default Title",
-    "sku": "AMS-105-2442",
-    "price": 12621.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/zara-stone-mugappu-chain?variant=gid://shopify/ProductVariant/67878932545763",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2442.jpg?v=1793440157"
-  },
   "gid://shopify/ProductVariant/67878950535395": {
     "product_title": "Bindhu Stone Mugappu Chain",
     "variant_title": "Default Title",
@@ -105136,15 +105127,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/classic-allure-rope-necklace?variant=gid://shopify/ProductVariant/68582069207267",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19525.jpg?v=1794651898"
-  },
-  "gid://shopify/ProductVariant/68583028850915": {
-    "product_title": "Sacred Heritage Nagas Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-19528",
-    "price": 30059.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/sacred-heritage-nagas-short-necklace?variant=gid://shopify/ProductVariant/68583028850915",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19528.jpg?v=1794653225"
   },
   "gid://shopify/ProductVariant/68583724646627": {
     "product_title": "Richly Beautiful Kundan Long Necklace",
@@ -159677,6 +159659,15 @@
     "url": "https://www.theamethyststore.com/products/vividly-radiant-kundan-vanki?variant=gid://shopify/ProductVariant/67877684281571",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-1019.jpg?v=1793434172"
   },
+  "gid://shopify/ProductVariant/67878932545763": {
+    "product_title": "Zara Stone Mugappu Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2442",
+    "price": 12621.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/zara-stone-mugappu-chain?variant=gid://shopify/ProductVariant/67878932545763",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2442.jpg?v=1793440157"
+  },
   "gid://shopify/ProductVariant/67878946177251": {
     "product_title": "Traditional Nagas Choker",
     "variant_title": "Default Title",
@@ -159856,6 +159847,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/rebal-classy-nagas-short-necklace?variant=gid://shopify/ProductVariant/68567392878819",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19516.jpg?v=1794575428"
+  },
+  "gid://shopify/ProductVariant/68583028850915": {
+    "product_title": "Sacred Heritage Nagas Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19528",
+    "price": 30059.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/sacred-heritage-nagas-short-necklace?variant=gid://shopify/ProductVariant/68583028850915",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19528.jpg?v=1794653225"
   },
   "gid://shopify/ProductVariant/68584420933859": {
     "product_title": "Graceful Flow Nagas Jhumkas",
