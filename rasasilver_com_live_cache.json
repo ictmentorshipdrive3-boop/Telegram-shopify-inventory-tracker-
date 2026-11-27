@@ -5129,15 +5129,6 @@
     "url": "https://www.rasasilver.com/products/aarini-ruby-keri-necklace?variant=gid://shopify/ProductVariant/51419010498857",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0405_resized.jpg?v=1762251257"
   },
-  "gid://shopify/ProductVariant/51419030454569": {
-    "product_title": "Iravya Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "R15318",
-    "price": 49980.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/phoolmoru-necklace-copy?variant=gid://shopify/ProductVariant/51419030454569",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0368_resized.jpg?v=1762260087"
-  },
   "gid://shopify/ProductVariant/51419058602281": {
     "product_title": "Tiyara Short Necklace",
     "variant_title": "Default Title",
@@ -8728,15 +8719,6 @@
     "stock": 2,
     "url": "https://www.rasasilver.com/products/emerfly-cz-necklace-set?variant=gid://shopify/ProductVariant/52383679906089",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0272copy_resized_ac45c966-605e-461b-9819-f6d12333eea6.jpg?v=1767686720"
-  },
-  "gid://shopify/ProductVariant/52383682887977": {
-    "product_title": "Emira CZ Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "R21157",
-    "price": 23520.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/emira-cz-necklace-set?variant=gid://shopify/ProductVariant/52383682887977",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0163copy_resized_b77fc292-73ea-4667-bd4f-16e53b105eb1.jpg?v=1767683507"
   },
   "gid://shopify/ProductVariant/52390337577257": {
     "product_title": "Lavender CZ Necklace Set",
@@ -19417,7 +19399,7 @@
     "variant_title": "Default Title",
     "sku": "R30484",
     "price": 4300.0,
-    "stock": 41,
+    "stock": 40,
     "url": "https://www.rasasilver.com/products/back-chain?variant=gid://shopify/ProductVariant/53426656870697",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageAug24_2026_12_36_13PM.png?v=1787555201"
   },
@@ -20014,15 +19996,6 @@
     "stock": 1,
     "url": "https://www.rasasilver.com/products/vayomi-kundan-jhumki?variant=gid://shopify/ProductVariant/54118244090153",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1655.jpg?v=1789447868"
-  },
-  "gid://shopify/ProductVariant/54118466683177": {
-    "product_title": "Ridhanya Kundan Jhumki",
-    "variant_title": "Default Title",
-    "sku": "R35167",
-    "price": 6120.0,
-    "stock": 1,
-    "url": "https://www.rasasilver.com/products/ridhanya-kundan-jhumki?variant=gid://shopify/ProductVariant/54118466683177",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Ridhanya_Kundan_Jhumki.jpg?v=1789554692"
   },
   "gid://shopify/ProductVariant/54118525632809": {
     "product_title": "Yuvrisha Nakshi Jhumki",
@@ -27440,6 +27413,15 @@
     "url": "https://www.rasasilver.com/products/devaani-three-layer-necklace?variant=gid://shopify/ProductVariant/51418997883177",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct03642_resized.jpg?v=1762258304"
   },
+  "gid://shopify/ProductVariant/51419030454569": {
+    "product_title": "Iravya Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "R15318",
+    "price": 49980.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/phoolmoru-necklace-copy?variant=gid://shopify/ProductVariant/51419030454569",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0368_resized.jpg?v=1762260087"
+  },
   "gid://shopify/ProductVariant/51428490838313": {
     "product_title": "Ruby Pop Blooms Stud Earrings",
     "variant_title": "Default Title",
@@ -33766,6 +33748,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/cz-bangles-1?variant=gid://shopify/ProductVariant/52383464816937",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0418_copy_resized.jpg?v=1767684377"
+  },
+  "gid://shopify/ProductVariant/52383682887977": {
+    "product_title": "Emira CZ Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "R21157",
+    "price": 23520.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/emira-cz-necklace-set?variant=gid://shopify/ProductVariant/52383682887977",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0163copy_resized_b77fc292-73ea-4667-bd4f-16e53b105eb1.jpg?v=1767683507"
   },
   "gid://shopify/ProductVariant/52383703007529": {
     "product_title": "Rosivelle CZ Necklace Set",
@@ -48940,6 +48931,15 @@
     "stock": 0,
     "url": "https://www.rasasilver.com/products/aarnisha-kundan-jhumki?variant=gid://shopify/ProductVariant/54118445351209",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__5Sep1659.jpg?v=1789448541"
+  },
+  "gid://shopify/ProductVariant/54118466683177": {
+    "product_title": "Ridhanya Kundan Jhumki",
+    "variant_title": "Default Title",
+    "sku": "R35167",
+    "price": 6120.0,
+    "stock": 0,
+    "url": "https://www.rasasilver.com/products/ridhanya-kundan-jhumki?variant=gid://shopify/ProductVariant/54118466683177",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Ridhanya_Kundan_Jhumki.jpg?v=1789554692"
   },
   "gid://shopify/ProductVariant/54118501024041": {
     "product_title": "Vamisha Nakshi Jhumki",
