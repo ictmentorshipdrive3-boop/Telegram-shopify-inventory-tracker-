@@ -74735,15 +74735,6 @@
     "url": "https://www.theamethyststore.com/products/stone-bracelet-43?variant=gid://shopify/ProductVariant/49517271744739",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1429.jpg?v=1786356166"
   },
-  "gid://shopify/ProductVariant/49517277675747": {
-    "product_title": "Herisha Nagas Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14898",
-    "price": 11550.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/herisha-nagas-jhumkas?variant=gid://shopify/ProductVariant/49517277675747",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14898.jpg?v=1786356337"
-  },
   "gid://shopify/ProductVariant/49517286424803": {
     "product_title": "Nathisha Nagas Jhumkas",
     "variant_title": "Default Title",
@@ -74761,15 +74752,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/genisha-nagas-jhumkas?variant=gid://shopify/ProductVariant/49517325517027",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14900.jpg?v=1786356878"
-  },
-  "gid://shopify/ProductVariant/49517381320931": {
-    "product_title": "Pretty Look Nagas Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-14908",
-    "price": 11464.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/pretty-look-nagas-jhumkas?variant=gid://shopify/ProductVariant/49517381320931",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14908.jpg?v=1786357452"
   },
   "gid://shopify/ProductVariant/49517385908451": {
     "product_title": "Catchy Diamond Design Pendant",
@@ -97532,6 +97514,15 @@
     "url": "https://www.theamethyststore.com/products/vinthikaa-3d-spl-long-earrings?variant=gid://shopify/ProductVariant/67752355561699",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16400.jpg?v=1792496712"
   },
+  "gid://shopify/ProductVariant/67752359428323": {
+    "product_title": "Resplendent Stone Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-5517",
+    "price": 11651.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/resplendent-stone-pendant?variant=gid://shopify/ProductVariant/67752359428323",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5517.jpg?v=1792496772"
+  },
   "gid://shopify/ProductVariant/67752359690467": {
     "product_title": "Aavira Stone Pendant",
     "variant_title": "Default Title",
@@ -110029,7 +110020,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-5937",
     "price": 8579.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/unique-stone-pendant?variant=gid://shopify/ProductVariant/68911549087971",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5937.jpg?v=1795518803"
   },
@@ -111076,6 +111067,24 @@
     "stock": 3,
     "url": "https://www.theamethyststore.com/products/simply-elegant-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/68953067880675",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19996.jpg?v=1795782946"
+  },
+  "gid://shopify/ProductVariant/68953543966947": {
+    "product_title": "Dreamy Elegance Avikam Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19997",
+    "price": 90200.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/dreamy-elegance-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/68953543966947",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19997.jpg?v=1795783439"
+  },
+  "gid://shopify/ProductVariant/68954248970467": {
+    "product_title": "Crimson Craft Avikam Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19998",
+    "price": 31900.0,
+    "stock": 3,
+    "url": "https://www.theamethyststore.com/products/crimson-craft-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/68954248970467",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19998.jpg?v=1795783973"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -150641,6 +150650,15 @@
     "url": "https://www.theamethyststore.com/products/heritage-nagas-jhumkas-3?variant=gid://shopify/ProductVariant/49517272203491",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14897.jpg?v=1786356177"
   },
+  "gid://shopify/ProductVariant/49517277675747": {
+    "product_title": "Herisha Nagas Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14898",
+    "price": 11550.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/herisha-nagas-jhumkas?variant=gid://shopify/ProductVariant/49517277675747",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14898.jpg?v=1786356337"
+  },
   "gid://shopify/ProductVariant/49517295960291": {
     "product_title": "Tanisha Stone Bracelet",
     "variant_title": "Default Title",
@@ -150676,6 +150694,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/avikam-pendant-set-49?variant=gid://shopify/ProductVariant/49517380894947",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4864.jpg?v=1786357414"
+  },
+  "gid://shopify/ProductVariant/49517381320931": {
+    "product_title": "Pretty Look Nagas Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-14908",
+    "price": 11464.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/pretty-look-nagas-jhumkas?variant=gid://shopify/ProductVariant/49517381320931",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14908.jpg?v=1786357452"
   },
   "gid://shopify/ProductVariant/49517419659491": {
     "product_title": "Grand Luxe Avikam Necklace Set",
@@ -159253,15 +159280,6 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/amirthini-stone-pendant?variant=gid://shopify/ProductVariant/67752342290659",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5564.jpg?v=1792496457"
-  },
-  "gid://shopify/ProductVariant/67752359428323": {
-    "product_title": "Resplendent Stone Pendant",
-    "variant_title": "Default Title",
-    "sku": "AMS-104-5517",
-    "price": 12653.0,
-    "stock": 0,
-    "url": "https://www.theamethyststore.com/products/resplendent-stone-pendant?variant=gid://shopify/ProductVariant/67752359428323",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-5517.jpg?v=1792496772"
   },
   "gid://shopify/ProductVariant/67753062465763": {
     "product_title": "Spectrum-Inspired Stone Pendant",
