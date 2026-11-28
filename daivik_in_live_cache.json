@@ -3613,7 +3613,7 @@
     "variant_title": "Default Title",
     "sku": "461",
     "price": 1199.0,
-    "stock": 44,
+    "stock": 43,
     "url": "https://www.daivik.in/products/simple-gold-finish-pearl-ad-necklace-with-earrings?variant=gid://shopify/ProductVariant/44240299622622",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_ffcd30e2-831d-4ca2-951d-c82219b43141.heic?v=1687353556"
   },
@@ -14318,15 +14318,6 @@
     "url": "https://www.daivik.in/products/lakshmi-coin-hipchain?variant=gid://shopify/ProductVariant/47558829015262",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5E8E0C73-FD64-48B4-A131-5881786D3873.jpg?v=1758795857"
   },
-  "gid://shopify/ProductVariant/47561308012766": {
-    "product_title": "Pure Kemp Jadau Hasli Peacock Necklace with Jhumkas",
-    "variant_title": "Default Title",
-    "sku": "773",
-    "price": 5499.0,
-    "stock": 1,
-    "url": "https://www.daivik.in/products/pure-kemp-jadau-hasli-peacock-necklace-with-jhumkas?variant=gid://shopify/ProductVariant/47561308012766",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0246.heic?v=1758809999"
-  },
   "gid://shopify/ProductVariant/47563610620126": {
     "product_title": "Lakshmi Ruby Green Bangles (Price for both Hands)",
     "variant_title": "2.4",
@@ -19885,7 +19876,7 @@
     "variant_title": "Ruby",
     "sku": "D26031",
     "price": 499.0,
-    "stock": 10,
+    "stock": 9,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d26031?variant=gid://shopify/ProductVariant/49152667615454",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6085.jpg?v=1791221733"
   },
@@ -22801,7 +22792,7 @@
     "variant_title": "Default Title",
     "sku": "358",
     "price": 699.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.daivik.in/products/ghungroo-beads-pearl-choker-with-earrings?variant=gid://shopify/ProductVariant/49477109383390",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5783.jpg?v=1795154861"
   },
@@ -31588,6 +31579,15 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/bridal-antique-pearl-and-elephant-bangles-combo-price-for-both-hands?variant=gid://shopify/ProductVariant/47554818179294",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D6AFC0ED-2F5C-4137-8D73-C26766B293FB.jpg?v=1758717438"
+  },
+  "gid://shopify/ProductVariant/47561308012766": {
+    "product_title": "Pure Kemp Jadau Hasli Peacock Necklace with Jhumkas",
+    "variant_title": "Default Title",
+    "sku": "773",
+    "price": 5499.0,
+    "stock": 0,
+    "url": "https://www.daivik.in/products/pure-kemp-jadau-hasli-peacock-necklace-with-jhumkas?variant=gid://shopify/ProductVariant/47561308012766",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0246.heic?v=1758809999"
   },
   "gid://shopify/ProductVariant/47563610685662": {
     "product_title": "Lakshmi Ruby Green Bangles (Price for both Hands)",
