@@ -18913,7 +18913,7 @@
     "variant_title": "Default Title",
     "sku": "1936",
     "price": 1199.0,
-    "stock": 28,
+    "stock": 27,
     "url": "https://www.daivik.in/products/circular-lotus-hanging-pearl-earrings?variant=gid://shopify/ProductVariant/48524779716830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D9923CF1-B064-4BE2-9B55-2456F4A73DE3.jpg?v=1785407541"
   },
@@ -21397,7 +21397,7 @@
     "variant_title": "2.4",
     "sku": "D26510",
     "price": 649.0,
-    "stock": 14,
+    "stock": 13,
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d26510?variant=gid://shopify/ProductVariant/49178380468446",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_70612.jpg?v=1791535669"
   },
@@ -22723,6 +22723,15 @@
     "stock": 6,
     "url": "https://www.daivik.in/products/ghungroo-beads-flexible-kada-freesize?variant=gid://shopify/ProductVariant/49396528611550",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5683.jpg?v=1794326331"
+  },
+  "gid://shopify/ProductVariant/49428003848414": {
+    "product_title": "AD Droplet Earrings",
+    "variant_title": "Default Title",
+    "sku": "2015",
+    "price": 499.0,
+    "stock": 30,
+    "url": "https://www.daivik.in/products/ad-droplet-earrings?variant=gid://shopify/ProductVariant/49428003848414",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/library-BC294F45-13B3-4C08-8361-0016035795E5-L0-001.jpg?v=1794500826"
   },
   "gid://shopify/ProductVariant/49444262543582": {
     "product_title": "Antique Temple Lakshmi Rice Pearl Necklace with Earrings",
@@ -36367,14 +36376,5 @@
     "stock": 0,
     "url": "https://www.daivik.in/products/untitled-oct24_09-41-32?variant=gid://shopify/ProductVariant/49275794030814",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4BD7C784-014B-41FA-9BD4-54980C153E51.jpg?v=1792840599"
-  },
-  "gid://shopify/ProductVariant/49428003848414": {
-    "product_title": "AD Droplet Earrings",
-    "variant_title": "Default Title",
-    "sku": "2015",
-    "price": 499.0,
-    "stock": 0,
-    "url": "https://www.daivik.in/products/ad-droplet-earrings?variant=gid://shopify/ProductVariant/49428003848414",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/library-BC294F45-13B3-4C08-8361-0016035795E5-L0-001.jpg?v=1794500826"
   }
 }
