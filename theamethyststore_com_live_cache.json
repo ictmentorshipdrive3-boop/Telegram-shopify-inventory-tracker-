@@ -72832,7 +72832,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-104-4791",
     "price": 8600.0,
-    "stock": 1,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/avikam-pendant-set-23?variant=gid://shopify/ProductVariant/49497215074531",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4791_33263324-5890-45ae-b1ed-ce3681889294.jpg?v=1793621415"
   },
@@ -72876,8 +72876,8 @@
     "product_title": "Anusha Avikam Pendant Set",
     "variant_title": "Default Title",
     "sku": "AMS-104-4820",
-    "price": 16600.0,
-    "stock": 1,
+    "price": 17100.0,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/anusha-avikam-pendant-set-1?variant=gid://shopify/ProductVariant/49497311871203",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4820_44ac792a-455c-48f8-8177-c008d673033e.jpg?v=1793683702"
   },
@@ -111220,6 +111220,33 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/imperial-mayura-avikam-pendant?variant=gid://shopify/ProductVariant/68978203623651",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-6137.jpg?v=1795847262"
+  },
+  "gid://shopify/ProductVariant/68978220302563": {
+    "product_title": "Artful Crafted Nagas Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-6168",
+    "price": 15619.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/artful-crafted-nagas-pendant?variant=gid://shopify/ProductVariant/68978220302563",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-6168.jpg?v=1795847572"
+  },
+  "gid://shopify/ProductVariant/68978243567843": {
+    "product_title": "Sacred Radiance Avikam Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-6140",
+    "price": 16300.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/sacred-radiance-avikam-pendant?variant=gid://shopify/ProductVariant/68978243567843",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-6140.jpg?v=1795847905"
+  },
+  "gid://shopify/ProductVariant/68978247762147": {
+    "product_title": "Raziyaa Nagas Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-6171",
+    "price": 14707.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/raziyaa-nagas-pendant?variant=gid://shopify/ProductVariant/68978247762147",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-6171.jpg?v=1795847963"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
