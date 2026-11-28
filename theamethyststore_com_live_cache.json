@@ -7987,7 +7987,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-102-6266",
     "price": 158500.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/colourful-avikam-necklace-set?variant=gid://shopify/ProductVariant/45225622569187",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS08301.jpg?v=1725089770"
   },
@@ -108485,15 +108485,6 @@
     "url": "https://www.theamethyststore.com/products/vinisha-kundan-drops?variant=gid://shopify/ProductVariant/68879389098211",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16716.jpg?v=1795168150"
   },
-  "gid://shopify/ProductVariant/68879395913955": {
-    "product_title": "Endless Allure 3D SPL Short Necklace",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-19200",
-    "price": 52600.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/endless-allure-3d-spl-short-necklace?variant=gid://shopify/ProductVariant/68879395913955",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19200.jpg?v=1795168376"
-  },
   "gid://shopify/ProductVariant/68879399780579": {
     "product_title": "Catchy Kundan Drops",
     "variant_title": "Default Title",
@@ -160360,5 +160351,14 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/hanisha-nagas-studs?variant=gid://shopify/ProductVariant/68856772722915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-16746.jpg?v=1795006874"
+  },
+  "gid://shopify/ProductVariant/68879395913955": {
+    "product_title": "Endless Allure 3D SPL Short Necklace",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-19200",
+    "price": 52600.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/endless-allure-3d-spl-short-necklace?variant=gid://shopify/ProductVariant/68879395913955",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19200.jpg?v=1795168376"
   }
 }
