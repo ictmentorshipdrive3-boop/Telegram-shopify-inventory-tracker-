@@ -44662,7 +44662,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-11770",
     "price": 5150.0,
-    "stock": 3,
+    "stock": 2,
     "url": "https://www.theamethyststore.com/products/vilasaa-stone-studs?variant=gid://shopify/ProductVariant/47817420669155",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11770.jpg?v=1768305239"
   },
@@ -81691,15 +81691,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/pakshi-short-necklace-set-20?variant=gid://shopify/ProductVariant/49615701115107",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16961.jpg?v=1787813653"
-  },
-  "gid://shopify/ProductVariant/49615716974819": {
-    "product_title": "Arvinkaa Pakshi Short Necklace Set",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-16966",
-    "price": 23000.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/pakshi-short-necklace-set-21?variant=gid://shopify/ProductVariant/49615716974819",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16966.jpg?v=1787813940"
   },
   "gid://shopify/ProductVariant/49615726969059": {
     "product_title": "Minthikaa Pakshi Short Necklace Set",
@@ -153889,6 +153880,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/pakshi-short-necklace-set-17?variant=gid://shopify/ProductVariant/49615629254883",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16952.jpg?v=1787813166"
+  },
+  "gid://shopify/ProductVariant/49615716974819": {
+    "product_title": "Arvinkaa Pakshi Short Necklace Set",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16966",
+    "price": 23000.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/pakshi-short-necklace-set-21?variant=gid://shopify/ProductVariant/49615716974819",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16966.jpg?v=1787813940"
   },
   "gid://shopify/ProductVariant/49615772057827": {
     "product_title": "Ishakaa Pakshi Short Necklace Set",
