@@ -100295,15 +100295,6 @@
     "url": "https://www.theamethyststore.com/products/petal-pink-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/67879166214371",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-19351.jpg?v=1793443367"
   },
-  "gid://shopify/ProductVariant/67879168016611": {
-    "product_title": "Dazzling Jada Billa",
-    "variant_title": "SURAJ",
-    "sku": "AMS-112-1010-SURAJ",
-    "price": 4756.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/jadabilla?variant=gid://shopify/ProductVariant/67879168016611",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-1010-SURAJ.jpg?v=1793443505"
-  },
   "gid://shopify/ProductVariant/67879168049379": {
     "product_title": "Dazzling Jada Billa",
     "variant_title": "CHAAND",
@@ -100339,24 +100330,6 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/yalisha-nagas-long-necklace-1?variant=gid://shopify/ProductVariant/67879196786915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18894.jpg?v=1793444052"
-  },
-  "gid://shopify/ProductVariant/67879215792355": {
-    "product_title": "Vibrant Kundan Jadabilla",
-    "variant_title": "Suriyan",
-    "sku": "AMS-112-1012-SURAJ",
-    "price": 6887.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/vibrant?variant=gid://shopify/ProductVariant/67879215792355",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-1012-SURAJ.jpg?v=1793444419"
-  },
-  "gid://shopify/ProductVariant/67879215825123": {
-    "product_title": "Vibrant Kundan Jadabilla",
-    "variant_title": "Chandran",
-    "sku": "AMS-112-1012-CHAAND",
-    "price": 6429.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/vibrant?variant=gid://shopify/ProductVariant/67879215825123",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-1012-SURAJ.jpg?v=1793444419"
   },
   "gid://shopify/ProductVariant/67879224574179": {
     "product_title": "Spectrum Splendour Victorian Short Necklace Set",
@@ -111310,6 +111283,33 @@
     "stock": 3,
     "url": "https://www.theamethyststore.com/products/attractive-lakshmi-nagas-pendant?variant=gid://shopify/ProductVariant/68978402459875",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-6184.jpg?v=1795850292"
+  },
+  "gid://shopify/ProductVariant/68978454233315": {
+    "product_title": "Rosaceous Diamond Design Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-6162",
+    "price": 10300.0,
+    "stock": 2,
+    "url": "https://www.theamethyststore.com/products/rosaceous-diamond-design-pendant?variant=gid://shopify/ProductVariant/68978454233315",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-6162.jpg?v=1795851025"
+  },
+  "gid://shopify/ProductVariant/68978461802723": {
+    "product_title": "Pretty Wear Mangalsutra Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2507",
+    "price": 10964.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/pretty-wear-mangalsutra-chain?variant=gid://shopify/ProductVariant/68978461802723",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2507_2.jpg?v=1795851075"
+  },
+  "gid://shopify/ProductVariant/68978489917667": {
+    "product_title": "Divine Ramar Sita Pendant with  Mangalsutra Chain",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-2509",
+    "price": 10301.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/divine-ramra-sita-pendant-with-mangalsutra-chain?variant=gid://shopify/ProductVariant/68978489917667",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-2509_2.jpg?v=1795851480"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
@@ -159946,6 +159946,33 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/traditional-nagas-choker-4?variant=gid://shopify/ProductVariant/67878946177251",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-18875_a3b3edd9-d6cf-4fc8-8ab3-5bf7f301ddaf.jpg?v=1793440431"
+  },
+  "gid://shopify/ProductVariant/67879168016611": {
+    "product_title": "Dazzling Jada Billa",
+    "variant_title": "SURAJ",
+    "sku": "AMS-112-1010-SURAJ",
+    "price": 4756.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/jadabilla?variant=gid://shopify/ProductVariant/67879168016611",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-1010-SURAJ.jpg?v=1793443505"
+  },
+  "gid://shopify/ProductVariant/67879215792355": {
+    "product_title": "Vibrant Kundan Jadabilla",
+    "variant_title": "Suriyan",
+    "sku": "AMS-112-1012-SURAJ",
+    "price": 6887.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vibrant?variant=gid://shopify/ProductVariant/67879215792355",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-1012-SURAJ.jpg?v=1793444419"
+  },
+  "gid://shopify/ProductVariant/67879215825123": {
+    "product_title": "Vibrant Kundan Jadabilla",
+    "variant_title": "Chandran",
+    "sku": "AMS-112-1012-CHAAND",
+    "price": 6429.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/vibrant?variant=gid://shopify/ProductVariant/67879215825123",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-1012-SURAJ.jpg?v=1793444419"
   },
   "gid://shopify/ProductVariant/67879218315491": {
     "product_title": "Trendy Nagas Long Necklace",
