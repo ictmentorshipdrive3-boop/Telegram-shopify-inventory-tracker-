@@ -5498,15 +5498,6 @@
     "url": "https://www.theamethyststore.com/products/mahira-nagas-short-necklace?variant=gid://shopify/ProductVariant/44083310690531",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5130.jpg?v=1698306673"
   },
-  "gid://shopify/ProductVariant/44101599854819": {
-    "product_title": "Shyra Stiff Kundan Oddiyanam",
-    "variant_title": "Default Title",
-    "sku": "AMS-110-0353",
-    "price": 178834.0,
-    "stock": 1,
-    "url": "https://www.theamethyststore.com/products/shyra-stiff-kundan-oddiyanam?variant=gid://shopify/ProductVariant/44101599854819",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0353_02b41166-5dfc-4e58-8374-ef5840e909ca.jpg?v=1728125211"
-  },
   "gid://shopify/ProductVariant/44103123632355": {
     "product_title": "Srikaya Pair Bangles",
     "variant_title": "2.6\"",
@@ -78411,7 +78402,7 @@
     "product_title": "Grandeur Kundan Ear Cuff Jhumkas",
     "variant_title": "Default Title",
     "sku": "AMS-106-15729",
-    "price": 57982.0,
+    "price": 57683.0,
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/grandeur-kundan-jhumkas-6?variant=gid://shopify/ProductVariant/49552417620195",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15729.jpg?v=1787027978"
@@ -111446,6 +111437,15 @@
     "url": "https://www.theamethyststore.com/products/celestial-splendour-nagas-drops?variant=gid://shopify/ProductVariant/68980432765155",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-17339.jpg?v=1795867825"
   },
+  "gid://shopify/ProductVariant/68980450492643": {
+    "product_title": "Mystic Elegance Nagas Drops",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-17337",
+    "price": 6158.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/mystic-elegance-nagas-drops?variant=gid://shopify/ProductVariant/68980450492643",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-17337.jpg?v=1795868228"
+  },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
     "variant_title": "Default Title",
@@ -113542,6 +113542,15 @@
     "stock": 0,
     "url": "https://www.theamethyststore.com/products/padhmini-deep-nagas-necklace?variant=gid://shopify/ProductVariant/44083297747171",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5128.jpg?v=1698306440"
+  },
+  "gid://shopify/ProductVariant/44101599854819": {
+    "product_title": "Shyra Stiff Kundan Oddiyanam",
+    "variant_title": "Default Title",
+    "sku": "AMS-110-0353",
+    "price": 178834.0,
+    "stock": 0,
+    "url": "https://www.theamethyststore.com/products/shyra-stiff-kundan-oddiyanam?variant=gid://shopify/ProductVariant/44101599854819",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0353_02b41166-5dfc-4e58-8374-ef5840e909ca.jpg?v=1728125211"
   },
   "gid://shopify/ProductVariant/49678902165731": {
     "product_title": "Iniyani Stone Pair Bangles",
