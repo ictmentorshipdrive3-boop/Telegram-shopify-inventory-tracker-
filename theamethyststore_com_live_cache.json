@@ -10291,7 +10291,7 @@
     "variant_title": "2.4\"",
     "sku": "AMS-107-1398-2.4\"",
     "price": 25609.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/jivitha-kundan-pair-bangle?variant=gid://shopify/ProductVariant/49678903312611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1398.jpg?v=1726312260"
   },
@@ -10327,7 +10327,7 @@
     "variant_title": "2.4\"",
     "sku": "AMS-107-1396-2.4\"",
     "price": 23954.0,
-    "stock": 4,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/vikshi-kundan-pair-bangle?variant=gid://shopify/ProductVariant/49681948606691",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1396_5146fa64-859b-49e3-bbfd-deda28e5015a.jpg?v=1788888056"
   },
@@ -47461,7 +47461,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-106-12636",
     "price": 7406.0,
-    "stock": 7,
+    "stock": 6,
     "url": "https://www.theamethyststore.com/products/yashikha-bugadi-earrings?variant=gid://shopify/ProductVariant/47920493166819",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12636.jpg?v=1770207567"
   },
@@ -56569,7 +56569,7 @@
     "variant_title": "Default Title",
     "sku": "AMS-105-1879",
     "price": 27000.0,
-    "stock": 2,
+    "stock": 1,
     "url": "https://www.theamethyststore.com/products/dipthin-chain-with-earrings?variant=gid://shopify/ProductVariant/48903428112611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1879.jpg?v=1777808714"
   },
@@ -72732,8 +72732,8 @@
     "product_title": "Vithisa Avikam Pendant Set",
     "variant_title": "Default Title",
     "sku": "AMS-104-4786",
-    "price": 17700.0,
-    "stock": 2,
+    "price": 17900.0,
+    "stock": 3,
     "url": "https://www.theamethyststore.com/products/avikam-pendant-set-18?variant=gid://shopify/ProductVariant/49497112805603",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4786_eb976ab9-46c7-4ab7-8ada-633f81e47846.jpg?v=1793621124"
   },
@@ -111265,6 +111265,33 @@
     "stock": 1,
     "url": "https://www.theamethyststore.com/products/meenakshi-nagas-pendant?variant=gid://shopify/ProductVariant/68978334269667",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-6170.jpg?v=1795849094"
+  },
+  "gid://shopify/ProductVariant/68978349703395": {
+    "product_title": "Whimsical Bloom Diamond Design Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-6145",
+    "price": 6500.0,
+    "stock": 5,
+    "url": "https://www.theamethyststore.com/products/whimsical-bloom-diamond-design-pendant?variant=gid://shopify/ProductVariant/68978349703395",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-6145.jpg?v=1795849322"
+  },
+  "gid://shopify/ProductVariant/68978366808291": {
+    "product_title": "Kaasu Lakshmi  Nagas Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-6182",
+    "price": 10123.0,
+    "stock": 1,
+    "url": "https://www.theamethyststore.com/products/kaasu-lakshmi-nagas-pendant?variant=gid://shopify/ProductVariant/68978366808291",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-6182.jpg?v=1795849562"
+  },
+  "gid://shopify/ProductVariant/68978368741603": {
+    "product_title": "Intricate Wonders Avikam Pendant",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-6146",
+    "price": 11800.0,
+    "stock": 5,
+    "url": "https://www.theamethyststore.com/products/intricate-wonders-avikam-pendant?variant=gid://shopify/ProductVariant/68978368741603",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-6146.jpg?v=1795849688"
   },
   "gid://shopify/ProductVariant/37371588804758": {
     "product_title": "Pavo Pendant",
